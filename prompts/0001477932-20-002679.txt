@@ -1,0 +1,154 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+ 
+As used in this Annual Report on Form 10-K, the terms “we”, “us”, “our”, “the Company”, “ME2C”, and “Midwest Energy Emissions Corp.” refer to Midwest Energy Emissions Corp. and our wholly owned subsidiaries.
+ 
+Background
+ 
+Midwest Energy Emissions Corp., a Delaware corporation, is an environmental services and technology company specializing in mercury emission control technologies, primarily to utility and industrial coal-fired units. We deliver patented and proprietary solutions to the global coal-power industry to remove mercury from power plant emissions, providing performance guarantees, and leading-edge emissions services. We have developed patented technology and proprietary products that have been shown to achieve mercury removal at a significantly lower cost and with less operational impact than currently used methods, while maintaining and/or increasing unit output and preserving the marketability of fly-ash for beneficial use.
+ 
+Our principal place of business is located at 1810 Jester Drive, Corsicana, Texas 75109, which location we have maintained for manufacturing and distribution of our products since 2015. As of December 2019, we relocated our corporate headquarters to such address which corporate headquarters prior thereto were maintained at 670 D Enterprise Drive, Lewis Center, Ohio 43035. Our telephone number is (614) 505-6115. Our corporate website address is http://www.midwestemissions.com. Our common stock is quoted on the OTCQB under the symbol “MEEC”.
+ 
+We originally incorporated under the name Digicorp on July 19, 1983 in the State of Utah. We subsequently domesticated as a Delaware corporation in February 2007; changed our name to China Youth Media, Inc. in October 2008; and changed our name to Midwest Energy Emissions Corp. in October 2011. 
+ 
+Our wholly owned subsidiary, MES, Inc., was originally incorporated under the name RLP Energy, Inc. in December 2008 in the State of North Dakota; changed its name to Grunergy Technologies USA Inc. in December 2010; and changed its name to Midwest Energy Emissions Corp. (“Midwest”) in January 2011. Midwest was engaged in the business of developing and commercializing state-of-the-art control technologies relating to the capture and control of mercury emissions from coal-fired boilers in the United States and Canada.
+ 
+
+4
+
+
+
+On June 21, 2011, we completed a merger transaction (the “Merger”) whereby Midwest became our wholly owned subsidiary and changed its name to MES, Inc. For accounting purposes, the Merger was treated as a reverse merger and a recapitalization of the Company.
+ 
+As a result of the Merger, our business is now focused on the delivery of mercury capture technologies to power plants in North America, Europe and Asia. Our prior business, which focused on youth marketing and media in China, terminated.
+ 
+Prior to relocating our corporate headquarters to Corsicana, Texas, we maintained our corporate headquarters in Lewis Center, Ohio from March 2015 to December 2019, and in Worthington, Ohio from November 2011 to March 2015. 
+ 
+We currently have 11 full-time employees. Our employees are not represented by labor unions. We believe that relations with our employees are good. 
+ 
+Regulations and Markets
+ 
+The markets for mercury removal from plant emissions are largely driven by regulations. Changes in regulations have profound effects on these markets and the companies that compete in these markets. This is especially true for smaller companies such as ME2C.
+ 
+On December 21, 2011 the EPA issued its Mercury and Air Toxics Standards (“MATS”) for power plants in the U.S. The MATS rule is intended to reduce air emissions of heavy metals, including mercury (Hg), from all major U.S. power plants burning coal or oil, which are the leading source of non-natural mercury emissions in the U.S. Existing power plants were granted three years (plus a potential one-year extension in cases of hardship, ruled on by State EPA’s where the plant is domiciled) from April 16, 2012, to comply with the new emission limits. The MATS rule applies to Electric Generating Units (“EGUs”) that are larger than 25 megawatts (“MW”) that burn coal or oil for the purpose of generating electricity for sale and distribution through the national electric grid to the public. They include investor-owned units, as well as units owned by the Federal government, municipalities, and cooperatives that provide electricity for commercial, industrial, and residential uses. At the time of MATS being promulgated, there were approximately 1,250 coal-fired EGU’s affected by this new rule. Since this time, many of such EGU’s have been shut down as a result of this regulation and due to competitive disadvantage to newer or gas-fired EGUs and renewable energy sources (e.g. wind, solar). We believe that at the end of 2019, there are approximately 350 coal-fired EGU’s remaining in the power market which make up the large mercury-emissions control market into which we sell. 
+ 
+The final MATS rule identifies two subcategories of coal-fired EGUs, four subcategories of oil-fired EGUs and a subcategory for units that combust gasified coal or solid oil (integrated gasification combine cycle [IGCC] units) based on the design, utilization, and/or location of the various types of boilers at different power stations. The rule includes emission standards and/or other requirements for each subcategory. The rule set nationwide emission limits estimated to reduce mercury emissions in coal-fired plants by about 90%.
+ 
+In addition to the U.S. federal MATS rule, more than 20 states currently have regulations which limit mercury emissions which regulations are similar to or more restrictive than the MATS rule. 
+ 
+There are several choices of pollution control technologies available to reduce mercury emissions, but they do not all work consistently or cost-effectively for every plant design or for all of the various types of coal. The most common technology employed to reduce mercury emissions is a sorbent injection system which provides for the injection of powdered activated carbon (“PAC”) or brominated PAC (“BAC”) into the flue-gas of an EGU after the boiler itself but in front of the Electro-Static Precipitators (“ESP”). Such injections have proven effective with many coals, especially at reduction levels of 70% or less. At required mercury reduction levels above 80%, these injection systems require substantial injection rates which often have severe operational issues including over-loading the ESP and rendering the fly ash unfit for sale to concrete companies, and at times even causing combustion concerns with the fly ash itself.
+ 
+Mercury is also removed as a co-benefit by special pollution control equipment installed to remove oxides of sulfur (“SOX”) and nitrogen (“NOX”). To achieve very high levels of SOX reduction, large, complex and expensive (capital costs in the hundreds of millions of dollars for a medium-sized EGU) systems called Scrubbers can be installed in the plant exhaust system, typically just before the flue-gas goes up the stack for release. As a co-benefit to their primary mission, Scrubbers have been shown to remove significant quantities of oxidized mercury. Mercury is typically found in two basic forms in coal: elemental and oxidized. The amount of each form varies in any given seam of coal and is affected by the other natural elements (such as chlorine) which might also be present in the coal. We believe about 30-40% of the mercury in the post-combustion flue-gas exists in the oxidized state for power plants burning low-rank coal and about 60-70% for power plants burning high-rank coals. Mercury is found in only trace amounts in coal making it difficult to remove from coal, or from the flue gas when combusted with the coal. It is in the burning of millions of tons of coal that these trace amounts become problematic, and why MATS was promulgated.
+ 
+
+5
+
+
+
+The other major pollution control system which contributes significantly to the co-benefits of mercury removal is a Selective Catalytic Reduction (“SCR”) system which can be installed to achieve high levels of removal of NOX. SCRs are also very large and expensive systems (costing hundreds of millions of dollars in capital costs to install on a medium-size EGU) that are typically installed just after the flue-gas exits from the unit boiler. As a co-benefit, SCRs have been shown to oxidize a considerable percentage of the elemental mercury in many types of coal. If the EGU then has a combination of an SCR and a Scrubber, we estimate that the EGU might achieve an overall reduction of 80-85% of the mercury in power plants that burn high-rank coals. The exact level of mercury emission reductions depends on the designs of these systems, the types of coal being burned and the operations of the power plant.
+ 
+We believe that the large majority of the coal-fired EGUs in the U.S. employ some sort of sorbent injection system to achieve the very low mercury emission levels required by the MATS rule. Either the sorbent injection system is the primary removal method or such a system is employed as a supplemental system to SCR/Scrubber combinations to achieve the emission limits.
+ 
+See “North American Markets for Our Technology” below for information on mercury control standards in Canada and “Other Markets for Our Technology” below for information on mercury control in Europe and Asia. 
+ 
+ME2C’s Technology
+ 
+Background and Acquisition of Patent Rights
+ 
+We provide customer-focused mercury capture solutions driven by our patented two-part Sorbent Enhancement Additive (SEA®) process using a powerful combination of science and engineering. We design systems and materials tailored and formulated specifically to each customer’s coal-fired units. Our mercury removal technology and systems will achieve mercury removal levels which meet or exceed the MATS requirements and to do so with lower cost and plant systems impacts than typical PAC or BAC sorbent injection systems. Our products have been shown to be successful across a myriad of fuel and system types, tunable to any configuration, and environmentally friendly, allowing for the recycling of fly ash for beneficial use. Our SEA technology was originally developed by the University of North Dakota’s Energy and Environmental Research Center (“EERC”). It was tested and refined on numerous operating coal-fired EGUs, with the founder of MES, Inc. participating with the EERC on these tests since 2008. The Energy and Environmental Research Center Foundation, a non-profit entity (“EERCF”), obtained patents on this technology. 
+ 
+On January 15, 2009, we entered into an “Exclusive Patent and Know-How License Agreement Including Transfer of Ownership” (the “License Agreement”) with the EERCF. Under the terms of the License Agreement, we were granted an exclusive license by EERCF with respect to this patented technology to develop, make, have made, use, sell, offer to sell, lease, and import the technology in any coal-fired combustion systems (power plant) worldwide and to develop and perform the technology in any coal-fired power plant in the world. Amendments No. 4 and No. 5 to the License Agreement were made effective as of December 16, 2013 and August 14, 2014, respectively, expanding the number of patents covered, eliminated certain contract provisions and compliance issues and restructured the fee payments and buyout provisions while granting EERCF equity in the Company. The License Agreement applied to various domestic and foreign patents and patent applications which formed the basis of our mercury control technology. 
+ 
+Under the terms of the License Agreement, we were required to pay EERCF monthly license maintenance fees and annual running royalties on operational systems of the Company, and we had the right to purchase the patent rights for a payment specified therein. 
+ 
+On April 24, 2017, we closed on the acquisition from EERCF of all such patent rights, including all patents and patents pending, domestic and foreign, relating to the foregoing technology. A total of 42 domestic and foreign patents and patent applications were included in the acquisition. In accordance with the terms of the License Agreement, the patent rights were acquired for the purchase price of (i) $2,500,000 in cash, and (ii) 925,000 shares of common stock of which 628,998 shares were issued to EERCF and 296,002 were issued to the inventors who had been designated by EERCF. As a result of the acquisition of the patent rights, no additional monthly license maintenance fees and annual running royalties shall be due and owing to the EERCF following closing which fees and royalties have now been eliminated.
+ 
+
+6
+
+
+
+SEA® Technology
+ 
+Our SEA® technology provides total mercury control, providing solutions that are based on a thorough scientific understanding of actual and probable interactions involved in mercury capture in coal-fired flue gas. A complete understanding of the complexity of mercury–sorbent–flue gas interactions and chemisorption mechanisms allows for optimal control strategy and product formulation, resulting in effective mercury capture. Combined with a thorough proprietary audit of the plant and its configuration and instrumentation, we believe our complete science and engineering approach for mercury–sorbent–flue gas interactions is well-understood, highly predictive, and critical to delivering total mercury control.
+ 
+The SEA® approach to mercury capture is specifically tailored for each application to match a customer’s fuel type and boiler configuration for optimal results. Our two-pronged solution consists of a front end sorbent injected directly into the boiler in minimal amounts combined with a back end sorbent injection solution to insure maximum mercury capture. We believe our two-part process uses fewer raw materials than other mercury capture systems and causes less disruption to plant operations. We believe our sorbent line, which are designed to meet or exceed the mercury mitigation requirements of our customers, offers superior performance and the lowest possible feed rates when compared to other solutions on the market. Our processes also preserve fly ash which can be sold and recycled for beneficial use. 
+ 
+Scrubber Reemissions Additive Technology
+ 
+We have also added a scrubber reemission additive to our product offering for use in wet flue gas desulfurization systems which reduces mercury reemissions from wet flue gas desulfurization systems by preventing scrubber reemission events. Our scrubber reemissions additive technology provides another mercury control solution in addition to our SEA technology for plants that are equipped with wet scrubbers. Depending on the level of mercury oxidation (discussed above), we can use one of our mercury oxidation additives to increase the amount of mercury oxidation in the flue gas and thereby increase the amount of mercury that is removed in the wet scrubber, often resulting in the plant achieving MATS compliance. Should the power plant encounter mercury reemission or desire a lower mercury emissions, we can provide a scrubber reemissions additive that is introduced into the scrubber to prevent mercury remissions resulting in lower mercury emissions from the plant. 
+Customized Emissions Services
+ 
+In order to evaluate each customer’s needs, we finely tune the combustion chemistry using our technologies and specially formulated ME2C products. In order to achieve optimal results, we bring mercury emission analytics to the field for our demonstrations as opposed to collecting samples for laboratory analysis, while our team analyzes the entire plant’s performance once compliance testing has begun. As a result, we are able to offer customers:
+ 
+Assessment of existing systems and suggested improvements;
+ 
+Assessment and guidance of mercury capture and emissions;
+ 
+Optimal design of the injection strategy and appropriate equipment layout and installation;
+ 
+Sorbent optimization using flow modeling for a customized, low-cost plan for each unit;
+ 
+Emission testing for mercury and other trace metals with our mobile laboratory; and
+ 
+Ongoing research toward improved technology for mercury capture and rapid-response scientific support for emission or combustion issues as operations and regulations change.
+ 
+Intellectual Property
+ 
+We have a patent portfolio consisting of 50 patents throughout the U.S., Canada, Europe and China and 18 patents pending. We believe that our patent position is strong in the U.S., Canada, and Europe. 
+
+7
+
+North American Markets for Our Technologies
+ 
+North America is currently the largest market for our technologies. 
+ 
+In the U.S. market, our success depends, in part, on the success of demonstrations performed with utility customers and the resulting contract awards to meet the MATS requirements in the long-term period and our operational performance with EGUs under contract. 
+ 
+In Canada, there is a Canada-Wide Standard among all the provinces which was initially implemented in 2010, and which provides for increasingly stricter emissions control through 2020, although individual provinces may move faster to more stringent levels. We believe we have the most effective technology for the EGUs in Canada and a strong patent position there.
+ 
+In 2010, we were awarded our first commercial contract to design, build and install our solution on two large (670MW each) coal units in the western part of the U.S. This was a multi-million dollar, three year renewable contract, which was awarded as a result of a competitive demonstration process. We invested more than $1.4 million in the capital equipment for this project. Our systems out-performed the contract guarantees in all operational areas during startup and testing and went into commercial operation at the start of 2012. The system has successfully kept the plant in compliance since 2012.
+ 
+At the present time, there are 15 EGUs in the U.S. which currently use our technologies. In Canada, we have 3 EGUs which currently use our technologies, with 2 more expected in the near term. We expect to continue to conduct numerous demonstrations on prospective customer units throughout 2020 and thereafter. 
+ 
+Other Markets for Our Technology
+ 
+In March 2018, we entered into an agreement for a term of ten years with one of the Company’s primary suppliers to commercialize our technology throughout Europe. Under the terms of the agreement, we have granted such supplier an exclusive, non-transferable license to make, use, sell and market the Company’s technology during the term throughout Europe (which includes Germany and Poland which currently have the largest coal fleets in Europe). We believe such arrangement will make our technology more saleable throughout Europe and which will benefit the Company from such supplier’s knowledge and operations in this region. We have agreed to provide certain technical support throughout the term and shall continue to have the right to market and seek customers for our technology throughout Europe provided any opportunities are turned over to the supplier. Although we do not expect to generate significant revenues from such agreement for several years, we believe it positions us to make inroads in the European market sooner than we could achieve otherwise as Europe appears to be moving ahead with mercury emissions controls. The European market is significant although not as large as the market in the U.S. We believe more coal-fired EGUs operate throughout Europe than in the U.S. but are generally smaller EGUs.
+ 
+In May 2017, the European Union and seven of its member states ratified the Minamata Convention on Mercury, which triggered its entry into force with implementation starting in 2021. The Minamata Convention on Mercury is a global treaty to protect human health and the environment from the adverse effects of mercury. This Convention was a result of three years of meeting and negotiating, after which the text of the Convention was approved by delegates representing approximately 140 countries in January 2013 in Geneva and adopted and signed later that year in October 2013 by approximately 125 countries at a diplomatic conference held in Japan. It is expected that over the next few decades, this international agreement will enhance the reduction of mercury pollution from the targeted activities responsible for the major release of mercury to the environment.
+ 
+In addition, in July 2017, the European Union, through the European Commission, adopted certain BREF standards for large coal-fired electric generating units. The BREFs are a series of reference documents covering certain industrial activities and provide descriptions of a range of industrial processes and their respective operating conditions and emission rates. Member states are required to take these documents into account when determining best available techniques. As a result of the EU’s adoption of these BREF conclusions, specific emissions limits are currently being developed.
+ 
+With regard to business opportunities in China and other Asian countries, there currently exists no specific mandate for mercury capture that requires specific control technology, such as we offer. Nevertheless, we are optimistic of the prospects for mercury emissions regulations in China in the coming years, and because we have very broad patent rights in China, this has the potential to become a large business opportunity for us in future years. It is estimated that China represents 47% of the world’s coal power usage compared to the United States which represents 14%*. We are hopeful that as a result of the Minamata Convention, China as well as other countries will follow the U.S. in regulating mercury emissions. 
+ 
+*Source: Carbon Brief, “Mapped: The World’s Coal Power Plants”, Simon Evans and Rosamund Pearce. May 6, 2018.
+ 
+
+8
+
+Additional Business Opportunities
+ 
+Our acquisition of all the patent rights, including all patents and patents pending, domestic and foreign, which forms the basis of our mercury control technology, which acquisition was completed on April 24, 2017 (see “ME2C’s Technology” above) positions us to license systems using a two-part mercury control process. In this regard, we anticipate being able, and have begun efforts, to license our technologies to utilities and others across North America and elsewhere. 
+ 
+In October 2019, we entered into a license and development agreement with an unaffiliated entity located in Alabama pursuant to which the parties will work together to develop a plan to commercialize and market certain technology owned by such unaffiliated entity related to the removal of mercury from air and water emissions generated by coal burning power plants. Although no assurance can be given, we are optimistic that this arrangement will lead to a new revenue stream for us in the future. 
+ 
+Raw Materials
+ 
+We buy all the raw materials needed to implement our technologies and provide uniquely formulated products for effective mercury removal. Material components of our proprietary SEA® technology are readily available from numerous sources in the market. Suppliers of our raw materials include large companies that have provided materials for decades and have an international presence. When we use PAC as one component of our sorbent material, we buy it in the market from large activated carbon manufacturers. We believe that we have excellent relationships with our current suppliers. If any of our suppliers should become unavailable to us for any reason, there are a number of other suppliers that we believe can be contracted with expeditiously to supply the raw materials that we need, ensuring a continued supply of our products to our customers.
+Competition
+ 
+Our major competitors in the U.S. and Canada include companies such as Advanced Emissions Solutions, Inc., Albemarle Corporation, Cabot Corporation, Calgon Carbon Corporation, Carbonxt, Inc., Environmental Energy Services Inc. and Nalco Company. These companies employ large sales staff and are well positioned in the market. However, in head-to–head tests with competitor products our SEA® technology has consistently performed better in mercury removal, at lower projected costs. We believe that our SEA® technology is superior to offerings of our competitors and, with our highly experienced staff, we have shown that we can compete effectively in these markets.
+ 
+Seasonality
+ 
+The power market has changed over recent years with the introduction of more renewable energy, the low price of natural gas and the declining industrial demand for continuous power resulting in a greater proportional residential load demand. With this shift in demand and load, we have experienced some seasonal declines in the winter months due to our current customer concentration in the Southwestern United States, where many of our customers decrease capacity in such winter months. 
+Backlog
+ 
+We do not consider backlog to be a significant indicator of the level of future sales activity. In general, we do not manufacture our products against a backlog of orders. Production and inventory levels are based on the level of incoming orders as well as projections of future demand. Therefore, we believe that backlog information is not material to understanding our overall business and is not a reliable indicator of our ability to achieve any particular level of revenue or financial performance.
+Available Information
+ 
+We file with or submit to the SEC annual, quarterly and current periodic reports, proxy statements and other information meeting the informational requirements of the Exchange Act. The SEC maintains an Internet website that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SECat www.sec.gov. Our SEC filings are also available on our website at www.midwestemissions.com. Information on or connected to our website is neither part of, nor incorporated by reference into, this Form 10-K or any other report filed with or furnished to the SEC. 
+
+9
+

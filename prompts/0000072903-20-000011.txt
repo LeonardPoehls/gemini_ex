@@ -1,0 +1,728 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1 — BUSINESS
+
+Definitions of Abbreviations
+
+Xcel Energy Inc.’s Subsidiaries and Affiliates (current and former)
+Capital Services | Capital Services, LLC 
+Eloigne | Eloigne Company 
+e prime | e prime inc. 
+NSP-Minnesota | Northern States Power Company, a Minnesota corporation 
+NSP System | The electric production and transmission system of NSP-Minnesota and NSP-Wisconsin operated on an integrated basis and managed by NSP-Minnesota
+NSP-Wisconsin | Northern States Power Company, a Wisconsin corporation 
+Operating companies | NSP-Minnesota, NSP-Wisconsin, PSCo and SPS 
+PSCo | Public Service Company of Colorado 
+SPS | Southwestern Public Service Co. 
+Utility subsidiaries | NSP-Minnesota, NSP-Wisconsin, PSCo and SPS 
+WGI | WestGas InterState, Inc. 
+WYCO | WYCO Development, LLC 
+Xcel Energy | Xcel Energy Inc. and its subsidiaries 
+
+
+Federal and State Regulatory Agencies
+CPUC | Colorado Public Utilities Commission 
+D.C. Circuit | United States Court of Appeals for the District of Columbia Circuit
+DOC | Minnesota Department of Commerce 
+DOE | United States Department of Energy 
+DOT | United States Department of Transportation 
+EPA | United States Environmental Protection Agency 
+FERC | Federal Energy Regulatory Commission 
+Fifth Circuit | United States Court of Appeals for the Fifth Circuit 
+IRS | Internal Revenue Service 
+Minnesota District Court | U.S. District Court for the District of Minnesota 
+MPSC | Michigan Public Service Commission 
+MPUC | Minnesota Public Utilities Commission 
+NDPSC | North Dakota Public Service Commission 
+NERC | North American Electric Reliability Corporation 
+NMPRC | New Mexico Public Regulation Commission 
+NRC | Nuclear Regulatory Commission 
+OAG | Minnesota Office of the Attorney General 
+PHMSA | Pipeline and Hazardous Materials Safety Administration 
+PSCW | Public Service Commission of Wisconsin 
+PUCT | Public Utility Commission of Texas 
+SDPUC | South Dakota Public Utilities Commission 
+SEC | Securities and Exchange Commission 
+TCEQ | Texas Commission on Environmental Quality 
+
+
+Electric, Purchased Gas and Resource Adjustment Clauses
+CIP | Conservation improvement program 
+DCRF | Distribution cost recovery factor 
+DSM | Demand side management 
+DSMCA | Demand side management cost adjustment 
+ECA | Retail electric commodity adjustment 
+EECRF | Energy efficiency cost recovery factor 
+FCA | Fuel clause adjustment 
+FPPCAC | Fuel and purchased power cost adjustment clause
+GCA | Gas cost adjustment 
+GUIC | Gas utility infrastructure cost rider 
+
+
+PCCA | Purchased capacity cost adjustment 
+PCRF | Power cost recovery factor 
+PGA | Purchased gas adjustment 
+PSIA | Pipeline system integrity adjustment 
+RDF | Renewable development fund 
+RER | Renewable energy rider 
+RES | Renewable energy standard 
+RESA | Renewable energy standard adjustment 
+SCA | Steam cost adjustment 
+SEP | State energy policy rider 
+TCA | Transmission cost adjustment 
+TCR | Transmission cost recovery adjustment
+TCRF | Transmission cost recovery factor 
+
+
+Other 
+ADIT | Accumulated deferred income taxes 
+AFUDC | Allowance for funds used during construction 
+ARO | Asset retirement obligation 
+ASC | FASB Accounting Standards Codification 
+ASU | FASB Accounting Standards Update 
+BART | Best available retrofit technology 
+Boulder | City of Boulder, CO 
+C&I | Commercial and Industrial 
+CACJA | Clean Air Clean Jobs Act 
+CAISO | California Independent System Operator 
+CapX2020 | Alliance of electric cooperatives, municipals and investor-owned utilities in the upper Midwest involved in a joint transmission line planning and construction effort
+CBA | Collective-bargaining agreement 
+CCR | Coal combustion residuals 
+CCR Rule | Final rule (40 CFR 257.50 - 257.107) published by the EPA regulating the management, storage and disposal of CCRs as a nonhazardous waste 
+CDD | Cooling degree-days 
+CEO | Chief executive officer 
+CFO | Chief financial officer 
+CEP | Colorado Energy Plan 
+CIG | Colorado Interstate Gas Company, LLC 
+CPCN | Certificate of public convenience and necessity 
+CWA | Clean Water Act 
+CWIP | Construction work in progress 
+DECON | Decommissioning method where radioactive contamination is removed and safely disposed of at a requisite facility or decontaminated to a permitted level. 
+DRC | Development Recovery Company 
+DRIP | Dividend Reinvestment Program 
+EEI | Edison Electric Institute 
+ELG | Effluent limitations guidelines 
+EMANI | European Mutual Association for Nuclear Insurance 
+EPS | Earnings per share 
+EPU | Extended power uprate 
+ETR | Effective tax rate 
+FASB | Financial Accounting Standards Board 
+FTR | Financial transmission right 
+GAAP | Generally accepted accounting principles 
+GE | General Electric 
+GHG | Greenhouse gas 
+
+
+HDD | Heating degree-days 
+IM | Integrated market 
+IPP | Independent power producing entity 
+IRP | Integrated Resource Plan 
+ITC | Investment Tax Credit 
+JOA | Joint operating agreement 
+LSP Transmission | LSP Transmission Holdings, LLC 
+MDL | Multi-district litigation 
+MEC | Mankato Energy Center 
+MGP | Manufactured gas plant 
+MISO | Midcontinent Independent System Operator, Inc. 
+Moody’s | Moody’s Investor Services 
+NAAQS | National Ambient Air Quality Standard 
+Native load | Demand of retail and wholesale customers that a utility has an obligation to serve under statute or contract
+NAV | Net asset value 
+NEIL | Nuclear Electric Insurance Ltd. 
+NOI | Notice of Inquiry 
+NOL | Net operating loss 
+O&M | Operating and maintenance 
+OATT | Open Access Transmission Tariff 
+PI | Prairie Island nuclear generating plant 
+Post-65 | Post-Medicare 
+PPA | Purchased power agreement 
+Pre-65 | Pre-Medicare 
+PTC | Production tax credit 
+REC | Renewable energy credit 
+ROE | Return on equity 
+ROFR | Right-of-first-refusal 
+ROU | Right-of-use 
+RPS | Renewable portfolio standards 
+RTO | Regional Transmission Organization 
+Standard & Poor’s | Standard & Poor’s Ratings Services 
+SERP | Supplemental executive retirement plan 
+SMMPA | Southern Minnesota Municipal Power Agency 
+SO2 | Sulfur dioxide 
+SPP | Southwest Power Pool, Inc. 
+TCEH | Texas Competitive Energy Holdings 
+TCJA | 2017 federal tax reform enacted as Public Law No: 115-97, commonly referred to as the Tax Cuts and Jobs Act 
+THI | Temperature-humidity index 
+TOs | Transmission owners 
+TransCo | Transmission-only subsidiary 
+TSR | Total shareholder return 
+VaR | Value at Risk 
+VIE | Variable interest entity 
+WOTUS | Waters of the U.S. 
+
+
+Measurements
+Bcf | Billion cubic feet 
+KV | Kilovolts 
+KWh | Kilowatt hours 
+MMBtu | Million British thermal units
+MW | Megawatts 
+MWh | Megawatt hours 
+
+
+Forward-Looking Statements
+
+Except for the historical statements contained in this report, the matters discussed herein are forward-looking statements that are subject to certain risks, uncertainties and assumptions. Such forward-looking statements, including the 2020 EPS guidance, long-term EPS and dividend growth rate, as well as assumptions and other statements are intended to be identified in this document by the words “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “objective,” “outlook,” “plan,” “project,” “possible,” “potential,” “should,” “will,” “would” and similar expressions. Actual results may vary materially. Forward-looking statements speak only as of the date they are made, and we expressly disclaim any obligation to update any forward-looking information. 
+The following factors, in addition to those discussed elsewhere in this Annual Report on Form 10-K for the fiscal year ended Dec. 31, 2019 (including the items described under Factors Affecting Results of Operations; and the other risk factors listed from time to time by Xcel Energy Inc. in reports filed with the SEC, including “Risk Factors” in Item 1A of this Annual Report on Form 10-K hereto), could cause actual results to differ materially from management expectations as suggested by such forward-looking information: operational safety, including our nuclear generation facilities; successful long-term operational planning; commodity risks associated with energy markets and production; rising energy prices and fuel costs; qualified employee work force and third-party contractor factors; ability to recover costs, changes in regulation and subsidiaries’ ability to recover costs from customers; reductions in our credit ratings and the cost of maintaining certain contractual relationships; general economic conditions, including inflation rates, monetary fluctuations and their impact on capital expenditures and the ability of Xcel Energy Inc. and its subsidiaries to obtain financing on favorable terms; availability or cost of capital; our customers’ and counterparties’ ability to pay their debts to us; assumptions and costs relating to funding our employee benefit plans and health care benefits; our subsidiaries’ ability to make dividend payments; tax laws; effects of geopolitical events, including war and acts of terrorism; cyber security threats and data security breaches; seasonal weather patterns; changes in environmental laws and regulations; climate change and other weather; natural disaster and resource depletion, including compliance with any accompanying legislative and regulatory changes; and costs of potential regulatory penalties. 
+
+Where to Find More Information
+
+Xcel Energy’s website address is www.xcelenergy.com. Xcel Energy makes available, free of charge through its website, its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after the reports are electronically filed with or furnished to the SEC. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically at http://www.sec.gov.
+
+
+
+Overview
+
+
+Xcel Energy is a major U.S. regulated electric and natural gas delivery company headquartered in Minneapolis, Minnesota (incorporated in Minnesota in 1909). The Company serves customers in eight mid-western and western states, including portions of Colorado, Michigan, Minnesota, New Mexico, North Dakota, South Dakota, Texas and Wisconsin. Xcel Energy provides a comprehensive portfolio of energy-related products and services to approximately 3.7 million electric customers and 2.1 million natural gas customers through four utility subsidiaries (i.e., NSP-Minnesota, NSP-Wisconsin, PSCo and SPS). Along with the utility subsidiaries, the transmission-only subsidiaries, WYCO (a joint venture formed with CIG to develop and lease natural gas pipelines, storage and compression facilities) and WGI (an interstate natural gas pipeline company) comprise the regulated utility operations. The Company’s significant nonregulated subsidiaries are Eloigne, Capital Services and Nicollet Holdings. 
+
+Utility Subsidiaries’ Service Territory | 
+Electric customers | 3.7 million 
+Natural gas customers | 2.1 million 
+Total assets | $50.4 billion
+Electric generating capacity | 18,730 MW 
+Electric transmission lines (conductor miles) | 108,238 miles
+Electric distribution lines (conductor miles) | 207,524 miles
+Natural gas transmission lines | 2,177 miles 
+Natural gas distribution lines | 35,624 miles 
+Natural gas storage capacity | 53.4 Bcf 
+
+
+Vision, Mission and Values
+
+
+Strategic Priorities
+
+Lead the Clean Energy Transition
+For more than a decade, Xcel Energy has proactively managed the risk of climate change and increasing customer demand for renewable energy through a clean energy strategy that consistently seeks to reduce carbon emissions and aims to transition our operations for the future. We have successfully reduced our carbon emissions from generation serving our customers by nearly 44% from 2005 to 2019 and we are on track to reach 60% renewable generation by 2030. We expect to reduce our carbon footprint by 80% by 2030 (over 2005 levels) and aspire to serve all customers with 100% carbon-free electricity by 2050.
+In addition to increasing our renewable generation, Xcel Energy is transitioning how we produce, deliver and encourage the efficient use of energy by:
+
+• | Offering energy efficiency programs;
+
+
+• | Retiring coal units and modernizing generating plants; and
+
+
+• | Advancing power grid capabilities.
+
+We are working to add over 4,700 MW of wind energy to our system by 2021, including 3,500 MW of owned wind and 1,200 MW of PPAs. Of the 3,500 MW of owned wind, 1,300 MW are now in service and 2,200 MW are under development or construction. This will bring our total wind capacity to over 11,000 MW by 2021. 
+Our long-term plan includes the addition of approximately 5,000 MW of solar energy by the early 2030s, 275 MW of battery storage and a potential ten-year extension of our Monticello nuclear plant. It also includes the retirement of multiple coal units totaling approximately 2,000 MW. Xcel Energy plans to continue to evaluate its coal fleet for other potential early retirements as part of state resource plans or other regulatory proceedings.
+Enhance the Customer Experience
+Customers’ energy expectations continue to evolve and Xcel Energy is committed to providing the options and solutions they want and value. 
+Xcel Energy continues to expand its renewable energy production and offerings, and further develop and promote DSM and conservation programs. Over the past decade, the Company has spent over $2.1 billion on these programs. 
+
+
+We are also in the process of transforming our electric grid to accommodate increased levels of renewables, distributed energy resources and corresponding data growth, while maintaining high levels of reliability and security. 
+We have partnered with policymakers, state agencies and innovative companies to develop nation-leading electric vehicle solutions for our customers. We are preparing for a substantial amount of electric vehicles on roads across our service territory by 2030 and are focused on providing helpful information, making installations simple and keeping customer bills affordable through new rates and programs. We anticipate offering innovative programs for electric vehicle customers in Minnesota, Wisconsin, and Colorado this year. We are filing comprehensive Transportation Electrification Plans in both Colorado and New Mexico in the coming year.
+We continue to develop and deliver new renewable energy solutions for our residential and C&I customers who want more directly sourced energy. Through programs such as Renewable*Connect® and Windsource®, we match our customers’ needs without them needing to add expensive or on‑site equipment.
+Keep Bills Low
+Affordability is critical part of our customers’ experience. We are focused on the impact our operations, regulation and legislation have on their bills. Our objective is to keep bill increases at or below the rate of inflation.
+Our utility service territories benefit from the geographic concentration of favorable renewable resources. Strong wind and high solar generation capacity factors lower the lifetime cost of these resources. This, coupled with renewable tax credits and avoided fuel costs, enables us to invest in more renewable generation, in which the capital costs are largely or completely offset by fuel savings. We call this our “Steel for Fuel” strategy. 
+Steel for Fuel not only expands the Company’s renewable portfolio, but allows delivery of carbon-free energy without raising customer bills through replacement of fossil fuel generation or fuel-free wind and solar. 
+Xcel Energy is working to keep long-term O&M expense relatively flat without compromising reliability or safety. We intend to accomplish this objective by continually improving processes, leveraging technology, proactively managing risk and maintaining a workforce prepared to meet the needs of our business today and tomorrow. 
+O&M declined 0.6% in 2019 even as we took the opportunity to invest more in key strategic and operational areas, including reducing operational risks and enhancing our customers’ experience. While Xcel Energy continues to invest prudently in appropriate areas, we remain committed to our long-term objective of improving operating efficiencies and taking costs out of the business. 
+
+
+Deliver a Competitive Total Return to Investors and Maintain Strong Investment Grade Credit Rating 
+Successful execution of our strategic objectives should allow Xcel Energy to continue to deliver a competitive total return for our shareholders.
+Through our disciplined approach to business growth, financial investment, operations and safety, we are well positioned to continue delivering on our value proposition.
+We have consistently achieved our financial objectives, meeting or exceeding our initial earnings guidance range for fifteen consecutive years and delivering dividend growth for sixteen consecutive years.
+Our ongoing earnings have grown 6.1% annually since 2005 and our dividend has grown 6.3% annually from 2013-2019. We work to maintain senior secured debt credit ratings in the A range and senior unsecured debt credit ratings in the BBB+ to A range. Our current ratings are consistent with this objective. 
+Environmental, Social and Governance Leadership
+Xcel Energy has consistently demonstrated industry leadership in mitigating climate, operational and financial risks, while remaining committed to our customers, communities, employees and investors. We have delivered tangible environmental, social and governance results in alignment with our four corporate values - committed, connected, safe and trustworthy. 
+Environmental
+Xcel Energy has been the number one U.S. wind provider for 12 of the past 14 years. 
+We continue to lead the industry with one of the most aggressive carbon reduction goals among our peers. Our plans to achieve 80% reduction by 2030 are aligned with Paris Accord goals and have been independently validated by an Intergovernmental Panel on Climate Change expert. 
+In December 2018, Xcel Energy became the first major electric utility in the country to announce an aspiration to produce 100% carbon-free electricity for customers by 2050.
+Social
+Xcel Energy works to mitigate the employee and community impacts of early plant retirements. We provide affected employees with advanced notice and offer retraining and relocation opportunities. Through these efforts and natural attrition, Xcel Energy has had no layoffs as a result of plant retirements. 
+We have also worked to foster economic sustainability and continued affordability through partnering with communities, policymakers and customers impacted by coal plant retirements, to build facilities and attract new businesses. Examples include:
+
+• | Near our Sherco plant, scheduled to close by 2030, we are partnering with local leadership and a major data center to locate a $600 million data center. Additionally, Xcel Energy actively worked to relocate a metal recycling plant near our plant; and
+
+
+• | We retained Evraz Steel in Colorado, a major Pueblo employer, by partnering with the company and community to create an affordable solar solution to meet their needs.
+
+Xcel Energy is an active community member. We recognize and carefully evaluate the broader potential economic impacts of our decisions and work to proactively support the people and economic health of our communities. In 2019, we spent $3.1 billion locally, donated nearly $11 million to local charities, continued to offer employees 40 hours of volunteer paid time off annually and our employees served on over 500 non-profit boards. Donations include Xcel Energy employee and Xcel Energy Foundation gifts.
+As a member of diverse communities, we value and celebrate diversity and inclusion. For example:
+
+• | Xcel Energy has offered domestic partner benefits since 1995;
+
+
+• | The Company’s CEO has signed the Action for Diversity & Inclusion Pledge, for the advancement of diversity and inclusion within the workplace, and Xcel Energy has an employee-led Diversity & Inclusion Council;
+
+
+• | We have been selected among the nation’s top corporations for lesbian, gay, bisexual, transgender, and queer equality by earning a perfect score on the Human Rights Campaign’s 2019 Corporate Equality Index for the past 4 years; and
+
+
+• | Xcel Energy was named to the 2019 Military Times Best for Vets Employers rankings for the sixth straight year and currently employs more than 1,000 veterans, nearly 10% of our workforce.
+
+Governance 
+Xcel Energy has a diverse and qualified Board of Directors committed to effective governance. 
+The Company first adopted an environmental policy and instituted Board of Directors’ oversight of environmental performance in 2000, followed by publication of our corporate responsibility report in 2005. 
+We consistently set aggressive goals and hold ourselves accountable, to our customers, our communities and our investors. Additionally, Xcel Energy was among the first U.S. utilities to tie carbon reduction directly to executive compensation over fifteen years ago and is one of three peer utilities who do so today. 
+We are also focused on safety for our employees and our communities. In 2019, 60% of annual incentive pay was tied to safety and system reliability. Employees at every level have “stop work authority” and are instrumental in keeping each other and our surrounding communities safe. 
+
+
+Utility Subsidiaries 
+NSP-Minnesota 
+Electric customers | 1.5 million | NSP-Minnesota conducts business in Minnesota, North Dakota and South Dakota and has electric operations in all three states including the generation, purchase, transmission, distribution and sale of electricity. NSP-Minnesota and NSP-Wisconsin electric operations are managed on the NSP System. NSP-Minnesota also purchases, transports, distributes and sells natural gas to retail customers and transports customer-owned natural gas in Minnesota and North Dakota.
+Natural gas customers | 0.6 million 
+Consolidated earnings contribution | 35% to 45% 
+Total assets | $19.9 billion
+Rate Base | $11.2 billion
+ROE | 9.31% 
+Electric generating capacity | 7,712 MW 
+Gas storage capacity | 17.1 Bcf 
+Electric transmission lines (conductor miles) | 33,528 miles 
+Electric distribution lines (conductor miles) | 80,186 miles 
+Natural gas transmission lines | 86 miles 
+Natural gas distribution lines | 10,518 miles 
+
+
+NSP-Wisconsin 
+Electric customers | 0.3 million | NSP-Wisconsin conducts business in Wisconsin and Michigan and generates, transmits, distributes and sells electricity. NSP-Minnesota and NSP-Wisconsin electric operations are managed on the NSP System. NSP-Wisconsin also purchases, transports, distributes and sells natural gas to retail customers and transports customer-owned natural gas.
+Natural gas customers | 0.1 million 
+Consolidated earnings contribution | 5% to 10% 
+Total assets | $2.8 billion
+Rate Base | $1.7 billion
+ROE | 8.27% 
+Electric generating capacity | 548 MW 
+Gas storage capacity | 3.8 Bcf 
+Electric transmission lines (conductor miles) | 12,285 miles
+Electric distribution lines (conductor miles) | 27,504 miles
+Natural gas transmission lines | 3 miles 
+Natural gas distribution lines | 2,473 miles 
+
+
+PSCo 
+Electric customers | 1.5 million | PSCo conducts business in Colorado and generates, purchases, transmits, distributes and sells electricity. PSCo also purchases, transports, distributes and sells natural gas to retail customers and transports customer-owned natural gas.
+Natural gas customers | 1.4 million 
+Consolidated earnings contribution | 35% to 45% 
+Total assets | $19.0 billion
+Rate Base | $12.4 billion
+ROE | 8.69% 
+Electric generating capacity | 5,666 MW 
+Gas storage capacity | 32.5 Bcf 
+Electric transmission lines (conductor miles) | 24,008 miles 
+Electric distribution lines (conductor miles) | 78,023 miles 
+Natural gas transmission lines | 2,057miles 
+Natural gas distribution lines | 22,633 miles | 
+
+
+SPS 
+Electric customers | 0.4 million | SPS conducts business in Texas and New Mexico and generates, purchases, transmits, distributes and sells electricity.
+Consolidated earnings contribution | 15% to 20% 
+Total assets | $7.9 billion
+Rate base | $4.9 billion
+ROE | 9.71% 
+Electric generating capacity | 4,804 MW 
+Electric transmission lines | 38,418 miles
+Electric distribution lines | 21,810 miles
+
+
+Operations Overview
+
+Utility operations are generally conducted as either electric or gas utilities in our four utility subsidiaries.
+
+Electric Operations
+
+Electric operations consist of energy supply, generation, transmission and distribution activities across all four operating companies. Xcel Energy had electric sales volume of 116,317 (millions of KWh), 3,662,701 customers and electric revenues of $9,575 (millions of dollars) for 2019.
+Sales/Revenue Statistics
+
+ | 2019 | | 2018
+KWh sales per retail customer | 24,712 | | | 25,263 | 
+Revenue per retail customer | $2,244 | | | $ | 2,257 | 
+Residential revenue per KWh | | 11.97 | ¢ | | | 11.78 | ¢
+Large C&I revenue per KWh | | 5.96 | ¢ | | | 5.91 | ¢
+Small C&I revenue per KWh | | 9.43 | ¢ | | | 9.21 | ¢
+Total retail revenue per KWh | | 9.08 | ¢ | | | 8.93 | ¢
+
+Owned and Purchased Energy Generation — 2019
+
+
+Electric Energy Sources
+Total electric generation by source (including energy market purchases) for the year ended Dec. 31, 2019:
+  
+*Distributed generation from the Solar*Rewards® program is not included (approximately 538 million KWh for 2019)Renewable Energy Sources
+Xcel Energy’s renewable energy portfolio includes wind, hydroelectric, biomass and solar power from both owned generating facilities and PPAs. Renewable percentages will vary year over year based on system additions, weather, system demand and transmission constraints.
+See Item 2 — Properties for further information.
+Renewable energy as a percentage of total energy for 2019:
+
+(a) | Includes biomass and hydroelectric
+
+Wind Energy Sources
+Owned — Owned and operated wind farms with corresponding capacity:
+
+ | 2019 | 2018 
+Utility Subsidiary | Wind Farms | Capacity | Wind Farms | Capacity
+NSP System | 7 | 1,090 MW | 5 | 840 MW 
+PSCo | 1 | 600 MW | 1 | 600 MW 
+SPS | 1 | 478 MW | — | — 
+
+PPAs — Number of PPAs with range: 
+Utility Subsidiary | | 2019 | | 2018 
+ | PPAs | | Range | | PPAs | | Range
+NSP System | | | | 0.7 MW — 205.5 MW | | | | 0.7 MW - 205.5 MW 
+PSCo | | 20 | | 2.0 MW — 300.5 MW | | 19 | | 2.0 MW - 300.5 MW 
+SPS | | 18 | | 0.7 MW — 250.0 MW | | 18 | | 0.7 MW - 250.0 MW 
+
+Capacity — Wind capacity:
+
+Utility Subsidiary | 2019 | 2018 
+NSP System | 2,780 MW | 2,550 MW
+PSCo | 3,165 MW | 3,160 MW
+SPS | 2,045 MW | 1,565 MW
+
+
+Average Cost (Owned) — Average cost per MWh of wind energy from owned generation:
+
+Utility Subsidiary (a) | 2019 | | 2018
+NSP System | $ | 35 | | | $ | 37
+PSCo | 47 | | | — | 
+
+
+(a) | The table reflects owned wind sites that were in commercial operation for the full calendar year. The Hale wind farm for SPS was put into service in June 2019 and the Rush Creek wind farm was put into service in December 2018.
+
+Average Cost (PPAs) — Average cost per MWh of wind energy under existing PPAs:
+
+Utility Subsidiary | 2019 | | 2018
+NSP System | $ | 41 | | | $ | 44
+PSCo | 41 | | | 43 | 
+SPS | | | | | 
+
+Wind Energy Development
+Xcel Energy is executing the largest multi-state wind investment in the nation and placed approximately 1,300 MW of owned wind and approximately 300 MW of PPAs into service during 2018-2019:
+
+Project | Utility Subsidiary | Capacity
+Rush Creek | PSCo | 582 MW 
+Hale | SPS | 460 MW 
+Foxtail | NSP-Minnesota | 150 MW 
+Lake Benton | NSP-Minnesota | 99 MW 
+Various PPAs | Various | ~300 MW 
+
+As part of the multi-state wind investment, Xcel Energy currently has approximately 2,200 MW of owned wind under development or construction and approximately 900 MW of planned PPAs with an estimated completion date of 2021 or earlier:
+
+Project | Utility Subsidiary | Capacity | Estimated Completion
+Freeborn | NSP-Minnesota | 200 MW | 2020 
+Blazing Star 1 | NSP-Minnesota | 200 MW | 2020 
+Blazing Star 2 | NSP-Minnesota | 200 MW | 2020 
+Crowned Ridge (a) | NSP-Minnesota | 200 MW | 2020 
+Jeffers (b) | NSP-Minnesota | 44 MW | 2020 
+Community Wind North(b) | NSP-Minnesota | 26 MW | 2020 
+Dakota Range | NSP-Minnesota | 300 MW | 2021 
+Cheyenne Ridge | PSCo | 500 MW | 2020 
+Sagamore | SPS | 522 MW | 2020 
+Various PPAs | Various | ~900 MW | 2020 - 2021 
+
+
+(a) | Build-own-transfer project.
+
+
+(b) | Repowering project.
+
+Solar Energy Sources
+Solar energy PPA(s):
+
+Type | Utility Subsidiary | Capacity
+Distributed Generation | NSP System | 736 MW 
+Utility-Scale | NSP System | 266 MW 
+Distributed Generation | PSCo | 557 MW 
+Utility-Scale | PSCo | 305 MW 
+Distributed Generation | SPS | 10 MW 
+Utility-Scale | SPS | 191 MW 
+
+10
+
+Other Carbon-Free Energy Sources
+Xcel Energy’s other carbon-free energy portfolio includes nuclear from owned generating facilities. 
+See Item 2 — Properties for further information.
+Nuclear Energy Sources
+Xcel Energy has two nuclear plants with approximately 1,700 MW of total 2019 net summer dependable capacity that serves the NSP-System. Our nuclear fleet has become one of the safest and well-run in the nation, as rated by both the NRC and INPO.
+The Company secures contracts for uranium concentrates, uranium conversion, uranium enrichment and fuel fabrication to operate its nuclear plants. The contract strategy involves a portfolio of spot purchases and medium and long-term contracts for uranium concentrates, conversion services and enrichment services with multiple producers and with a focus on diversification and alternate sources to minimize potential impacts caused by supply interruptions due to geographical and world political issues.
+Nuclear Fuel Cost
+Delivered cost per MMBtu of nuclear fuel consumed for owned electric generation and the percentage of total fuel requirements:
+
+Utility Subsidiary | Nuclear
+NSP System | Cost | | Percent
+2019 | $ | 0.81 | | | 45 | %
+2018 | 0.80 | | | 45 | 
+
+Fossil Fuel Energy Sources
+Xcel Energy’s fossil fuel energy portfolio includes coal and natural gas power from both owned generating facilities and PPAs. 
+See Item 2 — Properties for further information.
+Coal Energy Sources
+Xcel Energy owns and operates nine coal plants with approximately 6,500 MW of total 2019 net summer dependable capacity. 
+Our operating companies have embarked on an industry-leading coal retirement program with permission from its key regulatory bodies. 
+Approved and proposed coal plant retirements:
+
+Approved (2019 to 2027)
+Year | Utility Subsidiary | Plant | Capacity
+2022 | PSCo | Comanche 1 | 325 MW 
+2023 | NSP-Minnesota | Sherco 2 | 682 MW 
+2025 | PSCo | Comanche 2 | 335 MW 
+2025 | PSCo | Craig 1 | 42 MW 
+2026 | NSP-Minnesota | Sherco 1 | 680 MW 
+
+
+Proposed (2028 to 2030)
+Year | Utility Subsidiary | Plant | Capacity
+2028 | NSP-Minnesota | A.S King | 511 MW 
+2030 | NSP-Minnesota | Sherco 3 | 517 MW 
+
+Coal Fuel Cost
+Delivered cost per MMBtu of coal consumed for owned electric generation and percentage of fuel requirements:
+
+ | Coal (a)
+Utility Subsidiary | Cost | | Percent
+NSP System | | | 
+2019 | $ | 2.02 | | | 36 | %
+2018 | 2.13 | | | 42 | 
+PSCo | | | 
+2019 | 1.45 | | | 55 | 
+2018 | 1.45 | | | 62 | 
+SPS | | | 
+2019 | 2.19 | | | 45 | 
+2018 | 2.04 | | | 56 | 
+
+
+(a) | Includes refuse-derived fuel and wood for the NSP System.
+
+Natural Gas Energy Sources
+Xcel Energy has 22 natural gas plants with approximately 7,900 MW of total 2019 net summer dependable capacity. 
+Natural gas supplies, transportation and storage services for power plants are procured to provide an adequate supply of fuel. Remaining requirements are procured through a liquid spot market. Generally, natural gas supply contracts have variable pricing that is tied to natural gas indices. Natural gas supply and transportation agreements include obligations for the purchase and/or delivery of specified volumes or payments in lieu of delivery.
+Natural Gas Cost
+Delivered cost per MMBtu of natural gas consumed for owned electric generation and percentage of total fuel requirements:
+ | Natural Gas
+Utility Subsidiary | Cost | | Percent
+NSP System | | | 
+2019 | $ | 3.09 | | | 19 | %
+2018 | 3.87 | | | 13 | 
+PSCo | | | 
+2019 | 3.27 | | | 45 | 
+2018 | 3.74 | | | 38 | 
+SPS | | | 
+2019 | 1.14 | | | 55 | 
+2018 | 2.24 | | | 44 | 
+
+Capacity and Demand
+Uninterrupted system peak demand and occurrence date for the regulated utilities:
+
+ | System Peak Demand (in MW)
+Utility Subsidiary | 2019 | 2018
+NSP System | 8,774 | | July 19 | 8,927 | June 29
+PSCo | 7,111 | | July 19 | 6,718 | July 10
+SPS | 4,261 | | Aug. 5 | 4,648 | July 19
+
+Transmission
+Transmission lines deliver electricity over long distances from power sources to transmission substations closer to homes and businesses. A strong transmission system ensures continued reliable and affordable service, ability to meet state and regional energy policy goals, and support a diverse generation mix, including renewable energy. Xcel Energy owns more than 20,000 miles of transmission lines, serving 22,000 MW of customer load. 
+
+
+11
+
+Transmission projects completed in 2019 include:
+
+Project | Utility Subsidiary | Miles | Size
+Maple River-Red River | NSP-Minnesota | 5 | | 115 KV
+Nelson-Wabasha | NSP-Wisconsin | 2 | | 69 KV 
+Pawnee-Daniels Park | PSCo | 125 | | 345 KV
+Thornton Substation | PSCo | 2 | | 115 KV
+TUCO-Yoakum-Hobbs | SPS | 64 | | 345 KV
+NEF-Cardinal | SPS | 15 | | 115 KV
+Potash Junction-Livingston Ridge | SPS | 15 | | 115 KV
+Mustang-Shell | SPS | 9 | | 115 KV
+North Loving-South Loving | SPS | 3 | | 115 KV
+Cunningham-Monument Tap | SPS | 7 | | 115 KV
+
+Notable upcoming projects:
+
+Project | Utility Subsidiary | Miles | Size | | Completion Date
+Huntley-Wilmarth | NSP-Minnesota | 50 | | 345 KV | | 2021
+Bayfield Second Circuit | NSP-Wisconsin | 19 | | 35 KV | | 2022
+Cheyenne Ridge | PSCo | 65 | | 345 KV | | 2020
+TUCO-Yoakum-Hobbs | SPS | 106 | | 345 KV | | 2020
+Eddy-Kiowa | SPS | 34 | | 345 KV | | 2020
+
+See Item 2 - Properties for further information.
+
+
+Distribution
+Distribution lines allow electricity to travel from substations directly to homes and businesses in neighborhoods and cities around the country. Xcel Energy has a vast distribution network, owning and operating thousands of miles of distribution lines across our eight-state service territory, both above ground and underground.
+To continue providing reliable, affordable electric service and enable more flexibility for customers, we are working to digitize the distribution grid, while at the same time keeping it secure. Over the next five years, the Company will invest $1.4 billion implementing new network infrastructure, smart meters, advanced software, equipment sensors and related data analytics capabilities. These investments will further improve reliability and reduce outage restoration times for our customers, while at the same time enabling new options and opportunities for increased efficiency savings. The new capabilities will also enable integration of battery storage and other distributed energy resources into the grid, including electric vehicles. 
+In 2019, Xcel Energy implemented foundational software and completed our initial smart meter deployment in Colorado as planned, with full-scale implementation to follow. We also requested approval to expand our advanced grid program to benefit our Minnesota customers and expect a Commission decision in late 2020. We plan to have smart meters implemented across our Colorado and Minnesota service territories by the end of 2024. 
+See Item 2 - Properties for further information.
+
+
+
+Natural Gas Operations
+
+Natural gas operations consist of purchase, transportation and distribution of natural gas to end use residential, C&I and transport customers in NSP-Minnesota, NSP-Wisconsin and PSCo. Xcel Energy had natural gas deliveries of 463,185 (thousands of MMBtu), 2,068,129 customers and natural gas revenues of $1,868 (millions of dollars) for 2019.
+Sales/Revenue Statistics
+ | 2019 | | 2018
+MMBtu sales per retail customer | 129.31 | | | 120.51 | 
+Revenue per retail customer | $ | 851.94 | | | $ | 785.86
+Residential revenue per MMBtu | 7.14 | | | 7.01 | 
+C&I revenue per MMBtu | 5.73 | | | 5.76 | 
+Transportation and other revenue per MMBtu | 0.57 | | | 0.80 | 
+
+Capability and Demand
+Natural gas supply requirements are categorized as firm or interruptible (customers with an alternate energy supply). 
+Maximum daily output (firm and interruptible) and occurrence date:
+
+ | 2019 | 2018
+Utility Subsidiary | MMBtu | Date | | MMBtu | | Date
+NSP-Minnesota | 897,615 | (a) | Feb. 25 | | 786,751 | | Jan. 12
+NSP-Wisconsin | 166,009 | (a) | Jan. 30 | | 159,700 | | Jan. 5 
+PSCo | 2,139,420 | (a) | March 3 | | 1,903,878 | | Feb. 20
+
+
+(a) | Increase in maximum MMBtu output due to colder winter temperatures in 2019.
+
+Natural Gas Supply and Cost
+Xcel Energy actively seeks natural gas supply, transportation and storage alternatives to yield a diversified portfolio, which provides increased flexibility, decreased interruption and financial risk, and economic customer rates. In addition, the utility subsidiaries conduct natural gas price hedging activities approved by their state commissions. 
+Average delivered cost per MMBtu of natural gas for regulated retail distribution:
+
+Utility Subsidiary | 2019 | | 2018
+NSP-Minnesota | $ | 3.71 | | | $ | 4.03
+NSP-Wisconsin | 3.49 | | | 3.84 | 
+PSCo | 2.95 | | | 3.20 | 
+
+NSP-Minnesota, NSP-Wisconsin and PSCo have natural gas supply transportation and storage agreements that include obligations for purchase and/or delivery of specified volumes or to make payments in lieu of delivery. 
+See Item 2 - Properties for further information.
+
+General
+
+General Economic Conditions
+Economic conditions may have a material impact on Xcel Energy’s operating results. Other events impact overall economic conditions and management cannot predict the impact of fluctuating energy prices, terrorist activity, war or the threat of war. We could experience a material impact to its results of operations, future growth or ability to raise capital resulting from a sustained general slowdown in economic growth or a significant increase in interest rates.
+Seasonality
+Demand for electric power and natural gas is affected by seasonal differences in the weather. In general, peak sales of electricity occur in the summer months and peak sales of natural gas occur in the winter months. As a result, the overall operating results may fluctuate substantially on a seasonal basis. Additionally, Xcel Energy’s operations have historically generated less revenues and income when weather conditions are milder in the winter and cooler in the summer. 
+Competition
+The Company is subject to public policies that promote competition and development of energy markets. Xcel Energy’s industrial and large commercial customers have the ability to generate their own electricity. In addition, customers may have the option of substituting other fuels or relocating their facilities to a lower cost region. 
+Customers have the opportunity to supply their own power with distributed generation including solar generation and in most jurisdictions can currently avoid paying for most of the fixed production, transmission and distribution costs incurred to serve them. 
+Several states have incentives for the development of rooftop solar, community solar gardens and other distributed energy resources. Distributed generating resources are potential competitors to Xcel Energy’s electric service business with these incentives and federal tax subsidies.
+The FERC has continued to promote competitive wholesale markets through open access transmission and other means. Xcel Energy’s wholesale customers can purchase their output from generation resources of competing suppliers or non-contracted quantities and use the transmission systems of the utility subsidiaries on a comparable basis to serve their native load.
+
+
+FERC Order No. 1000 established competition for construction and operation of certain new electric transmission facilities. State utilities commissions have also created resource planning programs that promote competition for electricity generation resources used to provide service to retail customers. 
+Xcel Energy Inc.’s utility subsidiaries have franchise agreements with cities subject to periodic renewal; however, a city could seek alternative means to access electric power or gas, such as municipalization. 
+While each utility subsidiary faces these challenges, Xcel Energy believes their rates and services are competitive with alternatives currently available.
+
+Public Utility Regulation
+
+See Item 7 for discussion of public utility regulation.
+
+Environmental
+
+Environmental Regulation 
+Our facilities are regulated by federal and state agencies that have jurisdiction over air emissions, water quality, wastewater discharges, solid wastes and hazardous substances. Various company activities require registrations, permits, licenses, inspections and approvals from these agencies. Xcel Energy has received necessary authorizations for the construction and continued operation of its generation, transmission and distribution systems. Our facilities have been designed and constructed to operate in compliance with applicable environmental standards and related monitoring and reporting requirements. However, it is not possible to determine when or to what extent additional facilities or modifications of existing or planned facilities will be required as a result of changes to regulations, interpretations or enforcement policies or what effect future laws or regulations may have. We may be required to incur expenditures in the future for remediation of MGP and other sites if it is determined that prior compliance efforts are not sufficient. 
+In Minnesota, Texas and Wisconsin, Xcel Energy must comply with emission budgets that require the purchase of emission allowances from other utilities. The Denver North Front Range Nonattainment Area does not meet either the 2008 or 2015 ozone NAAQS. Colorado will continue to consider further reductions available in the non-attainment area as it develops plans to meet ozone standards. Gas plants which operate in PSCo’s non-attainment area may be required to improve or add controls, implement further work practices and/or enhanced emissions monitoring as part of future Colorado state plans. 
+There are significant present/future environmental regulations to encourage use of clean energy technologies and regulate emissions of GHGs. We have undertaken numerous initiatives to meet current requirements and prepare for potential future regulations, reduce GHG emissions and respond to state renewable and energy efficiency goals. If future environmental regulations do not take into consideration investments already made or if additional initiatives or emission reductions are required, substantial costs may be incurred. 
+In July 2019, the EPA adopted the Affordable Clean Energy rule, which requires states to develop plans for GHG reductions from coal-fired power plants. The state plans, due to the EPA in July 2022, will evaluate and potentially require heat rate improvements at existing coal-fired plants. It is not yet known how these state plans will affect our existing coal plants, but they could require substantial additional investment, even in plants slated for retirement. Xcel Energy believes, based on prior state commission practice, the cost of these initiatives or replacement generation would be recoverable through rates.
+
+
+In 2019, Xcel Energy estimates that it reduced the carbon emissions associated with the electric generating resources, both owned and under PPAs, used to serve its customers by approximately 44% from 2005 levels.
+Environmental Costs
+Environmental costs include accruals for nuclear plant decommissioning and payments for storage of spent nuclear fuel, disposal of hazardous materials and waste, remediation of contaminated sites, monitoring of discharges to the environment and compliance with laws and permits with respect to emissions.
+Costs charged to operating expenses for nuclear decommissioning, spent nuclear fuel disposal, environmental monitoring and remediation and disposal of hazardous materials and waste were approximately:
+
+• | $345 million in 2019;
+
+
+• | $335 million in 2018; and
+
+
+• | $315 million in 2017.
+
+Average annual expense of approximately $400 million from 2020 – 2024 is estimated for similar costs. The precise timing and amount of environmental costs, including those for site remediation and disposal of hazardous materials, are unknown. Additionally, the extent to which environmental costs will be included in and recovered through rates may fluctuate.
+
+
+Capital expenditures for environmental improvements were approximately:
+
+• | $30 million in 2019;
+
+
+• | $50 million in 2018; and
+
+
+• | $60 million in 2017.
+
+See Item 7 — Capital Requirements for further discussion.
+
+Capital Spending and Financing
+
+See Item 7 for discussion of capital expenditures and funding sources.
+
+Employees
+
+As of Dec. 31, 2019, Xcel Energy had 11,273 full-time employees and 44 part-time employees, of which 5,091 were covered under CBAs.
+
+ | Employees Covered by CBAs | Total Employees
+NSP-Minnesota | 2,036 | | 3,203 
+NSP-Wisconsin | 392 | | 538 
+PSCo | 1,884 | | 2,369 
+SPS | 779 | | 1,158 
+XES | — | | 4,005 
+Total | 5,091 | | 11,273
+
+
+Information about our Executive Officers (a)
+Name | Age (b) | Current and Recent Positions | Time in Position 
+Ben Fowke (c) | 61 | Chairman of the Board, President and Chief Executive Officer and Director, Xcel Energy Inc. | August 2011 — Present 
+ | | Chief Executive Officer, NSP-Minnesota, NSP-Wisconsin, PSCo, and SPS | January 2015 — Present 
+Brett C. Carter | 53 | Executive Vice President and Chief Customer and Innovation Officer, Xcel Energy Inc. | May 2018 — Present 
+ | | Senior Vice President and Shared Services Executive, Bank of America, an institutional investment bank and financial services company | October 2015 — May 2018 
+ | | Senior Vice President and Chief Operating Officer, Bank of America | March 2015 — October 2015 
+ | | Senior Vice President and Chief Distribution Officer, Duke Energy Co., an electric power company | February 2013 — March 2015 
+Christopher B. Clark | 53 | President and Director, NSP-Minnesota | January 2015 — Present 
+David L. Eves (d) | 61 | Executive Vice President and Group President, Utilities, Xcel Energy Inc. | March 2018 — Present 
+ | | President and Director, PSCo | January 2015 — February 2018 
+Darla Figoli | 57 | Senior Vice President, Human Resources & Employee Services, Chief Human Resources Officer, Xcel Energy Inc. | May 2018 — Present 
+ | | Senior Vice President, Human Resources and Employee Services, Xcel Energy Inc. | May 2015 — May 2018 
+ | | Vice President, Human Resources, Xcel Energy Inc. | February 2010 — May 2015 
+Robert C. Frenzel (c) | 49 | Executive Vice President, Chief Financial Officer, Xcel Energy Inc. | May 2016 — Present 
+ | | Senior Vice President and Chief Financial Officer, Luminant, a subsidiary of Energy Future Holdings Corp. (e) | February 2012 — April 2016 
+David T. Hudson | 59 | President and Director, SPS | January 2015 — Present 
+Alice Jackson | 41 | President and Director, PSCo | May 2018 — Present 
+ | | Area Vice President, Strategic Revenue Initiatives, Xcel Energy Services Inc. | November 2016 — May 2018 
+ | | Regional Vice President, Rates and Regulatory Affairs, PSCo | November 2013 — November 2016
+Kent T. Larson (f) | 60 | Executive Vice President and Group President Operations, Xcel Energy Inc. | January 2015 — Present 
+Timothy O’Connor (g) | 60 | Senior Vice President, Chief Nuclear Officer, Xcel Energy Services Inc. | February 2013 — Present 
+Judy M. Poferl (h) | 60 | Senior Vice President, Corporate Secretary and Executive Services, Xcel Energy Inc. | January 2015 — Present 
+Jeffrey S. Savage | 48 | Senior Vice President, Controller, Xcel Energy Inc. | January 2015 — Present 
+Mark E. Stoering | 59 | President and Director, NSP-Wisconsin | January 2015 — Present 
+Scott M. Wilensky | 63 | Executive Vice President, General Counsel, Xcel Energy Inc. | January 2015 — Present 
+
+
+(a) | No family relationships exist between any of the executive officers or directors.
+
+
+(b) | Ages as of Dec. 31, 2019.
+
+
+(c) | Effective March 31, 2020, Mr. Fowke will cease to serve as President and Mr. Frenzel will become President and Chief Operating Officer of Xcel Energy Inc. At the same time, Brian J. Van Abel will become Executive Vice President, Chief Financial Officer of Xcel Energy Inc. 
+
+
+(d) | Effective May 1, 2020, Mr. Eves will be retiring from the Company after retiring from his executive officer positions effective March 30, 2020.
+
+
+(e) | In April 2014, Energy Future Holdings Corp., the majority of its subsidiaries, including TCEH the parent company of Luminant, filed a voluntary bankruptcy petition under Chapter 11 of the United States Bankruptcy Code. TCEH emerged from Chapter 11 in October 2016.
+
+
+(f) | Effective May 31, 2020, Mr. Larson will be leaving the Company after ceasing to serve in his executive officer positions effective March 30, 2020.
+
+
+(g) | Effective March 31, 2020, Mr. O’Connor will become Executive Vice President, Chief Generation Officer.
+
+
+(h) | Effective March 31, 2020, Ms. Poferl will be retiring from the Company. Frank Prager has been elected to serve with the title of Senior Vice President, Strategy and Planning and External Affairs effective March 1, 2020.
+

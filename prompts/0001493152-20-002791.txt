@@ -1,0 +1,170 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+Our History
+ 
+On December 20, 2019 we entered into and consummated a share exchange with the former stockholders of Medical Practice Income, Inc. a Florida corporation (“MPI”) incorporated on February 25, 2019, pursuant to a share exchange agreement (the “Exchange Agreement”) by which we issued 2,172,600 shares of our common stock, $.0001 par value (the “common stock”) to the former stockholders of MPI in exchange for all of the then issued and outstanding shares of common stock of MPI (the “Share Exchange”). MPI, based in West Palm Beach, Florida, is focused on value-based healthcare, informatics and algorithmic personalized medicine including digital therapeutics, behavior based remote patient monitoring, chronic care and preventive medicine. As a result of the Share Exchange, MPI became our wholly-owned-subsidiary.
+Summary
+ 
+We are focused on value-based healthcare, informatics and algorithmic personalized medicine including digital therapeutics, behavior based remote patient monitoring, chronic care and preventive medicine. Our intellectual properties, products and information service development portfolio are directed towards prevention, early detection, management and reversal of cardiometabolic diseases. Our principle objectives are to develop proprietary software tools and approaches, providing more granular, timely and specific clinical decision-making information for practicing physicians and other health care providers to address today’s now younger, obese, diabetic and cardiovascular disease population.
+ 
+We are in the process of developing a high-level, fully automated cloud-based Software as a Medical Service (SaaMS) system named the Quality Health Score Lab Expert System (“QHSLab”) which will provide physicians and other healthcare organizations with an advanced platform to securely capture and store patient information electronically in a secure database. The patients’ data is intelligently filtered, analyzed and processed according to specific and proprietary algorithms. To date, we have completed the initial design of QHSLab and developed our initial Quality Management System. Our focus for the immediate future, assuming we can obtain sufficient financing is to develop and complete testing of our cloud-based system engineering in the first quarter of 2020 and launch our Minimum Variable Product in the second quarter of 2020.
+ 
+Industry
+ 
+The healthcare industry has yet to experience the improvements in outcomes, access, and cost-effectiveness that have transformed many other industries through the use of digital technologies. In an effort to address a worsening pandemic of chronic disease associated with aging populations, technology companies are now contributing innovative solutions that enhance chronic care management through remote monitoring digital applications to reduce the burden of care on healthcare systems.
+ 
+The term “digital health” describes technologies that engage patients for health-related purposes; it encompasses a wide range of products referred to as e-health, mobile health, or mhealth, digital medicine, digital therapeutics, or digital wellness often all interchangeably and used across the wellness and healthcare industries. Digital health is broadly used and misinterpreted to the point that it has no real meaning, especially to prescribing physicians and other healthcare providers.
+ 
+
+3
+-
+
+
+The medical and scientific community prefers the term “digital medicine” as opposed to digital health to differentiate other more consumer orientated digital products that have not been rigorously tested for outcomes. Digital medicine is a term used to describe evidence based digital products that measure an intervention, including those intended for health promotion and disease prevention. Digital medicine differs from ‘digital wellness’ which is associated with such measures as Fitbit, sleep scores and Apple watch apps for example. Digital wellness products are not subject to testing and intended to be consumer-facing rather than used in clinical care. Digital wellness applications often lack evidence necessary to support medical claims for the information they produce.
+ 
+Digital medicine products are driven by high-quality hardware and software that support health research and the practice of medicine broadly, including treatment, recovery, disease prevention, and health promotion for individuals and across populations. Whereas traditional health measures represent a snapshot in time – a lab result, a diagnostics image, a blood pressure reading or a note in a medical record – connected digital medicine applications and devices can offer longitudinal and highly personalized windows into personalized human health.
+ 
+Digital medicine products can be used independently or in concert with pharmaceuticals, biologics, devices, or other products to optimize patient care and health outcomes. A key component of digital medicine is the transformation of raw physiological and environmental signals or active patient responses to surveys into health indicators that can be used to monitor, predict and modify aspects of health and disease. This data is processed, transformed and used to build computational models whose output represents the health indicators of interest. Digital medicine empowers patients and healthcare providers with intelligent and accessible tools to address a wide range of conditions through high quality, safe, and effective measurements and data-driven interventions.
+ 
+Digital Therapeutics, a derivative of digital medicine, extend physicians’ reach by overcoming time, place and personnel constraints that limit health-care delivery, creating better access, convenience and efficiency. As well as being considered treatments in their own right, digital therapeutics are proving useful in helping people to gain the maximum benefit from conventional pharmaceutical therapies. Provisions in the Affordable Care Act are making healthcare provider reimbursements dependent on outcomes and data capture, giving health-care providers an economic incentive to tackle patient adherence to prescriptions with fewer unnecessary medical interventions, all with the aim of taking better care, delivering better quality of life, producing better outcomes with fewer resources and lowering overall costs to the health care system.
+ 
+Overview of Planned Development of the QHSLab Expert System
+ 
+Our QHSLab Expert System will be capable of handling large quantities of data, without compromising security, accuracy or precision. It will not require expensive human resources to perform low-level mundane tasks. We can set parameters to accommodate prospective client physician and healthcare organization policy and will deal easily with significant increases in potential user work load. Our cloud-based software and IT system currently under development will easily scale to allow a virtually unlimited number of user sessions to be activated, all of which ultimately tap into the same software and database. The QHSLab approach to user capacity will be able, with certainty by utilizing a set, well-known path built into our third-party ‘robust’ cloud server infrastructure, to not only scale to a large number of users, but it will also be built on a globally-scalable architecture, allowing us to deliver high availability to users in just about any geographic region.
+ 
+The importance of identifying health risks and the indicators to be identified varies within different healthcare settings and sectors. Some healthcare settings require psychological data while others require a detailed medical history and list of medications. Certain industries have increased occupational risk factors and health surveillance profiling must be specifically tailored for that industry. To address these unique needs, our QHSLab utilizes three primary areas: assessment, scoring and feedback.
+ 
+Assessment
+ 
+Assessment collects behaviors of interest, health and medical data, and psychosocial variables considered important determinants of disease risk and behavioral change. The Questionnaire and Survey Creator is a generic tool that allows the clinical user of QHSLab to build specific ‘dynamic forms’ for medical and health assessments that allow for variations within the setting or industry that ultimately do not harm the integrity of the overall collection of research-based health data for wider analysis. The generic form creator allows QHSLab to build data sets tailored to specific user-groups, users and customer requirements. These settings allow for specificity when benchmarking populations and organizations within industries.
+
+4
+-
+
+Scoring
+ 
+Scoring is guided by computer-based decision rules, also known as Artificial Intelligence or AI, using pre-programmed mathematical algorithms. For example, the Quality Health Score™ (QHS) Algorithm makes use of an individual’s accumulated health risk data over time and pin points necessary changes to lower health risk based on behavioral and psychological principles, which programmatically guide the individual to lower his health risk. The QHS algorithm adapts to the individual’s changes and resets goals and plan of direction, through ‘Machine Learning’ and ‘Big Data Analytics’ methodologies.
+Feedback
+ 
+Feedback provides individually tailored reports. Our QHSLab Feedback Reports utilize incoming responses from assessments, the calculations from scoring algorithms and combine key words, sentences and paragraphs in a manner most likely to effect behavioral change beneficial to the user. The underlying constructs that guide the expert system stem from behavioral theory and computerized AI. QHSLab provides normative (compared with population norms) and ipsative (compared with previous scores) feedback on salient variables relevant to the general population and the specific individual being served.
+ 
+Advantages of the QHSLab Expert System
+ 
+QHSLab has the potential to play the same role in behavioral medicine and lifestyle interventions that pharmacological interventions play in biological medicine. It will help physicians and healthcare organizations overcome a number of barriers preventing adoption of behavioral and therapeutic change programs for health promotion and disease prevention through easy to use digital applications.
+ 
+Through purposeful design, the QHSLab Expert System aims to:
+ 
+
+● | Conduct a comprehensive assessment of patient behaviors, lifestyle and disease risk 
+--+---------------------------------------------------------------------------------------------------
+● | Integrate into existing physician and healthcare interventions 
+● | Collect and compile relevant, empirical data 
+● | Utilize this information for decision making (both artificial and naturalistic) 
+● | Account for individual differences yet be appropriate for whole populations 
+● | Provide guidelines for consistent decisions 
+● | Demonstrate flexibility by allowing new variables to be added 
+● | Require relatively low-skilled IT involvement in assessment or patient program development 
+● | Maximize revenue by providing less costly ‘digital’ alternatives to face-to-face interactions. 
+
+ 
+A complete assessment is one that covers the entire range of patient behaviors, lifestyle and disease risk. QHSLab aims to be modifiable and synergistic with other interventions patients currently employ and complementary to their clinical encounters.
+ 
+Our interventions will be ideal for population-based approaches. First, we will provide an efficient means of screening. Upon development, our interactive programs will branch into in-depth assessment when a problem area is identified. Second, QHSLab will include a large array of interventions that can be matched to individual user requirements.
+ 
+
+5
+-
+
+
+QHSLab will also incorporate a wide variety of different intervention materials. Our AI driven approaches will range from motivational materials for participants in early stages to detailed advice and support for participants in later stages of behavioral change. As a participant progresses (or regresses), different intervention materials will be available.
+ 
+Our system will provide an automated recording device so that minimal amounts of progress can be detected and reinforced. Gathering data through automation provides an extensive empirical data base that can be used to both serve the participant and provide an evaluation of the effectiveness of the system. Since health risk prevention can be very expensive in terms of the resources required to provide services to all participants, QHSLab represents a far less costly alternative.
+ 
+Components of the QHSLab Expert System
+ 
+Our QHSLab will include a Global Data Definition (GDD) function which will conform the meaning of data across ubiquitous parameter sets in a way that will enable QHSLab to cross correlate data without manual intervention. Data may be collected through different platform domains, collection techniques and services. For example, patients may enter their weight using a home scale or a healthcare professional may weigh the patient and enter the data. Alternatively, scales with a Bluetooth connection can send the data electronically to the database. All will be read and incorporated into the patients’ profiles. The GDD table allows the user to track variables between data sets and gives them the required functionality to modify data reports for analytical and research purposes.
+ 
+The Queryable Dataset Tool (QDT) will utilize the industry leader ‘Elastic Search’ platform to ensure that our customers have access to their data at any moment. Reports are generally executed via technical templates, hard coded by skilled IT labor and impractical for a layperson to use. This approach to retrieving data can be quite time and cost intensive. The QDT tool will allow authorized QHSLab personnel the ease to select and format data whenever needed. The QDT makes use of defined parameters that are aligned by the GDD. It introduces a technical layer of efficiency when performing the queries. The result is a fast, accurate and efficient system that a non-IT individual can use to create professionally tailored reports and templates with confidence.
+ 
+The QHSLab information management system will collect, store, analyze and report all elements, components and relationships of the business at a high level to provide transparent and accurate information on which decisions and policies can be based. A key feature of the system is the System Manager.
+ 
+This System Manager is purposely built and yet comfortably generic. It houses specifically-designed data capture software and modules engineered for ease of use and the minimization of data entry errors. The System Manager allows for version specific dashboards, allowing clients, customers and users a way to enter, report, compare and readily access data.
+ 
+Key features of the QHSLab System Manager under development include:
+ 
+● Super administrative ability to create new user accounts, user roles, privileges and connections.
+ 
+● Generic questionnaire and survey creator centered around a highly unique “Global Data Definitions” table enabling universal data mining, comparisons and understanding regardless of how the data is collected.
+ 
+● Version control features including multi language creator, units of measure standardization and automated conversations.
+ 
+● Automated assessment and survey data capture using smart phone, tablet or desktop via webpage or mobile application.
+ 
+● Internal and external reporting automated directly from the central repository into desired formats using the proprietary Queryable Dataset Tool (QDT) software which integrates with Microsoft Office and Google Docs type applications allowing internal staff to compile readily accessible reports from the central repository without the need for system engineers or software programmers on hand.
+ 
+
+6
+-
+
+
+● Automate single values, graphs and tables to be queried from the database and inserted into client reports using programs such as Microsoft Word reports, Microsoft Power Point presentations, Google Docs and display on web pages as described above via the QDT
+ 
+● Sophisticated email engine/text messaging notification software designed for scheduling any form of predetermined email/text notification, or report for example, daily, weekly or monthly, in collaboration with the generic questionnaire, survey system and interactive work-flow programs.
+ 
+● Generic interactive health and medical programs creator
+ 
+The generic nature of the data-capture system enables data to be collected in highly customized formats. Data can be collected through true/false, multiple-choice, Likert scales, weights and measures including conversion from imperial to metric-enabled, numerical, date and time based, text-based collection, multi-language control. The back-end database will also allow weightings, or scores, derived from the answers to questions by the participant without the participant knowing about the scoring which we call ‘Dimensions.’ The website and mobile-entry modules are available with any typical internet browser such as Google Chrome, Safari, Firefox, IOS or Android under a secure socket layer (SSL) certificate ensuring confidentially and privacy of the data.
+ 
+QHSLab data is stored in a highly indexed document database, secured by state-of-the-art firewall technology. Triple-redundancy ensures the data is backed up and safe from accidental or malicious deletion. Furthermore, sensitive data is able to be stored in software-driven encrypted ‘obfuscated’ format for added protection. The data itself can be securely exported into any number of desired formats for the purposes of statistical analysis by external tools, including ‘big data analytics’ and by external parties if required. The web interface is serviced by a weblication created in ‘React’ which is a well proven JavaScript library for building user interfaces.
+ 
+Competition
+ 
+The market for our future solutions is highly competitive and characterized by rapid change. The competitive success of our solutions will be contingent upon our ability to provide superior solutions and a strong value proposition for all potential customers. Many existing competitors are well-established and enjoy greater resources or other strategic advantages. It is likely that there will be new entrants into our market, some of which may become significant competitors. With the introduction of new technologies and market entrants, we expect the competitive environment to be and remain intense. We currently face competition from a range of companies, including Livongo Health, Virta Health Corp., Omada Health, Inc., Glooko, Inc., Hello Heart Inc., Lyra Health, Inc., Onduo LLC, Zillion, Inc., Lark Health and Noom, Inc.
+ 
+Our main competitors fall into the following categories:
+ 
+● private and public companies that offer specific chronic disease products and services, such as solutions for diabetes, hypertension, and certain addictions or behavioral health conditions;
+ 
+● large enterprises focused on the healthcare industry, including initiatives and partnerships launched by companies which may offer or develop products or services with features or benefits that overlap with our proposed future solutions; and
+ 
+● digital health device manufacturers that facilitate the collection of data but offer limited interpretation, feedback or guidance.
+ 
+Many of our current competitors enjoy greater resources, recognition, deeper customer relationships, larger existing customer bases, and more mature intellectual property portfolios than we do currently.
+ 
+
+7
+-
+
+Intellectual Property
+ 
+Although certain of our current software applications and pioneering methods, as well as those developed in the future, will be eligible for patent and trademark protection, we believe that the costs of maintaining and enforcing such intellectual property rights may not afford us a competitive advantage.
+Government Regulation
+ 
+Anti-Kickback Statutes
+ 
+The federal healthcare program Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual for, or the furnishing, arranging for or recommending a good or service for which payment may be made in whole or part under a federal healthcare program such as Medicare or Medicaid. The definition of remuneration has been broadly interpreted to include anything of value, including for example gifts, discounts, the furnishing of supplies or equipment, credit arrangements, payments of cash and waivers of payments. Several courts have interpreted the statute’s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals or otherwise generate business involving goods or services reimbursed in whole or in part under federal healthcare programs, the statute has been violated. The law contains few statutory exceptions, including payments to bona fide employees, certain discounts and certain payments to group purchasing organizations. Violations can result in significant penalties, imprisonment and exclusion from Medicare, Medicaid and other federal healthcare programs. Exclusion of a company would preclude any federal healthcare program from paying for its products. In addition, kickback arrangements can provide the basis for an action under the Federal False Claims Act, discussed in more detail below. The Anti-Kickback Statute is broad and potentially prohibits many arrangements and practices that are lawful in businesses outside of the healthcare industry. Recognizing that the Anti-Kickback Statute is broad and may technically prohibit many innocuous or beneficial arrangements, the Office of Inspector General of Health and Human Services, or OIG, issued a series of regulations, known as safe harbors. These safe harbors set forth provisions that, if all the applicable requirements are met, will assure healthcare providers and other parties that they will not be prosecuted under the Anti-Kickback Statute. The failure of a transaction or arrangement to fit precisely within one or more safe harbors does not necessarily mean that it is illegal or that prosecution will be pursued. However, conduct and business arrangements that do not fully satisfy each applicable safe harbor may result in increased scrutiny by government enforcement authorities such as the OIG. Arrangements that implicate the Anti-Kickback Law, and that do not fall within a safe harbor, are analyzed by the OIG on a case- by-case basis. Government officials have focused recent enforcement efforts on, among other things, sales and marketing activities of healthcare companies, and recently have brought cases against individuals or entities with personnel who allegedly offered unlawful inducements to potential or existing customers in an attempt to procure business. Settlements of these cases by healthcare companies have involved significant fines and/or penalties and in some instances criminal pleas. In addition to the Federal Anti-Kickback Statute, many states have their own kickback laws. Often, these laws closely follow the language of the federal law, although they do not always have the same exceptions or safe harbors. In some states, these anti-kickback laws apply with respect to all payors, including commercial health insurance companies.
+False Claims Laws
+ 
+Federal false claims laws prohibit any person from knowingly presenting, or causing to be presented, a false claim for payment to the federal government or knowingly making, or causing to be made, a false statement to get a false claim paid. Manufacturers can be held liable under false claims laws, even if they do not submit claims to the government, if they are found to have caused submission of false claims. The Federal Civil False Claims Act also includes whistle blower provisions that allow private citizens to bring suit against an entity or individual on behalf of the United States and to recover a portion of any monetary recovery. Many of the recent highly publicized settlements in the healthcare industry related to sales and marketing practices that were the subject of cases brought under the False Claims Act. The majority of states also have statutes or regulations similar to the federal false claims laws, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor. Sanctions under these federal and state laws may include civil monetary penalties, exclusion of a manufacturer’s products from reimbursement under government programs, criminal fines and imprisonment.
+
+8
+-
+
+Privacy and Security
+ 
+In an effort to further combat healthcare fraud and protect patient confidentially, Congress included several anti-fraud measures in the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). HIPAA created a source of funding for fraud control to coordinate federal, state and local healthcare law enforcement programs, conduct investigations, provide guidance to the healthcare industry concerning fraudulent healthcare practices, and establish a national data bank to receive and report final adverse actions. HIPAA also criminalized certain forms of health fraud against all public and private insurers. Additionally, HIPAA mandates the adoption of standards regarding the exchange of healthcare information in an effort to ensure the privacy and security of patient information and standards relating to the privacy of health information. Sanctions for failing to comply with HIPAA include criminal penalties and civil sanctions. In February of 2009, the American Recovery and Reinvestment Act of 2009 (“ARRA”) was signed into law. Title XIII of ARRA, the Health Information Technology for Economic and Clinical Health Act (“HITECH”), provided for substantial Medicare and Medicaid incentives for providers to adopt electronic health records (“EHRs”) and grants for the development of health information exchange (“HIE”). Recognizing that HIE and EHR systems will not be implemented unless the public can be assured that the privacy and security of patient information in such systems is protected, HITECH also significantly expanded the scope of the privacy and security requirements under HIPAA. Most notable are the new mandatory breach notification requirements and a heightened enforcement scheme that includes increased penalties, and which now apply to business associates as well as to covered entities. In addition to HIPAA, a number of states have adopted laws and/or regulations applicable in the use and disclosure of individually identifiable health information that can be more stringent than comparable provisions under HIPAA.
+ 
+We believe that our future business operations will be fully compliant with applicable standards for privacy and security of protected healthcare information. We cannot predict what negative effect, if any, HIPAA/HITECH or any applicable state law or regulation will have on our business.
+ 
+FDA Ruling: Examples of Mobile App’s which it Intends to Exclude from Regulation.
+ 
+On September 25, 2013, the FDA issued Finalized Guidance on medical mobile applications (“Apps”). The FDA has issued a ruling on Apps that may meet the definition of a medical device, but they have determined that they will not exercise enforcement on these Apps. The Guidance contains an appendix that provides examples of mobile apps that may meet the definition of medical device but for which the FDA intends to exercise enforcement discretion. These mobile apps may be intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease. Even though these mobile apps may meet the definition of medical device, the FDA intends to exercise enforcement discretion for these mobile apps because they pose lower risk to the public. The FDA understands that there may be other unique and innovative mobile apps that may not be covered in this list that may also constitute healthcare related mobile apps. This list is not exhaustive; it is only intended to provide clarity and assistance in identifying the mobile apps that will not be subject to regulatory requirements at this time. Based on our understanding of the Guidance, although there can be no guarantee, we believe our QHSLab services will eventually be subject to regulatory requirements because such services seem to fall within the statutory examples of medical devices with respect to which the FDA intends to monitor compliance with applicable regulations.
+ 
+Employees
+ 
+As of January 31, 2020, we had two employees devoting substantially full-time services to the Company, the Company’s technical development and software engineers. In addition, we engage independent entities and consultants that provide programming services and Quality Management System development and Medical Consulting & Advisory services. We believe that our relationship with our employees and consultants are good.
+
+9
+-
+

@@ -1,0 +1,459 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. BUSINESS
+Overview and Corporate Information
+ 
+FaceBank Group, Inc. was incorporated under the laws of the State of Florida in February 2009 under the name York Entertainment, Inc. On September 30, 2019, the Company’s name was changed to FaceBank Group, Inc.
+ 
+On April 1, 2020, FaceBank effected a merger (the “Merger”) pursuant to which fuboTV, Inc., a Delaware corporation and a leading live TV streaming platform for sports, news and entertainment, became a wholly owned subsidiary of the Company. On May 1, 2020, the Company’s trading symbol was changed to FUBO.
+ 
+Before the Merger, Facebank Group was and continues to be a character-based virtual entertainment company, and a leading developer of digital human likeness for celebrities and consumers, focused on applications in traditional entertainment, sports entertainment, live events, social networking, mixed reality (AR/VR) and artificial intelligence. Facebank Group is positioned as a technology driven, intellectual property company with significant revenue participations in the digital likeness of leading celebrities and character-based entertainment properties.
+ 
+Following the Merger, we operate our business under the name “fuboTV” and we are in the process of changing the name of FaceBank Group, Inc. to fuboTV, Inc. Our headquarters relocated to 1330 Avenue of the Americas, New York, NY 10019 following the merger, and our telephone number is (212) 672-0055. You can access our websites, including historical financial information pertaining to fuboTV, Inc., at https://fubo.tv, https://ir.fubo.tv, https://facebankgroup.com and https://ir.facebankgroup.com. Information contained on our websites is not part of this Annual Report on Form 10-K and is not incorporated by reference herein.
+ 
+The financial statements included in this Annual Report on Form 10-K represent only the historical operating results of Facebank Group, Inc. and do not include the operating results of fuboTV, Inc.
+ 
+Nature of Business
+ 
+The Company is a leading digital entertainment company, combining fuboTV’s direct-to-consumer live TV streaming platform with FaceBank’s technology-driven IP in sports, movies and live performances. This business combination, operating as fuboTV, Inc., will create a content delivery platform for traditional and future-form IP. fuboTV plans to leverage FaceBank’s IP sharing relationships with leading celebrities and other digital technologies to enhance its already robust sports and entertainment offerings.
+ 
+Since the Merger, while we continue our previous business operations, we are principally focused on offering consumers a leading live TV streaming platform for sports, news and entertainment through fuboTV. fuboTV revenues are almost entirely derived from the sale of subscription services and advertising in the United States, though fuboTV has started to assess expansion opportunities into international markets, with operations in Canada and the launch in late 2018 of its first ex-North America offering of streaming entertainment, to consumers in Spain.
+ 
+Our subscription-based services are offered to consumers who can sign-up for accounts at https://fubo.tv, through which we provide basic plans with the flexibility for consumers to purchase the add-ons and features best suited for them. Besides the website, consumers can also sign-up via some TV-connected devices. The fuboTV platform provides, what we believe to be, a superior viewer experience, with a broad suite of unique features and personalization tools such as multi-channel viewing capabilities, favorites lists and a dynamic recommendation engine as well as 4K streaming and Cloud DVR offerings.
+ 
+Industry Overview
+ 
+With the broad global adoption of internet connectivity, streaming platforms have seen rapid adoption as consumers engage with TV and audio through a variety of devices, including TV, mobile phones and tablets. The penetration of multiple devices and streaming has brought the convenience of watching whatever, whenever and wherever to consumers. According to Comscore over-the-top media services (“OTT”) Intelligence data, as of March 2019, half of all US households have OTT streaming. Streaming continues to increase its share of TV viewing hours, now accounting for 15% of total TV viewing hours based on 3 month average in March 2019, but is still in the early innings of adoption. The majority, 65% of OTT viewing households, still have subscriptions to traditional PayTV, according to Comscore OTT Intelligence. While traditional live TV accounts for the majority of TV viewing hours for US households, the proportion is declining as customers continue cutting the cord. Consumers are increasingly favoring the streaming experience and lower cost of streaming services. As stated in a February 2019 eMarketer report, cord-cutters and cord-nevers are expected to reach 49 million US households in 2020.
+
+4
+-
+
+ 
+
+Historically, sports and news have been a key growth driver for PayTV operators to attract audiences at scale. Amongst streaming providers, live sports and news represent a largely untapped opportunity, as virtual multichannel video programming distributors, or vMVPDs, have been focused largely on entertainment offerings. Avid sports fans have been forced to stay tethered to the PayTV ecosystem. According to a December 2019 Moffett Nathansan report, 60% of US households consume sports on a regular basis and 90% of sports consuming households continue to subscribe to PayTV, creating a significant opportunity to provide live sports over streaming.
+ 
+PayTV has been slow to adapt to changing customer needs. In its Telecommunications Report, the American Customer Satisfaction Index (ACSI) found that streaming-video services averaged a score of 76 out of 100 while traditional PayTV remained substantially lower at 62 out of 100 (last places amongst the 46 industries tracked by ASCI) in 2019. Further, according to Leichtman Research Group as of November 2019, the average US cable package costs $110 per month, significantly higher than virtually all OTT options. PayTV providers have struggled to retain consumers, as US PayTV households decreased by 5.9 million in 2019, according to eMarketer. Virtual MVPDs (vMVPDs), services that provide multiple television channels via broadband, are quickly taking a share of the market by delivering greater value at a lower price. vMVPDs offer consumers a larger range of content that can be viewed anywhere, on any device, online or off, and with new features continuously being innovated. With superior direct-to-consumer (DTC) relationships and easier, more convenient functionality, we believe it will be a matter of time before streaming is the preferred medium across all platforms for TV consumption.
+ 
+We also expect that the COVID-19 pandemic will have lasting effects on consumer behavior. With the increasing likelihood of sports resuming with empty stadiums and otherwise generally limited in-person viewership, we believe fans will turn to digital streaming solutions. vMVPDs are also a more affordable alternative to PayTV, which, we believe, in this current economic climate, further accelerates adoption.
+ 
+Our Market Opportunity 
+ 
+The rapid shift to TV streaming has disrupted the traditional cable TV distribution model, creating new options for consumers and new opportunities for broadcasters and advertisers. Cord-cutting and cord-never households continue to accelerate adoption in the US, as PayTV subscribers increasingly favor the streaming experience. We believe this creates significant opportunities for vMVPDs to address the $199 billion global PayTV services market in 2018, according to a September 2019 Digital TV Research report.
+ 
+Traditional Linear TV advertising spending in the U.S. was $71 billion in 2019, according to a March 2020 eMarketer report, and is expected to be $175 billion globally in 2020, according to a June 2019 MAGNA report. As consumers continue to spend more time streaming content, we believe advertisers will allocate dollars away from traditional TV advertising to advertising on streaming services. According to a MAGNA April 2019 report, OTT advertising spending is expected to reach $5 billion in 2020. Today, streaming accounts for 15% of total TV hours viewed, but only attracts 5% of ad spending. If OTT advertising spending rises to levels commensurate with current share of viewing hours, this represents over $10 billion of additional opportunity.
+ 
+Streaming platforms have a significant opportunity to enable digital subscriptions, eCommerce transactions and other consumer services. We believe our sports-first product offering is well suited to facilitate sports wagering in the future as a natural extension of engaging sports content. Sports wagering is a rapidly growing and large opportunity. According to H2 Gambling Capital, the global online sports wagering market was estimated to be approximately $70 billion in 2019.
+ 
+Our Offerings
+ 
+We offer consumers a leading live TV streaming platform for sports, news and entertainment. We provide basic plans with the flexibility for consumers to purchase the add-ons and features best suited for them. Our base plan, fubo Standard, includes 100+ channels, including 43 of the top 50 Nielsen-rated networks (Adults 18-49; Primetime), dozens of channels with sports, the most news, and the most popular entertainment channels on television. Subscribers have the option to add premium channels and additional channel packages, as well as upgrade features such as more Cloud DVR storage and additional simultaneous streams with Family Share.
+ 
+fuboTV streams most NFL, MLB, NBA and NHL games, all major soccer leagues and a wide range of college and other sports. Airing nearly 35,000 sporting events per year on the channels we carry, our extensive sports coverage attracts sports-fans looking to replace cable TV. While our sports offerings are key to customer acquisition, our broader entertainment and live news continue to drive viewership and retention on the platform. fuboTV has a robust news lineup with more news channels in its base plan than any other live TV streaming platform and also offers over 700 local TV channels covering 99% of US households. Additionally, fuboTV’s entertainment offering includes more than 30,000 TV shows and movies via VOD each month.
+ 
+
+5
+-
+
+Our Competition
+ 
+The TV streaming market continues to grow and evolve as more viewers shift from traditional PayTV to streaming. There is significant competition in the TV market for users, advertisers and content. We principally compete with legacy PayTV operators, such as AT&T / DirecTV, Charter, Comcast, Cox and Altice, along with other vMVPDs. While the presence of these competitors in the market has helped to boost consumer awareness of TV streaming, contributing to the growth of the overall market, their resources and brand recognition present substantial competitive challenges.
+ 
+We compete on various factors to acquire and retain users. These factors include quality and breadth of content offerings, especially within live sports; features of our TV streaming platform, including ease of use and superior user experience; brand awareness in the market; and perceived value relative to the price of our service. Additionally, we compete for user engagement. Many users have multiple subscriptions to various streaming services and allocate time and money between them.
+ 
+We also face competition for advertisers, which in part depends on our ability to acquire and retain users. Providing a large and engaged audience is crucial for advertisers on our live TV streaming platform. In the TV streaming market, the effectiveness of advertisements and return on investments play a pivotal role. As such, we are also competing for advertisers based on the return of ads compared to various other digital advertising platforms, including mobile and web. Additionally, advertisers continue to allocate a large portion of spend to advertise offline. Therefore, we also compete with traditional media platforms such as linear TV and radio. We are increasingly leveraging our data and analytics capabilities to optimize advertisements for both users and advertisers. We need to continue to maintain an appropriate advertising inventory for the growing demand for ads on our platform.
+ 
+Furthermore, we compete to acquire exclusive content. While the broadcast and cable network content that comprises the vast majority of our offering is non-exclusive, our ability to additionally license exclusive content from right holders is dependent on the scale of our user base as well as license terms.
+ 
+We also believe the prior work of our principals, continues to position the Company as a recognized leader in the production of hyper-realistic digital humans for applications in entertainment. We are aware of a number of companies connected to the video game market that are also attempting to improve the realism of digital humans in video game applications, and in other real-time applications. Traditional feature film visual effects companies also, from time to time, produce digital human characters for feature films. While such companies, in the video game markets and in the film markets, have struggled to produce digital human characters that are extremely realistic and believable as humans, we do expect the demand for digital humans and related applications to grow and such competition to intensify.
+ 
+Our Competitive Strengths
+ 
+We believe that our revenue and subscriber growth are a result of the following competitive strengths:
+ 
+Comprehensive Sports, News & Entertainment Content
+ 
+fuboTV began as a niche, soccer centric product offering and has since leveled up to become one of the broadest OTT entertainment offerings with over 75% of “C3” Viewership and many top Nielsen-ranked sports, news and entertainment channels for cord-cutters. C3 is a metric that is used by Nielsen TV ratings to measure TV viewership in live programming plus total playback by digital video recorder (ex. DVR) out to three days after. Nielsen TV ratings are the audience measurement systems operated by Nielsen Media Research that seek to determine the audience size and composition of television programming in the United States using a rating system. While we continue to hook consumers with extensive premium sports content, our increasingly broad and deep news and entertainment offerings drive total viewership and retention of our users. We believe we will continue to grow our premium content offering through identifying and executing strategic deals that best suit our consumer’s preferences.
+Technology-driven, Character-based Entertainment IP 
+ 
+We believe our globally recognized human animation and digital likeness technologies, which have allowed us to secure attractive long-term revenue sharing relationships with leading celebrities and entertainment properties, represent an attractive and potentially lucrative opportunity to offer innovative new forms of entertainment content to our subscriber and to consumers at large. We currently have revenue participation rights, marketing licenses and/or residual rights pertaining to the digital likeness of Floyd Mayweather, Muhammad Ali, Michael Jackson, Elvis Presley, Marilyn Monroe, and ABBA. We also own minority interests in a production company which holds the exclusive rights to live theatrical adaptations of Dreamwork’s Kung Fu Panda in the continent of Asia. Our recent announcement of plans to develop a new form of pay-per-view sports entertainment, featuring ‘Virtual Mayweather’ competing in simulated championship-style fights against other historically significant champion boxers, provides an example of the types of future-form content that we believe will be attractive to fuboTV consumers.
+
+6
+-
+
+Intuitive User Experience 
+ 
+We believe our intuitive user experience and product features will enable us to become a leading OTT entertainment service. We believe that investing in the user experience has and will continue to generate significant benefits for our platform. We believe we are continually innovating to give subscribers a premium viewing experience they can’t find with cable TV and are regularly first-to-market with new product features. Our product is highly customizable and provides an optimized experience for live streaming and personalization. The platform provides a broad suite of unique features and personalization tools such as multiple viewing capabilities, favorites lists and a dynamic recommendation engine as well as 4K streaming and Cloud DVR offerings. Through our dedication to providing a best-in-class customer experience, we have received overwhelmingly positive feedback. As our personalization becomes more refined, we believe we will increase our current users’ engagement and will attract new users to our platform.
+Proprietary Technology with Enhanced Features
+ 
+Proprietary technology and data are foundational to our sustainable competitive advantage. Our DTC model enables significant data capture, allowing us to best understand and adjust to our consumer needs, based on data points collected monthly from users. Coupling the deep understanding of our users from the data collected with our consistent investment in automated monitoring and our machine learning-based recommendation engine has allowed us to better address customer needs and enhance both user experience and targeted advertising opportunities. Further, we have continued to increase our IP portfolio to 15 issued, published and pending patents. We believe our proprietary technology infrastructure will continue to enable us to provide an unmatched user experience to our subscribers and is scalable, providing an ongoing cost and margin advantage as we grow.
+Delivering Significant Value to Our Subscribers
+ 
+We seek to provide a flexible product offering, delivering leading bundles for consumers that best meet their price point. With a broad menu of subscription plans and platform add-ons, subscribers are able to customize their offering with enhanced features and content, providing a valued platform at an attractive price. fuboTV’s base package is significantly cheaper than traditional PayTV options and includes 100+ channels across a variety of sports, news and entertainment content. In order to provide flexibility in pricing and the best value for our subscribers, our add-on options are an incremental cost to the base plan and enable users to purchase both enhanced content (e.g. Sports Plus, which features NFL RedZone; SHOWTIME) and feature attachments (e.g. enhanced Cloud DVR, Family Share plan). fuboTV is also the only vMVPD to stream in 4K. Our value to subscribers continues to be exhibited as we continue to drive more subscribers to the platform and have experienced increased retention levels as our platform matures.
+Our Growth Strategy
+ 
+We believe that we are at the very early stages of our growth and that we are at an inflection point in the TV industry where streaming has begun to surpass traditional linear TV in several key areas, including content variety, flexible access and cost savings to consumers. We have identified potential growth opportunities, both in current markets and adjacent markets, that provide additional upside to our business model. The key elements to our growth strategy are:
+
+● | Accelerate Subscriber Acquisition 
+--+---------------------------------------------------------------
+● | Upsell and Retain Existing Subscribers 
+● | Grow Advertising Inventory 
+● | Continuing to Enhance Our Content Portfolio and Technology 
+● | Expand Internationally 
+● | Enter into Adjacent Markets 
+
+Our Business Model
+ 
+We drive our business model with three core activities:
+ 
+
+● | Grow our paid subscriber base 
+--+--------------------------------------
+● | Optimize engagement and retention 
+● | Increase monetization 
+
+Grow Our Paid Subscriber Base
+ 
+We are still in the early stages of growth. As of December 31, 2019, we had 315,789 paid subscribers, a small fraction of the $199 billion global PayTV market. We plan to continue to attract more users with a highly compelling OTT streaming value proposition that allows users to access the most comprehensive live sports offering, as well as the most relevant channels for news and entertainment, at a significantly lower price relative to traditional PayTV. We believe our success in growing our subscriber base is due to our data-driven digital marketing efforts and our broadening customer demographics. We believe international expansion represents a large opportunity to grow our subscriber base. We plan to invest in our international strategy over time and become a global business in the long term.
+
+7
+-
+
+ 
+
+We have both Free Trial Users, who have created an account and are within the 7-day free trial period, and Paid Subscribers (“subscribers”), who have a paid subscription and from whom we have collected payment for the current cycle.
+ 
+We have grown our Paid subscriber base significantly over the past several years and ended 2019 with 315,789 paid subscribers, up 37% year over year.
+ 
+Grow Engagement & Retention 
+ 
+We intend to increase user engagement and hours streamed by offering more content that is easier to find and discover on our platform, including more News and Entertainment. By increasing the available content on our platform and making it easily accessible, we have diversified the type of content streamed, resulting in higher customer engagement and retention.
+ 
+Monthly active users (MAUs) refers to the total count of subscribers that have consumed content for greater than 10 seconds in the last 30 days from the period-end indicated. In December 2019, our monthly active users (MAUs) watched 123 hours across the platform on average, and those who streamed primarily on connected TVs watched an average of 144 hours. Content hours per MAU is a key metric and our users (paid and trial/free) streamed 298.7 million hours in 2019, a 210% increase year over year.
+ We have identified the following three key drivers that we believe have helped us increase our subscriber engagement:
+ 
+
+● | Our subscribers are watching more than just sports. While many subscribers initially come to us for sports, we compel them to stay for other content as well, with more than 70% of viewership hours in December 2019 spent on non-sports content. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Our subscribers are coming back for shows that they may have missed. The percentage of subscribers that are using and watching DVR has increased from 20% in October 2018 to 41% in February 2020. 
+● | Because subscribers are watching a broader range of content and recording shows to be watched later, both programs per MAU and channels watched per MAU have increased significantly. The average MAU now consumed 140+ programs on 16 different channels in February 2020, up from only 59 programs on 10 channels in October 2018. 
+
+ 
+Engagement is the leading indicator of retention for our subscribers. We have continued to increase subscriber engagement, which has resulted in an increased average number of content hours per MAU, representing an increase from 34 hours in the first quarter of 2018 to 123 hours in the fourth quarter of 2019.
+ 
+Further, we believe that the consistent improvements we have driven in engagement have led to an increased retention rate amongst our subscribers.
+ 
+Increase Monetization 
+ 
+We expect to continue to grow Average Revenue Per User (“ARPU”), which is our subscription revenue and ad revenue divided by average daily paid subscribers in the relevant period, by growing hours streamed and enhancing our advertising monetization capabilities. Advertising-based content is our fastest growing segment, and we are increasing the monetization of these hours by expanding our advertising capabilities. We intend to continue to leverage our data and analytics to deliver relevant advertising and improve the ability of our advertisers to optimize their campaigns and measure their results.
+ 
+ARPU increased 42% YoY to $53.80 in 2019. Our 2 main sources of revenue are Subscription revenue and Advertising revenue, both of which have seen continuous growth since 2017. Our subscription ARPU increased to $49.37 while advertising ARPU grew to $4.43.
+ 
+We believe that additional attachments to the basic package such as premium content packages as well as services which include Cloud DVR will be a key driver of increasing ARPU for our existing and future subscriber base, and we have already seen the number of attachments grow significantly.
+ 
+Key Factors Affecting Performance
+ 
+
+● | Sports Industry: Our content depends on the operations of sports leagues both domestically and abroad. While our platform provides a broad suite of offerings across sports, news and entertainment, sports is a key acquisition lever and appeal of our offering, and the operations of sports leagues is important to our user base. The recent COVID-19 pandemic and the hiatus of live sports globally has impacted our business as sports viewership has declined. The return of leagues both with and without live audiences will greatly impact our platform and ability to serve our subscriber base. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8
+-
+
+
+● | Rise of Cord Cutting & Shift To OTT Streaming: Consumers have significantly shifted their TV viewing behavior, and we believe there will be an ongoing shift to OTT streaming. This is a critical component of our business model as all of our revenues, both subscription and advertising, are dependent on this shift. In addition, the number of hours streamed on our platform is a critical element of our business because hours determine our retention, attachment rates and our advertising inventory. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Seasonality: We generate significantly higher levels of revenue and subscriber additions in the third and fourth quarters of the year. This seasonality is driven primarily by sports seasons, specifically the NFL, which have shorter partial-year seasons. For example, in 2018 and 2019, our third and fourth quarters combined each represented 61% and 57% of our total revenue and 60% and 65% of our total gross paid subscriber additions, respectively. We also incur higher sales and marketing expenses during these periods, which we expect to continue. 
+● | Ability to Grow Internationally: Entering new geographic markets requires us to invest in sales and marketing, infrastructure, and personnel. Our international growth will depend on our ability to sell relevant content and attractive offerings in international markets. Our international expansion has resulted in, and will continue to result in, increased costs and is subject to a variety of risks, including local competition, content localization, multilingual customer support and compliance with foreign laws and regulations. 
+● | Ability to Attract and Retain Subscribers: The ability to continue the growth of our subscriber base is key to our success. Along with the growth of our revenues being driven by an increased subscriber base, our margin profile becomes increasingly attractive with scale. Our long-term growth will partially depend on our continued ability to retain existing subscribers. Engagement is the leading indicator of retention for our subscribers, and we must continue to provide a differentiated user experience to acquire and retain subscribers. 
+● | Ability to Monetize Users: Our business model depends on our ability to monetize user engagement with our platform, primarily through subscriptions and advertising. Our ability to grow subscription revenues relies on our ability to increase pricing power as well as the amount of incremental attachments subscribers add-on to their platform. We also rely on our ability to increase advertising revenues. Our ability to leverage our data to provide users with relevant ads and measure the effectiveness of these advertisements on our platform is also a key factor to an increased wallet share of advertising budgets spent on our platform. 
+
+Intellectual Property
+ 
+Our intellectual property is an essential element of our business. We rely on a combination of patent, trade secret, trademark, copyright and other intellectual property laws, confidentiality agreements and license agreements to protect our intellectual property rights. We also license certain third-party technology for use in conjunction with our products.
+ 
+We believe that our continued success depends on hiring and retaining highly capable and innovative employees, especially as it relates to our engineering base. It is our policy that our employees and independent contractors involved in development are required to sign agreements acknowledging that all inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf are our property and assigning to us any ownership that they may claim in those works. Despite our precautions, it may be possible for third parties to obtain and use without consent intellectual property that we own or license. Unauthorized use of our intellectual property by third parties, and the expenses incurred in protecting our intellectual property rights, may adversely affect our business.
+ 
+
+9
+-
+
+Patents and Patent Applications
+ 
+As of May 29, 2020, we had two issued U.S. patents, four non-provisional U.S. patent applications, one U.S. design patent application, 18 granted international design patent registrations, six international patent applications, and one international Patent Cooperation Treaty patent application pending. The issued patents expire in 2038, and the international design registrations have expiration dates ranging from 2035 to 2045. The table below summarizes our issued patents and patent applications pending as of May 29, 2020:
+
+Patent #/ Patent App’n Serial # | Expiration Date | Status | Reference No. and Title 
+---------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10,440,367 | 06/04/2038 | ISSUED | P440132.US.01 SYSTEMS AND METHODS FOR ADAPTIVELY ENCODING VIDEO STREAM 
+16/577,481 | 06/04/2038 | PUBLISHED | P440132.US.01C SYSTEMS AND METHODS FOR ADAPTIVELY ENCODING VIDEO STREAM 
+3045125 | 06/04/2039 | ALLOWED | P440132.CA.01 SYSTEMS AND METHODS FOR ADAPTIVELY ENCODING A VIDEO STREAM USING VIRTUAL ENCODERS, BASED ON CHANGES IN THE NUMBER OF VIEWERS AND DESIRED VIDEO QUALITY 
+19178276.2 | 06/04/2039 | PUBLISHED | P440132.EP.01 SYSTEMS AND METHODS FOR VIDEO ENCODING 
+10,419,786 | 07/20/2038 | ISSUED | P440135.US.01 SYSTEMS AND METHODS FOR SECURELY GENERATING LIVE PREVIEWS 
+16/531,428 | 08/05/2039 | PUBLISHED | P440135.US.02 SYSTEMS AND METHODS FOR SECURELY GENERATING LIVE PREVIEWS 
+19186819.9 | 07/17/2039 | PUBLISHED | P440135.EP.01 SYSTEMS AND METHODS FOR SECURELY GENERATING LIVE PREVIEWS 
+3049591 | 07/12/2039 | PENDING | P440135.CA.01 SYSTEMS AND METHODS FOR SECURELY GENERATING LIVE PREVIEWS 
+16/138,604 | 09/21/2038 | PUBLISHED | P440139.US.01 SYSTEMS AND METHODS FOR GENERATING INDIVIDUALIZED PLAYLISTS 
+19198697.5 | 09/20/2039 | PUBLISHED | P440139.EP.01 SYSTEMS AND METHODS FOR GENERATING INDIVIDUALIZED PLAYLISTS 
+3055711 | 09/17/2039 | PENDING | P440139.CA.01 SYSTEMS AND METHODS FOR GENERATING INDIVIDUALIZED PLAYLISTS 
+29/693,030 | 05/30/2034 | PENDING | P440142.US.03 DISPLAY SCREEN OR PORTION THEREOF WITH GRAPHICAL USER INTERFACE (DESIGN) 
+WIPO81763 | 03/22/2035 (CA) 03/22/2045 (EU, UK) | REGISTERED | P440142.WO.01 DISPLAY SCREEN OR PORTION THEREOF WITH ANIMATED GRAPHICAL USER INTERFACE (DESIGN) 
+16/580,920 | 09/24/2039 | PUBLISHED | P440142.US.04 SYSTEMS AND METHODS FOR DISPLAYING A LIVE VIDEO STREAM IN A GRAPHICAL USER INTERFACE 
+PCT/US2019/052707 | 09/24/2039 | PUBLISHED | P440142.WO.02 SYSTEMS AND METHODS FOR DISPLAYING A LIVE VIDEO STREAM IN A GRAPHICAL USER INTERFACE 
+
+ 
+Although we actively attempt to utilize patents to protect our technologies, we believe that none of our patents, individually or in the aggregate, are material to our business. We will continue to file and prosecute patent applications when appropriate to attempt to protect our rights in our proprietary technologies. However, there can be no assurance that our patent applications will be approved, that any patents issued will adequately protect our intellectual property, or that such patents will not be challenged by third parties or found by a judicial authority to be invalid or unenforceable.
+ 
+Trademarks
+ 
+We also rely on several registered and unregistered trademarks to protect our brand. As of May 29, 2020, we had three trademarks registered globally. “fuboTV” is a registered trademark in the United States and the European Union.
+Employees
+ 
+As of May 29, 2020, we had 208 full-time employees. None of our employees are represented by a union. We consider our relations with our employees to be good.
+
+10
+--
+
+Government Regulation
+ 
+Our business operations are subject to various domestic and foreign laws and regulations covering a wide variety of subject matters. These laws and regulations include general business regulations and laws, as well as regulations and laws specific to providers of streaming services. In particular, our business is subject to foreign and domestic laws and regulations applicable to companies providing streaming services over the Internet. Both domestic and international jurisdictions vary widely as to how, or whether, existing laws governing areas such as personal privacy and data security, consumer protection, payment processing or sales and other taxes and intellectual property apply to the Internet and e-commerce, and these laws are continually evolving. We are also are subject to various federal and state laws and regulations govern the collection, use, retention, sharing and security of the data we receive from and about our subscribers. The United States and foreign governments have enacted and are considering regulations that could significantly restrict industry participants’ ability to collect, use and share personal information, such as by regulating the level of consumer notice and consent required before a company can place cookies or other tracking technologies. Our content providers also are subject to a wide range of government regulations that may vary by jurisdiction. We seek to comply with all laws and regulations currently applicable to our business as well as those that arise in the future.
+Recent Developments
+ 
+Reverse Stock-Split and increase in Authorized Share Capital
+ 
+On February 28, 2019, the Company effectuated a 1-for-30 reverse stock split, and post-split, increased the authorized Stock, par value $0.0001 per share, to 400 million shares of common stock. The accompanying financial statements and notes to the financial statements give retroactive effect to the reverse stock split for all periods presented.
+Digital Likeness Development Agreement
+ 
+On July 31, 2019, and as amended January 25, 2020 , the Company entered into a joint venture and revenue share agreement called the Digital Likeness Development Agreement (the “Agreement”) among the Company, FaceBank, Inc., and professional boxing promoter and retired professional boxer, Floyd Mayweather, concerning the development of the hyper-realistic, computer generated ‘digital likeness’ of the face and body of Mr. Mayweather (“Virtual Mayweather”), for global exploitation in commercial applications.
+ 
+Pursuant to the terms of the Agreement, the Company and FaceBank, Inc. agreed to develop Virtual Mayweather, which is planned to be available for broad commercial purposes, based on the mutual agreement of Mr. Mayweather and the Company, including but not limited to, feature films, television commercials, award shows, live concerts, print advertisements, outdoor/public advertisements, endorsements, photographic and modeling engagements, video games, virtual reality, augmented reality, social media and other holographic public appearances.
+ 
+Under the terms of the Agreement, the Company is responsible for the advance funding of all technology related costs and animation services (collectively, “Virtual Mayweather Production Costs”) required to develop, produce and maintain Virtual Mayweather as a usable digital asset, readily deployable into animation production workflows as may be required by Virtual Mayweather profit-making activity. Virtual Mayweather will also be available, at Mr. Mayweather’s sole discretion, for Mr. Mayweather’s personal use, subject to the terms of the Agreement. Notwithstanding the foregoing, Mr. Mayweather will be responsible for any and all costs associated with his personal use of Virtual Mayweather.
+ 
+Under the terms of the Agreement, the Company agreed to pay a cash fee of $250,000, upon execution of the Agreement, to Mr. Mayweather, plus a 5-year option to purchase 280,000 shares of Company common stock at an exercise price of $7.20 per share. In addition, revenues will be split as follows:
+ 
+
+● | Until such time as the Company has recovered actual funded Virtual Mayweather Production Costs, revenues attributable to the exploitation of Virtual Mayweather will be divided 50% to the Company and 50% to Mr. Mayweather. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Any and all revenues attributable to the exploitation of Virtual Mayweather in excess of recovery of Virtual Mayweather Production Costs, will be divided 75% to Mr. Mayweather and 25% to the Company. 
+
+ 
+The term of the Agreement commenced on July 31, 2019 and will continue until July 31, 2024, unless extended by mutual agreement of the parties. The Company also has an option to extend the Agreement, for an additional five year term, if either (a) the cash proceeds paid to Mr. Mayweather in connection with the Agreement are equal to or greater than $5,000,000 during the final year of the Agreement, or (b) the cash proceeds paid to Mr. Mayweather in connection with the Agreement are equal to or greater than $15,000,000 during the entire term of the Agreement, either by third parties or by the Company or its affiliates.
+ 
+The Agreement provides that the Company will be responsible for the marketing, license, distribution and implementation of applications and the usage of Virtual Mayweather. All uses, application and deployments of Virtual Mayweather must be approved, in advance, by Mr. Mayweather or his designated representatives.
+ 
+Pursuant to the terms of the Agreement, FaceBank, Inc. is entitled to, and agreed to, utilize Virtual Mayweather in connection with various promotional initiatives intending to demonstrate to a global audience the diverse opportunities for usage of Virtual Mayweather, as well as the usage of digital likeness that may be enjoyed by consumers, prospective joint venture partners, and business development prospects of FaceBank, Inc. FaceBank, Inc. is controlled by John Textor, the Company’s former Chief Executive Officer and a current member of the Company’s Board of Directors, and a significant stockholder of the Company.
+ 
+
+11
+--
+
+ 
+
+On January 25, 2020, the Company entered into an amended Digital Likeness Development Agreement with Floyd Mayweather (the “Amended Agreement”) which supersedes the Agreement, dated July 31, 2019. All terms of the Agreement remain the same except for the following:
+ 
+
+● | The Amended Agreement term is from October 22, 2019 through October 22, 2024, unless extended by the parties. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | In place of the share-based awards with an approximate fair value of $1.0 million, the Company granted options to purchase 280,000 shares of the Company’s common stock. The options have a five-year term and expire on October 21, 2024. 
+
+Facebank AG Share Exchange and Purchase Agreement
+ 
+On August 15, 2019, the Company acquired 100% of the issued and outstanding capital stock of Facebank AG, a privately-owned Swiss corporation (the “Facebank AG”), in exchange for 2,500,000 shares of common stock, par value $0.0001 per share (the “Common Stock”), of the Company pursuant to a Share Exchange and Purchase Agreement, dated April 15, 2019 (the “Share Exchange Agreement”), between the Company and the sole shareholder of Facebank AG (the “Selling Stockholder”). Facebank AG is a Swiss holding company which owns a 11.2% minority interest in Nexway AG (“Nexway AG”) and had entered into a binding agreement to acquire an aggregate 62.3% majority interest in Nexway AG, no later than August 31, 2019. Nexway AG is a Karlsruhe-based and Germany-listed digital software and solutions company, which provides a subscription-based platform for the monetization of intellectual property, principally for entertainment, games and security software companies, through its proprietary merchant presence in 180 different countries. Facebank AG also owns 100% of StockAccess Holdings SAS (“SAH”), a French joint stock company and investor in the global luxury, entertainment and celebrity focused industries that directly or indirectly holds control investments in multiple other material subsidiaries, including 8+ Holdings LLC and P8H Inc, in the United States, and Highlight Finance Corp., in the British Virgin Islands (“HFC”). The Company purchased Facebank AG, principally to secure a global distribution network for the Company’s digital human applications and entertainment properties, which includes access to Nexway’s existing customer list of 14 million active subscribers, the considerably greater reach of Nexway’s custodial access to its clients’ customer lists, and the ability to conduct business directly in roughly 180 countries.
+ 
+Pursuant to the Share Exchange Agreement, the Company agreed to be bound, in all respects as borrower, by the bond obligations of SAH, Nexway SAS (the 100% owned French subsidiary of Nexway AG) and HFC. Notwithstanding the principal repayment requirements and terms of the Bonds, Company agreed to pre-pay at least EUR 9,500,000 of the outstanding principal of the SAH Bond by March 31, 2020, which was paid through a debt refinancing of FBNK Finance SarL, one of the Company’s subsidiaries.
+ 
+SAH is the borrower under EUR 20,000,000 bond (USD $22,209,0001) (“SAH Bond”) issued and outstanding with 100% ownership interest of SAH pledged under the SAH Bond, and SAH currently being in compliance with all the terms and obligations under the SAH Bond issuance conditions.
+ 
+Nexway SAS is the borrower under EUR 12,000,000 bond (USD $13,325,400) (“Nexway Bond”), of which EUR 7,500,000 is issued and outstanding, with 100% ownership interest of Nexway SAS pledged under the Nexway Bond, and Nexway SAS currently being in compliance with all the terms and obligations under Nexway Bond.
+ 
+HFC is the borrower under EUR 15,000,000 (USD $16,656,750) term bond facility issued and outstanding (“HFC Bond”), HFC is currently being in compliance with all the terms and obligations under the HFC Bond issuance conditions. HFC holds (i) as the secured creditor a $10,000,000 loan facility owed to HFC by SAH subsidiary, P8H Inc., as the borrower, (ii) 998,114 shares of common stock of the Company, and (iii) other assets.
+ 
+1 All USD equivalents in the above under the heading ” Facebank AG Share Exchange and Purchase Agreement” are based on an Euro/USD exchange rate of 1.11045 on August 15, 2019.
+ 
+On August 15, 2019, the Share Exchange Agreement, as amended, was consummated. Pursuant to the Share Exchange Agreement, on August 15, 2019, the Company agreed to be bound, in all respects as borrower, by the existing bond obligations of SAH, Nexway AG and HFC.
+ 
+Facebank AG as set forth in the Share Exchange Agreement, had entered into an Asset Purchase Agreement (the “Asset Purchase Agreement”) on August 15, 2019, with The Native SA, a publicly traded Swiss ecommerce and digital media company (“Native”) to acquire an aggregate 62.3% majority interest in Nexway AG from Native.
+ 
+Prior to entry into the Asset Purchase Agreement and as a condition precedent of entry into the Asset Purchase Agreement, 45,565 shares of Nexway AG had already been transferred by Native to StockAccess Holdings SAS (“SAH”) a wholly owned subsidiary of Facebank AG, which directly or indirectly holds control investments in multiple other material subsidiaries, including Highlight Finance Corp. in the British Virgin Islands (“HFC”).
+ 
+
+12
+--
+
+ 
+
+On September 19, 2019, the Asset Purchase Agreement was consummated pursuant to Native transferring 287,855 shares in Nexway AG to Facebank AG, in exchange for a purchase price of EUR 3,543,750 consisting of EUR 2,000,0000 in cash and 3 bonds of SAH maturing on April 1, 2024, ISIN DE000A2RY4P4 of EUR 500,000 par value each with an aggregate par value of EUR 1,500,000 and EUR 1,543,750 including accrued interest (the “Purchase Price”). The Purchase Price was paid prior to August 31, 2019, and pursuant to the Asset Purchase Agreement 35,000 shares of HFC were transferred to Facebank AG prior to August 31, 2019, as part of the assets being purchased thereunder.
+ 
+Pursuant to the closing of the Asset Purchase Agreement on September 19, 2019, Facebank AG held a total of 333,420 shares of Nexway AG representing 62.3% ownership interest in Nexway AG.
+ 
+Name Change to FaceBank Group, Inc.
+ 
+On September 6, 2019, the Company filed Articles of Amendment (the “Articles of Amendment”) to the Articles of Incorporation of the Company with the Florida Department of State, Division of Corporations. The Articles of Amendment provide for a change in the Company’s name from Pulse Evolution Group, Inc. to FaceBank Group, Inc. (the “Name Change”). The Company was notified by the Financial Industry Regulatory Administration (“FINRA”) that the market effective date for the Name Change was September 30, 2019. Beginning September 30, 2019, our trading symbol was changed to “FBNK” and as a result of the Name Change the Company’s common stock received the following new CUSIP number: 30310Y107. On May 1, 2020, our trading symbol was again changed, to reflect the Merger, to FUBO.
+ 
+Merger with fuboTV Inc.
+ 
+On April 1, 2020, pursuant to the Agreement and Plan of Merger and Reorganization dated as of March 19, 2020 (the “Merger Agreement”) fuboTV became a wholly-owned subsidiary of FaceBank. In accordance with the terms of the Merger Agreement, at the effective time of the Merger (the “Effective Time”) all of the capital stock of fuboTV was converted into the right to receive shares of a newly created class of Series AA Convertible Preferred Stock of FaceBank, par value $0.0001 per share (the “Series AA Preferred Stock”). The aggregate number of FaceBank common stock equivalent shares to be issued to fuboTV shareholders as a result of the Merger was 32,324,362 shares of Series AA Preferred Stock, each of which is convertible into two (2) shares of FaceBank common stock, par value $0.0001 per share (“FaceBank Common Stock”), for a total of 64,648,726 shares of FaceBank Common Stock on an as-converted basis. In addition, at the Effective Time, each outstanding option to purchase shares of common stock of fuboTV was assumed by FaceBank and converted into an option to acquire FaceBank Common Stock. The aggregate number of options to acquire FaceBank Common Stock as a result of the foregoing is 8,051,098, which are exercisable at a weighted average price of $1.32 per share.
+ 
+Each share of Series AA Preferred Stock is entitled to 0.8 votes per preferred share, and is convertible into two (2) shares of FaceBank Common Stock, only in connection with a bona fide transfer to a third party. The Series AA Preferred stock will benefit from certain protective provisions which, among others, require FaceBank to obtain the approval of a majority of the shares of outstanding Series AA Preferred Stock, voting as a separate class before undertaking certain actions. The effect of the Merger and the terms of the Series AA Preferred Stock is to initially establish an approximate two-thirds majority ownership of FaceBank on a common equivalent basis for the pre-Merger fuboTV shareholders while preserving a majority voting interest for the pre-Merger FaceBank shareholders.
+ 
+Pursuant to the Merger Agreement the parties agreed that Board of Directors of FaceBank would be expanded to seven (7) members comprised of (i) John Textor, (ii) David Gandler, (iii) three (3) members to be selected by FaceBank and (iv) two (2) members to be selected by fuboTV. Pursuant to the Merger Agreement, the parties also agreed that immediately following the Effective Time, the Chief Executive Officer of FaceBank would be David Gandler, and the executive chairman of the Board of Directors of FaceBank would be John Textor.
+ 
+In connection with the closing of the Merger, the Board of Directors of FaceBank approved the establishment of the FaceBank 2020 Equity Incentive Plan (the “Plan”). Pursuant to the Merger Agreement, FaceBank created an incentive option pool of 12,116,646 shares of FaceBank Common Stock under the Plan.
+ 
+In connection with execution and delivery of the Merger Agreement, each of the officers and directors of fuboTV and certain other shareholders of fuboTV, and certain shareholders of the Company executed and delivered lock-up agreements, with a term commencing at the Effective Time and continuing for a period of 180 days after the closing date of the Merger, with respect to the shares of the Company owned by them or to be acquired by them in the Merger, as applicable.
+ 
+Preferred Stock Designations
+ 
+On March 20, 2020, FaceBank amended its Articles of Incorporation to withdraw, cancel and terminate the previously filed (i) Certificate of with respect to 5,000,000 shares of its Series A Preferred Stock, par value $0.0001 per share, (ii) Certificate of Designation with respect to 1,000,000 shares of its Series B Preferred Stock, par value $0.0001 per share, (iii) Certificate of Designation with respect to 41,000,000 shares of its Series S Preferred Stock, par value $0.0001 per share and (iv) Certificate of Designation with respect to 1,000,000 shares of its Series X Preferred Stock, par value $0.0001 per share. Upon the withdrawal, cancelation and termination of such designations, all shares previously designated as Series A Preferred Stock, Series B Preferred Stock, Series C Preferred Stock and Series X Preferred Stock were returned to the status of authorized but undesignated shares of Preferred Stock, par value $0.0001 per share of FaceBank (the “Termination of Prior Designations Amendment”).
+
+13
+--
+
+ 
+
+On March 20, 2020, FaceBank filed an amendment to its Articles of Incorporation to designate 35,800,000 of its authorized preferred stock as “Series AA Convertible Preferred Stock” pursuant to a Certificate of Designation of Series AA Convertible Preferred Stock (the “Series AA Preferred Stock Certificate of Designation”). The Series AA Preferred Stock has no liquidation preference. The Series AA Preferred Stock is entitled to receive dividends and other distributions as and when paid on the Common Stock on an as converted basis. Each share of Series AA Preferred Stock is initially convertible into two shares of Common Stock, subject to adjustment as provided in the Certificate of Designation with respect to the Series AA Preferred Stock and shall only be convertible immediately following the sale of such shares on an arms’-length basis either pursuant to an exemption from registration under Rule 144 promulgated under the Securities Act or pursuant to an effective registration statement under the Securities Act. Each share of Series AA Preferred Stock shall have 0.8 votes per share (the Voting Rate”) on any matter submitted to the holders of the Common Stock for a vote and shall vote together with the Common Stock on such matters for as long as the Series AA Preferred Stock is outstanding. The Voting Rate shall be subject to adjustment in the event of stock splits, stock combinations, recapitalizations reclassifications, extraordinary distributions and similar events.
+ 
+In addition to the voting rights described above, until the earlier of such time as (i) no shares of Series AA Preferred Stock remain issued and outstanding and (ii) the Common Stock is listed on Nasdaq or the New York Stock Exchange, without first obtaining the affirmative vote or written consent of a majority of the Series AA Preferred Stock, voting as a separate class, and with each share of Series AA Preferred Stock having one vote, FaceBank may not (i) amend or repeal the Certificate of Designation with respect to the Series AA Preferred Stock, (ii) amend or repeal any provision of, or add any provision to, FaceBank’s Articles of Incorporation, (iii) undertake (x) any Affiliated Transaction (as defined in Section 607.0901(1)(b) of the Florida Business Corporation Act (the “FBCA”) with any “interested shareholder” (as defined in Section 607.0901(1)(k) of the FBCA, provided that, for purposes of this restriction, the words and number “10 percent” shall be replaced with “50 percent”), or “affiliate” (as defined in Section 607.0901(1)(a) of the FBCA) of such interested shareholder or (y) any Affiliated Transaction (as defined in the FBCA) with any “interested shareholder” (as defined in Section 607.0901(1)(k) of the FBCA) or “affiliate” (as defined in Section 607.0901(1)(a) of the FBCA) of such interested shareholder without the approval of such Affiliated Transaction by a majority of the disinterested and independent members of the Board of Directors of FaceBank, (iv) issue any capital stock or other equity securities of FaceBank or instruments or securities convertible into capital stock or other equity securities of FaceBank, other than (A) the issuance of shares of Common Stock pursuant to the exercise or settlement of stock options that were assumed in connection with the transaction by which the Series AA Preferred Stock was initially issued, (B) the granting of stock options or issuance of shares of Common Stock underlying such stock options, not to exceed ten percent (10%) of the capital stock of FaceBank, on a fully diluted basis, that is outstanding as of the initial issuance date of the Series AA Preferred Stock, and pursuant to a plan, agreement or arrangement approved by the Board of Directors of FaceBank), (C) any issuance of Conversion Shares (as defined below); and (D) any sale of shares of Common Stock at a price of $10.00 or more per share (subject to equitable adjustments for stock splits, stock combinations, recapitalizations, reclassifications, extraordinary distributions and similar events following the initial issuance date of the Series AA Preferred Stock ); provided, however, that, notwithstanding the foregoing, no consent shall be required in the case of a sale of shares of Common Stock at price of less than $10.00 per share (a “Permitted Stock Sale”) if, upon the closing of such Permitted Stock Sale FaceBank issues and distributes to the holders of the then-outstanding holders of its capital stock a number of shares of Common Stock equal to two times (2x) the number of shares of Common Stock that are sold in such Permitted Stock Sale (the “Distributed Shares”), with such Distributed Shares to be distributed to the holders of the then-outstanding shares of capital stock on a pro rata basis based on their percentage ownership of the then outstanding shares of capital stock (on an as converted to Common Stock basis, (v) undertake any liquidation of FaceBank, (vi) undertake any bankruptcy proceeding or other form of voluntary receivership of FaceBank, (vii) undertake any merger or acquisition transaction in which FaceBank is a constituent party or a subsidiary of FaceBank is a constituent party, except any such merger or acquisition involving FaceBank or a subsidiary in which the shares of capital stock of FaceBank outstanding immediately prior to such merger or acquisition continue to represent, or are converted into or exchanged for shares of capital stock that represent, immediately following such merger or acquisition, at least a majority, by voting power, of the capital stock of the surviving or resulting corporation or, if the surviving or resulting corporation is a wholly owned subsidiary of another corporation immediately following such merger or consolidation, the parent corporation of such surviving or resulting corporation, (viii) increase the number of members of FaceBank’s Board of Directors to more than seven (7) or (viii) any redemption by FaceBank of any shares of Common Stock or preferred stock. In addition, until the earlier of such time as (i) no shares of Series AA Preferred Stock remaining issued and outstanding and (ii) the Common Stock is listed on Nasdaq or The New York Stock Exchange, the Series AA Preferred Stock, voting as a separate class, and with each share of Series AA Preferred Stock having one vote on such matter shall have the right to elect any replacement of any of the three directors designated by fuboTV and added to the Board of Directors of FaceBank pursuant to the closing of the transactions as contemplated in the Merger Agreement.
+ 
+On March 26, 2020, the Company amended its Articles of Incorporation to designate 35,800,000 of its authorized preferred stock as “Series AA Convertible Preferred Stock” pursuant to a Certificate of Designation of Series AA Convertible Preferred Stock (the “Series AA Preferred Stock Certificate of Designation”). FaceBank issued shares of its Series AA Convertible Preferred Stock as consideration in the merger transaction with fuboTV pursuant to an Agreement and Plan of Merger and Reorganization dated as of March 19, 2020 by and among FaceBank, fuboTV Acquisition Corp., a wholly-owned subsidiary of FaceBank and fuboTV.
+ 
+
+14
+--
+
+Credit and Security Agreement
+ 
+The Company and HLEE Finance S.a.r.l. (“HLEEF”) entered into a Credit Agreement dated as of March 11, 2020 (the “Credit Agreement”) pursuant to which HLEEF agreed to extend a revolving credit facility to the Company in an aggregate principal amount of up to $100,000,000. The loans under the revolving credit facility are available in four Tranches, subject to certain conditions precedent as further described in detail in the Credit Agreement. The interest rate on all Tranche I, Tranche II, Tranche III and Tranche IV loans shall be equal to 10% per annum. The maturity date of all amounts outstanding under the Credit Agreement is March 11, 2022. The Credit Agreement contains certain restrictions on the ability of FaceBank to incur or permit indebtedness in excess of $50,000,000, subject to certain exceptions, to make loans in excess of $250,000 to directors or officers of FaceBank or to any subsidiary other than fuboTV and to declare and pay any distributions, subject to certain exceptions. In connection with the Credit Agreement, FaceBank entered into a Security Agreement with HLEEF dated March 11, 2020 (the “HLEEF Security Agreement”) pursuant to which FaceBank granted to HLEEF as security for the prompt and complete payment and performance of all of the obligations under the Credit Agreement and the related promissory note, a security interest in all substantially all assets of FaceBank.
+ 
+As of the date of this filing, the Company has not made any borrowings under the Credit Agreement.
+ 
+Note Purchase Agreement
+ 
+On March 19, 2020, FaceBank, Merger Sub, Evolution AI Corporation (“Evolution”) and Pulse Evolution Corporation (“Pulse” and collectively with Evolution, Merger Sub and FaceBank, the “Borrower”) and FB Loan Series I, LLC (“FB Loan”) entered into a Note Purchase Agreement dated as of March 19, 2020 (the “Note Purchase Agreement”) pursuant to which Borrower sold to FB Loan senior secured promissory notes in an aggregate principal amount of $10,050,000 (the “Senior Note”).
+ 
+Interest on the Senior Note shall accrue until full and final repayment of the principal amount of the Senior Note at a rate of fifteen percent (15%) per annum. On the first business day of each calendar month in which the Senior Note is outstanding, beginning on April 1, 2020, Borrower shall pay in arrears in cash to FB Loan accrued interest on the outstanding principal amount of the Senior Note. The maturity date of the Senior Note is July 17, 2020. The Borrower may prepay or redeem the Senior Note in whole or in part without penalty or premium.
+ 
+The Senior Note is subject to mandatory prepayment in the following amounts and at the following times:
+ 
+(i) Casualty and Other Insurance Proceeds. Within five (5) business days after any loan party or any subsidiary receives any Major Casualty Proceeds (as defined in the Note Purchase Agreement), an amount equal to one hundred percent (100%) of such Major Casualty
+ Proceeds;
+ 
+(ii) Asset Disposition Proceeds. Within five (5) business days after any loan Party or any subsidiary receives the proceeds of any Asset Disposition (as defined in the Note Purchase Agreement), the Borrower shall prepay the Senior Note in an amount equal to one hundred percent (100%) of the net cash proceeds of such Asset Disposition.
+ 
+(iii) Financing Proceeds. Within five (5) business days after any loan party or any subsidiary receives the proceeds of any financings whether by the issuance of debt (other than the Specified Debt (as defined in the Note Purchase Agreement) or sale of capital stock, the Borrower shall prepay the Senior Note in an amount equal to one hundred percent (100%) of then cash proceeds of such financing
+ 
+(iv) Signing Date Loan Proceeds. Within two (2) Business Days after Borrower receives payments under the Signing Date Loan Agreement, referring to a $10 million intercompany loan between the Company and its subsidiary fuboTV as defined in the FB Loan agreements, the Borrower shall prepay the Senior Note in an amount equal to one hundred percent (100%) of the amount of such payment.
+ 
+(v) Extraordinary Receipts. Within five (5) business days of the receipt by any loan party or any subsidiary of any Extraordinary Receipt (as defined in the Note Purchase Agreement), in an amount equal to the net cash
+ proceeds of such Extraordinary Receipt.
+ 
+The Senior Note is subject to optional redemption by the holder thereof upon the occurrence of any of the following events:
+ 
+(i) a Change of Control (as defined in the Note Purchase Agreement) (and concurrent with the closing of any such transaction); or
+ 
+(ii) a sale of all or substantially all of the Borrower and its Subsidiaries’ assets.
+ 
+
+15
+--
+
+ 
+
+Pursuant to the Note Purchase Agreement, Borrower agreed, among other things that:
+ 
+(i) FaceBank shall file a registration statement with the Securities and Exchange Commission regarding the purchase and sale of the 784,617 shares (the “Shares”) issued and sold pursuant to the FB Loan and any shares of capital stock issuable upon exercise of the warrant to purchase 3,269,231 shares of Common Stock (the “Warrant”) which was issued and sold pursuant to the FB Loan at an initial exercise price of $5.00 per share, subject to adjustment . The consideration paid by FB Loan for the Shares and the Warrant is the execution and delivery of the Note Purchase Agreement.
+ 
+(ii) FaceBank shall have filed an application to list FaceBank’s Common Stock for trading on the NASDAQ exchange, on or before the date that is thirty (30) days following the closing date of the Note Purchase Agreement, such date having been extended as further detailed below; and
+ 
+(iii) on the closing date of the Merger, FaceBank shall cause fuboTV and each subsidiary of fuboTV to join the Note Purchase Agreement, become an issuer of the Senior Notes and a Borrower under the Note Purchase Agreement and the related documents and assume all obligations in connection therewith.
+ 
+Until such time as payment in full of the Senior Note and all other related obligations under the Note Purchase Agreement, the Borrower agreed to be subject to certain restrictions set forth in the Note Purchase Agreement with respect to (i) the incurrence of indebtedness, (ii) the creation or existence of liens, (iii) the payment of dividends and other distributions with respect to capital stock, (iv) the making of loans or advances, (v) the making of investments, (vi) the ability to merge, consolidate, sell or lease assets, subject to certain customary exceptions, (vii) the creation of subsidiaries or the acquisition of minority interests in any person or entity, (viii) the amendment of organizational documents, (ix) the entry into any agreement that would restrict the ability to perform obligations under the Note Purchase Agreement, (x) the making of certain capital expenditures and the entry into certain capitalized leases, (xi) the ability to engage in affiliate transactions, (xii) the creation of additional negative pledges, (xiii) any change of fiscal year or significant change in accounting treatment, (xiv) the disposition of assets other than in the ordinary course of business and (xv) the modification of the Merger Agreement or the Signing Date Loan Agreement.
+ 
+Events of Default under the Note Purchase Agreement and the Senior Note include but are not limited to: (i) the Merger not being consummated on or before May 1, 2020, (ii) the occurrence of a Change of Control (as defined in the Note Purchase Agreement, (iii) any Collateral Document (as defined in the Note Purchase Agreement) ceasing to be in full force and effect, (iv) the failure by Borrower to comply with certain covenants in the Note Purchase Agreement and related documents, (v) any representation or warranty made by any loan party in the Note Purchase Agreement or related document having been untrue when made, (vi)default in the payment of principal, interest or fees accrued or payable in connection with the Senior Note, (vii) failure by any loan party or subsidiary to pay within fifteen (15) days of when due any obligation exceeding $100,000, (viii) the occurrence of certain insolvency events or proceedings, (ix) the entry of certain judgments against Borrower, (x) the suspension of trading of FaceBank’s Common Stock by the Securities and Exchange Commission, the principal market on which it is traded or FINRA or otherwise halted for any reason, (xi) the occurrence of an event of default under the Signing Date Loan Agreement and (xii) the occurrence of any Material Adverse Effect (as defined in the Note Purchase Agreement).
+ 
+On the closing date of the sale of the Senior Note to FB Loan, Borrower paid to FB Loan as a closing fee, the amount of $2,550,000, which FB Loan netted from the proceeds of the Senior Note.
+ 
+In connection with the Note Purchase Agreement and the Secured Note, the Borrowers and FB Loan entered into a Security Agreement dated as of March 19, 2020 (the “Security Agreement”) pursuant to which the Borrowers granted, pledged and collaterally assigned to FB Loan a security interest in substantially all the assets of Borrower as collateral for the prompt and complete payment and performance when due of all obligations under the Note Purchase Agreement and the Secured Note.
+ 
+As additional security for the prompt and complete payment and performance when due of all obligations under the Note Purchase Agreement and the Secured Note:
+ 
+(i) FaceBank and FB Loan entered into a Collateral Assignment of Loan Agreement dated as of March 19, 2020 pursuant to which FaceBank granted to FB Loan a lien on and security interest in all of its right, title and interest in, to and under the Signing Date Loan Agreement (the “Signing Date Loan Collateral Assignment”).
+ 
+(ii) FaceBank and Merger Sub entered into a Collateral Assignment of Merger Agreement Documents dated as of March 19, 2020 with FB Loan pursuant to which FaceBank and Merger Sub granted to FB Loan a lien on and security interest in all of its right, title and interest in, to and under the Merger Agreement and all agreements, documents or instruments delivered in connection therewith (the “Merger Agreement Collateral Assignment”); and
+ 
+
+16
+--
+
+ 
+
+(iii) the Borrowers entered into a Trademark Security Agreement dated as of March 19, 2020 pursuant to which Borrowers granted to FB Loan a security interest in their entire right, title and interest in and to each trademark owned by Borrower together with related goodwill and other rights and all products and proceeds of the foregoing (the “Trademark Assignment”)
+ 
+Amendment to Note Purchase Agreement
+ 
+On April 21, 2020, the Company entered into an amendment (the “Amendment”) to the Note Purchase Agreement, dated as of March 19, 2020 (the “Note Purchase Agreement”), by and among FaceBank, fuboTV Inc., a Delaware corporation (f/k/a FuboTV Acquisition Corp.) (“fuboTV”), Evolution AI Corporation (“Evolution”), a Florida corporation, Pulse Evolution Corporation, a Nevada corporation (“Pulse”, and collectively with FaceBank, fuboTV and Evolution, the “Borrower”), and FB Loan Series I, LLC (“FB Loan”), a Delaware limited liability company.
+ 
+Pursuant to the Note Purchase Agreement, the Borrower agreed, among other things that (i) FaceBank shall file a registration statement with the U.S. Securities and Exchange Commission (the “Commission”) regarding the purchase and sale of 784,617 shares (the “Shares”) of FaceBank’s common stock, par value $0.0001 per share (the “Common Stock”) and any shares of capital stock issuable upon exercise of a warrant to purchase 3,269,231 shares of Common Stock (the “Warrant Shares”); and (ii) FaceBank shall have filed an application to list FaceBank’s Common Stock for trading on the NASDAQ exchange, on or before the date that is thirty (30) days following the closing date of the Note Purchase Agreement. Pursuant to the Amendment, the covenants set forth in (i) and (ii) above were replaced with the following:
+ 
+(i) If FaceBank decides to register any of its securities either for its own account or the account of a security holder or holders on any registration form (other than Form S-4 or S-8), FaceBank shall include in such registration all of the Shares and the Warrant Shares (collectively, the “Registrable Securities” and such registration of the Registrable Securities, a “Piggyback Registration”); provided, however, that if a Piggyback Registration does not occur on or prior to May 25, 2020, FaceBank shall file a registration statement with the Commission to register the Registrable Securities and to permit or facilitate the sale and distribution of the Registrable Securities on or prior to May 25, 2020; and
+ 
+(ii) FaceBank shall have initiated the process to list its capital stock for trading on a national exchange (e.g., NYSE or Nasdaq) on or before the date that is thirty (30) days following March 19, 2020.
+ 
+Counterpart Agreement
+ 
+On April 30, 2020, the Company entered into a counterpart agreement (the “Counterpart Agreement”) with AMC Networks Ventures LLC (“AMC”) delivered pursuant to that certain Credit and Guaranty Agreement, dated as of April 6, 2018 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”), by and among fuboTV Inc., a Delaware corporation and a wholly-owned subsidiary of FaceBank (“fuboTV”), certain subsidiaries of fuboTV, as guarantors, the lenders from time to time party thereto, and AMC, as administrative agent and collateral agent.
+ 
+Pursuant to the Counterpart Agreement, FaceBank guaranteed the obligations of fuboTV under the Credit Agreement. There is currently $23,750,000 in aggregate principal amount outstanding under the Credit Agreement.
+ 
+Joinder Agreement
+ 
+On April 30, 2020, fuboTV and Sports Rights Management, LLC, a Delaware limited liability company and wholly-owned subsidiary of fuboTV (“SRM”), entered into a joinder agreement (the “Joinder Agreement”) in favor of FB Loan Series I, LLC (“FB Loan”), a Delaware limited liability company, in connection with that certain Note Purchase Agreement, dated as of March 19, 2020 (as amended, restated, supplemented or otherwise modified from time to time, the “Note Purchase Agreement”), by and among FaceBank, fuboTV Acquisition Corp.), a Delaware corporation (“Merger Sub”), Evolution AI Corporation (“Evolution”), a Florida corporation, Pulse Evolution Corporation, a Nevada corporation (“Pulse”, and collectively with FaceBank, Merger Sub and Evolution, the “Borrowers”), and FB Loan. The Joinder Agreement is effective as of April 2, 2020.
+ 
+Pursuant to the Joinder Agreement, (a) fuboTV joined the Note Purchase Agreement, became an issuer of notes and a borrower thereunder, assumed all obligations of the Borrowers in connection therewith, and granted a lien on substantially all of its assets to secure its obligations under the Note Purchase Agreement and any notes issued pursuant thereto and (b) SRM guaranteed the obligations of the Borrowers and fuboTV under the Note Purchase Agreement and any notes issued pursuant thereto and granted a security interest in substantially all of its assets to secure its guaranty obligations. The Borrowers have previously issued notes in an aggregate principal amount of $10,050,000 pursuant to the Note Purchase Agreement.
+ 
+
+17
+--
+
+Guaranty Agreement
+ 
+On April 30, 2020, in connection with the Joinder Agreement, SRM entered into a guaranty agreement (the “Guaranty Agreement”) in favor of FB Loan, pursuant to which SRM guaranteed the obligations of Borrower under fuboTV under the Note Purchase Agreement. The Guaranty Agreement is effective as of April 2, 2020. The aggregate principal amount of notes issued pursuant to the Note Purchase Agreement and currently outstanding is $10,050,000.
+Purchase Agreement
+ 
+On May 11, 2020, the Company entered into Purchase Agreements (the “Purchase Agreements”) with certain investors (the “Investors”), pursuant to which the Company sold an aggregate of 1,058,435 shares (the “Purchased Shares”) of the Company’s common stock at a purchase price of $7.00 per share (the “Purchase Price”), which is based on 0.8 of the rounded 30-day trailing volume-weighted average price within three business days of the signing of the Purchase Agreements, for an aggregate of $7,409,045.00. In connection with the Purchase Agreements, the Company issued warrants to purchase the Company’s common stock, each with an exercise price equal to the Purchase Price (the “Warrants”), to the Investors to purchase, in the aggregate, 1,058,435 shares of the Company’s common stock. There were no underwriting discounts or commissions.
+Waivers
+ 
+On May 11, 2020, certain holders of the Series AA Convertible Preferred Stock (the “Acting Shareholders”) of the Company, acting by written consent pursuant to Section 607.0704 of the Florida Business Corporation Act, approved a waiver of certain anti-dilution rights under the Certificate of Designation of Series AA Convertible Preferred Stock of the Company in connection with the sale and issuance of the Purchased Shares and the Warrants. As of such date, the Acting Shareholders collectively held 16,270,570 shares, or 50.34%, of the Company’s outstanding shares of Series AA Convertible Preferred Stock.
+ 
+On May 21, 2020, certain holders of the Company’s Series AA Convertible Preferred Stock (the “Acting Shareholders”), acting by written consent pursuant to Section 607.0704 of the Florida Business Corporation Act, approved a waiver of certain anti-dilution rights under the Certificate of Designation of Series AA Convertible Preferred Stock of the Company in connection with the sale and issuance of an aggregate of up to 3,227,280 shares of the Company’s common stock and warrants to purchase an aggregate of up to 3,227,280 shares of the Company’s common stock in an unregistered offering. As of such date, the Acting Shareholders collectively held 17,315,836 shares, or 53.57%, of the Company’s outstanding shares of Series AA Convertible Preferred Stock.
+ 
+Senior Note Prepayment and Second Amendment to Note Purchase Agreement
+ 
+On May 28, 2020, the Borrower delivered to FB Loan $7,500,000 in partial repayment of the Senior Note. Also on May 28, 2020, the parties to the Note Purchase Agreement, as amended, entered into a Consent and Second Amendment to Note Purchase Agreement (the “Second Amendment”). Pursuant to the terms of the Second Amendment:
+
+(i) | FB Loan consented to the May 11, 2020 sale by the Company of capital stock for aggregate consideration in the amount of $7,409,045; 
+------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(ii) | The provision requiring that following receipt by any loan party or any subsidiary of proceeds of any financing, the Borrower must prepay the Senior Note in an amount equal to 100% of the cash proceeds of such financing, was removed; and 
+(iii) | The date by which the Company must file a registration statement to register the Shares and the Warrant Shares was extended from May 25, 2020 to July 1, 2020. 
+
+Prior Transactions
+ 
+Acquisition of Evolution AI
+ 
+On August 8, 2018, the Company entered into a share exchange agreement to acquire 100% of Evolution AI Corporation (“EAI”), which included EAI’s principal asset consisting of a 58% interest in Pulse Evolution Corporation (“PEC”). Pursuant to the terms of the closing agreement, the Company became a 99.7% owner of EAI. The Company acquired its ownership interest in EAI by issuing 1 million shares of its Series X Convertible Preferred Stock which had an aggregate fair value of $211.5 million. Prior to, and subsequent to the foregoing acquisition, the Company has continually and actively conducted the same business of developing technology for virtual reality through the operations of Recall Studios, Inc., a Nevada corporation and a subsidiary of the Company. Further, prior to and after the foregoing acquisition, each EAI and PEC have actively conducted and continue to conduct operations focusing on developing technology for virtual reality and virtual entertainment. Accordingly, both before and after the foregoing Acquisition, each the Company, EAI and PEC operated and continue to operate in the same virtual reality industry and engaged in the foregoing acquisition to expand their presence in the industry. Prior to the foregoing acquisition each the Company, EAI and PEC conducted development stage operations which were material business operations and each had assets including, but not limited to, their virtual reality and virtual entertainment technologies, were actively being developed.
+ 
+The Company accounted for the transaction as a business combination using the acquisition method of accounting based on ASC 805 — Business Combinations, which requires recognition and measurement of all identifiable assets acquired and liabilities assumed at their fair value as of the date control is obtained. The Company determined that it was the accounting acquirer under ASC 805. This determination was primarily based on existing management of the Company retaining 4 of the 5 seats on the Board, the provisions of the voting rights agreement entered between the Company and John Textor the principal selling stockholder of EAI, and company management continuing to operate the business in their key roles following the business combination.
+ 
+Brick Top and Southfork Share Exchange Agreement
+ 
+Effective August 8, 2018, the Company entered into a Share Exchange Agreement (the “BTH and SV Exchange Agreement”) with Brick Top Holdings, Inc. a Florida corporation (“Brick Top”) owned by Alexander Bafer and Southfork Ventures, Inc. a Florida corporation (“Southfork”) owned by Chris Leone, the Company’s then Chief Operating Officer and Director, pursuant to which the Company agreed to acquire up to all of the shares of Series A preferred stock of the Company held by Brick Top and Southfork, in exchange for the issuance of shares of Company common stock to Brick Top and Southfork. The closing of the share exchange contemplated by the BTH and SV Exchange Agreement occurred on August 8, 2018. On such date, the Company issued (i) 2,725,000 shares of Company common stock in exchange for receipt of 3,750,000 shares of Series A preferred shares from Brick Top, and (ii) 908,333 shares of Company common stock in exchange for receipt of 1,250,000 shares of Series A preferred shares from Southfork. This transaction was structured to simplify the capital structure of the Company, and to ensure voting rights were proportional and equitable among all shareholders after the EAI acquisition was completed.
+
+18
+--
+
+ 
+
+Sale of S&G Holdings
+ 
+On June 15, 2017, Recall Studios, Inc. entered into a Purchase and Sale Agreement (the “Agreement”) with Metropolitan Sound + Vision LLC (Metro), a South Carolina limited liability company. Pursuant to the Agreement, the Company agreed to sell to Metro all of the shares of common stock of S&G Holdings, Inc. (“S&G”), a Tennessee corporation doing business as High Five Entertainment owned by the Company, which constituted 75% of the issued and outstanding shares of S&G (the “Transaction”). Pursuant to the Agreement, at the closing of the Transaction, the Company delivered to Metro 100% of the issued and outstanding shares of common stock of S&G owned by the Company, and Metro was required to pay for such stock as follows: an initial payment of $10,000 at the closing, and thereafter, at the end of each fiscal quarter, beginning at the end the third fiscal quarter of 2017, Metro agreed to pay the Company 5% of gross revenues collected during each quarter by Metro via the exploitation of S&G’s assets, up to a lifetime maximum of $590,000. The Agreement required Metro to use its best professional efforts to generate revenue from the exploitation of S&G’s assets, and if the Company has not received a total of at least $265,000 of the $590,000 lifetime maximum purchase price from Metro before July 1, 2022, the Company has the right to repurchase the stock and assets of the S&G from Metro for $10,000 . Both prior and after the Transaction, the Company has continually and actively conducted the same business of developing technology for virtual reality through the operations of Recall Studios, Inc., a Nevada corporation and a subsidiary of the Company.
+ 

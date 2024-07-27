@@ -1,0 +1,884 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | BUSINESS
+--------+---------
+
+
+Index to Item 1. BUSINESS | Page
+----------------------------------------------------------------------+-----
+Forward-Looking Statement Disclaimer | 4 
+Background | 5 
+Additional Technical Terms and Definitions | 6 
+Overview | 7 
+Products | 9 
+Advanced Technology Programs | 11 
+Business Strategy | 14 
+Markets | 17 
+Manufacturing and Service Facilities | 18 
+Raw Materials and Supplier Relationships | 19 
+Engineering, Procurement and Construction | 19 
+Services and Warranty Agreements | 20 
+License Agreements and Royalty Income, Relationship with POSCO Energy | 20 
+Company Funded Research and Development | 21 
+Backlog | 22 
+Fuel Cell Technologies | 23 
+Competition | 24 
+Regulatory and Legislative Environment | 25 
+Government Regulation | 26 
+Proprietary Rights and Licensed Technology | 26 
+Significant Customers and Information about Geographic Areas | 27 
+Sustainability | 28 
+Associates | 29 
+Available Information | 29 
+
+ 
+3
+
+
+Forward-Looking Statement Disclaimer
+ This Annual Report on Form 10-K contains statements that the Company believes to be “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact included in this Form 10-K, including statements regarding the Company’s future financial condition, results of operations, business operations and business prospects, are forward-looking statements.  Words such as “expects,” “anticipates,” “estimates,” “projects,” “intends,” “plans,” “believes,” “predicts,” “should,” “will,” “could,” “would,” “may,” “forecast,” and similar expressions and variations of such words are intended to identify forward-looking statements. Such statements relate to, among other things, the following:
+
+• | the development and commercialization by FuelCell Energy, Inc. and its subsidiaries (“FuelCell Energy,” “Company,” “we,” “us” and “our”) of fuel cell technology and products and the market for such products,
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | expected operating results such as revenue growth and earnings,
+--+----------------------------------------------------------------
+
+
+• | our belief that we have sufficient liquidity to fund our business operations for the next 12 months,
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | future funding under Advanced Technologies contracts,
+--+------------------------------------------------------
+
+
+• | future financing for projects, including publicly issued bonds, equity and debt investments by investors and commercial bank financing,
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the expected cost competitiveness of our technology, and
+--+---------------------------------------------------------
+
+
+• | our ability to achieve our sales plans, market access and market expansion goals, and cost reduction targets.
+--+--------------------------------------------------------------------------------------------------------------
+
+ The forward-looking statements contained in this report are subject to risks and uncertainties, known and unknown, that could cause actual results to differ materially from those forward-looking statements, including, without limitation, the risks contained under Item 1A - Risk Factors of this report and the following:
+  
+• | general risks associated with product development and manufacturing,
+--+---------------------------------------------------------------------
+
+
+• | general economic conditions,
+--+-----------------------------
+
+
+• | changes in the utility regulatory environment,
+--+-----------------------------------------------
+
+
+• | changes in the utility industry and the markets for distributed generation, distributed hydrogen, and carbon capture configured fuel cell power plants,
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | potential volatility of energy prices,
+--+---------------------------------------
+
+
+• | availability of government subsidies and economic incentives for alternative energy technologies,
+--+--------------------------------------------------------------------------------------------------
+
+
+• | our ability to remain in compliance with U.S. federal and state and foreign government laws and regulations and the listing rules of The Nasdaq Stock Market (“Nasdaq”),
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | rapid technological change,
+--+----------------------------
+
+
+• | competition,
+--+-------------
+
+
+• | our dependence on strategic relationships,
+--+-------------------------------------------
+
+
+• | market acceptance of our products,
+--+-----------------------------------
+
+
+• | changes in accounting policies or practices adopted voluntarily or as required by accounting principles generally accepted in the United States,
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | factors affecting our liquidity position and financial condition,
+--+------------------------------------------------------------------
+
+
+• | government appropriations,
+--+---------------------------
+
+
+• | the ability of the government to terminate its development contracts at any time,
+--+----------------------------------------------------------------------------------
+
+
+• | the ability of the government to exercise “march-in” rights with respect to certain of our patents,
+--+----------------------------------------------------------------------------------------------------
+
+ 4
+
+
+ 
+• | the situation with POSCO Energy has limited and continues to limit our efforts to access the South Korean and Asian markets and could expose us to costs of arbitration or litigation proceedings,
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our ability to implement our strategy,
+--+---------------------------------------
+
+
+• | our ability to reduce our levelized cost of energy and our cost reduction strategy generally,
+--+----------------------------------------------------------------------------------------------
+
+
+• | our ability to protect our intellectual property,
+--+--------------------------------------------------
+
+
+• | litigation and other proceedings,
+--+----------------------------------
+
+
+• | the risk that commercialization of our products will not occur when anticipated,
+--+---------------------------------------------------------------------------------
+
+
+• | our need for and the availability of additional financing,
+--+-----------------------------------------------------------
+
+
+• | our ability to generate positive cash flow from operations,
+--+------------------------------------------------------------
+
+
+• | our ability to service our long-term debt,
+--+-------------------------------------------
+
+
+• | our ability to increase the output and longevity of our power plants, and
+--+--------------------------------------------------------------------------
+
+
+• | our ability to expand our customer base and maintain relationships with our largest customers and strategic business allies.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+ We cannot assure you that:
+  
+• | we will be able to meet any of our development or commercialization schedules,
+--+-------------------------------------------------------------------------------
+
+
+• | we will be able to remain in compliance with the minimum bid price requirement of the Nasdaq listing rules,
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | any of our new products or technology, once developed, will be commercially successful,
+--+----------------------------------------------------------------------------------------
+
+
+• | our existing SureSource power plants will remain commercially successful,
+--+--------------------------------------------------------------------------
+
+
+• | the government will appropriate the funds anticipated by us under our government contracts,
+--+--------------------------------------------------------------------------------------------
+
+
+• | the government will not exercise its right to terminate any or all of our government contracts, or
+--+---------------------------------------------------------------------------------------------------
+
+
+• | we will be able to achieve any other result anticipated in any other forward-looking statement contained herein.
+--+-----------------------------------------------------------------------------------------------------------------
+
+ The forward-looking statements contained herein speak only as of the date of this report and readers are cautioned not to place undue reliance on these forward-looking statements. Except for ongoing obligations to disclose material information under the federal securities laws, we expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any such statement to reflect any change in our expectations or any change in events, conditions or circumstances on which any such statement is based.
+ 
+Background
+ Information contained in this report concerning the electric power supply industry and the distributed generation market, our general expectations concerning this industry and this market, and our position within this industry are based on market research, industry publications, other publicly available information and assumptions made by us based on this information and our knowledge of this industry and this market, which we believe to be reasonable.  Although we believe that the market research, industry publications and other publicly available information, including the sources that we cite in this report, are reliable, they have not been independently verified by us and, accordingly, we cannot assure you that such information is accurate in all material respects.  Our estimates, particularly as they relate to our general expectations concerning the electric power supply industry and the distributed generation market, involve risks and uncertainties and are subject to change based on various factors, including those discussed under Item 1A - Risk Factors of this report.
+ 5
+
+
+As used in this report, all degrees refer to Fahrenheit (“F”); kilowatt (“kW”) and megawatt (“MW”) numbers designate nominal or rated capacity of the referenced power plant; “efficiency” or “electrical efficiency” means the ratio of the electrical energy generated in the conversion of a fuel to the total energy contained in the fuel (lower heating value, the standard for power plant generation, assumes the water in the product is in vapor form; as opposed to higher heating value, which assumes the water in the product is in liquid form, net of parasitic load); kW means 1,000 watts; MW means 1,000,000 watts; “kilowatt hour” (“kWh”) is equal to 1kW of power supplied to or taken from an electric circuit steadily for one hour; and one British Thermal Unit (“Btu”) is equal to the amount of heat necessary to raise one pound of pure water from 59oF to 60oF at a specified constant pressure.
+ All dollar amounts are in U.S. dollars unless otherwise noted.
+ 
+Additional Technical Terms and Definitions 
+ 
+Advanced Technologies - Advanced Technologies projects involve the development of new products or applications based on existing carbonate or solid oxide technologies or new electrochemical technologies.  Examples are carbon capture, distributed hydrogen, solid oxide fuel cells and solid oxide electrolysis cell technologies.  Advanced Technologies projects are typically externally funded by government or private sources and executed by our Advanced Technologies Group.
+ Availability - A measure of the amount of time a system is available to operate, as a fraction of total calendar time.  For power generation equipment, an industry standard (IEEE (The Institute of Electrical and Electronics Engineers) 762, “Definitions for Use in Reporting Electric Generating Unit Reliability, Availability and Productivity”) is used to compute availability. “Availability percentage” is calculated as total period hours since Commercial Operations Date less hours not producing electricity due to planned and unplanned maintenance divided by total period hours. Grid disturbances, force majeure events and site specific issues such as a lack of available fuel supply or customer infrastructure repair do not penalize the calculation of availability according to this standard.
+ Carbonate Fuel Cell (“CFC”) - Carbonate fuel cells, such as the fuel cell power plants produced and sold by FuelCell Energy, are high-temperature fuel cells that use an electrolyte composed of a carbonate salt mixture suspended in a porous, chemically inert ceramic-based matrix. CFCs operate at high temperatures, enabling the use of a nickel-based catalyst, a lower cost alternative to precious metal catalysts used in some other fuel cell technologies.
+ Combined Heat & Power (“CHP”) - A power plant configuration or mode of operation featuring simultaneous on-site generation from the same unit of fuel of both electricity and heat with the heat used to produce steam, hot water or heated air for both heating and cooling applications.
+ Commercial Operations Date (“COD”) - The date that testing and commissioning of a fuel cell project is completed and the fuel cell power plant is operational with power being generated and sold to the end-user.
+ Distributed Generation - Electric power that is generated where it is needed (distributed throughout the power grid) rather than from a central location. Centrally generated power requires extensive transmission networks that require maintenance and experience efficiency losses during transmission while distributed generation does not.  Distributed generation is typically classified as small to mid-size power plants, typically generating 75 MW or less.  Central generation is typically classified as large power plants generating hundreds or even thousands of MW.
+ Microgrids - Microgrids are localized electric grids that can disconnect from the traditional electric grid to operate autonomously and strengthen grid resiliency.  Microgrids can be composed only of SureSource power plants due to their continual power output or combine a variety of power generation types such as fuel cells and solar arrays.
+ Nitrogen Oxides (“NOx”) - Generic term for a group of highly reactive gases, all of which contain nitrogen and oxygen in varying amounts. Many of the NOx are colorless and odorless; however, they are a major precursor to smog production and acid rain. One common pollutant, Nitrogen Dioxide, along with particles in the air, can often be seen as a reddish-brown layer over an urban area. NOx form when fuel is burned at high temperatures, as in a combustion process. The primary manmade sources of NOx are motor vehicles, traditional fossil fuel fired electric utility generation, and other industrial, commercial and residential sources that burn fuels.
+ 6
+
+
+Particulate Matter (“PM”) - Solid or liquid particles emitted into the air that are generally caused by the combustion of materials or dust generating activities. Particulate matter caused by combustion can be harmful to humans as the fine particles of chemicals, acids and metals may get lodged in lung tissue.
+ Power Purchase Agreement (“PPA”) - A Power Purchase Agreement is a contract that enables a power user to purchase energy under a long-term contract where the user agrees to pay a predetermined rate for the kilowatt-hours delivered from a power generating asset while avoiding the need to own the equipment and pay the upfront capital cost.  The PPA rate is typically fixed (with an escalation clause tied to a consumer price index or similar index), or pegged to a floating index that is on par with or below the current electricity rate being charged by the local utility company. A PPA is typically for a term of 10 to 20 years.
+ Renewable Biogas or Biogas - Renewable Biogas is fuel produced by biological breakdown of organic material.  Biogas is commonly produced in biomass digesters employing bacteria in a heated and controlled oxygen environment.  These digesters are typically used at wastewater treatment facilities or food processors to break down solid waste and the biogas produced is a byproduct of the waste digestion. Biogas can be used as a renewable fuel source for SureSource fuel cell plants located on site where the biogas is produced with gas cleanup, or it can be processed further to meet pipeline fuel standards and injected into a gas pipeline network, which is termed Directed Biogas.  Directed Biogas requires additional processing to increase the Btu content of the gas, which increases cost and consumes power.  Use of Biogas at the point of production (on-site) is more efficient and more economical.  
+ Solid Oxide Electrolysis Cell (“SOEC”) - Solid Oxide Electrolysis Cells are electrochemical cells with the same cell and stack structure as Solid Oxide Fuel Cells, but are operated in reverse – instead of producing power from fuel and oxygen, SOEC cells produce hydrogen and oxygen from steam when supplied with power.  
+ Solid Oxide Fuel Cell (“SOFC”) - Solid Oxide Fuel Cells are electrochemical cells with a non-porous ceramic material as the electrolyte. SOFCs operate at high temperatures (slightly higher than carbonate fuel cells) eliminating the need for costly precious-metal catalysts, thereby reducing cost. Like carbonate fuel cells, the high operating temperature enables internal reforming of the hydrogen rich fuel source. The Solid Oxide Fuel Cell platform can be operated in fuel cell mode (producing power from fuel) or electrolysis mode (producing hydrogen from power) and can alternate between the two.
+ Sulfur Oxide (“SOx”) - Sulfur oxide refers to any one of the following: sulfur monoxide, sulfur dioxide (“SO2”) and sulfur trioxide. SO2 is a byproduct of various industrial processes. Coal and petroleum contain sulfur compounds, and generate SO2 when burned.  SOx compounds are particulate and acid rain precursors.
+ 
+Overview
+ FuelCell Energy, based in Connecticut, was founded in 1969 as a New York corporation to provide applied research and development services on a contract basis. We completed our initial public offering in 1992 and reincorporated in Delaware in 1999.  We began selling stationary fuel cell power plants commercially in 2003. 
+ With more than 9.5 million megawatt hours of clean electricity produced, FuelCell Energy is now a global leader in delivering environmentally-responsible distributed baseload power solutions through our proprietary, molten-carbonate fuel cell technology. Today, we develop turn-key distributed power generation solutions and operate and provide comprehensive service for the life of the power plant. We are working to expand the proprietary technologies that we have developed over the past five decades into new products, markets and geographies.
+ Fiscal year 2019 was one of transformation for FuelCell Energy. We restructured our management team and our operations in ways that are intended to support our growth and achieve our profitability and sustainability goals. We raised capital under our at-the-market sales plan, which allowed us to pay down our accounts payable and stay current on our forbearance agreements.  We repaid a substantial portion of our short-term debt, retired our Series C and Series D Convertible Preferred Stock obligations, and refocused on our core competencies in an effort to drive top-line revenue. We believe we have emerged from a difficult fiscal 2019 as a stronger company, better positioned to execute on our business plan. Our recent achievements, accomplished during one of the most stressful times in the Company’s history, include: (a) closing on a new $200 million credit facility with Orion Energy Partners Investment Agent, LLC and certain of its affiliated lenders (“Orion Energy Partners”), (b) executing a new Joint Development Agreement with ExxonMobil Research and Engineering Company (“EMRE”), with anticipated revenues of up to $60 million, (c) 
+ 7
+
+
+restructuring our business to realize annualized operating savings of approximately $15 million, (d) making progress in constructing certain projects in our backlog, including the Connecticut Municipal Electric Energy Cooperative (“CMEEC”) project at the U.S. Navy base in Groton, Connecticut and the commissioning and startup of the 2.8 MW Tulare BioMAT project in California, (e) relaunching our sub-megawatt product in Europe, (f) executing a strategic relationship with E.On Business Solutions, an affiliate of one of the largest utilities in the world, to market and distribute our products beyond the two FuelCell operating plants E.On already owns, (g) extending the maturity of the Class A Cumulative Redeemable Exchangeable Preferred Shares issued by FCE FuelCell Energy Ltd. (the “Series 1 Preferred Shares”)  by one year, and (h) concluding our engagement with Huron Consulting Services, LLC (“Huron Consulting”) after successful restructuring and payoff of our prior senior secured credit facility.
+ We will use this new focus coming out of our restructuring to advance our core goals of:
+  
+• | Executing on our backlog and new project awards;
+--+-------------------------------------------------
+
+
+• | Growing our generation portfolio;
+--+----------------------------------
+
+
+• | Competing for and winning new business around the world; and
+--+-------------------------------------------------------------
+
+
+• | Developing and commercializing our Advanced Technologies platform of products.
+--+-------------------------------------------------------------------------------
+
+ 
+In order to achieve our core goals, we will focus in 2020 on implementing our new “Powerhouse” business strategy to strengthen our business, maximize operational efficiencies and position us for future growth. The “Powerhouse” business strategy is focused on three fundamental pillars – Transform, Strengthen, Grow – which are described in further detail below.
+ 
+Transform
+ 
+We spent the latter half of fiscal 2019 working on and achieving the following:
+  
+• | Restructured our management team: We appointed a new President, Chief Executive Officer and Chief Commercial Officer, Jason Few, to lead our organization, and promoted Michael Lisowski to the positions of Executive Vice President and Chief Operating Officer and Anthony Leo to the positions of Executive Vice President and Chief Technology Officer. Together with our Executive Vice President and Chief Financial Officer, Michael Bishop, and our Executive Vice President, General Counsel, Chief Administrative Officer and Corporate Secretary, Jennifer Arasimowicz, we believe that this executive management team is well positioned to execute on our new “Powerhouse” business strategy.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Secured funding: Closed on a $200 million senior secured credit facility with Orion Energy Partners to support execution of our current projects and provide balance sheet strength and liquidity. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Restructured organization: Concluded our engagement with Huron Consulting after successful restructuring and payoff of our prior senior secured credit facility. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Delivered cost savings: Realized annualized operating savings of approximately $15 million through the restructuring of our business. 
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Refinanced debt: Repaid a substantial portion of our short-term debt with funds from a combination of sales of our common stock under our at-the-market sales plan and our long-term credit facility with Orion Energy Partners. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Strengthen
+  
+• | Capital deployment: Continue to focus on disciplined capital deployment and obtaining lower-cost, long-term financing for completed generation projects. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Commercial excellence: Strengthen customer relationships and build a customer-centric reputation. 
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Operational excellence: Implement a rigorous approach to executing and delivering our backlog on-time and on-budget. 
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | Cost reductions: Focus on continued lean resource management and cost reduction opportunities. 
+--+------------------------------------------------------------------------------------------------
+
+ 8
+
+
+ 
+• | Focused Execution: Continue to develop and define a clear strategic roadmap for the Company.
+--+---------------------------------------------------------------------------------------------
+
+Grow
+  
+• | Sales growth: Increase product sales to key strategic customers, and grow service revenue through pricing strategy, reducing the cost of ownership for our customers and enhancing service solutions, including long duration energy storage. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Innovation: Increase length of product life and product reliability, and expand commercialization of new technologies such as carbon capture, hydrogen, biofuels, and solid oxide systems. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Segment leadership: Capitalize on our expertise in the key addressable markets of biofuels, microgrid development, and hydrogen economy expansion for industry, transportation and electric power generation.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Geographic and market expansion: Continue to develop new clean and renewable energy partnerships to advance carbon capture, hydrogen and multi-fuel/biofuel technology, and pursue growth in global markets.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our mission and purpose remains to utilize our proprietary, state-of-the-art fuel cell power plants to reduce the global environmental footprint of baseload power generation by providing environmentally responsible solutions for reliable electrical power, hot water, steam, chilling, hydrogen, microgrid applications, and carbon capture and, in so doing, drive demand for our products and services, thus realizing positive stockholder returns. 
+ Our fuel cell solution is a clean, efficient alternative to traditional combustion-based power generation and is complementary to an energy mix consisting of intermittent sources of energy, such as solar and wind turbines.  Our systems answer the needs of diverse customers across several markets, including utility companies, municipalities, universities, hospitals, government entities and a variety of industrial and commercial enterprises.  We provide solutions for various applications, including utility-scale distributed generation, on-site power generation and combined heat and power, with the differentiating ability to do so utilizing multiple sources of fuel including natural gas, Renewable Biogas (i.e., landfill gas, anaerobic digester gas), propane and various blends of such fuels. Our multi-fuel source capability is significantly enhanced by our proprietary gas-clean-up skid. 
+ Products
+ Our core fuel cell products offer clean, highly efficient and affordable power generation for customers, including the sub-megawatt SureSource 250 TM and SureSource 400 TM in Europe, and the 1.4 MW SureSource 1500TM, the 2.8 MW SureSource 3000TM, and the 3.7 MW SureSource 4000TM globally.  The plants are scalable for multi-megawatt utility applications, microgrid applications, distributed hydrogen, or on-site CHP generation for a broad range of applications.  
+ The global SureSource product line is uniformly based on the same carbonate fuel cell technology.  Using a standard design globally enables supply chain volume-based cost reduction, optimal resource utilization and long-life product enhancements.  Our power plants utilize a variety of available fuels to produce electricity electrochemically, in a process that is highly efficient, quiet, and produces virtually none of the particulate pollutants associated with traditional combustion-based power generation solutions. In addition to electricity, our standard fuel cell configuration produces high quality thermal energy (approximately 700° F), suitable for heating facilities or water, or steam for industrial processes or for absorption cooling.  When configured for CHP, our system efficiencies can potentially reach up to 90%, depending on the application.  When configured for distributed hydrogen our plants produce hydrogen in addition to power, with an effective efficiency (counting the fuel that would have been used to produce hydrogen conventionally) of up to 80% before considering waste heat utilization, which can raise the total efficiency even higher.
+ Our proprietary carbonate fuel cell technology generates electricity directly from a fuel, such as natural gas or Renewable Biogas, by reforming the fuel inside the fuel cell to produce hydrogen. This internal, proprietary “one-step” reforming process results in a simpler, more efficient, and cost-effective energy conversion system compared with external reforming fuel cells.  Additionally, natural gas has an established infrastructure and is readily available in our existing and target markets compared to some types of fuel cells that can only operate on high purity hydrogen, and Biogas is rapidly growing in production around the world. Our products are fuel flexible, and mainly utilize clean natural gas and Renewable Biogas generated by the customer on-site or directed Biogas generated at a distant location and transported via the existing common carrier gas pipeline networks. The unique chemistry of our Carbonate Fuel Cells allows them to directly use low Btu on-site Biogas with no reduction in output or efficiency compared to 
+ 9
+
+
+operation on natural gas.  We have developed proprietary Biogas cleanup and contaminant monitoring equipment which, combined with the inherent suitability of the Carbonate Fuel Cell chemistry, gives us an advantage in on-site Biogas applications.  Our SureSource 1500 and SureSource 3000 power plants are the only systems certified to California Air Resource Board (“CARB”) emissions standards under the Distributed Generation Certification Program for operation with on-site Biogas. In addition, we have demonstrated operation of our carbonate fuel cell technology with other fuel sources including coal syngas and propane.
+ Our fuel cells operate at approximately 1,100° F. A key advantage of high temperature fuel cells is that they do not require the use of precious metal electrodes required by lower temperature fuel cells, such as proton-exchange membrane (“PEM”) fuel cells.  As a result, we are able to use less expensive and readily available industrial metals, primarily nickel and stainless steel, as catalysts for our fuel cell components. Another key advantage of our fuel cell design is that they are easily sited with a relatively small footprint given the amount of power produced. There is minimal noise produced by the mechanical balance of plant (“BOP”) and a clean emissions profile, making our fuel cells ideally suited for urban and in building suburban applications at or near the point of energy consumption.
+ We market different configurations and applications of our SureSource plants to meet specific market needs, including:
+  
+• | On-Site Power (Behind the Meter): Customers benefit from improved power reliability and energy security from on-site power that reduces reliance on the electric grid in an environmentally responsible manner. Utilization of the high quality thermal energy produced by the fuel cell in a CHP configuration supports economic and sustainability goals by lessening or even avoiding the need for combustion-based boilers for heat and its associated cost, pollutants and carbon emissions. Heat can be used to produce hot water or steam or to drive high efficiency absorption chillers for cooling applications. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Utility Grid Support: Our SureSource power plants are scalable, which enables siting multiple fuel cell power plants together in a fuel cell park. Fuel cell parks enable utilities to add clean and continuous multi-megawatt power generation on a very small footprint when and where needed and enhance the resiliency of the electric grid by reducing reliance on large central generation plants and the associated transmission system. Consolidating certain equipment for multiple plants, such as fuel processing, reduces the cost per megawatt hour for fuel cell parks compared to individual fuel cell power plants. Deploying our SureSource power plants throughout a utility service territory can also help utilities comply with government-mandated clean energy regulations, meet air quality standards, maintain continuous power output and improve grid reliability. Our fuel cells can firm-up the total utility power generation solution when combined with intermittent power generation, such as solar or wind, or less efficient combustion-based equipment that provides peaking or load following power. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Higher Electrical Efficiency - Multi-Megawatt Applications: The SureSource 4000 is designed to extract more electrical power from each unit of fuel with electrical efficiency of approximately 60% and targets applications with large load requirements and limited thermal utilization such as utility/grid support or data centers. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Microgrid Applications: SureSource plants can also be configured as a microgrid, either independently or with other forms of power generation, to provide continuous power and a seamless transition during times of grid outages. We have multiple installations serving as examples of our solutions operating within microgrids, some individually and some with other forms of power generation. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In summary, our solutions offer many advantages:
+  
+• | Distributed generation: Generating power near or at the point of use improves power reliability and energy security and lessens the need for costly and difficult-to-site generation and long distance high voltage and distributed transmission infrastructure susceptible to disruption, thus enhancing the resiliency of the grid.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Clean: Our SureSource solutions produce electricity electrochemically − without combustion − directly from readily available fuels such as natural gas and Renewable Biogas in a highly efficient process,
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 10
+
+
+ 
+delivering clean baseload energy. The virtual absence of pollutants facilitates siting the power plants in regions with clean air permitting regulations and is an important public health benefit.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Highly efficient: Fuel cells are the most efficient power generation option in their size class, providing the most power from a given unit of fuel, reducing fuel costs. This high electrical efficiency also reduces carbon emissions compared to less efficient combustion-based power generation.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Combined heat and power: Our power plants provide both electricity and usable high quality heat/steam from the same unit of fuel. The heat can be used for facility heating and cooling or further enhancing the electrical efficiency of the power plant in a combined cycle configuration. When configured for CHP, our system efficiencies can potentially reach up to 90%, depending on the application. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reliability / continuous operation: Our SureSource power plants improve power reliability and energy security by lessening reliance on the transmission and distribution infrastructure of the electric grid. Unlike solar and wind power, fuel cells are able to operate continuously regardless of weather, time of day, or geographic location.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fuel flexibility: Our SureSource power plants can operate on a variety of existing and readily available fuels, including natural gas, on-site Renewable Biogas, directed Biogas, flare gas and propane.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Scalability: Our solutions are scalable, providing a cost-effective solution to adding power incrementally as demand grows, such as multi-megawatt fuel cell parks supporting the electric grid and large scale commercial and industrial operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Quiet operation: Our SureSource solutions operate quietly and without vibrations because they produce power without combustion and contain very few moving parts, which also enhances reliability.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Easy to site: Our SureSource power plants are relatively easy to site by virtue of their ultra-clean emissions profile, modest space requirements and quiet operation. These characteristics facilitate the installation of the power plants in urban locations with scarce and expensive land. A 10 MW fuel cell park only requires about one acre of land whereas an equivalent size solar array requires up to seven-to-ten times as much land, illustrating how fuel cell parks have a much lower environmental impact on land use, and are easy to site in high density areas with constrained land resources and adjacent to the demand source, thereby avoiding costly transmission construction. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Advanced Technologies Programs
+ Our Advanced Technologies programs, including our carbon capture, local hydrogen production and solid oxide fuel cells and electrolysis for energy storage represent future market, product and revenue opportunities for the Company beyond our current product line. We undertake both privately-funded and public research and development to develop these opportunities, reduce costs, and expand our technology portfolio. 
+ Our multi-featured power plant platforms can be configured to provide a number of value streams, including clean electricity, high quality usable heat, and hydrogen suitable for vehicle fueling, industrial purposes or power generation, and to concentrate CO2 from coal, biomass and natural gas fired power plants and industrial applications.  
+ We have historically worked on technology development with various U.S. government departments and agencies, including the Department of Energy (“DOE”), the Department of Defense (“DOD”), the Environmental Protection Agency (“EPA”), the Defense Advanced Research Projects Agency (“DARPA”), the Office of Naval Research (“ONR”), and the National Aeronautics and Space Administration (“NASA”). Government funding, principally from the DOE, provided 6%, 8% and 9% of our revenue for the fiscal years ended October 31, 2019, 2018, and 2017, respectively.
+ 11
+
+
+Our Advanced Technologies programs are currently focused on commercializing solutions within three strategic areas:
+  
+1) | Carbon capture for emissions reduction in traditional fossil fuel fired generation and industrial applications combined with power generation;
+---+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | Distributed hydrogen production, compression, and recovery; and
+---+----------------------------------------------------------------
+
+
+3) | SOFC/SOEC for stationary power generation, electrolysis and long duration energy storage.
+---+------------------------------------------------------------------------------------------
+
+ Carbon Capture – Power generation and industrial applications are the source of two-thirds of the world’s carbon emissions. Coal and natural gas are abundant, low-cost resources that are widely used to generate electricity in developed and developing countries, but burning these fuels, as well as burning biomass, results in the emission of criteria pollutants and CO2. Cost effective and efficient carbon capture from power generation and industrial applications globally represents a large market because it could enable clean use of all available fuels. The SureSource CaptureTM system separates and concentrates CO2 from the flue gases of natural gas, biomass or coal-fired power plants or industrial facilities as a side reaction that extracts and purifies the CO2 in the flue gas during the power generation process and destroys approximately 70% of NOx emissions. The production of additional power during the capture process, as opposed to consuming power, differentiates the SureSource Capture system from all other forms of carbon capture. This could make the SureSource Capture system more cost effective than other systems which are being considered for carbon capture. SureSource Capture systems can be implemented in increments, managing capital outlay to match decarbonization objectives and regulatory requirements.  Since our solution generates a return on capital resulting from the fuel cell's production of electricity rather than an increase in operating expense required by other carbon capture technologies, it can extend the life of existing power plants. We have a joint development agreement with EMRE to develop and commercialize this application of our core technology. See additional discussion concerning our relationship with EMRE under the section below entitled “License Agreements and Royalty Income”. We are also working on a carbon capture project with Drax Power Station, the largest single-site renewable power generator in the United Kingdom.
+ Distributed Hydrogen Production, Compression, and Recovery - On-site or distributed hydrogen generation, produced cleanly, represents an attractive and expansive market.  Our high temperature fuel cells generate electricity directly from a fuel by reforming the fuel inside the fuel cell to supply hydrogen for the electrical generation process.  We have developed a process by which gas separation technology can be added to our core fuel cell to capture hydrogen that is not used by the electrical generation process, and we refer to this configuration as SureSource Hydrogen. The SureSource Hydrogen product has the potential to be a compelling solution for industrial users of hydrogen and in transportation fueling applications. The 2.3 MW SureSource Hydrogen plant has a hydrogen output of approximately 1,200 kg per day, in addition to the electricity, thermal energy and water generated by the fuel cell. Hydrogen is typically made from natural gas in large central steam methane reforming (“SMR”) plants. The conventional reforming process involves burning fossil fuel to produce steam and to heat a fuel/steam mixture to a high temperature, which is then passed over a catalyst that converts the methane/water mixture to carbon dioxide and hydrogen.  The need to burn fossil fuel to provide thermal energy produces additional carbon dioxide criteria pollutant emissions, and SMRs are significant water consumers.  A similar, but environmentally sustainable, process happens in SureSource internal reforming: methane (from natural gas or Biogas) reacts with water to produce hydrogen, but, in the internal reforming process, the water and the heat are byproducts of the fuel cell reaction.  There is no need to burn fuel to supply heat, and there is no need to supply water.  In fact, a SureSource Hydrogen plant is a net water producer, not a water consumer.  When operated on Biogas, SureSource Hydrogen systems produce renewable hydrogen, but, even when fueled with natural gas, they produce hydrogen with a lower carbon impact than conventional SMR because of the use of internal heat instead of burning fuel.
+ SOFC/SOEC and Energy Storage – We are developing a solution for long duration energy storage using our proprietary solid oxide technology.  Our solid oxide stacks are capable of alternating between electrolysis and power generation mode.  Instead of producing power from fuel and air, a solid oxide fuel cell stack in electrolysis mode splits water into hydrogen and oxygen using supplied electricity.  A storage system based on SOFC/SOEC technology will start with stored water, which will be converted to hydrogen during charging by electrolysis in the solid oxide stacks.  The hydrogen is stored as compressed gas in cylinders or underground, creating the ability to produce a virtually limitless supply.  When discharge power is needed, the stored hydrogen is sent back to the solid oxide stacks, which react it with air to produce power and to regenerate the water, which is stored for the next cycle.
+ The key aspect of this approach is that the reactant (water) is inexpensive and plentiful.  Long duration storage can be achieved by adding water and hydrogen storage capacity, without the need to add excessive amounts of conventional battery reactants (e.g. Lithium, Cobalt, etc.), which have supply constraints for broad adoption and which present disposal challenges.  Long duration energy storage is going to be required at large scale during time periods ranging from hourly to seasonal in order to manage high penetration of intermittent renewable resources, and this 
+ 12
+
+
+water/hydrogen based approach of our SOFC/SOEC technology has the potential to be the key enabler of long duration storage.
+ SOFC power plant design and manufacturing is complementary to our carbonate-based megawatt-scale product line and affords us the opportunity to leverage our field operating history, our existing expertise in power plant design, fuel processing and high volume manufacturing capabilities, and our existing installation and service infrastructure.  Additionally, the target market for storage applications is electric utilities, which is a market in which we are already active.   
+ We perform SOFC/SOEC research and development at our Danbury, Connecticut headquarters, as well as at our dedicated SOFC/SOEC facility in Calgary, Alberta, Canada.  We are working under a variety of awards from the DOE for development and commercialization of both SOFC and SOEC, and, during fiscal year 2019, we advanced our solid oxide power generation, electrolysis and energy storage applications by executing on our existing DOE contracts.  Our solid oxide development activities are focused on three applications:  power generation, electrolysis, and energy storage (which is a combination of the first two).  During fiscal year 2019, we conducted our first prototype field test of a 250kW natural gas fueled SOFC power plant at the Clearway Energy Center in downtown Pittsburgh, Pennsylvania.  We are currently fabricating an advanced electrolysis system for testing in our Danbury, Connecticut headquarters, and we were recently awarded funding from the DOE to convert the electrolysis system to a reversible storage facility after the electrolysis testing is complete in late 2020.  We believe that energy storage based on reversible solid oxide stacks can be a game changer for long duration energy storage.  
+ We believe there are significant market opportunities for distributed hydrogen production, carbon capture, solid oxide fuel cell solutions and energy storage that represent potential future revenue opportunities for the Company. The projects described above allow us to leverage third-party resources and funding to accelerate the commercialization and realize the market potential of each of these solutions and virtually eliminate the need to rely on and use rare earth minerals.
+ SureSource Emissions Profile
+ Fuel cells are non-combustion devices that directly convert chemical energy (fuel) into electricity, heat and water.  Because fuel cells generate power electrochemically rather than by combusting (burning) fuels, they are more efficient in extracting energy from fuels and produce less CO2 and only trace levels of pollutants compared to combustion-type power generation or traditional power sources used to firm-up intermittent power sources, such as wind and solar.  The following table illustrates the favorable emission profile of our SureSource power plants:
+
+ | Emissions (Lbs. Per MWh)
+------------------------------------------+-------------------------
+ | NOX | | SO2 | | PM | CO2 | CO2 with CHP
+Average U.S. Fossil Fuel Plant (1) | | 0.48 | | 2.6 | | 0.08 | | 1,533 | | NA 
+Microturbine (60kW) (2) | | 0.44 | | 0.008 | | 0.09 | | 1,596 | | 520 - 680
+Small Natural Gas Turbine (3) | | 1.15 | | 0.008 | | 0.08 | | 1,494 | | 520 - 680
+SureSource - natural gas (4) | | 0.01 | | 0.0001 | | 0.00002 | | 940 | | 520 - 680
+SureSource 4000 High Efficiency Plant | | 0.01 | | 0.0001 | | 0.00002 | | 740 | | 520 - 680
+SureSource - utility scale carbon capture | | 0.01 | | 0.0001 | | 0.00002 | | 80 | | n/a 
+SureSource - renewable biogas | | 0.01 | | 0.0001 | | 0.00002 | < 0 | | < 0
+
+ 
+The high efficiency of our products results in significantly less CO2 per unit of power production compared to the average U.S. fossil fuel power plant, and the carbon emissions are reduced even further when configured for CHP applications or biofuels.  When our power plants are operating on Renewable Biogas, government agencies and regulatory bodies generally classify them as carbon neutral due to the renewable nature of the fuel source. The low CO2 emissions and low criteria pollutants from SureSource power plants have a significant impact on sustainability and air quality because they avoid emissions 24 hours a day.  The high capacity factor of baseload SureSource systems maximizes the impact of their environmental benefits.  The following table shows how the low emissions combined with high capacity factor result in emissions avoidance comparable to or better than intermittent renewable power sources.  While wind and solar renewable power sources may completely avoid these emissions while operating, given their low capacity factors, they avoid fewer emissions than fuel cells only because they operate for fewer hours per day. When wind and solar renewable power sources are not operating, higher emission resources are required to operate, thus diluting the benefits. Additionally, all renewable power sources have life cycle emissions associated with manufacture and disposal.
+ 13
+
+
+
+ 
+ | Capacity | | | Emissions, lb/MWh | | | Avoided Emissions, Tons/y per MW
+-----------------------------+-----------+----+---+-------------------+------+------+---------------------------------
+ | Factor, % | | | NOX | | | PM10 | | CO2 | | NOX | | | PM10 | | | CO2 | 
+Average US Grid (5) | | | | | | 1.10 | | 0.05 | | 1501 | | | | — | | | | — | | | — | 
+SureSource 3000 with CHP (6) | | 90 | % | | 0.01 | | | 0.00 | | 738 | | | 4.3 | | | 0.19 | | | | 3,008
+SureSource 4000 | | 90 | % | | 0.01 | | | 0.00 | | 778 | | | 4.3 | | | 0.19 | | | | 2,848
+SureSource Biogas fuel | | 90 | % | | 0.01 | | | 0.00 | | 0 | | | 4.3 | | | 0.19 | | | | 5,917
+Rooftop Solar (7) | | 23 | % | | | — | | | — | | | — | | | 1.1 | | | 0.05 | | | 1,479 | 
+Utility Scale Solar PV (7) | | 29 | % | | | — | | | — | | | — | | | 1.4 | | | 0.06 | | | 1,874 | 
+Wind (7) | | 47 | % | | | — | | | — | | | — | | | 2.2 | | | | 0.10 | | | 3,057
+
+
+(1) | Updated Greenhouse Gas and Criteria Air Pollutant Emission Factors of the US Electric Generating Units in 2010; Argon National Laboratory September 2013.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | The Regulatory Assistance Project, "Model Regulations for the Output of Specified Air Emissions from Smaller Scale Electric Generation Resources."
+----+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | The Regulatory Assistance Project, "Model Regulations for the Output of Specified Air Emissions from Smaller Scale Electric Generation Resources."
+----+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | SureSource estimates based on Company specifications.
+----+------------------------------------------------------
+
+
+(5) | Grid emissions rates for NOX and CO2. From EPA eGrid 2016, US Average non-baseload rates. Grid emissions rate for PM10 from ANL report "Updated Greenhouse Gas and Criteria Air Pollutant Emission Factors of the US Electric Generating Units in 2010", 2019 Projection.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(6) | SureSource estimates based on Company specifications.
+----+------------------------------------------------------
+
+
+(7) | Solar and Wind capacity factors are average of range from Lazard LCOE Analysis version 12, November 2018.
+----+----------------------------------------------------------------------------------------------------------
+
+Business Strategy
+ Our business model is based on multiple revenue streams, including power plant and component sales; recurring service revenue, mainly through long-term service agreements; recurring electricity, capacity and renewable attribute sales under PPAs and tariffs for projects we retain in our generation portfolio; and revenue from public and private industry research contracts under Advanced Technologies.
+ We are a complete solutions provider, controlling the design, manufacturing, sales, installation, operations and maintenance of our patented fuel cell technology under long-term power purchase and service agreements. When principally utilizing long-term PPAs, the end-user of the power or utility hosts the installation and only pays for power as it is delivered, avoiding up-front capital investment. We also develop projects and sell equipment directly to customers, providing a complete solution of engineering, installing and servicing the fuel cell power plant under an engineering, procurement and construction (“EPC”) agreement and a long-term maintenance and service agreement.  In all cases, FuelCell Energy maintains the long-term recurring service obligation and associated revenues running conterminous with the life of the project.
+ We target large-scale power users with our megawatt-class installations globally, and currently offer sub-megawatt solutions for smaller power consumers in Europe.  To provide a frame of reference, one megawatt is adequate to continually power approximately 1,000 average sized U.S. homes.  Our customer base includes utility companies, municipalities, universities, hospitals, government entities and a variety of industrial and commercial enterprises. Our leading geographic market is currently the United States, and we are pursuing opportunities in other countries around the world.
+ Our power plants provide electricity priced competitively to grid-delivered electricity in certain regions, and our strategy is to continue to reduce costs, which we believe will lead to wider adoption. Our business model involves full life-cycle management of our projects and fuel cell solutions, from design through operation and maintenance, including removal and recycling. By weight, approximately 93% of the entire power plant can be re-used or recycled at the end of its useful life. 
+ Our extensive intellectual property portfolio consists of patents, trade secrets and collective experience, which acts as a foundation for expanding and maximizing our solutions portfolio.  
+
+14
+
+
+Market Adoption
+ We target vertical markets and geographic regions that:
+  
+1) | Benefit from and value clean distributed generation;
+---+-----------------------------------------------------
+
+
+2) | Are located where there are high energy costs, poor grid reliability, and/or challenged transmission distribution lines;
+---+-------------------------------------------------------------------------------------------------------------------------
+
+
+3) | Have a need for distributed hydrogen for transportation or industry; and
+---+-------------------------------------------------------------------------
+
+
+4) | Are aligned with regulatory frameworks that harmonize energy, economic and environmental policies.
+---+---------------------------------------------------------------------------------------------------
+
+ Our business model focuses on providing these vertical markets and geographic regions with highly efficient and affordable distributed generation that delivers de-centralized power in a low-carbon, virtually pollutant-free manner. Geographic markets that meet these criteria and where we are already well established include the Northeastern United States and California.  We have also installed and are operating plants in Europe and Asia, mainly South Korea, in addition to North America. 
+ The Company has made significant progress with reducing costs and creating markets since the commercialization of our products in 2003, with more than 255 MW of our SureSource technology currently installed and operating. We believe that we can accelerate and expand the adoption of our distributed power generation solutions through (1) further reductions in the total cost of ownership, (2) continued education regarding the value that our solutions provide, (3) geographic and segment expansion, (4) growing demand for onsite generation, (5) microgrid expansion, and (6) product expansion across biofuels, carbon capture and local hydrogen.  
+ Fuel Cell Power Plant Ownership Structures
+ Historically, in the United States, customers or developers typically purchased our fuel cell power plants outright.  As the size of our fuel cell projects has grown and the availability of project capital has improved, project structures in the U.S. have transitioned to predominantly PPAs.  Under a PPA, the utility or end-user of the power commits to purchase power as it is produced for an extended period of time, typically 10-to-20 years.  Examples of customers that have previously entered into PPAs include universities, a pharmaceutical company, hospitals and utilities.  A primary advantage for the customer is that it does not need to commit its own capital or own a power generating asset, yet it enjoys the benefits of fuel cell power generation.
+ Once the PPA is executed and project financing is committed, construction of the fuel cell project can begin.  At or around the Commercial Operation Date, the project may be sold to a project investor or retained by the Company.  If the project is sold, revenue from the product sale is recognized, and the Company recognizes revenue separately for the long-term maintenance and service agreement over the term of that agreement.  If the project is retained, electricity, capacity and/or renewable energy credits are recognized monthly over the term of the PPA. We report the financial performance of retained projects as generation revenue and income.
+ Our decision to retain certain projects is based in part on the recurring, predictable cash flows these projects can offer us, the proliferation of PPAs in the industry and the potential access to capital.  Retaining PPAs affords the Company the full benefit of future cash flows under the PPAs, which are higher than if we sell the projects, although it requires more upfront capital investment and financing.  As of October 31, 2019, our operating portfolio of retained projects totaled 26.1 MW with an additional 79.5 MW under development or construction.  The Company plans to continue to grow this portfolio in a balanced manner, while also selling projects to investors when selling presents the best value and opportunity for the Company’s capital or meets the customer’s desired ownership structure. 
+ 
+Levelized Cost of Energy
+ Our fuel cell projects deliver power at a rate comparable to pricing from the grid in our targeted markets.  Policy programs that help to support adoption of clean distributed power generation often lead to below-grid pricing.  We measure power costs by calculating the Levelized Cost of Energy (“LCOE”) over the life of the project.  
+ 15
+
+
+There are several primary elements to LCOE for our fuel cell projects, including:
+  
+1) | Capital cost;
+---+--------------
+
+
+2) | Operations and maintenance cost; and
+---+-------------------------------------
+
+
+3) | Fuel expense.
+---+--------------
+
+ Given the level of integration in our business model of manufacturing, installing and operating fuel cell power plants, there are multiple areas and opportunities for cost reductions. We are actively managing and reducing costs in all three LCOE areas as follows: 
+  
+• | Capital Cost - Capital costs of our projects include costs to source material, manufacture, install, interconnect, finance and complete any on-site application requirements such as configuring for a microgrid and/or heating and cooling applications. We have reduced the product cost of our megawatt-class power plants by more than 60% from the first commercial installation in 2003. Further cost reductions will primarily be obtained from higher production volumes and engineering efficiency, which are expected to lead to reductions in the per-unit cost of materials purchased, supported by continued engineering, supply chain and manufacturing cost reductions. Our supply chain organization is actively engaged in strategic initiatives with suppliers to optimize production efficiencies and reduce waste while increasing quality and platform uptime, and lowering overall product/platform costs. Strategic sourcing initiatives are established to ensure adequate production capacity is qualified in advance of production volume scale up. Our industrial engineering, manufacturing and quality operations continue to embrace Lean Six Sigma principles throughout, focusing on continuous improvement, elimination of waste and increases in yields and quality while reducing cost. Larger projects offer scale and the opportunity to consolidate systems and reduce costs. In addition to these cost reduction efforts, our technology roadmap includes plans to increase the output of our power plants, which will add further value for our customers and reduce LCOE. We are always working to obtain the lowest cost financing for our generation projects. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Operations and Maintenance Cost – Through secure connections, we remotely monitor, operate, and maintain our fuel cell power plants to optimize performance and meet or exceed expected operating parameters throughout the operational lives of the plants. Operations and maintenance (“O&M”) is a key driver for power plants to deliver on projected electrical output and revenue. Each model of our SureSource power plants has a design life of 25 to 30 years. The fuel cell modules, currently manufactured with a 7-year cell design life, go through periodic replacement, while the BOP systems, which consist of conventional mechanical and electrical equipment, are maintained over the plant life. The price for planned periodic fuel cell stack replacements is included in our long-term service agreements or in the per kWh price of the PPA. We expect to continually drive down the cost of O&M with an expanding fleet, which will leverage our investments in this area. Additionally, we are continuing to develop fuel cells that have longer useful lives, which is intended to reduce O&M costs by increasing our scheduled module replacement period to in excess of seven years. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fuel Expense - Our fuel cells directly convert chemical energy (fuel) into electricity, heat, water, and, in certain configurations, other value streams such as high purity hydrogen. Our power plants can operate on a variety of existing and readily available fuels, including natural gas, Renewable Biogas, directed Biogas and propane. Our SureSource power plants deliver electrical efficiencies of 47% for systems targeting CHP applications and 60% for systems targeting electric-only applications, such as grid support and data centers. In a CHP configuration, our plants can deliver even higher system efficiency, depending on the application. Considering utilized waste heat in CHP applications, total efficiency of systems using our power plants is typically 60% to 80% and can be as high as 90%. These efficiencies compare to average U.S. fossil fuel plant generation efficiency of about 40% with grid line losses. Increasing electrical efficiency and reducing fuel costs is a key element of our operating cost reduction efforts and a competitive advantage against traditional combustion-based technologies. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ An important and differentiating factor that benefits fuel cells when comparing LCOE to other forms of power generation is that our solutions provide delivered electricity that minimizes or even avoids the costs of high voltage and distributed transmission. Energy can be produced right at the point of use. When comparing LCOE across different forms of power generation, transmission should be considered.  Power generation far from where the power is used requires transmission, which is a cost to ratepayers, creates risk of system outages, increases cyber attack risk, and is inefficient due to line losses of power in the transmission process. Recent events, including hurricanes along the Gulf 
+ 16
+
+
+coast and Puerto Rico, wildfires in California, and significant snow and ice storms in the Northeastern U.S., prove that transmission systems are more vulnerable to storm-related and other interruptions than locally-generated energy.  
+ Recently, California was affected by the utility policy of Public Safety Power Shutoffs (“PSPS”), a preemptive effort by the utility companies to prevent wildfires from being started by electrical equipment during strong and dry wind conditions. Two plants manufactured and operated by FuelCell Energy remained operational as part of their respective microgrids in areas impacted by PSPS and provided steady, reliable power to the University of California, San Diego and the Santa Rita Jail during a time when over 3 million people were generally affected by PSPS. 
+ Producing power near the point of use also facilitates the development of CHP applications, since it is easier to find a user for fuel cell waste heat in distributed applications.  Using waste heat to avoid burning fuel for thermal applications reduces LCOE (by avoiding fuel cost) and avoids additional carbon emissions and criteria pollutants.
+ 
+Markets
+ Vertical Markets
+ Access to clean, affordable and reliable power has transformed how most of the world lives today. The ability to provide power cleanly and efficiently is taking on greater importance and urgency in many regions of the world. FuelCell Energy’s products and services are specifically designed to deliver such clean, efficient power globally.  
+ Central generation and its associated transmission requirements and distribution grid are difficult to site, costly, prone to interruption and generally take many years to permit and build.  Some types of power generation that were widely adopted in the past, such as nuclear and coal power, are no longer welcome in certain regions of the world.  The cost and impact to public health and the environment of pollutants and greenhouse gas emissions impact the siting of new power generation.  The attributes of SureSource power plants address these challenges by providing virtually particulate-free baseload power and, where desired, thermal energy at the point of use in a highly-efficient process that is affordable to consumers.
+ We target distinct markets, including:
+  
+• | Utilities and independent power producers;
+--+-------------------------------------------
+
+
+• | Industrial and process applications;
+--+-------------------------------------
+
+
+• | Education and health care;
+--+---------------------------
+
+
+• | Data centers and communication;
+--+--------------------------------
+
+
+• | Wastewater treatment;
+--+----------------------
+
+
+• | Government;
+--+------------
+
+
+• | Commercial and hospitality; and
+--+--------------------------------
+
+
+• | Microgrids.
+--+------------
+
+ The utilities and independent power producers market is our largest vertical market with customers that include utilities on the East and West coasts of the United States, such as Avangrid Holdings, Long Island Power & Light, Southern California Edison and Pacific Gas & Electric. In Europe, utility customers include E.ON Connecting Energies, one of the largest utilities in the world, and Switzerland-based ewz.  In South Korea, we are contracted to operate and maintain a 20 MW plant for Korea Southern Power Company (“KOSPO”). 
+ Our SureSource power plants are producing power for a variety of industrial, commercial, municipal and government customers, including manufacturing facilities, pharmaceutical processing facilities, universities, healthcare facilities and wastewater treatment facilities.  These institutions desire efficient, clean and continuous power to reduce operating expenses, reduce greenhouse gas emissions and avoid pollutant emissions to meet their sustainability goals, while boosting resiliency and limiting dependence on the distribution grid.  CHP applications further support economic and sustainability initiatives by minimizing or avoiding the use of combustion-based boilers for heat.  Our SureSource power plants are unique in their ability to run on biofuels. With the growing market for anaerobic digestion (the production of Biogas from the breakdown of biodegradable materials in the absence of oxygen) and increasingly stringent regulations regarding air quality, we see a growing market opportunity that is perfectly suited for our fuel 
+ 17
+
+
+cell design. SureSource power plants operating on Renewable Biogas are an especially compelling value proposition as they convert a waste product into clean electricity and heat, while eliminating flaring, which addresses certain economic and sustainability challenges faced by our customers. Biogas is generated by the decay of organic material (i.e., biomass). This decaying organic material releases methane, or Biogas. As a harmful greenhouse gas, Biogas cannot be released directly into the atmosphere. Flaring creates pollutants and wastes this potential fuel source. Capturing and using Biogas as a fuel addresses these challenges and provides a carbon-neutral renewable fuel source. Our patented, proprietary clean-up skid, SureSource TreatmentTM, provides an economical and reliable system for treating Biogas for use on-site at the Biogas production facility.
+ Wastewater treatment facilities, food and beverage processors and agricultural operations produce Biogas as a byproduct of their operations. Disposing of this greenhouse gas can be harmful to the environment if released into the atmosphere or flared. Our SureSource power plants convert this Biogas into electricity and heat efficiently and economically. Wastewater facilities with anaerobic digesters are an attractive market for our SureSource solution including the power plant as well as treatment of the Biogas. Many wastewater treatment plants currently flare Biogas produced in the anaerobic digestion process, emitting NOx, SOx and particulates into the atmosphere, which does not meet many air quality regulations. Since our fuel cells operate on the Renewable Biogas produced by the wastewater treatment process and the heat is used to support daily operations at the wastewater treatment facility, the overall thermal efficiency of these installations is high, supporting economics and sustainability. In addition, the fuel cell does not emit the harmful NOx, SOx and particulates that come out of a flare. On-site Biogas projects are more efficient and more economical than Directed Biogas projects because less gas processing is required compared to the processing needed to get the on-site gas to pipeline quality.  The unique chemistry of carbonate fuel cells allows them to use low Btu on-site Biogas with no reduction in output or efficiency compared to operation on natural gas.  We have developed proprietary Biogas cleanup and contaminant monitoring equipment which, combined with the inherent suitability of the carbonate fuel cell chemistry, gives us an advantage in on-site Biogas applications.  Our SureSource 1500 and SureSource 3000 power plants are the only systems certified to CARB emissions standards under the Distributed Generation Certification Program for operation with on-site Biogas.
+ Our fuel cell solutions are also well suited for microgrid applications, either as the sole source of power generation or integrated with other forms of power generation.  We have fuel cells operating as microgrids at universities and municipalities, including one university microgrid owned by Clearway Energy and a municipal-based microgrid owned by Avangrid.  For the municipal-based system, under normal operation, the fuel cell supplies power to the grid.  If the grid is disrupted, the fuel cell plant will automatically disconnect from the grid and power a number of critical municipal buildings. Heat from this municipal-based fuel cell plant is used by the local high school. As mentioned above, our fuel cell-based microgrids have continued operating during PSPS events in California.
+ 
+Manufacturing and Service Facilities
+ We operate a 167,000 square-foot manufacturing facility in Torrington, Connecticut where we produce the individual cell packages and assemble the fuel cell modules. This facility also houses our global service center. Our completed modules are conditioned in Torrington and shipped directly to customer sites.  Annual capacity (module manufacturing, final assembly, testing and conditioning) is 100 MW per year under the Torrington facility’s current configuration when being fully utilized.  The Torrington facility is sized to accommodate eventual annual production capacity of 200 MW per year.
+ The expansion of the Torrington facility has enabled the consolidation of warehousing and service facilities, which has resulted in reduced leasing expenses.  The additional space is also expected to lead to additional manufacturing efficiencies by providing the needed space to re-configure the manufacturing lines without interrupting production.  As demand supports, a second phase will be undertaken to add manufacturing equipment to increase annual capacity to 200 MW.  
+ We design and manufacture the core SureSource fuel cell components that are stacked on top of each other to build a fuel cell stack.  For megawatt-scale power plants, four fuel cell stacks are combined to build a fuel cell module.  To complete the power plant, the fuel cell module or modules are combined with the BOP.  The mechanical BOP processes the incoming fuel such as natural gas or Renewable Biogas and includes various fuel handling and processing equipment such as pipes and blowers. The electrical BOP processes the power generated for use by the customer and includes electrical interface equipment such as an inverter.  The BOP components are either purchased directly from suppliers or the manufacturing is outsourced based on our designs and specifications.  This strategy allows us to 
+ 18
+
+
+leverage our manufacturing capacity, focusing on the critical aspects of the power plant where we have specialized knowledge and expertise and possess extensive intellectual property.  BOP components are shipped directly to a project site and are then assembled with the fuel cell module into a complete power plant.
+ The Torrington production and service facility and the Danbury corporate headquarters and research and development facility are ISO 9001:2015 and ISO 14001:2015 certified and our Field Service operation (which maintains the installed fleet of our plants) is ISO 9001:2015 certified, reinforcing the tenets of FuelCell Energy’s quality management system and our core values of continual improvement and commitment to quality, environmental stewardship, and customer satisfaction. Sustainability is promoted throughout our organization. We manufacture SureSource Products and manage them through end-of-life using environmentally friendly business processes and practices, certified to ISO 14001:2015. We continually improve how we plan and execute across the entire product life cycle. We strive for “cradle-to-cradle” sustainable business practices, incorporating sustainability in our corporate culture. We utilize “Design for Environment” principles in the design, manufacture, installation and servicing of our power plants. “Design for Environment” principles aim to reduce the overall human health and environmental impact of a product, process or service, when such impacts are considered across the product’s lifecycle. We maintain a chain of custody and responsibility of our SureSource products throughout the product life cycle. When our plants reach the end of their useful lives, we can refurbish and re-use certain parts and then recycle most of what we cannot re-use. By weight, approximately 93% of the entire power plant can be re-used or recycled at the end of its useful life.
+ We have a manufacturing and service facility in Taufkirchen, Germany that has the capability to perform final module assembly for up to 20 MW per year of sub-megawatt fuel cell power plants to service the fuel cell power plant demand in the European market. Our European service activities are also operated out of this location. Our operations in Europe are certified under both ISO 9001:2015 and ISO 14001:2015.
+ We have a research and development facility in Calgary, Alberta, Canada that is focused on the engineering and development of the Company’s SOFC and SOEC technology.
+ Raw Materials and Supplier Relationships
+ We use various commercially available raw materials and components to construct a fuel cell module, including nickel and stainless steel, which are key inputs in our manufacturing process. Our fuel cell stack raw materials are sourced from multiple vendors and are not considered precious metals.  We have a global integrated supply chain.  While we manufacture the fuel cell module in our Torrington facility, the electrical and mechanical BOPs are assembled by and procured from several suppliers. All of our suppliers must undergo a stringent and rigorous qualification process. We continually evaluate and qualify new suppliers as we diversify our supplier base in our pursuit of lower costs and consistent quality. We purchase mechanical and electrical BOP components from third party vendors, based on our own proprietary designs.
+ Engineering, Procurement and Construction (“EPC”)
+ We provide customers with complete turn-key solutions, including development, engineering, procurement, construction, interconnection and operations for our fuel cell projects.  From an EPC standpoint, we have an extensive history of safe and timely delivery of turn-key projects.  We have developed relationships with many design firms and licensed general contractors and have a repeatable, safe, and efficient execution philosophy that has been successfully demonstrated in numerous jurisdictions, both domestically and abroad, all with an exemplary safety record.  The ability to rapidly and safely execute installations minimizes high-cost construction period financing and can assist customers in certain situations when the Commercial Operations Date is time sensitive.
+ 
+19
+
+
+Services and Warranty Agreements
+ We offer a comprehensive portfolio of services, including engineering, project management and installation, and long-term operating and maintenance programs, including trained technicians that remotely monitor and operate our plants around the world, 24 hours a day and 365 days a year.  We directly employ field technicians to service the power plants and maintain service centers near our customers to support the high Availability of our plants.  
+ For all operating fuel cell plants not under a PPA, customers purchase long-term service agreements, some of which have terms of up to 20 years. Pricing for service contracts is based upon the value of service assurance and the markets in which we compete and includes all future maintenance and fuel cell module exchanges.  Each model of our SureSource power plants has a design life of 25-to-30 years. The fuel cell modules, with legacy modules having a 5-year cell design life and current production modules having a 7-year cell design life, go through periodic replacement, while the BOP systems, which consist of conventional mechanical and electrical equipment, are maintained over the life of the plant.
+ Under the typical provisions of both our service agreements and PPAs, we provide services to monitor, operate and maintain power plants to meet specified performance levels. Operations and maintenance is a key driver for power plants to deliver their projected revenue and cash flows.  The service aspects of our business model provide a recurring and predictable revenue stream for the Company.  We have committed future production for scheduled fuel cell module exchanges under service agreements and PPAs through the year 2038.  The pricing structure of the service agreements incorporates these scheduled fuel cell module exchanges and the committed nature of this production facilitates our production planning. Many of our PPAs and service agreements include guarantees for system performance, including electrical output and heat rate. Should the power plant not meet the minimum performance levels, we may be required to replace the fuel cell module with a new or used replacement module and/or pay performance penalties.  Our goal is to optimize the power plants to meet expected operating parameters throughout their contracted service term.
+ In addition to our service agreements, we provide a warranty for our products against manufacturing or performance defects for a specific period of time. The warranty term in the U.S. is typically 15 months after shipment or 12 months after acceptance of our products.  We accrue for estimated future warranty costs based on historical experience.
+ License Agreements and Royalty Income; Relationship with POSCO Energy
+ License Agreement with ExxonMobil Research and Engineering Company
+ EMRE and FuelCell Energy began working together in 2016 under an initial Joint Development Agreement with a focus on better understanding the fundamental science behind carbonate fuel cells for use in advanced applications and specifically how to increase efficiency in separating and concentrating carbon dioxide from the exhaust of natural gas-fueled power generation.
+ In June 2019, we entered into a license agreement with EMRE, a wholly-owned subsidiary of ExxonMobil Corporation, to facilitate the further development of our SureSource CaptureTM product (the “EMRE License Agreement”). Pursuant to the EMRE License Agreement, the Company granted EMRE and its affiliates a non-exclusive, worldwide, fully-paid, perpetual, irrevocable, non-transferable license and right to use our patents, data, know-how, improvements, equipment designs, methods, processes and the like to the extent it is useful to research, develop and commercially exploit carbonate fuel cells in applications in which the fuel cells concentrate carbon dioxide from industrial and power sources and for any other purpose attendant thereto or associated therewith, in exchange for a $10 million payment. Such right and license is sublicenseable to third parties performing work for or with EMRE or its affiliates, but shall not otherwise be sublicenseable. 
+ The EMRE License Agreement facilitated the execution of a new joint development agreement with EMRE, effective October 31, 2019 and executed in fiscal year 2020, pursuant to which we will continue exclusive research and development efforts with EMRE to evaluate and develop new and/or improved carbonate fuel cells to reduce carbon dioxide emissions from industrial and power sources, in exchange for (a) payment of (i) an exclusivity and technology access fee of $5.0 million, (ii) up to $45.0 million for research and development efforts, and (iii) milestone-based payments of up to $10.0 million after certain technological milestones are met, and (b) certain licenses.  As a result of the execution of the EMRE License Agreement in fiscal year 2020, the associated revenue and backlog will be accounted for in fiscal year 2020.
+
+20
+
+
+License Agreements with POSCO Energy
+ From approximately 2007 through 2015, we relied on POSCO Energy Co., Ltd. (“POSCO Energy”) to develop and grow the South Korean and Asian markets for our products and services.  
+ We record license fees and are entitled to receive royalty income from POSCO Energy related to manufacturing and technology transfer agreements entered into in 2007, 2009 and 2012.  The Cell Technology Transfer Agreement ("CTTA"), executed in October 2012, provides POSCO Energy with the technology rights to manufacture, sell, distribute and service our SureSource 300, SureSource 1500 and SureSource 3000 fuel cell technology in Asia. POSCO Energy built a cell manufacturing facility in Pohang, South Korea which became operational in late 2015. 
+ In October 2016, the Company and POSCO Energy extended the terms of the 2007 and 2009 manufacturing and technology transfer agreements to be consistent with the term of the CTTA, which expires on October 31, 2027. The CTTA requires POSCO Energy to pay us a 3.0% royalty on POSCO Energy net product sales, as well as a royalty on scheduled fuel cell module replacements under service agreements for modules that were built by POSCO Energy and installed at plants in Asia under the terms of long-term service agreements between POSCO Energy and its customers. While the aforementioned manufacturing and technology transfer agreements entered into in 2007, 2009 and 2012 remain in effect, due to certain actions and inactions of POSCO Energy, the Company has not realized any material revenues, royalties or new projects developed by POSCO Energy since 2016. 
+ In March 2017, we entered into a memorandum of understanding (“MOU”) with POSCO Energy to permit us to directly develop the Asian fuel cell business, including the right for us to sell SureSource solutions in South Korea and the broader Asian market. In June 2018, POSCO Energy advised us in writing that it was terminating the MOU effective July 15, 2018.  Pursuant to the terms of the MOU, notwithstanding its termination, we will continue to execute on sales commitments in Asia secured in writing prior to July 15, 2018, including the 20 MW power plant installed for KOSPO. 
+ On or about November 2, 2018, POSCO Energy served FuelCell Energy with an arbitration demand, initiating a proceeding to resolve various outstanding amounts between the companies. The parties amicably resolved the arbitration proceeding in July 2019. Since that date, we have made numerous attempts to engage with POSCO Energy to address the need for deployment of carbonate fuel cell technology in the Asian market in accordance with the requirements of the manufacturing and technology transfer agreements, our understanding of the desire of the South Korean government to advance fuel cell and hydrogen technology, and the needs of the Asian market, but have made little progress to date. 
+ In November 2019, POSCO Energy spun-off its fuel cell business into a new entity, Korea Fuel Cell, Ltd. (“KFC”). As part of the spin-off, POSCO Energy transferred manufacturing and service rights under the aforementioned manufacturing and technology transfer agreements to KFC, but retained distribution rights, including trademarks, and severed its own liability under the aforementioned manufacturing and technology transfer agreements. We believe that these actions are all in material breach of the terms of the CTTA and other manufacturing and technology transfer agreements and are effectively a misappropriation of the Company’s intellectual property. We have formally objected to POSCO Energy’s spin-off, and POSCO Energy has posted a bond to secure any liabilities to FuelCell Energy arising out of the spin-off. In light of the situation with POSCO Energy, we are evaluating all of our options with respect to our relationship and agreements with POSCO Energy, including trade related matters, POSCO Energy’s material breach of its obligations under the CTTA and the manufacturing and technology transfer agreements, and the misappropriation of our intellectual property.
+ 
+C
+ompany Funded Research and Development
+ In addition to research and development performed under research contracts, including as described in Advanced Technology Programs, we also fund our own research and development activities to support the commercial fleet with product enhancements and improvements. During fiscal year 2018, we launched our seven-year life stacks, which extended our stack life from five years to seven years. Greater power output and improved longevity are expected to lead to improved gross margin profitability on a per-unit basis for each power plant sold and improved profitability of service contracts, which are expected to support expanding gross margins for the Company.
+ 21
+
+
+In addition to output and life enhancements, we designed and introduced the 3.7 MW SureSource 4000 configuration with increased electrical efficiency, and we continually invest in cost reduction and improving the performance, quality and serviceability of our plants. These efforts are intended to improve our value proposition.
+ Company-funded research and development is included in Research and development expenses (operating expenses) in our consolidated financial statements.  The total research and development expenditures in the consolidated statement of operations, including third party and Company-funded expenditures, are as follows:
+ 
+ 
+ | Years Ended October 31, | 
+------------------------------------------------+-------------------------+-------
+(dollars in thousands) | 2019 | | 2018 | | | 2017
+Cost of Advanced Technologies contract revenues | $ | 12,884 | | $ | 10,360 | | $ | 12,728
+Research and development expenses | | 13,786 | | | 22,817 | | | 20,398
+Total research and development | $ | 26,670 | | $ | 33,177 | | $ | 33,126
+
+Backlog
+ 
+Backlog represents definitive agreements executed by the Company and our customers.
+ 
+Contract backlog as of October 31, 2019 and 2018 consisted of the following (in thousands):
+ 
+ 
+ | 2019 | | 2018 | 
+----------------------------+------+-----------+------+--
+Commercial: | | | | | 
+Product | $ | — | | $ | 1 
+Service (a) | | 169,371 | | | 251,650 
+Generation | | 1,114,366 | | | 839,483 
+License (b) | | 22,931 | | | — 
+Total Commercial | $ | 1,306,668 | | $ | 1,091,134
+Advanced Technologies | | | | | 
+Funded | $ | 11,758 | | $ | 15,934 
+Unfunded | | 220 | | | 16,449 
+Total Advanced Technologies | $ | 11,978 | | $ | 32,383 
+Total Contract Backlog | $ | 1,318,646 | | $ | 1,123,517
+
+
+(a) | In July 2018, we contracted to operate and maintain a 20 MW plant for Korea Southern Power Company (“KOSPO”). This contract was originally included in backlog as a twenty year contract, which reflected the total potential term of the contract. Under the terms of the contract, KOPSO has a renewal option in year ten. Thus, in conjunction with the adoption of Accounting Standards Codification Topic 606, “Revenue from Contracts with Customers,” which was adopted and implemented by the Company on November 1, 2018, service backlog was reduced by $64.3 million in fiscal year 2018 and fiscal year 2019 compared to the amounts previously disclosed. Should KOSPO exercise its renewal option, service backlog will be adjusted accordingly.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(b) | License backlog was not included prior to the adoption of Accounting Standards Update (“ASU”) 2014-09, “Revenue from Contracts with Customers,” which was implemented by the Company on November 1, 2018.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Service and generation backlog as of October 31, 2019 had a weighted average term of approximately 18 years, with weighting based on dollar backlog and utility service contracts of up to 20 years in duration at inception.  Generally, our government research and development contracts are subject to the risk of termination at the convenience of the contracting agency.
+ Our backlog amount outstanding is not indicative of amounts to be earned in the upcoming fiscal year.  The specific elements of backlog may vary in terms of timing and revenue recognition from less than one year to up to 20 years.  
+ The Company may choose to sell or retain operating power plants on the balance sheet, thus creating variability in timing of revenue recognition. Accordingly, the timing and the nature of our business makes it difficult to predict what portion of our backlog will be filled in the next fiscal year.
+
+22
+
+
+Fuel Cell Technologies
+ Fuel cell technologies are classified according to the electrolyte used by each fuel cell type. Our SureSource technology utilizes a carbonate electrolyte. Carbonate-based fuel cells are well-suited for megawatt-class applications, offering a number of advantages over other types of fuel cells in our target markets. 
+ These advantages include:
+ 
+ 
+• | The ability of Carbonate Fuel Cells to generate electricity directly from readily available fuels such as natural gas or Renewable Biogas;
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Lower raw material costs as the high temperature of the fuel cell enables the use of commodity metals rather than precious metals;
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Scalability to leverage on-site components to reduce cost;
+--+-----------------------------------------------------------
+
+
+• | High-quality heat suitable for CHP applications; and
+--+-----------------------------------------------------
+
+
+• | The ability to perform advanced applications, including carbon capture and hydrogen production to provide fuel for fuel cell vehicles.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+ We are also actively developing SOFC technology, as discussed in the prior “Advanced Technologies Programs” section.  Other fuel cell types that may be used for commercial applications include phosphoric acid and PEM.
+ 23
+
+
+The following table illustrates the four principal types of fuel cells, highlighting typical market applications, industry estimates of the electrical efficiency, expected capacity range, and versatility for applications in addition to power generation:
+ 
+ 
+System Size Range | MW- Class | Sub-MW- Class | | Micro CHP | Mobile 
+ | Carbonate (CFC) | Carbonate (CFC) | Solid Oxide (SOFC) | Phosphoric Acid (PAFC) | PEM / SOFC | Polymer Electrolyte Membrane (PEM)
+Plant size | 1.4 MW - 3.7 MW Plus | 250 kW – 400 kW | up to 300 kW | up to 440 kW | < 10 kW | 5 - 100 kW 
+Typical Application | Utilities, Universities, Commercial & Industrial | Universities, Commercial & Industrial | Commercial Buildings & “Big-Box” Retail Stores | Commercial Buildings & Grocery Stores | Residential and Small Commercial | Transportation 
+Fuel | Natural gas, On-site or Directed Biogas, Others | Natural gas, On-Site or Directed Biogas, Others | Natural Gas | Natural Gas | Natural Gas | Hydrogen 
+Advantages | High Efficiency, Scalable, Fuel Flexible & CHP | High Efficiency, Fuel Flexible & CHP | High Efficiency | CHP | Load Following & CHP | Load Following & Low Temperature 
+Electrical efficiency | 43%-47% to 60% | 43% - 47% | 41% - 65% | 40% - 42% | 25% - 35% | 25% - 35% 
+Combined Heat & Power (CHP) | Yes, Steam & Chilling | Yes, Hot Water | Depends on Technology Used | Limited: Hot Water, Chilling | Suitable for Facility Heating | No 
+Carbon Capture | Yes | No | No | No | No | No 
+Distributed Hydrogen | Yes | No | Yes | No | No | No 
+Reversible for Storage | No | No | Yes | No | No | No 
+
+C
+ompetition
+ Our SureSource power plants compete in the marketplace for stationary distributed generation. In addition to different types of stationary fuel cells, some other technologies that compete in this marketplace include micro-turbines and reciprocating gas engines.
+ Several companies in the U.S. are engaged in fuel cell development, although we are the only domestic company engaged in manufacturing and deployment of stationary Carbonate Fuel Cells. Other fuel cell technologies (and the companies developing them) include small or portable PEM fuel cells (Ballard Power Systems, Plug Power, and increasing activity by numerous automotive companies including Toyota, Hyundai, Honda and GM), stationary phosphoric acid fuel cells (Doosan), stationary solid oxide fuel cells (Bloom Energy), and small residential solid oxide fuel cells (Ceres Power Holdings and Ceramic Fuel Cells Ltd.).  Each of these competitors with stationary fuel cell applications has the potential to capture market share in our target markets.
+ Other than fuel cell developers, we may compete with companies such as Caterpillar, Cummins, Wartsila, MTU Friedrichshafen GmbH (MTU), and Detroit Diesel, which manufacture combustion-based distributed power 
+ 24
+
+
+generation equipment, including various engines and turbines, and have established manufacturing and distribution operations along with product operating and cost features. Competition on larger MW projects may also come from gas turbine companies like General Electric, Caterpillar Solar Turbines and Kawasaki.
+ We also compete against the electric grid, which is readily available to prospective customers.  The electric grid is supplied by traditional centralized power plants, including coal, gas and nuclear, with transmission lines used to transport the electricity to the point of use.
+ Our stationary fuel cell power plants also compete against large scale solar and wind technologies, although we complement the unreliable intermittent nature of solar and wind with the continuous, reliable power output of the fuel cells.  Solar and wind require specific geographies and weather profiles, require transmission for utility-scale applications, an energy storage solution to provide continuous power output, and a significant amount of land compared to our fuel cell power plants, making it difficult to site megawatt-class solar and wind projects in urban areas, unlike our solutions. Solar and wind applications are typically favored in markets which have a preference for zero-carbon resources. While fuel cells emit negligible amounts of NOx, SOx and particulates, fuel cells do emit a small amount of carbon dioxide. The carbon dioxide emissions of a fuel cell are only a fraction of the carbon dioxide emissions of traditional combustion generators. We are working to educate policy makers in our target markets of the clean profile of our technology and the benefits of baseload power to complement zero carbon intermittent resources. 
+ Our distributed hydrogen solution competes against traditional centralized hydrogen generation as well as electrolyzers used for distributed applications.  Hydrogen is typically generated at a central location in large quantities by combustion-based steam reforming and then distributed to end users by diesel truck.  Besides utilizing tri-generation SureSource plants for distributed hydrogen, electrolyzers can be used that are in essence, reverse fuel cells.  Electrolyzers take electricity and convert it to hydrogen.  The hydrogen can be used as it is generated, compressed and stored, or injected into the natural gas pipeline. Companies using fuel cell-based electrolyzer technology for transportation applications include NEL and Hydrogenics Corporation.
+ Hydrogen is an energy carrier and energy storage utilizing hydrogen is a growing market opportunity that we are pursuing with our SOFC/SOEC technology.  Companies using PEM-based fuel cell electrolyzer technology for storage include Hydrogenics Corporation and ITM Power PLC.
+ 
+Regulatory and Legislative Environment
+ Distributed generation addresses certain power generation issues that central generation does not and legal, government and regulatory policy can impact deployment of distributed generation. The policies that affect our products are not always the same as those imposed on our competitors, and while some policies can make our products less competitive, others may provide an advantage. Certain utility policies may also pose barriers to our installation or interconnection with the utility grid, such as backup, standby or departing load charges that make installation of our products not economically attractive for our customers. Regulatory and legislative support encompasses policy, incentive programs, and defined sustainability initiatives such as Renewable Portfolio Standards (“RPS”).
+ Various states and municipalities in the U.S. have adopted programs for which our products qualify, including programs supporting self-generation, clean air power generation, combined heat and power applications, carbon reduction, grid resiliency / microgrids and utility ownership of fuel cell projects.
+ 
+The majority of states in the U.S. have enacted legislation adopting Clean Energy Standards (“CES”) or RPS mechanisms. Under these standards, regulated utilities and other load serving entities are required to procure a specified percentage of their total electricity sales to end-user customers from eligible resources. CES and RPS legislation and implementing regulations vary significantly from state to state, particularly with respect to the percentage of renewable energy required to achieve the state’s mandate, the definition of eligible clean and renewable energy resources, and the extent to which renewable energy credits (certificates representing the generation of renewable energy) qualify for CES or RPS compliance. Fuel cells using Biogas qualify as renewable power generation technology in all of the CES and RPS states in the U.S., and some states specify that fuel cells operating on natural gas are also eligible for these initiatives in recognition of the high efficiency and low pollutants of fuel cells.  Other states are moving away from generation utilizing fossil fuels in favor of zero carbon resources. 
+ 
+In February 2018, the U.S. Congress reinstated the 30% Investment Tax Credit (“ITC”) for fuel cells and also extended and significantly expanded the existing Carbon Oxide Sequestration Credit. The ITC phases down to 26% in 2020 and 
+ 25
+
+
+22% by 2022 and is set to expire in 2023. The reinstatement of the ITC for fuel cells provided equal access to tax incentives for U.S. fuel cell manufacturers when compared with other clean energy solutions. 
+ Internationally, South Korea has an RPS to promote clean energy, reduce carbon emissions, and develop local manufacturing of clean energy generation products to accelerate economic growth. The RPS is designed to increase new and renewable power generation to 10% of total power generation by 2024 from 2% when the RPS began in 2012.  Eighteen of the largest power generators are obligated to achieve the RPS requirements in their generation or purchase offsetting renewable energy certificates.  Financial penalties are levied by the government for non-compliance.  European governments are supportive of hydrogen-based generation and efficient CHP applications, and some European governments such as Germany, the UK and the Netherlands, provide incentives in the form of tax incentives, grants and waivers of regulatory fees for such installations.
+ 
+Government Regulation
+ Our Company and its products are subject to various federal, provincial, state and local laws and regulations relating to, among other things, land use, safe working conditions, handling and disposal of hazardous and potentially hazardous substances and emissions of pollutants into the atmosphere. Negligible emissions of SOx and NOx from our power plants are substantially lower than conventional combustion-based generating stations, and are far below existing and proposed regulatory limits. The primary emissions from our power plants, assuming no cogeneration application, are humid flue gas that is discharged at temperatures of 700-800° F, water that is discharged at temperatures of 10-20° F above ambient air temperatures, and CO2 in per kW hour amounts that are much less than conventional fossil fuel central generation power plants due to the high efficiency of fuel cells. The discharge of water from our power plants requires permits that depend on whether the water is to be discharged into a storm drain or into the local wastewater system.
+ We are also subject to federal, state, provincial and/or local regulation with respect to, among other things, siting. In addition, utility companies and several states in the U.S. have created and adopted, or are in the process of creating and adopting, interconnection regulations covering both technical and financial requirements for interconnection of fuel cell power plants to utility grids. Our power plants are designed to meet all applicable laws, regulations and industry standards for use in international markets in which we operate.  Our SureSource solutions are CARB 2007 certified, and our SureSource 1500 and SureSource 3000, when operating on Biogas, are certified for the CARB 2013 biogas standard. 
+ We are committed to providing a safe and healthy environment for our employees, and we are dedicated to seeing that safety and health hazards are adequately addressed through appropriate work practices, training and procedures.  All of our employees must observe the proper safety rules and environmental practices in work situations, consistent with our work practices, training and procedures, and consistent with all applicable health, safety and environmental laws and regulations.
+ 
+Proprietary Rights and Licensed Technology
+ 
+Our intellectual property consists of patents, trade secrets and institutional knowledge and know how that we believe is a competitive advantage and represents a significant barrier to entry for potential competitors.  Our Company was founded in 1969 as an applied research company and began focusing on Carbonate Fuel Cells in the 1980s, with our first fully-commercialized SureSource power plant sold in 2003. Over this time, we have gained extensive experience in designing, manufacturing, operating and maintaining fuel cell power plants.  This experience cannot be easily or quickly replicated and, combined with our trade secrets, proprietary processes and patents, safeguards our intellectual property rights.
+ 
+As of October 31, 2019, our Company, excluding its subsidiaries, had 95 patents in the U.S. and 153 patents in other jurisdictions covering our fuel cell technology (in certain cases covering the same technology in multiple jurisdictions), with patents directed to various aspects of our SureSource technology, SOFC technology, PEM fuel cell technology, and applications thereof. As of October 31, 2019, we also had 62 patent applications pending in the U.S. and 112 pending in other jurisdictions.  Our U.S. patents will expire between 2020 and 2037, and the current average remaining life of our U.S. patents is approximately 8.4 years.
+ 
+Our subsidiary, Versa Power Systems, Ltd., as of October 31, 2019, had 33 U.S. patents and 96 international patents covering the SOFC technology (in certain cases covering the same technology in multiple jurisdictions), with an average remaining U.S. patent life of approximately 5.5 years.  As of October 31, 2019, Versa Power Systems, Ltd. also had 1 pending U.S. patent application and 11 patent applications pending in other jurisdictions.  In addition, as of 
+ 26
+
+
+October 31, 2019, our subsidiary, FuelCell Energy Solutions, GmbH, had license rights to 2 U.S. patents and 7 patents outside the U.S. for carbonate fuel cell technology licensed from Fraunhofer IKTS.
+ 
+Five patents expired in 2019, but none of these expirations, individually or in the aggregate, is expected to have any material impact on our current or anticipated operations.  As has historically been the case, we are continually innovating and have a significant number of invention disclosures that we are reviewing that may result in additional patent applications.
+ 
+Certain of our U.S. patents are the result of government-funded research and development programs, including our DOE programs. U.S. patents we own that resulted from government-funded research are subject to the government potentially exercising “march-in” rights. We believe that the likelihood of the U.S. government exercising these rights is remote and would only occur if we ceased our commercialization efforts and there was a compelling national need to use the patents.
+ 
+Significant Customers and Information about Geographic Areas
+ 
+We contract with a concentrated number of customers for the sale of our products and for research and development. For the years ended October 31, 2019, 2018 and 2017, our top customers, EMRE, Dominion Bridgeport Fuel Cell, LLC, Connecticut Power and Light, the DOE, Pfizer Inc., POSCO Energy, Hanyang Industrial Development Co., Ltd, Clearway Energy (formerly NRG Yield, Inc.), and AEP Onsite Partners, LLC, accounted for an aggregate of 80%, 86% and 79%, respectively, of our total annual consolidated revenue. Revenue percentage by major customer for the last three fiscal years is as follows:
+
+ | Years Ended October 31, | 
+---------------------------------------------------+-------------------------+---
+ | 2019 | | | 2018 | | 2017
+ExxonMobil Research and Engineering Company (EMRE) | | 40 | % | | 6 | % | 9 | %
+Dominion Bridgeport Fuel Cell, LLC (a) | | 13 | % | | 3 | % | 11 | %
+Connecticut Light and Power (a) | | 11 | % | | — | % | — | %
+U.S. Department of Energy (DOE) | | 6 | % | | 8 | % | 9 | %
+Pfizer, Inc. | | 6 | % | | 4 | % | 4 | %
+POSCO Energy | | 3 | % | | 5 | % | 6 | %
+Clearway Energy (formerly NRG Yield, Inc.) | | 1 | % | | 15 | % | — | %
+Hanyang Industrial Development Co., Ltd. | | — | % | | 35 | % | 40 | %
+AEP Onsite Partners, LLC | | — | % | | 10 | % | — | %
+Total | | 80 | % | | 86 | % | 79 | %
+
+
+(a) | Dominion Bridgeport Fuel Cell, LLC was acquired by the Company on May 9, 2019. As a result of this acquisition, revenue is now (subsequent to the acquisition) recognized under the related PPA for electricity sales to Connecticut Light and Power. 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+See Item 7 – “Management's Discussion and Analysis of Financial Condition and Results of Operations” and Item 8 – “Consolidated Financial Statements and Supplementary Data” for further information regarding our revenue and revenue recognition policies.
+ 
+We have marketing and manufacturing operations both within and outside the United States. We source raw materials and BOP components from a diverse global supply chain.  In 2019, the foreign country with the greatest concentration risk was South Korea, accounting for 4% of our consolidated net sales.  The Company is entitled to receive royalties from POSCO Energy on the sale of power plants and module replacements related to service of fuel cell power plants in Asia, and the Company received approximately $0.4 million in such royalties during the fiscal year ended October 31, 2019 as part of a net settlement of the arbitration brought by POSCO Energy.  As part of our strategic plan, we are in the process of diversifying our sales mix from both a customer specific and geographic perspective. See Item 1A: Risk Factors - “We are substantially dependent on a concentrated number of customers and the loss of any one of these customers could adversely affect our business, financial condition and results of operations,” “We depend on strategic relationships with third parties, and the terms and enforceability of many of these relationships are not certain,” and “The situation with POSCO Energy has limited and continues to limit our efforts to access the South Korean and Asian markets and could expose us to costs of arbitration or litigation proceedings.”
+ 27
+
+
+
+The international nature of our operations subjects us to a number of risks, including fluctuations in exchange rates, adverse changes in foreign laws or regulatory requirements and tariffs, taxes, and other trade restrictions. See Item 1A: Risk Factors – “We are subject to risks inherent in international operations.” See also Note 16. “Segment Information,” to the consolidated financial statements in Part II, Item 8, “Consolidated Financial Statements and Supplementary Data” of this Annual Report on Form 10-K for information about our net sales by geographic region for the years ended October 31, 2019, 2018, and 2017. See also Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” for other information about our operations and activities in various geographic regions.
+ 
+Sustainability
+ FuelCell Energy’s ultra-clean, efficient and reliable fuel cell power plants help our customers achieve their sustainability goals. These highly efficient and environmentally friendly products support the “Triple Bottom Line” concept of sustainability, consisting of environmental, social and economic considerations. In October 2018, we were certified ISO 14001:2015 compliant, having demonstrated the establishment of and adherence to an environmental management system standard.  FuelCell Energy is the only fuel cell manufacturer to have received this certification.
+ Product efficiency
+ The electrical efficiency of our carbonate fuel cell solutions ranges from approximately 47% to 60% depending on the configuration.  When configured for CHP, our system efficiencies can potentially reach up to 90%, depending on the application. This compares favorably to the average efficiency of the U.S. electrical grid of about 40%.  Our solutions deliver this high electrical efficiency where the power is used, avoiding transmission.  Transmission line losses average about 5% for the U.S. grid, which represents inefficiency and is a hidden cost to ratepayers.
+ Product end-of-life management
+ We continue to incorporate sustainability best practices into our corporate culture, as well as into the design, manufacture, installation and servicing of our fuel cell power plants.  For example, when our plants reach the end of their useful lives, we can refurbish and re-use certain parts and then recycle most of what we cannot re-use.  Some of the parts in the fuel cell module can be re-furbished, such as end plates, while the individual fuel cell components are sent to a smelter for recycling. The BOP has an operating life of 20-to-25 years, at which time metals such as steel and copper are reclaimed for scrap value.  By weight, approximately 93% of the entire power plant can be re-used or recycled at the end of its useful life.
+ Our manufacturing process has a very low carbon footprint, utilizing an assembly oriented production strategy.  While we continue to enhance and adopt sustainable business practices, we recognize this is an ongoing effort with more to be accomplished, such as further reducing the direct and indirect aspects of our carbon footprint. 
+ Workforce Health & Safety
+ We work to continually improve what we feel is a robust safety program.  This is demonstrated by an improving safety trend over each of the past 5 years.  We have never had a workplace fatality at any of our facilities or power plant installations.
+ Sustainability also incorporates social risks and human rights, and we will not knowingly support or do business with suppliers that treat workers improperly or unlawfully, including, without limitation, those that engage in child labor, human trafficking, slavery or other unlawful or morally reprehensible employment practices.  We are continuing to implement comprehensive monitoring of our global supply chain to eliminate social risks and ensure respect for human rights. We contractually ensure that all qualified domestic suppliers in our supply chain comply with the Fair Labor Standards Act of 1938, as amended.  
+ 
+28
+
+
+Materials sourcing
+ 
+Assuring the absence of conflict minerals in our power plants is a continuing initiative.  Our fuel cells, including the fuel cell components and completed fuel cell module, do not utilize any 3TG minerals (i.e., tin, tungsten, tantalum and gold) that are classified as conflict minerals.  We do utilize componentry in the BOP such as computer circuit boards that utilize trace amounts of 3TG minerals. For perspective, total shipments in fiscal year 2018 weighed approximately 2.8 million pounds, of which 8.0 pounds, or 0.000291%, represented 3TG minerals, so the presence of these minerals is minimal.  Our conflict mineral disclosure filed with the Securities and Exchange Commission (“SEC”) on Form SD contains specific information on the actions we are taking to avoid the use of conflict minerals.
+ 
+Associates
+ 
+As of October 31, 2019, we had 301 full-time associates, of whom 119 were located at the Torrington manufacturing plant, 145 were located at the Danbury, Connecticut facility or other field offices within the U.S., and 37 were located abroad.  We did not have any part-time associates. None of our U.S. associates are represented by a labor union or covered by a collective bargaining agreement.  We believe our relations with our associates are good.
+Available Information
+ 
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports are made available free of charge through the Investor Relations section of the Company’s website (http://www.fuelcellenergy.com) as soon as practicable after such material is electronically filed with, or furnished to, the SEC. Material contained on our website is not incorporated by reference in this report. Our executive offices are located at 3 Great Pasture Road, Danbury, CT 06810. The public may also read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports and other information regarding issuers that file electronically with the SEC located at http://www.sec.gov.
+ 29
+
+
+Information about our Executive Officers
+ 
+ 
+NAME | AGE | PRINCIPAL OCCUPATION 
+----------------------------------------------------------------------------------+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jason B. Few President, Chief Executive Officer and Chief Commercial Officer | 53 | Mr. Few was appointed President and Chief Executive Officer in August 2019 and Chief Commercial Officer in September 2019 and has served as a director since 2018. Mr. Few chairs the Executive Committee of the Board of Directors (the “Board”). Prior to joining FuelCell Energy, Mr. Few served as President of Sustayn Analytics LLC, a cloud-based software waste and recycling optimization company, since 2018, and as the Founder and Senior Managing Partner of BJF Partners LLC, a privately held strategic consulting firm, since 2016. Mr. Few has over 30 years of experience increasing enterprise value for Global Fortune 500 and privately-held technology, telecommunications, technology and energy firms. He has overseen transformational opportunities across the technology and industrial energy sectors, in roles including Founder and Senior Managing Partner of BJF Partners, LLC; President and Chief Executive Officer of Continuum Energy, an energy products and services company, from 2013-2016; various roles including Executive Vice President and Chief Customer Officer of NRG Energy, Inc., an integrated energy company, from 2011 to 2012; and from 2008 to 2009, Vice President, Smart Energy and from 2009 to 2012, President of Reliant Energy, a retail electricity provider. Mr. Few also has served as a Senior Advisor to Verve Industrial Protection, an industrial cybersecurity software company, since 2016. Mr. Few was elected to the board of Marathon Oil (NYSE: MRO) effective April 1, 2019, and is a member of Marathon Oil’s Audit and Finance and Corporate Governance and Nominating Committees. Mr. Few received his Bachelor’s Degree in Computer Systems in Business from Ohio University, and a MBA from Northwestern University’s J.L. Kellogg Graduate School of Management. 
+Michael S. Bishop Executive Vice President, Chief Financial Officer and Treasurer | 51 | Mr. Bishop was appointed Executive Vice President in June 2019 and has served as the Company’s Chief Financial Officer and Treasurer since June 2011. Mr. Bishop previously served as Senior Vice President of the Company from June 2011 to June 2019. He has more than 20 years of experience in financial operations and management with public high growth technology companies with a focus on capital raising, project finance, debt/treasury management, investor relations, strategic planning, internal controls, and organizational development. Since joining the Company in 2003, Mr. Bishop has held a succession of financial leadership roles, including Assistant Controller, Corporate Controller and Vice President and Controller. Prior to joining the Company, Mr. Bishop held finance and accounting positions at TranSwitch Corporation, Cyberian Outpost, Inc. and United Technologies, Inc. He is a certified public accountant and began his professional career at McGladrey and Pullen, LLP (now RSM US LLP). Mr. Bishop also served four years in the United States Marine Corps. Mr. Bishop received a Bachelor of Science in Accounting from Boston University and a MBA from the University of Connecticut. 
+
+ 30
+
+
+ 
+NAME | AGE | PRINCIPAL OCCUPATION 
+------------------------------------------------------------------------------------------------------------------------------+-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jennifer D. Arasimowicz, Esq. Executive Vice President, General Counsel, Chief Administrative Officer and Corporate Secretary | 47 | Ms. Arasimowicz was appointed Chief Administrative Officer in September 2019 and has served as Executive Vice President since June 2019, General Counsel since April 2017 and Corporate Secretary since April 2017. In her current position (and in her prior positions), Ms. Arasimowicz, a licensed attorney in Connecticut, New York and Massachusetts, is (and was) the chief legal, compliance and administrative officer of the Company, having responsibility for oversight of all of the Company’s legal and government affairs, and providing leadership in all aspects of the Company’s business, including compliance, corporate governance and board activities. Ms. Arasimowicz joined the Company in 2012 as Associate Counsel and was promoted to Vice President in 2014, to General Counsel and Corporate Secretary in 2017 and to Senior Vice President also in 2017. Ms. Arasimowicz also previously served as Interim President from June 2019 to August 2019 and as Chief Commercial Officer from June 2019 to September 2019. Prior to joining the Company, Ms. Arasimowicz served as General Counsel of Total Energy Corporation, a New York based diversified energy products and service company providing a broad range of specialized services to utilities and industrial companies. Previously, Ms. Arasimowicz was a partner at Shipman & Goodwin in Hartford, Connecticut, chairing the Utility Law Practice Group and began her legal career as an associate at Murtha Cullina, LLP. Ms. Arasimowicz earned her Juris Doctor at Boston University School of Law and holds a Bachelor’s degree in English from Boston University. 
+Michael Lisowski Executive Vice President, Chief Operating Officer | 49 | Mr. Lisowski was appointed Executive Vice President and Chief Operating Officer in June 2019. Mr. Lisowski has served as the Company’s Vice President of Global Operations since 2018, and, from 2001 to 2018, held various other positions within the Company, including Vice President of Supply Chain from 2010 to 2018. Mr. Lisowski is a senior global operations leader with 26 years of progressive operations experience in technology-driven businesses. In his position as the Company’s Chief Operating Officer (and in his prior position as the Company’s Vice President of Global Operations), Mr. Lisowski is (and was) responsible for the Supply Chain, Manufacturing, Quality, Project Management, Environmental Health and Safety, and Plant Engineering functions of the Company. Additionally, Mr. Lisowski and his team are responsible for the development and qualification of strategic suppliers for critical direct materials, as well as procurement of capital equipment in support of operations. Mr. Lisowski earned his Bachelor’s Degree in Communications and Business Administration at Western New England University and a Master’s Degree in Management, Global Supply Chain Integrations from Rensselaer Polytechnic Institute. 
+
+ 31
+
+
+ 
+NAME | AGE | PRINCIPAL OCCUPATION 
+---------------------------------------------------------------+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Anthony Leo Executive Vice President, Chief Technology Officer | 62 | Mr. Leo was appointed Executive Vice President and Chief Technology Officer in June 2019 and, prior to that, served as Vice President of Applications and Advanced Technologies since 2014. From 1978 to 2014, Mr. Leo has held various other positions with the Company, including Vice President of Application Engineering and Advanced Technology Development, Vice President of Applications and OEM Engineering, and Vice President of Product Engineering. Mr. Leo has held key leadership roles in the Company’s research, development, and commercialization of stationary fuel cell power plants for more than 30 years. In his current position and in his position as the Company’s Vice President of Applications and Advanced Technologies, Mr. Leo is and has been responsible for Applications and Advanced Technology Development. In Mr. Leo’s other positions with the Company, he has been responsible for managing advanced research and development of rechargeable batteries and fuel cells, managing the first large-scale demonstration stationary fuel cell project, and establishing the Product Engineering Group. Mr. Leo earned his Bachelor of Science Degree in Chemical Engineering from Rensselaer Polytechnic Institute and is currently serving on the U.S. Department of Energy Hydrogen and Fuel Cell Technical Advisory Committee. 
+

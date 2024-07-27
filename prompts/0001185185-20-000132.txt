@@ -1,0 +1,101 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1 – Business
+Organization
+ On January 4, 2020, PrivCo and GreenBox POS, a Nevada corporation entered into an Asset Purchase Agreement (the “Agreement”), to memorialize a verbal agreement (the “Verbal Agreement”) entered into on April 12, 2018, by and among PubCo and PrivCo.
+ 
+On April 12, 2018, pursuant to the Verbal Agreement, PubCo acquired PrivCo’s blockchain gateway and payment system business, point of sale system business, delivery business and kiosk business, and bank and merchant accounts, as well as all intellectual property related thereto (the “GreenBox Business”). As consideration for the GreenBox Business, on April 12, 2018, PubCo assumed PrivCo’s liabilities that had been incurred in the normal course of the GreenBox Business (collectively, the “GreenBox Acquisition”).
+ 
+For accounting and reporting purposes, PubCo deemed the GreenBox Acquisition a “Reverse Acquisition” with PrivCo designated the “accounting acquirer” and PubCo designated the “accounting acquiree.”
+ 
+On May 3, 2018, PubCo formally changed its name to GreenBox POS LLC, then subsequently changed its name to GreenBox POS on December 13, 2018. Prior to the name changes, PubCo was known as ASAP Expo, Inc (“ASAP”). ASAP was incorporated April 10, 2007 under the laws of the State of Nevada (collectively, “PubCo”).
+ 
+Our primary office is in San Diego, California. Our website is www.greenboxpos.com.
+ 
+Unless the context otherwise requires, all references to “the Company,” “we,” “our”, “us” and “PubCo” refer to GreenBox POS.
+ 
+Unless the context otherwise requires, all references to “PrivCo” or the “Private Company” refer to GreenBox POS LLC, a limited liability company, formed in the state of Washington.
+ 
+Significant Transactions
+ 
+On March 23, 2018, the then controlling shareholder and then sole officer and sole director of PubCo, Frank Yuan, along with his wife, Vicky PMW Yuan (collectively, the “Yuans”), entered into a Purchase Agreement with PrivCo (the “Yuan SPA”).
+ 
+Pursuant to the Yuan SPA, the Yuans agreed to sell 144,445,000 restricted shares of PubCo’s common stock, par value $0.001 per share (the “Common Stock”), to PrivCo for a consideration of $500,000: $250,000 in cash, paid at closing, and $250,000 in restricted shares of Common Stock (the “Shares Due”) to be issued within 30 days of the close of the Yuan SPA. Subsequently, on or about June 8, 2018, PrivCo paid the Shares Due, by transferring 609,756 restricted shares of Common Stock from the Control Block to the Yuan’s designees, Frank Yuan and his son, Jerome Yuan.
+ 
+On or about March 29, 2018, Frank Yuan converted a portion of a line of credit that he had previously issued to PubCo, in exchange for 144,445,000 restricted shares of Common Stock, representing approximately 90% of PubCo’s issued and outstanding shares of Common Stock (the “Control Block”).
+ 
+Pursuant to the Yuan SPA, on April 12, 2018, Frank Yuan caused the Control Block to be transferred to PrivCo.
+ 
+On April 12, 2018, all business being conducted at that time by PubCo (the “ASAP Business”) was transferred from PubCo to ASAP Property Holdings Inc., a company owned and operated by Frank Yuan (“Holdings”). In consideration for the ASAP Business, Holdings assumed all liabilities related to the ASAP Business. On April 12, 2018, following the Yuan SPA being entered into and the ASAP Business being transferred to Holdings, Ben Errez (“Errez”) and Nisan (“Nisan”) became the sole acting officers and sole acting directors of PubCo.
+ 
+On May 3, 2018, Frank Yuan formally resigned, and Errez and Nisan were formally appointed the sole officers and sole directors of PubCo.
+ 
+On April 12, 2018, pursuant to the Verbal Agreement, PubCo acquired the GreenBox Business and assumed PrivCo’s liabilities per the terms of the Agreement. The value of the assets acquired on April 12, 2018 was $843,694, which excluded the Control Shares, which remain a PrivCo asset. The value of PrivCo’s assumed liabilities on April 12 was $589,078. The difference between assets and liabilities was $254,616, which PubCo booked as a “Gain on Bargain Purchase.” However, because we are using Reverse Acquisition accounting, PubCo subsequently recorded the gain as Paid in Capital.
+ 
+ 6
+
+
+From April 12, 2018 through January 4, 2020 (the “In Between Period”), because there was ambiguity regarding the validity of the Verbal Agreement, PubCo filed required quarterly and annual reports with the Securities and Exchange Commission as if there had not been a Reverse Acquisition. During the In Between Period, PrivCo continued to operate as if it still owned the GreenBox Business, which included maintaining records of GreenBox Business financial transactions on PrivCo’s accounting software, and entering into contracts and agreements as PrivCo, while PubCo paid all expenses, including expenses related to PrivCo contracts entered into prior to April 12, 2018 and after April 12, 2018, as well as expenses incurred as a result of litigation resulting from disagreements between PrivCo and other parties. During the In Between Period, PubCo represented itself in press releases, as being the owner/operator of the GreenBox Business. Additionally, from April 12, 2018 through approximately December 31, 2018, PubCo and PrivCo shared control of PrivCo’s bank accounts, and on or about January 1, 2019, PubCo assumed control of PrivCo’s bank accounts.
+ 
+By virtue of the payment of PrivCo’s litigation expenses by PubCo, by virtue of PubCo representing itself in press releases, as being the owner/operator of the GreenBox Business, and by virtue of the shared control of PrivCo’s bank accounts starting on April 12, 2018, both PubCo and PrivCo concluded that the Verbal Agreement was valid and the GreenBox Business Acquisition took place on April 12, 2018.
+ 
+Reverse Acquisition Reporting Requirements
+ 
+In accordance with SEC Financial Reporting Manual, Topic 12 - Reverse Acquisitions and Reverse Recapitalizations, Section 12200 - Reporting Issues, Sub-section 12210.2 - Reverse Acquisition with a domestic registrant that is not a shell company, PubCo is required to file two years of audited Financials for PrivCo. However, since PrivCo was formed in August 2017, only the period from August 2017 through December 31, 2018 was audited. PubCo is also required to file on a combined basis with PrivCo starting with PubCo’s 10-Q filing for the period ending June 30, 2018.
+ 
+Given these considerations, PubCo:
+ 
+
+a) | Executed the Agreement memorializing the Verbal Agreement, and filed a Form 8-K on January 7, 2020 (the “January 8-K”) to disclose the Agreement and to file audited financials for PrivCo for the year ending December 31, 2017;
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+b) | is restating PubCo’s 2018 financials, to include amended Form 10-Qs for the periods ending June 30 and September 30, and an amended Form 10-K for the year ending December 31, 2018; and
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+c) | is proceeding to file Form 10-Qs for 2019, for the periods ended March 31, June 30 and September 30, and file Form 10-K for the year ending December 31, 2019; which we ideally wish to accomplish upon or prior to March 30, 2020.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Business
+ 
+GreenBox POS is a tech company formed with the intent of developing, marketing and selling innovative blockchain-based payment solutions, which we believe will cause favorable disruption in the payment solutions marketplace. Our core focus is to develop and monetize disruptive blockchain-based applications, integrated within an end-to-end suite of financial products, capable of supporting a multitude of industries. Our proprietary, blockchain-based ecosystem is designed to facilitate, record and store a virtually limitless volume of tokenized assets, representing cash or data, on a secured, immutable blockchain-based ledger.
+ 
+We’ve been awarded five provisional patents for our technology, each directly related to our core business focus. Subsequently, we filed non-provisional patent application 16/212,627 on December 6, 2018, under which we claimed the benefit of the five provisional patents.
+ 
+In March 2018, we formally announced DEL, PAY, QuickCard, POS and Loopz to an international audience, during a presentation at the Israel International Innovation Expo, in Tijuana, Mexico.
+ 
+
+a) | DEL is our Delivery App, which provides APIs to POS and PAY.
+---+-------------------------------------------------------------
+
+
+b) | PAY is our Payment App, which provides financial APIs to all our other software components.
+---+--------------------------------------------------------------------------------------------
+
+
+c) | QuickCard is QuickCard Payment System, which is a comprehensive physical and virtual cash management system, including software that facilitates deposits, cash and e-wallet management.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+d) | POS Solutions is our complete end-to-end Point of Sale solution, comprising both software and hardware.
+---+--------------------------------------------------------------------------------------------------------
+
+
+e) | Loopz is Loopz Software Solution, which is a mobile delivery service operations management solution with automated dispatch functionality.
+---+-------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 7
+
+
+In March 2018, our QuickCard Payment System was comprised of PAY, proprietary kiosks and e-wallet management.
+ 
+In June 2018, we commenced a soft launch of our system, onboarded our initial customers and began generating revenue.
+ 
+In July 2018, we introduced TrustGateway, a new fraud prevention component for our QuickCard payment system.
+ 
+Throughout the remainder of 2018, we continued to build, expand and improve our system, which allowed for an escalation in merchants using our system, as well as increasing revenues.
+ 
+On or about October 4, 2018, we entered into a lease agreement with Hyundai Rio Vista, Inc. for our current office space at 8880 Rio San Diego Drive, Suite 102, San Diego, CA 92108.
+ 

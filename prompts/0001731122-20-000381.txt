@@ -1,0 +1,455 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS
+OVERVIEW OF THE INDUSTRY & DATA STORAGE CORPORATION:
+ 
+Our Industry:
+ 
+Data Storage Corporation (“DSC” or the “Company) provides Disaster Recovery, Infrastructure as a Service (IaaS), IT Managed Services and Voice over Internet Protocol (VoIP) type solutions. DSC is positioned to leverage the growth in our industry. The following will provide a background on our industry and trends for the solutions the Company provides.
+
+
+According to a study by Grand View Research, Inc., the global disaster recovery solutions market size is expected to reach US$ 26.23 billion by 2025, registering a strong compound annual growth rate (“CAGR”) of 36.5% during the forecast period. The global disaster recovery solutions market has been experiencing a significant increase in demand due to infrastructure failure, cyberattacks, natural disasters, and other internal and external threats. These unanticipated events cause disruption in business operations, resulting in massive revenue losses.
+ 
+Over the past few years, many companies are reconsidering their plans for backup and recovery solutions due to the increasing occurrences of planned, manmade disasters. For instance, malicious attacks such as WannaCry and Locky ransomware in 2017 led to the loss of thousands of encrypted files and systems. Government and private sectors incurred considerable financial losses owing to these attacks.
+ Businesses are increasingly incorporating disaster recovery (DR) solutions in their business continuity strategies, making DR plans a critical part of Information Technology (“IT”) priorities. Moreover, increasing awareness about the benefits of implementing such solutions and the growing adoption of cloud-based solutions are increasing the demand of disaster recovery solutions among Small to Medium Enterprises (“SME”) businesses.
+The global infrastructure as a service (IaaS) industry value is expected to exceed US $60 billion by 2024 with an estimated growth rate of over 25% for the forecast period. IaaS is a form of cloud computing system dependent on significant physical resources, such as network connections, bandwidth, load balancers, and servers, which are present as a virtual service offered by the cloud service providers (CSP). An increasing amount of financial and business information and other critical data in various IT sectors are expected to increase the demand of IaaS in many organizations.
+ The need to reduce cost in IT infrastructure management, and to focus more on their primary operations has been the key objective of various companies. The technological innovations have led to growing mobility, ease of access, sophisticated working environment, and digitalization development in numerous business verticals. Ease of deployment, flexibility, and scalability of services can also be acknowledged as the key factors steering the market growth.
+ The IT and telecommunications sector are expected to witness significant growth rate due to the increasing demand of cloud-based services in the industry. This industry is considered to be the primary vertical generating enormous personal, financial and healthcare information. Customer-based organizations in the banking, financial services and insurance (“BFSI”) sector create large volumes of confidential business and financial data which look at security and storage convenience for business continuity.
+ 
+More and more companies are adopting the system of Bring Your Own Device (BYOD), as result the demand for VoIP services is also growing. Moreover, along with updating their services, VoIP service providers are also introducing new features in VoIP services to attract users at both individual and corporate level. New market avenues are likely to open with an increase in international calling.
+ 
+The telecommunications industry is changing rapidly providing opportunity for growth and innovation in the VoIP industry.
+
+
+3
+-
+
+ 
+According to a report issued by Persistence Market Research, the global VoIP services market is likely to witness substantial growth during 2017-2024. The global market for VoIP services is also estimated to reach US$ 194.5 Billion revenue towards the end of 2024.
+ Data Storage Corporation:
+ 
+DSC provides subscription-based, long-term agreements for disaster recovery, Infrastructure as a Service (IaaS) and VoIP type solutions. In addition, DSC provides managed services, software and maintenance, equipment and onboarding provisioning. Services and goods are provided to businesses within the healthcare, banking and finance, distribution services, manufacturing, construction, education, and government industries. About 25% of our revenue is derived from equipment and software sales for cyber security, storage, IBM Power i systems and managed service solutions.
+ 
+Our mission is to protect our client’s data, ensuring business continuity, assisting in their compliance requirements and providing better control over their digital information.
+ 
+DSC provides solutions through its business development team and contracted distribution channels. DSC’s contracted, approved distributors have the ability to provide Disaster Recovery, Hybrid Cloud, IBM and Intel IaaS cloud-based solutions without the distributor investing in infrastructure, data centers and telecommunications services. The distributor is fully supported by DSC’s specialized technical staff. The Company’s programs lower the distributors barrier of entry to migrate their client’s equipment premise infrastructure to DSC’s cloud based solutions to their client base.
+ 
+DSC is a 19-year veteran in cloud storage and cloud computing providing disaster recovery, business continuity and compliance solutions that assist organizations in protecting their data, minimizing downtime while ensuring regulatory compliance. Serving the business continuity market, DSC’s clients save time and money, gain more control and better access to data and enable a high level of security for their data. Solutions include: Infrastructure as a Service specializing in IBM Power; data backup recovery and restore, high availability data replication; continuous data protection; data de-duplication; and, virtualized system recovery. DSC has forged significant relationships with leading organizations creating valuable partnerships.
+ 
+Our IBM Power and Intel IaaS Cloud ensures enterprise level equipment and support, focusing on iSeries, AIX, Power, AS400 and our high-processing power cloud for Intel. Our Disaster Recovery services for both Intel and IBM has a guaranteed back-to-work window. DSC is a one-stop source for managed services from VoIP to providing the client with equipment and software, monitoring, help desk and a full array of business continuity solutions. 
+ 
+Headquartered in Melville, NY, with an additional office location in Warwick, RI, DSC maintains its enterprise infrastructure in several data center facilities located within New York, Massachusetts and North Carolina, and has recently expanded into Texas.
+ 
+The core support services provided by DSC’s operations division is staffed by highly trained personnel to maintain service-level agreements and to support clients twenty-four hours a day, 365 days a year. DSC provides ongoing education to its staff for maintaining technical skills and certifications.
+ 
+
+4
+-
+
+Our Continuing Strategy
+ 
+DSC derives its revenues from long-term subscriptions, and professional services contracts related to the implementation of solutions that provide protection of critical data and equipment. In 2009, DSC’s revenues consisted primarily of data vaulting, de-duplication, continuous data protection and cloud disaster recovery solutions, and protecting information for our clients.
+ 
+In 2010, we expanded our solutions based on the asset acquisition of SafeData, a provider of disaster recovery and business continuity for IBM’s mid-range servers, Power i. The Safe Data acquisition provided the ability to provide a solution to a specialized IBM community with limited competition and higher average revenue per client. October 2012, we purchased the software and assets of Message Logic, an email archival and compliance software. The Message Logic acquisition strategy was based on the increased requirements for compliance and storage of emails and e-discovery type data.
+ 
+In October 2016, DSC purchased the assets of ABC Services, Inc. and ABC Services II, Inc. (collectively, “ABC”) , including the remaining 50% of Secure Infrastructure and Services, LLC, the IBM Power Cloud. ABC has an excellent reputation that spans 25 years and is a Premium Partner of IBM providing equipment, licensing, provisioning and managed services to their clients. ABC also provides high-level cyber security as part of their solutions portfolio.
+ 
+On October 19, 2017, DSC formed a new division, Nexxis Inc. (“Nexxis”), to provide VOIP and carrier services for bandwidth connection between the client and our data centers. DSC owns 80% of Nexxis, which is positioned to cross-sell our client base and provide new opportunities. We believe there is an opportunity to increase our clients’ bandwidth for improved access to our cloud solutions, while at the same time continue to target new clients as businesses move to new telecommunications technologies for voice and data.
+ 
+DSC delivers its solutions over a highly reliable, redundant and secure fiber optic networks with separate and diverse routes to the internet from our data centers.
+ 
+DSC is positioned to leverage its infrastructure, data centers, equipment capacity and leadership team to grow revenue and create value.
+ 
+Positioned for organic growth, DSC will continue our strategy of growth through synergistic acquisitions. DSC believes opportunities exist to acquire service providers and intellectual property to enhance our solution portfolio, increase our distribution channels, expand our management and increase our cash flow.
+ 
+Our acquisition strategy objective is to reduce costs through economies of scale while increasing market share and consolidating efforts.
+ 
+We believe that through our partnership programs strategy, as well as through our strategy to acquire synergistic service providers, we can create significant value.
+ 
+The roll-up of these synergistic technical companies and system integrators would also form a powerful distribution channel for both our current and future service offerings. We believe that if we achieve our acquisition strategy this would enable DSC to create a global presence and a recognizable premiere brand. 
+
+
+
+5
+-
+
+DESCRIPTION OF SERVICES AND SOLUTIONS
+ 
+DATA PROTECTION SERVICES
+ 
+Data Storage Corporation offers a variety of data protection services designed to meet its clients’ requirements and budgets.
+ 
+ezVault
+ 
+ezVault Consists of Cloud backup services which eliminate the cost and challenges of tape handling, tape management and file retrieval and restore. All backups are encrypted and replicated to a second data center to ensure that data is always safe and available. The vault size automatically scales with data growth, and retention needs are never a concern. With our high-speed enterprise storage, deduplication, and compression, backup and restore times are reduced. Our ezVault services are backed by a clear and well-defined SLA, guaranteeing performance, availability and access. ezVault is most typically combined with ezRecovery (as described below) to provide Disaster Recovery as a Service (DRaaS).
+Solution Details
+ 
+
+• | Easily managed scheduling and retention –Backup policies are managed directly by the client as part of our service offering. On IBM i, clients have access to the management interface on each system and other environments use a management portal to restore files, manage job schedules and data retention. This allows clients to retain as much data as they need.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Save While Active – Backups can be scheduled to run at any time with little to no impact on production applications. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Scalable – ezVault automatically scales to meet your backup storage requirements. The pay as you grow model eliminates the need to forecast future backup capacity and purchase additional storage that may go unused for several years.
+
+
+• | Client has direct access and control of data retrieval – ezVault provides the client with the ability to directly retrieve files from any point in time without having to rely on a provider to load tapes, which makes restoring files much quicker and easier than tape or Virtual Tape Library (VTL).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Optional local appliance – A client site backup appliance is available for local data retention and automatic replication to the ezVault cloud, providing faster local restores when needed and all the offsite data protection of our ezVault cloud solution.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reduced backup time – ezVault backups are incremental forever with all data deduplicated, compressed and encrypted before transmission drastically reducing backup times compared to traditional tape-based backups. Backups are immediately transmitted offsite without the delay and complexity of tape handling, storage and retrieval.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Backup Protection – All backups are encrypted and replicated to a second data center providing built-in redundancy for our clients’ mission critical data.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Offsite Copy Included – A monthly copy of clients’ data is copied to tape and stored into separate data center to add another layer of safety to clients’ important data.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Guaranteed Performance SLA
+--+---------------------------
+
+ 
+ezRecovery
+ 
+ezRecovery Consists of ezVault backup services combined with our managed standby compute, storage and network infrastructure resources. Vaulted applications, data and user access are quickly and easily restored to standby systems, saving clients’ money and reducing the recovery time. Our recovery services are backed by a clear and well-defined SLA guaranteeing performance, availability and access with Recovery Point Objective’s (RPO’s) and Recovery Time Objective’s (RTO’s) as short as eight hours.
+
+
+
+6
+-
+
+Solution Details
+ 
+
+• | Standby Systems – Preconfigured systems capable of running full production workloads in the event of a disaster.
+--+-----------------------------------------------------------------------------------------------------------------
+• | No Licensing – Reduces cost; we provide temporary OS licensing in the event of system recovery. 
+
+
+• | Scalable – Increase performance and capacity on demand, handling possible workload differences from original capacities and additional performance to improve restore time.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | RTO Improvements – Backups stored locally in our cloud are quickly restored to the standby systems and available for use in as little as eight hours.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Flexible Access options – Preconfigured VPN, SSL Clients, MPLS and other dedicated circuits available for quick activation eliminating issues with user access.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Secure Recovery – All standby systems are in their own dedicated network segment allowing strict security policies meeting any client and compliance requirements.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Guaranteed Performance SLA
+--+---------------------------
+
+ 
+ ezAvailability
+ 
+ezAvailability provides reliable, high availability and business continuity for mission critical applications with RPO under a minute and RTO typically under 15 minutes, with optional, fully managed real-time replication services. Our ezAvailability service consist of a full-time enterprise system, storage and network resources, allowing quick and easily-switched production workloads to our cloud when needed. Our ezAvailability services are backed by a clear and well-defined SLA guaranteeing performance, availability and access.
+ 
+Solution Details
+ 
+
+• | Enterprise Level Resources – Always on, switch ready and able to handle full production workloads.
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Tier-3 Data Centers – Meets or exceeds most production environments for security, compliance standards, power and cooling redundancy, fire suppression and communications with 100% uptime.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Scalable Resources – ezAvailability is designed to seamlessly scale system processor, memory and storage resources as needed. This allows clients to run replication on a base HA system with additional resources in reserve for use when needed in a test or disaster declaration. HA systems and standby resources can be expanded to meet typical client-side growth over time or from other business changes.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Host based Replication – Software and/or Journal-Based application installed on the production host that tracks and sends all changes to the ezAvailability target system. Replication is at the file or journal level ensuring data and transaction integrity on the target system.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | SAN-Based Replication (ezMirror) – SAN level replication using compatible hardware for the source and target. Replication is at the data block level copying all partial file changes to the target typically with a system that is powered off in standby.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Guaranteed Performance SLA
+--+---------------------------
+
+ 
+ezMirror
+ 
+ezMirror is a SAN-based replication solution combined with our ezRecovery standby systems to provide easy to manage and cost-effective Business Continuity and Disaster Recovery (DR) option.
+ 
+Features
+ 
+
+• | RPO of 5-10 minutes and RTO of 30 minutes achievable under optimal conditions
+--+------------------------------------------------------------------------------
+
+
+• | Support for IBM SVC/Storwize SAN with Global Mirror
+--+----------------------------------------------------
+
+
+• | Full system replication mirrors all Volumes/LUNs of the system including the load source to the target SAN
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | When replication is active the target host is offline in standby
+--+-----------------------------------------------------------------
+
+
+• | No additional maintenance, patching or updates required on the target system
+--+-----------------------------------------------------------------------------
+
+
+• | Replication process is separate from the Operating System
+--+----------------------------------------------------------
+
+
+• | Any ASP configuration is supported including IASPs
+--+---------------------------------------------------
+
+
+7
+-
+
+ 
+
+ezHost
+ 
+Our cloud hosting solution, ezHost provides full-time, scalable compute, storage, and network infrastructure resources needed to run clients’ mission critical workloads on our enterprise class infrastructure. ezHost removes the burden of the typical hardware lifecycle management of on-premise systems by replacing the cost of support, maintenance, system administration, space, power and cooling with a predictable monthly expense. Our ezHost services are backed by a clear and well-defined SLA guaranteeing performance, availability and access.
+ 
+Solution Details
+ 
+
+• | Enterprise Level Resources – Always on and able to handle full production workloads. QOS capabilities on the storage and network ensures resources are delivered at the desired performance level.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Tier-3 Data Centers – Meets or exceeds most production environments for security, compliance standards, power and cooling redundancy, fire suppression and communications with 100% uptime.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Scalable Resources – ezHost is designed to seamlessly scale system processor, memory and storage resources as needed. This allows clients to start using a system with lower resources than they would need to purchase in an on-premise system and scale to meet typical client growth over time or from other business changes.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | OS Support – IBM i, Windows, AIX, and Linux
+--+--------------------------------------------
+
+
+• | Security – ezHost clients are always deployed in isolated environments with strict security controls on network traffic. Options exist for dedicated or client provided firewalls and security appliances.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Communications – All ezHost services include public internet access with VPN support and options for client provided private networks such as MPLS, Metro Ethernet, Point to Point.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Support – 24x7 Infrastructure support with options for operating system support and system administration.
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | Licensing – Flexible licensing options let you bring your own or we can provide the OS licensing
+--+-------------------------------------------------------------------------------------------------
+
+
+• | Compliance – Compliant with PCI, HIPAA, SOX standards.
+--+-------------------------------------------------------
+
+
+• | All system, storage and network infrastructure are owned, operated and supported by DSC.
+--+-----------------------------------------------------------------------------------------
+
+
+• | Guaranteed Performance SLA
+--+---------------------------
+
+Cyber Security
+ 
+DSC has developed several comprehensive Cyber Security offerings that can be utilized on premise at a client’s location or on systems hosted in the cloud.  These offerings include fully managed endpoint security with active threat mitigation, system security assessments, risk analysis and applications to ensure continuous security and auditing for IBM systems.
+
+• | Client security provides AV, Malware, Ransomware and behavioral analysis for Windows, Mac and Linux Desktops, Laptops and iOS/Android Mobile devices. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Server security provides AV, Malware, Ransomware and behavioral analysis for Windows and Linux Servers. 
+• | IBM i Security Assessments is a free offering that performs a thorough analysis of an IBM i system reviewed by our expert staff. We deliver a detailed report of finding and recommendations to ensure systems meet your desired compliance and security standards. 
+• | IBM i Security Modules include software solutions that are installed on the system to ensure the continuous compliance of systems security standards. 
+• | Managed firewall provides firewall configuration changes, quarterly configuration review and firewall patching. 
+
+DATA CENTER & SECURITY
+ 
+DSC helps organizations manage risk, increase performance and improve agility. Our Tier 3 data centers are part of a nationwide network with a shared commitment to Redundancy, Security and Compliance. Each of DSC’s data centers is a safe, secure facility audited under SSAE-16 SOC 1 Type II, SOC 2 Type II, PCI-DSS1, GLBA and HIPAA standards annually.
+Physical Security
+ 
+Controls access and provides a redundant, reliable environment
+ 
+Data Center/System Access
+ 
+
+• | 24/7 Security and Surveillance (NOC & SOC)
+--+-------------------------------------------
+
+
+• | BIOMETRIC / ID Card Two Factor Access Control
+--+----------------------------------------------
+
+
+• | Man Traps – Limits access to one person at a time
+--+--------------------------------------------------
+
+
+• | Fire Suppression
+--+-----------------
+
+
+• | Redundant Power and Cooling
+--+----------------------------
+
+
+8
+-
+
+
+• | Locked Cages and Racks
+--+-----------------------
+
+System Security
+ 
+System Hardening – Very securable
+ 
+
+• | Use Highest security levels
+--+----------------------------
+
+
+• | System Auditing and Logging
+--+----------------------------
+
+
+• | Control Privileged Accounts and Access
+--+---------------------------------------
+
+
+• | Data Encryption
+--+----------------
+
+Fully Managed Systems
+ 
+
+• | Stay up to date on Patches and Updates
+--+---------------------------------------
+
+
+• | System Auditing and Monitoring
+--+-------------------------------
+
+
+• | Assistance remediating issues
+--+------------------------------
+
+Edge Security
+ 
+Control the traffic in and out of a client’s hosted environment
+ 
+Shared Managed Network Routers and Firewalls
+ 
+
+• | Service Provider handles updates,
+--+----------------------------------
+
+
+• | policy management, and maintenance
+--+-----------------------------------
+
+
+• | Typical services include: UTM, AV, IDP, Load Balancing
+--+-------------------------------------------------------
+
+Dedicated Network Routers and Firewalls
+ 
+
+• | Client has full control
+--+------------------------
+
+Client Supplied Edge Equipment
+ 
+
+• | Firewall, Router, Load Balancers, etc.
+--+---------------------------------------
+
+
+• | Client has full control
+--+------------------------
+
+ 
+Each Client has a dedicated network segment and all traffic, in and out, must pass through a firewall policy.
+ 
+VOICE & DATA SOLUTIONS
+ 
+Nexxis, our new voice and data division, is leading the way with advanced voice and data services that propel business’ forward with unparalleled performance, speed and continuity to keep vital information moving in the right direction. Faster than traditional phone systems — and infinitely smarter — Nexxis’ voice and data solutions add functionality and improve efficiency, while keeping your costs down.
+Solution Details
+ 
+
+• | Pure, Reliable Voice Service: The latest data and VoIP technology to ensure flawless service clients can rely on, 24/7, with numerous options and no upfront costs.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Premium Color IP Phones: Choose from a range of top-of-the-line, feature-rich Polycom VVX color phone systems that look great and sound crystal clear.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enterprise-level Features: Our 100% fiber-optic network provides unrivaled, enterprise-level service to meet clients’ business needs today, and tomorrow.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Built-in Business Continuity — and Connectivity: Our VoIP solutions keep businesses fully connected, whenever and wherever clients are working from.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Dedicated High-speed Internet: With speeds up to 40 GB, Nexxis provides lightning-fast download and upload — with superior connectivity and cost-efficiencies built-in.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Multi-site Connectivity: Our secure high-speed network keeps your entire business connected, from hub to off-site locations nationwide.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+COMPETITION
+ 
+The markets for the Company’s products and services are competitive and the Company is confronted by aggressive competition. These markets are characterized by frequent product introductions and rapid technological advances. The Company’s financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. Principal competitive factors important to the Company include price, product features, relative price and performance, product quality and reliability, a strong third-party software, marketing and distribution capability, service and support and corporate reputation.
+ 
+The Company is focused on expanding its market opportunities related to disaster recovery and infrastructure as a service and platform as a service, primarily focused on the IBM community. These markets are highly competitive and include several large, well-funded and experienced participants.
+ 
+The Company’s future financial condition and operating results depend on the Company’s ability to continue to provide a high-quality solution as well as increase distribution of the solutions in each of the markets in which it competes.
+ 
+The Company believes it offers superior 365x24x7 enterprise level service and solutions for the SME marketplace and value-added reseller community with guaranteed uptime and service level agreements which sets the company apart from many of their competitors.
+ 
+CORPORATE HISTORY
+ 
+On October 20, 2008, DSC consummated a share exchange transaction with Data Storage Corporation, a Delaware corporation, and DSC subsequently changed its name from Euro Trend Inc. to Data Storage Corporation.
+ 
+DSC acquired the assets of SafeData, LLC in June 2010, and the assets of Message Logic LLC, (“Message Logic”) in October 2012.
+ 
+In December 2012, DSC was accepted as an IBM Service provider for cloud solutions.
+ 
+In October 2016, DSC purchased the assets of ABC which included the remaining 50% of the Secure Infrastructure and Services venture.
+ 
+On October 19, 2017 DSC formed a new division, Nexxis Inc., to provide VOIP and carrier services.
+ 
+The result of these acquisitions and strategic alliances, combined with DSC’s legacy disaster recovery and business continuity solutions, positions DSC as a potential leader in business to business disaster recovery as a service, infrastructure as a service on the IBM Power i mid-range servers, email compliance with Software as a Service (SaaS). DSC will continue to provide our solutions and our planned industry consolidations. 
+
+

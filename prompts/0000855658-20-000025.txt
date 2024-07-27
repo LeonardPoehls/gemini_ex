@@ -1,0 +1,160 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+Lattice Semiconductor Corporation and its subsidiaries (“Lattice,” the “Company,” “we,” “us,” or “our”) develop technologies that we monetize through differentiated programmable logic semiconductor products, system solutions, design services, and licenses. Lattice is the low power programmable leader. We solve customer problems across the network, from the Edge to the Cloud, in growing communications, computing, industrial, automotive, and consumer markets. Our technology, long-standing relationships, and commitment to world-class support enable our customers to create a smart, secure, and connected world.
+Our field programmable gate array ("FPGA") devices provide us with a strong, growing base of control, connect, and compute technologies. We believe there are multiple growth areas that will allow us to increase our addressable market. In particular, we believe there are several emerging trends in servers, infrastructure, and smart devices that are opportunities for Lattice:
+
+• | With the growth of hyperscale data centers, our “processor agnostic” solutions are ideal for control and connect functions in enterprise and data center server applications.
+
+
+• | With the expected continued communications infrastructure build-out from 5G deployment, Lattice solutions are being adopted to control and connect a variety of functions in critical systems.
+
+
+• | With the increase in electrification and the proliferation of sensors in smart factories, smart homes, and automobiles, our low power, small form factor solutions are ideal for everything from battery powered systems and sensor applications to embedded video.
+
+
+• | With the increase in artificial intelligence, machine learning, and a multitude of applications at the network edge, Lattice has the capabilities to provide solutions. These applications often act independently and need to make instantaneous decisions. As such, they need their own computing and learning capabilities to perform functions like face detection, image recognition, and video analytics.
+
+
+• | With the demand for more hardware security in the communications, computing, industrial, automotive, and consumer markets, our hardware root of trust devices provide platform firmware resilience. This provides a secure boot for systems that are dependent on processors.
+
+To serve these emerging needs, customer systems require low power, memory bandwidth, processing power, and the ability to integrate complex functionality into a highly compact footprint. These requirements align to the capabilities of our FPGA devices. Our flexible, low power, small form factor, easy to use FPGAs put us in a unique position to meet these growing market needs.
+Our Markets and Customers
+We sell our products globally in three end market groups: Communications and Computing, Industrial and Automotive, and Consumer. We also provide Intellectual Property ("IP") licensing and services to these end markets, although licensing and services revenue is reported as a separate end market as it has characteristics that differ from other categories.
+In the Communications and Computing Market, our solutions play key roles in computing systems such as servers and clients, 5G wireless infrastructure, switches / routers, and other related applications.
+Our Communications and Computing customers need to manage control functions in their systems.
+
+• | As compute devices become smaller and power costs become more dominant, there is a need for small form factor devices with power efficiency.
+
+
+• | Additionally, these customers need simplified control logic, enhanced hardware platform security, system status monitoring, and rigorous power and thermal management.
+
+
+• | Networks typically require progressively higher bandwidth and increased reliability as more data is demanded by consumer and other connected devices. Bandwidth demands are also driven by the rapid transition to cloud-based infrastructure.
+
+
+• | As wireless cells become more compact without fans, there is a growing requirement for smaller form factors optimized for low power consumption.
+
+Lattice FPGAs solve these customer problems. Our FPGAs are optimized for I/O expansion, low cost per look-up table, hardware acceleration, and hardware management. Our FPGAs consume power at very low rates, which reduces operating costs. Their small form factor enables higher functional density in less space. Finally, our FPGAs are I/O rich, which allows for more connections with system application specific integrated circuits ("ASICs") and application specific standard products ("ASSPs").
+Examples of our products enabling intelligent automation in the Industrial and Automotive Market include industrial IoT, machine vision, robotics, factory automation, driver assistance, and automotive infotainment.
+Our Industrial and Automotive customers face numerous challenges:
+
+• | As smart factories develop, sensors are proliferating and machine vision is becoming higher definition, in turn requiring increasing amounts of data to be gathered, connected, and processed.
+
+
+• | Cars, trucks, and trains are also becoming smarter and more connected. Drivers and passengers are demanding better in-cabin experiences including entertainment, diagnostics, and enhanced safety — often involving multiple displays, cameras, and sensors.
+
+
+• | As factories and automotive manufacturers continue their evolution of computerization, power reduction, faster time to design in and market, lower costs are becoming increasingly normal.
+
+Our product portfolio helps solve these challenges. Our small-sized, low-power FPGAs not only provide the I/O expansion, bridging, connectivity, and processing inherent in FPGAs, but they also form the backbone of several integrated solutions, including complete HD camera and DVR solutions on a single FPGA device and Human-Machine Interfaces ("HMI") on a chip.
+ 4
+
+In the Consumer Market, you can find our solutions making products smarter and thinner, including: smart home devices, prosumer devices, sound bars, high end projectors, Augmented Reality ("AR") / Virtual Reality ("VR"), and wearables.
+Our Consumer customers are driven by the need to deliver richer and more responsive experiences. They typically require:
+
+• | More intelligence and computing power. Products need to be "always-on" and "always-aware."
+
+
+• | Longer battery lives for handheld devices and reduced energy consumption for plugged-in devices.
+
+
+• | Real-time transmission of higher resolution video content on larger screen sizes.
+
+
+• | Fast design cycles. Products must be quickly and easily differentiated.
+
+
+• | Smaller form factors. Products need to lay flatter on the wall or fit more easily in people’s pockets.
+
+
+• | Various levels of video processing and analytics.
+
+Lattice FPGAs bring multiple benefits to these customers. An FPGA’s parallel architecture enables faster processing than competing devices, such as microcontrollers, allowing for a user experience with shorter pauses and fewer delays. Our FPGAs are among the lowest power consumption in the industry, enabling the application processor and other high-power components to remain dormant longer, resulting in longer battery life. Finally, with some of the industry’s smallest packages, we enable thinner end products.
+Our proprietary solutions help our customers get their products to market faster than typical development cycles. With re-programmability and flexibility, our FPGAs inherently allow our customers to have quicker product development. The time-to-market advantages of Lattice's solutions are critical given the shorter product life cycles and higher competition in our customers’ end markets.
+Our Products, Services, and Competition
+We are focused on delivering FPGAs and related solutions to help solve our customers' problems. We also serve our customers with IP licensing and various other services.
+Field Programmable Gate Arrays (“FPGAs”)
+FPGAs are regular arrays of logic that can be custom-configured by the user through software. This programmability allows our customers flexibility and reduced time to market while allowing us to offer the chips to many different customers in many different markets. Five product families anchor our FPGA offerings:
+
+• | The ECP families are our “General Purpose FPGAs” and address a broad range of applications across multiple markets. They offer customers the optimal cost per gate, Digital Signal Processing ("DSP") capability, and Serialize-Deserialize ("SerDes") connectivity. ECP devices are optimized for the Communications and Computing market but also find significant use in the Industrial, Automotive, and Consumer markets.
+
+
+• | The MachXO families are known as “Control & Security FPGAs” and are optimized for platform management and security applications. They are control oriented and offer the most optimized cost per I/O, along with the lowest cost per look-up table. MachXO families are widely used across our three primary target markets: Communications and Computing, Industrial and Automotive, and Consumer. Our latest generation enables users with hardware system security. The MachX03D provides systems with the platform firmware resilience they need to protect their processors during boot-up.
+
+
+• | iCE40 families are known as “Ultra Low Power FPGAs.” Their small size and ultra-low power make them the optimal products for each of our core segments where small form factor and customizing is required. The latest member of the family, iCE40 UltraPlus, is focused on Internet of Things ("IoT") edge devices with its Artificial Intelligence ("AI") capabilities, low power, and small form factor.
+
+
+• | Our CrossLink families are "Video Connectivity FPGAs" and are optimized for high speed video and sensor applications. CrossLink combines the power and speed benefits of hardened video camera and display bridging cores with the flexibility of FPGA fabric. CrossLinkPlus provides users with instant-on capabilities for video display. CrossLink-NX, built on the new Lattice Nexus platform, provides the lowest power in the smallest packages in its class, higher performance, and high reliability. These products are designed for computing, industrial, automotive, and consumer markets, but also find use in communications.
+
+To enable our customers to get to market faster we support the FPGAs with intellectual property cores, reference designs, development kits, and design software. We are investing in our design software to deliver best-in-class tools that enable predictable design convergence and unparalleled ease of use. Further, we have developed integrated system-level solution stacks, such as Lattice sensAI. We combine all of these elements to solve specific customer problems such as the need to quickly implement low power AI inferencing in Edge applications.
+Depending on the application, we may compete with other FPGAs vendors, as well as producers of ASICs, ASSPs, and microcontrollers. We believe that Lattice has developed products and solutions with differentiated advantages.
+Legacy Semiconductor Products
+We also sell Video Connectivity ASSPs, although we are not developing new products in this area and their support requirements are minimal.
+Intellectual Property (IP) Licensing and Services
+Lattice has a broad set of technological capabilities and many U.S. and international patents. We generate revenue from our technology portfolio via upfront fees and on-going royalty payments through the following activities:
+
+• | Standard IP Licensing - these activities include our participation in two consortia for the licensing of HDMI and MHL technologies to customers who adopt the technology into their products and voluntarily report their usage and royalties. The royalties are split between consortium members, including us.
+
+
+• | IP Core Licensing - some customers need Lattice’s technology for specific functions or features, but for various reasons are not able to use our silicon solutions. In those cases, we may license our IP cores, which they can integrate into their own ASICs. In contrast to the use of consortia, these licensing activities are generally performed internally.
+
+
+• | Patent Monetization - we sell certain patents from our portfolio generally for technology that we are no longer actively developing. The revenue from these sales generally consists of upfront payments and potential future royalties.
+
+
+• | IP Services - projects and design services for customers who wish to develop specific solutions that harness our proven technology and expertise.
+
+ 5
+
+Research and Development
+We place a substantial emphasis on new product development, where return on investment is the key driver, and believe that continued investment in research and development is required to maintain and improve our competitive position. Our product development activities are focused on new proprietary products, advanced packaging, existing product enhancements, software development tools, soft IP and application focused solutions. Research and development activities occur primarily in Hillsboro, Oregon; San Jose, California; Shanghai, China; and Muntinlupa City, Philippines.
+We believe that a continued commitment to research and development is essential to maintaining product leadership and providing an increased cadence of innovative new product offerings and, therefore, we expect to continue to make significant future investments in research and development.
+Operations
+We do not manufacture our own silicon products. We maintain strategic relationships with large, established semiconductor foundries to source our finished silicon wafers. This strategy allows us to focus our internal resources on product and market development, and eliminates the fixed cost of owning and operating semiconductor manufacturing facilities. We are able to take advantage of the ongoing advanced process technology development efforts of semiconductor foundries, and to choose to apply those technologies when they become most economically beneficial to us and to our customers.
+Lattice partners with Samsung Semiconductor ("Samsung") to manufacture the first low-power FPGA on 28nm FDS technology, which is used in our latest Nexus FPGA platform of products. We partner with United Microelectronics Corporation ("UMC") and its subsidiary United Semiconductor Japan Corporation ("USJC") to manufacture our products on its 130nm, 90nm, 65nm & 40nm CMOS process technologies, as well as embedded flash memory in these technical nodes. Taiwan Semiconductor Manufacturing Company Ltd. (“TSMC”) manufactures our acquired SiliconBlue and Silicon Image products. Seiko Epson ("Epson") manufactures our 500nm, 350nm, 250nm and 180nm products.
+All of our assembly and volume test operations are performed by outside suppliers. We perform certain test operations as well as reliability and quality assurance processes internally. We have achieved and maintained ISO9001:2015 Quality Management Systems Certification and released a line of products qualified to the AEC-Q100 Reliability Standard in support of Automotive product offerings.
+We rely on third party vendors to provide cost-effective and efficient supply chain services. Among other activities, these outsourced services relate to direct sales logistics, including order fulfillment, inventory management and warehousing, and shipment of inventory to third party distributors.
+Wafer Fabrication
+We source silicon wafers from our foundry partners, Samsung, UMC, USJC, Epson, TSMC, pursuant to agreements with each company and their respective affiliates. We negotiate wafer volumes, prices and other terms with our foundry partners and their respective affiliates on a periodic basis.
+Assembly
+After wafer fabrication and initial testing, we ship wafers to independent subcontractors for assembly. During assembly, wafers are separated into individual die and encapsulated in plastic packages. We have qualified two major assembly partners, Advanced Semiconductor Engineering ("ASE") and Amkor Technology ("Amkor') and are second sourced where volume and customer requirements are necessary. All ASE and Amkor manufacturing of our products is in Asia. We negotiate assembly prices, volumes and other terms with our assembly partners and their respective affiliates on a periodic basis.
+We currently offer an extensive list of standard products in lead (Pb) free packaging. Our lead-free products meet the European Parliament Directive entitled "Restrictions on the use of Hazardous Substances" ("RoHS"). A select and growing subset of our ROHS compliant products are also offered with a "Halogen Free" material set.
+Testing (Sort and Final Test)
+We electrically sort test the die on most wafers prior to shipment for assembly. Wafer sort testing is primarily performed by Amkor in Japan and our second source King Yuan Electronics Co. (“KYEC”) in Taiwan.
+Following assembly, but prior to customer shipment, each product undergoes final testing and quality assurance procedures. Final testing is performed by ASE and Amkor, our assembly partners in Asia.
+Sales and Revenue
+We generate revenue by monetizing our technology and patents through product and technology sales. This involves the direct and channel sales of silicon-based products, as well as the licensing or sale of intellectual property that we have developed or acquired, some of which we use in our products, and certain design services that we may provide.
+Sales and Customers
+We primarily sell our products to end customers from Lattice Semiconductor Corporation or our wholly-owned subsidiary, Lattice SG Pte. Ltd. We sell both directly and through a network of independent manufacturers' representatives. Additionally, a substantial portion of our sales are made through independent distributors. We also employ a direct sales management and field applications engineering organization to support our end customers and indirect sales resources. Our end customers are primarily OEMs in the Communications and Computing, Industrial and 
+ 6
+
+Automotive, and Consumer end markets. Our sales team uses our position in OEMs to drive multi-generation design wins and leverages distribution to grow our broad customer base.
+We provide global technical support to our end customers with engineering staff based at our headquarters, product development centers and selected field sales offices. We maintain numerous domestic and international field sales offices in major metropolitan areas.
+In fiscal years 2019, 2018, and 2017, resale of product by distributors accounted for approximately 82%, 83%, and 77%, respectively, of our net revenue. We depend on our distributors to sell our products to end customers, complete order fulfillment, and maintain sufficient inventory of our products. Our distributors also provide technical support and other value-added services to our end customers. We have two global distributors. We also have regional distribution in Asia, Japan, Israel, and North America, and we sell through three major on-line distributors. In fiscal years 2019, 2018, and 2017, no individual end customer accounted for more than 10% of our total revenue.
+Revenue from foreign sales as a percentage of total revenue was 89%, 90%, and 87%, for fiscal 2019, 2018, and 2017, respectively. We assign revenue to geographies based on ship-to location of the end customer, where available, and based upon the location of the distributor to which the product was shipped otherwise. Both foreign and domestic sales are denominated in U.S. dollars.
+Backlog
+Our backlog consists of orders from distributors and certain Original Equipment Manufacturers ("OEMs") that require delivery within the next year. Historically, our backlog has not been a predictor of future sales or customer demand for the following reasons:
+
+• | Purchase orders, consistent with common industry practices, can generally be revised or canceled up to 30 days before the scheduled delivery date without significant penalty.
+
+
+• | Our backlog for distributors is valued at list price, which in most cases is substantially higher than the prices ultimately recognized as revenue.
+
+
+• | A sizable portion of our revenue comes from our "turns business," where the product is ordered and delivered within the same quarter.
+
+Seasonality
+We may periodically experience variability in our sales volumes and financial results due to seasonal trends in the end markets we serve, the cyclical nature of the semiconductor industry, and general economic conditions.
+Intellectual Property, Patents, and Licensing
+We seek to protect our products, technologies, and intellectual property primarily through patents, trade secrets, copyrights, trademark registrations, licensing restrictions, confidentiality agreements, and other approaches designed to protect proprietary information. We hold numerous United States and international patents and have patent applications pending in the United States and internationally. In addition to protecting innovations designed into our products, our ownership and maintenance of patents is an important factor in the determination of our share of the royalties for the HDMI standard. Our current patents will expire at various times between 2020 and 2038, subject to our payment of periodic maintenance fees. We believe that our patents have value, and we expect to file future patent applications in both the United States and abroad on significant inventions, as we deem appropriate. We have acquired various licenses from third parties to certain technologies that are implemented in IP cores or embedded in our products. These licenses support our continuing ability to make and sell these products to our customers. While our various IP rights are important to our success, we believe our business as a whole is not materially dependent on any particular patent or license, or any particular group of patents or licenses. 
+Our Team
+As of December 28, 2019, we had 747 employees worldwide. We believe that our future success will depend, in part, on our ability to continue to attract and retain highly skilled technical, sales, and management personnel. None of our employees are represented by a collective bargaining agreement. We have never experienced any work stoppages and consider our employee relations to be good.
+Corporate Background
+Lattice was incorporated in Oregon in 1983 and reincorporated in Delaware in 1985. Our corporate headquarters are located at 5555 NE Moore Court, Hillsboro, Oregon 97124, and our website is www.latticesemi.com. Information contained or referenced on our website is not incorporated by reference into, and does not form a part of, this Annual Report on Form 10-K. Our common stock trades on the NASDAQ Global Select Market under the symbol LSCC.
+Available Information
+We make available, free of charge through the Investor Relations section of our website at www.latticesemi.com, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those reports and statements as soon as reasonably practicable after such materials are electronically filed with, or furnished to, the SEC. You may also obtain free copies of these materials by contacting our Investor Relations Department at 5555 NE Moore Court, Hillsboro, Oregon 97124, telephone (503) 268-8000. Our SEC filings are also available at the SEC's website at www.sec.gov. The content on any website referred to in this filing is not incorporated by reference into this filing unless expressly noted otherwise.
+ 7
+
