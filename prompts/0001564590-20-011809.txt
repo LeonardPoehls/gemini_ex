@@ -1,0 +1,286 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Our Company 
+ 
+ Overview 
+ 
+Second Sight Medical Products, Inc. (NASDAQ: EYES) develops, manufactures and markets implantable visual prosthetics that are intended to deliver useful artificial vision to blind individuals. We are a recognized global leader in neuromodulation devices for blindness, and are committed to developing new technologies to treat the broadest population of sight-impaired individuals.
+ Leveraging our 20 years of experience in neuromodulation for vision, we are developing the Orion® Visual Cortical Prosthesis System (“Orion”), an implanted cortical stimulation device intended to provide useful artificial vision to individuals who are blind due to a wide range of causes, including retinitis pigmentosa (“RP”), glaucoma, diabetic retinopathy, optic nerve injury or disease and eye injury. Orion is intended to convert images captured by a miniature video camera mounted on glasses into a series of small electrical pulses. The device is designed to bypass diseased or injured eye anatomy and to transmit these electrical pulses wirelessly to an array of electrodes implanted on the surface of the brain’s visual cortex, where it is intended to provide the perception of patterns of light. A six-subject Early Feasibility Study of the Orion device is currently underway at the Ronald Reagan UCLA Medical Center in Los Angeles (“UCLA”) and Baylor College of Medicine in Houston (“Baylor”). Our 12 month results for the six subjects indicate to us that: 
+  
+• | We have a good safety profile. Subjects experienced a total of eight adverse events (“AEs”) over this time period related to the device or to the surgery. One was considered a serious adverse event (“SAE”), and all of the adverse events were in the expected category. The SAE was resolved quickly and did not require a hospital stay. We believe the safety profile experienced thus far with the first six subjects supports advancement into a larger clinical study. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The efficacy data is encouraging. We measure efficacy by looking at three measures of visual function and one measure of functional vision. The first visual function measure is called Square Localization, where Orion subjects sit in front of a touch screen and are asked to touch within the boundaries of a square when it appears. The second is Direction of Motion, where subjects are asked to identify the direction and motion of lines on a screen. The third is Grating Visual Acuity, a measure of visual acuity that is adapted for very low vision. On Square Localization, five of the six subjects performed significantly better with the system on than off at 12 months. On Direction of Motion, all six performed significantly better on than off at 12 months. On our third visual function measure, Grating Visual Acuity, three had measurable visual acuity on the scale of this test (versus none who can do it with the device off) at 12 months. Our functional vision measure is called FLORA, which stands for Functional Low-Vision Observer Rated Assessment. FLORA is an assessment performed by an independent, third-party low vision orientation and mobility specialist who spends time with each of the subjects in their homes and surrounding area. The specialist asks each of the subjects a series of questions and also observes them performing 15 or more daily living tasks, such as finding light sources, following a sidewalk, or sorting laundry. The specialist then determines if the system is providing a benefit, if it is neutral, or if it is actually hurting the abilities of subjects to perform these tasks. Our FLORA results at 12 months show that for five of the six subjects, the Orion system is providing benefit. The system’s impact was rated as neutral for the sixth subject. We reached agreement with the FDA in the fourth quarter of 2019 to utilize a revised version of FLORA as our primary efficacy endpoint in our pivotal trial for Orion, pending successful validation of the instrument in early 2020. While our experience is limited to the six subjects in our Early Feasibility Study, we believe these efficacy data indicate that Orion performance is comparable to Argus II performance and support advancement into a larger clinical study. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+
+No peer-reviewed data is available yet for the Orion system. We are currently evaluating whether to enroll additional feasibility subjects while simultaneously negotiating the clinical and regulatory pathway to commercialization with the FDA as part of the Breakthrough Devices Program.  
+ Our principal offices are located in Los Angeles, California. We also have an office in Lausanne, Switzerland, that manages our clinical and research and development operations in Europe, the Middle East and Asia.
+ Our current commercially approved product, the Argus® II Retinal Prosthesis System (“Argus II”), treats outer retinal degenerations, such as retinitis pigmentosa, also referred to as RP. RP is a hereditary disease, affecting an estimated 1.5 million people worldwide including about 100,000 people in the United States, that causes a progressive degeneration of the light-sensitive cells of the retina, leading to significant visual impairment and ultimately blindness. The Argus II is the only retinal prosthesis approved in the United States by the Food and Drug Administration (“FDA”), and was the first approved retinal prosthesis in the world. A relatively small subset of RP patients would be eligible for the Argus II since the approved baseline vision for the Argus II is bare light perception or worse in the better seeing eye. We commissioned third-party market research to estimate the size of the RP market that resulted in an estimate of approximately 1,500 patients in the U.S. with advanced RP that could be treated with the Argus II given the eligibility criteria of our label.
+ The Argus II system provides an artificial form of vision that differs from the vision of people with normal sight. It does not restore normal vision nor slow the progression of the disease. A majority of patients receive a significant benefit from the Argus II, however results can vary and some patients report receiving little or no benefit. By creating an artificial form of useful vision in patients who otherwise have total sight loss, the Argus II can provide benefits that include: 
+  
+• | restoring independence through a renewed ability to navigate independently in unfamiliar environments;
+--+-------------------------------------------------------------------------------------------------------
+
+
+• | improving patients’ orientation and mobility, such as locating doors and windows, avoiding obstacles, and following the lines of a crosswalk;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | allowing patients to feel more connected with people in their surroundings, such as seeing when someone is approaching or moving away;
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | providing patients with enjoyment from being “visual” again, such as locating the moon, tracking groups of players as they move around a field, and watching moving streams of lights from fireworks;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | enabling some patients to re-enter the workforce with more confidence that becomes possible because of Argus II; and
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | improving patients’ well-being and ability to perform activities of daily living.
+--+----------------------------------------------------------------------------------
+
+ 4
+
+
+We began selling the Argus II system in Europe at the end of 2011, Saudi Arabia in 2012, the United States and Canada in 2014, Turkey in 2015, Iran, Taiwan, South Korea and Russia in 2017, and Singapore in 2018. Given the encouraging results for Orion in our Early Feasibility Study and the limited addressable market of Argus II, we made the decision in 2018 to reduce our investment in Argus commercial and clinical activities and increase our investment of resources with our Orion clinical and R&D programs. In October 2018, we announced a restructuring of our international commercial activities and personnel. This restructuring resulted in a decision to no longer support new implants of Argus II in Turkey, Iran, Singapore and Russia.  We retained a team that continues to support existing Argus II patients and our implanting clinics that we refer to as Centers of Excellence in all markets. We recognized approximately $0.6 million of pre-tax restructuring charges in the fourth quarter of fiscal year 2018 in connection with this restructuring, consisting of severance and other employee termination benefits, substantially all of which were settled in cash during the fourth quarter of 2018.
+ Based on assessments of the development of our Orion technology and Orion’s positive results in our Early Feasibility Study of the six subjects implanted with the Orion at UCLA and Baylor, on May 10, 2019 our Board approved an acceleration of our transition from the Argus II to the Orion platform so we may more rapidly implement our strategy of treating blindness domestically and worldwide with the Orion technology. As a result, we have or will:  
+  
+• | accelerated the changeover to, and upgrades of, our supply chain, manufacturing and quality assurance processes, as well as our facilities and talent pool to the Orion program and suspended production of Argus II systems;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | manufacture additional Orion devices that we will require to support FDA approval of the Orion as an approved commercial product;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | seek to expand our Early Feasibility Study and/or conduct a pivotal clinical trial with the intent of seeking regulatory approval for marketing Orion in the U.S.;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | reduced our commercial activities and other costs associated with expanding or maintaining Argus II sales;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | limit future sales and implants of the Argus II to finished units and inventory on hand;
+--+-----------------------------------------------------------------------------------------
+
+
+• | incurred non-cash impairment charges of our inventory of approximately $2.6 million in the year ended December 31, 2019;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+• | incurred cash severance and related expenses of approximately $800,000 in the year ended December 31, 2019 affecting employees primarily associated with Argus II operations; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | continue to support our existing and future Argus II users, which includes our commitment to bring the Argus 2s enhanced software and peripherals to market in a limited manner which may improve the current user experience.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We received CE Mark and conditional FDA approval for our Argus 2s (pending final Agency review of some labeling changes) which includes our next generation of wearables and a more powerful video processing unit (VPU), an improved camera and more ergonomically and esthetically pleasing glasses. This technology will serve as the base for our next generation Orion system to be used in our U.S. pivotal study.
+ We are actively developing multiple technologies that we believe to be complimentary to artificial vision and could potentially provide significant enhancements to the Argus II or Orion user experience.  In most cases, we collaborate with third-party firms to advance and integrate these innovative technologies with our artificial vision systems.  Examples of technologies that we are currently researching include: eye tracking, object recognition and localization, thermal imaging and depth-based image decluttering.  
+ 
+Currently, after more than 20 years of research and development, more than $260 million of investment and over $34 million of grants awarded in support of our technology development, we employ over 110 people in the development (research, engineering and clinical), manufacture, and support of the Argus II and Orion.
+ 
+We are subject to the risks and uncertainties associated with a business with one product line and diminishing commercial product revenues, including limitations on our operating capital resources and uncertain demand for our product. We have incurred recurring operating losses and negative operating cash flows since inception, and we expect 
+ 5
+
+
+to continue to incur operating losses and negative operating cash flows for the foreseeable future. Based on our current plans, we do not have sufficient funds to continue operating our business at current levels for at least twelve months from the date of issuance of this report. However, our operating plan may change as a result of many factors currently unknown to us, and we may need to seek additional funds sooner than planned, through public or private equity offerings, debt financings, grants, collaborations, strategic partnerships or other sources. However, we may be unable to raise additional capital or enter into such other arrangements when needed on favorable terms or at all. If we are unable to obtain funding on a timely basis, we may be required to significantly curtail, delay or discontinue one or more of our research or development programs, or we may be unable to expand our operations, maintain our current organization and employee base or otherwise capitalize on our business opportunities, as desired, which could materially affect our business, financial condition and results of operations.
+ 
+Our Technology 
+ 
+Both the Orion and Argus II systems work by converting video images captured by a miniature camera housed in a user’s glasses into a series of small electrical pulses that are transmitted wirelessly to an array of electrodes.  The Orion array is implanted on the surface of the visual cortex of the brain, bypassing the eye and optic nerve and directly stimulating the region of the brain responsible for vision.  The Argus II array is implanted on the surface of the retina and directly stimulates the retina to bypass degenerated photoreceptor cells and to stimulate remaining viable retinal cells. The pulses generated by both systems are intended to create a perception of patterns of light in the brain. Following the implant surgery, users learn to interpret these visual patterns as artificial vision, allowing them to detect shapes of people and objects in their surroundings.   
+ 
+We believe both the Orion and Argus II systems (including their implantable components) possess several unique technological advancements compared to other neurostimulation devices, including a hermetic package with the smallest size and largest number of individually programmable electrodes, and a patented electrode material that allows for high charge densities and small electrode size. Several other engineering challenges, including device reliability, extended lifetime, and a safe and effective bio-interface, were overcome during the development of the products and these solutions have been protected both by patents and by trade secrets. Much of the technology developed for Argus II is also used in Orion. As of December 31, 2019, we have more than 300 issued patents and over 40 pending patent applications worldwide. 
+ 
+We have demonstrated the ability to design products with long-term reliability. The Argus I retinal prosthesis, a proof of concept device that was a predecessor to the Argus II, was implanted in six patients in the United States. Argus I patients were implanted an average of almost six years, with one patient having used the device for over 10 years. The Argus II system has been implanted in over 300 patients. The average implant duration for these patients is nearly four years with several users continuing to use the system 10 years following implantation.
+ 
+In November 2017, the FDA granted Breakthrough Devices Program designation for the Orion. This designation is given to a select number of medical devices in order to provide more effective treatment of life-threatening or irreversibly debilitating diseases or conditions. This program is intended to help patients have more timely access to these medical devices by expediting their development, assessment, and review. With this designation, we believe the Orion will have the following advantages during the FDA review process:
+ 
+ 
+● | more interactive review both for the Investigational Device Exemption (IDE) and Premarket Approval application; 
+● | greater reliance on post-market data collection and greater acceptance of uncertainty in the benefit-risk profile at the time of approval;
+● | priority review (i.e., review of the submission is placed at the top of the review queue and receives additional review resources); and 
+● | senior FDA management involvement and assignment of a cross-disciplinary case manager. 
+
+ 
+We expect that inclusion in the Breakthrough Devices Program may shorten the timeline required to bring the Orion to market as a commercial product. We also are currently evaluating our pivotal trial design for Orion and expect to reach consensus with the FDA on design specifics during 2020 with an expected IDE filing date in the first half of 2021. Major elements of our clinical trial design include the number of patients, study duration, and the endpoints suitable for assessing visual function, functional vision and quality of life. We have reached agreement with FDA on the primary effectiveness endpoint, pending validation of an assessment we have developed for the purpose. We anticipate completing the validation study in the first half of 2020. We are currently working with FDA on alignment on a primary safety endpoint and confirmation of a statistical sample size which will drive the number of 
+ 6
+
+
+subjects to be enrolled in the pivotal study. While negotiations with the FDA are ongoing, we believe the study design will require a minimum pre-market sample population of at least 45 subjects (plus additional post-market subjects) with at least 12 months of follow-up data for each patient prior to submittal of a premarket approval (PMA) application.
+ 
+Our Markets 
+ 
+According to the World Health Organization (WHO)1, 253 million people suffer from moderate to severe vision impairment worldwide. Of these, 36 million people are considered legally blind. The WHO further estimates that 80% of legal blindness is avoidable, leaving 7.8 million legally blind individuals, including those blind due to AMD and RP, or 5.8 million excluding age-related macular degeneration2 (“AMD”) and RP. However, of the estimated 36 million blind people worldwide, there are approximately 5.8 million people who are legally blind due to causes that are not otherwise treatable (including RP) or AMD. We continue to develop and refine our estimates of the potential addressable market size as we evaluate the commercial prospects for Orion using a combination of published sources, third-party market research, and physician feedback.  
+ 
+In the U.S., 1.3 million people are legally blind3.  We commissioned third-party market research for the potential market for Orion and we currently estimate over 500,000 individuals in the U.S. are legally blind due to retinitis pigmentosa, glaucoma, diabetic retinopathy, optic nerve disease and eye injury. Of this population, we estimate the potential U.S. addressable market is between 50,000 and 100,000 individuals with bi-lateral blindness at the light-perception level or worse.  Our marketing approvals by the FDA and other regulatory agencies will ultimately determine the subset of these patients who are eligible for the Orion based on our clinical trials and the associated results.
+ 
+Many other diseases can also cause blindness. Many of the largest causes of visual impairment (i.e. refractive error and cataracts) are avoidable or curable, and their prolonged or untreated impact on vision is largely observed in developing nations and are not part of our target market. Some other causes of blindness, such as brain trauma to the visual cortex, may also not be suitable for treatment by a cortical stimulator. However, the remaining causes of severe vision loss which include glaucoma, diabetic retinopathy, eye trauma, optic nerve disease or injury and many others can result in severe visual impairment that could potentially be treatable by an Orion visual prosthesis system.
+ 
+We believe that, if approved by the FDA, the Orion will initially treat a subset of these legally blind individuals, likely starting with the ones who are completely blind. If this is the case, we anticipate that if we are further able to collect additional clinical data demonstrating the efficacy of the Orion for patients with better vision, we will be able to expand the approved indications and addressable market of the Orion to include a larger subset of these 5.8 million individuals for whom no effective treatment currently exists.
+ 
+By further developing our visual cortical prosthesis, Orion, we believe we will significantly expand our market to include nearly all profoundly blind individuals. The only notable exceptions for potential use of the Orion are those who are blind due to otherwise currently treatable diseases, individuals who are born blind, or blindness due to direct damage of the visual cortex, which is rare. 
+ 
+
+
+
+
+
+
+1 WHO Fact Sheet, updated October 11, 2018. 
+ 2 Congdon N, O’Colmain B, Klaver CC, et al. Causes and prevalence of visual impairment among adults in the United States. Arch Ophthalmol. Apr 2004;122(4):477-485. This percent amount was derived from the rates of different causes of blindness by different races and racial demographic data from 2010 U.S. Census data.
+ 3 National Eye Institute (http://www.nei.nih.gov/eyedata/blind.asp).
+ 
+
+
+
+
+
+
+
+7
+
+
+
+Our Strategy 
+ 
+Our strategy can be summarized as follows:
+ 
+ 
+● | Leverage proven Argus technology to develop the Orion visual cortical prosthesis and significantly expand our addressable market to include a portion of the almost 6 million patients who are blind from eye trauma, optic nerve disease and injury, diabetic retinopathy, glaucoma and other untreatable causes.
+● | | Invest in research and development of technologies intended to enhance the Argus or Orion user experience, including eye tracking, distance filtering/decluttering, object and facial recognition and thermal imaging.
+● | | Continue to provide limited product support for Argus II patients while minimizing our overall investment in Argus II activities. 
+
+ 8
+
+
+ Global Reimbursement 
+ 
+
+       Obtaining reimbursement from governmental and private insurance companies is critical to our commercial success. Due to the price of the Argus II system, our sales would be limited without the availability of third-party reimbursement. In the U.S., coding, coverage, and payment are necessary for the surgical procedure and Argus II system to be reimbursed by payors. Coding has been established for the device and the surgical procedure. The same will be required for Orion. Coverage and payment vary by payor. The majority of Argus II patients are eligible for Medicare, and coverage is primarily provided through traditional Medicare, sometimes referred to as Medicare Fee-for-Service (“FFS”) or Medicare Advantage. A small percentage of patients are covered by commercial insurers.
+
+● | Medicare FFS patients – Coverage is determined by Medicare Administrative Contractors (MACs) that administer various geographic regions of the U.S. Positive coverage decisions for the Argus II are effective in eight of 12 MAC jurisdictions (comprising 31 states, two territories and the District of Columbia). Effective January 1, 2019, the Centers for Medicare and Medicaid Services (CMS) established a 2019 average payment rate of $152,500 for both the procedure and the Argus II Retinal Prosthesis System.
+
+
+● | Medicare Advantage patients – Medicare Advantage plans are required to cover the same benefits as those covered by the MAC in that jurisdiction. For example, if a MAC in a jurisdiction has favorable coverage for the Argus II, then typically Medicare Advantage plans in that MAC jurisdiction offer the same coverage for the Argus II. Individual hospitals and ASCs may negotiate contracts specific to that individual facility, which may include additional separate payment for the Argus II implant system. In addition, procedural payment is variable and can be based on a percentage of billed charges, payment groupings or other individually negotiated payment methodologies. Medicare Advantage plans also allow providers to confirm coverage and payment for the Argus II procedure in advance of implantation. Over the last several years a large majority of all Medicare Advantage pre-authorization requests for Argus II procedures were granted.
+
+
+● | Commercial insurer patients – Commercial insurance plans make coverage and payment rate decisions independent of Medicare, and contracts are individually negotiated with facility and physician providers.
+
+ 
+
+       Within Europe, Argus II obtained reimbursement approval or funding in Germany (NUB Innovation Funding Program), France (Forfait Innovation Funding Program), and one region of Italy (Regional Funding). We were in the process of obtaining reimbursement through the Commissioning through Evaluation (“CtE”) program in England and discontinued these efforts in connection with our restructuring of the Argus II program. If Argus II was still available, the Forfait Innovation Funding Program and CtE program could have resulted in permanent national funding for Argus II assuming positive outcomes in the program, especially in France where we were in the final stages of the reimbursement review process.
+ 
+       Currently, we are in the process of evaluating potential reimbursement pathways for Orion in the U.S. market. Compared to Argus II, which is largely catering to the Medicare patient population, Orion is expected to address a patient population with a diverse and more balanced payor mix due to our potential indications profile and expected younger patient population, on average. As Orion is a part of the FDA’s Breakthrough Devices program, we are closely evaluating a variety of fast-track reimbursement programs, including recent encouraging announcements from CMS proposing modernization of payment policies for medical devices that meet FDA’s Breakthrough Devices designation. During the second half of 2019, we also approached some commercial payors and CMS to get their feedback to ensure our overall reimbursement strategy for Orion therapy will cater to their key data requirements.
+ 
+During the year ended December 31, 2019, 16 individuals in the U.S. were implanted with the Argus II technology. These patients were primarily covered by Medicare FFS or Medicare Advantage plans and the remainder had private commercial, Veteran’s Administration or other insurance plan coverage.
+ 
+
+9
+
+
+
+
+Product and Clinical Development Plans
+ 
+In November 2017, we received full FDA approval to begin the first human clinical Early Feasibility Study of the Orion visual prosthesis system. During 2018, we implanted and activated the first five subjects in the study, four subjects at UCLA and one subject at Baylor. To date, clinical results have been positive.  In addition, during the second quarter of 2018, we submitted and received approval from the FDA to enroll a sixth subject. We implanted the sixth subject at Baylor in January 2019. We are currently evaluating whether to enroll additional feasibility subjects while simultaneously negotiating the clinical and regulatory pathway to commercialization with the FDA as part of the Breakthrough Devices Program.  
+Our Competition 
+ 
+The U.S. life sciences industry is highly competitive. The treatment of blindness is a significant clinically unmet need and others continue to make progress. There are several approaches to treating blindness including:
+
+● | Retinal Prostheses: The retina is the first nerve tissue in the visual network that generates electrical signals. A retinal prosthesis implant stimulates the retina with electrodes. There are two primary approaches to this: 1) Epiretinal Prosthesis, which is placed on the surface of the retina, and 2) Subretinal Prosthesis, which is placed beneath the retina and between the retina and choroid. 
+● | Optic Nerve Implant: Moving down the visual network path, some are developing a cuff electrode array that is placed around the optic nerve just behind the eye. These are in early research phase. 
+● | Visual Cortical Prosthesis – To our knowledge, we are the only commercially focused organization developing a visual cortical prosthesis (Orion), which is placed beneath the skull and on the surface of the visual cortex. A few groups worldwide are developing an intracortical visual prosthesis with electrodes that penetrate the brain, but none have advanced to human clinical trials of potentially commercializable devices. As we continue to demonstrate the potential benefits and safety profile of Orion, we may face competition from other entities seeking to develop a visual cortical prosthesis. While we are currently precluded by the exclusion criteria in our Early Feasibility Study from testing Orion in any indication where a current therapeutic option exists, such as with RP using Argus, we or others may ultimately seek to demonstrate the potential benefits and safety profile of a visual cortical prosthesis for RP. 
+ | Other approaches not involving electrical stimulation include: 
+
+
+● | Transplants: transplanting retinal tissue to stimulate remaining retinal cells. 
+● | Stem Cells: generally involves implanting immature retinal support cells aimed at slowing retinal degeneration. A single patient in London, England with wet AMD was reportedly implanted in 2015 with an embryonic stem cell line in a study sponsored by Pfizer. This study has been suspended. Patients with dry AMD are also being recruited in Los Angeles for a similar study. No data is yet available as to safety or efficacy of these implantations. A patient in Japan with AMD was implanted with induced pluripotent stem (ips) cells. These are mature cells reprogramed to be stem cells.
+
+10
+
+
+ 
+● | Genetics and Gene Therapy: involves identifying a specific gene that is causing retinal problems (there are over 120 for retinitis pigmentosa alone) resulting in visual impairments and blindness and inserting healthy genes into an individual’s cells using a virus as a delivery mechanism to treat the diseases. A company completed a phase 3 study in 21 patients with a median age of 11 for a gene that affects a very small percentage of retinitis pigmentosa patients, RPE65. That company applied for and received FDA approval in 2018. We believe that there is virtually no overlap with our current market since our patients generally are older (Argus II is indicated for an age minimum of 25 in the U.S.). The other company also injects better sighted patients since its treatment is aimed at improving residual vision. In contrast, Argus II seeks to create artificial vision where vision is completely lost. Pricing for these injections is reported to be approximately $850,000 for both eyes. 
+● | Optogenetics Therapy: aimed at slowing down, reversing, and/or eliminating the process by which photoreceptors in the eye are compromised. This therapy requires using the patient’s cells with a virus as a delivery mechanism intended to cause cells within the eye to become light sensitive. Animal work has shown that these cells are not sensitive enough to respond to ambient light, so this approach currently also requires a light amplifier outside the body to increase light delivered to the retina. The regulatory body in the UK, the Medicines and Healthcare products Regulatory Agency, has recently cleared optogenetic clinical trials to begin. 
+
+
+● | Nutritional Therapy: involves diets or supplements that are thought to prevent or slow the progress of vision loss.
+
+
+● | Implantable Telescope: VisionCare, Ophthalmic Technologies, Inc. offers an FDA approved implantable miniature telescope for AMD, a magnifying device that is implanted in the eye. The VisionCare telescope is approved for use in patients with severe to profound vision impairment (best corrected visual acuity of 20/160 to 20/800) due to dry AMD.
+
+
+● | Wicab’s The BrainPort® V100 includes a video camera mounted on a pair of sunglasses, a hand-held controller, and tongue array. The tongue array contains 400 electrodes and is connected to the glasses via a flexible cable. White pixels from the camera are felt on the tongue as strong stimulation, black pixels as no stimulation, and gray levels as medium levels of stimulation. This device is indicated for the profoundly blind. 
+
+
+● | There are currently no known treatments for AMD after the disease has caused severe to profound vision loss nor are there any established treatments that delay or reverse the progression of Dry AMD other than supplements.
+
+
+● | Therapies exist for Wet AMD that delay the progression of visual impairment or slightly improve the vision, rather than completely curing or reversing its course. These therapies are approved in many regions throughout the world, including the U.S. and European Union (“EU”).
+
+ 
+Commercial efforts to develop retinal implants by others include:
+ 
+ 
+● | Pixium Vision SA: A publicly held French company that is developing the PRIMA (sub-retinal implant) for Dry-AMD patients. In 2017, Pixium announced approval for two feasibility studies of PRIMA in Dry-AMD patients. One study reportedly is in Paris with five subjects, and a second Early Feasibility Study in the U.S. of five patients is underway at two sites – Pittsburgh, Pennsylvania and Miami, Florida. To date, Pixium has announced the successful implantation and activation of five devices in Paris and one device in the U.S. with limited performance data reported. 
+
+
+● | NanoRetina Inc., a company based in Israel, and several other early stage companies are reported to have developed intellectual property or technology that may improve retinal prostheses in the future, but to our knowledge none of these efforts has resulted in a completed system that has been tested clinically in patients.
+
+
+● | Academic entities are also working on vision restoring implants. These include Bionic Vision Australia (an early prototype device has been developed and to our knowledge implanted in three human subjects), Boston Retinal Implant project (preclinical phase), Monash Vision Group (preclinical phase), and the Illinois Institute of Technology (preclinical phase). Of these projects, we believe most have not yet demonstrated a working implant, only one has reportedly begun long-term clinical work in humans, and to our knowledge none has received FDA approval to begin clinical trials in the U.S.
+
+ 
+To our knowledge, no other retinal prosthesis has been successful in long-term human trials, with the Argus II system currently the sole implant available to commercial patients for treating RP in the U.S., Canada, the EU, and elsewhere. We anticipate that our competitors are unlikely to obtain significant commercial traction in the EU until they have developed in-depth clinical data showing the reliability and functionality of their products.
+ 
+11
+
+
+Warranty
+ 
+We generally provide a standard limited warranty for the Argus II system covering replacement over the following periods after implant:
+ 
+ 
+● | three years on implanted epiretinal prosthesis 
+● | two years on wearable components other than batteries and chargers
+● | three months on batteries and chargers 
+
+ 
+Based on our experience to date, the Argus II system has proven to be a reliable device generally performing as intended. We have accrued warranty expense of $1.6 million as of December 31, 2019, which is based upon our historical experience rate.
+ 
+Our Manufacturing and Quality Assurance 
+ 
+We have a single manufacturing facility, located at our principal office in Los Angeles, California. The manufacturing areas at this location are housed in a single building, which includes approximately 10,000 square feet of controlled environment rooms (CERs) suitable for implant manufacturing. We currently utilize less than half of this space for Argus II implant production. At the same site we maintain spaces for assembling the wearable (non-implantable) components of our system and for labeling, receiving and shipping, and stockroom functions. Finished goods are held at this location and at our contracted logistics partner in Europe.
+ 
+We rely on many suppliers to provide the materials and services necessary to produce and test our products. Many of these materials or services are currently provided by sole source suppliers. In a number of instances we maintain sole source suppliers because our current purchasing volumes do not warrant developing more than one supplier. We expect to secure additional providers as our production volumes increase. If we experience a loss of a sole supplier before confirming an alternative, we risk possible disruptions in our operations. We attempt to mitigate the sole source risk by, among other things, increasing parts inventory as a partial hedge against interruptions in parts supply and by actively seeking to develop alternative supplier sources before experiencing any such disruptions.
+ 
+12
+
+
+Our manufacturing department currently employs 22 persons and the quality assurance department has an additional nine members. We operate a single day shift, and at this staffing level we can manufacture approximately 5 devices per month. We believe that the space available at the current facility when fully utilized and operating at two full shifts will prove sufficient to build and assemble a total of approximately 100 Orion devices per month.
+ 
+Employees 
+ 
+As of December 31, 2019, we had 112 employees, including approximately 31 in operations; 12 in selling, marketing and distribution; 52 in clinical, regulatory and research and development; and 17 in administration. Of these persons, we employed 107 in the United States and 5 in Europe. We believe that the continued success of our business will depend, in part, on our ability to attract and retain qualified personnel, and we are committed to developing our people and providing them with opportunities to contribute to our growth and success. None of these employees is covered by a collective bargaining agreement, and we believe our relationship with our employees is good to excellent.
+Properties 
+ 
+Our principal office and facilities are located at 12744 San Fernando Road, Suite 400, Sylmar, California 91342, which consists of approximately 45,351 rentable square feet at a current base rent of about $39,800 per month. Our lease expires in February 2022 and grants us an option to extend the lease term for an additional 60 months. We believe that these premises are adequate for our foreseeable needs. 
+ 
+Our European office is located on the Innovation Park at École Polytechnique Fédérale de Lausanne (EPFL), Rue Jean-Daniel Colladon, CH 1015 Lausanne, Switzerland. As part of our restructuring and staffing reductions we have renegotiated this lease to a base rent of 1,573 CHF or about $1,623 starting on January 1, 2019 based upon current exchange rates.
+ 
+Legal Proceedings 
+ 
+We are not a party to any threatened or pending legal proceedings, other than those involving Pixium described in Risk Factors related to intellectual property and other legal matters.
+Available Information
+ 
+Our website address is www.secondsight.com. We make available free of charge through a link provided at said website our Forms 10-K, 10-Q and 8-K as well as any amendments thereto. Such reports are available as soon as reasonably practicable after they are filed with the Securities and Exchange Commission.

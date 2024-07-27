@@ -1,0 +1,582 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+------------+----------
+
+Overview 
+ 
+With advanced technologies and a unique business model, we, as a development stage service provider of IFEC solutions, intend to provide airline passengers with a broadband in-flight experience that encompasses a wide range of service options. Such options include Wi-Fi, cellular, movies, gaming, live TV, and music. We plan to offer these core services, which we are currently still developing, through both built-in in-flight entertainment systems, such as a seat-back display, as well as on passengers’ own personal devices. We also expect to provide content management services and e-commerce solutions related to our IFEC solutions.
+ 
+We plan to partner with airlines and offer airline passengers free IFEC services. We expect to generate revenue through advertising and in-flight transactions. We believe that this is an innovative approach that differentiates us from existing market players.
+ 
+To complement and facilitate our planned IFEC service offerings, we intend to build satellite ground stations and related data centers within the geographic regions where we expect to be providing IFEC airline services.
+ 
+Additionally, we have developed and begun to market two internet connectivity systems, one for hotels primarily located in remote regions and the other for maritime use. Both systems operate through a Ku/Ku high throughput satellite, or HTS. We also expect to develop a remote connectivity system that will be applicable to the highspeed rail industry.
+ 
+Our Corporate History and Structure
+ 
+Aircom was incorporated in the State of California on September 29, 2014. On December 28, 2016, Aircom purchased 140,000 shares, or approximately 86.3%, of the outstanding common stock of the public company then known as Maple Tree Kids, Inc. (“MTKI”) for the purpose of engaging in a reverse acquisition with MTKI. MTKI was incorporated on August 14, 2013 in the State of Nevada. On January 10, 2017, in anticipation of the reverse acquisition and Aircom’s new business, MKTI changed its name to Aerkomm Inc. On February 13, 2017, Aircom and its shareholders entered into a share exchange agreement with Aerkomm pursuant to which Aerkomm acquired 100% of the issued and outstanding capital stock of Aircom in exchange for approximately 99.7% of the issued and outstanding capital stock of Aerkomm (or 87.8% on a fully-diluted basis). As a result of the share exchange, Aircom became a wholly-owned subsidiary of Aerkomm, and the former shareholders of Aircom became the holders of approximately 99.7% of Aerkomm’s issued and outstanding capital stock.
+ 
+For accounting purposes, the share exchange transaction with Aircom was treated as a reverse acquisition, with Aircom as the acquirer and Aerkomm as the acquired party. To the extent this report contains business and financial information for partial periods prior to the consummation of the reverse acquisition, this information pertains to the business and financial information of Aircom and its consolidated subsidiaries. Aircom owns all of the equity interests of Aircom Seychelles, Aircom HK, Aircom Japan and Aircom Taiwan.
+ 
+Aircom Seychelles was formed under the laws of Seychelles on December 15, 2009 as Gulach Ltd. and changed its name to Aircom Pacific Ltd. on August 19, 2014. Aircom Seychelles was acquired by Aircom on December 31, 2014 to facilitate Aircom’s global corporate structure for both business operations and tax planning. Presently, Aircom Seychelles has no operations. Aircom is working with corporate and tax advisers in optimizing its global corporate structure and has not yet concluded a revised plan of organization.
+ 
+On October 17, 2016, Aircom acquired Aircom HK for $100,000. Aircom HK is a Hong Kong limited company formed on October 3, 2008 as Yanwei Information Technology Limited. Aircom HK changed its name to Dadny Inc Limited on September 6, 2011 and changed its name again to Aircom Pacific Inc. Limited on July 22, 2015. Aircom HK is in charge of all of Aircom’s business and operations in Hong Kong and China. Presently, Aircom HK’s primary function is business development, both with respect to airlines as well as content providers and advertising partners based in Hong Kong and China. It is also actively seeking strategic partnerships in those areas, through which Aircom may leverage its product offerings to provide enhanced services to prospective customers. Aircom also plans to provide local support to Hong Kong-based airlines via Aircom HK and Aircom HK owned teleports located in Hong Kong.
+ 
+On December 15, 2016, Aircom acquired Aircom Japan for $600,000. Aircom Japan was formed under the laws of Japan on August 29, 2011 as Dadny (Japan) Inc. and changed its name to Aircom Japan, Inc. on July 1, 2016. Aircom Japan is responsible for Aircom’s business development efforts and general operations located within Japan.
+ 
+Aircom Taiwan, which became a wholly owned subsidiary of Aircom in December 2017, was organized under the laws of Taiwan on June 29, 2016. During 2017, prior to Aircom Taiwan becoming a wholly owned subsidiary of Aircom, Aircom advanced a total of $460,000 (the “Prepayment”) to Aircom Taiwan for working capital as part of a planned $1,500,000 aggregate equity investment (the “Equity Investment”) in Aircom Taiwan. Aircom Taiwan at that time acted as Aircom’s agent in Taiwan. Before Aircom Taiwan was allowed to issue equity to Aircom, because Aircom was a foreign investor, the Equity Investment had to be approved by the Investment Review Committee of the Ministry of Economic affairs of Taiwan (the “Committee”). Aircom entered into an Equity Pre-Subscription Agreement with Aircom Taiwan dated as of August 13, 2017, to memorialize the terms of the Equity Investment. On December 19, 2017, the Committee approved Aircom’s initial Equity Investment (valued as of that date at NT$15,150,000, or approximately US$500,000) and the purchase of the Aircom Taiwan’s founding owner’s total equity of NT$100,000 (approximately US$3,350). As a result of the approval of the Equity Investment, Aircom Taiwan became a 100% wholly owned subsidiary of Aircom.
+ 
+1
+
+ 
+
+On June 13, 2018, Aerkomm established Aerkomm Taiwan Inc. as a new wholly owned subsidiary under the laws of Taiwan. Aerkomm Taiwan Inc. is responsible for Aircom’s business development efforts and general operations within Taiwan.  We are currently planning to locate the site of our first ground station in Taiwan and we expect that if we raise sufficient funds to move forward with this project (although that cannot be guaranteed), Aerkomm Taiwan Inc. will play a significant role in building and operating that ground station.
+ 
+On November 15, 2018, Aircom Taiwan acquired Aircom Beijing for CNY600,000 (approximately $87,266). The purpose of this acquisition is for Aircom Beijing is to conduct Aircom’s business and operations in China. Presently, Aircom Beijing’s primary function is business development, both with respect to airlines as well as content providers and advertisement partners based in China as most business conducted in China requires a local registered company. Aircom Beijing is also actively seeking strategic partnerships through which Aircom may leverage its product offerings in order to provide enhanced services to prospective customers. Aircom also plans to provide local support to China-based airlines via Aircom Beijing and its future planned teleports to be located in China.
+ 
+On October 31, 2019, Aircom Seychelles established a new wholly owned subsidiary, Aerkomm Pacific Limited (“Aerkomm Malta”), a corporation formed under the laws of Malta. The purpose of Aerkomm Malta is to conduct Aircom’s business and operations and to engage with suppliers and potential airline customers both in Europe and worldwide.
+ 
+On March 22, 2020, the board of directors, or the Board, held a special meeting and took certain actions, effectively immediately, to position the Company for future growth. James Busuttil, a current director, was appointed Chairman of the Board. Louis Giordimaina, previously the Chief Operating Officer-Aviation of Aerkomm Malta, was appointed the Company’s Chief Executive Officer, Jeffrey Wun, the Company’s previous Chief Executive Officer resigned from that position and confirmed that his resignation from that position was not the result of any disagreement with the Company or the Board regarding the Company’s financial or accounting policies or operations. Mr. Wun was appointed the Company’s Chief Technology Officer and will remain as President of the Company and as a director, as well as the Chief Technology Officer of Aircom. Georges Caldironi, a former consultant to Aircom, was appointed as the Company’s Chief Operating Officer. We believe that these managerial and Board changes will better position the Company to move forward into its next phase of operations.
+ 
+Our Corporate Operational Structure
+ 
+We are a holding company. All of our business operations are conducted through our several operating subsidiaries with our core operational and business activities being directed through Aircom. The chart below presents our corporate structure as of the date of this annual report:
+ 
+
+Our principal executive offices are located at 923 Incline Way #39, Incline Village, NV 89451. The telephone number at our principal executive office is (877) 742-3094.
+ 
+Our Industry
+ 
+The following discussion does not take into account the negative impact on our industry and markets of the onset of the COVAD-19 coronavirus which began in Wuhan, China in December 2019. Although it is too early to determine the medium and long term impact and effect of the coronavirus and to quantitively measure that impact and effect, there can be no certainty with respect to any of the growth projections referenced below, and we expect that, at least in the short term, the coronavirus could have a negative impact of our business prospects and the market introduction of our IFEC product offerings. See our discussion of the coronavirus in the Risk Factors section of this annual report, below.
+ 
+2
+
+ 
+
+The global in-flight entertainment and connectivity, or IFEC, market has been expected to experience high growth due to factors such as aircraft expansion, increasing passenger rates, rising penetration rates, and technological advances. According to the latest market research report1, the IFEC market is projected to reach USD 10.5 billion by 2025, at a compound annual growth rate, or CAGR, of 10.3% from 2019 to 2025. The same market research report also predicts that the IFEC market in the Asia Pacific region is projected to grow at the highest CAGR during the forecast period, owing to increasing aircraft deliveries and rising passenger traffic in this region. This report also concludes that China is expected to be the major market in the region, owing to the reforms in their regulations and policies, innovative business models, and the development of aircraft with new technologies.
+ 
+
+1. | Aviation Industry 
+---+-----------------------------------------------------------
+
+ 
+There are currently more than 23,000 commercial aircraft flying globally, a number that has been expected to more than double in the next 20 years. Both Airbus and Boeing have estimated that the global fleet of commercial aircraft will increase from 23,000 planes in 2019 to more than 50,000 in 2038, according to their respective reports of 2019 “Global Market Forecast report 2019 – 2038” and “Commercial Market Outlook 2019 – 2038.” The Global Market Forecast report 2019 – 2038 predicts that the increase will include 30% for aircraft replacement and 70% for growth, with Asia-Pacific accounting for 42% of deliveries.
+ 
+
+Source: Airbus Global Market Forecast report 2019 – 2038” | Source: Boeing “Commercial Market Outlook 2019 – 2038” 
+
+ 
+Passenger numbers have also been experiencing strong growth. The International Air Transport Association (IATA) has predicted that passenger numbers could double to 8.2 billion by 2037, according to the latest update of IATA’s “20-Year Air Passenger Forecast.” During the next two decades, the forecast anticipates a 3.5% compound annual growth rate (CAGR), leading to a doubling in passenger numbers from today’s levels. The continued strong growth, IATA concluded, has been driven by an eastward shift in the aviation industry’s center of gravity, as more than half of the total number of new passengers in the next 20 years will come from the Asia Pacific region.
+ 
+
+2. | In-Flight Entertainment and Connectivity 
+---+----------------------------------------------------------------------------------
+
+ 
+Recently, there have been more than 4 billion passengers flying globally annually spread across 23,000 airplanes. Only approximately 25% of these airplanes are equipped to offer some form of onboard connectivity with sometimes erratic quality, slow speeds and low broadband.
+ 
+WiFi is everywhere, from cafes to bus stops, trains to airports, and it’s a service that travelers and consumers value highly. Airline passengers’ expectations for connectivity available while flying are very much set by their experience of connectivity on the ground where they expect constant access to WiFi. Unfortunately, in-flight WiFi can still feel like a luxury and passengers eagerly await free connectivity options onboard. As airlines are learning how integral in-flight WiFi affects the quality of a customer’s flying experience, adding WiFi is just the start. As part of a general industry-wide push, airlines that offer onboard in-flight WiFi are now working towards making it better, faster, and cheaper.
+ 
+A study issued in April 2018 by luxury travel consultants Lets Fly Cheaper reveals that as of the date of that study only a few airlines were offering free in-flight WiFi. These airlines include Aer Lingus, Emirates, JetBlue, Norwegian, Air China, Philippine Airlines, Nok Air and Vueling. Some of these airline offerings, however, come with certain limitations such as being offered free for business passengers only or limited to the amount of data that can be downloaded. See the related map below provided by Lets Fly Cheaper.
+ 
+
+
+
+1 | Grand View Research, In-flight Entertainment & Connectivity Market Analysis Report by Offering Type (IFE, IFC), By Component (Hardware, Connectivity, Content), By Aircraft Type, By Region, And Segment Forecast, 2019 – 2025. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+
+Currently, less than 25% of the world’s airline companies are providing some form of in-flight WiFi services through third-party providers. We believe that there is a huge market potential among the remaining unconnected airlines.
+ 
+According to the Boeing Report titled “Commercial Market Outlook 2019 – 2038,” it has been projected that by the end of 2030, two-thirds of the world’s aircraft fleet will have some form of connectivity, whether through retrofit or line fit at production stage. Currently, the majority of connectivity upgrades are being done through aircraft modification as in-service aircraft are outfitted with new and high-speed systems. It is estimated that more than one thousand commercial aircraft are being upgraded annually. Eventually, more airplanes will be delivered from the production line with connectivity installed. However, whether aircraft connectivity is being carried out as a retrofit, or built into the initial aircraft production line, the evolution of IEC technology shows that the demand for connectivity is increasing.
+ 
+The Internet of Things (IOT) will also be an important enabler, to link in real time not only passenger, but also core cabin components, including aircraft galleys, meal trolleys and other cabin elements. These IOT enhancements will allow simultaneous data exchange for the crew of an aircraft throughout the cabin.
+ 
+Furthermore, airlines will be able to use increased cabin connectivity to perform predictive maintenance analytics over their entire fleet, thus improving the overall cabin service reliability, quality and performance on board all of their aircraft.
+ 
+On 26 September 2017, a new research study, Sky High Economics: Quantifying the commercial opportunities of passenger connectivity for the global airline industry, was published by the London School of Economics and Political Science (LSE) in association with global satellite communication specialists Inmarsat. This report predicted that in-flight broadband services have the potential to generate up to $30 billion in additional revenue for airlines by 2035.
+ 
+4
+
+ 
+
+
+
+Source: | London School of Economics and Political Science (LSE), Sky High Economics: Quantifying the commercial opportunities of passenger connectivity for the global airline industry. 
+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The report based its findings on an independent forecasting model based on then current IATA passenger traffic data and forecasts of growth. The report predicted that, by 2035, there would be a near doubling of annual passenger numbers to 7.2 billion increasing to 7.8 billion in 2036 and 8.2 billion in 2037. The “Sky High Economics” report forecast that broadband-enabled ancillary revenue for airlines would reach an estimated $30 billion by 2035 (a figure higher that IATA’s projections for the profitability of the global airline industry in 2017). According to the report, it was projected that this expected revenue growth would create a wider overall market of $130 billion for content providers, retail goods suppliers, hotel and car suppliers and advertisers.
+ 
+
+Source: | London School of Economics (LSE), Sky High Economics: Quantifying the commercial opportunities of passenger connectivity for the global airline industry. A strategic overview. 
+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Sky High Economics report looks at six key regions: Asia Pacific, Europe, North America, Africa, Middle East and Latin America. Of these, the greatest potential for broadband-enabled ancillary services is expected to come from the Asia Pacific region - which has been expected to be the fastest growing aviation sector over the next 20 years. Airlines in Asia Pacific are predicted to benefit from $10.3bn of ancillary revenues by 2035, followed by Europe ($8.2bn), North America ($7.6bn), Latin America ($1.9bn), Middle East ($1.3bn) and Africa ($0.58bn).
+ 
+5
+
+ 
+
+Our IFEC Solutions
+ 
+Aviation
+ 
+Demand for high-speed internet connectivity on board passenger aircraft has been increasing worldwide. With our advanced technologies and a creative business model, we plan to provide airline passengers with a broadband in-flight experience that encompasses a wide range of service options. Such options include Wi-Fi, cellular, movies, gaming, live TV, and music. We plan to offer these core services through both built-in in-flight entertainment systems, such as a seat-back display, as well as on passengers’ personal devices including laptops, mobile telephones and tablets. We also plan to provide content management services and e-commerce solutions related to our IFEC solutions. This system will operate through Ka/Ka high throughput satellites, or HTSs.
+ 
+The diagram below shows Aircom’s planned services options and e-commerce options.
+ 
+
+We also plan to provide related content management services and on-board e-commerce solutions for commercial airlines. We expect that a complete e-commerce and mobile entertainment platform will place control of content, service delivery and commercial strategy firmly in Aircom’s hands vis a vis the airlines that may acquire our IFEC products and services. Our in-flight e-commerce solution will encompass on-line shopping, trading, travel options and duty-free sales, as well as other varied product offerings.
+ 
+We have two business models in place for our approach to the IFEC aviation market, one relating to commercial airlines and one to corporate business jets:
+ 
+
+1. | Commercial Airlines 
+---+------------------------
+
+ 
+Traditionally, providers of in-flight connectivity have focused primarily on the profit margin derived from the sale of hardware to airlines and of bandwidth to passengers. Both airlines and passengers must “pay to play,” which results in low participation and usage rates.
+ 
+We break away from this model and expect to set a new trend with our creative business approach which, we believe, will set us apart from our competitors by our partnering with airlines and other strategic partners, such as online advertisers and content providers, to offer commercial airlines our IFEC system hardware at no cost and to airline passengers free connectivity solutions. Airlines will potentially be able to generate new revenues through participating in our revenue sharing model while passengers will not be required to pay for connectivity. We believe that, taken together, this novel approach will create an incentive for airlines to work with us, and this collaboration should act to drive up passenger usage rates. We believe that this is an innovative approach that will differentiate us from most existing market players. We currently have an agreement in place with our first commercial airliner customer, Hong Kong Airlines (discussed below).
+ 
+Our main source of revenue is expected to be derived from the content channeled through our IFEC network from selected partners including internet companies, content providers, advertisers, telecom service providers, e-commerce participants, and premium sponsors. In other words, we plan to use connectivity as a tool rather than as a commodity for sale, which we believe will allow us to achieve a greater return. By providing free connectivity which, we expect, will result in the generation of a large volume of content traffic, we believe that we will create a multiplying effect that will result in a value that exceeds the “sum of its parts.”
+ 
+Once our Aerkomm K++ system is approved by Airbus and receives the applicable airworthiness certifications, which process we expect to be completed in the beginning of second quarter of 2021, as further discussed below, we will begin providing our Aerkomm K++ systems for installation on commercial airline aircraft.
+ 
+6
+
+ 
+
+
+2. | Corporate Jet Customers 
+---+----------------------------
+
+ 
+There is also a strong demand by corporate jet owners to have high-speed internet connectivity installed on their aircraft. However, corporate jet customers would not generate sufficient internet traffic to make a free-service business model profitable for us.
+ 
+Consequently, to capitalize on this additional market, we plan to sell our IFEC system hardware to corporate jet owners through the Airbus Corporate Jets (ACJ) and Boeing Business Jets (BBJ) programs. In addition to selling our IFEC systems equipment, we will also sell these corporate jet aircraft owners the bandwidth required for the operation of our services, priced on a subscription plan basis. This business model would generate revenue and income directly from the sale of our IFEC hardware and related bandwidth. We already have an agreement in place with our first corporate jet and launch customer, MJet GMBH (discussed below), and we are in advanced discussion with a number of additional potential customers both directly through our corporate network and through Airbus. We cannot give any assurances at this time, however, that we will be able to successfully complete any of these additional discussions.
+ 
+Once our Aerkomm K++ system is approved by Airbus and receives the applicable airworthiness certifications, which process we expect to be completed during the fourth quarter of 2020, we will begin selling our Aerkomm K++ systems for installation on Airbus ACJ aircraft.
+ 
+Aircom Pacific, at Airbus’ invitation, attended the Airbus ACJ Customer Forum which was held in Singapore in February 2019. This Airbus ACJ Customer Forum provided Aircom a unique opportunity to network with ACJ customers, operators and key industry players within the Airbus Corporate Jet community. At the Airbus ACJ Customer Forum, Aircom was provided the opportunity to demonstrate the Aerkomm K++ system. A number of ACJ clients at the Airbus ACJ Customer Forum showed interest in our IFEC product offering and we are currently in active discussions with these parties. We expect to participate in future Airbus ACJ Customer Forums to be scheduled in the future in one or more European venues.
+ 
+Our Connectivity Solutions
+ 
+We expect to bring connectivity on-board to aircraft through communication satellites. As depicted in the diagram below, aircraft equipped with an on-board connectivity system can communicate with a satellite via an airborne antenna. The satellite then relays the information to a ground station, which is equipped with a high-power satellite dish and is connected to the Internet through our proprietary ground system.
+ 
+Most in-flight connectivity systems currently in the market rely on the Ku-band satellite signals for communication. Many players in the market are working to provide higher bandwidth and faster transmitting rates using the Ka-band. Currently, there are few Ka-enabled satellites, which limits the coverage area in certain areas of the Asia-Pacific region. However, new GEO (Geostationary Earth Orbiting) and LEO (Low Earth Orbiting) Ka-band satellites are being regularly launched and this increase in satellites is expected to provide worldwide coverage within the next few years.
+ 
+Our Aerkomm K++ system architecture will bring our aviation partners and their passengers the benefits of both GEO and LEO Ka-band satellite technology. GEO satellites may scan a hemisphere of earth, or fixed regions of that hemisphere at regular intervals. Performance of GEO satellites diminishes greatly in the areas near the Earth’s poles. LEO satellites orbit the earth from pole to pole and collect data from the areas beneath them. Only LEO satellites can collect high quality data over the poles. The Ka-band satellite increases data throughput. Aircom plans to have the necessary technology ready to take advantage of this new trend in Ka-band aviation connectivity. Future SpaceX, One Web and Telesat satellites are expected to be ready by end of 2022 and with full-service availability by 2023. As of March 1, 2020, Space X has launched 302 Starlink satellites targeting service in the Northern US and Canada, and expects to expand to near-global coverage by 2021. OneWeb Satellites, which is a joint venture between Airbus and OneWeb, is on track to provide global services by 2021. The first six satellites of the OneWeb constellation were launched in February 2019 and the first large batch of satellites was launched in February 2020. Telesat, which is a privately held Canadian company, launched a test satellite in 2018. By 2022, Telesat will have the Northern and Southern hemispheres covered and full global service by 2023.
+ 
+7
+
+ 
+
+The chart below depicts the coverage of both GEO and LEO Ka-band satellites.
+ 
+Source: Aircom
+ 
+The Ku-band offers reliable service outside of the Ka-band coverage over the ocean and in mountainous regions which is aimed to cover hotels and resorts remotely located as well as the maritime sector. The Ku-band also supports the OneWeb LEO satellite systems.
+ 
+The map below shows areas of satellite coverage that could potentially be served by Aircom’s IFEC product offering.
+ 
+Source: Aircom
+ 
+We are actively working with other satellite providers in order to accommodate global airline routes and growing fleets. We are monitoring the satellite industry for growth in coverage, including China Satcom’s plan to launch high-capacity Ka-band and Ka HTS multispot-beam satellites over the Asia-Pacific region, as described in more detail below under Ku-band and GEO/LEO Hybrid Satellite Technology
+ 
+In March 2017, we entered into a Master Service Agreement with SKY Perfect JSAT Corporation of Japan for use of its JCSAT-2B/Asia Beam Ku-band satellite telecommunication services, teleport services and housing services. The agreement’s initial term runs for a period of three years from its commencement date of April 15, 2017, subject to the receipt of all governmental licenses and approvals, and will continue to be effective provided any of the services continue after the initial three-year term. We were required to prepay $285,300 of the contract price and a security deposit plus applicable Japanese consumption taxes upon the commencement date of the agreement. Under this agreement, we are able to test the connectivity equipment that we have been developing for ground and maritime uses.
+ 
+8
+
+ 
+
+Our Aerkomm K++ system
+ 
+Our proprietary IFEC system, which is called the AERKOMM K++ system, will contain an ultra-low profile radome containing two Ka-band antennas, one for transmitting and the other for receiving, and will comply with ARINC 791 standard of Aeronautical Radio, Incorporated, or ARINC and meets Airbus Design Organisation Approval.
+Our Content Solutions
+ 
+Traditionally, airlines view in-flight entertainment content as a budgeted expense for which they have to pay hefty royalties. With our business model and technologies, we expect to be able to transform in-flight entertainment into a source of ancillary revenue for our airline customers. We will team up with our current and future prospective airline customers to provide them with our Aerkomm K++ hardware system at no cost and with free onboard Wi-Fi connectivity services to passengers, which will allow us to maintain data traffic control, specifically in terms of blocking or placing advertisements as needed and inserting targeted commercials.
+Premium Content Sponsorship
+ 
+Recently, merchants have begun to take advantage of in-flight connectivity. In May of 2015, Amazon announced its plan to sponsor free video and music streaming for its Prime Video subscribers onboard JetBlue’s planes. The Amazon and JetBlue partnership is a paradigm of a win-win affiliation between an Internet powerhouse and a provider of in-flight connectivity. Amazon gained a platform through which it could display its premium subscription services and expanded its distribution network, while JetBlue generated significant revenue simply by making its in-flight connectivity available to Amazon.
+ 
+The Amazon-JetBlue partnership is only one of many examples whereby an Internet company can improve its reach by gaining access to in-flight connectivity. We seek to exemplify this type of relationship through collaboration with major Internet companies, such as search engine companies. We plan to promote a partner’s brand through our in-flight services by channeling all searches to the partner’s search engine. By designing our user interface around the partnered company, we can present passengers with an on-screen environment populated by the partner’s apps, logos, and colors, providing a powerful marketing tool for the partner company. We can also enhance recognition of our sponsors’ brands by creating a list of portals on the in-flight system’s home screen, which lead to each sponsor’s individual page where passengers can resume their normal entertainment, social, and professional activities.
+ 
+We are actively in discussions with Internet content providers to establish such premium sponsorships.
+ 
+Live TV
+ 
+We are negotiating with television providers along our prospective airline partners’ flight routes to make live TV available through our IFEC system. Airlines will be able to select live TV channels that are appropriate for each flight route. An electronic program guide channel listing will be available for easy viewing and selection.
+ 
+Several revenue sources will be available for live TV broadcasting, including commercials before and during programs, and banners at the bottom of the screen. Banner advertisements at the bottom of the screen can be interactive, which should generate pay per click, or PPC, or cost per click, or CPC, revenue in addition to the lower priced cost per thousand impressions, or CPM, revenue. In addition, we should be able to receive sponsorship premiums from select TV programs, such as pay-per-view and shopping channels.
+ 
+Social Media and Instant Messaging: Content Management
+ 
+We will have firewalls in place both on the ground and in the air. These, in combination with our policy enforcement software, will allow us to filter, classify, block, or forward services in accordance with our service and quality policies. We will be able to control the flow of traffic for each individual application, enabling us to use a white list model through which social media and instant messaging partners can provide their users with onboard access by paying an annual or other periodic fee.
+ 
+We are in active discussions with Line, WeChat, WhatsApp, and other social media partners regarding an annual premium fee in exchange for user access to their applications and services during air travel. The access to other networks may be limited to a single direction or blocked entirely. For example, we could allow the users of a non-paying instant message service to receive, but not send, instant messages. When a user tries to respond to a received message, the system would present a pop-up message encouraging the user to urge the service provider to enter into a relationship with us.
+ 
+Airlines will be able to select movies, videos, and other content for their passengers through our content management system. The management system will tailor content suggestions according to the flight route and destination and automatically upload selected content to an onboard server while the aircraft is on the ground. This creates a cache that allows in-flight viewing in areas with limited or no satellite bandwidth connectivity. For premium content, we may maintain a live connection with providers’ networks for accounting and digital rights management purposes.
+ 
+9
+
+ 
+
+Video/Content on Demand
+ 
+Content that is available to passengers for free will generate advertising-based revenue through commercials before and during programming, as well as through banners advertisements. Passengers will be able to choose to pay for premium content, such as first-run movies, where available. For programming of all types, our partnered advertising agents will be able to integrate appropriate and effective advertisements targeted to the viewer. Prior to the start of any program, users will be required to view a commercial with a length determined by the duration of the selected program. Passengers will not be able to skip or close this commercial without closing out of the program. We will be able to place similar advertisements before games or radio programs and during online duty-free shopping.
+ 
+Frequent flyer passengers will be able to purchase a premium package to allow access to unlimited movies, games, and other entertainment contents with no layered advertising. These packages will include day, trip, monthly, and annual based membership options.
+ 
+Search Engine
+ 
+In this information age, people often refer to the Internet for information, yet few individuals are aware that every Internet search they perform generates revenue for the search engine company. Search engine providers, such as Google, Bing, and Yahoo, sell keywords, page ranking in search results, advertisement placement, and other related services. The revenue generated by a search engine fluctuates in relation to its volume of activity. We plan to manage search engines on a white list basis, which means that the in-flight connectivity system will only permit the passage of traffic to and from approved search engines. If a passenger performs a search on a search engine that is not partnered with us, the search will be redirected to one that is.
+ 
+We plan to enter into agreements with search engine partners to share the revenue generated from passengers’ searches. As discussed under “Premium Content Sponsorship” above, we may grant exclusivity to a particular search engine provider that is a premium sponsor. Such exclusivity may be specific to certain airlines or routes.
+ 
+Internet Advertising Replacement
+ 
+In Internet traffic, more than 50% of the bandwidth that passes through satellites is consumed by advertisements in the data stream. In order to streamline bandwidth usage, our ground system will detect advertisements from a webpage and replaces them with advertisements from our advertisers or partners. We will work with Internet advertisers to present advertisements that are relevant to passengers’ interests. This system will enable our partners to place their advertisements accordingly and generate revenue for them and us. Advertisers can offer destination-specific commercials and banners, which can be placed in our in-flight entertainment system and in apps and portals on personal devices. By utilizing commercial agents to sell ad space on our systems, we plan to cover all marketable areas, expanding sales opportunities and increasing revenue.
+ 
+With online advertisement utilizing both CPM and CPC models, we will be able to capitalize on virtually all available ad space and work with any advertising partner.
+ 
+Online/Streaming Gaming
+ 
+We plan to make it possible to stream console-quality games in the airline cabin. Through gaming content partnerships, we expect to be able to offer PlayStation, Xbox, and other console games. Passengers will be able to play popular games from their personal devices or in-flight entertainment systems, invite friends to play over the network, and save their gaming data for continued play on the ground. It will require high speed networks to play these interactive action games and we expect to be able to provide the services necessary for the functioning of these interactive games. Our online gaming service will bring our passengers a gaming experience never seen before. We expect to generate revenue from advertisements, including banners and commercials, and from fees for premium games or sales of access passes.
+ 
+Telecommunications Text Messaging Services
+ 
+Through strategic partnerships with telecommunication providers, we plan to allow passengers to use 4G messaging services while in flight. Our in-flight system is designed to detect whether a passenger is using one of our partner carrier’s network and will deliver or block messages to and from a passenger’s mobile phone accordingly. For those using a non-partner’s network, the system will urge the passenger to request that their service provider join our network. Passengers will also be able to purchase a premium package to enable text message services.
+ 
+Destination-Based Services
+ 
+With flight route and passenger information, we expect that our partners will be able to offer destination-specific merchandise and services, including hotel and rental car bookings, transportation arrangements, restaurant reservations, local tours, ticket purchases, and travel insurance. By partnering with service partners in the region, we plan to share the transaction-based revenue on a fixed dollar amount or percentage of transaction basis.
+ 
+In-flight Trading and e-Commerce
+ 
+We have found that in-flight connectivity through our AERKOMM K++ system will allow travelers to make better use of their travel time. With uninterrupted broadband available onboard, passengers will be able to conduct business with professionalism and ease. For example, we plan to partner with trading partners who are registered with the various regulatory authorities to offer financial product trading services and we expect to charge a processing fee when a passenger conducts a trade in-flight. Additionally, a complete e-commerce platform made available through the AERKOMM K++ system will enable travelers to engage in unlimited on-line shopping, to make travel arrangements including holiday destinations, hotel bookings and car rentals and to complete duty-free purchases, among other options.
+ 
+10
+
+ 
+
+Black Box Live
+ 
+For reasons of flight safety, a flight recorder, commonly known as a “black box”, is legally required on every aircraft of a certain size. The Flight Data Recorder (FDR) records data with respect to various metrics of the flight and stores the data on a magnetic tape or solid-state disk with special coding. After retrieving the relevant information from the device, an individual can decode the data and learn what the aircraft encountered during the flight. This makes it possible to determine the potential causes of an accident. When the black box is needed, the aircraft has likely suffered an accident. A massive impact or explosion accompanies most airplane crashes, thus requiring the flight recorder to be shockproof and fire resistant. As a number of aviation accidents happen over oceans, the flight recorder must also be waterproof and corrosion-resistant to avoid being damaged by salt water. Despite advancements in flight recorder design and the continual improvement of the strength of materials used in manufacturing flight recorders, records show that a large number of flight recorders are damaged and unreadable following accidents, if not lost altogether. For this reason, effective, real-time storage and transmission of in-flight data is beneficial for deducing the cause of aviation crashes and preventing them from happening again.
+ 
+In March 2019, the aviation authorities around the world grounded the Boeing B737 MAX passenger airplane global fleet. This occurred after two new Boeing B737 MAX passenger airplanes crashed within 5 months of each other with fatal consequences. The first aircraft which crashed on October 29, 2018 belonged to Lion Air and the second aircraft which crashed on March 10, 2019 belonged to Ethiopian Airlines. The U.S. Federal Aviation Administration (FAA) and other worldwide aviation authorities worked in coordination to determine the cause of the crashes before issuing additional guidance. Before the causes could be determined, and within 24 hours of the Ethiopian Airlines crash, however, worldwide aviation authorities and operators began banning MAX flight operations. Although the minimal aircraft flight data available from the Ethiopian Airlines crash was not sufficient to link it to the Lion Air crash, there has been pressure from the aviation authorities and the airline operators to implement protective measures. The Boeing B737 MAX fleet was grounded more than two full days before the Ethiopian Airlines’ FDR information was downloaded. 
+ 
+A path to a flight data retrieval solution has been initiated based on work that stems from the two earlier major accidents. The first case is the disappearance of the Malaysia Airlines Boeing B777 aircraft Flight 370 in March 2014. To-date, neither the aircraft nor the flight data recorder has been recovered and thus the case remains one of the biggest mysteries in aviation. The second case is an Air France Airbus A330 aircraft Flight 447 from Brazil to France which crashed in the Atlantic Ocean in June 2009. Although the major wreckage of this aircraft was found within 5 days of the accident, the initial investigation by the French aviation authorities was hampered because the aircraft’s flight recorders were not recovered from the ocean until May 2011, nearly two years later.
+ 
+The most widely discussed resulting changes from those two accidents are new International Civil Aviation Organization (ICAO) standards for tracking aircraft, included in Amendment 40 to ICAO Annex 6. However, Amendment 40 includes another element that could ultimately prove to be more useful: timely access to flight data. Airlines could meet the ICAO standard, which goes into effect in 2021, by streaming FDR data while in flight. Providers of the necessary hardware, software and communications services are teaming up to offer timely flight data solutions to operators.
+ 
+With our new product, Black Box Live, we expect to be able to provide a system of real-time flight information back-up and streaming which will be aimed at advancing flight safety. Under strict security measures, this new product is being designed and engineered to securely stream flight data and crewmembers’ cockpit voice records to our cloud-based storage solution for airlines and authorized individuals to access and monitor. Black Box Live is in the early stages of development and, at this time, we cannot assure you when this product will reach market, if at all.
+ 
+Other Markets (Remote Locations and Maritime)
+ 
+In addition to our focus on IFEC systems for aircraft, we have begun to develop related internet connectivity systems for other markets and applications. In this regard, we have already developed two connectivity systems, one for hotels, primarily for remote locations, and one for maritime use. Both systems operate through the Ku/Ku HTSs (high throughput satellites).
+ 
+The Ku-band offers reliable service outside of the Ka-band coverage over the ocean and in mountainous regions and is aimed to cover remotely located hotels and resorts as well as the maritime sector. The Ku-band also supports the OneWeb and other LEO satellite constellation systems.
+ 
+In these additional markets:
+ 
+
+i. | We have already made limited sales of our connectivity solutions to hotels/resorts in remote areas. Additionally, we plan to sell our equipment to hotels and resorts located in remote ocean areas and mountain regions. We also plan to sell the bandwidth required through which to operate these systems, priced on a subscription plan basis. 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ii. | We plan to begin selling our connectivity solutions to maritime vessels such as cruise liners, fishing vessels, ferry boats and yachts. We plan to sell our equipment to these categories of vessels as well as the bandwidth required through which these systems operate, priced on a subscription plan basis. 
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We are currently in the customer demonstration stage in the East Asia market with our maritime satellite communications equipment and services.
+ 
+11
+
+ 
+
+The picture below depicts Aircom’s current maritime antenna.
+ 
+
+We cannot be sure at this time that we will be successful marketing this product offering for remote locations and maritime use.
+ 
+Satellite Ground Stations and Data Centers
+ 
+We plan to build a satellite ground station and a data center in Asia region to support our operations in that region.
+ 
+A ground station’s main purpose is to establish telecommunication links with satellites.  The ground station will house satellite antennae and other communication equipment.  Satellite antennas must be located within the coverage of the satellites being used.  Ground station satellite antennas are substantial in size, generally between 20 to 30 feet (7 to 9 meters) in diameter.  As we expand our operation, we expect to have multiple dish antennas connecting to various satellites.  Due to the strong electromagnetic radiation emitted by the antennas, a satellite ground station must be located in rural or industrial areas and it requires a substantial setback zone around the ground station. 
+ 
+Since our IFEC business model will require collecting and processing large amounts of data, it will be beneficial for us to have access to a high capacity data center for the storage and processing of big data.  Such a data center should be built within the same region of, and close to, the ground station, because of synergies and technical advantages such as shorter network latency and cost savings in ground links between the ground station and data center. We expect that building our own satellite ground stations and data centers will, in the long run, create economic efficiencies and operational independence. 
+ 
+On July 10, 2018, we entered into a real estate sales contract with Tsai Ming-Yin, as seller, and Sunty Development Co., Ltd., as trustee, pursuant to which the parties agreed to definitive terms and conditions relating to the acquisition by Aerkomm Taiwan of a parcel of land located at the Taishui Grottoes in the Xinyi District of Keelung City, Taiwan. The parcel consists of approximately 6.36 acres of undeveloped land and is expected to be used by us to build our first satellite ground station and data center. We completed payment of the purchase price for the Taiwan land parcel in July 2019 and and our agent has received all of the necessary title transfer documentation from the seller. According to land use law of Taiwan, we need to submit a usage plan and to obtain the necessary license or authorization for the intended usage before we can obtain an official certificate of title. Once we receive the certificate of title for the Taiwan land parcel, we expect to be able to mortgage the property to borrow the funds we will need to build the ground station. Aerkomm Taiwan is currently preparing the plan of usage and is working with various regulatory authorities to obtain the necessary license and approval to meet the local land use law requirements. We do not know at this time how long it will take to complete the process and receive the certificate of title to the parcel.
+
+
+Additionally, we have signed a binding memorandum of understanding with a Samoa based telecom company to lease the Taiwan land parcel, once title has been transferred to us, for a period of five years at an expected rental income to us of approximately $2.3 million per year. This telecom company plans to build a separate satellite ground station and data center on the parcel and we may lease back a portion of the land to build our own satellite ground station and data center if and when we have sufficient funds to do so. The five-year lease, if it is consummated, would provide us with additional working capital to supplement the funds that we raised in our 2018/2019 public offering, to help us further our core corporate development efforts.
+ 
+There can be no assurance that we will be able to successfully complete the land lease arrangements with the Samoa based telecom company or otherwise finance and build our planned satellite ground station and data center or that we will be able cover the various costs, including but not limited to property taxes, to maintain the Taiwan land parcel.
+ 
+12
+
+ 
+
+Our Contracts with Airline Partners
+ 
+Airbus SAS
+ 
+On November 30, 2018, in furtherance of a memorandum of understanding signed in March 2018, Aircom entered into an agreement with Airbus SAS, or Airbus, pursuant to which Airbus will develop and certify a complete retrofit solution allowing the installation of our “AERKOMM K++” system on Airbus’ single aisle aircraft family including the Airbus A319/320/321, for both Current Engine Option (CEO) and New Engine Option (NEO) models. We expect to expand our agreement with Airbus to include other Airbus models including the Airbus A330, A340, A350 and A380 series. Airbus will apply for and obtain on our behalf a Supplemental Type Certificate (STC) from the European Aviation Safety Agency, or EASA, as well as from the U.S. Federal Aviation Administration or FAA, for the retrofit AERKOMM K++ system. It is anticipated that the Bilateral Aviation Safety Agreement between EASA and the Civil Aviation Administration of China, or CAAC, will be finalized and go into effect sometime in 2020. If the Bilateral Agreement is finalized in its present form, the STC approved by EASA will automatically be accepted by CAAC. This would significantly reduce the cost and time required for us to launch our business with China based customers.
+ 
+Pursuant to the terms of our Airbus agreement, Airbus agreed to provide Aircom with the retrofit solution which will include the Service Bulletin and the material kits including the update of technical and operating manuals pertaining to the aircraft and provision of aircraft configuration control. The timeframe for the completion and testing of this retrofit solution, including the certification, is approximate 16 months from the purchase order issued in August 2018, although there is no guarantee that the project will be successfully completed in the projected timeframe. Once the project is completed, Aircom, or Airbus on behalf of Aircom, will be able to commence installation of the AERKOMM K++ system on aircraft in the second quarter of 2021.
+ 
+A number of airlines, and in particular aircraft lessors, will accept only Service Bulletins issued by the aircraft manufacturers for the retrofit installation of any system on board their aircraft. Our agreement with Airbus ensures that our system will meet this requirement for aircraft lessors who intend to purchase Airbus aircraft, although it does not guarantee that airlines or aircraft lessors will purchase our AERKOMM K++ system.
+ 
+Hong Kong Airlines
+ 
+In June 2015, we entered into a master agreement with Hong Kong Airlines Limited, or Hong Kong Airlines, to install IFEC systems on-board their aircraft. Also party to this agreement is Klingon Aerospace, Inc., or Klingon, our product development partner and value-added reseller in the region where Hong Kong Airlines operates. Daniel Shih, our co-founder, was Chairman of Klingon from February 2015 to February 2016, and Peter Chiou, our former Chairman, Chief Executive Officer and President, was Chief Executive Officer and President of Klingon from March 2015 through April 2016, prior to his joining our company in February 2017. A Memorandum of Understanding, or the HKA MOU, was also signed with Hong Kong Airlines in July 2015 in order to assist Aircom to develop its AERKOMM AirCinema system, which is a wireless seat back screen entertainment system with on-line capability.
+ 
+On January 30, 2020, further to the master agreement with Hong Kong Airlines and the HKA MOU, Aircom signed an agreement with Hong Kong Airlines to provide to Hong Kong Airlines both of its Aerkomm AirCinema and AERKOMM K++ IFEC solutions. This agreement does not include Klingon as a party and Klingon is no longer involved in our contractual relationship with Hong Kong Airlines.
+ 
+Under the terms of this new agreement, Aircom will provide its Ka-band AERKOMM K++ IFEC system for installation on Hong Kong Airlines’ fleet of 12 Airbus A320 and 5 Airbus A330-300 aircraft as well as its AERKOMM AirCinema system for the Hong Kong Airlines Airbus A320 aircraft. Hong Kong Airlines will become the first commercial airliner launch customer for Aircom.
+ 
+The AERKOMM AirCinema system, which Aircom is designing and implementing specifically for Hong Kong Airlines, will introduce free high-speed internet access to the seat back screens of Hong Kong Airlines’ Airbus A320 aircraft, connected via the Ka-band AERKOMM K++ IFEC system. Instead of the traditionally preloaded and fixed selection of in-flight entertainment, passengers will have access to high-speed internet steaming services for videos, music, live TV and social media. Aircom and Hong Kong Airlines will work closely together to develop the AERKOMM AirCinema system, thus making Hong Kong Airlines the launch customer for this innovative solution.
+ 
+The AERKOMM K++ IFEC system will also provide passengers of Hong Kong Airlines with an “at home” network experience by giving free access to on-board WiFi internet connectivity to all passenger personal devices, including laptops, mobile phones and tablets. The AERKOMM K++ system will be ready “future-proof” and compatible with the next generation of satellite technologies. This system will also provide passengers of Hong Kong Airlines with access to e-commerce amenities, such as In-Flight shopping and travel services. Details and terms about the services to be provided via the AERKOMM K++ system is being actively discussed by Aircom and Hong Kong Airlines and will be set forth in one or more service level agreements to be entered into by the parties.
+ 
+In order to install the AERKOMM K++ system on the Hong Kong Airlines aircraft, we will have to obtain local approval for the AERKOMM K++ system from the Hong Kong Civil Aviation (HKCAD). This HKCAD local approval will be based on our obtaining the Airbus Service Bulletin, which we expect to receive from Airbus, together with EASA certification, by sometime in the fourth quarter 2020. Once we receive the Airbus Service Bulletin and the EASA certification, jointly with the support of Airbus, we will be able to apply to the HKCAD for the required local approval.
+ 
+Other Airline Partners and Business Jets Customers
+ 
+We are actively working with prospective airline customers to provide them with the Airbus to-be-certified AERKOMM K++ system.
+ 
+We have entered into non-binding memoranda of understanding, or MOUs, with a number of airlines, including Air Malta of Malta which owns a fleet of 12 Airbus A320 aircraft, and Onur Air of Turkey with a fleet of 14 Airbus A320 aircraft. There can be no assurances, however, that these MOUs will lead to actual purchase agreements.
+ 
+13
+
+ 
+
+Currently, we are finalizing MOUs with the following airlines, although we cannot assure you that we will be able to finalize any of these agreements:
+ 
+
+Nouvelair Tunis: | Fleet of 6 Airbus A320 aircraft 
+-----------------------+-----------------------------------------------
+Tigerair Taiwan: | Fleet of 11 Airbus A320 
+Hong Kong Express: | Fleet of 13 Airbus A320 and 11 Airbus A321 
+
+ 
+We are in advanced active discussions with a number of major airlines in Europe, the Middle East and Asia, and we are confident, although we cannot guarantee, that we will be successful in signing MOUs with one or more of these companies. Additionally, we are close to signing a definitive agreement with a major airline company having a large fleet of aircraft; however, in view of a mutual non-disclosure agreement with this party, we cannot disclose the name at this stage, and we cannot guarantee that we will be successful in signing a definitive agreement with this company.
+
+In connection with the Airbus project, we have also identified owners of Airbus Corporate Jet, or ACJ, as potential customers of our AERKOMM K++ system. ACJ customers, however, would not generate enough internet traffic to make our free-service business model viable. To capitalize on this additional market, we plan to sell our AERKOMM K++ system hardware for installation on ACJ corporate jets and provide connectivity through subscription-based plans. This new corporate jet market could generate additional revenue and income for our company.
+ 
+As discussed below, we have entered into an agreement with MJet GMBH, an Airbus ACJ customer, and we are currently in advanced discussions with a number of additional ACJ customers, some of whom have more than one aircraft in their fleets.
+ 
+While, to date, we have been concentrating on Airbus customers in view of our existing agreement with Airbus, our current plan is to also begin marketing to Boeing aircraft customers and Boeing Business Jets (BBJ) customers, and we intend to acquire the necessary certification of our AERKOMM K++ system equipment for the different Boeing aircraft models, with a particular focus on the Boeing B737 aircraft family. We have already carried out discussions and negotiations with AKKA Technologies based in Toulouse France, which is a specialist aerospace and aviation design organization, for providing us with a Service Bulletin and Supplemental Type Certificate for the Boeing B737 family, including certification from EASA. We anticipate that we will sign an agreement with AKKA Technologies in the second quarter 2020, although we cannot guarantee this. Once an agreement is signed with AKKA, the project of developing the Service Bulleting and Supplemental Type Certificate for our AERKOMM K++ system equipment for the Boeing B737 family of aircraft and obtaining EASA certification for this aircraft line is expected to take approximately nine months.
+ 
+We plan to enter into business agreements with additional airline partners and corporate jet owners, which will allow our antenna equipment and/or entertainment services to be installed, and our services provided, on additional fleet aircraft. Under any such agreements, we expect that the airlines will commit to have our equipment installed on some or all of the aircraft they operate, and we will commit to provide passenger connectivity and/or entertainment services on such aircraft and to remit to the airlines a specified percentage of the revenue that we generate. We expect to have the exclusive right to provide Internet connectivity services on these aircraft throughout the term of the agreements we expect to enter into with such airline partners. Depending on the contract, installation and maintenance services may be performed by the airline under our supervision or sub-contracted to a maintenance repair organization, or MRO, mutually agreed upon by both Aircom and the airline. These agreements will also vary as to who pays for installation and maintenance of our AERKOMM K++ system. We cannot guarantee that we will be able to enter into any such additional agreements.
+ 
+Other Agreements and Understandings with Our Business Partners
+ 
+MJet GTA: On March 6, 2019, we signed a General Terms Agreement (GTA) with MJet GMBH, or MJet, a corporate jet owner operating an Airbus ACJ A319 based in Vienna, Austria. On June 11, 2019 we converted this GTA into a definitive agreement with MJet, and on June 12, 2019, MJet placed a first purchase order with Aircom. The purchase order provides for the provision, installation, testing and certification of our AERKOMM K++ system equipment, including the Airbus Service Bulletin and associated material kit and related connectivity services, on an MJet Airbus ACJ A319 aircraft under the supervision of Airbus. Assuming the installation, testing and certification of our AERKOMM K++ system on the MJet A319 is successful, something we cannot guarantee at this time, MJet will pay us a one-time fee for our equipment and a monthly fee for our connectivity services, and we will also begin charging MJet for the bandwidth required to use the AERKOMM K++ system services. Assuming the success of this installation, MJet will become the first recurring payment customer of our AERKOMM K++ system as well as being the launch customer of our Aerkomm K++ solution.
+ 
+Malta MOU: On February 23, 2018, Aircom entered into a nonbinding memorandum of understanding which we refer to as the Air Malta MOU, with Air Malta, a company organized under the laws of Malta, pursuant to which the parties intend to collaboratively market and provide their products and servers to passengers of the Malta-based airline fleet. Under the terms of the Air Malta MOU, the parties intend to develop, install and operate in-flight connectivity systems onboard the Malta-based airline fleet and provide related services to its passengers. Subject to finalizing the terms of the agreement, we anticipate that this MOU will be converted into a definitive agreement during the second quarter of 2020.
+ 
+Onurair MOU: On March 1, 2018, Aircom entered into a nonbinding memorandum of understanding, which we refer to as the Onurair MOU, with Onurair Tasimacilik A.S., a company organized under the laws of Turkey, pursuant to which the parties intend to collaboratively market and provide their products and services to passengers of the Turkey-based airline fleet. Under the terms of the Onurair MOU, the parties intend to develop, install and operate in-flight connectivity systems onboard the Turkey-based airline fleet and provide related services to its passengers. We cannot assure you, however, we will be able to enter into a definitive agreement with Onurair, or that the Onurair MOU will lead to any Aerkomm product sales.
+ 
+14
+
+ 
+
+Yahoo MOU: On January 19, 2016, Aircom entered into a nonbinding memorandum of understanding, which we refer to as the Yahoo MOU, with Yahoo! Hong Kong Limited, or Yahoo, pursuant to which, the parties intended to collaboratively market and provide their products and services to commercial airlines in Asia. Through its affiliates, Yahoo provides customers internet related services including software, content, communications, media and commerce services. According to the Yahoo MOU, Yahoo intended to use our IFEC system to provide in-flight services to its customers. In addition, the parties intended to collaborate on destination-based marketing and to develop a revenue-share scheme on the advertising revenue arising from the in-flight services. We expected that Yahoo would be the exclusive provider of pre-roll video ads on our AERKOMM K++ IFEC system in exchange for committed revenue from Yahoo. The parties further intended to collaborate and develop the necessary interface to support interaction and/or integration between our backend and each of Yahoo’s websites and Yahoo’s applications. All present and future intellectual property rights related to IFEC system were expected to solely belong to us or the third-party or third parties from whom we obtained the right of use. The Yahoo MOU had a term of two years and expired on January 19, 2018. Aircom expects to enter into discussions with Yahoo! Hong Kong to reinstate this MOU for an additional period of time, although there can be no assurances that it will be successful in these discussions. 
+Yuan Jiu Inc. MOU: On March 20, 2020, Aircom signed a nonbinding memorandum of understanding with Yuan Jiu Inc., or Yuan Jiu, a Taiwanese company, to form a partnership to pool together Aircom’s and Yuan Jiu’s resources in developing and manufacturing certain necessary equipment for Aerkomm IFEC systems. Under this memorandum of understanding, Yuan Jiu will supply capital to fund the development and purchase of AERKOMM K++, AirCinema and/or AirCinema Cube equipment for installation on aircraft of Aircom’s airline customers.  In return, Aircom will share the profits from services provided through such equipment installations. Aircom and Yuan Jiu will work together to finalize the detailed terms and conditions for the proposed business endeavor, however there can be no guarantee that the parties will be able to sign a definitive joint venture agreement. 
+ All of the above MOUs are nonbinding and, as a result, they only express the desires and understandings between the parties and do not create any legally binding rights, obligations or contracts except for certain customary provisions such as exclusivity, costs and expenses, confidentiality and governing law. Any binding obligation to proceed with the transactions contemplated by the MOUs would need to be included in a definitive agreement that is subject to negotiation by the parties, approvals by the board of directors of respective parties and in certain instances, approvals from regulatory authorities. There can be no assurance that we will be able to enter into such definitive agreements or receive the required governmental approvals, and there can be no assurances that any of the expired MOUs will be extended or renewed. If for whatever reason the transactions contemplated by the MOUs do not proceed, our results of operations and financial condition could be materially adversely affected. 
+ Product Development, Manufacturing, Installation and Maintenance 
+We plan to provide airline partners and corporate jet owners with the equipment necessary for in-flight connectivity, which will be installed by either the airline at their own maintenance facility or at an approved maintenance repair organization, or MRO, service provider mutually selected by Aircom and the airline. We will also provide training and technical support to each airline’s MRO for the installation of our equipment. Such support will also include technical, management, and operational support, with 24/7 network monitoring of the performance of each aircraft’s equipment once in operation.
+We will rely on third-party suppliers for equipment components that we will use to provide our services, including those discussed below. 
+ We will purchase our ground station equipment from Blue Topaz Consultants, Ltd., or BTC, under an agreement that we have with BTC dated December 15, 2015. Under the terms of this agreement, BTC will develop and provide to us four (4) sets of ground station hub equipment, or the Hub Equipment, for our use and sale into our Asian markets. We and BTC will separately enter into service agreements for the installation and maintenance of the Hub Equipment systems. We have agreed to pay BTC $6,205,216 for the first Hub Equipment system and have already made milestone payments to BTC totaling $3,250,000. The purchase price for the first Hub Equipment system was increased to $6,234,260 on November 30, 2016 due to the increase in cost of a system required software license. We will be required to pay BTC the balance of $2,984,260 owed on the first Hub Equipment system following delivery and service commencement of this system. We expect to install this Hub Equipment in the ground station that we intend to build on the parcel of land we have acquired in Taiwan, once we receive title to that land and can proceed with a related ground station financing arrangement. We cannot at this time estimate when this project will move forward or be completed.
+Transcoding
+The current mainstream video compression format is H.264, also known as MPEG-4 Advanced Video Coding. It is widely used in Blu-ray discs, online videos, web software, and HDTV broadcasts terrestrially and over cable and satellite. 
+ H.265, also known as High Efficiency Video Coding, is a newly developed video compression standard designed to replace H.264. It is capable of delivering H.264 video quality at half the bit rate. H.265 has several significant advantages over H.264, including better compression, higher image quality, and lower bandwidth usage. 
+ In our AERKOMM K++ system, we incorporate hardware-based, real-time technology that transcodes content from multiple streaming or broadcast input forms. We convert the content into H.265-encoded Internet protocol, or IP, streams, which reduces the amount of bandwidth required while enhancing the quality of the content. By deploying real-time transcoding technology in its ground and airborne systems, we enable live TV and video streaming in an IP format that, we expect, can optimize satellite bandwidth utilization and achieves cost-effective content delivery.
+Satellite Link Acceleration
+The most common transmission control protocols, or TCPs, used on the Internet have been designed for terrestrial wired networks. TCPs do not perform well in a long-delay satellite environment and may cause bad user experiences in web surfing and Internet access. Our satellite link acceleration technology improves TCP/IP-based data transmission over a satellite system through compression, deduplication (i.e., eliminating redundant information), caching, latency optimization, packet aggregation, and cross-layer enhancement. This technology includes end-to-end software in airborne systems and ground servers for cost effective application acceleration and optimization of live TV and video streaming. This combination of technologies makes airborne internet access and content access feel like fiber at home.
+15
+
+ 
+
+Our Competition 
+ 
+Our key competitors include Gogo Inc., which has the largest installed base in the IFEC market mainly via air-to-ground technology, L-band connectivity services which provide a passenger-paid system of connectivity solutions and wireless in-flight entertainment services, and Panasonic Avionics Corp., which provides IFEC hardware and solutions via L-band and Ku-band technology. Other competitors include ViaSat, Global Eagle Entertainment, Inc., OnAir and Thales/LiveTV, all of which provide different technologies and strategies to provide in-flight connectivity and/or entertainment. Regardless of the delivery mechanisms used by us or our competitors, the IFEC industry is expected to continue to face capacity constraints and unique technology challenges, which are expected to increase due to historically projected increased demand for in-flight Internet.
+ 
+We believe that the following competitive strengths enable us to compete effectively in and capitalize on the growing IFEC market.
+ 
+Creative business model. We believe that our business model sets us apart from most of our competitors. We combine cutting-edge connectivity technology with a creative content-driven approach. Traditionally, providers of in-flight connectivity have focused primarily on the profit margin derived from the sale of hardware to commercial airlines and of bandwidth to passengers. Both airlines and passengers have to “pay to play,” which results in low participation and usage rates. We break away from this model and set a new trend with our creative business model, which, we expect, will set us apart from our competitors. Commercial airline companies will recover their costs through participating in our revenue sharing model while passengers will not be required to pay for connectivity. Taken together, this novel approach creates an incentive for airlines to work with us and should act to drive up passenger usage rates.
+ 
+Ku-band and GEO/LEO Hybrid Satellite Technology
+ 
+Most in-flight connectivity systems currently in the market rely on the Ku-band satellite signals for communication. Many players in the market are working to provide higher bandwidth and faster transmitting rates using the Ka-band. Currently, there are few Ka-enabled satellites and as a result, the coverage area in the Asia-Pacific region is limited. However, new GEO (Geostationary Earth Orbiting) and LEO (Low Earth Orbiting) Ka-band satellites are being regularly launched and this should provide worldwide Ka band coverage over the next few years.
+Our Growth Strategy
+ 
+We will strive to become a leading provider of IFEC solutions by pursuing the following growth strategies:
+ 
+
+● | Launch and increase number of connected aircraft. As of the date of this annual report, we have not provided our services on any corporate jets or commercial aircraft. However, we now have the following delivery contracts in place: 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | On June 11, we converted a General Terms Agreement with MJet GMBH, a corporate jet owner operating an Airbus ACJ A319 based in Austria, into a definitive agreement with MJet, and on June 12, 2019 MJet placed a first purchase order with Aircom. As discussed in more detail above, MJet will be our launch customer for the first planned installation of our AERKOMM K++ system expected to be ready for installation by first quarter of 2021. The installation will enable us to commence a rollout of sale and installation of our IFEC equipment and services to other aircraft. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | On 30th January 2020, Aircom signed an agreement with Hong Kong Airlines to provide this airline with both our Aerkomm AirCinema and AERKOMM K++ In-Flight Entertainment and Connectivity solutions. Under the terms of this agreement as discussed in greater detail above, Aircom will provide to Hong Kong Airlines its Ka-band AERKOMM K++ IFEC system for installation on its fleet of 12 Airbus A320 and 5 Airbus A330-300 aircraft as well as the AERKOMM AirCinema system being designed and produced specifically for the Hong Kong Airlines Airbus A320 aircraft. Hong Kong Airlines will become the first commercial airliner launch customer for Aircom. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+To further our growth strategy, we plan to:
+ 
+
+■ | leverage our creative business model and IFEC system to cost-effectively equip corporate jets and commercial aircraft; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | increase the number of to be equipped aircraft, targeting full-fleet availability of our IFEC equipment and services for our current and future airline partners; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | pursue global growth opportunities by leveraging our broad and innovative technology platform and technical expertise; and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+■ | offer attractive business models to our corporate jet and airline partners, giving them the flexibility to determine the connectivity solutions that meet the unique demands of their businesses. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+16
+
+ 
+
+
+● | Increase passenger use of connectivity. We believe that in-flight Internet connectivity has become a necessary utility rather than a novelty because most passengers are trying to remain “connected” while travelling. This trend is manifestly evident from the increasing data usage on mobile phones. However, the traditional business model is structured to charge as much as possible for high-end in-flight connectivity services offered to a very small number of people. Such business logic has resulted in the in-flight connectivity option acquiring the reputation of being “pricey” and “only for business travelers whose employers will pay for it.” With a focus on catering to only a small number of people in a narrow market niche, our competitors are paying less attention to an innovative business model that can encourage a wider, broad-based usage of in-flight connectivity services. We believe that certain providers of existing in-flight connectivity services discourage in-flight usage because they believe such usage will increase their overhead expenses without generating additional profit. Due to this business model and the small amount of revenue generated from currently available connectivity services, airlines have considered in-flight connectivity as a “service” to passengers provided at their expense. Under this thinking, in-flight connectivity is a “cost center” from which airlines do not expect to generate profit. We believe that the value of a networking system grows exponentially with its usage and it is a waste of resources to build a networking system to be utilized only by a narrow niche market. Therefore, our business model encourages usage of our in-flight connectivity services on a much broader basis. In order to encourage such broader usage, we plan to offer our in-flight connectivity services to passengers in all travel classes for free, while we generate revenue from add-on services that will tie together passengers’ connectivity and usage. Thus, with our business model, we plan to create connectivity friendly aircraft cabins to provide free on-board internet connectivity for passengers, and to generate revenue through the sale of advertising commercials, banner advertising, in-app purchases, in-game purchases and other related in-flight transactions. We believe that our business model, under which neither airlines nor passengers will be required to pay for basic products or services, will create an incentive for the airlines to work with us and will drive passenger usage rates. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand satellite network coverage. We will continue to expand our global satellite network coverage through the purchase of additional Ka-band capacity, and to seek to install our satellite solutions into multiple aircraft, while continuing to invest in research and development relating to satellite antennas and modem technologies. We are actively working with satellite providers such as Telesat to accommodate airlines’ global routes and growing fleets. We are monitoring the satellite industry for growth in coverage, with recent attention on China Satcom’s plan to launch high-capacity Ka-band and Ka HTS multispot-beam satellites over the Asia-Pacific region. We are also in discussions with Kacific Broadband Satellites Group (Kacific), which is a satellite operator providing high-speed broadband internet service for the South East Asia and Pacific Islands region. Its first Ka-Band HTS satellite, Kacific 1, was designed and built by Boeing and launched into geostationary orbit atop a SpaceX launch vehicle on 16th December 2019, in order to purchase Ka broadband capacity. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand satellite-based services to other markets. We anticipate expanding our satellite-based connectivity services to remote area hotels and resorts, maritime and cruise lines, high-speed railways, 4G/5G backhauling, and converged triple-play services in remote communities. We believe that there is substantial potential for expansion internationally into these new markets. Future business prospects will be evaluated on a case by case basis by weighing the projected revenue from advertising fees and e-commerce revenue shares against the projected operating and capital expenditures of satellite coverage, bandwidth and operations. Our existing business model could be applied to high-speed railways and cruise lines, both of which have a sufficient passenger base for the service to be viable. High-speed railways in China sit under existing, available Ka satellite coverage areas that are not served by 4G/LTE mobile networks, providing a unique opportunity for the delivery of connectivity services. High-speed railways in other regions of Asia present similar opportunities. Remote communities in Asia lack a telecom infrastructure, partly due to geographical limitations, for example, the islands of the Philippines and Indonesia are spread out over a vast geographic area. Satellite-based communications and mesh network technology make triple play services possible for the delivery of live TV broadcasting, videos, and telecom services to these regions. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Employees 
+ 
+As of the date of this annual report, we had a total of 20 employees, 15 of whom are full-time employees. The following table sets forth the number of our full-time employees by function.
+
+Function | Number of Employees
+---------------------------+--------------------
+Operations | 5 
+Sales and Marketing | 4 
+Research and Development | 8 
+General and Administrative | 3 
+Total | 20 
+
+ 
+None of our employees belongs to a union or is a party to any collective bargaining or similar agreement. We consider our relationships with our employees to be good.
+ 
+Regulation
+ 
+As a participant in the global airline and global telecommunication industries we are subject to a variety of government regulatory obligations.
+ 
+17
+
+ 
+
+Federal Aviation Administration
+ 
+The FAA prescribes standards and certification requirements for the manufacturing of aircraft and aircraft components, and certifies and rates repair stations to perform aircraft maintenance, preventive maintenance and alterations, including the installation and maintenance of aircraft components. Each type of aircraft operated in the United States under an FAA-issued standard airworthiness certificate must possess an FAA Type Certificate, which constitutes approval of the design of the aircraft type based on applicable airworthiness standards. When a party other than the holder of the Type Certificate develops a major modification to an aircraft already type-certificated, that party must obtain an FAA-issued STC approving the design of the modified aircraft type. We will regularly obtain an STC for each aircraft type operated by each airline partner on whose aircraft our equipment will be installed and separate STCs typically are required for different configurations of the same aircraft type, such as when they are configured differently for different airlines.
+ 
+After obtaining an STC, a manufacturer desiring to manufacture components to be used in the modification covered by the STC must apply to the FAA for a PMA, which permits the holder to manufacture and sell components manufactured in conformity with the PMA and its approved design and data package. In general, each initial PMA is an approval of a manufacturing or modification facility’s production quality control system. PMA supplements are obtained to authorize the manufacture of a particular part in accordance with the requirements of the pertinent PMA, including its production quality control system. We routinely apply for and receive such PMAs and supplements.
+ 
+Our business depends on our continuing access to, or use of, these FAA certifications, authorizations and other approvals, and our employment of, or access to, FAA-certified individual engineering and other professionals. In accordance with these certifications, authorizations and other approvals, the FAA requires that we maintain, review and document our quality assurance processes. The FAA may also visit our facilities at any time as part of our agreement for certification as a manufacturing facility and repair station to ensure that our facilities, procedures, and quality control systems meet FAA approvals we hold. In addition, we are responsible for informing the FAA of significant changes to our organization and operations, product failures or defects, and any changes to our operational facilities or FAA-approved quality control systems. Other FAA requirements include training procedures and drug and alcohol screening for safety-sensitive employees working at our facilities.
+ 
+Foreign Aviation Regulation
+ 
+According to international aviation convention, the airworthiness of FAA-certified equipment installed on U.S.-registered aircraft is recognized by civil aviation authorities, or CAAs, worldwide. As a result, we do not expect to require further airworthiness certification formalities in countries outside of the United States for U.S.-registered aircraft that already have an STC issued by the FAA covering our equipment. For aircraft registered with a CAA other than the United States, the installation of our equipment requires airworthiness certification from an airworthiness certification body. Typically, the CAA of the country in which the aircraft is registered is responsible for ensuring the airworthiness of any aircraft modifications under its authority.
+ 
+The FAA holds bilateral agreements with a number of certification authorities around the globe. Bilateral agreements facilitate the reciprocal airworthiness certification of civil aeronautical products that are imported/exported between two signatory countries. A Bilateral Airworthiness Agreement, or BAA, or Bilateral Aviation Safety Agreement, or BASA, with Implementation Procedures for Airworthiness provides for airworthiness technical cooperation between the FAA and its counterpart civil aviation authorities. Under a BAA or BASA, the CAA of the aircraft’s country of registration generally validates STCs issued by the FAA and then issues a VSTC. For countries with which the FAA does not have a BAA or BASA, we must apply for certification approval with the CAA of the country in which the aircraft is registered. In order to obtain the necessary certification approval, we will be required to comply with the airworthiness regulations of the country in which the aircraft is registered. Failure to address all foreign airworthiness and aviation regulatory requirements at the commencement of each airline partner’s service in any country in which they register aircraft when there are no applicable bilateral agreements may lead to significant additional costs related to certification and could impact the timing of our ability to provide our service on our airline partners’ fleet.
+ 
+Federal Communications Commission
+ 
+Under the Communications Act of 1934, as amended, or the Communications Act, the FCC licenses the spectrum that we use and regulates the construction, operation, acquisition and sale of our wireless operations. The Communications Act and FCC rules also require the FCC’s prior approval of the assignment or transfer of control of an FCC license, or the acquisition, directly or indirectly, of more than 25% of the equity or voting control of our company by non-U.S. individuals or entities.
+ 
+Our various services are regulated differently by the FCC. Our business may provide some of its voice and data services by reselling the telecommunications services of satellite operators. Because we may provide these services on a common carrier basis, we may subject to the provisions of Title II of the Communications Act, which require, among other things, that the charges and practices of common carriers be just, reasonable and non-discriminatory.
+ 
+We provide broadband Internet access to commercial airlines and passengers. We plan to offer this service in the Asia-Pacific region and continental United States through our partner’s facilities, using satellite-based data delivery.
+ 
+The FCC has classified mobile (and fixed) broadband Internet access services as Title II telecommunications services pursuant to the FCC Open Internet Order of 2010. The Open Internet Order also adopted broad new net neutrality rules. For example, broadband providers may not block access to lawful content, applications, services or non-harmful devices. Broadband providers also may not impair or degrade lawful Internet traffic on the basis of content, applications, services or non-harmful devices. In addition, broadband providers may not favor some lawful Internet traffic over other lawful traffic in exchange for consideration of any kind, and they may not prioritize the content and services of their affiliates. Other than for paid prioritization, the rules contain an exception for “reasonable network management.” The Open Internet Order recognizes that whether a network management practice is reasonable varies according to the broadband technology involved, and provides more flexibility to implement network management practices in the context of our capacity-constrained satellite broadband networks.
+ 
+In addition, most of our services are subject to various rules that seek to ensure that the services are accessible by persons with disabilities, including requirements related to the pass-through of closed captioning for certain IP-delivered video content.
+ 
+18
+
+ 
+
+Equipment Certification
+ 
+We may not lease, sell, market or distribute any radio transmission equipment used in the provision of our services unless such equipment is certified by the FCC as compliant with the FCC’s technical rules. All certifications required for equipment currently used in the provision of our services have been obtained by our equipment vendors and/or partners.
+ 
+Privacy and Data Security-Related Regulations
+ 
+As noted above, the Open Internet Order reclassified mobile (and fixed) broadband Internet access services as Title II telecommunications services. Certain statutory provisions of Title II now apply to broadband Internet access services, including provisions that impose consumer privacy protections such as CPNI requirements.
+ 
+Our services are also subject to CPNI rules that require carriers to comply with a range of marketing and privacy safeguards. These obligations focus on carriers’ access, use, storage and disclosure of CPNI. We believe we are in compliance with these rules and obligations, and we certify annually, as required, that we have established operating procedures adequate to ensure our compliance.
+ 
+We are also subject to other federal and state consumer privacy and data security requirements. For example, Section 5 of the FTC Act prohibits “unfair or deceptive acts or practices in or affecting commerce.” Although the FTC’s authority to regulate the non-common carrier services offered by communications common carriers has not been clearly delineated, FTC officials have publicly stated that they view the FTC as having jurisdiction over Internet service providers’ non-common carrier services. Some of our services are subject to the FTC’s jurisdiction. The FTC has brought enforcement actions under the FTC Act against companies that, inter alia: (1) collect, use, share, or retain personal information in a way that is inconsistent with the representations, commitments, and promises that they make in their privacy policies and other public statements; (2) have privacy policies that do not adequately inform consumers about the company’s actual practices; and (3) fail to reasonably protect the security, privacy and confidentiality of nonpublic consumer information.
+ 
+We plan to collect personally identifiable information, such as name, address, e-mail address and credit card information, directly from our users when they register to use our service. We also may obtain information about our users from third parties. We use the information that we collect to, for example, consummate their purchase transaction, to customize and personalize advertising and content for our users and to enhance the entertainment options when using our service. Our collection and use of such information is intended to comply with our privacy policy, which is posted on our website, applicable law, our contractual obligations with third parties and industry standards, such as the Payment Card Industry Data Security Standard. We are also subject to state “mini-FTC Acts,” which also prohibit unfair or deceptive acts or practices, along with data security breach notification laws requiring entities holding certain personal data to provide notices in the event of a breach of the security of that data. Congress has also been considering similar federal legislation relating to data breaches. A few states have also imposed specific data security obligations. These state mini-FTC Acts, data security breach notification laws, and data security obligations may not extend to all of our services and their applicability may be limited by various factors, such as whether an affected party is a resident of a particular state.
+ 
+While we intend to implement reasonable administrative, physical and electronic security measures to protect against the loss, misuse and alteration of personally identifiable information, cyber-attacks on companies have increased in frequency and potential impact in recent years and may be successful despite reasonable precautions and result in substantial potential liabilities.
+ 
+Truth in Billing and Consumer Protection
+ 
+The FCC’s Truth in Billing rules generally require full and fair disclosure of all charges on customer bills for telecommunications services, except for broadband Internet access services. Thus, these rules apply to our satellite-based services. This disclosure must include brief, clear and non-misleading plain language descriptions of the services provided. States also have the right to regulate wireless carriers’ billing; however, we are not currently aware of any states that impose billing requirements on our services.
+CALEA
+ 
+The FCC has determined that facilities-based broadband Internet access providers are subject to the CALEA, which requires covered service providers to build certain law enforcement surveillance assistance capabilities into their communications networks and to maintain CALEA-related system security policies and procedures.
+Foreign Government Approvals
+ 
+In connection with our satellite service, we have implemented a process for obtaining any required authority needed to provide our service over the airspace of foreign countries, or verifying that no additional authorization is needed. Each country over which our equipped aircraft flies has the right to limit, regulate (e.g., through a licensing regime) or prohibit the offering of our service. We may not be able to obtain the necessary authority for every country over which a partner airline flies. For some countries, we have not been and do not expect to be able to obtain a definitive answer regarding their potential regulation of our service, and we may incur some regulatory risk by operating over the airspace of these countries. Failure to comply with foreign regulatory requirements could result in penalties being imposed on us and/or on our airline partners or allow our airline partners affected by such requirements to terminate their contract with us prior to expiration. Moreover, even countries that have previously provided clearance for our service have the right to change their regulations at any time.
+ 
+19
+
+ 
+
+Emerging Growth Company Status
+ 
+We qualify as an “emerging growth company” under the Jumpstart Our Business Startups Act of 2012, or the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long as we are an emerging growth company, we will not be required to:
+
+● | have an auditor report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | comply with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor’s report providing additional information about the audit and the financial statements (i.e., an auditor discussion and analysis); 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submit certain executive compensation matters to shareholder advisory votes, such as “say-on-pay” and “say-on-frequency;” and 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | disclose certain executive compensation related items such as the correlation between executive compensation and performance and comparisons of the chief executive officer’s compensation to median employee compensation. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to take advantage of the benefits of this extended transition period. Our financial statements may therefore not be comparable to those of companies that comply with such new or revised accounting standards.
+ 
+We will remain an “emerging growth company” for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our total annual gross revenues exceed $1 billion, (ii) the date that we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our common stock that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three year period.
+ 

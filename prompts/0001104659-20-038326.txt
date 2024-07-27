@@ -1,0 +1,749 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+
+Overview
+--------
+
+Our Company
+ 
+Annovis Bio, Inc. is a clinical stage, drug platform company addressing neurodegeneration, such as Alzheimer’s disease (AD), Parkinson’s disease (PD) and Alzheimer’s disease in Down syndrome (AD-DS). We have an ongoing Phase 2a proof-of-concept study in AD patients and have planned to commence a second Phase 2a study in PD patients. We are developing our lead compound, ANVS401, for chronic neurodegenerative diseases, such as AD, PD and AD-DS. In several studies, ANVS401 inhibited the synthesis of neurotoxic proteins—APP/Aβ (APP), tau/phospho-tau (tau) and α-Synuclein (αSYN)—that are the main cause of neurodegeneration. High levels of neurotoxic proteins lead to impaired axonal transport, which is responsible for the communication between and within nerve cells. When that communication is impaired, the immune system is activated and attacks the nerve cells, eventually killing them. We have shown in four mildly cognitive impaired (MCI) patients that our lead compound, ANVS401, lowered the levels of neurotoxic proteins and inflammatory factors. In preclinical studies, lower neurotoxic protein levels led to improved axonal transport, reduced inflammation, lower nerve cell death and improved function.
+ 
+The industry has encountered challenges in targeting specifically one or the other neurotoxic protein, be it APP, tau or αSYN, indicating that targeting one neurotoxic protein alone does not change the course of neurodegeneration. Our goal is to develop a disease modifying drug (DMD) for patients with neurodegeneration by leveraging our clinical and animal evidence in inhibiting at least the three most relevant neurotoxic proteins.
+ 
+We believe that we are the only company developing a clinical stage proof-of-concept drug for AD, PD and AD-DS that inhibits more than one neurotoxic protein and has a mechanism of action designed to restore nerve cell axonal and synaptic activity. By improving axonal transport in the brain, we expect to treat memory loss and dementia associated with AD and AD-DS as well as body and brain function in PD.
+ 
+We believe that ANVS401 has the potential to be the first drug to interfere with the underlying mechanism of neurodegeneration. ANVS401 is a small, once a day, orally administered, brain penetrant inhibitor of neurotoxic proteins. The biological activity of ANVS401 has been evaluated in 19 animal studies conducted in leading institutions such as the Karolinska Institute, Columbia University and Harvard University. 16 of the studies are published and three are presently manuscripts in preparation. We also conducted three clinical trials with 125 humans including two safety studies in 120 healthy volunteers and a proof-of-concept study in four MCI patients with Parexel, an international clinical research organization. In these studies, we showed that ANVS401 was well tolerated and we saw promising clinical signals: in all four patients, ANVS401 reduced the levels of APP, tau and αSYN (αSYN is an unpublished, not statistically significant observation) and lowered inflammatory factors.
+ 
+We are presently conducting a Phase 2a study in AD patients in collaboration with the Alzheimer Disease Cooperative Study (ADCS) and plan to initiate a second Phase 2a proof-of-concept study of ANVS401 in the first quarter of 2020 with 50 PD patients. The AD study being conducted by ADCS is expected to enroll a total of 24 persons at three dose levels plus placebo in a double-blind, placebo-controlled fashion. To date, the study has enrolled and treated 12 early to moderate AD patients. Under an agreement with UC San Diego, where ADCS is located, we have contracted to provide study supplies at our cost. The agreement also contains standard indemnification and confidentiality provisions and may be terminated by either party upon 30 days’ written notice. We have designed the two Phase 2a studies with Parexel by applying our understanding of the underlying disease states in neurodegeneration and by measuring not just target, but also pathway validation in the spinal fluid of these patients. This means that we are proposing to measure as many factors as possible associated with the toxic cascade precipitated by impaired axonal transport. If we are able to show both target and pathway validation in two patient populations, we believe that our opportunity for successful Phase 3 studies is better than if we merely demonstrated target validation in one patient population.
+ 
+We believe that AD and PD are two of the largest medical needs of the aging U.S. population, and two potentially large markets, once a DMD has been developed and approved. Therefore, we desire to demonstrate ANVS401’s efficacy in both indications. However, since AD studies are very large and time and capital consuming, we plan to focus on an orphan population that is substantially similar to AD, but in a very controlled and limited setting. We intend to focus on AD in the DS population, because in DS the APP gene is triplicated, leading to early onset AD with similar pathology as sporadic AD. In our animal studies in DS mice, lowering their high levels of APP improved axonal transport in the brain and increased memory and learning as described on page 89. In accordance with this animal data, we expect that lowering levels of APP, tau and αSYN in DS human patients will lead to an improvement in their memory, cognition and dementia. Conducting the study in AD-DS patients instead of AD patients will allow us to obtain human data for AD in an orphan subpopulation much faster than in the regular AD population. Concomitantly, our goal is to also conduct a Phase 3 pivotal study in early PD patients. By the end of 2024, we expect to have conducted two pivotal studies for ANVS401, one in AD-DS and one in PD, and to have filed one or two new drug applications (NDA) with the U.S. Food and Drug Administration (FDA).
+ 
+
+3
+-
+
+Innovation
+ 
+Pipeline
+ 
+Our pipeline consists of: ANVS401 for chronic neurodegeneration - including AD, its orphan indication AD-DS and PD; ANVS405 to treat acute neurodegeneration – including traumatic brain injury (TBI) and stroke; and ANVS301 for advanced AD.
+ 
+
+ ANVS401
+ 
+Our lead compound, ANVS401, is an orally administered drug being developed for chronic indications such as AD, PD and AD-DS because in preclinical studies it improved axonal transport in these diseases by inhibiting the overproduction of neurotoxic proteins that kill nerve cells. The compound was tested in three Phase 1 clinical studies that showed it to be well tolerated. This safety data is applicable to the clinical development of ANVS401 for AD, PD, AD-DS and other chronic neurodegenerative disorders.
+ 
+ ANVS405
+ 
+For acute indications, we are developing ANVS405, focused on protecting the brain after TBI and/or stroke. ANVS405 is the same compound as ANVS401 but it is given intravenously in cases of acute head and brain trauma. ANVS405 was given to rats as an injectable after TBI to ensure that it would reach the brain in less than 15 minutes rather than 1.5 hours. TBI rats that were treated with ANVS405 after the insult exhibited enhanced memory and learning and lower microglia activation, a measure of inflammation. To date the program has been funded by a grant from the US Army and we plan to seek additional grant funding to further the development of ANVS405 for acute indications of brain and nerve trauma. We plan to conduct a follow-on study to evaluate the effect of ANVS405 administered to TBI rats at various intervals post-injury to determine how long after a TBI we can effectively treat a patient. We would then seek further funding to conduct the toxicology and pharmacokinetics (PK) studies in animals, file the initial new drug application (IND), conduct the safety and PK studies in humans and continue with Phase 2 and Phase 3 efficacy studies.
+ 
+ ANVS301
+ 
+We are developing our compound ANVS301 to increase cognitive capability in later stages of AD and dementia. ANVS301 improved memory and learning in very old rats by lowering the number of errors from six to three and shortening run times from approximately 75 to approximately 28 seconds. ANVS301 is in a Phase 1 clinical trial that is being conducted and financed by the National Institutes of Health (NIH). The single ascending dose study is nearly complete and we, in collaboration with the NIH, are preparing to move into the multiple ascending dose study. When the single and multiple ascending dose safety studies are complete, we will review the data and decide whether to pursue the indication of advanced AD.
+ 
+
+4
+-
+
+Clinical Human Data
+ 
+Three clinical studies have been conducted with ANVS401. Clinical studies with single and repeated daily oral administration of ANVS401 tartrate showed ANVS401 to be well tolerated up to doses of 80 mg once a day or 60 mg four times a day. A single dose of 160 mg was associated with an increased incidence of nausea and vomiting so higher doses were not tested. ANVS401 is not an AChE inhibitor, but its N1 dimethyl metabolite (10-20%) has some AChE inhibitor activity and may be responsible for these observations. The only consistent adverse events (AEs) seen were dizziness/fainting and headaches. These effects were seen to varying degrees at all doses of ANVS401 and in the placebo group. There were no serious AEs in any of the clinical studies.
+ 
+The key findings from the three clinical studies are highlighted below.
+ 
+
+• | Single ascending dose (SAD) in 72 healthy volunteers including placebo
+--+-----------------------------------------------------------------------
+
+
+– | Drug determined to be well-tolerated, with no AEs at 80 mg with a maximum tolerated dose (MTD) of 160 mg
+--+---------------------------------------------------------------------------------------------------------
+
+
+– | Dose limiting toxicity was nausea
+--+----------------------------------
+
+
+• | Multiple ascending doses (MAD) in 48 healthy volunteers including placebo
+--+--------------------------------------------------------------------------
+
+
+– | Drug determined to be well-tolerated with no AEs and no symptoms indicative of inhibition of either acetyl- or butyryl cholinesterase at doses up to 240 mg/day (60 mg four times a day)
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Proof of Concept (POC) in four MCI patients
+--+--------------------------------------------
+
+
+– | Concentrations of ANVS401 in the brain, extrapolated from blood and CSF, were eight times higher than in plasma
+--+----------------------------------------------------------------------------------------------------------------
+
+
+– | ANVS401 lowered CSF levels of neurotoxic proteins and inflammatory markers. See pages 94 and 95.
+--+-------------------------------------------------------------------------------------------------
+
+ 
+In the four MCI patients, ANVS401 had a half-life of five hours in plasma and more than 12 hours in CSF. The longer concentration and persistence of ANVS401 in the brain suggest that much lower doses of drug administered once daily could achieve the desired pharmacodynamic effect. Tmax was 1.3–1.6 hours post dose, independent of dose and comparable for both sexes in plasma and CSF. ANVS401 is stable, orally available and enters the brain, therefore we are developing it as an oral drug candidate.
+ 
+Summary of Safety in Humans
+ 
+ANVS401’s pattern of AEs was similar to that seen in typical studies in healthy volunteers, with an overall incidence of 33.3% among placebo-treated subjects and 35% for all ANVS401 treatment groups combined. In the single ascending dose study, the group given the highest dose of 160 mg/day showed 31.7% AEs that were treatment-related. In the multiple ascending dose and in the POC study there was no dose response to the adverse events. Most AEs were of short duration, mild or moderate in severity, resolved without medical intervention, and occurred in one or a few subjects. Only two subjects experienced severe AEs, including symptoms associated with orthostatic hypotension (one placebo and one ANVS401 20-mg subject).
+ 
+
+5
+-
+
+ 
+
+Adverse events seen in the first human SAD study conducted with ANVS401
+ 
+
+Adverse events seen in the second and third human MAD and POC studies conducted with ANVS401
+ 
+
+POC in Humans
+ 
+In the human POC study, four patients with MCI were treated for 10 days with ANVS401 with a dose of 60 mg four times a day (240 mg/day), which we knew from our MAD study to be a well-tolerated level. CSF and plasma were drawn over 12 hours on Day 0 before any administration of ANVS401 and on Day 11 after the last administration of ANVS401. During each 12-hour period, a total of nine CSF samples were taken and levels of ANVS401 and metabolites were measured in plasma and CSF at all time points.
+ 
+
+6
+-
+
+
+Pharmacokinetics
+----------------
+
+ 
+
+ANVS401 pharmacokinetics (PK) in plasma corresponded to what we had seen in the previous clinical safety studies: a half-life of five hours. In CSF, however, ANVS401 showed a much longer half-life of over 12 hours. We conducted an identical experiment in rats, where it is possible to measure the PK of ANVS401 in plasma, CSF and brain. By taking the human plasma/CSF and rat plasma/CSF/brain levels, we were able to extrapolate to the human brain levels and calculate them to be eight times higher than plasma levels. This is consistent with the data we have in mice, where in several studies, ANVS401 levels were found to be approximately six to eight times higher in brain than in plasma.
+ 
+ANVS401’s extended presence in the brain is matched by an extended effect, reducing levels of APP, tau and αSYN for the whole period tested (12 hours). The extended effect of ANVS401 in the four human patients was consistent with the preclinical data in rodent brains.
+ 
+The persistence of ANVS401 in the CSF and brain and the extended pharmacodynamic effect observed make ANVS401 a good candidate for once a day dosing. Extrapolated brain levels of ANVS401 at 60 mg four times a day were far in excess of levels we believe are required to down-regulate APP and αSYN. The doses of ANVS401 needed to lower the levels of neurotoxic proteins are similar for the toxic proteins, suggesting similar dosing in AD, PD and AD-DS. We further compared ANVS401 brain levels of mice that showed improved memory, learning and colonic motility and calculated that the optimum brain levels measured were between 150 and 500 nM. Using three different extrapolation/comparison calculations we calculated that a daily dose of 5mg to 60 mg should achieve potentially desired brain levels in humans.
+ 
+
+Pharmacodynamics
+----------------
+
+ 
+ANVS401 pharmacodynamics was performed on the same 18 CSF samples taken from each person as above. Since we had data for four patients with 18 time points each, it was possible to conduct statistical analysis of the data using a repeated measure mixed model analysis of variance. The p-value represents the probability that the difference between compared groups is due to chance rather than drug effect, and when that probability is less than 5%, or p<0.05, the result is considered statistically significant. FDA evidentiary standards for drug approval require that the trial design must permit a valid comparison with a control group to permit a quantitative assessment of the effect of the drug, which may include demonstration of statistical significance.
+ 
+CSF Biomarkers Decrease After 10 Days of Oral ANVS401 in Four MCI Patients
+ 
+
+ | LAB 1 | | | LAB 2 
+----------------+-------------------+-------+---+--------
+Human Biomarker | CSF % of Baseline | | | p-Value | | CSF % of Baseline | p-Value | 
+sAPP α | | -59.9 | % | | 0.0006 | | -34.1 | % | 0.0661
+sAPP β | | -57.7 | % | | 0.0001 | | -34.0 | % | 0.0901
+Aβ42 | | -51.4 | % | | 0.0533 | | -45.2 | % | 0.0995
+Tau | | -46.2 | % | | 0.0020 | | -74.1 | % | 0.0150
+p-Tau | | -61.0 | % | | 0.0005 | | | | 
+αSYN | | -41.2 | % | | 0.0910 | * | | | 
+
+
+* | Represents unpublished results.
+--+--------------------------------
+
+ 
+MCI patients showed high levels of sAPP, tau and αSYN in their CSF. They were treated for 10 days with ANVS401 and their CSF was analyzed for neurotoxic proteins. In all four patients, the levels of neurotoxic proteins decreased. The percentages shown in the table were calculated using all nine time points after treatment compared to all nine time points prior to treatment. Due to the variability in the CSF measurements of sAPPα, sAPPβ, Aβ42 and tau, we had all samples analyzed by two different laboratories using different methodologies.
+ 
+
+Inflammation
+------------
+
+ 
+The same CSF samples were also analyzed for inflammatory factors and microglia activation factors as well as a control factor. All patients reacted by lowering their levels of inflammatory markers and not lowering the level of the control protein.
+ 
+
+7
+-
+
+ 
+
+The statistical analysis again was performed with a repeated measure mixed model analysis of variance. Three inflammatory markers were lowered to a statistically significant level: Complement C3, MCP-1 and YKL-40. The fourth inflammatory marker, sCD14, showed a downward trend. We also measured Factor FH, a complement regulatory protein involved in blood clotting, which served as our control factor. As we had expected, Factor FH was not downregulated by ANVS401.
+ 
+CSF Inflammatory Markers after 10 days of oral ANVS401 in Four mci patients
+ 
+
+Human Inflammatory Protein | CSF % of Baseline | | | p-Value
+---------------------------+-------------------+-------+---+--------
+Complement C3 | | -86.9 | % | | 0.0007
+MCP-1 | | -87.5 | % | | 0.0007
+YKL40 | | -72.7 | % | | 0.0113
+sCD14 | | -26.1 | % | | 0.1159
+Factor FH | | 23.7 | % | | 0.4988
+
+ 
+MCI patients also showed high levels of inflammatory factors and microglia activation factors in their CSF. ANVS401 statistically significantly lowered the levels of three inflammatory markers in all four patients.
+ 
+Comparison with Healthy Volunteers
+ 
+We then compared the levels found in four healthy volunteers with the levels seen in the four MCI patients before and after 10 days of ANVS401 administration. The heathy volunteers did not go through the entire study as did the MCI patients. They gave one CSF sample taken by lumbar puncture in the morning and that sample was only used to measure sAPPα, sAPPβ and tau.
+ 
+In order to make the comparison as accurate as possible, we used a single measurement from the same time point in each of the mornings of Day 0 and Day 11 for each MCI patient because this was similar to the timing for the healthy volunteers. In this very limited comparison, we were able to show that all four patients experienced a decrease in sAPPα, sAPPβ and tau. These reductions brought the average levels of sAPPα, sAPPβ and tau in the treated MCI patients close to the average levels we measured in healthy volunteers.
+ 
+
+8
+-
+
+ 
+
+
+
+The tables above show the CSF levels of sAPPα, sAPPβ and tau in the four MCI patients and the four healthy volunteers. The percentages in the bar diagrams are derived from each of the tables, with red representing average of MCI patients at Day 0 before ANVS401 treatment; green representing average of MCI patients at day 11 after 10 days of ANVS401 treatment; and blue representing average of untreated healthy volunteers. The average of MCI patients at Day 0 was considered the base at 100%. We then calculated the averages of MCI patients at Day 11 and the healthy volunteers as a percentage of the base.
+ 
+
+9
+-
+
+Preclinical Animal Studies
+ 
+By inhibiting the overexpression of neurotoxic proteins, ANVS401 improved or prevented the symptoms associated with chronic as well as acute neurodegeneration in several animal models. The data most relevant to the present application are shown.
+ 
+APP/PS1 tg Mouse Model of AD
+ 
+ANVS401 improved spatial-working memory as shown in a 2-day radial arm water maze test in this mouse AD model at a 25 mg/kg oral dose (p=0.0033, figure below-top) and showed a dose response at 10 mg/kg oral dose. In the same study ANVS401 improved synaptic function and long-term potentiation in hippocampal slices at both doses in a dose-dependent fashion (figure below-bottom). ANVS401 treatment did not affect wild-type (WT) mice.
+ 
+
+
+
+
+APP/PS1 AD tg mice were treated for one month with ANVS401, before the behavioral evaluation. 2-day radial arm water maze test results are shown on the top, and electrophysiology (extracellularly recorded field excitatory postsynaptic potentials – fEPSP) between Shaffer collateral and pyramidal neurons from CA1 stratum radiatum is shown on the bottom.
+ 
+
+10
+--
+
+ 
+
+
+Trisomic Mouse Model of AD-DS
+ 
+DS trisomic mice display several abnormal behaviors reminiscent of AD, including memory loss. They have elevated levels of APP that has been shown in mice to contribute to deficient memory and learning, cognitive impairment as well as dementia. DS trisomic mice are used as a model for AD, because they exhibit similar deficits as seen in AD. Thus, we considered whether ANVS401 could re-establish healthy behavior in these mice like that seen in wild-type mice. We measured the rate of spontaneous alternations in a Y-maze and found that the alternation rate is significantly lower in DS trisomic mice versus wild-type mice reflecting impaired working memory. While ANVS401 treatment increased alternation rate in DS trisomic mice it had no obvious effects in wild-type mice. We also found an effect on the exploratory activity reflected by the number of arm entries, again reflecting impaired working memory. All DS trisomic mice treated with ANVS401 displayed improved working memory to a variable extent.
+ 
+
+
+DS trisomic mice were tested for correct alternations into a Y-maze and they made 38% less alternations (p=0.005), left above. At the same time, they made 63% more entries into the maze (p=0.01), left, than wild-type mice. ANVS401 treatment improved working memory deficit in DS trisomic mice. Mobley Laboratory, UCSD, manuscript in preparation.
+ 
+SNCAA53T and SNCAA30P Mouse Models of PD
+ 
+We used these PD tg mice as models of early gastrointestinal dysfunction, which is common in PD patients and precedes the onset of motor symptoms by many years to decades. Untreated PD tg mice resemble pre-Parkinson’s patients, showing symptoms of constipation by three months of age. Here we assessed the colonic motility by measuring the time required to expel a glass bead inserted into the colon at four and seven months of age. ANVS401 statistically significantly (p=0.034 at four months and p=0.0001 at seven months) decreased the bead expulsion time between ANVS401 treated and placebo treated mice; thus, it improved the colonic motility of PD tg mice (figure below). Furthermore, even after we stopped treatment for nine weeks, the constipation was still reduced (data not shown). ANVS401 does not act as a laxative, since, when given to two different control mice breeds that do not develop constipation (Snca+/+ and Snca-/-), it does not affect their gut motility.
+ 
+
+11
+--
+
+ 
+
+
+
+SNCAA53T and SNCAA30P mice (producing human mutant αSYN associated with familial PD) were treated intraperitoneally with vehicle or ANVS401 beginning at six weeks up to seven months of age. ANVS401 prevented the impaired gut motility of the SNCAA53T and SNCAA30P mice at 3 and 10 mg/kg. Older mice demonstrate a more severe phenotype that nonetheless responded to ANVS401.
+ 
+TBI in Rats
+ 
+TBI causes severe cognitive and neurological impairment, which can incapacitate the patient, reduce quality of life, and increase the risk of morbidity and mortality. TBI is known to increase the risk for neurodegenerative disorders such as AD and PD. Several studies have analyzed changes in the brain after TBI and identified up-regulation of neurotoxic proteins, such as APP, tau, and αSYN.
+ 
+Annovis received a $1.5 million grant from the US Army to study the effect of ANVS405 in blunting the damage caused by TBI in rats. Our partnering PI, Dr. Marie-Francoise Chesselet and her collaborator, Dr. David Hovda at UCLA have used different rat models to study the behavioral, biochemical, and neuropathological consequences of TBI as well as to identify potential drug treatments.
+ 
+In our study (manuscript in preparation), rats were subjected to either fluid percussion injury (FPI) or sham operation to one side of the brain. Three different ANVS405 doses or saline were given intraperitoneally to rats subjected to FPI for four weeks, with the first dose administered one hour post-injury. At the termination of the treatment, all the rats were first tested for their performance in the water maze, and then they were sacrificed for brain staining of living cells and determination of microglia activation. As shown, 10 mg/kg ANVS405 improved memory and learning as measured by water maze performance (figure below-left). Furthermore, sections of the brain were stained with tyrosine hydroxylase (TH), wherein TH stains only live cells. The amounts of TH immunoreactivity in the whole striatum of the brain slices were measured. The rats treated with all three doses of ANVS405 showed higher TH staining in the ipsilateral area of the brain than the vehicle treated animals (figure below-right). Thus, ANVS405 protects the striatum following FPI in rats.
+ 
+
+12
+--
+
+ 
+
+
+
+Effects of ANVS405 treatment on rats subjected to FPI. Left: performance in a water maze-FPI-Vehicle* vs. FPI-10mg/kg ANVS405#; *p=0.035 by one-way ANOVA, Bonferroni comparison. Right: TH immunoreactivity in the ipsilateral area of rats-FPI-Vehicle* vs. FPI-all ANVS405 doses#; #p<0.05 by one-way ANOVA, Bonferroni comparison.
+ 
+Because FPI can induce microglial activation, we next checked whether ANVS405 would reverse this pathology. Microglial activation was assessed by quantitative measurement of the diameter of IBA-1-positive cells (ionized calcium adaptor binding protein). Microglia with cell body diameters less than 5 µm had a resting morphology characterized by multiple ramified processes. Hyper-ramified microglia/partially activated microglia had a mean cell body diameter of 5-6 μm. Fully activated amoeboid microglia had a mean cell body diameter of 7-14 μm. ANVS405 increases the number of resting microglia and reduces the number of activated microglia.
+ 
+Effect of 10mg/kg ANVS405 on Microglial Activation
+ 
+
+
+Effect of treatment with 10mg/kg ANVS405 on microglial activation following FPI in rats.
+ 
+Collectively, these data show ANVS401 and ANVS405 reduced the toxic effects of neurotoxic proteins in vivo, in several animal models of both chronic and acute neurodegeneration.
+ 
+
+13
+--
+
+Reproducible Results Across Species—Mouse, Rat, Human
+ 
+As mentioned, lowered levels of APP, tau and αSYN have been shown in spinal fluid of humans treated with ANVS401 in the human POC study as well as in brains of mice in AD tg mice, DS trisomic mice and PD tg mice and rats treated with ANVS405 in the TBI study.
+ 
+Furthermore, reduced inflammation has been shown in spinal fluid of four humans treated with ANVS401 in the human POC study and in brains of rats treated with ANVS405 in the TBI study.
+ 
+As discussed, ANVS401 and ANVS405 have a mechanism of action we believe to be unique that allows them to inhibit the over-translation of and reduce the levels of APP, tau and αSYN, which play a central role in the pathogenesis of both AD and PD. That, in combination with our supporting data showing results in AD, PD and AD-DS mouse models, and lowering of the toxic effects of neurotoxic proteins, leads us to believe that ANVS401 is a promising drug for the treatment of both AD and PD. Therefore, our approach is innovative in that we do not have a single therapeutic target for a single disease; instead, we have one drug that targets the conserved IRE element of the mRNAs of multiple neurotoxic proteins, applicable to multiple diseases.
+ 
+Markets
+ 
+With a potential market for neurodegenerative diseases estimated at more than $100 billion annually, most pharma companies have a program studying some aspect of nerve and brain degeneration. None of these approaches have resulted in a drug that improves cognition. Some newer approaches target tau, whose expression is more closely associated with cognitive decline. Similarly, for PD, several companies are trying to inhibit αSYN. So far neither drugs attacking tau nor αSYN have been tested in Phase 3. Hence there is an enormous need for a different disease-modifying strategy. There is more than one neurotoxic protein in the brain of AD and of PD patients, and the same neurotoxic proteins are involved in the pathogenesis of AD and PD. In fact, a significant portion of AD patients’ brains display mixed PD pathology and vice versa. Therefore, just attacking one of these proteins may result in no or lower efficacy than attacking them all. We are unaware of any other person or entity that is working on inhibiting more than one neurotoxic protein and tackling more than one neurodegenerative disorder at the same time. To prove that this approach is possible, we want to study the effects of ANVS401 on the levels of several neurotoxic proteins and other surrogate markers, in parallel, in AD and PD patients. Within 18 to 24 months we believe we will have two Phase 2a studies, one in AD and one in PD patients.
+Alzheimer’s Disease Associated with Down Syndrome—AD-DS Market
+ 
+DS or trisomy 21 is one of the most common causes of intellectual disability and recent national prevalence estimates suggest that 13.65 per 10,000 live births are infants with DS leading to 5,429, on average, annual DS births in the United States. Worldwide the occurrence of DS is about four to five times that.
+ 
+DS life expectancy has increased dramatically; for children with DS born in 2010, median life expectancy is estimated to be 65 years. However, along with this longer lifespan comes the prospect of a considerable increase in the risk of developing dementia associated with AD, with a prevalence of nearly 80% for those with DS who are older than 65 years. In comparison, non-DS individuals have a risk of 40 to 50% by the time they are 90 years old.
+ 
+Just like in sporadic AD there is a prodromal or asymptomatic phase in DS when AD pathology progressively accumulates (30-40 years) but clinical signs of dementia may be delayed by up to a decade. This provides a therapeutic window or an opportunity for prevention that is unique to adults with Down syndrome. AD-DS is an orphan indication with similar symptoms to sporadic AD, but in a much younger population with accelerated disease progression.
+ 
+In the US AD-DS is an orphan indication, because about 50,000 DS people have AD and about 120,000 are at risk to develop AD in the next 5 to 10 years.
+ 
+In parallel with the age-dependent increased risk for developing dementia virtually all adults with DS over the age of 40 years have sufficient plaques and tangles for a neuropathologically based diagnosis of AD, because trisomy 21 leads to the overexpression of APP. Between the ages of 30 and 40 years, neuropathology rapidly accumulates until it reaches levels sufficient for a diagnosis of AD by 40 years and there is an acceleration phase to disease development.
+ 
+
+14
+--
+
+Alzheimer’s Disease Market
+ 
+AD is a neurodegenerative disorder with cognitive, functional, and behavioral alterations. AD is age related, and its incidence is increasing with the aging of the population. It is estimated that currently 44 million victims of AD dementia exist in the world and by 2050, more than 100 million people worldwide will be living with AD. Nearly eightfold as many people have preclinical AD as have symptomatic AD and are at risk for progressing to manifest disease. DMTs that will prevent or delay the onset or slow the progression of AD are urgently needed. A modest one-year delay in onset by 2020 would result in there being 9.2 million fewer cases in 2050. Similarly, medications to effectively improve cognition or ameliorate neuropsychiatric symptoms of patients in the symptomatic phases of AD are needed to improve memory and behavior.
+ 
+Increase in Incidence of AD with the Aging of the Population
+ 
+
+
+AD is becoming increasingly common as the global population ages and as the health system in developing countries gets better. We urgently need to identify drugs that prevent, delay the onset, slow the progression, or improve the symptoms of AD.
+ 
+Parkinson’s Disease Market
+ 
+PD is also a progressive neurodegenerative disorder with movement and non-movement symptoms, functional, behavioral and cognitive alterations. PD, like AD, is age related and is becoming markedly more common with the aging of the world’s population. PD affects about 1% of the population over the age of 60, while in individuals over the age of 85, this prevalence reaches 5%, highlighting the impact that advancing age has on the risk of developing this condition.
+ 
+PD affects about 10 million people worldwide of which over one million are in the US. There are 60,000 new cases of PD diagnosed each year in the US. The incidence is expected to double by 2040.
+ 
+The National Parkinson’s Foundation estimates that the economic burden of PD is at least $25 billion a year in the United States.
+ 
+To date, there are no available treatments capable of curing PD, with current therapies seeking only to ameliorate dopamine-related motor symptoms of the disease. No treatments to date address non-motor symptoms. There is a clear and unmet medical need for new DMTs that can slow or prevent PD progression.
+ 
+Mixed Pathologies Market
+ 
+In addition to the unmet need of AD and PD patients, approximately 50% of patients exhibit mixed pathologies, with some pathologies resembling AD and some resembling PD. These patients’ needs are not addressed at all by the drugs presently in development for AD or PD, because these drugs target only one or the other neurotoxic protein.
+ 
+Dementia is increasingly being recognized in cases of PD; such cases are termed PD dementia (PDD). The spread of fibrillar αSYN pathology from the brainstem to limbic and neocortical structures seems to be the strongest neuropathological correlate of emerging dementia in PD. Up to 50% of patients with PDD develop sufficient numbers of Aβ plaques and tau-containing neurofibrillary tangles for a secondary diagnosis of Alzheimer’s disease, and these pathologies may act synergistically with αSYN pathology to confer a worse prognosis.
+ 
+
+15
+--
+
+ 
+
+Another study looking at the incidence of mixed pathologies diagnosed community-dwelling older persons. Those with dementia most often have multiple brain pathologies, which greatly increases the odds of dementia. Specifically, in people with dementia, over 50% had multiple diagnoses (AD, PD/Lewy body dementia, PDD or infarcts). After accounting for age, persons with multiple diagnoses were almost three times more likely to exhibit dementia compared to those with one pathologic diagnosis.
+ 
+A therapy that only addresses Aβ, tau or αSYN won’t help people with mixed pathologies. Since ANVS401 inhibits more than one neurotoxic protein, it is possible that by halting the cascade of toxic proteins, it might stop or slow AD, PD and mixed pathology diseases at all stages of development.
+ 
+Approaches and Competition
+ 
+Alzheimer’s Disease in Orphan Indications
+ 
+There are two orphan indications that represent AD: one is AD-DS and the other is early onset familial AD (EOFAD).
+ 
+To date very little work has been done in these indications. Roche/Genentech/AC Immune are conducting one study in EOFAD in a Colombian extended family and AC Immune is working on a vaccine for AD-DS.
+ 
+Anti-Aβ Antibody Phase 3 Study in Colombian EOFAD
+ 
+In 2012, Genentech, a Roche company, initiated the first-ever study of cognitively healthy individuals who are likely to develop Alzheimer’s disease due to their genetic history. The landmark trial is the first to assess the potential of an investigational medicine to stop Alzheimer’s before it starts. The study involves a humanized monoclonal antibody made by AC Immune, which is designed to bind to Aβ, the main constituent of amyloid plaques in the brains of patients with AD. Aβ is proposed to be causative in the development of the disease.
+ 
+The prevention trial may provide the most effective test to date of the amyloid hypothesis. Two groups of patients, totaling as many as 324 people, are involved in the study. They live in Colombia, which is home to nearly 5,000 people who share the risk for a rare genetic mutation. This mutation, presenilin 1, causes early-onset AD in any individual who is a carrier.
+ 
+Participants in the trial are 30 or older and within 15 years of the age when their parent’s symptoms began. Typically, mild cognitive impairment due to AD begins in these Colombian families around 45. The study is ongoing and moving slower than expected, so we do not know, when the data is due.
+ 
+Anti Aβ Vaccine Phase 1b Study for AD-DS
+ 
+AC Immune has completed recruitment for the high-dose cohort of the ACI-24 Phase 1b study for the treatment of AD-like characteristics in adults with DS. The first low-dose and the second high-dose cohorts have been fully recruited in August 2017 and in July 2018 respectively, and the primary outcome is expected in 2020. In addition to cognitive dysfunction beginning in childhood, individuals with DS are genetically predisposed to develop Aβ-related cognitive decline at a much younger age and with much greater probability than the general population.
+ 
+AC Immune is expected to start the Phase 2 study with ACI-24 in DS patients with mild AD. The aim of this double-blind, randomized, placebo-controlled study with an adaptive design is to assess the safety, tolerability, immunogenicity, target engagement, biomarkers and clinical efficacy of ACI-24. The trial will seek to confirm the positive trends on Aβ PET imaging and clinical measurement (CDR-SB°) of the previous Phase 1 safety study. The Phase 2 trial will be conducted in several European countries.
+ 
+Alzheimer’s Disease Approaches
+ 
+Drug development for AD has proven to be very difficult. Five drugs are approved for the treatment of AD including four cholinesterase inhibitors (tacrine, donepezil, rivastigmine, galantamine) and an N-methyl-D-aspartate receptor antagonist (memantine). No new treatments have been approved for AD since 2003. Many failures in AD drug development have occurred, with both small molecules and immunotherapies failing to show a drug/placebo difference or having unacceptable toxicity.
+
+16
+--
+
+ 
+
+Clinicaltrials.gov is a public website that lists all clinical trials conducted or recruiting. Among the DMTs in the pipeline as shown on clinicaltrials.gov, most addressed amyloid targets. Since Aβ accumulates for years before the symptoms of AD are visible, some pharmaceutical companies are testing their drugs earlier, including cognitively normal people or those who have genetic profiles that place them at high risk for developing AD.
+ 
+An increasing number of agents are directed at tau-related targets. Neurofibrillary tangles are one of two major pathological hallmarks of AD. Correlation studies conducted by Braak and Braak, demonstrating that neurofibrillary tangle burden more closely correlates with cognitive decline than amyloid plaque load. Tau remains an important but largely untested target for disease modification in AD. The first anti-tau programs were directed at reducing tau aggregation. The preliminary results of these studies were largely disappointing, and agents directed against tau aggregation are being re-evaluated.
+ 
+In summary, at present there are no disease-modifying agents on the market. The first large effort to develop a DMD for AD has targeted Aβ42, but all Aβ42 approaches to date have failed. A few companies are moving to fighting tau and a lot of companies have pulled out of AD research and are waiting to see what approach might have a better outcome. Since the AD brain contains several neurotoxic proteins—amyloid precursor protein and its toxic fragments Aβ42 and IC99, a well as tau and αSYN—a DMD drug needs to target more than just one toxic protein to be efficacious. We believe that ANVS401 is the only drug that satisfies this criterion.
+ 
+A concerning observation derived from a review of the AD pipeline is the lack of agents targeting the moderate to advanced stages of AD. With over 15 million people affected by AD dementia worldwide, there is an urgent need to develop more effective symptomatic treatments for moderate to advanced stage disease. The paucity of agents directed at this population represents a significant weakness of the AD drug development pipeline.
+ 
+Parkinson’s Disease Approaches
+ 
+Levodopa (L-DOPA) was introduced for use in treating PD more than 40 years ago and remains the mainstay of therapy for improving the symptoms of the disease. Unlike dopamine, which cannot cross the blood—brain barrier, L-DOPA is effectively absorbed into the brain, where it metabolizes into dopamine. It is typically administered five times a day and works well in controlling symptoms for one to five years. Unfortunately, the effects of L-DOPA in any patient diminish with time.
+ 
+There are several other drugs available to treat PD, which also seek to modulate dopamine levels. Commonly prescribed dopamine agonists that directly activate dopamine receptors include agents such as Mirapex (pramipexole/BI) and Requip (ropinirole/GlaxoSmithKline).
+ 
+Combination drug therapy is common in PD. For instance, the use of other drug classes such as the catechol-O-methyltransferase inhibitors and the monoamine oxidase (MAO) inhibitors allow patients to reduce L-DOPA dosing levels. Several MAO inhibitors are approved for PD therapy, including Zelapar (selegiline/Valeant) and Azilect (rasagiline; Teva/Lundbeck).
+ 
+In 2012, the market for PD drugs was about $2.3 billion worldwide, despite high-volume generics. The most important current therapy for PD, L-DOPA, is prescribed as a generic. While volume growth in the category is expected to remain healthy, dollar growth will likely remain relatively flat as some of the category’s larger brands (Requip, Mirapex) contend with generic inroads. The size of the current market reflects the absence of innovative branded therapies more than it does the medical need.
+ 
+
+17
+--
+
+ 
+
+Disease-Modifying Compounds Targeting αSYN for the Treatment of PD in Clinical Trials
+ 
+So far, all products are at early stages of clinical development and no products have yet shown efficacy in PD patients. Although several drugs have shown potential neuroprotective ability in preclinical studies, demonstrating these effects in clinical studies remains a challenge. Beyond drug therapies, a few cell and gene therapy approaches are also being explored. Progress across these newer technology platforms has been slow. A notable failure in the cell therapy area was spheramine (Bayer/Titan), a cell therapy in which human retinal cells were injected into the brain to directly produce L-DOPA in the brain, which did not meet its primary and secondary endpoints in a Phase 2b study concluded in 2008.
+ 
+More recently, neuroprotective development efforts have switched to gene therapies. Targets in the gene therapy area include: neurturin, which is a naturally occurring protein that is known to repair damaged and dying dopaminergic neurons; glutamic acid decarboxylase, which alleviates abnormal brain activity associated with the motor deficits that characterize PD; and aromatic L-amino acid decarboxylase, tyrosine hydroxylase and GTP cyclohydrolase 1, which naturally control dopamine levels in the brain by reprogramming transduced cells to manufacture and secrete dopamine.
+ 
+Progress on this front has also been frustrating. Ceregene’s CERE-120, which was an adeno-associated virus vector carrying the gene neurturin, failed in a recently reported Phase 2 trial. Ceregene was recently acquired by Sangamo, which terminated the program.
+ 
+Intellectual Property
+ 
+We strive to protect and enhance the proprietary technologies, inventions and improvements that we believe are important to our business, including seeking, maintaining and defending patent rights, whether developed internally or licensed from third parties. Our policy is to seek to protect our proprietary position by, among other methods, pursuing and obtaining patent protection in the United States and in jurisdictions outside of the United States related to our proprietary technology, inventions, improvements, platforms and our product candidates that are important to the development and implementation of our business.
+ 
+As of March 23, 2020, our portfolio of owned and licensed patents totaled 35 issued or pending patents consisting of eight issued U.S. patents, three pending U.S. patent applications, 14 issued foreign patents and 10 pending foreign applications. These include three classes of licensed patents co-owned by Horizon and the PHS with claims directed to a composition of matter, a method of inhibiting production of amyloid precursor protein and a method of treating Alzheimer’s disease and dementia via the administration of ANVS401; a process for producing phenserine and analogs thereof, including ANVS401; and a method of treating Down syndrome via the administration of (-) phenserine or (+) phenserine (ANVS401) and combinations thereof. The world-wide exclusive license we have with Horizon comprises the patents co-owned by Horizon and the PHS; the patents have expiration dates between 2022 and 2026.
+ 
+Annovis has filed an additional three families of patent applications to prolong the patent life of ANVS401. The pending patent applications were invented and filed by Annovis and include claims directed to:
+ 
+
+• | a method of treating neurodegenerative diseases such as AD and PD;
+--+-------------------------------------------------------------------
+
+
+• | a method of treating and/or preventing acute brain and nerve injuries; and
+--+---------------------------------------------------------------------------
+
+
+• | a method of prevention and treatment of disease states due to metal dis-homeostasis such as AD or PD as well as other acute or chronic neurodegenerative diseases.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The patents have expiration dates between 2031 and 2038. In August 2019, the U.S. Patent and Trademark Office granted Patent No. US 10,383,851, the first of our Annovis patents from this family covering PD and associated diseases.
+ 
+The patent portfolio licensed from Horizon relating to our product candidate ANVS401 includes three patent families and more specifically claims:
+ 
+
+• | The first of these patent families relates to a composition of matter for ANVS401 tartrate, a method of inhibiting production of amyloid precursor protein and a method of treating AD and dementia via the administration of ANVS401 and 257 analogs. This patent family includes granted patents in the United States, Europe, Australia and Canada. We expect patents in this family to expire in 2022.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The second of these patent families relates to a process for producing the two enantiomers (−) phenserine and (+) phenserine = ANVS401 from physostigmine compounds by hydrolysis to form an eseroline compound which is then condensed with an isocyanate. This patent family includes granted patents in the United States, Europe, Canada and South Korea. We expect patents in this family to expire in 2022.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The third of these patent families relates to a method of treating DS via the administration of phenserine, (+) phenserine (ANVS401) and combinations thereof. This patent family includes two granted patents in the United States. We expect patents in this family to expire in 2025 and 2026.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+18
+--
+
+ 
+
+The patent and patent application portfolio invented and filed by Annovis relating to ANVS401 and ANVS405 includes three patent families and more specifically claims:
+ 
+
+• | The first of these patent families relates to a method of reducing the amount of a neurotoxic protein in a human(s) by administering a pharmaceutical composition which includes ANVS401 or a pharmaceutically acceptable salt thereof in an amount which is surprisingly less than previously reported and administered on a once a day basis. This patent family includes patent applications pending in the United States, Europe and Canada. If granted, we expect patents in this family to expire in 2032 in non-U.S. jurisdictions and in 2031 in the United States. This patent family covers AD and PD as well as Huntington’s disease, prion diseases, amyotrophic lateral sclerosis, tauopathies and frontotemporal dementia. In August 2019, the U.S. Patent and Trademark Office granted Patent No. US 10,383,851, the first of our Annovis patents from this family covering PD and associated diseases. We are filing one or more continuation applications in order to capture further patentable subject matter in this application. While the issuance of our new patent gives us some comfort that the patent life of ANVS401 may be prolonged to 2031, the fact that only a portion of the application family claims has so far been allowed could result in very limited patent coverage and the constraint of our development efforts to PD alone. It is further possible that we will fail to identify further patentable aspects of our research and development output before it is too late to obtain patent protection.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The second of these patent families relates to a method of treating or preventing acute brain or nerve injury in humans in need of such treatment, via the administration of an effective amount of ANVS405. The acute brain or nerve injury may be traumatic brain injury, stroke, microinfarcts, post-operative cognitive decline resulting from anesthesia or surgery-induced inflammation, or acute brain injury induced by brain ischemia, insufficient oxygen supply to the brain, anoxia or hypoxia, concussion, drowning, whip lash, bicycle crashes, automobile accidents, shaken baby syndrome, falling, physical impact of the head, or acute angle-closure glaucoma. This patent family includes patent applications pending in the United States, Australia, Canada, China, Europe, Hong Kong and Japan. If granted, we expect patents in this family to expire in 2036.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The third of these patent families relates to a method of restoring heavy metal homeostasis to a healthy human or restoring heavy metal homeostasis in a sick human patient, comprising chronically administering ANVS401 in a therapeutically effective amount to maintain heavy metal homeostasis in the healthy human patient or restore heavy metal homeostasis in the sick human patient. The sick human patient may be, e.g., suffering from a neurodegenerative disease, such as AD or PD, or a cancerous disease or condition, a cardiovascular disease, or a disease of a vital organ. This patent family further relates to the surprising fact that ANVS401 may prevent, control, delay or slow the onset of such diseases by maintaining heavy metal homeostasis. Further, Annovis has now recognized that while heavy metal dis-homeostasis is responsible for neurodegenerative disorders, such as AD, in other conditions cells of the human patient can be stressed (e.g., have high heavy metal concentrations such as iron) and react with cardiovascular diseases or conditions of vital organ failure. These diseases may be prevented, controlled, delayed or slowed by the chronic administration of effective amounts of ANVS401 to maintain heavy metal homeostasis. This patent family includes patent applications pending in the United States, Australia, Canada, China, Europe, Hong Kong, and Japan. If granted, we expect patents in this family to expire in 2038.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Individual patents extend for varying periods depending on the date of filing of the patent application or the date of patent issuance and the legal term of patents in the countries in which they are obtained. Generally, patents issued for regularly filed applications in the United States are granted a term of 20 years from the earliest effective non-provisional filing date. In addition, in certain instances, a patent term can be extended to recapture a portion of the U.S. Patent and Trademark Office, or USPTO, delay in issuing the patent as well as a portion of the term effectively lost as a result of the FDA regulatory review period. However, as to the FDA component, the restoration period cannot be longer than five years and the total patent term including the restoration period must not exceed 14 years following FDA approval. The duration of foreign patents varies in accordance with provisions of applicable local law, but typically is also 20 years from the earliest effective filing date. However, the actual protection afforded by a patent varies on a product by product basis, from country to country and depends upon many factors, including the type of patent, the scope of its coverage, the availability of regulatory-related extensions, the availability of legal remedies in a particular country and the validity and enforceability of the patent.
+ 
+
+19
+--
+
+ 
+
+Furthermore, we rely upon trade secrets and know-how and continuing technological innovation to develop and maintain our competitive position. We seek to protect our proprietary information, in part, using confidentiality agreements with our collaborators, employees and consultants and invention assignment agreements with our employees. We also have confidentiality agreements or invention assignment agreements with our collaborators and selected consultants. These agreements are designed to protect our proprietary information and, in the case of the invention assignment agreements, to grant us ownership of technologies that are developed through a relationship with a third party. These agreements may be breached, and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or be independently discovered by competitors. To the extent that our collaborators, employees and consultants use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions.
+ 
+Our commercial success will also depend in part on not infringing upon the proprietary rights of third parties. It is uncertain whether the issuance of any third-party patent would require us to alter our development or commercial strategies, or our drugs or processes, obtain licenses or cease certain activities. Our breach of any license agreements or failure to obtain a license to proprietary rights that we may require to develop or commercialize our future drugs may have an adverse impact on us. If third parties have prepared and filed patent applications prior to March 16, 2013 in the United States that also claim technology to which we have rights, we may have to participate in interference proceedings in the USPTO, to determine priority of invention. For more information, please see “Risk Factors—Risks Related to Our Intellectual Property.”
+ 
+Future Development
+ 
+ANVS401 may have utility in other neurodegenerative diseases beyond AD and PD patients and protect nerve cells in all chronic and acute neurodegenerative disorders.
+ 
+Material Agreements
+ 
+In November 2008 we entered into an exclusive world-wide agreement, as amended in November 2011 and May 2012, with a subsidiary of Horizon Therapeutics PLC (Horizon), which is the successor to Raptor Pharmaceuticals, Inc. and TorreyPines Therapeutics, Inc., for the rights to ANVS401 and its analogs. We have a worldwide exclusive license to ANVS401 and its analogs, subject to standard reservation of rights under federal law.
+ 
+The license agreement requires us to pay a minimum annual fee, milestone payments, royalties and a portion of any sublicense income we may receive. The minimum yearly fee of $46,000 may be deferred until we raise $2 million in equity financing. We have been accruing the yearly fee. At December 31, 2019, we had accrued $506,000 which is included in accrued liabilities in our financial statements. Milestone payments are payable upon the first attainment of the commencement of a Phase 2 efficacy study ($230,000); the commencement of a Phase 3 pivotal study ($575,000); filing of an NDA for regulatory approval ($1,150,000); receipt of regulatory approval in the U.S. ($5,750,000); and receipt of regulatory approval outside the U.S ($5,750,000). Royalties must be paid in an amount equal to 5.75% of net sales of licensed products. Should we be required to obtain a license from a third party in order to sell a licensed product, we may deduct 50% of the royalties on such licensed product paid to the third party, subject to certain minimums. In addition to the royalties, we must pay the licensor 9.2% of all sublicense income attributable to licensed products.
+ 
+The agreement also provides us a buy-out option which we may exercise at any time. The option price is as follows: $500,000 if exercised prior to the commencement of the first Phase 2 clinical trial; $1,000,000 if exercised on or after the commencement of the first Phase 2 clinical trial and prior to the commencement of the first Phase 3 clinical trial; $5,000,000 if exercised on or after the commencement of the first Phase 3 clinical trial and prior to the filing of a NDA with the FDA for the first licensed product; and $8,000,000 if exercised on or after the filing of an NDA for the first licensed product.
+ 
+We have the right to terminate the agreement at any time by giving 90 days advance notice subject to the payment of any amounts due under the agreement at that time. If we do not terminate the agreement or exercise the buy-out option, the term of the agreement will continue until the expiration of our obligation to make royalty payments. Such royalty payments continue for each product in each country until the later of the expiration of the related patent or 10 years after the initial sale of the product in the respective country. The agreement may also be terminated for cause by either party upon the breach of the material obligations of the other party or the bankruptcy or liquidation of the other party.
+ 
+
+20
+--
+
+Sales and Marketing
+ 
+Once ANVS401 is approved for AD or PD, we plan to enter into sales and marketing agreements with one or several pharmaceutical companies to sell to neurologists, geriatric specialists and to primary care physicians.
+Manufacturing
+ 
+ANVS401 is a small molecule that is manufactured using a 4-step patented process. We rely on third-party contractors for manufacturing clinical supplies and plan to do so for commercial amounts also. Presently we are working with an overseas supplier for the manufacture of the cGMP API and with a local supplier for the storage stability, encapsulating, blister packing, blinding and distribution of the capsules or pills to the clinical sites.
+Government Regulation
+ 
+The FDA and comparable regulatory authorities in state and local jurisdictions and in other countries impose substantial and burdensome requirements upon companies involved in the clinical development, manufacture, marketing and distribution of drugs, such as those we are developing. These agencies and other federal, state and local entities regulate, among other things, the research and development, testing, manufacture, quality control, safety, effectiveness, labeling, storage, record keeping, approval, advertising and promotion, distribution, post-approval monitoring and reporting, sampling and export and import of our product candidates.
+U.S. Government Regulation of Drug Products
+ 
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act (FDCA) and its implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with applicable federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval, may subject an applicant to a variety of administrative or judicial sanctions, such as the FDA’s refusal to approve pending NDAs, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement or civil or criminal penalties.
+ 
+The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+ 
+
+• | Completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA’s good laboratory practice, or GLP, regulations.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission to the FDA of an IND, which must become effective before human clinical trials may begin.
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | Approval by an independent institutional review board, or IRB, at each clinical site before each trial may be initiated.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+• | Performance of adequate and well-controlled human clinical trials in accordance with good clinical practice, or GCP, requirements to establish the safety and efficacy of the proposed drug product for each indication.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission to the FDA of an NDA.
+--+---------------------------------
+
+
+• | Satisfactory completion of an FDA advisory committee review, if applicable.
+--+----------------------------------------------------------------------------
+
+
+• | Satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current good manufacturing practice, or cGMP, requirements and to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Satisfactory completion of FDA audits of clinical trial sites to assure compliance with GCPs and the integrity of the clinical data.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Payment of user fees and securing FDA approval of the NDA.
+--+-----------------------------------------------------------
+
+
+• | Compliance with any post-approval requirements, including the potential requirement to implement a Risk Evaluation and Mitigation Strategy, or REMS, and the potential requirement to conduct post-approval studies.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+21
+--
+
+Preclinical Studies
+ 
+Preclinical studies include laboratory evaluation of product chemistry, toxicity and formulation, as well as animal studies to assess potential safety and efficacy. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data and any available clinical data or literature, among other things, to the FDA as part of an IND. Some preclinical testing may continue even after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the clinical trial on a clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to initiate.
+Clinical Trials
+ 
+Clinical trials involve the administration of the investigational new drug to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include the requirement that all research subjects provide their informed consent in writing for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it initiates at that institution. Information about certain clinical trials must be submitted within specific timeframes to the NIH for public dissemination on their www.clinicaltrials.gov website.
+ 
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined:
+ 
+
+• | Phase 1: The drug is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 2: The drug is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3: The drug is administered to an expanded patient population, generally at geographically dispersed clinical trial sites, in well-controlled clinical trials to generate enough data to statistically evaluate the efficacy and safety of the product for approval, to establish the overall risk-benefit profile of the product, and to provide adequate information for the labeling of the product.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if serious adverse events occur. Phase 1, Phase 2 and Phase 3 trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients.
+ 
+Marketing Approval
+ 
+Assuming successful completion of the required clinical testing, the results of the preclinical and clinical studies, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the product for one or more indications. In most cases, the submission of an NDA is subject to a substantial application user fee. Under the Prescription Drug User Fee Act, or PDUFA, guidelines that are currently in effect, the FDA has a goal of ten months from the date of “filing” of a standard NDA, for a new molecular entity to review and act on the submission. This review typically takes twelve months from the date the NDA is submitted to FDA because the FDA has approximately two months to make a “filing” decision.
+ 
+In addition, under the Pediatric Research Equity Act of 2003, or PREA, as amended and reauthorized, certain NDAs or supplements to an NDA must contain data that are adequate to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. An Agreed Initial Pediatric Study Plan requesting a waiver from the requirement to conduct clinical studies has been submitted to the FDA.
+ 
+
+22
+--
+
+ 
+
+The FDA also may require submission of a risk evaluation and mitigation strategy, or REMS, plan to ensure that the benefits of the drug outweigh its risks. The REMS plan could include medication guides, physician communication plans, assessment plans, and/or elements to assure safe use, such as restricted distribution methods, patient registries, or other risk minimization tools.
+ 
+The FDA conducts a preliminary review of all NDAs within the first 60 days after submission, before accepting them for filing, to determine whether they are sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA reviews an NDA to determine, among other things, whether the drug is safe and effective and whether the facility in which it is manufactured, processed, packaged or held meets standards designed to assure the product’s continued safety, quality and purity.
+ 
+The FDA may refer an application for a novel drug to an advisory committee. An advisory committee is a panel of independent experts, including clinicians and other scientific experts, which reviews, evaluates and provides a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions.
+ 
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities comply with cGMP requirements and are adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA may inspect one or more clinical trial sites to assure compliance with GCP requirements.
+ 
+After evaluating the NDA and all related information, including the advisory committee recommendation, if any, and inspection reports regarding the manufacturing facilities and clinical trial sites, the FDA may issue an approval letter, or, in some cases, a complete response letter. A complete response letter generally contains a statement of specific conditions that must be met in order to secure final approval of the NDA and may require additional clinical or preclinical testing for the FDA to reconsider the application. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. If and when those conditions have been met to the FDA’s satisfaction, the FDA will typically issue an approval letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications.
+ 
+Even if the FDA approves a product, it may limit the approved indications for use of the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess a drug’s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution and use restrictions or other risk management mechanisms under a REMS, which can materially affect the potential market and profitability of the product. The FDA may prevent or limit further marketing of a product based on the results of post-marketing studies or surveillance programs. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes, and additional labeling claims, are subject to further testing requirements and FDA review and approval.
+ 
+Special FDA Expedited Review and Approval Programs
+ 
+The FDA has various programs, including fast track designation, accelerated approval, priority review, and breakthrough therapy designation, which are intended to expedite or simplify the process for the development and FDA review of drugs that are intended for the treatment of serious or life-threatening diseases or conditions and demonstrate the potential to address unmet medical needs. The purpose of these programs is to provide important new drugs to patients earlier than under standard FDA review procedures.
+ 
+To be eligible for a fast track designation, the FDA must determine, based on the request of a sponsor, that a product is intended to treat a serious or life-threatening disease or condition and demonstrates the potential to address an unmet medical need. The FDA will determine that a product will fill an unmet medical need if it will provide a therapy where none exists or provide a therapy that may be potentially superior to existing therapy based on efficacy or safety factors. The FDA may review sections of the NDA for a fast track product on a rolling basis before the complete application is submitted, if the sponsor provides a schedule for the submission of the sections of the NDA, the FDA agrees to accept sections of the NDA and determines that the schedule is acceptable, and the sponsor pays any required user fees upon submission of the first section of the NDA.
+ 
+
+23
+--
+
+ 
+
+The FDA may give a priority review designation to drugs that offer major advances in treatment or provide a treatment where no adequate therapy exists. A priority review means that the goal for the FDA to review an application is six months, rather than the standard review of ten months under current PDUFA guidelines. Under the current PDUFA agreement, these six- and ten-month review periods are measured from the “filing” date rather than the receipt date for NDAs for new molecular entities, which typically adds approximately two months to the timeline for review and decision from the date of submission. Most products that are eligible for fast track designation are also likely to be considered appropriate to receive a priority review.
+ 
+In addition, products tested for their safety and effectiveness in treating serious or life-threatening illnesses and that provide meaningful therapeutic benefit over existing treatments may be eligible for accelerated approval and may be approved on the basis of adequate and well-controlled clinical trials establishing that the drug product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality (IMM) that is reasonably likely to predict an effect on IMM or other clinical benefit, taking into account the severity, rarity or prevalence of the condition and the availability or lack of alternative treatments. As a condition of approval, the FDA may require a sponsor of a drug receiving accelerated approval to perform post-marketing studies to verify and describe the predicted effect on IMM or other clinical endpoint, and the drug may be subject to accelerated withdrawal procedures.
+ 
+Moreover, under the provisions of the Food and Drug Administration Safety and Innovation Act, or FDASIA, passed in July 2012, a sponsor can request designation of a product candidate as a “breakthrough therapy.” A breakthrough therapy is defined as a drug that is intended, alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition, and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. Drugs designated as breakthrough therapies are also eligible for accelerated approval. The FDA must take certain actions, such as holding timely meetings and providing advice, intended to expedite the development and review of an application for approval of a breakthrough therapy. At the completion of our two Phase 2 trials, one in PD and one in AD, Annovis will petition the FDA to classify ANVS401 as a breakthrough therapy.
+ 
+Even if a product qualifies for one or more of these programs, the FDA may later decide that the product no longer meets the conditions for qualification or decide that the time period for FDA review or approval will not be shortened. We may explore some of these opportunities for our product candidates as appropriate.
+ 
+Accelerated Approval Pathway
+ 
+The FDA may grant accelerated approval to a drug for a serious or life-threatening condition that provides meaningful therapeutic advantage to patients over existing treatments based upon a determination that the drug influences a surrogate endpoint that is reasonably likely to predict clinical benefit. The FDA may also grant accelerated approval for such a condition when the product has an effect on an intermediate clinical endpoint that can be measured earlier than an effect on IMM, and that is reasonably likely to predict an effect on IMM or other clinical benefit, taking into account the severity, rarity or prevalence of the condition and the availability or lack of alternative treatments. Drugs granted accelerated approval must meet the same statutory standards for safety and effectiveness as those granted traditional approval.
+ 
+For the purposes of accelerated approval, a surrogate endpoint is a marker, such as a laboratory measurement, radiographic image, physical sign or other measure that is thought to predict clinical benefit but is not itself a measure of clinical benefit. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. An intermediate clinical endpoint is a measurement of a therapeutic effect that is considered reasonably likely to predict the clinical benefit of a drug, such as an effect on IMM. The FDA has limited experience with accelerated approvals based on intermediate clinical endpoints, but has indicated that such endpoints generally may support accelerated approval where the therapeutic effect measured by the endpoint is not itself a clinical benefit and basis for traditional approval, if there is a basis for concluding that the therapeutic effect is reasonably likely to predict the ultimate clinical benefit of a drug.
+ 
+The accelerated approval pathway is most often used in settings in which the course of a disease is long, and an extended period is required to measure the intended clinical benefit of a drug, even if the effect on the surrogate or intermediate clinical endpoint occurs rapidly. Thus, accelerated approval has been used extensively in the development and approval of drugs for treatment of a variety of cancers in which the goal of therapy is generally to improve survival or decrease morbidity and the duration of the typical disease course requires lengthy and sometimes large trials to demonstrate a clinical or survival benefit.
+ 
+
+24
+--
+
+ 
+
+The accelerated approval pathway is usually contingent on a sponsor’s agreement to conduct, in a diligent manner, additional post-approval confirmatory studies to verify and describe the drug’s clinical benefit. As a result, a drug candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including the completion of Phase 4 or post-approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post-approval studies or confirm a clinical benefit during post-marketing studies, would allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to prior review by the FDA.
+ 
+Orphan Drug Designation and Exclusivity
+ 
+Under the Orphan Drug Act, the FDA may designate a drug product as an “orphan drug” if it is intended to treat a rare disease or condition (generally meaning that it affects fewer than 200,000 individuals in the United States, or more in cases in which there is no reasonable expectation that the cost of developing and making a drug product available in the United States for treatment of the disease or condition will be recovered from sales of the product). A company must request orphan product designation before submitting an NDA. If the request is granted, the FDA will disclose the identity of the therapeutic agent and its potential use. Orphan product designation does not convey any advantage in or shorten the duration of the regulatory review and approval process.
+ 
+If a product with orphan status receives the first FDA approval for the disease or condition for which it has such designation or for a select indication or use within the rare disease or condition for which it was designated, the product generally will be receiving orphan product exclusivity. Orphan product exclusivity means that the FDA may not approve any other applications for the same product for the same indication for seven years, except in certain limited circumstances. If a drug or drug product designated as an orphan product ultimately receives marketing approval for an indication broader than what was designated in its orphan product application, it may not be entitled to exclusivity. Orphan exclusivity will not bar approval of another product under certain circumstances, including if a subsequent product with the same active ingredient for the same indication is shown to be clinically superior to the approved product on the basis of greater efficacy or safety, or providing a major contribution to patient care, or if the company with orphan drug exclusivity is not able to meet market demand. Further, the FDA may approve more than one product for the same orphan indication or disease if the products contain different active ingredients. Moreover, competitors may receive approval of different products for the indication for which the orphan product has exclusivity or obtain approval for the same product but for a different indication for which the orphan product has exclusivity.
+ 
+Post-Approval Requirements
+ 
+Drugs manufactured or distributed pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims are subject to prior FDA review and approval. There are continuing, annual program user fee requirements for any marketed products.
+ 
+The FDA may impose a number of post-approval requirements as a condition of approval of an NDA. For example, the FDA may require post-marketing testing, including Phase 4 clinical trials, and surveillance to further assess and monitor the product’s safety and effectiveness after commercialization.
+ 
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP requirements and impose reporting and documentation requirements upon the sponsor and any third-party manufacturers that the sponsor may decide to use. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance.
+ 
+Once an approval of a drug or medical device is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in mandatory revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical trials to assess new safety risks; or imposition of distribution or other restrictions under a REMS program. Other potential consequences include, among other things:
+ 
+
+25
+--
+
+
+• | Restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fines, warning letters or holds on post-approval clinical trials.
+--+------------------------------------------------------------------
+
+
+• | Refusal of the FDA to approve pending NDAs or supplements to approved NDAs, or suspension or revocation of product approvals.
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Product seizure or detention, or refusal to permit the import or export of products.
+--+-------------------------------------------------------------------------------------
+
+
+• | Injunctions or the imposition of civil or criminal penalties.
+--+--------------------------------------------------------------
+
+ 
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs or devices may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability.
+ 
+U.S. Coverage and Reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of our lead product candidate, ANVS401, or any other for which we may seek regulatory approval. Sales in the U.S. will depend in part on the availability of adequate financial coverage and reimbursement from third-party payors, which include government health programs such as Medicare, Medicaid, TRICARE and the Veterans Administration, as well as managed care organizations and private health insurers. Prices at which we or our customers seek reimbursement for our product candidates can be subject to challenge, reduction or denial by payors.
+ 
+The process for determining whether a payor will provide coverage for a product is typically separate from the process for setting the reimbursement rate that the payor will pay for the product. Third-party payors may limit coverage to specific products on an approved list or formulary, which might not include all the FDA-approved products for a particular indication. Also, third-party payors may refuse to include a branded drug on their formularies or otherwise restrict patient access to a branded drug when a less costly generic equivalent or another alternative is available. Medicare Part D, Medicare’s outpatient prescription drug benefit, contains protections to ensure coverage and reimbursement for oral oncology products, and all Part D prescription drug plans are required to cover substantially all oral anti-cancer agents. However, a payor’s decision to provide coverage for a product does not imply that an adequate reimbursement rate will be available. Private payors often rely on the lead of the governmental payors in rendering coverage and reimbursement determinations. Sales of ANVS401 or any other product candidates will therefore depend substantially on the extent to which the costs of our products will be paid by third-party payors. Achieving favorable coverage and reimbursement from the Centers for Medicare and Medicaid Services (“CMS”) and/or the Medicare Administrative Contractors is typically a significant gating issue for successful introduction of a new product.
+ 
+Third-party payors are increasingly challenging the price and examining the medical necessity and cost-effectiveness of medical products and services, in addition to their safety and efficacy. In order to obtain coverage and reimbursement for any product that might be approved for marketing, we may need to conduct studies in order to demonstrate the medical necessity and cost-effectiveness of any products, which would be in addition to the costs expended to obtain regulatory approvals. Third-party payors may not consider our product candidates to be medically necessary or cost-effective compared to other available therapies, or the rebate percentages required to secure favorable coverage may not yield an adequate margin over cost or may not enable us to maintain price levels sufficient to realize an appropriate return on our investment in drug development.
+ 
+U.S. Healthcare Fraud and Abuse Laws and Compliance Requirements
+ 
+We are subject to various federal and state laws targeting fraud and abuse in the healthcare industry. These laws may impact, among other things, our proposed sales and marketing programs. In addition, we may be subject to patient privacy regulation by both the federal government and the states in which we conduct our business. The laws that may affect our operations include:
+
+26
+--
+
+
+• | the federal Anti-Kickback Statute, which prohibits, among other things, persons from soliciting, receiving, offering or paying remuneration, directly or indirectly, in cash or in kind, to induce or reward, or in return for, either the referral of an individual for, or the purchase, order or recommendation of, an item or service reimbursable under a federal healthcare program, such as the Medicare and Medicaid programs. The term “remuneration” has been broadly interpreted to include anything of value;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | federal false claims and civil monetary penalties laws, including the federal civil False Claims Act, which prohibits anyone from, among other things, knowingly presenting, or causing to be presented, for payment to federal programs (including Medicare and Medicaid) claims for items or services that are false or fraudulent;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | provisions of HIPAA, which created new federal criminal statutes that prohibit, among other things, knowingly and willfully executing a scheme to defraud any healthcare benefit program or making false statements in connection with the delivery of or payment for healthcare benefits, items or services. In addition, HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act and its implementing regulations, impose certain requirements relating to the privacy, security and transmission of individually identifiable health information; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the federal Physician Payment Sunshine Act requirements, under the Patient Protection and Affordable Care Act, which require manufacturers of certain drugs and biologics to track and report to CMS payments and other transfers of value they make to U.S. physicians and teaching hospitals as well as physician ownership and investment interests in the manufacturer.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Regulation Outside the United States
+ 
+To the extent that any of our product candidates, once approved, are sold in a foreign country, we may be subject to similar foreign laws and regulations, which may include, for instance, applicable post-marketing requirements, including safety surveillance, anti-fraud and abuse laws and implementation of corporate compliance programs and reporting of payments or other transfers of value to healthcare professionals.
+ 
+To market our future products in the EEA (which is comprised of the 28 Member States of the EU plus Norway, Iceland and Liechtenstein) and many other foreign jurisdictions, we must obtain separate regulatory approvals. More concretely, in the EEA, medicinal products can only be commercialized after obtaining a Marketing Authorization, or MA. There are two types of marketing authorizations:
+ 
+
+• | The Community MA, which is issued by the European Commission through the Centralized Procedure, based on the opinion of the Committee for Medicinal Products for Human Use of the European Medicines Agency, or EMA, and which is valid throughout the entire territory of the EEA. The Centralized Procedure is mandatory for certain types of products, such as biotechnology medicinal products, orphan medicinal products and medicinal products indicated for the treatment of AIDS, cancer, neurodegenerative disorders, diabetes, auto-immune and viral diseases. The Centralized Procedure is optional for products containing a new active substance not yet authorized in the EEA, or for products that constitute a significant therapeutic, scientific or technical innovation or which are in the interest of public health in the EU; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | National MAs, which are issued by the competent authorities of the Member States of the EEA and only cover their respective territory, are available for products not falling within the mandatory scope of the Centralized Procedure. Where a product has already been authorized for marketing in a Member State of the EEA, this National MA can be recognized in another Member State through the Mutual Recognition Procedure. If the product has not received a National MA in any Member State at the time of application, it can be approved simultaneously in various Member States through the Decentralized Procedure.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Under the above described procedures, before granting the MA, the EMA or the competent authorities of the Member States of the EEA assess the risk-benefit balance of the product based on scientific criteria concerning its quality, safety and efficacy.
+ 
+
+27
+--
+
+Data and Marketing Exclusivity
+ 
+In the EEA, new products authorized for marketing, or reference products, qualify for eight years of data exclusivity and an additional two years of market exclusivity upon marketing authorization. The data exclusivity period prevents generic or biosimilar applicants from relying on the pre-clinical and clinical trial data contained in the dossier of the reference product when applying for a generic or biosimilar marketing authorization in the EU during a period of eight years from the date on which the reference product was first authorized in the EU. The market exclusivity period prevents a successful generic or biosimilar applicant from commercializing its product in the EU until 10 years have elapsed from the initial authorization of the reference product in the EU. The 10-year market exclusivity period can be extended to a maximum of eleven years if, during the first eight years of those 10 years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies.
+Orphan Drug Designation
+ 
+In the EEA, a medicinal product can be designated as an orphan drug if its sponsor can establish that the product is intended for the diagnosis, prevention or treatment of a life-threatening or chronically debilitating condition affecting not more than five in ten thousand persons in the EU when the application is made, or that the product is intended for the diagnosis, prevention or treatment of a life-threatening, seriously debilitating or serious and chronic condition in the EU and that without incentives it is unlikely that the marketing of the drug in the EU would generate sufficient return to justify the necessary investment in development. For either of these conditions, the applicant must demonstrate that there exists no satisfactory method of diagnosis, prevention or treatment of the condition in question that has been authorized in the EU or, if such method exists, the drug will be of significant benefit to those affected by that condition.
+ 
+In the EEA, an application for designation as an orphan product can be made any time prior to the filing of an application for approval to market the product. Marketing authorization for an orphan drug leads to a ten-year period of market exclusivity. During this market exclusivity period, the EMA or the member state competent authorities, cannot accept another application for a marketing authorization, or grant a marketing authorization, for a similar medicinal product for the same indication. The period of market exclusivity is extended by two years for medicines that have also complied with an agreed PIP.
+ 
+This period may, however, be reduced to six years if, at the end of the fifth year, it is established that the product no longer meets the criteria for orphan drug designation, for example because the product is sufficiently profitable not to justify market exclusivity. Market exclusivity can be revoked only in very selected cases, such as consent from the marketing authorization holder, inability to supply sufficient quantities of the product, demonstration of “clinical superiority” by a similar medicinal product, or, after a review by the Committee for Orphan Medicinal Products, requested by a member state in the fifth year of the marketing exclusivity period (if the designation criteria are believed to no longer apply). Medicinal products designated as orphan drugs are eligible for incentives made available by the EU and its Member States to support research into, and the development and availability of, orphan drugs.
+ 
+Employees
+ 
+As of March 23, 2020, we had two employees. In addition to our employees, we contract with consultants and third parties for the conduct of certain clinical development, accounting and administrative activities.
+Corporate Information
+ 
+We were incorporated in Delaware in 2008. Our principal executive offices are located at 1055 Westlakes Drive, Suite 300, Berwyn, PA 19312 and our telephone number is (610)727-3913. Our website address is www.annovisbio.com. The inclusion of our website address is, in each case, intended to be an inactive textual reference only and not an active hyperlink to our website. The information contained in, or that can be accessed through, our website is not part of this Annual Report on Form 10-K.
+
+28
+--
+

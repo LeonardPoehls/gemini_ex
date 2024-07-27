@@ -1,0 +1,361 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Corporate Overview of Ondas Holdings Inc.
+ 
+Ondas Holdings Inc. (the “Company”) was originally incorporated in Nevada on December 22, 2014 under the name of Zev Ventures Incorporated. On September 28, 2018, we consummated a reverse acquisition transaction to acquire a privately-held company, Ondas Networks Inc., and changed our name from “Zev Ventures Incorporated” to “Ondas Holdings Inc.” As a result, Ondas Networks Inc. (“Ondas Networks”) became our wholly owned subsidiary. We refer to this transaction as the “Acquisition.” In connection with the closing of the Acquisition, we discontinued the prior business of Zev Ventures as a reseller of sporting and concert tickets and our sole business became that of Ondas Networks.
+ 
+This Annual Report on Form 10-K (“Form 10-K”) reports our business and financial results on a consolidated basis and therefore, the use of the words “we,” “our,” the “Company” and “Ondas Holdings” means Ondas Holdings Inc. and its subsidiaries. Where necessary for clarification purposes, Ondas Holdings, Ondas Networks or Zev Ventures may be used independently.
+ 
+Corporate Overview of Ondas Networks Inc.
+ 
+Ondas Networks was originally incorporated in Delaware on February 16, 2006 under the name of Full Spectrum Inc. On August 10, 2018, the name was changed to Ondas Networks Inc.
+ 
+Ondas Networks’ wireless networking products are applicable to a wide range of mission critical operations that require secure communications over large geographic areas. We provide wireless connectivity solutions enabling mission-critical Industrial Internet applications and services. We refer to these applications as the Mission-Critical Internet of Things (MC-IoT).
+ 
+We design, develop, manufacture, sell and support FullMAX, our multi-patented, state-of-the-art, point-to-multipoint, Software Defined Radio (SDR) platform for secure, licensed, private, wide-area broadband networks. Our customers purchase FullMAX system solutions to deploy wide-area intelligent networks (WANs) for smart grids, smart pipes, smart fields and other mission critical networks that need internet protocol connectivity. We sell our products and services globally through a direct sales force and value-added sales partners to critical infrastructure providers including electric and gas utilities, water and wastewater utilities, oil and gas producers and pipeline operators, and for other critical infrastructure applications in areas such as homeland security and defense, and transportation. In addition, our FullMAX platform will begin to be deployed in the second quarter of 2020 to provide command and control connectivity solutions for drones and unmanned aerial systems (UAS).
+ 
+TARGET INDUSTRIES AND APPLICATIONS
+ 
+
+1
+
+ 
+
+We are dedicated to promoting standards-based wireless connectivity solutions for our customers. Our FullMAX platform is compliant with the mission critical wireless Industrial Internet IEEE 802.16s. The specifications in the IEEE 802.16s standard are primarily based on our FullMAX technology, and many of our customers and industrial partners actively supported our technology during the IEEE standards-making process. In January 2020, a new working group was launched by the IEEE to establish IEEE 802.16t, a further evolution of this wireless standard. The IEEE 802.16t working group includes industry-leading trade organizations such as the Utilities Technology Council (UTC) and the Electric Power Research Institute (EPRI), as well as representation from world-leading transportation and oil and gas companies. We expect our technology to remain a prominent feature of this evolving standard.
+ 
+We believe that the published standard has been instrumental in broadening the appeal of our FullMAX platform globally across all critical infrastructure markets. Since the publishing of IEEE 802.16s in November 2017, there has been a significant increase in interest from customers in end markets including oil and gas, water and wastewater, transportation and homeland security, as well as for the command and control of industrial drones. We believe we are currently the only supplier able to offer IEEE 802.16s compliant systems and are actively working with customers and industry partners to help develop and support a multi-vendor MC-IoT industry ecosystem for this standard.
+ 
+Our FullMAX system of wireless base stations, fixed and mobile remote radios and supporting technology is designed to enable highly secure and reliable industrial-grade connectivity for truly mission-critical applications. The target customers for our products operate in critical infrastructure sectors of the global economy. Private wireless networks are typically the preferred choice of these large industrial customers with business operations spanning large field areas. Private networks provide enhanced protection against cyber terrorism, as well as natural and man-made disasters, and the ability for the operator to maintain and control their desired quality of service. Our IEEE 802.16s compliant equipment is designed to optimize performance of unused or underutilized low frequency licensed radio spectrum and narrower channels. A FullMAX wireless network is significantly less expensive to build compared to traditional LTE and 5G networks given its ability to optimize the performance of lower cost radio spectrums (non-traditional LTE and 5G bands) and provide much greater coverage. In many of our industrial end markets, the adoption of low-cost edge computing and increased penetration of “smart machinery” and sensors is driving demand for next-generation networks for IoT applications such as those powered by FullMAX.
+ 
+Our FullMAX platform has been selected by a customer to be the connectivity backbone for the deployment of a nationwide wireless network for operators of UAS. This network will be designed to enable the command and control of industrial and commercial drones. The unique air interface protocol and narrow channel capability of FullMAX offers significant value in the command and control function required to safely and economically operate many drones on a single network. Upon commercialization, we expect our FullMAX platform to be scalable to simultaneously manage hundreds of drones per tower site flying beyond visual line of site (BVLOS) missions throughout the U.S. airspace. We expect our FullMAX platform to be shipped and deployed by the UAS customer in the second quarter of 2020, providing coverage over the entire U.S. airspace from the high-powered, terrestrial base stations.
+ 
+In addition to selling our FullMAX solutions for dedicated private wide area networks, we offer mission-critical wireless services to industrial customers and municipalities in the form of a Managed Private Network in select regions. In June 2019, we acquired 2 MHz of licensed spectrum in the 700 MHz band for the State of Alaska, the Gulf of Mexico and multiple counties bordering the Gulf. We are now offering mission-critical wireless connectivity and secured initial customers in these regions, which consist of 900,000 square miles of surface area. In addition, we have demonstration networks in the New York metropolitan area and in Northern California in association with a nationwide spectrum owner in the 200 MHz band. Collectively, these 200 MHz demonstration networks cover tens of thousands of square miles in some of the nation’s most strategic economic areas.
+ 
+2
+
+ 
+
+Target Customers
+ 
+The target customers for our products operate in critical infrastructure sectors of the global economy. Private wireless networks are typically the preferred choice of these large industrial customers with business operations spanning large field areas. Private networks provide enhanced protection against cyber terrorism, as well as natural and man-made disasters, and the ability for the operator to maintain and control their desired quality of service. The existing public carrier networks based on LTE and 5G technology are designed for mobile consumer usage and are not architected for MC-IoT applications. Wi-Fi-based IoT offerings have similar shortcomings related to security, availability, and reliability, which are likewise unacceptable for mission-critical functions.
+ 
+Our FullMAX technology offers a next-generation upgrade path for existing private networks currently managed by our industrial customers. These networks will typically be deployed on the existing tower and backhaul infrastructure owned by our customers thereby reducing incremental infrastructure costs. We offer much faster data throughput and more efficient radio frequency utilization relative to existing private networks that are based largely on legacy, proprietary technologies. We believe the IEEE 802.16s standard, and its next iteration as 802.16t, are important catalysts for the MC-IoT upgrade cycle as our critical infrastructure customers increasingly prefer standards-based technology. Standards-based solutions offer a deeper ecosystem of suppliers resulting in more price and service competition and lower costs. The standard is relevant for all critical infrastructure providers with operations covering large field areas making the market potential sizeable enough to attract a deep ecosystem of hardware and software solutions providers along with ancillary service organizations to support our customers.
+ 
+We believe our FullMAX powered WANs serve the high end of the value chain as compared to mass-market, low-powered, narrowband solutions such as LoRa, Sigfox and NB-IoT technologies which are being offered by public carriers. Our customers require wide-area coverage with broadband speeds and low latency performance for operating environments managed over large field areas, which we can provide cost effectively.
+ 
+
+3
+
+ 
+
+Customer Activity
+ 
+We launched a business expansion plan in 2018 to leverage our world-class, standards-based FullMAX platform and penetrate the large, fast-growing critical infrastructure end markets we target. We grew our dedicated sales resources to broaden our marketing efforts beyond the electric utility sector, which had historically been our primary end market. Since the second half of 2018, we have significantly increased customer engagement in the transportation, oil and gas, security and UAS end markets. We expect that our qualified customer pipeline will increase throughout 2020. A potential customer is included in our qualified pipeline after the potential customer expresses interest in our products and we have confirmed that the potential customer has an application for which our FullMAX platform would be well-suited.
+ 
+We received and fulfilled purchase orders in 2019 for multiple pilot programs with Burlington Northern Santa Fe Railway and CSX Corporation, two North American Class I freight railroad operators. There are seven Class I freight railroad operators in North America, all of which run multiple, frequency-specific networks for different applications. Our FullMAX platform has the flexibility to operate in all of these frequency bands and will allow these customers the opportunity to better utilize their radio spectrum and add more high-value, data-intensive applications to their operations. Our initial field work with these rail customers has been for applications related to train control systems in the 900 MHz frequency band. We expect a 900 MHz network upgrade cycle across multiple Class I railroads over the next few years and believe our FullMAX platform has significant potential to replace the legacy network equipment in this band. We are also currently lab testing with rail customers in the 160 MHz land mobile radio (LMR) network, which is where the Class I railroads run their critical voice applications. Our activity with the freight railroads has led to similar network opportunities amongst Class II railroad operators. We expect additional purchase orders from Class I and Class II railroads in 2020.
+ 
+We entered the UAS market in late 2019 when we received a purchase order for base stations and remote radios from a customer planning to deploy a nationwide network for the command and control of commercial drones. Our customer intends to offer managed services for drone fleet management across this network. After this initial deployment, we will work closely with the customer and ecosystem partners to fully commercialize an end-to-end system designed to develop an FAA-compliant UAS navigation system. We expect additional purchase orders in 2020 for work related to additional system engineering and for equipment from end user customers.
+ 
+We initiated field trials with large electric utility and oil and gas customers in 2019. We expect to expand pilot programs throughout 2020 so as to secure a significant reference customer in these important end markets. We continued to support customers in the security sector in 2019 through deployment of a network supporting a maritime border security installation on a Caribbean island for a leading Israeli defense electronics vendor. This security system installation, integrated with a FullMAX network, can be replicated by our customers for other projects globally. We expect additional purchase orders from this, and other defense electronics vendors, in 2020.
+ 
+4
+
+ 
+
+In addition to selling our FullMAX solutions for dedicated private wide area networks, we intend to offer mission-critical wireless services to industrial customers and municipalities in the form of a Managed Private Network in select regions. In June 2019, we acquired 2 MHz of licensed spectrum in the 700 MHz band for the State of Alaska, the Gulf of Mexico and multiple counties bordering the Gulf. We are now offering mission-critical wireless connectivity and secured initial customers in these regions, which consist of 900,000 square miles of surface area. In Alaska, we established mission-critical wireless service covering Anchorage and Fairbanks North Star, Alaska’s two most populated boroughs with more than half the State’s approximate 740,000 population. We deployed system trials with Alaska Railroad Corporation in the Wasilla/Cottonwood region for mission-critical wayside connectivity, and in the Kenai Peninsula, Homer Electric Association successfully trialed our FullMAX system for SCADA connectivity to portions of the electric grid. In the Gulf of Mexico region, we established service and coverage in coastal counties including Cameron Parish in Louisiana, and Victoria, Calhoun and Jefferson Counties in Texas. Customers in Victoria and Calhoun Counties include Internet service provider TISD, Inc. In Jefferson County, we are planning trials with a Class I rail customer for wayside connectivity and other mission-critical applications. In Cameron Parish, we entered into a service agreement with Louisiana Radio Communications to provide wireless service to Lake Charles marine pilot boats in the Gulf of Mexico, which require real time tide and weather information to navigate vessels to port. We are currently negotiating to obtain additional tower assets along and in the Gulf of Mexico to establish mission-critical IoT services for fixed rig and mobile vessel connectivity.
+ 
+We also operate demonstration networks in the New York metropolitan area and in Northern California in association with a nationwide spectrum owner in the 200 MHz band. We have deployed, with this spectrum owner, a FullMAX-powered network along the east coast covering the I-95 corridor reaching from eastern Pennsylvania and southern New Jersey and the New York metropolitan network northward up to the Boston metropolitan area. Collectively, these networks cover tens of thousands of square miles in some of the nation’s most strategic economic areas. We are working with this spectrum owner and a partner to develop marketing and network expansion opportunities to provide mission-critical wireless service to customers in the 200 MHz band. When fully deployed and operational, this managed service will be priced on a monthly usage basis for customers.
+ 
+We believe China offers us attractive long-term business potential. In December 2018, we established a China-based subsidiary located in Chengdu, to market our products in China by targeting critical infrastructure industries. We explored the establishment of supply chain management and manufacturing operations for both local customers and for export. We expected to secure lower component costs via the further development of our supply chain in Asia for high volume production and planned to develop internal capabilities for product assembly and testing. However, in the fourth quarter of 2019, we revised our business strategy and withdrew our direct marketing and manufacturing efforts in China after determining that our customers, in particular those customers operating in the U.S., including electric utility and rail sectors, strongly preferred that our products be manufactured outside of China. Consequently, we are in the process of dissolving our China-affiliated subsidiaries. We believe that we can still efficiently reach our target customers in China during 2020 through the use of value-added resellers and other business partners with established marketing and field support operations in China.
+ 
+The Market for our Products
+ 
+Our FullMAX system of base stations, fixed and mobile remote radios and supporting technology is designed to enable highly secure and reliable Industrial-grade connectivity for truly mission-critical applications. We offer a range of products with different options for narrowband and broadband applications. Our SDR platforms offer unmatched flexibility with respect to the radio frequencies in which they operate (ranging from 70 MHz to 6 GHz) and channel size configurations (ranging from 12.5 KHz to 10 MHz).
+ 
+The global end markets for our MC-IoT solutions are established, large, and we believe, poised to grow rapidly given the key role connectivity will play in next generation IoT-type applications. Firms like Cisco Systems, Inc. and Gartner, Inc. forecast that there will be billions of connected IoT devices installed by year end 2020; many of them will be deployed for industrial applications. Dell’Oro Group, Inc. estimates that Wide Area IoT spending, including low power WAN deployments with which we compete, will reach $33.0 billion for carriers and infrastructure vendors by 2022, growing approximately 2.5xs from 2017. Ondas Networks is leveraging its industry expertise and FullMAX technology to develop an enhanced range of products to capitalize on this expanding opportunity with the goal of becoming the leading supplier of private cellular network products. In many of our industrial end markets, we believe the adoption of low-cost edge computing and increased penetration of “smart machinery” is driving demand for next-generation networks for IoT applications such as those powered by FullMAX.
+ 
+5
+
+ 
+
+According to research firm MarketsandMarkets, worldwide spending on communications by the electric utility sector should grow over 15% per year and is expected to reach $15.4 billion annually by 2021. This growth is being driven by distributed and renewable power generation projects and regulatory requirements for secure and reliable power generation and distribution as the industry deals with aging infrastructure. Market forecasts for oil and gas producers, water and wastewater utilities, homeland security, transportation and other critical infrastructure segments are similarly large. For example, MarketsandMarkets forecasts that spending on oilfield communications will reach $4.5 billion by 2022, which would represent an annual growth of 7.9% from today. In addition, the US Railroad sector is expected to spend over $10.0 billion in aggregate by 2020 to fully implement Positive Train Control (PTC) functions as required by federal regulations according to the American Association of Railroads.
+ 
+Our innovative, standards-based FullMAX system offers UAS operators and users a high-performing, cost-effective solution for reliable command and control of drones. The end market opportunity for UAS network solutions is large and rapidly growing. According to analysts at Barclays Capital, the global drone market, including consumer, commercial and military drones, is forecast to exceed $100 billion by 2024, with commercial drone sales rising 10-fold from $4 billion to nearly $40 billion in 2019. The U.S. Federal Aviation Administration (FAA) raised its forecast in 2019 and now expects over 450,000 commercial drones flying in the U.S. by 2022, a four-fold increase from 2017. The command and control capability offered by our FullMAX platform will be a key enabler driving the growth of the UAS market. Industrial UAS applications offer significant value to our core critical infrastructure markets and the economy at large, which supports the growth outlook for this market. In addition to broad use by government agencies and agriculture markets, utilities, railroads, and oil and gas industries are actively evaluating, or are in the process of incorporating, the extensive use of drones into their business operations. These critical infrastructure sectors can realize substantial savings and improved reliability in operations from deploying drones to monitor and inspect their remote infrastructure and assets.
+ 
+Our Products and Services
+ 
+Our FullMAX Base Station and Remote radios are deployed by our customers to create wide-area wireless communication networks. A FullMAX network provides end-to-end IP connectivity, allowing critical infrastructure providers to extend their secure corporate networks into the far reaches of their service territories.
+ 
+Our FullMAX SDR platform:
+ 
+
+● | offers a dedicated private network for industrial applications which safeguards critical assets and information and protects against cyberattacks; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | has frequency agility with the capability to operate in any frequency between 70 MHz and 6 GHz; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | may be deployed in a wide variety of narrow and broadband channel sizes and can aggregate non-contiguous channels; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | FullMAX radios use a SDR platform to implement standard versions of the IEEE 802.16 protocol, the new 802.16s amendment, and the planned 802.16t enhancements, and supports extensions to provide further flexibility and performance beyond the standard implementations. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+FullMAX radios can operate at high transmit power (up to 100 watts) at both the Base Station and Remote sites providing fixed and mobile data connectivity up to 30 miles from the tower site. This results in up to 2,800 square miles of coverage from a single FullMAX tower compared with the 28 square miles typically supported by other 4G technologies and three square miles by 5G technologies. This dramatically reduces the infrastructure cost of building and operating a private cellular network. For example, to cover a territory of over 10,000 square miles may require only four FullMAX towers compared with more than 350 typical 4G towers, depending on the topography of the region.
+ 
+6
+
+ 
+
+We also provide a variety of services associated with the sale of our FullMAX products including network design, RF planning, product training and spectrum consulting. We provide customers with technical support, extended hardware warranties, and software.
+ 
+FullMAX Network Architecture
+ 
+Our Growth Strategy
+ 
+Our goal is to be a global leader in providing wireless connectivity solutions enabling mission-critical Industrial Internet applications and services. We intend to leverage our FullMAX technology and the IEEE 802.16s standard to achieve this goal. We plan to go “Deep and Wide” in the marketing of our connectivity solutions into global critical infrastructure end markets. Our strategy is to deeply penetrate our traditional end markets, including electric utilities while continuing the expansion of our distribution and support capabilities into new vertical end markets such as we have recently done in the oil and gas, transportation, security, and UAS sectors.
+ 
+The key elements of our growth strategy include the following:
+ 
+
+● | Deliver on sales pipeline opportunities. Our marketing efforts have generated the potential for significant sales in our targeted end markets. Our sales activity in the North American Class 1 Railroad sector has resulted in several pilot programs for multiple railroad operators. Once we successfully complete field testing, we expect to work with our customers to design and develop a network deployment strategy which we expect to lead to purchase orders for equipment and services. We have similar field testing and initial system deployments planned in the UAS markets, security, electric and gas utilities, and oil and gas markets. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Secure marketing partnerships and OEM relationships. We service blue chip customers in critical infrastructure sectors with standards-based, mission-critical connectivity solutions. Those customers value the experience and resources provided by additional ecosystem partners that help support the growth of the MC-IoT end markets. We intend to Pursue marketing and OEM partnership agreements with other Tier 1 global industrial and communications equipment suppliers that have extensive reach and domain expertise in our targeted end markets. These relationships will offer customers greater choice, expanded levels of after-market support and services, and the potential for greater product integration with intelligent equipment, and systems that are increasingly being deployed by our critical infrastructure customers. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7
+
+ 
+
+
+● | Develop new products to continuously improve our customer value. We introduced our Mercury remote radio in the first quarter of 2020 in order to address the expanding MC-IoT market for high volume, lower cost endpoint radios. Our Mercury radios are integrated into our existing FullMAX private network solutions, are compliant with IEEE 802.16s and can be utilized in both Tier 1 and Tier 2 network configurations. We will continue to enhance our SDR capabilities to aggregate non-contiguous channels with a focus on traditional licensed LMR frequency bands to provide IP data networking solutions in historically analog push-to-talk (PTT) bands. We will also work with our ecosystem partners to develop dual-mode products to assist in the migration from legacy networks to our next-generation FullMAX platform. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand our MC-IoT capabilities via partnerships, joint ventures or acquisitions. In addition to internal investment and development, we will actively pursue external opportunities to enhance our product offerings and solutions for our critical infrastructure customers via joint ventures, partnerships and acquisitions. This activity will be focused on companies with complementary technologies or product offerings or synergistic distribution strategies. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sales and Marketing
+ 
+We generate sales leads and new customers through direct sales efforts, third party resellers, customer referrals, consultant referrals, trade show attendance, general marketing efforts and public relations.
+ 
+After basic qualification of the prospect, the typical sales process starts with the customer supplying us with key information regarding their network assets including the location of their existing radio tower sites and the remote locations where they require data connectivity. We use this information to generate radio frequency coverage maps based on our FullMAX technology. This information is formatted into a proposal which is then reviewed with the customer to determine the suitability of our solution. The next step typically involves a customer paid onsite lab evaluation of our products during which the customer tests for basic functionality, security and application compatibility. This is typically followed by a live, real world outdoor test in which the customer purchases additional equipment to communicate with a representative number of utility infrastructure control points.
+ 
+Following the successful evaluation of the FullMAX product in a pilot network, the customer may choose, or be required, to complete a Request for Proposal (RFP) or Request for Quotation (RFQ) process to address the requirements of their entire network. We have participated in many such processes and have developed an extensive library of material and processes for responding effectively and efficiently in a timely manner.
+ 
+If we are selected, we typically enter into contract negotiations with the customer based on our standard terms and condition of sale, software licensing agreement and warranty policy. The customer then generates a purchase order and we commence fulfillment of the order. Many purchase orders allow for or require phased delivery of products over several months or years.
+ 
+Many of our customers are conservative in their decision-making process. Sales cycles for new customers can vary from one to three years depending on the complexity of the customer’s network, whether the customer is subject to state regulations, and annual budget cycles. We believe that the sales cycle will shorten as we build our market presence with successful FullMAX deployments which will serve as reference customers and as the IEEE 802.16s multi-vendor ecosystem develops.
+ 
+Manufacturing, Availability and Dependence upon Suppliers
+ 
+We design the printed circuit boards and enclosures for our radios and maintain the bill of materials for all of the products we manufacturer. A Bill of Materials (BOM) is a list of the raw materials, sub-assemblies, intermediate assemblies, sub-components, parts and the quantities of each needed to manufacture an end product. The physical manufacturing of FullMAX circuit boards is outsourced to best-in-class industrial contract manufacturers. The contract manufacturer is responsible for sourcing the majority of components in the BOM, assembling the components onto the printed circuit boards and then delivering the final boards to us. Once at our facility, the boards are tested, then placed into enclosures and programmed with the appropriate software. The radios are then configured according to the requirement of the network and run through system level tests before being packaged and shipped to the customer.
+ 
+8
+
+ 
+
+We have elected to outsource manufacturing in order to allow us to focus on designing, developing and selling our products. Furthermore, outsourced manufacturing allows us to leverage the economies of scale and expertise of specialized outsourced manufacturers, reduce manufacturing and supply chain risk and distribution costs. We maintain multiple contract manufacturers, both domestically and internationally, to ensure competitive pricing and to reduce the risk from a single manufacturer.
+ 
+Customer Support
+ 
+We supply our customers with installation manuals, user guides and system documentation as well as onsite training customized to their specific needs. We are also capable of supporting installation and commissioning services either internally or, for extensive projects, through subcontracted third-party specialists.
+ 
+We provide remote support to our customers including radio configuration assistance, hardware and software troubleshooting, software updates and software enhancements. The original purchase price of all FullMAX radios includes a one-year hardware warranty and software maintenance plan. After one year, in order to continue their hardware warranty and software maintenance, the customer enters into an Annual Support Agreement with us, the cost of which is based on the total value of our products deployed — typically ranging from 10-15% of the current selling price.
+ 
+Product Development
+ 
+We retain a dedicated team of software and hardware engineers that are responsible for developing and maintaining various aspects of our FullMAX technology. The core technology is based on state-of-the-art digital signal processing (DSP) chipsets, field programmable gate arrays (FPGAs), and general-purpose processors. In wireless nomenclature, this concept is referred to as software defined radio (SDR) technology.
+ 
+We believe FullMAX is one of the most flexible SDRs for private WANs on the market today. It can be viewed in contrast to most other commercial wireless technologies (e.g. LTE, Wi-Fi, etc.) which are based on dedicated communications chipsets with very limited flexibility. We have purposely designed the technology with a wide range of flexibility given the current and evolving requirements of industrial field area data networks. Specifically, there is the need to accommodate legacy protocols that predate Internet Protocol (IP) and Ethernet while also supporting some of the most advanced protocols in the world including multiprotocol label switching (MPLS). Our flexible hardware and software radio architecture ensures we can support the entire range of protocols as our customers evolve their networks and applications.
+ 
+Our SDR technology also provides our customers with unmatched flexibility with respect to radio spectrum frequency bands and channel sizes. Our FullMAX radios work in frequency bands ranging from 70 MHz to 6 GHz and in channel sizes from 12.5 kHz to 10 MHz. This flexibility allows our customers to repurpose their existing underutilized spectrum assets or access new licensed radio spectrum at a lower cost.
+ 
+FullMAX radios have three major software components: (i) general embedded Linux-based software, (ii) DSP software, and (iii) FPGA software. FullMAX Base Stations and Remote radios have distinct software packages which combine these three components. Also, different computer software tools are used to develop the source code for each of the components. Hardware design and development is completed using standard computerized hardware design tools.
+ 
+9
+
+ 
+
+Our product design process begins with detailed requirements supplied from current and prospective customers. These inputs then flow into our development roadmap, which is divided into six, 12 and 36-month plans. A majority of our ongoing development is software related which includes the following development process: (i) requirements specification, (ii) high level design, (iii) detailed design, (iv) coding, (v) unit test, (vi) integration tests, (vii) lab verification tests, and (viii) outdoor deployment verification.
+ 
+FullMAX is currently available on: (1) our Venus hardware platform with transmit power up to four watts; (2) our Jupiter hardware platform with enhanced processing power combined with two (2) four-watt power amplifiers; and (3) our Mars hardware platform with our highest transmit power radio up to 100 watts. The Jupiter and Mars platforms are targeted toward customer Base Station applications. The Venus platform is deployed in the field in both remote radio and Base Station applications.
+ 
+Our new ruggedized outdoor platform, Neptune, is at an advanced stage of development and will be produced based on customer demand. Neptune has the same functionality as the Venus platform but is designed to be IP65 compliant for outdoor operation and to sustain extreme shock and vibration according to the U.S. military standard MIL STD-810.
+ 
+Our FullMAX technology is currently a single-tier (Tier 1) point-to-multi-point broadband wireless system. Our FullMAX topology evolution includes the development of our Mercury product, a low-cost end point designed for licensed MC-IoT communication in either a first tier or second tier networks installation. The Venus platform is used as the concentrator of the second tier. In a two-tier topology, the Tier 2 system will be aggregated via a Tier 1 Remote Station. The Tier 2 network elements are now available for customer deployments.
+ 
+Research & Development
+ 
+Our ability to develop state-of-the-art and cost-effective solutions relative to our competitors can only be achieved through our continued research and development efforts. Our research and development activities are headed by Menashe Shahar, our Chief Technology Officer, based in our Sunnyvale, California headquarters. Mr. Shahar is a co-founder of the Company and has over 30 years of telecommunications system development experience, including the design and implementation of broadband wireless data systems for top tier system integrators and service providers including WorldCom, Nortel and ADC. Mr. Shahar has been awarded multiple patents in the data communications industry and has been an active participant in major wireless standardization activities including IEEE 802.16. In addition to internal research and development efforts, we also engage third party consultants to assist us in our research and development activities.
+ 
+Our research and development team works closely with our customer support team, and incorporates feedback from our customers into our product development plans to improve our products and address emerging market requirements.
+ 
+Our research and development expenses were $5,416,425 and $3,076,502 for the years ended December 31, 2019 and 2018, respectively.
+ 
+Intellectual Property
+ 
+We rely primarily on patent, trademark and trade secret laws to protect our proprietary technologies and intellectual property. As of this filing, we held a total of six issued patents in the U.S., seven pending patent applications in the U.S., and one international pending patent application. Our patents expire between 2030 and 2037, subject to any patent extensions that may be available for such patents. Our intellectual property centers around creating and maintaining robust, private, highly secure, broadband industrial wireless networks using our FullMAX radio technology for our mission critical customers’ networks. We view our patents as a key strategic advantage as the markets for industrial wireless connectivity grows and as these industries move to standardized solutions and will enable us to earn licensing fees and/or royalties for the use of our patents.
+ 
+We have a policy of requiring our officers, employees, contractors and other service providers and parties with which we do business to enter into confidentiality, non-disclosure (“NDAs”) and assignment of invention agreements before disclosure of any of our confidential or proprietary information.
+ 
+10
+
+ 
+
+Seasonality
+ 
+We do not believe that the industry in which we compete is subject to seasonal sales fluctuation; however, we do recognize that a typical sales cycle for new customers may take from one to three years depending on the complexity of their network and whether the customer is subject to state regulations and/or annual budget cycles.
+
+
+Dependence on a Single Customer
+ 
+Because we have only recently invested in our customer service and support organization, a small number of customers have accounted for a substantial amount of our revenue. During the year ended December 31, 2019, three customers accounted for approximately $144,000, $115,000 and $56,000 of our revenue, or approximately 45%, 36% and 18%, respectively. During the year ended December 31, 2018, two customers accounted for approximately $145,000 and $32,000 of our revenue, or approximately 76% and 17%, respectively. No other customers provided more than 10% of our revenue during 2019 and 2018.
+ 
+Competition
+ 
+We compete with alternatives to wireless technology, public cellular data networks and private wireless networking products from other manufactures. We believe that each of these competing solutions has core weaknesses when compared to FullMAX, as described below.
+ 
+Non-wireless technologies:
+ 
+
+● | Leased Phone Lines – Analog lines are being retired by the phone companies and are not being replaced by new digital lines, especially where the grid assets are located. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Power Line Carrier – The transmit speeds supported by this technology are typically too low to meet the data rates of new applications. Furthermore, the service may not be available if there is an interruption in the grid (e.g. downed power lines); often the situation when communication is mission critical. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Private Fiber – Fiber is a point-to-point technology which has many points of failure (e.g. accidental or malicious fiber cuts) and security vulnerabilities (e.g. tapping). Underground fiber is cost prohibitive in most cases and above ground is susceptible to the same failures as downed power lines. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Alternate technologies:
+ 
+
+● | Satellite Technologies — These technologies provide good coverage, but throughput is limited and latency is too high to support mission-critical applications for our customers. These technologies can be very costly as compared to our products and systems. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Low-Power Wide Area Networks (LP-WANs) — LP-WAN solutions such as LoRa, Sigfox and NB-IoT are architected with lower power, the purpose of which is to make these typically sensor-based networks lower-cost solutions. The low powered equipment means these systems have lower throughput and higher latency and are not reliable for mission-critical applications that require both monitoring and control functions. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+11
+
+ 
+
+Public cellular data networks:
+ 
+
+● | Public networks are vulnerable to cyber security attacks from anywhere in the world including denial of service attacks; private networks can operate independent of the public internet. Based on current and planned FAA rules, UAVs will be off-net without public Internet access. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Public networks are susceptible to prolonged outages during man-made and natural disasters (e.g. 9/11, Hurricane Sandy, etc.), exactly when utilities and mission critical entities require the greatest reliability. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Public networks are typically designed for population coverage rather than the geographic areas required by critical infrastructure providers, which often include remote locations. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Public networks are by definition oversubscribed, shared networks without the necessary prioritization service to support mission critical applications. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Public networks typically use shared infrastructure including tower sites and long-haul fiber connections resulting in vulnerabilities at many points. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Public networks are designed to support high capacity downloading and streaming applications with limited upload bandwidth available. Utilities typically require the reverse traffic flow, often uploading data from a large number of remote locations. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Other private wireless products:
+ 
+
+● | Unlicensed Point to Multipoint Wireless (e.g. Wi-Fi) — This equipment is very inexpensive to purchase but is subject to interference, has many security vulnerabilities, uses a contention-based protocol and transmits only over short range. Deploying Wi-Fi over wide areas is cost prohibitive. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Private Licensed Narrowband Wireless Radios — These networks can provide good coverage and range but are typically too slow and lack sufficient bandwidth to support new applications and the increased number of data connections required. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Governmental Regulations
+ 
+Our operations are subject to various federal, state and local laws and regulations including:
+ 
+
+● | Authorization from the Federal Communications Commission (FCC) for operation in various licensed frequency bands, 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | customers’ licenses from the FCC, 
+--+---------------------------------------------------------------------------
+
+
+● | licensing, permitting and inspection requirements applicable to contractors, electricians and engineers, 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | regulations relating to worker safety and environmental protection, 
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | permitting and inspection requirements applicable to construction projects, 
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+● | wage and hour regulations, 
+--+--------------------------------------------------------------------
+
+
+● | regulations relating to transportation of equipment and materials, including licensing and permitting requirements, 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | building and electrical codes; and 
+--+----------------------------------------------------------------------------
+
+
+● | special bidding, procurement and other requirements on government projects. 
+--+---------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe we have all the licenses materially required to conduct our operations, and we are in substantial compliance with applicable regulatory requirements. The operation of our manufactured products by our customers (network providers and service providers) in the U.S. or in foreign jurisdictions in a manner not in compliance with local law could result in fines, business disruption, or harm to our reputation. The changes to regulatory and technological requirements may also alter our product offerings, impacting our market share and business.  Failure to comply with applicable regulations could result in substantial fines or revocation of our operating licenses, or could give rise to termination or cancellation rights under our contracts or disqualify us from future bidding opportunities.
+ 
+Employees
+ 
+As of March 13, 2020, we have 21 full-time employees and one part-time employee. Additionally, from time to time, we may hire temporary employees. We also utilize contractors to manufacture components, for certain research and development and for system deployment functions. None of our employees are covered by a collective bargaining agreement and we are unaware of any union organizing efforts. We have never experienced a major work stoppage, strike or dispute. We consider our relationship with our employees to be good.
+ 
+12
+
+ 
+
+Subsidiaries
+ 
+We have two wholly owned subsidiaries, Ondas Networks Inc., a Delaware corporation, which is our operating company, and FS Partners (Cayman) Limited, a Cayman Islands limited liability company. We have two majority owned subsidiaries, Full Spectrum Holding Limited, a Cayman Islands limited liability company, and Ondas Network Limited, a company registered to do business in China. Full Spectrum Holding Limited owns 100% of Ondas Network Limited, a company registered to do business in China. Both FS Partners (Cayman) Limited and Full Spectrum Holding Limited were formed for the purpose of beginning operations in China. As described above, we revised our business strategy and are in the process of dissolving our China-affiliated subsidiaries. Once this process is complete, we will have only one wholly owned subsidiary, Ondas Networks Inc.
+Corporate Information
+ 
+We are a Nevada corporation. Our corporate headquarters and operation facilities are located at 165 Gibraltar Court, Sunnyvale, CA 94089. Our telephone number is (888) 350-9994 and our fax number is (408) 300-5750. We maintain a website at http://www.ondas.com.
+Available Information
+ 
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports filed or furnished pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934, as well as section 16 reports on Form 3, 4, or 5, are available free of charge on our website at http://www.ondas.com as soon as it is reasonably practicable after they are filed or furnished with the SEC. Our Code of Business Conduct and the charters for the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee of our Board of Directors (“Board”) are also available on our website. The Code of Business Conduct and charters are also available in print to any shareholder upon request without charge. Requests for such documents should be directed to Eric Brock, Chief Executive Officer, at 165 Gibraltar Court, Sunnyvale, CA 94089. Our Internet website and the information contained on it or connected to it are not part of, or incorporated by, reference into this Form 10-K. Our filings with the SEC are also available on the SEC’s website at http://www.sec.gov.
+ 
+13
+
+ 
+

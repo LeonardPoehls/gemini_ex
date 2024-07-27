@@ -1,0 +1,547 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | BUSINESS
+--------+---------
+
+Overview
+ We are a provider of new purpose-built zero-emission electric vehicles focused on total cost of ownership. The vehicles are  manufactured by outside, original equipment manufacturer (“OEM”) partners located in China, Malaysia and the Philippines that can be marketed, sold, warrantied and serviced through our developing distribution and service network.  We also are a provider of advanced zero-emission electric drivetrain systems for integration in new  buses and medium to heavy-duty commercial fleet vehicles. We also provide re-power conversion kits to replace conventional drivetrain systems for combustion powered vehicles with zero-emission electric drivetrain systems. Our vehicles and drivetrain systems are designed to help fleet operators unlock the benefits of  technology that reduces greenhouse gases (“GHG”),nitrous oxide (“NOx”), particulate matter (“PM”) and other pollutants, as well as to address the challenges of local, state and federal regulatory compliance and traditional-fuel price cost instability.
+ Our vehicles and drivetrain systems can include options for telemetrics for remote monitoring, electric power-export and various levels of grid-connectivity. Our zero-emission products may also grow to include automated charging infrastructure and “intelligent” stationary energy storage that enables fast vehicle charging, emergency back-up facility power, and access to the developing, grid-connected opportunities for the aggregate power available from groups of large battery packs.
+ For the years ended December 31, 2019 and 2018, our net losses were approximately $5.2 million and $11.0 million, respectively. 
+ Market Overview
+ Concerns regarding climate change and other environmental considerations have led to the implementation of laws and regulations that restrict, cap, or tax emissions in the automotive industry and throughout other industries. In particular, Environmental Protection Agency (“EPA”) Tier 4 emission standards, California Air Resources Board (“CARB”) regulations, and recently implemented policies in Europe, generally referred to as Stage I, II, III and IV regulations, require a significant reduction in the level of emissions and particulate matter produced by diesel power systems and are increasing the costs associated with producing carbon-intensive fuels. In December 2019, the Verkhovna Rada of Ukraine decreed a number of changes to current law, including, among others, that the transition to electric road transport must be accomplished by January 1, 2030. They also introduced a measure to consider lending and insurance assistance for implementing the transition from combustion-fueled vehicles to electric vehicles. On June 28, 2018, China officially released the China VI emission standard for new heavy-duty vehicles, which is equivalent to, or in some respects even more stringent than, the Euro VI emission standard. The China VI standard intends to force diesel particulate filters on all new diesel heavy-duty vehicles introduced to the market after July 2021. If effectively implemented, it will transition all new heavy-duty vehicles in China to soot-free emission levels. In February 2018, the Mexican government announced a new policy that focused on reducing air pollution, improving public health and ultimately saving lives. This policy included the first soot-free standard adopted in Latin America, which required that all heavy-duty vehicles sold in Mexico meet the highest filter-based standards that are currently in place in other countries like the United States, Canada and much of the European Union. 
+ These regulations are expected to increase both the cost and size of emission-compliant diesel power products, primarily due to the need to incorporate additional combustion and after-treatment components. A variety of market factors are contributing to the increased use of alternative fuels and growth of alternative fuel technology, including economics, energy independence, environmental concerns, and the widespread availability of alternative fuels. As the price of crude oil remains volatile and the threats of climate change and air pollution increase as public concerns, we believe the search for more cost effective and cleaner fuels has become more important. Electricity has emerged as a cleaner-fuel solution to these challenges. The price of alternative fuels such as electricity is often substantially less than diesel or gasoline, and alternative fuels can result in the production of lower amounts of greenhouse gases and other air pollutants. In addition, several public utilities in California and elsewhere have applied to their states’ public utilities commissions (“PUCs”) for rate increases to be used for the purchase or leasing of electric vehicles and infrastructure. Additional requests have been made by the utilities to offer favorable costs for electric bus 
+ 2
+
+charging. In fact, three states (California, New York and New Jersey) are expected to spend $1.3 billion to build more electric vehicle charging.
+ According to the 
+International Energy Agency (“
+IEA”
+), 
+the world’s 
+fleet of electric vehicles grew 54% 
+to about 3.1 million in 2017, 
+and the IEA forecasts electric vehicles will grow from 3 million to 125 million by 2030, with 
+government policy being the linchpin for electric vehicle adoption.
+ Based on the IEA’s view, we believe that existing policies will make China and Europe the biggest adopters. In China, we anticipate that credits and subsidies will help electric vehicles grow to account for more than a quarter of the car market by 2030. Meanwhile, we believe that tightening emissions standards and high fuel taxes in Europe will result in substantial increases in the market share of electric vehicles. However, despite increasing market penetration in places like California and other states that have adopted zero-emission plans, reduced taxes on fuels and the current administration’s stated intentions to scale back vehicle emissions standards could suppress  growth. Notwithstanding, new electric car sales in China grew by 72%, or 580,000 units, in 2017, which increased total ownership to over 1 million vehicles. Further, according to the IEA, China is also driving growth in electric buses and two-wheeled vehicles, and accounts for about 99% of the world’s stock of the fast-growing categories.
+ In the United States, through September 2019, 236,067 new electric vehicles were registered in the United States, compared to 234,745 for the corresponding period in 2018, an increase of 0.6%, and more than double the sales from just 4 years ago.
+ The overall market for electric vehicles consists of multiple, discrete markets for various vehicle types, including passenger cars, buses, two-wheelers and others. Passenger cars are the most prominent, but two-wheelers are far more prevalent, particularly in Asia, and buses and trucks, although smaller in number, are significantly higher in price and often purchased in bulk by major corporate customers or government or transit agencies. Because light duty passenger vehicles represent the largest potential market and have received the most attention from both analysts and policy
+makers, most global forecasts look at light duty electric vehicle sales.
+ Charging infrastructure is another important factor in electric vehicle adoption rates. As of May 2019, there were more than 68,800 Level 2 and DC fast charging units throughout the United States. Of that total, 16%, or approximately 10,860 units, were DC fast chargers that make long-distance travel more practical for electric vehicles (EV). A DC fast charger adds 60 to 80 miles of range per 20 minutes of charging, while a Level 2 charger adds 10 to 20 miles of range per one hour of charging. California has the most EV charging units of any state at 22,620, which represents about a third of the nationwide total; however, there are 18 other states that have more than 1,000 Level 2 and DC fast charging units, combined. Counts include both public and non-residential private charging units. A charging unit refers to a single charge point. An EV charging station may have multiple units.
+ As of May 2019, the United States Department of Energy (“DOE”) reported that the U.S. now has over 20,000 electric car charging stations with more than 68,800 Level 2 and DC Fast Charging connectors. Of the 68,800 connectors, approximately 10,860 units were DC Fast Chargers designed to make long-distance travel more practical for EV’s. They define a “station” as a non-residential address where Electric Vehicle Supply Equipment (“EVSE”) is located, including both public and private stations, some of which may include several charging outlets per station. Over 60% of those charging stations are maintained by four networks: ChargePoint, Tesla, Blink, and SemaCharge. Level 2 charging stations can be used residentially or commercially to provide electricity faster than a standard 120-volt outlet. ChargePoint has the largest number of non-residential Level 2 charging stations, followed by Tesla. DC Fast Charging stations allow for long distance travel of electric vehicles by providing quick recharge rates along highways and well-traveled corridors between metropolitan areas. The eVgo Network has the largest number of DC Fast Charging stations, followed by Tesla with its SuperCharger network. Some geographic areas have considerably more charging stations than others, contributing to greater electric vehicle usage in those regions.
+ Commercial Vehicles
+ As relatively simple as the pricing analysis is for individual consumers, the purchase and deployment of heavy duty commercial vehicles involves consideration of many more variables. Here, the type of customer is a major determinant, whether it is a commercial customer buying trucks for a fleet, a school district, or a municipal entity purchasing buses for public use. Navigant Research forecasts global sales of electric drive and electric-assisted medium and heavy duty commercial vehicles (over 10,000 gross vehicle weight rating (“GVWR”)) to grow from 16,000 in 2014 to almost 160,000 in 2023, for total sales of over 800,000 of such vehicles during the period. Navigant Research expects the electric vehicle market share to increase from 0.4% to 2.9% of all medium and heavy-duty commercial vehicle sales over the same period.
+ 3
+
+Environmental Benefits
+ Because heavy-duty commercial vehicles consume considerably more fuel than light duty passenger vehicles, the environmental benefits of 
+replacing conventionally fueled commercial vehicles with electric vehicles 
+can also be substantial. Whereas an electric passenger car may 
+reduce greenhouse gas (“
+GHG”) emissions by 3 tons per year as compared to a conventional car, replacing a conventional Class 8 port drayage truck with an electric equivalent can bring an 18 metric ton annual reduction in GHG emissions. Replacing a conventional diesel bus with an all-electric bus can achieve a 78 metric ton (approximately 171,961 pounds) reduction in GHG e
+missions. Electric buses can also reduce nitrous oxide emissions by 47 kg (approximately 104 pounds) per year compared to a diesel bus and 19 kg (approximately 42 pounds) compared to a clean natural gas (“
+CNG”
+) bus. As discussed below, we believe these pollution reductions have had the greatest impact in the electric bus market, where municipalities are the principal purchasers. 
+A first-of-kind, comprehensive study was released in December 2019 assessing the environmental benefits and economics of various alternative fuel truck technologies. The study, conducted by the international research firm ICF, demonstrates that electric trucks and buses are a triple-win in terms of helping meet California’s climate and air quality targets; the least cost to own and operate across nearly all truck and bus classes by 2030; and provide the greatest job and economic benefits to the state. The study was commissioned by NRDC and the California Electric Transportation Coalition (an industry group representing utilities and vehicle manufacturers) and was sponsored by the Union of Concerned Scientists, Earthjustice, BYD, Ceres, and NextGen Climate America. Advisory support was provided by East Yard Communities for Environmental Justice and University of California, Davis.
+Electricity Cost Considerations
+ Despite the higher electricity consumption of electric trucks, more widespread adoption could lead to more efficient utilization of utility and power generation assets and thus not necessarily lead to higher rates. At this point, deployment of electric trucks and buses is still too small to assess their full impact on electricity prices. As a study by the clean transportation nonprofit CALSTART emphasizes, evaluating this impact will involve weighing potential efficiency benefits, the impact on utility distribution grids, including the cost of potential upgrades, and the need for additional infrastructure. In this regard, several public utilities have applied to their state’s PUCs for rate increases to be used for the purchase or leasing of electric vehicles and infrastructure. Additional requests have been made by the utilities to offer favorable costs for electric school bus charging.  
+Trucks
+ Some of the main markets for electric trucks include delivery vans, shuttle buses, and utility or work trucks, each of which has its own set of challenges. Where PHEVs (Plug-In Hybrid Electric Vehicle) have greater operational flexibility, and require less charging infrastructure, BEVs (Battery Electric Vehicle) can be either short range, which can charge quickly and operate with limited interruption, or long range, requiring longer charging times but more intraday operational flexibility.
+ Because of charging needs and restrictions, we believe short-haul fleet vehicles that operate in a limited geographic area and return to central locations, such as delivery vans and shuttle buses, are the best candidates for electrification.
+ Transit Buses
+ Some public transportation operators are facing pressure to purchase and operate low-emissions vehicles. For public entities, cleaner transportation systems can provide benefits beyond reduced operating costs, in the form of less pollution and lower abatement and cleanup costs. Electric transit buses are likely to have lower fuel and maintenance costs, typically a large cost area for transit operators, compared to conventional diesel buses. Electric buses generally have smoother, faster acceleration and provide a quieter ride, benefiting both passengers and the surrounding urban environment.
+ Similar to other commercial fleet electric vehicles, transit buses have a higher initial acquisition cost than their traditional-fueled counterparts, and the logistics of charging remains a challenge. Electric buses can be anywhere from two to nearly five times as expensive as conventional buses.
+ 4
+
+In addition to the public health and environmental benefits, school districts and transit agencies also see cost savings due to the reduced fuel and maintenance costs of electric buses. While electric transit buses cost approximately $200,000 more than diesel buses (depending on battery pack size)before incentives, lifetime fuel and maintenance savings of electric transit buses are around $400,000. And while electric school buses cost around $120,000 more than diesel school buses before incentives, lifetime fuel and maintenance savings of electric school buses are around $170,000. 
+ Electrification in the medium- and heavy-duty vehicle sector is increasing in the United States with California leading the way.  Increasing investment in the sector from public and private sources, however, is expected to generate growth and significantly increase the number of electric trucks and buses on the road in the near term. Upfront costs associated with electric trucks and buses are expected to decline significantly through 2030 as battery prices fall, making them competitive on a total cost of ownership (TCO) basis.
+ School Buses
+ School buses present another significant potential market for electrification. The United States has approximately 480,000 school buses in service that are particularly suited to running solely on electricity. Traditional diesel school buses, which make up over half the total fleet, not only consume large amounts of fuel-more than 800 million gallons of diesel a year in the United States, at a fuel economy of only 4–5 mpg-but also directly impact children with tailpipe emissions. In response, a number of states have included school buses in clean transportation mandates, and some school districts, notably in California and Illinois, have begun to replace diesel buses with electric. Incentive programs to help fund the purchase of electric school buses in the United States are significant. 
+Market Drivers
+ A number of factors, including the general world-wide desire to improve the health of people, impact both the supply and demand for various types of electric vehicles and we believe that we are well positioned to benefit as a result of these driving forces. Except for energy storage technologies, discussed earlier, subsequent sections will address these market drivers in greater detail.
+ We believe prominent drivers of supply include:
+  
+• | The declining cost and higher availability of energy storage technologies, specifically the cost and capacity of rechargeable lithium-ion batteries;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Grants, loans, tax breaks, and other financial support available for energy storage and electric vehicle research and development;
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Requirements that a specific percentage of automakers’ models be electric or other zero-emission vehicles; and
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | Fuel economy standards that require automakers to meet certain fleet-wide miles per gallon benchmarks that effectively require them to sell electric zero-emission vehicles.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We believe prominent drivers of demand include:
+  
+• | Mandates that government fleets purchase certain percentages of low emission, energy efficient, or other alternative fuel vehicles;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mandates for transport agencies, ports or school districts to purchase or convert to electric or other alternative fuel vehicles;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Rebates, tax credits, and other incentives for purchasing or leasing electric or other alternative fuel vehicles;
+--+------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+ 
+• | The availability of charging stations and other charging infrastructure, driven in turn by government funding, tax credits, rebates, and other incentives and regulatory initiatives aimed at increasing the number of charging stations;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The desire of state agencies to deploy electric vehicles to reduce the effects of Climate Change and to reduce the impact of pollutants on the health and well-being of its population;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The cost of electricity to recharge plug-in electric vehicles, impacted by special rates introduced by utilities;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Preferential treatment in registration, emissions testing, and access to highways, city centers, and HOV lanes; and
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | The cost of traditional petroleum-based fuels compared to the resultant incremental costs of owning and operating an electric vehicle.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+ United States—Federal Laws and Incentives
+ As numerous as U.S. policies at the state and federal levels may at first appear, unlike in China and many European nations, few federal and state policies directly single out electric vehicles. More broadly, federal U.S. policies encourage greater use of 
+vehicles that run on some kind of alternative fuel, whether electricity, natural gas, hydrogen, biodiesel or ethanol. In addition, the U.S. federal government has less of a comprehensive, coherent framework aimed at increasing electric vehicle use than do countries like China and many European nations.
+ United States—State Laws and Incentives
+ Among U.S. states, California is notable for pioneering a number of measures that have encouraged electric vehicle production and adoption, often later copied by other jurisdictions. These include financial incentives like tax credits and rebates for both individual and fleet owners, HOV lane access, and various grant and loan programs. Besides setting the nation’s most stringent tailpipe emissions standards, California 
+has required automakers to produce increasing percentages of zero-emission vehicles, of which electric vehicles 
+make up a significant portion, along with creating a market that allows manufacturers to buy and sell credits awarded for selling electric vehicles. California has also 
+authorized funding for the purchase of new school buses or retrofit of existing buses to accomplish the primary goal of reducing children’s exposure to both cancer-causing and smog-forming pollutants. The purchase of new buses is also 
+permitted for fleet expansion as well. See “—Governmental Programs and Incentives” for an additional discussion of certain relevant incentive programs.
+ Fleet Operator Challenges
+ Fleet operators and their companies face a number of challenges in the market today, including:
+  
+• | Difficulty complying with existing and new federal and state emission restrictions and compliance requirements. Federal regulatory agencies, such as the EPA, and state regulatory agencies, such as CARB, have set forth mandates designed to reduce emissions from mobile sources. According to CARB, 12 other states and the District of Columbia have adopted California’s greenhouse gas emissions standards for vehicles. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Finding cost savings while managing high fuel, maintenance and repair costs. The federal Global Warming Pollution Reduction Act of 2007 set strict air quality standards for particulate matter, nitrous oxide and GHG reductions from new manufactured vehicles which were further tightened in 2010 to further reduce the amounts of particulate matter, nitrous oxide and GHG emitted by newly manufactured vehicles.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Extending the lives of existing vehicles. Due to reductions in capital expenditure budgets and the legislatively mandated addition of expensive and limiting emission reduction equipment, it is challenging to prolong the lives of existing vehicles because of the increased cost of expensive maintenance, service and repairs.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Difficulty planning for the operation of their fleet when fuel supplies are interrupted, such as during a natural disaster. Existing vehicles rely on fuel that must be pumped (using electricity), which may be a challenge to source when supply is interrupted during natural or man-made disasters. It may be
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+ 
+possible for emergency service organizations to use the large battery packs of electric drive, commercial fleet vehicles as a mobile source of stored electrical energy. This electrical energy could supplement traditionally fueled back-up generators.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Difficulty in improving the environment around these heavy-duty commercial fleets. Many studies have shown that the air quality in and around vehicles fueled by fossil fuels poses a health risk not only to drivers of these vehicles but to their passengers and those in and around these vehicles. Especially at risk are children as passengers on older diesel fueled buses, as their lungs, brains and other organs have not fully developed and the air quality surrounding a typical school bus using diesel fuel can pose serious health risks. By using zero-emission buses, trucks and cars, we believe we are creating a healthier environment in and around the vehicles they operate for their employees, customers and the communities they serve. In January 2017 (updated in June 2018), the Office of Environmental Health Hazard Assessment, on behalf of the California Environmental Protection Agency, released Version 3.0 of the California Communities Environmental Health Screening Tool (“CalEnviroScreen”). CalEnviroScreen identifies California communities by census tract that are disproportionately burdened by, and vulnerable to, multiple sources of pollution.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Solution
+ We are a provider of new purpose-built zero-emission electric vehicles focused on total cost of ownership. The vehicles are  manufactured by outside, original equipment manufacturer (“OEM”) partners located in China, Malaysia and the Philippines that can be marketed, sold, warrantied and serviced through our developing distribution and service network.  We also are a provider of advanced zero-emission electric drivetrain systems for integration in new  buses and medium to heavy-duty commercial fleet vehicles. We also provide re-power conversion kits to replace conventional drivetrain systems for combustion powered vehicles with zero-emission electric drivetrain systems. Our vehicles and drivetrain systems are designed to help fleet operators unlock the benefits of  technology that reduces greenhouse gases (“GHG”),nitrous oxide (“NOx”), particulate matter (“PM”) and other pollutants, as well as to address the challenges of local, state and federal regulatory compliance and traditional-fuel price cost instability.  As of December 31, 2019, we had a backlog of one zero-emission electric school bus, 10 zero-emission cargo vans, 11 zero-emission Class 4 trucks, one ICE powered prison transport bus conversion to a zero-emission all electric bus, and 50 e-trikes, which consists of unfilled firm orders for products under signed contracts with customers.
+ We seek to enable our customers to:
+  
+• | Add Emission-Compliant Vehicles and Drivetrain Systems to Their Fleets. Our commercial fleet vehicles and drivetrain systems are designed to reduce or eliminate the use of traditional petroleum-based fuels that create greenhouse gases and particulate matter.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reduce Total Cost of Ownership. Our technology is designed to reduce fuel budgets and maintenance costs by eliminating or reducing the reliance on traditional petroleum-based fuels, instead using the more energy efficient and less variably priced grid-provided electricity.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Prolong Lives of Existing Vehicles. Zero-emission electric vehicles generally have lower maintenance costs. These reduced maintenance costs may take the form of longer service intervals between brake system maintenance, elimination of internal combustion engine oil and oil filter changes, reduction or elimination of transmission oil and oil filter changes, reduction or elimination of air filter changes, elimination of emissions systems services, elimination of diesel emission fluid use, elimination of emissions tests on traditional fuel vehicles (if converted to a zero-emission electric drivetrain system) and the elimination of certification tests of high pressure tanks on propane, liquefied natural gas and compressed natural gas powered vehicles (if converted to a zero-emission electric drivetrain system).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Plan for Natural Disasters When Fuel Supply May be Interrupted. Our zero-emissions systems are designed, when optionally equipped, to serve as on-site emergency back-up energy storage if grid power becomes intermittent or fails temporarily during natural or man-made disasters.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 7
+
+ 
+• | Improve the Environment Around Vehicles. As a result of our zero-emission systems, drivers, operators, customers and the communities they serve could have healthier environments in and around these vehicles.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Development of the Business to Date
+ We have taken an active role in building awareness and support for our zero-emission electric vehicles and drivetrain systems in industry specific target groups and at all levels of government and regulatory ag
+encies and the constituencies they serve. We initially accomplished this through our participation with Blue Bird Corporation (“Blue Bird”) in its DOE grant program to accelerate the adoption of advanced and alternative fuel vehicles. We have also maintain
+ed prior and current memberships in industry groups (private and governmental) and participate in their events; speaking engagements; management interviews; pilot product exhibits; fleet vehicle demonstrations and responses to requests for information and requests for proposals
+. We regularly engage with electric utility companies across the United States to build awareness of the medium to heavy-duty electric vehicles we currently offer and how their greater adoption could positively increase their customer
+s’ electricity usage.
+ As discussed below under the section entitled “—Partnerships/Teaming Agreements”,  we have entered into a number of agreements with third parties and continue to explore additional alliances, and to establish our decentralized assembly, sales and service model. We believe we can preserve cash resources while scaling up quickly when demand requires by leveraging the unused or underutilized service technician time, specific vehicle type expertise and service facility equipment of specific partners in ways to off-load some defined tasks, providing seasonal demand adjustments to technician headcount that will partially mitigate the human resource costs and challenges associated with scaling-up or down an employee base.
+ Our Strengths
+ We believe the following attributes and capabilities provide us with long-term competitive advantages:
+  
+• | Product Diversity. We have multiple product offerings, including zero-emission electric new purpose-built vehicles and drivetrain systems for new vehicles or to re-power existing commercial fleet vehicles, and, as a result, the ability to scale-up, scale-down or refine a specific product line in response to market demands and the evolving local, state and federal regulatory and incentive programs. Also, within each product area, we have multiple suppliers of key vehicle and drivetrain system components, allowing price flexibility both for our final products and replacement parts required over the product lifespan. This allows us to meet the expectations and budget constraints of public or private commercial fleet operators. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Regulatory Agency Familiarity. By taking an active role in many trade industry groups and related events, we have developed and continually strive to maintain strong relationships with key local, state and federal regulatory agencies involved in the growing zero-emission vehicle industry. To meet their own aggressive emissions targets, these regulatory agencies have encouraged the growth of zero-emission electric vehicles and drivetrain systems, especially in connection with heavy-duty commercial fleets. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Relationships With Purchasers. To help shorten the sales cycles for our products, we have identified and built relationships with key commercial operators that have purchasing authority or influence over their organizations. We are also able to leverage past sales and marketing relationships that were built by our experienced management team.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Additional Sales Potential. We have additional sales potential with commercial fleet customers. These potential additional sales could include: automated charging infrastructure, intelligent stationary energy storage systems that enable higher levels of vehicle fast-charging, emergency back-up facility power for use during grid power outages, enabling technologies to access the developing grid-connected opportunities for the aggregate power available from groups of large battery packs, or enabling technologies that allow for the avoidance of electric utility demand charges.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Unique Market Knowledge. We have specific and tailored sales cycle knowledge based on the over 30 years of experience of our management team.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+ 8
+
+Our Strategy
+ We intend to capitalize on these opportunities by pursuing the following key strategies:
+  
+• | Develop Sales Staff. We currently employ an experienced sales staff and industry consultants with ties to trucking fleet, county and city transportation managers, as well as school districts and an extensive dealer network. In 2019, we hired additional sales staff to augment our current personnel, and most likely will add more in 2020. We expect to be able to train these new additions in the electric vehicle differences, benefits, and opportunities for fleet expansion to help our current and future customer base.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Build Dealership Networks. We intend to build dealership networks for the local sales and service of our zero-emission new purpose-built zero-emission electric commercial vehicles either manufactured by or for us, and to service any vehicles that we have converted to all-electric operation. As an example, we recently announced an agreement with Central States Bus Sales Inc. (“Central States”) for warranty and maintenance services for our electric vehicles sold within the extensive Central States’ Midwest service area. We also recently announced the opening of a new operations facility in Corona, California. that will also provide such warranty and maintenance services. ADOMANI ZEV Sales is a wholly owned subsidiary of ADOMANI, and is a licensed vehicle dealer in California.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Develop Third Party Relationships. We plan to complete existing negotiations with partners and seek additional partners for the manufacture of our zero-emission systems.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Provide Demonstrations. We will seek out and respond to local, state and federal pilot demonstration opportunities in interest areas for which we have relevant current product offerings or in areas of interest that are congruent with product(s) that are on our product development roadmap but still in early stage development. In 2019 we participated in multiple ride-and-drive events across the United States and Canada that demonstrated our new product offerings, which consist of logistic vans, and Class 3, 4, and 5 trucks and chassis.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Obtain Approvals From Incentive Programs. We will seek to have our products approved for various local, state and federal vehicle designations and incentive programs, like the California Hybrid Voucher Incentive Program administered by CARB, meant to accelerate the purchase of cleaner, more efficient trucks and buses in California. The drivetrain systems we have provided to Blue Bird are approved for voucher programs in California and New York. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Grow Our Manufacturing, Installation and Service Capability. As facility space and technician time requirements at partners are exceeded, we intend to expand or relocate to larger owned or leased facilities dedicated to the manufacture, installation and service of our zero-emission vehicles and drivetrain systems. For example, we recently leased a facility in Corona, California to support this activity.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Technical Support. In addition to the technical support we currently provide to our customers, we have assisted in the creation of operator and service manuals, in-field training material, the handling of service inquiries and on-site maintenance technician training. With the introduction of our new, purpose-built electric vehicles, we anticipate adding additional technicians in 2020 to expand our resources for supporting the maintenance, warranty work or repairs that any vehicle we have sold or that contains our vehicles may require. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Introduce New Products. As new markets develop, we plan to expand our zero-emission vehicles and systems into ancillary product verticals, such as charging infrastructure (also called Electric Vehicle Service Equipment), stationary energy storage, vehicle-to-grid hardware and capabilities.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Develop Our International Business. We plan to develop our business internationally. For example, we intend to pursue future opportunities in China, which we believe is an important market for us due in part to its publicly announced emphasis on all-electric vehicles and large population. However, we remain in the early stages of the development of our business plan to pursue such opportunities. We are currently selling all-electric e-trikes in the Philippines, where approximately 3.5 million combustion-fueled e-trikes are currently in service. We recently visited Ukraine to discuss establishing a presence in the country to manufacture electric vehicles and components for them as part of Ukraine’s push to electrify vehicles. In addition, we are in discussions about similar opportunities in Mexico and in South 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 9
+
+ 
+America We continue to assess the logistics and costs associated with the production and sale of our zero-emission vehicles and drivetrain systems in these countries and in other countries around the world. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Customers
+ Our current primary focus is Class 3 to Class 5 trucks and cab and chassis, class 3 and 4 cargo vans and cutaways, in addition to Neighborhood Electric Vehicles (“NEVs”) and, in the Philippines, e-trikes. Our target customers primarily include public and private fleet operators that have an interest in meeting or exceeding local, state and federal emission regulatory guidelines while saving money on fuel and maintenance costs over the lifecycle of their fleet vehicles and that also have an interest in tangible demonstrations of their GHG-reducing efforts. These targets include:
+
+• | Public and private schools that operate “white fleet” vehicles for non-student transportations use, such as facility service trucks, food service delivery vans/trucks, campus security vehicles and golf cart-type vehicles.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Commercial fleet operators that provide high daily mileage vehicles for use on routes in and around airports, hotels and offsite parking facilities.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Last mile delivery companies with fleets of delivery vans, short haul trucks and distribution/sorting facility center vehicles.
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Large agricultural and food processing industry-focused companies that operate Class 1 through 7 trucks, buses and/or delivery vans.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Public and private transportation services that are involved in prisoner transportation.
+--+-----------------------------------------------------------------------------------------
+
+
+• | Large companies that operate shuttle buses, transit style buses and facility based vehicles, including on and off road -type vehicles for employee transport to/from remote parking areas, to/from special events and the various vehicles used for facilities maintenance, services and security.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Private transportation contractors that shuttle large companies’ employees from common public transportation hubs to their campuses.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Public and private colleges and universities that operate shuttle buses, transit style buses, facility service vans and trucks and utilize golf cart-type vehicles on their campuses.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Community-based, public/privately funded shuttle buses serving special-needs community members.
+--+------------------------------------------------------------------------------------------------
+
+
+• | Retirement communities, municipalities, shopping malls, movie studio lots, and large warehouse facilities that currently use golf cart-type vehicles for moving people and goods.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The current market of approximately 3.5 million e-trike users in the Philippines, most of which currently operate gasoline or diesel-powered vehicles.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Public and private K-12 schools that operate Type-A, C and D school buses and special-needs student buses.
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | Student transportation contractors that serve public and private schools.
+--+--------------------------------------------------------------------------
+
+
+• | Port, railway and distribution center operators that use traditionally-fueled loading equipment, tractors, material handling equipment, forklifts, Class 1 through 7 trucks, delivery vans, yard goats, etc., that could be replaced with zero-emission alternatives.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mining companies with fleets of above ground service vehicles and underground staff transport and support vehicles.
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | Oil and gas companies with fleets of field trucks.
+--+---------------------------------------------------
+
+
+• | Electric utility companies with fleets of service trucks that are in the public eye.
+--+-------------------------------------------------------------------------------------
+
+
+• | Military-based fleet operators that have non-combat fleet vehicles of all sizes.
+--+---------------------------------------------------------------------------------
+
+ 10
+
+Our Products and Services
+ Our products and services primarily include:
+  
+• | Purpose-built, zero-emission vehicles or chassis of all sizes manufactured by outside OEM partners but to be marketed, sold, warrantied and serviced through the developing ADOMANI distribution and service network.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Zero-emission electric drivetrain systems for use in new buses and medium to heavy-duty commercial fleet vehicles. 
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | NEVs that are enclosed vehicles with seatbelts, climate control, fold-down rear seats, windshield wipers, turn signals, a back-up camera, LED/Halogen headlights and LED taillights and storage space for use where golf-cart-type vehicles are currently in uses.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | E-trikes, or three-wheeled all-electric vehicles designed to transport people in crowded municipal areas.
+--+----------------------------------------------------------------------------------------------------------
+
+
+• | Optional drivetrain system components that allow for electric power-export and various levels of grid connectivity.
+--+--------------------------------------------------------------------------------------------------------------------
+
+ Purpose-built, zero-emission vehicles or chassis of all sizes manufactured by outside OEM partners but to be marketed, sold, warrantied and serviced through the developing ADOMANI distribution and service network.
+ Envirotech Drive Systems Incorporated (“Envirotech”), a manufacturer of zero-emission trucks, cargo vans, chassis and other commercial vehicles various sizes, has designed vehicles for us to our specifications where possible. We intend to utilize the services of Envirotech and other OEMs to support our efforts to sell, warranty and supply zero-emission commercial vehicles through our developing ADOMANI distribution and service network.
+ Zero-emission electric re-power conversion drivetrain systems for use in existing fleet, school buses and medium to heavy-duty commercial fleet vehicles.
+ This drivetrain system process results in the same zero-emission electric vehicle described immediately above. However, this drivetrain system allows for the removal of the OEM’s 
+internal combustion engine (“
+ICE”
+), much of the ICE cooling system, fuel tanks, exhaust and emission systems (manifolds, pipes, mufflers, particulate filters, DEF system, etc.) and, typically, the OEM transmission and any associated transmission cooling system.
+ Zero-emission electric drivetrain systems for use in new school buses and medium to heavy-duty commercial fleet vehicles.
+ This drivetrain system results in a zero-emission electric vehicle with similar performance specifications (except range) to a traditionally fueled version. The major drivetrain system components systems include appropriately sized traction motor/generator(s), motor controller(s) and power-flow set up for either a direct-drive configuration, a single speed gearbox (speed reduction)
+ or, a multi-gear ration transmission system. Other integrated drivetrain system components include lithium-ion 
+battery packs, a battery management system (“
+BMS”), inverters, chargers, electrically driven systems for power steering and power (hydraulic or 
+air) brakes, a vehicle control unit (“
+VCU”
+), wiring harnesses, a flat screen user-interface (dash board) and fleet technician diagnostic tools. Prior to May 31, 2019 and pursuant to our agreement with Blue Bird, we supplied Blue Bird with zero-emission ele
+ctric drivetrain systems for integration into its Type C and D school buses.
+ 11
+
+Industry contacts and experience allow for optional drivetrain system components that allow for electric power-export and various levels of grid connectivity.
+ These systems integrate bi-directional changers and inverters and require additional facility-based, stationary charging hardware and control systems.
+ In addition, our products and services may in the future include some or all of the following:
+  
+• | Zero-emission electric drivetrain systems for ship-through integration by outside OEMs into their own privately branded medium to heavy-duty commercial fleet vehicles.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Automated charging infrastructure for commercial fleet vehicles.
+--+-----------------------------------------------------------------
+
+
+• | “Intelligent” stationary energy storage that enables fast vehicle charging.
+--+----------------------------------------------------------------------------
+
+
+• | “Intelligent” stationary energy storage that enables emergency back-up facility power during grid power outages.
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+• | “Intelligent” stationary energy storage that enables access to the developing grid-connected opportunities for the aggregate power available from groups of large battery packs.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | “Intelligent” stationary energy storage that enables avoidance of electric utility demand charges for commercial customers integrated with or independent of ADOMANI-supplied, zero-emission fleet vehicle(s).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Energy storage systems (battery packs) replacements with better energy density and/or expected lifecycles for existing electric vehicles and equipment that has outlived their OEM-provided energy storage systems. For example, replace flooded lead acid (“FLA”) battery packs of existing industrial forklifts and underground mining equipment with more energy dense and higher cycle-life battery packs composed of lithium-ion cells.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Testing
+ Our suppliers are vetted before their products are accepted for use in our products. Our drivetrain systems and finished products are inspected, road-tested (when applicable) and receive quality control testing prior to delivery.
+Customer Service, Support and Training
+ The sales team, both direct and contractors, will be used as the first point of customer contact for customer support and training. At the point that the sales force can no longer handle the volume of these requirements, we will hire, train and support an additional internal staff.
+Technology
+ Zero-emission
+ electric drivetrain systems for purpose-built new vehicles generally include the following: electric traction motor/generator of sufficient kW power for grade, speed, acceleration and efficiency requirements, a motor controller/inverter system that modulates electrical power flow between the battery packs and traction motor, a gear reduction system or multispeed transmission, systems to electrify power steering/brakes, a VCU, high-voltage traction battery packs with integrated BMS, battery disconnect units, thermal management systems, vehicle charging hardware, electric HVAC systems, DC to DC inverter(s) to reduce traction battery pack voltage sufficient to operate on-board, low voltage systems, wiring harnesses, user/driver interface and remote diagnostic/tracking/fault code/data logging systems. Although clear industry power-export standards have not yet been adopted, systems and options for a variety of vehicle-to-other power management options (such as grid, building, stationary energy storage, etc.) are being developed by multiple vendors and their inclusion may be offered as additional cost options in the future.
+ Re-power drivetrain systems to convert existing traditionally-fueled fleet vehicles with ICEs to zero-emission operation include many of the s
+ame components as described above for purpose-built vehicle systems. For simplicity, cost savings 
+and maintenance technician familiarity, some OEM systems of the subject vehicle may be retained and
+/or 
+utilized, including cooling systems for the engine and transmission, mounting brackets and bolts, 
+ 12
+
+power steering and brake systems and 12 and/or 24 volt systems and accessories. Items that are typically not retained/repurposed include the OEM internal combustion engine, transmission, liquid or gaseous fuel tanks and exhaust/treatment systems.
+ Sales and Marketing
+ Sales
+ We intend to expand our marketing and sales staff  as we open additional  sales, service and assembly facilities. We have a team of dedicated marketing and sales employees with responsibility for each of the geographic region we serve. As a result, we believe we can efficiently and cost-effectively build out our marketing and sales network.
+Marketing
+ We plan to focus our marketing efforts on increasing brand awareness, generating demand for our products, communicating product advantages and generating qualified leads for our sales force. We intend to rely on a variety of marketing vehicles, including our website and social media, participation in industry conferences and trade shows, public relations and our collaborative relationships with our business and teaming partners to share our technical message and the benefits of our product offering, with customers. 
+Manufacturing
+ We currently contract with third-party suppliers to manufacture our products. In 2020, utilizing our new Corona, California facility, we plan on increasing our integration efforts to include the final assembly of sub-assembly components.
+Distribution
+ We intend to distribute our products both inside and outside of our 
+current U.S. market.
+ Partnerships/Teaming Agreements
+ We have agreements with Amperics, Inc., Central States Bus Sales Inc, Envirotech Electric Vehicles Incorporated, and GerWeiss EV USA LLC. None of these agreements contain any binding purchase or sales minimums. 
+Amperics, Inc.
+ Amperics, Inc., is an energy storage technology innovator, developer and vendor of advanced supercapacitor-based intelligent energy storage solutions. In September 2018, we entered into a no
+n-binding letter of intent with Amperics and made a strategic investment in the company. We initially intend to design and manufacture an uninterruptable power supply product to support a new customer in the Far East. The investment is intended to support product development and manufacture of Amperics product verticals. Since the highest cost components within an electric vehicle drivetrain system or stationary energy storage system are typically the battery packs, we are constantly surveying energy storage options, battery cell chemistry advances and battery vendor offerings to determine how best to balance key attributes such as kilowatt per hour cost, charge/discharge rates, energy density, stability under environmental extremes and degradation over anti
+cipated charge cycles.  A beneficial attribute in one area often comes with a corresponding penalty in another.  Supercapacitors, 
+in general, are often associated with high power density, very high cycle-life, but lower energy density than traditional lithium-ion or FLA batteries.  We believe that the Amperics supercapacitor technology can alter these attributes, exhibiting a unique combination of both high power density and high energy density.
+ Central States Bus Sales Inc.
+ Central States Bus Sales Inc. (“Central States”) in business for 45 years, is the official Blue Bird bus dealership in Illinois, Tennessee, Kentucky, Arkansas and is headquartered in Fenton, Missouri.  They are partnered 
+ 13
+
+with many of the best manufacturers and vendors available in the transportation industry to provide dedicated transportation solutions through exceptional service. They sell and service a wide variety of bus manufacturers, and as a result of Blue Bird’s sale of electric school buses powered by ADOMANI drivetrain systems, they have qualified EV technicians on staff. We signed an agreement with Central States, and will use them to provide warranty and maintenance services for electric fleet vehicles sold by us in the Central States service areas.
+ Envirotech Electric Vehicles Incorporated
+ Envirotech Electric Vehicles Incorporated (“Envirotech”) is a Canadian-based company that is engaged in the design, prototyping and certification of electric components and vehicles, including complete drivetrain systems. We engaged Envirotech to design and build a series of zero-emission electric Class 3 and 6 trucks, cargo vans and chassis built to our specifications and requirements. The vehicles are initially comprised of a cab, chassis and electric drivetrain system. Any customer can then customize the trucks by adding a box or stake bed to the vehicle in accordance with their needs. We received the first truck and cargo van pursuant to our arrangement with Envirotech in December 2018. In 2019, Envirotech received the CARB   executive order for certification.  We as the dealer for Envirotech, submitted additional information to the Hybrid and Zero-Emission Truck and Bus Voucher Incentive Project (“HVIP”) Department of CARB and received our HVIP listing in November, 2019, which  renders the trucks and vans eligible for buy-down funding based on the GVWR. These buy-down funds are intended to enable companies to purchase zero-emission electric trucks and receive a discount to aid in the purchase. The HVIP buy-down funding is currently between $50,000 for Class 3 trucks ($55,000 if used in a disadvantaged area community census tract) and up to $90,000 for Class 6 trucks ($100,000 if used in a disadvantaged area community census tract).
+GerWeiss EV USA LLC
+ GerWeiss EV USA LLC (“GerWeiss”) is a manufacturer 
+of zero-emission all-electric vehicles that, to date, has focused on the manufacture of 
+all-electric three-wheeled 
+vehicles in the Philippines. In August 2018, we entered into a non-binding letter of intent with GerWeiss in order to explore, together with Envirotech and Amperics, a collaboration to develop and introduce re-powered zero-emission all-electric transit buses in the Philippines. We are still considering the transit buses and the Amperics technology, but in early 2019, we recei
+ved a purchase order from GerWeiss for 250 new light-weight, shorter range three-wheelers (“e-trikes”) and in order to introduce our products to the Philippine markets quickly, authorized production of the first ten e-trikes, which were delivered in the fourth quarter of 2019.    
+Raw Materials and Supply Chain
+ Prices for the systems, components and raw materials we use in our vehicles and drivetrain systems, many of which are OEM items used by many companies in different applications, can fluctuate depending on market conditions and global demand. Our purchase of raw materials is currently limited due to sales volume, but we attempt to limit our exposure to raw material price increases and availability fluctuations by having relationships with a dynamic group of vendors that sell us value-added hardware, components and systems. We have further mitigated these supply chain risks by establishing purchasing relationships with multiple vendors that are diversified by type of product offered, brand of products offered, country of origin of products (which is relevant for “Buy American” provisions that we encounter with our customers), individual specification requirements, purchase quantity requirements, quality, availability and price. Our drivetrain systems allow for component substitution, which further mitigates our exposure to any one supplier or component. We believe that we have adequate supplies and access to the sources of the systems, components and materials to meet our current and anticipated future production and supply requirements. 
+Backlog
+ As of December 31, 2019, our backlog consisted of purchase orders for one zero-emission electric school buses, 10 zero-emission trucks, 11 zero-emission cargo vans, one conversion of an ICE powered prison transport bus to a zero-emission all electric bus, and 50 e-trikes for the Philippines. We believe our costs associated with the current backlog will be approximately $2.6 million and that the sale price of the current backlog will be approximately $3.1 million.
+ 14
+
+Employees
+ As of March 6, 2020, we had 11 full-time employees. None of our employees are covered by collective bargaining agreements and we believe our employee relations are good.
+ Competition
+ The electric vehicle market is highly competitive and we expect it to become even more so in the future as additional companies launch competing products and vehicle offerings. We compete with other alternative energy technologies, such as natural gas, propane and hybrid technologies. The electric competitors include Ford, which produces the Ford Transit Connect EV® and has made recent statements about producing an electric F-150 pickup truck and has announced production of the Mustang Mach-E SUV; Nissan, which besides the Leaf EV, produces a small electric delivery van called the NV200; Rivian, who intends to introduce the R1T electric pick-up truck; General Motors, which besides producing the Chevy Bolt EV, has made recent statements about considering the production of an electric pick-up truck and reintroducing an electric Hummer; Blue Bird has electric drivetrain options for their Type-D, C and A school buses; Navistar, which produced the Navistar eStar® and builds the electric drivetrain system for IC Type-C school buses, unveiled a prototype battery-electric version of its medium-duty International MV truck in late 2019 and a regular production eMV model is said to be coming to the market in 2021; Freightliner, which produces the eM2 and eCascadia electric trucks; Mercedes-Benz, producing the eActros electric truck and EQV electric vans; Mitsubishi/Fuso produces the eCanter electric truck; Tesla, producing a Class-8 Semi truck and recently introduced a pick-up truck called the Cybertruck; Bollinger Motors, producing the B2 electric pickup truck; Odyne Systems, which produces plug-in hybrid drivetrain systems for trucks and buses; Lightning Systems, which produces re-power electric drivetrain systems for trucks and buses;  Lion Electric Company, a Canadian-based manufacturer of Type C all-electric school buses, mini buses and a Class-8 truck; Nordresa, which produces re-power electric drivetrain systems for cab-forward trucks and package delivery vans; Volkswagen has presented an e-Delivery truck and a Volksbus e-Flex prototypes; Proterra has a full line of electric transit buses and is providing electric drivetrain systems for Thomas Bus, electric school buses; Workhorse, which builds an all-electric walk-in van and an electric prototype pick-up truck called the W-15; Chanje, which produces a large electric package delivery van; Volvo is expected to introduce the FE Electric and FL Electric semi-trucks by the end of 2020; Peterbuilt has said they will have three battery-electric truck models available for sale by the end of 2020; Nikola Motors has said it will produce the Nikola One and Nikola Two model semi-trucks; BYD, which manufactures new electric trucks and transit buses; TransPower, which has converted Type-C and D school buses and trucks; and Motiv, which sells electric drivetrain systems for Type A school buses and package delivery vans.
+ Intellectual Property
+ The protection of our technology and intellectual property is an important component of our success. We rely on intellectual property laws, including trade secret, copyright, trademark and patent laws in the United States and abroad, and use contracts, confidentiality procedures, non-disclosure agreements, employee disclosure and invention assignment agreements and other contractual rights to protect our intellectual property.
+ 15
+
+As of December 31, 2019, we own three issued U.S. patents, which will expire in 2030 and 2033, and one issued Chinese utility model that will expire in 2026. A Chinese patent application is also pending on a new invention. In addition, we maintain a trademark portfolio including common law trademarks and service marks, and have two service marks registered and a pending trademark application in the United States.
+ Circumstances outside of our control could pose a threat to our intellectual property rights. Effective intellectual property protection may not be available in the United States or other countries in which we provide our solution. In addition, the efforts we have taken to protect our intellectual property rights may not be sufficient or effective. Any impairment of our intellectual property rights could harm our business, our ability to compete and harm our operating results. In addition, as the number of competitors grows and solutions of competitors overlap, we may in the future face claims by third parties that we infringe upon or misappropriate their intellectual property rights, and we may be found to be infringing upon or to have misappropriated such rights. In the future, we, or our customers, may be the subject of legal proceedings alleging that our solutions or underlying technology infringe or violate the intellectual property rights of others.
+ Governmental Programs and Incentives
+ We believe that the availability of government subsidies and incentives currently is an important factor considered by our customers when purchasing vehicles that utilize our technology, and that our growth depends in part on the availability and amounts of these subsidies and incentives. Over time, we believe that the importance of the availability of government subsidies and incentives will decrease, as we continue to reduce the upfront cost of vehicles that utilize our technology. In order to help ensure that we and our customers benefit from available subsidies and incentive programs in the United States, Canada, Mexico, Asia and in Europe, we have incentive specialists that work directly with our sales team and our customers on these issues providing updates in near real-time as programs become available.
+Overview of Incentive Programs Most Applicable to Our Products
+ We intend to have our products approved for various local, state and federal incentive programs, including those set forth below. In particular, California’s zero-emission vehicle mandate, which requires that a certain percentage of an automobile manufacturer’s sales must be zero-emission vehicles, has resulted in numerous incentive programs designed to accelerate the purchase and/or repower of cleaner, more efficient vehicles in California. We anticipate that the relevant aggregate funding available in California alone over the next several years may be in excess of $800 million, which includes federal, state and Volkswagen settlement funding sources.
+California Hybrid and Zero-Emissions Truck and Bus Voucher Incentive Project
+ While the HVIP program is currently oversubscribed and awaiting funding, we believe our customers may become eligible for purchase under HVIP when the program reopens in  2020. HVIP is a CARB program administered by CALSTART, the purpose of which is to help speed the early market introduction of clean, low-carbon hybrid and electric trucks and buses. Under HVIP, dealers and fleet operators may request vouchers from HVIP on a first-come first-served basis, up to the funding amount available for that year, to reduce the cost of purchasing hybrid and zero-emission medium- and heavy-duty trucks and buses. It is a statewide program.
+ HVIP vouchers range in amounts depending on the gross vehicle weight of the purchased vehicle and the number of vehicles purchased. Zero-emission Class 3 trucks are currently eligible for up to $50,000; Class 4 vehicles are funded at the $80,000 level and Class 5 vehicles are eligible for $90,000. Depending on project location (i.e. if in a disadvantaged area community census tract) those amounts can be increased to $55,000 and $90,000, and $100,000, respectively.  
+ HVIP funds the purchase of only fully commercialized hybrid and zero-emission trucks and buses. Vehicles still in the demonstration or evaluation stage are not eligible for inclusion in HVIP. Vehicle manufacturers must apply to have their hybrid and zero-emissions trucks and buses included in HVIP’s voucher program. Once a make and model is included in the program, the manufacturer is not required to submit a full application for the succeeding year’s program unless the vehicle has been modified. We intend to comply with the HVIP guidelines and continue to qualify our vehicles for the HVIP vouchers.
+ 16
+
+New York Truck Voucher Incentive Program (NYT-VIP)
+ NYT-VIP is a first-come, first-served incentive program funded by the New York State Energy Research & Development Authority. The structure and process for fleets to secure incentives is similar to that of HVIP discussed above. Eligible vehicles include all-electric, hybrid-electric, and CNG trucks and buses. Funding for eligible vehicles domiciled in New York State and New York City can reach $150,000 per vehicle. Class 4 and 5 all electric trucks are eligible for up to $100,000 and $110,000 in funds respectively (i.e., up to 95% of the incremental cost over diesel). ADOMANI is currently completing the process of registering for the program which reopened in late 2019 and has $18.4 million in funds available. In support of the transition to all-electric vehicles, New York City Mayor Bill de Blasio recently signed an executive order requiring electrification of the city’s entire municipal vehicle fleet by 2040.
+Drive Clean Chicago-Drive Clean Truck Program
+ Drive Clean Chicago is accelerating the adoption of advanced vehicle technologies for the commercial truck and taxi sectors in the Chicago six-county area by reducing the cost of new alternative fuel vehicles and public alternative fuel stations. The program from the Chicago Department of Transportation offers incentives including $10,000 for CNG and electric taxis, up to $150,000 for hybrid and all-electric trucks, and 30% of the capital cost for CNG and fast-charge electric fueling stations.
+Volkswagen Environmental Mitigation Trust Funds
+ We anticipate that the 23 states that we have prioritized may allocate approximately $200 million in
+ funds per year for the 
+three years beginning in 2018 to on-road vehicle projects. Several individual states have provided carve outs specifically for electric vehicles and, in some cases, electric school buses. For example, California, Illinois, Indiana, Michigan and Ohio have each allocated funds directly to electric school bus projects. The California program will provide per vehicle incentives of $400,000. These states are currently in the process of funding their initial rounds or are developing specif
+ic funding plans. We have engaged with several of these states to support the development of such plans.
+ California Air Resources Board
+ CARB gathers air quality data for the State of California, ensures the quality of this data, designs and implements air models, and sets ambient air quality standards for the state, with a particular focus on regulating tailpipe emissions and other mobile sources. CARB compiles the state’s emissions inventory and performs air quality and emissions inventory special studies. CARB uses the Emissions Inventory and Air Quality Models to evaluate air quality and reduce emissions in each of California’s 35 local air districts.
+ CARB also manages several incentive and rebate programs and awards hundreds of millions of dollars in grants to reduce emissions from on- and off-road vehicles and equipment. CARB is responsible for program oversight. CARB awards grants and funds through the Air Quality Improvement Program (AB 118); the Carl Moyer Program; the Voucher Incentive Program for enhanced fleet modernization and emission reduction; and the Lower-Emission School Bus Program/School Bus Retrofit and Replacement Account.
+ In February 2020, the CARB staff held a workshop to discuss a new fleet rule that will target a 100% zero-emission truck and bus fleet for the state of California by 2045. The rule making being considered enjoys broad political support, and has some precedent (e.g. the Advanced Clean Transit rule). We will monitor future actions on the proposal.
+ California Energy Commission
+ The California Energy Commission (“
+CEC”) has several core responsibilities, including but not limited to setting energy policy, developing renewable energy, achieving energy efficiency, and transforming California’s transportation infrastructure. One goal of the CEC is to mitigate GHG emissions and reduce the impact of climate change. The CEC carries out its responsibilities pursuant to several of California’s landmark environmental laws. In 2006, the Legislature passed and then Governor Arnold Schwarzenegger signed two landmark pieces of legislation with far-reaching implications for energy policy. The most comprehensive is AB 32, the California Global Warming 
+ 17
+
+Solutions Act of 2006, which sets an economy-wide cap on California GHG emissions at 1990 levels by no later than 2020. At the time, this was an aggressive goal that represented an approximately 11% reduction from then-current emissions levels and nearly a 30% reduction from projected business-as-usual levels in 2020. In 2015, California passed Senate Bill (SB) 350, which further committed California to reducing GHG emissions by establishing a 2030 greenhouse gas reduction target of 40% below 1990 levels. The transportation sector represents a significant portion of California’s GHG emissions.
+ In 2007, AB 118 created the Alternative and Renewable Fuel and Vehicle Technology Program. The program is intended to increase the use of alternative and renewable fuels and innovative technologies that will transform California’s fuel and vehicle types to help attain the state’s climate change policies. AB 118 authorizes the CEC to provide approximately $100 million annually as incentives to public agencies, vehicle and technology consortia, businesses, public-private partnerships, workforce training partnerships and collaboratives, fleet owners, consumers, recreational boaters, and academic institutions for projects that: develop and improve alternative and renewable low-carbon fuels; optimize alternative and renewable fuels for existing and developing engine technologies; improve light-, medium-, and heavy-duty vehicle technologies; and retrofit medium-and heavy-duty on-road and non-road vehicle fleets.
+ Air Quality Management Districts (“AQMD”) and Air Pollution Control Districts (“APCD”)
+ California’s AQMDs/APCDs are responsible for controlling emissions primarily from stationary sources of air pollution such as large power plants and refineries, but also have a role in distributing funds and administering incentive programs from mobile sources-primarily cars, trucks and buses, but also construction equipment, ships and trains, from which approximately 75% of emissions are generated. The largest AQMD/APCDs are the South Coast AQMD, Bay Area AQMD, San Joaquin Valley APCD, and the San Diego APCD. Local AQMDs/APCDs develop and adopt an Air Quality Improvement Plans, which serves as the blueprint to bring the respective areas into compliance with federal and state clean air standards. Rules are adopted to reduce emissions from various sources, including specific types of equipment, industrial processes, paints and solvents, even consumer products. Permits are issued to many businesses and industries to ensure compliance with air quality rules. Local AQMDs award grants to help reduce emissions in their local communities. These grants and incentive programs include programs aimed at reducing emissions from mobile sources such as buses and trucks. For example, the San Joaquin Valley Air District’s Truck Replacement Program is a program open year-round which offers grant funding equal to HVIP. In some cases, air district funding programs such as this can be combined with other sources including state and federal grants.
+Clean Cities
+ Clean Cities is a program administered by the DOE’s Office of Efficiency and Renewable Energy, Vehicle Technology Program. According to the DOE, the mission of Clean Cities is to advance the energy, economic, and environmental security of the United States by supporting local decisions to adopt practices that reduce the use of petroleum in the transportation sector. Clean Cities is a government-industry partnership. Under the program, public and private stakeholders from businesses, city and state governments, the automotive industry, fuel providers, and community organizations form coalitions throughout the country, which then work with the DOE to establish a plan for reducing petroleum consumption in their respective geographic areas.
+National Clean Diesel Program / Diesel Emissions Reduction Act
+ The National Clean Diesel Funding Assistance Program, which is administered by the EPA National Clean Diesel Campaign, provides funding under the Diesel Emissions Reduction Act for projects that seek to reduce emissions from existing diesel engines. Eligible applicants include U.S. regional, state and local agencies that have jurisdiction over transportation or air quality and certain nonprofit institutions that provide pollution reduction or educational services to owners and operators of diesel fleets or that have as their principal purpose the promotion of transportation or air quality. Among the eligible uses of funding under this program are the purchase of buses and medium and heavy-duty trucks that result in reduced diesel emissions. Funds are administered both at the national level by EPA with a nationwide solicitation for projects as well as at the state level through smaller regional requests for proposals.
+ 18
+
+Congestion Mitigation and Air Quality (“CMAQ”) Improvement Program
+ The CMAQ Improvement Program, which is jointly administered by the Department of Transportation Federal Highway Administration and Federal Transit Administration, provides funding to states to support surface transportation projects and other related efforts that contribute air quality improvements and provide congestion relief. CMAQ funding is allocated to the states annually based on a statutory formula that is based on population and air quality classification as designated by the EPA. Each state’s transportation department then is responsible for distributing the funds. State transportation departments may spend CMAQ funds on projects that reduce ozone precursors, and at least 16 states have used CMAQ funds for alternative fuel vehicle projects (such as purchasing electric or hybrid vehicles).  
+Other State Incentives
+ A number of states and municipalities in the United States, as well as certain private enterprises, offer incentive programs to encourage the adoption of alternative fuel vehicles, including tax exemptions, tax credits, exemptions and special privileges. F
+or example, Maryland has introduced a voucher program that provides financial assistance for the purchase of electric trucks registered in that state, and Arizona exempts use tax and lowers registration fees for the purchase of an electric vehicle. Other s
+tates, including Colorado, Georgia, Utah, Florida and West Virginia, provide for substantial state tax credits for the purchase of electric vehicles.
+ Government Regulation
+ Our products are designed to comply with a significant number of governmental regulations and industry standards, some of which are evolving as new technologies are deployed. Government regulations regarding the manufacture, sale and implementation of products and systems similar to ours are subject to future change. We cannot predict what impact, if any, such changes may have upon our business. We believe that vehicles that utilize our technology are in conformity with all applicable laws in all relevant jurisdictions.
+Emission and Fuel Economy Standards
+ Government regulation related to 
+climate change is under consideration at the U.S. federal and state levels. The EPA and National Highway Traffic Safety Administration (“
+NHTSA”) issued a final rule for greenhouse gas emissions and fuel economy requirements for trucks and heavy-duty engines on August 9, 2011, which had an initial phase-in starting with model year 2014 and a final phase-in occurring in model year 2017. NHTSA standards for model years 2014 and 2015 were voluntary, while mandatory standards first went into effect in 2016. In August 2016, the EPA and NHTSA jointly finalized Phase 2 standards for medium- and heavy-duty vehicles through model year 2027 to improve fleet fuel efficiency and cut carbon emissions.
+ The rule provides emission standards for carbon dioxide and fuel consumption standards for three main categories of vehicles: (i) combination tractors, (ii) heavy-duty pickup trucks and vans, and (iii) vocational vehicles. According to the EPA and NHTSA, vocational vehicles consist of a wide variety of truck and bus types, including delivery, refuse, utility, dump, cement, transit bus, shuttle bus, school bus, emergency vehicles, motor homes and tow trucks, and are characterized by a complex build process, with an incomplete chassis often built with an engine and transmission purchased from other manufacturers, then sold to a body manufacturer.
+ The EPA and NHTSA rule also establishes multiple flexibility and incentive programs for manufacturers of alternatively fueled vehicles, including an engine averaging banking and trading 
+(“
+ABT”) program, a vehicle ABT program and additional credit programs for early adoption of standards or deployment of advanced or innovative technologies. The ABT programs allows for emission and/or fuel consumption credits to be averaged, banked or traded within defined groupings of the regulatory subcategories. The additional credit programs allow manufacturers of engines and vehicles to be eligible to generate credits if they demonstrate improvements in excess of the standards established in the rule prior to the model year the standards become effective or if they introduce advanced or innovative technology engines or vehicles.
+ 19
+
+Vehicle Safety and Testing
+ The National Traffic and Motor Vehicle Safety Act of 1966 (“
+Safety Act”), regulates motor vehicles and motor vehicle equipment in the United States in two primary ways. First, the Safety Act prohibits the sale in the United States of any new vehicle or equipment that does not conform to applicable motor vehicle safety standards established by NHTSA. Meeting or exceeding many safety standards is costly, in part because the standards tend to conflict with the need to reduce vehicle weight in order to meet emissions and fuel economy standards. Second, the Safety Act requires that defects related to motor vehicle safety be remedied through safety recall campaigns. A manufacturer is obligated to recall vehicles if it determines that the vehicles do not comply with a safety standard. Should we or NHTSA determine that either a safety defect or noncompliance exists with respect to any of our modified vehicles, the cost of such recall campaigns could be substantial.
+Battery Safety and Testing
+ We believe our battery packs conform to mandatory regulations that govern transport of “dangerous goods,” which includes lith
+ium-ion batteries that may present a risk in transportation. The governing regulations, which are issued by the Pipeline and Hazardous Materials Safety Administration, are based on the UN Recommendations on the Safe Transport of Dangerous Goods Model Regulations, and related UN Manual of Tests and Criteria. The requirements for shipments of these goods vary by mode of transportation, such as ocean vessel, rail, truck and air.
+ Our battery suppliers have completed the applicable transportation tests including:
+  
+• | Altitude simulation, which involves simulating air transport;
+--+--------------------------------------------------------------
+
+
+• | Thermal cycling, which involves assessing cell and battery seal integrity;
+--+---------------------------------------------------------------------------
+
+
+• | Vibration, which involves simulating vibration during transport;
+--+-----------------------------------------------------------------
+
+
+• | Shock, which involves simulating possible impacts during transport;
+--+--------------------------------------------------------------------
+
+
+• | External short circuit, which involves simulating an external short circuit; and
+--+---------------------------------------------------------------------------------
+
+
+• | Overcharge, which involves evaluating the ability of a rechargeable battery to withstand overcharging.
+--+-------------------------------------------------------------------------------------------------------
+
+Available Information
+ We were incorporated in Florida on August 6, 2012 and reincorporated in Delaware in November 2016. Our principal executive offices and mailing address are: 4740 Green River Road, Suite 106, Corona, California 92880. Our telephone number is (951) 407-9860. Our corporate website address is www.adomanielectric.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report and inclusion of our website address in this report is an inactive textual reference only. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports are accessible free of charge at our website. The Securities and Exchange Commission (“SEC”) also maintains an internet site that contains reports, proxy and information statements and other information regarding our filings at www.sec.gov.

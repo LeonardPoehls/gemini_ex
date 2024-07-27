@@ -1,0 +1,176 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+Summary
+ 
+The Company:
+ 
+Sigma is a 10-year-old software company that was founded by scientist-engineers composed of physicists and metallurgists then working at Los Alamos National Labs for the entrepreneurial purpose of developing sophisticated metallurgical products. The public company that in 2010 completed a share exchange transaction with the shareholders of a company that became Sigma Labs in 2010 was incorporated as Messidor Limited in Nevada on December 23, 1985 and changed its name to Framewaves Inc. in 2001. On September 27, 2010, the name was changed from Framewaves Inc. to Sigma Labs, Inc. Thenceforth, the Company developed both a dental implant technology and a munitions technology before narrowing its focus exclusively in 2016 to solving the complex and challenging problem of how to best assure the high quality of metal parts manufactured in laser powder bed additive manufacturing (AM) machines. Sigma and many others, then and now, believed that until this problem was solved, 3D manufacturing of metal parts was not sufficiently scalable to grow past prototyping and mature into a major industry enjoying high quality yields and cost-efficient production runs. The solution that Sigma developed to solve this problem is In-Process-Quality-Assurance (“IPQA”) software known as PrintRite3D®.
+ 
+From 2016 through 2020 the Company and its technology co-evolved in transformation that saw the Company step up from being a small research and development operation to reinvent itself as a technology commercialization company in 2017 deploying its alpha technology concept with Aerojet Rocketdyne, Pratt and Whitney, Siemens, Woodward, and other companies to work as a sometimes virtual integrated team with these customers’ R&D personnel and thus to acquire directly from major companies in the market the definition of the specifications of what Sigma’s product would have to be in order to meet commercial industrial standards. Defining these standards included defining the specific product quality data information and analytics requirements of large production manufacturers as well as determining the user-friendly form the product must have. In February 2017, Sigma completed a financing and a simultaneous up list on to the NASDAQ Capital Market, the two actions intended to enable the Company to accelerate product development and commercialization while also having ongoing access to capital. By mid-2018, Sigma had doubled its software development team and in the course of the year developed and integrated its PrintRite3D® Thermal Energy Density™ (TED) and Thermal Energy Planck (TEP) algorithm analytical packages into a hardened commercial industrial product presented at Formnext in November 2018. In 2019, the Company launched its Rapid Test and Evaluation Program (RTE) in order to deploy its new product in a test and evaluation process explicitly designed: (1) to define the test outcome requirements of both end-users and Original Equipment Manufacturers (OEM) required to meet their respective needs in a production setting; and, (2) to be a pathway that Sigma believed would lead to sales of equipment to end-users or of licenses to OEMs subject to the tests and evaluations meeting the upfront stated requirement of the companies with whom tests would be run. In the second Quarter of 2019, Sigma released version 5.0 of PrintRite3D® with a user-friendly interface tool that enables process engineers to drill down into the data and machine operators to better understand and control the process.
+ 
+By year-end of 2019, the RTE results were consistently favorable and we experienced no product failures, however the time required to complete an RTE was longer than expected due to operational issues within the test sites that were beyond our control. Baker Hughes, for whom on-site testing began in April 2019, had ordered a Phase 2 as the final phase ahead of a potentially broader global rollout of the technology to their additive manufacturing machine base. The major service provider, with whom our on-site testing began in March 2019, had also begun its second RTE to start on a different OEM brand from the first RTE tests. Another major OEM whose purchase order for an RTE we announced in August 2019 had only its own brand upon which to test and agreed to complete two simultaneous test units on different models and was thus on a fast track. Airbus was developing on schedule and expected to require a Phase 2 if and after the current RTE met their needs. Materialise, a diverse AM company and an OEM for AM control systems and software, had been Sigma’s first RTE program participant and with whom the Company announced in June 2019 that Sigma had entered into a non-binding Memorandum of Understanding to integrate PrintRite3D® with Materialise’s new MPC AM equipment control system. As stated in the “Recent Events” of this document, on March 5, 2020 the Company announced that Sigma and Materialise have now entered a Joint Sales Agreement to commercialize the integrated product.
+ 
+As defined and disclosed in 2019, Sigma’s mission and challenge in 2020 and beyond is to convert the testing it conducted in 2019 into purchase orders and OEM licenses going forward. Of course, there is no assurance that this mission will be accomplished, even as the goal and strategy are what would be the logical outcomes of successful product demonstrations. In order to further strengthen itself to deliver on its mission to convert successful test and evaluation outcomes into end-user sales and OEM licenses, the Company recruited and hired Mark K. Ruport as of December 3, 2019 to help lead the company forward as Executive Chair. As reported in December, Mr. Ruport is a skilled sales and marketing chief executive who has built three substantial software enterprises.
+ 
+Currently, Sigma is focusing on four markets: (i) end-user for deployment of PrintRite3D® in serial production; (2) OEMs for purchases of licenses and generating fees and royalties thereafter; (3) additive manufacturing software venders for alliances and licenses for co-sales; and (4) research foundations, standards organizations and universities, all in service of Sigma’s potential for setting the industry standard of measurement by providing data and analytics as a metrics-based quality standard of metal quality for all 3D laser powderbed manufactured parts, notwithstanding the design, metal, or brand of equipment upon which parts are manufactured.
+
+
+
+4
+-
+
+
+Additive Metal Manufacturing and the role and need for Sigma’s technology:
+ 
+3D laser powderbed manufacturing of metal parts is a technology that uses lasers to sculpt parts by welding powdered metals into 3-dimensional (3D) objects and, to date, the quality of these parts can vary from part to part in a single production run, as well as from machine to machine in a production line. Traditional quality assurance methods relying on statistically based post-process inspection methods so well proven by “Subtractive Manufacturing” cannot be used effectively to improve and assure quality of parts manufactured using 3D metal printers. The aforementioned traditional quality assurance methods are based on a manufacturing process that is the opposite of 3D Additive Manufacturing; Subtractive Manufacturing begins with quality-assured already formed pieces of metal as a raw material (not powdered metal as is used as raw material in 3D) and machines it with equipment such as lathes, milling machines, and CNC machines to subtract metal and thus form finished metal parts, or by casting molten metal into molded parts usually to then be further machined. Since the metal used in Subtractive Manufacturing is already of proven quality, the quality of the metal for all parts in a production run is known to be uniform, subject to post process inspection of a statistically determined valid sample size focused primarily on metrology to determine dimensional accuracy rather than metallurgy to determine metal quality.
+ 
+The challenge presented of 3D Additive Manufacturing quality assurance is illustrated by the fact that if a 3D metal manufacturing machine fabricates 10 parts, and quality inspectors then rigorously inspect three of them, the inspectors will have learned about the quality of only the three parts they destroyed or CT-scanned and nothing that is sufficient to confirm or reject the quality of the remaining seven. Quality assurance of 3D Additive metal parts requires high quality sensitive manufacturers to institute procedures to inspect 100% of the parts being made. Sigma believes that the best, indeed, to Sigma’s knowledge, the only known way to attain high yields for both manufacturing quality and cost efficiency is an In-Process-Quality-Assurance (IPQA®) approach that examines each part in real time as it is being manufactured, determines in real time whether it meets quality specifications and permits machine operators to act on the information if a part is beginning to deviate from its design specifications.
+ 
+As evidenced in the marketplace in 2016 and after the pent-up demand of GE, Airbus and others to press forward into advanced 3D metal manufacturing, production took place with the assumption that highly reliable in-process quality assurance capability would likely emerge either from their own internal efforts or be attained through licensing, or acquisition. In the meantime, CT scans and other costly post-process inspection became an accepted cost as initially sustainable in the startup phases of production. However, until companies that utilize 3D production facilities like GE Aviation are able to effectively verify that each part conforms to design specifications of attributes of shape, density, strength and consistency in real-time during the manufacturing process, we believe that such companies will be at risk of letting some substandard parts through and, also, be unable to improve the workflow to high quality cost-optimum yields of 3D printed metal parts. No matter how much acuity and at what cost a suite of post process inspection tools might provide 3D manufactured metal parts, it currently can only assure quality yield by rejecting fully formed parts, and, over time, applying comprehensive ‘reverse engineering’ forensic analyses of each rejected part to identify repeating quality flaws attributable to constants such as location, design, or scan strategy. Once the locations of these repeating flaws are identified, process engineers can act to make the AM equipment deliver better quality by adjusting the computer-based manufacturing instructions of AM equipment to offset the repeating flaws discovered by that deep analyses of individual rejected parts in many manufacturing runs. This prolonged post-process methodology is very costly due to the loss of material and rejected parts as well as post-process analysis labor cost and inspection cost such as CT scanning. Additionally, there still lingers the question of whether or not the post-process inspections were sufficiently granular to assure that flawed parts were not accepted and shipped. 
+ 
+We believe that our product, PrintRite3D® version 5.2, which is ‘agnostic’ and can be installed on all major brands of 3D metal laser powderbed printers, solves these problems by determining if each part is being made to the metallurgical quality specifications of the product design as each part is being made. Our software enables 3D prototyping to evolve forward into serial or production 3D manufacturing by providing a software suite with algorithm-based tools that address and overcome quality issues that are specific to 3D Metal Additive Manufacturing and that are not solved using the post-production quality methods developed for subtractive manufacturing along with and newly dependent upon CT scanning. The PrintRite3D® suite has the potential to substantially lower operating costs and can attain higher yields by inspecting parts as they are made and providing machines and their operators actionable information that includes the options of stopping manufacture of given part(s) while operations continue to complete parts that are in specification, thus saving time and money while raising yields.
+ 
+PrintRite3D® also gives operators information from run-to-run that enables them to ‘learn up’ quality for a given machine by using PrintRite3D® data about machine behaviors that can then be offset by making adjustments to power settings directed at a given sector. PrintRite3D®’s (“TED”) feature supersedes and truncates the “reverse engineering” process of post process inspection described above by providing process engineers the data required to optimize individual machines as well as machines in series in days or weeks and before serial production is launched rather than months after production and rejection rates have accrued in costly quantities. PrintRite3D®’s (“TEP”) feature provides machine operators and engineers with in-process real-time identification of signatures of quality anomalies as they begin to develop and permits terminating or curing a part in process and provides them with alerts that enable the operators to use the anomalies’ signature information to know how to adjust the machine controls to cure the problem, or in rare instances, to terminate the part if its cause is reversable.
+ 
+
+5
+-
+
+
+The emergence of the 3D Metal Printing Market and Sigma’s place in it 
+ 
+3D printing (3DP) or additive manufacturing (AM) is challenging the manufacturing world with the breadth of its technological abilities from rapid design through cost efficient manufacturing to produce complex and unique metal parts. 3D AM technology total industry sales, including all raw materials used reached $1 billion in 2007, jumped to nearly $7.3 billion in 2017, and were expected by Wohlers to hit $26.5 billion by 2021. Sectors of the industry have tended so far to grow in step functions as new methods, processes, and materials have entered the market. Worldwide revenues attributable to 3D manufacturing for metal products were reported at $88.1 million in 2015 (Wohlers Report 2016, 3D Printing and Additive Manufacturing State of the Industry – Annual Worldwide Progress Report). By 2017, Wohlers Report stopped estimating annual 3D metal parts revenue, stating that too much of the revenue is proprietary information and unavailable from aerospace and similar high-tech sectors. Powdered metal suppliers to the AM metal industry surveyed by Wohlers for their growth forecasts for 2017 for the raw materials used in metal AM parts manufactured averaged expectations of a 59% increase for 2017. According to Sigma’s experience in costing and pricing the manufacturing of AM metal parts, as confirmed by consultation with other service providers, the total powdered metal sales forecast for 2017 is enough raw material to produce a “retail value” of the metal parts of ~$800 million in 2017. Wohler estimates that the fastest growing sector of the total 3D market into the 2020s is and will be 3D metal printing at a CAGR averaging 30%.
+ 
+On another vector, according to Wohlers, an estimated 1,768 metal AM machines were sold in 2017, an increase of 79% over 2016, and the 2,297 AM Metal machines sold in 2018, an CAGR of 30% over 2017. As large established companies including Toshiba, HP, Lenovo, Canon and Ricoh in the course of 2016-2017 announced products or intents of entry in AM manufacturing, Electro Optical Systems (“EOS”), a well-established vendor of AM manufacturing equipment opened a new plant in January 2018 that, according to EOS, doubled its 2017 capacity to 1,000 units per year. SLM Solutions AG also reportedly expanded into a new factory during this period. In the same period, over $1 billion growth capital and consolidation capital was invested in the metal sector. General Electric spent >$1.4 Billion in 2016-2017 acquiring Arcam and Concept Laser thus securing a source of supply for itself as well as a new OEM capital equipment business. In the same period GE also invested >$100 Million in in Desktop Metal. In October 2018 General Electric announced that it had manufactured and shipped its 30,000th 3D manufactured fuel nozzle, while Airbus was targeted to grow to taking delivery of up to ~30 tons of metal parts per month by December 2018. 3D metal printers are seeing rapid adoption, with an installed base of 11,000 globally, with 2,297 sold in 2018 alone at an ASP of $413,000. Extending data and trends reported by Wohlers above, Sigma’s possible addressable market 2021-2027 is approximately $2 billion – or a potential $100m revenue for every 5% of market share. The figures in this paragraph are extrapolations from Wohlers and SmarTech data and forecasts of the total available market for Sigma products; the calculation that 5% of that total available market is $100m is intended as metric to make the scale of market opportunity more understandable, and it is not a forecast. We believe there is potential for our PrintRite3D® software to be incorporated into a significant percentage of 3D metal printing devices made by companies like Additive Industries, ARCAM, Concept Laser, DMG Mori, Electro-Optical Systems (“EOS”), SLM, Trumpf Industries, Farsoon, Renishaw, Sodick, and others.
+ 
+Third Party Competition and Sigma’s Intellectual Property Safeguards
+ 
+Sigma is engaged with large companies in several industries including aerospace, defense, oil and gas, bio-medical, and power generation because both we, and they, agree that they need a common quality standard and third party quality assurance tools for 3D metal printing that applies to all laser powderbed-made parts regardless of which machine, design, or metal was employed. To date, we are unaware of any meltpool monitoring products that compete with PrintRite3D that can meet those criteria. Sigma’s thermal data gathering, and analytical tools provide quality information metrics that correlate to measures of internal metal part design, conformity, uniformity, and characteristics such as porosity, unsintered material etc. The primary competition to PrintRite 3D is varying iterations of Optical Tomography (OT). Optical Tomography develops optical data and computer analysis thereof sometimes linked to simulation tools to predict quality. OT technology does not provide universal thermal-data based metrics of metal quality that Sigma’s thermal data provides, and which are fundamental to confirming or rejecting parts based on measurable consistency of material properties.
+ 
+Sigma began its investigation and research into optical and thermal data collection and measurement for quality assurance and intervention approximately 5 years ago and began to develop its intellectual property protection at that time also. The international IP law firm, Kilpatrick Townsend & Stockton LLP, has advised the Company on building the nets and walls of its patent portfolio, trade secrets, trademarks, etc. and filed and prosecuted patents as the Company has grown its body of intellectual property.
+
+
+
+6
+-
+
+
+Sigma Labs, Inc. Patent Portfolio 
+-------------------------------------
+Jurisdiction | Granted | In Process | Total
+US | 11 | 11 | 22 
+PCT | - | 2 | 2 
+EP | - | 4 | 4 
+Germany | - | 4 | 4 
+China | - | 1 | 1 
+Japan | - | 1 | 1 
+Korea | - | 1 | 1 
+Total | 11 | 24 | 35 
+
+
+
+Based upon the evidence of competitors’ product claims and features reviewed by Sigma to date, it appears to us that Sigma’s solution to the quality problems of 3D metal printing is a significantly different technological approach than that of our principal known competition. It continues to appear to us that the intellectual property protection of PrintRite3D’s acuity, meaningful metrics of thermal data correlated to part quality, and usability of its software accord Sigma freedom to operate with its technology, and may be a significant barrier to entry to competitors switching over to try to pursue the technology path traveled by Sigma. Notwithstanding the foregoing, we do understand that technology development is fraught with cases of new approaches and new technologies emerging and surpassing existing intellectual property protections that looked and were powerful until a form of competition materialized; there is no assurance that such an event will not take place adversely for Sigma.
+ 
+Recent Developments
+ 
+On March 23, 2020, we announced that we were awarded two new U.S. Patents:
+ 
+
+● | U.S. Application No.: 16/234,333 Titled: Systems and Methods for Additive Manufacturing Operations; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | U.S. Application No.: 16/282/004 Titled: Systems and Methods for Measuring Radiated Thermal Energy During an Additive Manufacturing Operation. 
+
+ 
+With the addition of these new patents, our intellectual property portfolio is now comprised of eleven issued and twenty-four pending patents.
+ 
+On March 5, 2020, we announced that we have agreed to evolve our previously announced memorandum of understanding (MOU) to cooperate on the integration of the Materialise MCP Controller with our PrintRite3D® technology and have agreed to enter into a binding joint sales agreement to begin beta customer commercialization of the integrated PrintRite3D® and Materialise Control Platform (MCP) product.
+ 
+On March 2, 2020, we gave notice that a Special Meeting of Stockholders will be held at 3900 Paseo del Sol, Santa Fe, New Mexico 87507, at 10:00 AM, local time, on March 27, 2020 for the purposes set forth in the proxy statement filed by the Company with the Securities and Exchange Commission on March 2, 2020.
+
+
+On February 26, 2020, we filed a Certificate of Change to its amended and restated articles of incorporation with the Nevada Secretary of State. This filing effected a 1-for-10 reverse stock split (the “Reverse Split”) of the Company’s Common Stock and a corresponding decrease in the number of shares of the Company’s Common Stock that the Company is authorized to issue, effective as of 11:59 pm on February 27, 2020. The Reverse Split combined each ten shares of the Company’s issued and outstanding Common Stock into one share of Common Stock. No fractional shares were issued in connection with the Reverse Split, and any fractional shares resulting from the Reverse Split were rounded up to the nearest whole share. All stock options, warrants, shares issuable upon conversion of the Company’s preferred stock and stock awards of the Company outstanding immediately prior to the Reverse Split will be adjusted in accordance with their terms.
+ 
+On February 19, 2020, we were informed by Frank Garofalo that he has resigned as a director of the Company, effective February 19, 2020. Mr. Garofalo has advised the Company that he resigned in order to cause the Company to regain compliance with Nasdaq’s majority of independent director requirement as set forth in Nasdaq Listing Rule 5605(b)(1), and not due to a disagreement with the Company on any matter regarding its operations, policies or practices.
+ 
+On January 27, 2020, we entered into a Securities Purchase Agreement (the “Institutional SPA”) with certain institutional investors (the “Institutional Investors”). Pursuant to the Institutional SPA, the Company issued and sold to each Institutional Investor shares of the Company’s Series D Convertible Preferred Stock (the “Series D Preferred Stock”), warrants to purchase the Company’s Common Stock (the “Institutional Common Warrants”) and warrants to purchase the Series D Preferred Stock (the “Preferred Warrants”) for a total gross purchase price of $1,600,000. At the closing on January 28, 2020, the Company issued to the Institutional Investors an aggregate of 1,640 shares of the Series D Preferred Stock (the “Series D Preferred Shares”), Institutional Common Warrants to purchase up to an aggregate of 779,600 shares of Common Stock and warrants to purchase an aggregate of 6,156 of additional Series D Preferred Stock. Concurrently with the foregoing private placement, we also sold 333.33 shares of our Series E Preferred Stock and warrants to purchase 48,544 shares of our common stock for a total gross purchase price of $500,000. The Series E Preferred Stock is initially convertible into 48,544 shares of Common Stock.
+ 
+On December 3, 2019, we entered into an employment letter agreement with Mark Ruport, effective as of December 3, 2019, pursuant to which Mr. Ruport has agreed to serve as our Executive Chairman on an “at-will” basis. Additionally, Mr. Ruport was appointed to serve as a member of our Board of Directors, effective as of December 3, 2019, with a term expiring at the 2021 annual meeting of stockholders.
+ 
+
+7
+-
+
+
+On November 19-22, 2019, we demonstrated the latest version of our proprietary PrintRite3D® Real-Time Melt Pool Analytics software platform in conjunction with Materialise NV at the Formnext 2019 conference in Frankfurt, Germany. Materialise invited our Chief Technology Officer to present on “Integration of PrintRite3D Melt Pool Monitoring Software with Materialise’s Machine Control Platform (MCP) for Advanced Process Control” at Materialise’s booth.
+ 
+On November 5, 2019, we announced that we have partnered with a Japanese high-end manufacturer of state-of-the-art machine tools, electrical discharge machines (EDM) and 3D printing products, for a test and evaluation program of Sigma Labs’ PrintRite3D® real time melt pool analytics.
+ 
+On October 23, 2019, we announced that we have been awarded a contract by VTT Technical Research Centre of Finland Ltd, an impartial, state-owned non-profit research and technology organization with the mission to support economic competitiveness, societal development and innovation in Finland, to install our proprietary PrintRite3D® Real-Time Melt Pool Analytics software platform at the VTT 3D metal printing facility.
+ 
+On August 13, 2019, we announced that we have been selected by a major international OEM machine manufacturer to install our proprietary PrintRite3D® products. As part of the agreement, the OEM will complete our Rapid Test and Evaluation program and will install the PrintRite3D® in two different countries for analysis and proof-of-performance purposes.
+ 
+On August 2, 2019, we closed a public offering of equity securities in which we issued 287,500 shares of common stock resulting in net proceeds of $1,971,000.
+ 
+On July 30, 2019, we announced that we will work with Airbus to complete a Test and Evaluation Program of our new PrintRite3D® version 5.0 hardware and software followed by a validation phase on a powderbed fusion printer.
+ 
+On June 18, 2019, we announced that we signed a non-binding Memorandum of Understanding with Materialise NV to cooperate in the integration of their MCP Controller with our PrintRite3D® technology. Combining the sophisticated control technology with in-situ process monitoring for metal additive manufacturing will give customers maximal control on the production process, allowing them to become even more productive.
+ 
+On May 21-23, 2019, we launched Version 5.0 of our PrintRite3D® platform at the RAPID+TCT 2019 Additive Manufacturing Conference in Detroit.
+ 
+On April 30, 2019, we announced that the Company’s PrintRite3D® software has been shown to ensure process consistency and product quality in metal additive manufacturing, according to a research study sponsored by the Defense Advanced Research Project Agency (DARPA) Open Manufacturing Program and conducted in tandem with Honeywell Aerospace at Honeywell’s Advanced Manufacturing Engineering Center. The paper, titled “LPBF [Laser Powder Bed Fusion] Right the First Time-the Right Mix Between Modeling and Experiments,” discusses the validation involved in manufacturing a challenging metal component.
+ 
+On March 26, 2019, we announced the appointment of the Company’s new Business Development Manager, America’s, who will be responsible for developing key accounts through the Company’s Rapid Test and Evaluation Program and for bringing PrintRite3D Inspect® into deployment across serial production operations in North and South America.
+ 
+Intellectual Property
+ 
+We regard our patents, trademarks, domain names, trade secrets, know-how, and other intellectual property as critical to our success. We rely on a combination of patent, trademark, trade secret, other intellectual property law, confidentiality procedures, and contractual provisions with employees, partners, and others to protect the technology and other proprietary rights, information and know-how that comprise the core of our business. The chart below summarizes our issued patents. We are currently prosecuting twenty-four foreign and U.S. patent applications related to our IPQA® technology and rapid qualification of additive manufacturing for metal parts. There is no guarantee that the patent applications we have submitted will issue or that if issued, they will offer adequate protection under applicable law.
+
+8
+-
+
+
+Title | Type | Patent No. or Application No. | | Expiration Date
+----------------------------------------------------------------------------------------------------------+------------+-----------------------------------+------------+----------------
+Controlled Weld Pool Volume Control of Welding Processes | US Utility | | 8,354,608 | | 3/16/31 
+Structurally Sound Reactive Materials | US Utility | | 8,372,224 | | 10/15/30
+Composite Projectile | US Utility | | 8,359,979 | | 3/21/27 
+Methods and Systems for Monitoring Additive Manufacturing Processes | US Utility | | 9,999,924 | | 5/11/36 
+Systems and Methods for Additive Manufacturing Operations | US Utility | | 10,207,489 | | 6/20/37 
+Material Qualification System and Methodology | US Utility | | 10,226,817 | | 4/26/37 
+Optical Manufacturing Process Sensing and Status Indication System | US Utility | | 10,317,294 | | 5/2/35 
+Systems and Methods for Measuring Radiated Thermal Energy During an Additive Manufacturing Operation | US Utility | | 10,479,020 | | 8/1/38 
+Optical Manufacturing Process Sensing and Status Indication System | US Utility | | 10,520,372 | | 3/25/35 
+Systems and Methods for Additive Manufacturing Operations* | US Utility | | 16/234,333 | | 9/30/36 
+Systems and Methods for Measuring Radiated Thermal Energy During an Additive Manufacturing Operation* | US Utility | | 16/282,004 | | 2/21/39 
+
+ 
+*Patents granted; however, patent numbers have not yet been issued. Expiration dates are therefore estimated.
+ 
+Government Regulation
+ 
+Any contracts that we enter into with governmental agencies will be subject to a variety of federal, state and local laws and regulations. These regulations are aimed at preventing the inadvertent disclosure of munitions related data or the export of technical knowledge to foreign countries. The work we do with governmental units may also be subject to laws respecting the confidentiality of any classified or national security information we receive during the course of our activities under any government contract.
+ 
+Additionally, with respect to our work with government agencies, our sales are driven by pricing based on costs incurred to produce products or perform services under contracts with the U.S. government. U.S. government contracts generally are subject to Federal Acquisition Regulations (“FAR”), agency-specific regulations that implement or supplement FAR, such as the DoD’s Defense Federal Acquisition Regulations and other applicable laws and regulations. These regulations impose a broad range of requirements, many of which are unique to government contracting, including various procurement, import and export, security, contract pricing and cost, contract termination and adjustment, and audit requirements. A contractor’s failure to comply with these regulations and requirements could result in reductions of the value of contracts, contract modifications or termination, and the assessment of penalties and fines and could lead to suspension or debarment from government contracting or subcontracting for a period of time. In addition, government contractors are also subject to routine audits and investigations by U.S. government agencies such as the Defense Contract Audit Agency (“DCAA”). These agencies review a contractor’s performance, cost structure, and compliance with applicable laws, regulations, and standards. The DCAA also reviews the adequacy of, and a contractor’s compliance with, its internal control systems and policies, including the contractor’s purchasing, property, estimating, compensation, and information systems.
+ 
+As of March 20, 2020, we do not have any active contracts with government agencies. During fiscal year 2019, we did not enter into any contracts with government agencies, nor do we seek to do so in the future.
+ 
+Employees
+ 
+As of December 31, 2019, we had 21 full-time employees. We continue to search for additional, qualified personnel, to support our expanding operations in the area of IPQA® for AM.
+Properties
+ 
+We lease approximately 3,872 square feet of space at 3900 Paseo del Sol, Santa Fe, New Mexico 87507, including 1,945 square feet of office space at units, C-14, C-15, C-16, C-17, C-18, C-20, C-21 and D-34 for a total monthly rent expense of approximately $4,240 under the lease, and 1,927 square feet of warehouse / production space at units E-38, E-40 and E-42, for a total monthly rent expense of approximately $2,275 under the lease, which expire between May 31, 2020 and July 31, 2020.
+ 
+We believe that our facilities are suitable for our current needs. We currently intend to renew such leases, but we are evaluating the need for a larger space as we grow.
+ 
+Corporate Information
+ 
+Our principal executive offices are located at 3900 Paseo del Sol, Santa Fe, New Mexico 87507, and our current telephone number at that address is (505) 438-2576. Our website address is www.sigmalabsinc.com. The Company’s annual reports, quarterly reports, current reports on Form 8-K and amendments to such reports filed or furnished pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and other information related to the Company, are available, free of charge, on that website as soon as we electronically file those documents with, or otherwise furnish them to, the SEC. The Company’s website and the information contained therein, or connected thereto, are not and are not intended to be incorporated into this Annual Report on Form 10-K.
+
+9
+-
+
+
+We incorporated as Messidor Limited in Nevada on December 23, 1985 and changed our name to Framewaves Inc. in 2001. On September 27, 2010, we changed our name from Framewaves Inc. to Sigma Labs, Inc.
+ 

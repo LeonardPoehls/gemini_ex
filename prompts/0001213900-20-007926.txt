@@ -1,0 +1,24 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+General
+ 
+iSign Solutions Inc. (the “Company” or “iSign”), was incorporated in Delaware in October 1986. iSign is a leading supplier of digital transaction management (DTM) software enabling the paperless, secure and cost-effective management and authentication of document-based transactions. iSign’s solutions encompass a wide array of functionality and services, including electronic signatures, simple-to-complex workflow management and various options for biometric authentication. These solutions are available across virtually all enterprise, desktop and mobile environments as a seamlessly integrated platform for both ad-hoc and fully automated transactions. iSign’s platform can be deployed both on premise and as a cloud-based (“SaaS”) service, with the ability to easily transition between deployment models. The Company is headquartered in San Jose, California.
+ 
+For the year ended December 31, 2019, total revenue was $844, a decrease of $73, or 8%, compared to total revenue of $917 in the prior year. For the year ended December 31, 2019, software product revenue was $195, a decrease of $10, or 5%, compared to product revenue of $205 in the prior year. Maintenance revenue for the year ended December 31, 2019 was $649, a decrease of $63, or 9%, compared to maintenance revenue of $712 in the prior year. The changes are primarily attributable to the Company’s efforts to restructure its operations in favor of a partner-generated recurring revenue model.
+ 
+For the year ended December 31, 2019, the net loss was $1,086, an increase of $59, or 6%, compared to $1,027 in the prior year. For the year ended December 31, 2019, non-cash charges, consisting of interest expense, warrant expense and the amortization of debt discount were $369, an increase of $70, or 23%, compared to $299 in the prior year. For the year ended December 31, 2019, operating expenses were $1,562, a decrease of $127, or 8%, compared to operating expenses of $1,689 for the prior year. The decrease in operating expense resulted from reductions in full time employees and expenses associated with the Company’s efforts to restructure its operations in favor of a partner-generated recurring revenue model.
+ 
+Core Technologies
+ 
+The Company’s core technologies can be referred to as “transaction-enabling” and “business process work flow” technologies. These technologies include various forms of electronic signature methods, such as handwritten, biometric, click-to-sign and others, as well as technologies related to signature verification, authentication, cryptography and the logging of audit trails to prove signers’ intent. These technologies enable the appending of secure, legal and regulatory compliant electronic signatures coupled with an enhanced user experience, all at a fraction of the time and cost required by traditional, paper-based processes for signature capture.
+Products
+ 
+The Company’s enterprise-class SignatureOne® and iSign® suite of electronic signature solutions enable businesses to implement truly paperless, electronic signature-driven business processes. The aggregate of the software functionality enabling the digitization of end-to-end work flow processes is sometimes referred to as “digital transaction management” (DTM). Many applications provide electronic forms and allow users to fill-in information, but most of these applications still require users to print out a paper copy for a handwritten, ink signature. Solutions powered by iSign products allow legally binding electronic signatures to be added to digital documents, eliminating the need for paper to memorialize the completion, approval or authentication of the transaction. This allows users to reduce transaction times and processing costs.
+ 
+1
+
+ 
+
+The SignatureOne® and iSign® suite of products includes the following:
+ 

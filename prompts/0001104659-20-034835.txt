@@ -1,0 +1,806 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business | 5
+--------+----------+--
+
+
+Item 1. | Business
+--------+---------
+
+ 
+On February 26, 2020, our board of directors determined to advance the preclinical development of our pan-RAS inhibitor program while seeking to identify financing and strategic opportunities for the company. The opportunities may include, but are not limited to, a licensing or collaboration agreement involving the pan-RAS inhibitor program and/or our other in-licensed compound, a potential monetization transaction that may involve the sale of our rights in the in-licensed compounds or a merger or other strategic transaction. Additionally, the assessment of strategic opportunities and the evaluation of such assessment to the extent made by our current board of directors will be subject to review and possible change after our annual general meeting of shareholders by the then newly composed board of directors. As a result, you should not place undue reliance on the plans discussed below relating to the pan-RAS and PDE10/ß-catenin programs as they are subject to change.
+ 
+Overview
+ 
+We are a preclinical biotechnology company committed to discovering and developing new cancer therapies designed to target the products of mutated genes that are drivers of human malignancies. These therapies are called small molecule targeted therapies. Our company has obtained the option to license small molecule technologies that we believe we can develop into product candidates that can deliver novel treatments for cancer patients whose cancers are caused by mutated genes and for whom existing therapies are limited in effectiveness. The first of these technologies comprises small molecules that potently inhibit the products of RAS oncogenes. RAS oncogenes are the most frequently mutated family of genes in human cancer, responsible for almost a third of all human malignancies, and almost half of the three most lethal cancers (i.e., lung cancer, colorectal cancer and pancreatic cancer). To date there are no approved therapies that are effective in countering their tumorigenic effects. Our second technology consists of small molecules that interfere with the Wnt/APC/β-catenin biochemical pathway through the inhibition of phosphodiesterase 10 (“PDE10”). Mutations in this pathway are involved in most human colorectal cancers, the second leading cause of cancer deaths in the United States, as well as in the hereditary cancer predisposition syndrome, familial adenomatous polyposis (“FAP”), which gives rise to colorectal cancer. As is true for RAS-driven cancers, to date there are no approved therapies specifically for cancers that carry mutations in the Wnt/APC/β-catenin pathway genes.
+ 
+Previously we discovered and developed a gene therapy, inodiftagene vixteplasmid (“inodiftagene”), designed to treat early stage bladder cancer. We developed this gene therapy in six clinical trials in pancreatic cancer, ovarian cancer, and bladder cancer. Based on these preliminary clinical studies, we planned and initiated a clinical trial designed as the basis for potential regulatory approval of inodiftagene. This clinical trial, the Phase 2 Codex trial, was initiated in December 2018, enrolling patients through the following year. We terminated the program in November 2019 based on our assessment that the observed preliminary efficacy of inodiftagene in bladder cancer was insufficient to support regulatory approval.
+ 
+In parallel to the now-terminated inodiftagene program, our corporate goals for 2019 called for the expansion of our pipeline, and we determined to move toward small molecule anti-cancer therapeutics. In September 2019, we entered into a collaboration and license agreement (the “Collaboration Agreement”) with ADT Pharmaceuticals, LLC (“ADT”) pursuant to which we agreed to use commercially reasonable efforts to conduct research and development activities with respect to the pan-RAS and PDE10/β-catenin programs under the oversight of a jointly established steering committee. In addition, ADT granted us an exclusive option to license its small molecule technologies. The Collaboration Agreement covers two proprietary classes of molecules: (1) inhibitors of RAS, and (2) inhibitors of the Wnt/APC/β-catenin pathway via PDE10. Pursuant to the Collaboration Agreement, we have an exclusive option to license the suite of intellectual property covering these molecules, with granted patents that extend to 2034. We believe we will be able to develop these molecules into product candidates to provide new therapies for patients with cancers whose pathogenesis depends on mutant RAS oncogenes, or on mutations in the Wnt/APC/β-catenin pathway. Both of these genetic lesions cause enormous human suffering by reason of the cancers they cause. These genes are primarily responsible for lung, colorectal, and pancreatic cancers, the most common lethal cancers, among others. Mutations in one of the RAS genes are present in more than 30% of all human cancers, making these the most frequent oncogenic mutations in cancer. The Wnt/APC/β-catenin pathway genes are mutated in approximately 90% of colorectal cancers.
+ 
+5
+
+ 
+
+The impact of RAS and Wnt/APC/β-catenin mutations can be best understood by considering cancer incidence and death rates in the United States. According to the American Cancer Society, in 2020, it is expected that more than 1.8 million new cases of cancers will be diagnosed in the United States, and approximately 606,520 people in the United States are expected to die of cancer. More than 30% of these cancers have RAS mutations. The cancers with the highest estimated mortality rates in the United States for 2020 are lung cancer (approximately 136,000 deaths), colorectal cancer (approximately 53,000 deaths), and pancreatic cancer (approximately 47,000 deaths), which together are estimated to account for over 235,000 deaths in 2020 in the United States alone. These three cancer types are largely driven by mutant RAS. Globally, the epidemiologic profile is similar. The Wnt/APC/β-catenin pathway is similarly implicated in a large number of lethal cancers. Approximately 90% of colorectal cancers carry mutations in either the adenomatous polyposis coli (“APC”) gene or in the CTNNB1 gene that encodes β-catenin. This translates into approximately 48,000 deaths due to colorectal cancer carrying Wnt/APC/β-catenin pathway mutations in the United States alone. Additionally, the involvement of the Wnt/APC/β-catenin pathway in the hereditary cancer syndrome FAP via mutations in the APC gene affects approximately 16,000 additional patients in the United States.
+ 
+The RAS oncogenes are heavily implicated in the genesis of a broad spectrum of cancers as the most common oncogenic alterations known. There are three members of the RAS family of genes: KRAS, HRAS, and NRAS. Of the most frequently lethal cancer types, lung cancers (non-small cell lung cancers, “NSCLC”) have mutations in one of the RAS family of genes in approximately 35% of cases; colorectal cancers carry RAS mutation in approximately 45% of cases; and pancreatic cancers carry RAS mutations in over 95% of cases. We estimate that the total addressable population of patients with RAS-mutation driven solid tumors alone is more than 165,000 patients per year in the US. This enormous toll of cancer morbidity and mortality suggests that therapies directed at tumors carrying mutated forms of RAS are urgently needed.
+ 
+Treating cancers that carry mutated oncogenes by discovering and developing small molecule inhibitors of the mutated protein products of the oncogene is one of the most successful cancer treatment paradigms that exists. Approved small molecule targeted drugs include inhibitors of the oncogenic breakpoint cluster region-Abelson murine leukemia viral oncogene homolog 1 (“BCR-ABL”) including imatinib, dasatinib, and ponatinib in leukemia; inhibitors of oncogenically mutated epidermal growth factor receptor (“EGFR”) in NSCLC including erlotinib and osimertinib; inhibitors of mutated anaplastic leukemia kinase (“ALK”) in NSCLC such as crizotinib and brigatinib; and many others. However, there are no approved inhibitors for mutated members of the RAS family of oncogenes. Until very recently, the unique biochemistry and biology of the RAS family had resisted efforts of cancer biologists to discover and develop drugs capable of inhibiting the activity of the mutated protein. However, in 2014 work by Shokat and others led to new approaches to the discovery of small molecules capable of inhibiting a particular mutated form of RAS, known as KRAS G12C. This designates a mutation in the KRAS member of the RAS family, in which an amino acid at position 12 is altered due to a mutation in the encoding gene. In 2019, this work led to the first demonstration in the clinic of anti-tumor response associated with treatment with KRAS G12C inhibitors under development by Amgen and Mirati Therapeutics. We believe the significance of these successes is field-altering, as for the first time there is evidence that inhibition of mutated RAS isoforms may be undertaken in the same manner as other successful small molecule targeted therapies had shown possible against other mutated oncogenes. In other words, RAS has become a clinically validated target. However, KRAS is only one of three mutated isoforms of the RAS family, and only approximately 11% of KRAS mutations are of the G12C type. This means that while these observations have proven that RAS-directed therapy using small molecule inhibitors is possible with clinical effect, results so far are confined to a small subset of patients carrying a particular mutation. That said, the values of the companies pursuing KRAS G12C inhibitors has grown by many billions of dollars during 2019.
+ 
+Our lead focus is our pan-RAS program, which we believe is poised to take advantage both of the fact that RAS inhibition has been shown to be clinically valid, and initial successes by existing therapies have been confined to a fraction of tumors that carry RAS mutations. A broadly-acting pan-RAS inhibitor with the potential to treat RAS-driven cancers regardless of RAS isoform or mutation would be clinically useful. We believe our RAS-inhibitor molecules have potential for RAS inhibition in a broad variety of clinical settings.
+ 
+The characteristics one would need in such inhibitors include: selectivity for activated RAS; potency against cells harboring mutant RAS; consistency of biochemical data with RAS inhibition (as opposed to other pathway points of inhibition); evidence for binding RAS directly; in vivo anti-tumor activity; and immunological stimulation in vivo consistent with other clinical RAS inhibitors.
+ 
+6
+
+ 
+
+Our small molecule inhibitors have been demonstrated to have these characteristics. Our lead RAS-inhibitor molecules are novel structures that share an indene core. These molecules potently inhibit growth of tumor cells harboring mutant RAS, while having greater than 100-fold selectivity over cells with normal RAS activity. Inhibitory activity has been observed with low nanomolar potency in KRAS-, HRAS-, and NRAS-driven tumor cell models with a variety of mutations across a variety of tumor types. This activity is observable in both monolayer cultures, and in 3-D spheroid cultures, which may have higher predictive value for anti-tumor activity. These compounds inhibit downstream signaling through RAF and PI3K pathways, which is consistent with their acting directly on RAS, as opposed to another pathway molecule. They initiate cell-cycle arrest and induce apoptosis, consistent with cell killing. Importantly, the inhibitors demonstrate blockade of GTP loading of RAS in the nucleotide-free state in cell-free biochemical assays, suggesting that their mechanism of action is through interference of GTP-mediated signaling. They have exhibited in vivo activity in RAS-mutant tumor models. Finally, an emerging characteristic of RAS inhibition is the stimulation of anti-tumor immunity. This has been shown with AMG 510, a KRAS G12C inhibitor presently in the clinic, and it suggests that effective RAS inhibition stimulates several anti-tumor immune mechanisms. Our inhibitors have been shown to similarly stimulate anti-tumor T-cell-mediated immune mechanisms, suggesting that their mechanism is indeed effected through RAS.
+ 
+We have identified lead compounds with the desired biologic and biochemical characteristics with regard to effecting pan-RAS inhibition. We are undertaking additional structural studies and medicinal chemistry to identify a clinical lead compound. We anticipate that we will identify a clinical development lead compound in the next 12 to18 months, followed by 12 months of Investigational New Drug (“IND”) application-enabling studies. We believe this will allow us to initiate our first in human trial in 2022. Initial clinical studies will enroll patients with RAS mutations and advanced solid tumors. The clinical development of other targeted therapies in tumors with genetically defined driver mutations, including the development plans for the KRAS G12C inhibitors presently under investigation, suggests that there is a path to accelerated approval based on a single well-designed multi-center single-arm study. We would then pursue the expansion of indications to additional tumor types, earlier lines of therapy, and combination studies, with additional trials.
+ 
+Our focus initially will be on the pan-RAS-inhibitor program. Our second program, the PDE10/β-catenin program, will proceed in collaboration with ADT. This program’s suite of small molecules selectively and potently inhibit PDE10 and suppress Wnt/APC/β-catenin signaling in preclinical models. PDE10 inhibition has been shown to downregulate β-catenin expression and inhibits polyp and tumor growth. We have identified molecules that are orally bioavailable, and, in our preliminary mouse models, have been shown to inhibit the development of intestinal polyposis and colon cancer, and the growth of pulmonary metastases. Initial plans for continued preclinical development of the PDE10/β-catenin program will be funded by ADT using Small Business Innovation Research (“SBIR”) grants to ADT.
+ 
+Our management has extensive experience in the development and global approval of small molecule targeted therapies in their previous roles. As such, we believe we are positioned for the successful development of small molecule inhibitors. We believe that our pan-RAS and PDE10/β-catenin programs have substantial promise to lead to new development candidates with the potential to treat lethal tumors harboring RAS and Wnt/APC/β-catenin pathway mutations in the United States and globally.
+ 
+Our Product Pipeline
+ 
+Our preclinical programs are summarized below and consist of two preclinical programs. We have a partnership with ADT related to two small molecule development programs targeting oncogenic pathways, focused on RAS and PDE10/β-catenin, respectively.
+ 
+7
+
+ 
+
+Our Therapeutics Pipeline 
+ 
+
+Pan-RAS Program: Our highest priority program targets oncogenic mutations in the RAS family of genes (i.e., KRAS, HRAS, and NRAS gene families), which are present in more than 30% of cancers. RAS plays a pivotal role in signal transduction pathways leading to tumor cell proliferation and survival. Our pan-RAS program has identified novel indene-based small molecules that exhibit potent and selective inhibition of activated RAS signaling regardless of isoform or mutation, or pan-RAS inhibition.
+ 
+PDE10/ß-catenin Program: Genetic alterations in components that make up the Wnt signaling pathway, which includes APC and β-catenin, are prevalent in a number of cancer types, occurring in more than 80% of colorectal cancers. Our PDE10/ß-catenin program has identified small molecules that selectively and potently inhibit PDE10 and suppress Wnt/APC/β-catenin signaling in preclinical models. PDE10 inhibition has been shown to down regulate β-catenin expression and inhibits polyp and tumor growth. We believe it has potential for application in the treatment of cancer as well as spontaneous and familial polyposis syndromes.
+ 
+Inodiftagene vixteplasmid: Previously we discovered and developed a gene therapy, inodiftagene, designed to treat non-muscle invasive bladder cancer (“NMIBC”). We had developed this gene therapy in six clinical trials in pancreatic cancer, ovarian cancer, and bladder cancer. Based on these preliminary clinical studies, we determined to test this product candidate in a clinical trial designed as the basis for potential regulatory approval. This clinical trial, the Codex trial, was initiated in December 2018, enrolling patients through the following year. In November 2019, we discontinued the pivotal Phase 2 Codex study. After a thorough analysis of the data, we determined that there was a low probability of surpassing the pre-defined futility threshold at the planned interim analysis, which required 10 complete responses in 35 patients. As of November 14, 2019, 16 patients were evaluable after the first disease assessment on treatment; of these, three, or 19%, had experienced a complete response. The data also indicated a low probability of achieving an efficacy profile that in our estimation would be necessary to support regulatory approval. The safety data on the investigational product were consistent with those observed in prior preliminary clinical trials. While no further clinical development is currently planned, we maintain rights to inodiftagene, licensed from Yissum Research Development Company of the Hebrew University of Jerusalem (“Yissum”), and may evaluate strategic options, including out-licensing or partnering opportunities, with the therapy in other NMIBC or oncology indications, subject to the terms of the Yissum agreement.
+ 
+8
+
+ 
+
+Pan-RAS Program
+ 
+Background 
+ 
+According to the National Cancer Institute, mutations in the RAS family of genes (i.e., KRAS, HRAS, and NRAS) are the most frequent oncogenic mutations in cancer, present in over 30% of all cancers. These mutations are involved in more than 181,000 cancer deaths per year (more than 30% of 606,000 deaths) in the United States alone. The three most lethal cancers, lung cancer, colorectal cancer and pancreatic cancer, are driven largely by mutant RAS. Of these cancer types, non-small cell lung cancers (“NSCLC”) have mutations in the RAS family of genes in approximately 35% of cases; colorectal cancers carry RAS mutation in approximately 45% of cases; and pancreatic cancers carry RAS mutations in over 95% of cases. Taken together, in these three cancer types, RAS mutations account for more than 100,000 lethal cases of cancer per year in the United States. The World Health Organization estimates that in 2018, the most common causes of cancer death are lung cancer (1.76 million deaths) and colorectal cancer (862,000 deaths). According to the National Cancer Institute Surveillance, Epidemiology, and End Results (SEER) Program, five-year survival outcomes in advanced NSCLC, colorectal cancer and pancreatic cancer are particularly dismal - 5%, 14% and 3%, respectively.
+ 
+We estimate that the total addressable population of patients with RAS-mutation driven solid tumors alone totals more than 165,000 patients per year in the United States. These morbidity and mortality rates suggest that therapies directed at tumors carrying mutated forms of RAS are urgently needed.
+ 
+Taken together, these statistics suggest that the patient population that could benefit from effective therapy targeting RAS mutations is large. The U.S. annual incidence of NSCLC, colorectal cancer, and pancreatic cancer combined is approximately 395,000 patients, of which approximately 295,00 are advanced cases. We estimate that this translates into approximately 130,000 addressable patients annually with RAS-mutated advanced solid tumors in the United States in these three indications. We estimate that other solid tumors will add approximately 35,000 additional addressable patients for a total annual addressable patient population of 165,000 in the United States. RAS mutations are similarly frequent globally. Despite success in development of therapies targeting other genetic drivers in cancer, there have been no approved RAS inhibitors to date. The frequency of RAS mutations in cancer, the high mortality associated with the disease, and the lack of any approved targeted therapies creates a significant clinical need.
+ 
+RAS plays a pivotal role in cell signal transduction pathways leading to tumor cell proliferation and survival. RAS, a membrane bound protein, resides in an inactive, or GDP-bound, state. Following stimulation, RAS releases guanosine triphosphate (“GDP”) and forms a transient nucleotide-free state, subsequently binding with guanosine triphosphate (“GTP”). Active, or GTP-bound, RAS engages specific RAS effector proteins (e.g., RAF, PI3K), resulting in activation of pathways leading to cell proliferation and survival. Oncogenic activation of RAS occurs mainly via mutations in codons 12, 13 and 61—with a shift to the GTP-bound state and constitutive activation of RAS effector pathways. 
+ 
+9
+
+ 
+
+
+RAS Signaling Pathway
+ 
+
+Abbreviations: 
+ 
+EGFR = | epidermal growth factor receptor, | ERK = | extracellular signal-regulated kinase 
+-------+-----------------------------------------+--------+-------------------------------------------
+GRB2 = | growth factor receptor-bound protein 2 | MEK = | mitogen activated protein kinase 
+P = | phosphorylated | PI3K = | phosphatidylinositol 3-kinase 
+PIP2 = | phosphatidylinositol (4,5)-bisphosphate | PIP3 = | phosphatidylinositol (3,4,5)-trisphosphate
+SOS = | son of sevenless | | 
+
+ 
+The understanding of the oncogenic properties of RAS has driven the search for anti-RAS therapeutics for several decades. However, mutant RAS has long been viewed as “undruggable” directly due to its minute structural differences from wild-type RAS, its smooth surface and lack of deep pockets for binding of small molecule inhibitors. Initial attempts to inhibit mutant RAS focused on inhibition of farnesyltransferase, responsible for posttranslational modifications associated with correct localization of the protein. However, this line of investigation has been unsuccessful to date in clinical trials. More recently, a previously unrecognized pocket of RAS—the Switch II Pocket (“SII-P”)—was discovered in the inactive GDP-bound form. Compounds have been identified that selectively target the cysteine mutation at codon 12 (also known as the KRAS G12C mutation) and bind covalently to RAS G12C, targeting SII-P and preventing loading of GTP and engagement of effectors. A number of KRAS G12C mutation inhibitors are currently in Phase 1 clinical trials (e.g., Amgen Inc.’s AMG-510 and Mirati Therapeutics, Inc.’s MRTX849), with early clinical data reporting evidence of activity in KRAS G12C mutation-positive cancers, particularly NSCLC. These drugs have generated enormous excitement, with the most advanced drug, AMG-510, showing an overall response rate (“ORR”) of 48% in 23 evaluable NSCLC patients with eight out of 11 responders remaining in response and on treatment. Similarly, MRTX849 has shown a 50% ORR in six patients with NSCLC in its initially presented Phase 1 data set.
+ 
+We believe the significance of these successes is field-altering, as for the first time there is evidence that inhibition of mutated RAS isoforms may be undertaken in the same manner as other successful small molecule targeted therapies had shown possible against other mutated oncogenes. In other words, RAS has become a clinically validated target. However, these current investigational drugs are mutation specific—with G12C representing approximately 9% of RAS mutations in cancer. As shown below, KRAS represents the most commonly mutated isoform of RAS, and there is a spectrum of activating mutations that have been observed with this isoform. This means that only approximately 11% of the KRAS mutations can be addressed with G12C inhibitors. A variety of activating mutations have also been observed with the HRAS and NRAS isoforms, which remain unaddressed. While these observations have proven that RAS-directed therapy using small molecule inhibitors is possible with clinical effect, results so far are confined to a small subset of patients carrying a particular mutation. That said, the market capitalization of the companies pursuing KRAS G12C inhibitors has grown by many billions of dollars during 2019.
+ 
+10
+
+ 
+
+Frequency of RAS Mutations by Tumor Type (cancers with >5% RAS mutation frequency)
+ 
+
+Adapted from: Cox et al., Nat Rev Drug Discov, 2014
+ 
+Frequency of Specific KRAS mutations in KRAS-Mutated Lung, Colorectal, Pancreatic and Biliary Tract Cancers
+ 
+
+
+Adapted from: Vasan et al., Clinical cancer research, 2014
+ 
+We believe that our pan-RAS program is poised to take advantage both of the fact that RAS inhibition has been shown to be clinically valid, and that initial successes have been confined to a fraction of tumors that carry RAS mutations. A broadly acting RAS inhibitor with the potential to treat RAS-driven cancers regardless of RAS isoform or mutation (i.e., a pan-RAS inhibitor) would be clinically useful. It is also not yet well understood what resistance mechanisms to KRAS G12C mutation inhibitors will develop in the clinic. A pan-RAS inhibitor may be clinically preferable in KRAS G12C mutation-positive patients if resistance to KRAS G12C mutation inhibitors leads to mutations in other RAS isoforms or other KRAS mutations, and may also have utility in such patients who have been treated previously with a KRAS G12C mutation inhibitor. There is a clear need to continue to develop new and more effective direct inhibitors of RAS, preferably with broad activity against the multiple RAS isoforms and various mutations. Given the frequency of RAS mutations overall, a pan-RAS inhibitor would have potential to address a substantial proportion of cancer patients—significantly more than any other genetic target for which drugs have been developed to date (and, we estimate, approximately 11 times more patients than are addressable by the KRAS G12C mutation inhibitors). Therefore, our pan-RAS program is our highest priority.
+ 
+11
+
+ 
+
+Our Approach
+ 
+Our lead RAS inhibitor molecules are novel indene derivatives of sulindac, a well-studied and clinically utilized anti-inflammatory agent with activity against cells carrying mutated RAS. Our RAS inhibitor molecules have been engineered to eliminate cyclooxygenase-2 (“COX-2”) inhibitory activity, present in sulindac, to lessen the potential cardiovascular side effects observed with sulindac and other related drugs.
+ 
+We believe our RAS inhibitor molecules have potential for RAS inhibition in a broad variety of clinical settings, because they exhibit the characteristics we believe are necessary in a pan-RAS inhibitor. Our RAS inhibitor molecules potently, selectively, and reversibly inhibit growth of tumor cells harboring mutant RAS, while having greater than 100-fold selectivity over cells with normal RAS activity. Inhibitory activity has been observed with low nanomolar potency (<10 nM) in KRAS-, HRAS-, and NRAS-driven models with a variety of mutations (e.g. KRAS G12C, G13D, G12V, G12S; HRAS G12D; and NRAS Q61K) across a variety of tumor types, which suggests that these molecules could have utility across the broad spectrum of RAS mutations and tumor types in which these mutations have been observed to drive cancer. This potent activity is observable in both monolayer cultures, and in 3-D spheroid cultures, which may have higher predictive value for anti-tumor activity. These compounds inhibit downstream signaling through RAF and PI3K pathways, which is consistent with their acting directly on RAS, as opposed to another pathway molecule. They initiate cell-cycle arrest and induce apoptosis, consistent with cell killing. Importantly, the inhibitors demonstrate blockade of GTP loading of RAS in the nucleotide-free state in cell-free biochemical assays, suggesting that their mechanism of action is through interference of GTP-mediated signaling. They have exhibited in vivo activity in RAS mutant tumor models. Finally, an emerging characteristic of RAS inhibition is the stimulation of anti-tumor immunity. This has been shown with AMG 510, a KRAS G12C inhibitor presently in the clinic, and it suggests that effective RAS inhibition stimulates several anti-tumor immune mechanisms. Our inhibitors have been shown to similarly stimulate anti-tumor T-cell-mediated immune mechanisms. These multiple lines of evidence are all consistent with the characteristics one would expect to observe with a drug that is killing cells by direct inhibition of RAS.
+ 
+We believe these molecules have potential for RAS inhibition in a broad variety of clinical settings. Over the next 12-18 months our main goals are to understand the specific mechanism of action and physical basis of binding of the compounds to RAS, and to optimize the initially identified series of compounds to identify a lead development candidate.
+ 
+One of our lead compounds in the pan-RAS program, ANC 007 (also referred to as MCI-062), has been observed to have less than 10 nanomolar cellular potency in monolayer cultures of tumor cells harboring mutant RAS. Similar potency was observed in 3D spheroid cultures, which are cell cultures that are permitted to grow in all three dimensions and are considered by some to be more predictive of in vivo activity than monolayer culture. Cell lines with wild-type (“WT”) RAS and concurrent upstream mutations (e.g. EGFR) that signal through RAS display similar inhibition to cell lines with mutated RAS. Cell lines with WT RAS in the absence of upstream activation are less sensitive (>100-fold selectivity), regardless of downstream activating mutations. Sensitivity to ANC 007 can be conferred by transduction of HT-29 cells (WT RAS) with mutant RAS. This means that mutated (or activated) RAS is required for the activity of the drug. These observations are consistent with the inhibition of RAS regardless of isoform, and regardless of the mutations tested. In addition, they suggest that the activation of RAS (by mutation or upstream signaling) is a key feature of selectivity. If this key finding of pan-RAS inhibition with this series of compound can be translated into a drug candidate exhibiting similar broad activity in vivo, we believe the clinical potential is substantial.
+ 
+12
+
+ 
+
+Potent and Selective Pan-RAS Inhibition with ANC 007
+ 
+
+
+Source: Keeton et al., AACR 2019; Mattox et al. AACR 2019; McConnell et al. AACR 2017; Data on File. ANC 007 has previously been referred to as MCI-062. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+13
+
+ 
+
+Potent and Selective RAS Inhibition of Monolayer and Spheroid Culture with ANC 007
+ 
+
+Panels: 
+ 
+
+· | A, B, C, D: Growth inhibitory activity of ANC 007 (MCI-062) was tested using the CellTiter-Glo luminescence assay.
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+· | E: Inhibition of colony formation was tested on a five different cell lines using ANC 007. BcPC-3 is a pancreatic cell line with non-mutated, or wild type, RAS. Other four cell lines carry RAS mutations. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | F: Replication incompetent retrovirus encoding HRAS-G12V mutant or empty vector was prepared by transfection of A293T cells with packaging and envelope plasmids. Crude supernatant collected and used to tranduce HT29 colon cancer cells. Stable pools of each were expanded and expression of HRAS was characterized by western blot. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Source: Keeton et al., AACR 2019; Mattox et al. AACR 2019; Data on File.
+ 
+ANC 007 has been shown to inhibit signaling through RAF and PI3K pathways (i.e., nodes in the signal transduction cascade that are downstream (distal) to RAS), which suggests that the node of inhibition is RAS itself, rather than one of the effectors further downstream. As shown below, treatment of MIA-PaCa-2 pancreatic cancer cells with KRAS G12C results in inhibition of signaling of the MAPK pathway as evidenced by inhibition of phosphorylation of CRAF, MEK, and ERK. AKT phosphorylation is also inhibited. The observation that both sides of the signaling pathways downstream from RAS (RAF/MEK/ERK and AKT) are inhibited suggests that the node of inhibition is RAS itself, rather than one of the effectors further downstream. MAPK signaling in KRAS G13D mutant HCT-116 colon cancer cells is inhibited in vivo as well. 
+ 
+14
+
+ 
+
+Inhibition of Downstream Signaling Through RAF and PI3K Pathways with ANC 007
+ 
+
+
+Panels: 
+ 
+
+· | A, ANC 007 (MCI-062) reduced RAS-GTP levels and inhibits activation of downstream RAS signaling in MIA-PaCa-2 pancreatic cancer cells Cells were treated with vehicle or ANC 007 for 24 hours in serum-free media and subsequently stimulated with 30 ng/mL EGF for 10 minutes. RAS- GTP levels after treatment were determined by the active RAS pull-down using GST-RAF1- RBD/glutathione agarose and detection by Western blotting. Detection of phospho-protein levels was performed by Western blot.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B, ANC 007 inhibits activation of downstream RAS signaling and activates anti-tumor immunity in murine RAS mutant colon cancer model. Mice were implanted in the right flank with 10 million HCT- 116 tumor cells per mouse. ANC 007-treated mice received 5 mg/kg MCI-062 twice daily by peritumoral administration. Vehicle-treated mice received 5% DMSO/5% cremophor EL/90% water once daily by peritumoral administration. RAS-GTP levels in tumor lysates were determined by the active RAS pull-down and detection by Western blotting. Levels of MAPK proteins and immune markers were determined by Western blotting with the whole tumor lysate. Each lane corresponds to an individual animal.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Source: Keeton et al., AACR 2019; Mattox et al. AACR 2019.
+ 
+15
+
+ 
+
+To initially characterize the molecular mechanism of action of ANC 007, it has been tested in cell-free biochemical assays utilizing recombinant KRAS in order to evaluate the potential for direct binding of the drug to the RAS protein. Incubation of ANC 007 with nucleotide-free KRAS followed by addition of GTP led to a concentration dependent reduction of RAS-GTP levels in an RBD pull-down experiment. This effect was not observed when ANC 007 was incubated with GTP-loaded RAS. The RBD assay utilizes the Ras-binding domain (RBD) of the RAS effector kinase Raf1 which been shown to bind specifically to the GTP-bound form of RAS proteins, making it an ideal tool for affinity purification of GTP-Ras. This experiment suggests ANC 007 directly inhibits GTP binding to RAS when RAS is in the nucleotide-free state but not in the GTP-bound state. Similarly, in a guanine nucleotide exchange assay, which uses a fluorescently-labeled guanine nucleotide analogue (MANT-GTP) to evaluate nucleotide binding to RAS, addition of ANC 007 to nucleotide-free KRAS inhibits MANT-GTP binding. We believe the results of these cell-free experiments indicate that the mechanism of ANC 007 involves direct binding to RAS to exert its effect. Further work, including such structural biology methodologies as x-ray crystallography, are planned to more specifically elucidate the mechanism of action and binding contacts of these compounds. 
+ 
+Inhibition of GTP Binding to Recombinant KRAS in Cell-Free Biochemical Assays Under Nucleotide-Free (nf) Conditions with ANC 007
+ 
+
+
+Panels:
+ 
+
+· | A, ANC 007 (MCI-062) inhibits GTP binding to recombinant nucleotide-free RAS in RBD pull-down experiment. Nucleotide-free recombinant WT-KRAS was prepared by incubation with 20 mM EDTA on ice. ANC 007 or vehicle was incubated 1 h with nucleotide-free WT-KRAS, followed by addition of GTP and an additional 30 min incubation (left) or, ANC 007 was incubated with WT-KRAS after addition of GTP (GTP-bound, right). RAS-GTP levels after treatment were determined by the active RAS pull-down assay using GST-RAF1-RBD/glutathione agarose and detection by Western blotting.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B, ANC 007 inhibits GTP binding to recombinant nucleotide-free RAS in guanine nucleotide exchange assay. Nucleotide-free recombinant WT-KRAS was prepared by incubation with 20 mM EDTA on ice. Nucleotide free KRAS was incubated with ANC 007 or vehicle for 1 h on ice, followed by addition of an excess of MgCl2 with fluorogenic MANT-GTP. Recombinant KRAS not treated with EDTA (GTP-KRAS) was included as a control indicator of intrinsic turnover rate. The development of fluorescence reflecting MANT-GTP binding to KRAS was monitored over the course of a 45 min incubation. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+16
+
+ 
+
+Source: Mattox et al. AACR 2019; Data on File.
+ 
+ANC 007 has exhibited potent anti-tumor activity in RAS-driven tumor models in mice, consistent with the cell based in vitro data. As shown below, ANC 007 inhibited tumor growth by intratumoral administration in KRAS mutant colon tumor xenograft models (HCT116 and CT26 cell lines). 
+ 
+In Vivo Antitumor Activity in RAS-driven Tumor Models with ANC 007
+
+
+
+
+Panels: 
+ 
+
+· | A: ANC 007 (MCI-062) inhibits growth of KRAS mutant HCT-116 tumor cells in a subcutaneous mouse xenograft model. Athymic nude mice were implanted in the right flank with 10 million tumor cells per mouse. Mice were treated once daily by intratumoral administration. Control mice received vehicle only (5% DMSO/5% cremophor EL/90% water) once daily by intratumoral administration. N=8 mice for vehicle group, n=7 mice for 5 mg/kg ANC 007 group, n=4 mice for 10 mg/kg ANC 007 group.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B: Mice were implanted in the right flank with one million CT-26 tumor cells per mouse. ANC 007 treated mice received 5 mg/kg ANC 007 twice daily by peritumoral administration. Vehicle-treated mice received 5% DMSO/5% cremophor EL/90% water once daily by peritumoral administration. Shown on left is control (vehicle-treated) mice and on the right are mice treated with ANC 007.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+17
+
+ 
+
+As shown below, in an immune competent mouse RAS-mutant tumor model, ANC 007 suppressed tumor growth in association with decreased PD-L1 levels in tumors; decreased PD-1 in T-cells; increased proportion of CD4+ and CD8+ T-cells in tumors; and reduced Treg cells in tumors (as evidenced by Foxp3 expression). Similar effects on the tumor immune microenvironment have been observed with KRAS G12C inhibitors, including AMG-510, and this stimulation of anti-tumor immunity appears to be an emerging characteristic of RAS inhibition itself. These lines of evidence suggest that effective RAS inhibition stimulates several anti-tumor immune mechanisms., and ANC 007 has been shown to similarly stimulate these anti-tumor T-cell-mediated immune mechanisms. 
+ 
+Inhibition of Tumor Growth with ANC 007 Associated with Activation of Antitumor Immunity 
+ 
+
+
+Panels:
+ 
+
+· | A: ANC 007 (MCI-062) reduces PD-L1 expression in RAS driven tumor model. Mice were implanted in the right flank with one million CT26 tumor cells per mouse. ANC 007-treated mice received 5 or 10 mg/kg ANC 007 once daily by intratumoral administration. Vehicle-treated mice received 5% DMSO/5% cremophor EL/90% water once daily by intratumoral administration. RAS-GTP levels in tumor lysates were determined by the active RAS pull-down and detection by Western blotting. of immune markers was performed on whole tumor lysate.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B, C, D, E: ANC 007 reduces PD-1, increases proportion of CD4+ and CD8+ T-cells, and reduces Tregs. Subcutaneous CT-26 murine tumors were excised from vehicle or ANC 007 treated mice, and digested for 1 h using the gentle-MACS dissociator and murine tumor digestion protease cocktail. Following digestion, single cell suspensions were recovered by passage through a cell strainer, and cell counts were normalized by quantitation using a hemacytometer. Fluorescently labelled antibodies used to quantitate the indicated cell populations by flow cytometry. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Preclinical Development
+ 
+We are developing a series of compounds that exhibit pan-RAS inhibition as detailed in the experiments above. The lead compounds demonstrate low nM IC50 potency against all RAS isoforms and all mutants tested, in cell lines of several histologies, and in monolayers and spheroids; inhibit RAS signaling; induce cell cycle arrest and apoptosis; inhibit binding of GTP to nucleotide-free RAS; bind to the GTP catalytic domain, in computational structural studies; inhibit mutant RAS-driven tumor growth in vivo; and demonstrate in vivo activation of anti-tumor immunity that includes the down-regulation of PD-L1. Over the next 12-18 months we plan to (1) replicate and expand on the data generated previously by ADT, including further characterization of the biological activity of the compounds; (2) undertake structural biology investigations to understand the specific mechanism of action and physical basis of the compounds binding to RAS; and (3) optimize the initially identified series of compounds, including ANC 007, to identify a lead development candidate for further preclinical and then clinical development. The preclinical work will be primary performed by a contract research organization(s) (“CRO”), with oversight and strategic guidance by us.
+ 
+18
+
+ 
+
+We have internally initiated experiments with ANC 007 and have replicated key cell-based data, including monolayer and spheroid cell viability and colony forming assays, with results consistent with those generated by ADT for the molecule across multiple cell lines and RAS mutations. This work has independently confirmed similar potency and selectivity results with ANC 007 to those presented.
+ 
+A key aspect of developing these compounds is to gain a detailed understanding of their mechanism of action and binding to RAS. To that end, we have embarked on a suite of biophysical and structural biology studies, including techniques such as nano differential scanning fluorimetry (nanoDSF), microscale thermophoresis (MST), protein nuclear magnetic resonance (NMR) and x-ray crystallography to understand specifically how these compounds bind to the RAS protein. This data will be crucial to understanding how this family of compounds exert their effect and learnings will be integrated into the medicinal chemistry strategy in order to develop an optimized product candidate. ANC 007 and related compounds require further optimization in order to identify a suitable clinical candidate. Evaluation of orally bioavailable candidates will include work up of ADME (absorption, distribution, metabolism, and excretion) profile, in vivo pharmacokinetic profile and efficacy, as well as initial assessment of in vivo toxicity. From the time of lead candidate nomination, we anticipate that it will take approximately 12 months to perform IND-enabling studies and submit an IND for First in Human studies, which we would anticipate to commence in 2022.
+ 
+Clinical Development Plan and Regulatory Pathway
+ 
+Clinical development will be initiated once a lead product candidate has been nominated, all necessary IND-enabling studies have been performed and an IND application has been successfully submitted to and accepted by the U.S. Food and Drug Administration (“FDA”) and adequate financing has been secured. Initial Phase 1 clinical investigation will be performed in patients with advanced solid tumors harboring a RAS mutation, with the objective of identifying a recommended Phase 2 dose and to evaluate the safety and tolerability of the product candidate, as well as to evaluate preliminary anti-tumor activity. Given the initial clinical activity observed in lung cancer with the KRAS G12C inhibitors in the clinic, we anticipate that NSCLC may be an area of initial focus, as well as colorectal and pancreatic cancer (given the prevalence of RAS mutations in these cancers). However, we anticipate that this study would enroll patients with multiple tumor types as long as a RAS mutation is present.
+ 
+The clinical development path of other targeted therapies in genetically defined tumors, such as those with EGFR, ALK, ROS1 and TRK aberrations, suggest that there exists the opportunity for accelerated clinical development of a RAS inhibitor as well, provided the investigational drug exhibits high response rate with clinically meaningful duration in a well-defined population with a significant unmet medical need. As in these prior examples, accelerated approval may be initially granted on the basis of a single well-executed, multi-center single arm, Phase 2 study (with the potential for different cohorts based on tumor type to support multiple indications in a single study). Given the clinical proof of concept observed in NSCLC with the G12C inhibitors, we anticipate prioritizing RAS mutant NSCLC patients previously treated with standard of care (i.e., platinum-based chemotherapy/checkpoint inhibitors) as an initial pivotal cohort. Other potential pivotal cohorts include advanced CRC, after 5-FU/oxaliplatin/irinotecan, and advanced pancreatic adenocarcinoma, after 5-FU or gemcitabine based therapy. Given the clinical need and the size of the patient population we anticipate this study would proceed rapidly.
+ 
+After approval in an initial indication, we would then pursue indication expansion with additional tumor types, earlier lines of therapy, and combination therapy (including with chemotherapy, other targeted therapies and checkpoint inhibitors, which have shown potential for synergy with RAS inhibition preclinically). Beyond initial pivotal cohort considerations, we will investigate RAS mutation in other appropriate tumor types such as bladder cancer and melanoma, and consider the potential for tumor agnostic indication, particularly in rare tumors and/or tumor types with infrequent RAS mutations, which is another area with potential for approval based on Phase 2 data. Patients who have failed G12C-specific inhibitor would also be a defined cohort to evaluate early on—given the hypothesis that resistance here may be mediated by other RAS isoforms or mutations.
+ 
+A robust translational medicine effort is needed as clinical and biomarker data may point to differential activity based on activating mutation or specific RAS gene, if so development will need to take these considerations into account (patient selection).
+ 
+19
+
+ 
+
+An appropriately expansive clinical development plan will contemplate how to move into investigation of first line treatment once activity is observed in the refractory setting. Confirmatory studies for initial indication(s) can be randomized Phase 3 studies in earlier lines of therapy with standard of care comparators. This may likely involve investigation of combination therapy, and therefore we plan for early evaluation of combination safety and preliminary efficacy, based on tumor types showing activity in monotherapy evaluation to potentially inform confirmatory studies and other indication expansion, depending on tumor type/setting. Combinations may be with chemotherapy, checkpoint inhibitors and other rational combination partners based on emerging molecular mechanisms of resistance to RAS inhibition.
+ 
+Beyond first line treatment in the advanced/metastatic setting, earlier stage disease/adjuvant setting is an exciting space to consider given the potential to significantly alter the course of disease. Moving targeted therapy into the adjuvant space has been challenging, but success has been seen with checkpoint inhibition and smart trial design (e.g., durvalumab in Stage III NSCLC). These are longer trials compared to metastatic setting, but the relatively large RAS patient populations (e.g., in NSCLC and colorectal cancer) make this attractive/feasible to consider. Finally, an additional area to consider, based on the preclinical data, is patients with RAS WT tumors with upstream activation who have failed targeted therapy/standard of care—such as Her2 mutant NSCLC and EGFR mutant NSCLC (e.g., T790M/C797S ‘triple mutant’).
+ 
+PDE10/β-catenin Program 
+ 
+Background 
+ 
+Genetic alterations in components that make up the Wnt signaling pathway, which includes APC and β-catenin, are prevalent in a number of cancer types, occurring in approximately 90% of colorectal cancers. This translates into approximately 48,000 deaths annually due to colorectal cancer carrying Wnt/APC/β-catenin pathway mutations in the Unites States alone. Additionally, germline mutations of APC lead to the hereditary cancer syndrome, FAP, which affects approximately 16,000 additional patients in the United States annually. 
+ 
+Wnt signaling controls the level of intracellular activated β-catenin, a key effector of oncogenic signal transduction, and oncogenic alterations in Wnt, APC, or β-catenin all result in elevated and uncontrolled levels of β-catenin. Wnt signaling is initiated upon binding of secreted Wnt ligands to Frizzled receptors and low-density lipoprotein receptor-related protein (“LRP”) co-receptors, which induces phosphorylation of Dishevelled (“Dvl”). Phosphorylated Dvl then associates with Axin, leading to dissociation of the β-catenin destruction complex (which includes APC and GSK3β). Free β-catenin then accumulates in the cytoplasm and translocates to the nucleus. Mutations which activate the Wnt pathway all culminate in the accumulation of high levels of oncogenic β-catenin in the cell nucleus. Therefore, we believe a successful intervention in this pathway requires lowering β-catenin levels or otherwise inhibiting it. β-catenin, a transcription factor, has been considered historically to be an “undruggable” target, lacking the deep binding pockets present in enzymes and receptors. As a result, drug screening efforts have primarily focused on other pathway components.
+ 
+Recent studies have shown that PDE10 is overexpressed during early stages of tumorigenesis and is essential for tumor cell growth. PDE10 inhibition increases cyclic GMP levels in tumor cells to activate protein kinase G (PKG) signaling leading to the degradation of the oncogenic pool of β-catenin to suppress critical proteins essential for tumor cell proliferation and survival. For the foregoing reasons, we believe that targeting PDE10 provides a novel approach to selectively suppress β-catenin mediated transcriptional activity.
+ 
+20
+
+ 
+
+
+Wnt/APC/β-catenin and PDE10 pathways 
+ 
+
+Adapted from Li et al., Oncogene, 2014
+ 
+Abbreviations: 
+ 
+5’GMP = | guanosine monophosphate | cGMP = | cyclic guanosine monophosphate
+--------+---------------------------+--------+-------------------------------
+GTP = | guanosine triphosphate | NO = | nitric oxide 
+PDE10 = | phosphodiesterase type 10 | pGC = | particulate guanylyl cyclase 
+PKG = | protein kinase G | sGC = | soluble guanylyl cyclase 
+TCF = | T-cell factor | | 
+
+Our Approach
+ 
+Our PDE10/ β-catenin program has identified small molecule indene derivatives that selectively and potently inhibit PDE10 and suppress Wnt/APC/β-catenin signaling in preclinical models. PDE10 inhibition has been shown to down regulate β-catenin expression and inhibits polyp and tumor growth. It has potential for application in the treatment of cancer as well as spontaneous and familial polyposis syndromes. Our orally available small molecule PDE10 inhibitors have unique advantages over known PDE10 inhibitors with potential for development in FAP, colon, lung, liver, breast and other cancers. 
+ 
+Inhibition of PDE10 induces cGMP/PKG signaling to phosphorylate and induce degradation of β-catenin to suppress key proteins essential for tumor cell proliferation and survival. PDE10 knockdown (“KD”) or inhibition with small molecules inhibits growth and colony formation of colon, lung, and breast tumor cells.
+ 
+21
+
+ 
+
+PDE10 overexpression in colon tumor cells; inhibition blocks colony formation and ß-catenin/Tcf transcription.
+ 
+
+
+Panels: 
+ 
+
+· | A: Differential PDE10 levels in normal colonocytes (NCM460) and colon tumor cells as measured by Western blot.
+--+---------------------------------------------------------------------------------------------------------------
+
+
+· | B: PDE10 siRNA knockdown inhibits colony formation of HT29 colon tumor cells.
+--+------------------------------------------------------------------------------
+
+
+· | C: PDE10 siRNA suppresses Tcf transcription of key regulatory genes (e.g., survivin, cyclin D, myc, etc.).
+--+-----------------------------------------------------------------------------------------------------------
+
+
+· | D: Treatment of HT29 cells with PDE10 inhibitor ANC 094 (also referred to as ADT-094) leads to reduction of ß-catenin and products of Tcf transcription as measured by Western blot.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: Li et al., Oncogene, 2015; Data on File. 
+ 
+One representative compound in this program, ANC 061 (also referred to as MCI-030) inhibits PDE10 to activate cGMP/PKG signaling, resulting in the phosphorylation and degradation of the oncogenic pool of β-catenin to selectively inhibit the growth of colon tumor cells in vitro. Oral administration to mice with the Apc+/min-FCCC genotype (a mouse strain with the APC mutation that produces an augmented incidence of colorectal adenomas and small intestinal cancers, used as a model to study polyposis syndromes and colon cancer) significantly inhibited incidence and multiplicity of colon adenomas and carcinomas in a dose-dependent fashion. Further in vivo studies with ANC 061 are in progress at Fox Chase Cancer Center to confirm these findings. These studies are funded by NCI, and if proof of concept is established there is the potential to further develop this compound in FAP in collaboration with NCI through its PREVENT Cancer Preclinical Drug Development Program.
+ 
+22
+
+ 
+
+Inhibition of Colon Tumorigenesis in the ApcMin Model
+ 
+
+Panels: 
+ 
+
+· | A, ANC 061 (MCI-030) induced a dose dependent decrease in adenoma incidence from 94.74% in control mice to 76.19% in mice treated with 1000 parts per million (ppm) ANC 061 and 57.80% of mice treated with 1500 ppm ANC 061.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B, Adenoma multiplicity was also significantly reduced from 4.0 in the control group to 2.9 in mice treated with 1000 ppm ANC 061, and to 1.95 in mice treated with 1500 ppm ANC 061.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | C, A reduction in micro adenomas was also observed.
+--+----------------------------------------------------
+
+
+· | D, Multiplicity of flat adenomas was abolished in mice receiving 1500 ppm and reduced in mice treated with 1000 ppm ANC 061 from 0.32 per mouse in the control group to 0.24, respectively.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | E, Incidence of mice with cancer was reduced from 10.53% in the vehicle group to 4.76% in mice treated with 1000 ppm ANC 061 and to 0% in mice treated with 1500 ppm ANC 061, n=19-21.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Source: Ward et al., AACR 2019.
+ 
+Another compound in this program, ANC 030 (also referred to as MCI-048) administered orally inhibits tumor growth in an orthotopic lung cancer mouse model without apparent toxicity. ANC 030 significantly extends survival in the A549 mouse model from a median 44 to 77 days with 25% of mice surviving until the end of the experiment. It was also effective in multiple other mouse models of lung and breast cancer, including models of metastasis.
+ 
+23
+
+ 
+
+Inhibits Lung Tumorigenesis in A549 Lung Cancer Model
+ 
+
+Panels:
+ 
+
+· | A, The A549 human lung adenocarcinoma cells with luciferase (Luc) tag were generated using lentiviral particles expressing luciferase gene driven by a CMV promoter and a stable A549Luc clone was selected. Female athymic nude mice were implanted with 1x106 A549Luc cells intrathoracically. Mice were treated by oral gavage once a day with the vehicle (Maalox) or MCI-048 at doses of 25, 50, or 100 mg/kg (n = 7/group) starting five days before tumor cell implantation. After implantation, treatment continued for 4 additional weeks. Tumor growth was monitored weekly through the detection of the bioluminescence of the A549Luc cells using In Vivo Imaging System (IVIS, IVIS Spectrum, Caliper Life Sciences). Signal intensity was quantified as the average number of photons emitted from a mouse within the chest cavity (Living Image software, version 4.3.1.) 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | B, Female athymic nude mice were implanted with 1x106 cells per mouse of cultured A549 human lung adenocarcinoma cells into the intrathoracic space of the left lung on Day 0. Animals were randomly assigned to two treatment groups (n=15) on Day 1 and treated with either MCI-048 formulated in Maalox by oral gavage at a dose of 100 mg/kg once daily for 8 weeks or with Maalox using the same schedule starting on Day 1. All surviving mice were euthanized on Day 151. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Source: Zhu et al. AACR 2019
+ 
+24
+
+ 
+
+Preclinical Development
+ 
+We are developing a series of compounds that exhibit potent PDE10 inhibition and induce degradation of β-catenin to suppress key proteins essential for tumor cell proliferation and survival. Initial plans for continued preclinical development will be funded with ADT using SBIR grants to ADT. While we are excited by the potential for this program, we have made the decision to initially prioritize advancement of our pan-RAS program. Once a product candidate has been nominated for IND-enabling studies in the pan-RAS program, we plan to allocate resources for development of the PDE10/ β-catenin program. We estimate approximately six months will be necessary from that time for lead optimization and product candidate nomination. From lead candidate nomination, we anticipate approximately 12 months to perform IND enabling studies and submit an IND for First in Human studies. Development of the program could potentially be accelerated with additional resources.
+Clinical Development Plan and Regulatory Pathway
+ 
+Clinical development will be initiated once a lead product candidate has been nominated, all necessary Investigational New Drug (IND) enabling studies have been performed and an IND application has been successfully submitted to and accepted by the USA. Initial Phase 1 clinical investigation in cancer will be performed in patients with advanced solid tumors, focusing on tumor types where the Wnt/APC/β-catenin pathway is implicated such as colorectal cancer, hepatocellular carcinoma, breast cancer and lung cancer, with the objective of identifying a recommended Phase 2 dose and to evaluate the safety and tolerability of the product candidate, as well as to evaluate preliminary anti-tumor activity. We anticipate that colorectal cancer may be an initial indication of focus in pivotal development, given the prominence of the Wnt/APC/β-catenin pathway in this disease. Subsequent development will be dependent on the signs of activity observed. If efficacy data allows (i.e. high response rate with meaningful duration of response in an indication of high unmet need), an accelerated approval path based on Phase 2 data may be considered. If not, a more traditional approach with a randomized Phase 3 program comparing to standard of care treatment will be required.
+ 
+A separate development path in FAP may also be pursued. This would initiate with a Phase 1 dose escalation study in healthy volunteers (single dose) and FAP patients (multiple dose). A randomized Phase 3 program in patients with FAP is anticipated to be required for registration.
+ 
+Collaborations and License Agreements
+ 
+ADT 
+ 
+In September 2019, we entered into the Collaboration Agreement with ADT pursuant to which we agreed to use commercially reasonable efforts to conduct research and development activities with respect to the pan-RAS and PDE10/β-catenin programs under the oversight of a steering committee jointly established with ADT. ADT is a private company focused on discovering, developing and securing patent protection for novel molecules that inhibit activated RAS- or Wnt-mediated signaling pathways that drive the growth of many human cancers. ADT’s technology currently comprises a broad, novel proprietary small-molecule class, encompassing at least two distinct mechanistic subclasses that share a common chemical core; one subclass targets RAS and the other subclass inhibits PDE10 to activate cGMP/PKG signaling and induce degradation of the oncogenic pool of β-catenin.
+ 
+Under the terms of the Collaboration Agreement, we were granted an exclusive option to license the RAS and PDE10/β-catenin programs in exchange for a $3.0 million upfront payment to ADT and will fund certain research activities. At any time through obtaining an IND designation, we will have the option to exclusively license the compounds we develop worldwide and will be responsible for all aspects of preclinical and clinical development and global commercialization. If we exercise our option, we will pay ADT an option exercise fee and will be responsible for development and commercialization of any compounds or products containing any compounds under the pan-RAS and PDE10/ß-catenin programs. We will also incur additional payment obligations to ADT for any product candidates developed under the pan-RAS and PDE10/ß-catenin programs, including milestone payments based on certain events with respect to product development and regulatory achievements, and royalty payments based on net sales of any commercialized products. We are responsible for all aspects of development for the pan-RAS and PDE10/ß-catenin programs. We also have the option to sublicense the licenses granted to us by ADT.
+ 
+25
+
+ 
+
+In connection with the Collaboration Agreement, we also entered into a Consulting and Collaboration Research Support Agreement with ADT (the “Support Agreement”), whereby ADT provides support services for our research and development activities with respect to the pan-RAS and PDE10/ß-catenin programs, including providing key research and discovery personnel, in exchange for a fee. 
+ 
+ADT may terminate the Collaboration Agreement in the event of a material default in any of our material obligations under the Collaboration Agreement (following a cure period). In the event the Collaboration Agreement is terminated, all licenses and options granted to us will be terminated and we will not be able to develop the compounds under the pan-RAS and PDE10/ß-catenin programs or any products containing such compounds. The Collaboration Agreement also restricts assignment except to a successor of substantially all of the business to which the Collaboration Agreement relates, whether in a merger, sale of stock, sale of assets, reorganization or other transaction.
+ 
+Yissum 
+ 
+On November 14, 2005, we entered into a license agreement with Yissum, which was subsequently amended several times, most recently in November 2013. Yissum has granted us an exclusive, worldwide license for the development, use, manufacture and commercialization of products arising out of patents owned by, and patent applications filed by, Yissum in connection with the H19 and IGF2-P4 genes. Yissum retains right, title and interest in the products, technologies or other inventions arising out of our research and development of these patents and patent applications, except for intellectual property developed with funding from the Israel Innovation Authority (“IIA”), which will be owned by us and transferred to Yissum only upon our dissolution or upon a decision by the IIA that it no longer requires us to own the intellectual property developed with its funding. We have the right to grant sub-licenses to third parties in accordance with the terms set forth in the Yissum license agreement.
+ 
+We have agreed to pay Yissum 4% of all “net sales” as royalties and 10% of the income that we receive from granting sub-licenses to third parties. We will pay half of these royalties on sales in countries in which no patent has been granted and a third party is selling identical products.
+ 
+We are required to indemnify Yissum, the Hebrew University of Jerusalem, their employees, directors, officers, representatives and any other persons acting on their behalf under the license against any liability, including without limitation product liability, damages, losses or expenses, including reasonable legal fees and litigation expenses arising out of our actions or omissions in performing the Yissum license, including the use, development and manufacturing of patents arising out of it and the granting of sub-licenses thereunder, provided that any such loss was not caused by the intentional misconduct or gross negligence of the indemnitees.
+ 
+We have the right to terminate the Yissum license upon three months’ prior written notice provided that we have paid all amounts owing to Yissum under the license. Yissum has the right to terminate the license in the event that we become bankrupt, liquidated or insolvent, or if our business is placed in the hands of a receiver, liquidator, or trustee. In addition, Yissum has the right to terminate the license for any material breach of it by us in the event that we fail to remedy such material breach within ninety days of Yissum’s notice of our material breach, provided that the material breach is curable within 90 days. In the event that the material breach cannot be remedied within ninety days, Yissum may not terminate the license if we take reasonable commercial action to cure such breach as promptly as practicable. The termination of the license also entails termination of all licenses granted thereunder. Any termination of the license shall not terminate any of our obligations, including our obligation to pay royalties that matured prior to the effective date of termination.
+ 
+In November 2019, we discontinued the pivotal Phase 2 Codex study, evaluating the gene therapy inodiftagene in patients with BCG-unresponsive NMIBC. After a thorough analysis of the data, we determined that there was a low probability of surpassing the pre-defined futility threshold at the planned interim analysis, which required 10 complete responses in 35 patients. At the time we discontinued the study, 16 patients were evaluable after the first disease assessment on treatment, of which three patients, or 19%, had experienced a complete response. The data also indicated a low probability of achieving an efficacy profile that in the company’s estimation would be necessary to support regulatory approval. The safety data on the investigational product were consistent with those observed in prior trials. While no further clinical development is currently planned, we maintain rights on inodiftagene and may evaluate out-licensing or partnering opportunities with the therapy including other NMIBC on oncology indications, subject to terms of the Yissum agreement.
+ 
+26
+
+ 
+
+Our Competitive Strengths
+ 
+Our technologies are small molecule targeted therapies that are directed against two pathways that have been long understood to contribute fundamentally to the pathogenesis of human cancer, the RAS pathway and the Wnt/APC/β-catenin biochemical pathway. We are initially focusing on our pan-RAS program, and we are developing compounds that exhibit pan-RAS cytotoxicity.
+ 
+We believe we can develop these compounds into product candidates, and that our competitive strengths put us in a unique position for success if we pursue the path towards further development after the review of strategic alternatives, as follows:
+ 
+
+· | Our product candidates are targeted therapies. We believe that the application of small molecule targeted therapy approaches to pan-RAS inhibition has a high likelihood of success. The development of small molecule targeted therapies against the products of mutated driver oncogenes is one of the most productive endeavors in the field of cancer therapy. Mutated driver oncogenes cause cancer cell proliferation, the first and most fundamental hallmark of cancer. The RAS genes are the most common example of such mutated driver oncogenes. These cancer genes have been identified by natural selection as being critical drivers of malignant proliferation and they are prime therapeutic targets. This potential for therapeutic exploitation has in turn been coupled with progress in physical methods and chemical engineering that allow the design of small molecules that directly inhibit the function of the key mutated driver genes. This approach has resulted in successful therapies for cancers whose genetic alterations include mutations in a variety of oncogenes. An important observation from this field is that, in general, preclinical data, both in vitro and in vivo, have been very strongly predictive for the development of these therapies. If the physical inhibition of the target molecule can be established and characterized by structural, chemical and biochemical methods and the target gene is a mutated positively acting driver gene, then preclinical activity correlates strongly with clinical activity. The RAS family of genes are driver oncogenes, the most commonly mutated oncogenes known. We believe that our existing preclinical data demonstrating and characterizing small molecule pan-RAS inhibition forms the foundation for development of these molecules into product candidates that can be used in clinical settings.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our molecules are first-in-class molecules. There are no small molecule targeted therapies that have successfully been shown to exhibit pan-RAS inhibitory activity, and whose mechanism of action involves direct inhibition of RAS. A variety of approaches to RAS inhibition have been tested, including interference with the intracellular localization and processing of RAS, inhibition of its binding to other signaling molecules, and other approaches. Current clinical–stage investigational drugs, such as AMG-510, have been shown to bind to and directly inhibit the KRAS G12C mutation, a subset of mutant RAS proteins. KRAS is one of 3 RAS family genes, and approximately 9% of RAS mutations are KRAS G12C mutations. To our knowledge, no other pan-RAS inhibitors like our molecules are currently being tested.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our preclinical data strongly support the activity of our molecules against cancer. The characteristics one would predict in molecules with preclinical pan-RAS inhibitory activity include: selectivity for activated RAS; nanomolar potency against cells harboring mutant RAS; consistency of biochemical data with RAS inhibition (as opposed to other pathway points of inhibition); evidence for binding RAS directly; in vivo anti-tumor activity; and immunological stimulation in vivo consistent with other clinical RAS inhibitors. Our small molecule inhibitors have been demonstrated to have these characteristics, and we believe we can develop our molecules into product candidates that will have potential for pan-RAS inhibition in a variety of clinical settings.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+27
+
+ 
+
+
+· | Recent data have validated cancer treatment with a RAS inhibitor. Until recently, the unique biochemistry and biology of the RAS gene family had resisted efforts of cancer biologists to discover and develop drugs capable of inhibiting the activity of the mutated protein. However, recent developments have led to the discovery of small molecules capable of inhibiting a particular mutated form of RAS, known as KRAS G12C. Preliminary successes of drugs under development such as AMG-510 and MRTX849, are field-altering, as for the first time there is evidence that inhibition of mutated RAS isoforms may be undertaken in the same manner as other successful small molecule targeted therapies had shown possible against other mutated oncogenes. In other words, RAS is a clinically validated target susceptible to small-molecule targeted therapy approaches.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our development plan addresses substantial unmet needs. Despite the preliminary success demonstrated by AMG 510 and MRTX849, KRAS is only one of three mutated isoforms of the RAS gene family, comprising approximately 85% of RAS mutations, and only approximately 11% of KRAS mutations are of the G12C type. A number of tumor types have large proportions of mutations in other RAS isoforms. Melanoma exhibits mutations in RAS in approximately 30% of cases, almost all of which are in NRAS. Of the 55% of colorectal cancers that carry RAS mutations, 5% are NRAS. Approximately half of the mutations in multiple myeloma are in NRAS. The RAS mutations in thyroid cancer and acute myeloid leukemia are predominantly NRAS (approximately 5-15% (depending on sub-type) and 15% respectively) . Bladder and head and neck cancers carry largely HRAS mutations. This means that while recent observations have proven that RAS-directed therapy using small molecule inhibitors is possible with clinical effect, results so far are confined to a small subset of patients carrying a particular mutation. In a larger sense, even though preliminary success has been demonstrated by KRAS G12C mutation inhibitors, at this time there are no approved inhibitors of mutated RAS in cancers that carry these genetic lesions. We believe there is much potential for broader treatment of RAS-mutated tumors, for treatment of tumors that have become resistant after KRAS G12C mutation-inhibitor therapy, for earlier line treatment and for combination therapy, and we believe that we can develop our molecules into product candidates capable of potentially meeting these broader needs.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We have experienced and accomplished leadership with a history of successful drug development and U.S. and international approvals in the small molecule targeted therapy fields. Our management team has a long track record of developing small molecule targeted therapy. Our CEO was part of the team that first discovered mutations in EGFR, and ran a laboratory at Massachusetts General Hospital funded by the National Cancer Institute (the “NCI”) investigating BRAF signaling in melanoma. Subsequently at ARIAD Pharmaceuticals, he and our present clinical development team led the development and approval efforts of ponatinib (marketed as Iclusig) for leukemia, and initiated the studies that were the foundation of the approval of brigatinib (marketed as Alunbrig). Those studies were consummated by our CMO, who led the approval of Alunbrig for ALK-driven lung cancer at Takeda Pharmaceuticals. We believe our current management team has the right combination of experience, history of success, and vision to execute the proposed program.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Intellectual Property
+ 
+While our policy is to obtain patents by application, license or otherwise, to maintain trade secrets and to seek to operate without infringing on the intellectual property rights of third parties, technologies related to our business have been rapidly developing in recent years. Additionally, patent applications that we may file or license from third parties may not result in the issuance of patents, and our current or future issued patents may be challenged, invalidated or circumvented. Therefore, we cannot predict the extent of claims that may be allowed or enforced against our patents, nor be certain of the priority of inventions covered by pending third-party patent applications. If third parties prepare and file patent applications that also claim technology or therapeutics to which we have rights, we may have to engage in proceedings to determine priority of invention, which could result in substantial costs to us, even if the eventual outcome is favorable. Moreover, because of the extensive time required for clinical development and regulatory review of products we may develop, it is possible that the patent or patents on which we rely to protect such products could expire or be close to expiration by the commencement of commercialization, thereby reducing the value of such patent. Loss or invalidation of certain of our patents, or a finding of unenforceability or limited scope of certain of our intellectual property, could have a material adverse effect on us. See “Risk Factors—Risks Related to Our Intellectual Property and Potential Litigation.”
+ 
+28
+
+ 
+
+In addition to patents, we rely on trade secrets and know-how to develop and maintain our competitive position. Trade secrets and know-how can be difficult to protect. We seek to protect our proprietary processes, in part, by confidentiality agreements and invention assignment agreements with our employees, consultants, scientific advisors, contractors and commercial partners. These agreements are designed to protect our proprietary information. We also seek to preserve the integrity and confidentiality of our data, trade secrets and know-how by maintaining physical security of our premises and physical and electronic security of our information technology systems. While we have confidence in these individuals, organizations and systems, such agreements or security measures may be breached, and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or be independently discovered by competitors or others.
+ 
+Pan-RAS and PDE10/β-catenin Program Patents
+ 
+Pursuant to the Collaboration Agreement, we have been granted an exclusive option to license patent rights for our pan-RAS and PDE10/b-catenin programs. This patent portfolio includes three issued U.S. patents directed to RAS inhibitor compounds, prodrugs and methods of use, together with two pending related U.S. patent applications directed to RAS and PDE10 inhibitor compounds and corresponding foreign pending counterpart patent applications, and one Patent Cooperation Treaty (“PCT”) patent application directed to RAS inhibitor compounds. The issued U.S. patents, and pending U.S. patent applications, if issued, will expire in 2034. We expect any patents based on the PCT application, if we continue to pursue patent protection in the United States and elsewhere, if issued, to expire in 2039.
+ 
+Inodiftagene Program Patents
+ 
+Pursuant to a license agreement with Yissum, described above, we also have an exclusive, worldwide license for the development, use, manufacture and commercialization of products arising out of patents owned by, and patent applications filed by, Yissum in connection with our inodiftagene program and our additional technologies as described below.
+ 
+Our licensed inodiftagene patent portfolio includes one pending U.S. patent application directed to formulations of inodiftagene. and corresponding pending foreign patent applications. If issued, we expect these patent applications to expire in 2036. Patents on the original active formulation of our lead product candidate, inodiftagene, expired during 2017 and 2018.
+ 
+Additional Technologies
+ 
+
+· | BC-821 - Our licensed patent portfolio includes two issued U.S. patents directed to composition of matter and method of use, and related issued foreign patents and patent applications. We expect these patents and patent application, if issued, to expire between 2028 and 2029.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Cancer-Specific TNF-α and DTA mutual expression vector - Our licensed patent portfolio includes one U.S. patent directed to nucleic acid vectors and related issued foreign patents. We expect these patents to expire in 2026.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | H19 targeted siRNA for cancer - Our licensed patent portfolio includes one issued U.S. patent directed to composition of matter, and related foreign patents. We expect these patents to expire in 2026.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | H19 targeted siRNA for rheumatoid arthritis - Our licensed patents include one issued U.S. patent directed to methods for treating rheumatoid arthritis, and related foreign patents. We expect these patents to expire in 2028.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Marketing, Sales and Distribution
+ 
+Given our stage of development, we do not have any internal sales, marketing or distribution infrastructure or capabilities. In the event we receive regulatory approval for a future product candidate and secure adequate funding, we intend, where appropriate, to consider commercialization relationships. In addition, we may consider out-licensing some or all of our worldwide patent rights to more than one party to achieve the fullest development, marketing and distribution of any future product we develop.
+ 
+29
+
+ 
+
+Competition
+ 
+Competition in the development of human cancer therapeutics, in particular targeted therapies, is intense and rapidly evolving. We face competition both in the United States and internationally from small and large private and publicly traded biotechnology and pharmaceutical companies, government agencies, universities and other research institutions. Many of our competitors have substantially greater resources and capabilities, in the form of financing, development, manufacturing, and commercialization, than we do. Our ability to create value for our shareholders depends on our ability to successfully develop product candidates that have differentiated benefits from competing drugs and biologics, that are either in development or commercially available. While we believe our approach, expertise, focus and intellectual property provide us with a competitive advantage, we are aware of several companies that inhibit the same molecular target, and in some cases in the same population, being pursued by us. We believe our primary competitors by program and target are as follows:
+ 
+Pan-RAS Program: We are not aware of any competitors with development programs or molecules in clinical testing that target mutations across all three RAS family of genes (HRAS, KRAS, and NRAS). We are aware of several competitors with clinical and preclinical development programs that directly target one or more mutations in KRAS family of genes, including Mirati Therapeutics, Inc., Amgen, Inc., Boehringer Ingelheim AG, Merck & Co., Inc., and others. It is likely that other companies are also researching inhibitors in the HRAS and NRAS families of genes. We will continue to monitor scientific and patent publications for the emergence of other potential competitors.
+ 
+PDE10/β-catenin Program: We are aware of several companies that have PDE10 inhibitor programs in preclinical or clinical development, including among others, H. Lundbeck A/S, Omeros Corporation, and Celon Pharma SA –mainly focused on CNS indications. Likewise, we are aware of several companies that have β-catenin inhibitor program in preclinical or clinical development, including among others, PRISM Pharma Co., Ltd, and Fog Pharmaceuticals, Inc. We will continue to monitor scientific and patent publications for the emergence of other potential competitors.
+Government Regulation
+ 
+We are subject to extensive regulation by the various national health regulatory authorities, such as the FDA, Health Canada and other national, state and provincial regulatory agencies.
+ 
+U.S. Food and Drug Administration
+ 
+The research, development, and marketing authorization of drugs and other pharmaceutical products in the United States is subject to the Federal Food, Drug, and Cosmetic Act (the “FFDCA”), which empowers the FDA to require extensive non-clinical and clinical toxicity testing before a new drug or biologic is deemed safe and effective and receives marketing authorization. Following initial laboratory and animal testing that show that investigational use in humans is reasonably safe, a drug can be studied in clinical trials in humans under an IND in accordance with the regulations at 21 CFR 312.
+ 
+In order to satisfy FDA data requirements, an extensive battery of preclinical experiments to assess the safety of such new drugs are conducted, followed by two or three phases of clinical trials before they are considered for widespread human use. Upon successful completion of a future clinical trial program, we may be in a position to manufacture and market our prospective pharmaceutical products. The marketing authorization of our products would be conditional upon obtaining the approval of health authorities in each country in which they would be marketed, including, but not limited to, the FDA and the EMA. FDA regulations govern the following activities that we may perform, or that have been performed on our behalf, to ensure that drugs that we develop are safe and effective for their intended uses:
+ 
+30
+
+ 
+
+
+· | preclinical (animal) testing including toxicology studies;
+--+-----------------------------------------------------------
+
+
+· | submission of an IND;
+--+----------------------
+
+
+· | human testing in clinical trials, Phases 1, 2 and 3;
+--+-----------------------------------------------------
+
+
+· | recordkeeping and retention;
+--+-----------------------------
+
+
+· | pre-marketing review through submission of a new drug application (“NDA”);
+--+---------------------------------------------------------------------------
+
+
+· | drug manufacturing, testing and labeling, which must comply with current good manufacturing practice (“cGMP”) regulations;
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+· | drug marketing, sales and distribution; and
+--+--------------------------------------------
+
+
+· | post-marketing study commitments (Phase 4), post-marketing pharmacovigilance surveillance, complaint handling, reporting of deaths or serious injuries, product sample retention, manufacturing deviation reporting and repair or recall of drugs.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Failure to comply with applicable regulatory requirements can result in enforcement action by the FDA, which may include any of the following sanctions:
+ 
+
+· | warning letters, untitled letters, fines, injunctions, consent decrees and civil penalties;
+--+--------------------------------------------------------------------------------------------
+
+
+· | disqualification of clinical investigator and/or sponsor from current and future studies;
+--+------------------------------------------------------------------------------------------
+
+
+· | clinical hold on clinical trials;
+--+----------------------------------
+
+
+· | operating restrictions, partial suspension or total shutdown of production;
+--+----------------------------------------------------------------------------
+
+
+· | refusal to approve an NDA;
+--+---------------------------
+
+
+· | post-marketing withdrawal of approval; and
+--+-------------------------------------------
+
+
+· | criminal prosecution.
+--+----------------------
+
+ 
+The FDA’s preclinical and IND requirements
+ 
+The first step to obtaining FDA approval of a new drug involves development, purification and pre-clinical testing of a pharmaceutically active agent in laboratory animals. Once appropriate preclinical data have been generated to demonstrate that the drug is reasonably safe for initial testing in humans, an IND can be prepared and submitted to the FDA for review. In the IND review process, FDA physicians and scientists evaluate the proposed clinical trial protocol, chemistry and manufacturing controls, pharmacologic mechanisms of action of the drug and toxicological effects of the drug in animals and in vitro. Within 30 days of the IND submission, the drug review division of the FDA may contact the filer regarding potential concerns and, if necessary, implement a clinical hold until certain issues are resolved satisfactorily. If the FDA does not take any action, the filer may proceed with clinical trials on the 31st day.
+ 
+Clinical trials
+ 
+Clinical trials represent the pre-market testing ground for unapproved drugs, generally taking several years to complete. Before testing can begin, an institutional review board (“IRB”) must have been reviewed and approved for the use of human subjects in the clinical trial. During clinical trials, an investigational compound is administered to humans and evaluated for its safety and effectiveness in treating, preventing or diagnosing a specific disease or condition. The clinical trials generally consist of Phase 1, Phase 2, and Phase 3 testing. During clinical trials, the FDA and IRBs closely monitor the studies and may suspend or terminate trials at any time for a number of reasons, such as finding that patients are being exposed to an unacceptable health risk. The results of clinical trials are critical factors in the approval or disapproval of a new drug.
+ 
+31
+
+ 
+
+Submission and review of an NDA
+ 
+An NDA requesting approval to market the drug for one or more indications may be submitted to the FDA once sufficient data has been gathered through preclinical and clinical testing. The application includes all relevant data available from pertinent preclinical and clinical trials, including negative or ambiguous results as well as positive findings, together with detailed information relating to the drug’s chemistry, manufacturing, controls and proposed labeling, among other things. In most cases, the submission of an NDA is subject to a substantial application fee.
+ 
+The FDA has 60 days from its receipt of an NDA to determine whether the application will be accepted for filing based on the agency’s threshold determination that it is sufficiently complete to permit substantive review. Once the NDA submission is accepted for filing, the FDA begins an in-depth substantive review. NDAs receive either standard or priority review. The FDA has a goal of ten months from the date of filing to review and act on a standard NDA for a new molecular entity. A drug representing a significant improvement over existing therapy in the treatment, prevention or diagnosis of a disease may receive priority review.
+ 
+The FDA has various specific programs, including Fast Track, Breakthrough Therapy, Accelerated Approval and Priority Review, each of which is intended to expedite the process for reviewing drugs, and in certain cases involving Accelerated Review, permit approval of a drug on the basis of a surrogate endpoint. Even if a drug qualifies for one or more of these programs, the FDA may later decide that the drug no longer meets the conditions for qualification or that the time period for FDA review or approval will be shortened. Fast Track designation facilitates the development and expedites the review of drugs to treat serious or life-threatening diseases or conditions and fill unmet medical needs. Although this designation does not affect the standards for approval, the FDA will attempt to facilitate early and frequent meetings with a sponsor of a Fast Track designated drug.
+ 
+The FDA reviews an NDA to determine, among other things, whether the drug is safe and effective and whether the facility in which it is manufactured, processed, packaged or held meets standards designed to assure the product’s continued safety, quality and purity. The review process is often significantly extended by FDA requests for additional information or clarification. The FDA may refer the application to an advisory committee for review, evaluation and recommendation as to whether the application should be approved. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions.
+ 
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the drug is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and are adequate to assure consistent production of the drug within required specifications. In addition, before approving an NDA, the FDA will typically inspect one or more clinical trial sites to assure compliance with good clinical practice requirements.
+ 
+After evaluating the NDA and all related information, including the advisory committee recommendation, if any, and inspection reports regarding the manufacturing facilities and clinical trial sites, the FDA may issue an approval letter, or, in some cases, a complete response letter. A complete response letter generally contains a statement of specific conditions that must be met in order to secure final approval of the NDA and may require additional clinical or preclinical testing for the FDA to reconsider the application. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. If and when those conditions have been met to the FDA’s satisfaction, the FDA will typically issue an approval letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications.
+ 
+If a product receives regulatory approval, the approval may be significantly limited to specific diseases, subpopulations, and dosages or the indications for use may otherwise be limited, which could restrict the commercial value of the product. In addition, the FDA may require us to conduct Phase 4 testing, which involves clinical trials designed to further assess a drug’s safety and/or effectiveness after NDA approval and may require testing and surveillance programs to monitor the safety of approved products which have been commercialized.
+ 
+32
+
+ 
+
+Pervasive and continuing regulation in the United States
+ 
+After a drug is approved for marketing and enters the marketplace, numerous regulatory requirements continue to apply. These include, but are not limited to:
+ 
+
+· | The FDA’s cGMP regulations require manufacturers, including third-party manufacturers, to follow stringent requirements for the methods, facilities and controls used in manufacturing, processing, testing and packing of a drug product;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Labeling regulations and the FDA prohibitions against the promotion of drug for unapproved uses (known as off-label uses), as well as requirements to provide adequate information on both risks and benefits during promotion of the drug;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Approval of product modifications or use of the drug for an indication other than approved in the NDA;
+--+-------------------------------------------------------------------------------------------------------
+
+
+· | Adverse drug experience regulations, which require companies to report information on rare, latent or long-term drug effects not identified during pre-market testing;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Post-market testing and surveillance requirements, including Phase 4 trials, when necessary, to protect the public health or to provide additional safety and effectiveness data for the drug; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | The FDA’s recall authority, whereby it can ask, or under certain conditions order, drug manufacturers to recall from the market a product that is in violation of governing laws and regulations.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+After a drug receives approval, any modification in conditions of use, active ingredient(s), route of administration, dosage form, strength or bioavailability, will require a new clearance or approval, for which it may be possible to submit a supplemental NDA, referring to preclinical and certain clinical studies presented in the drug’s original NDA, accompanied by additional clinical data necessary to demonstrate the safety and effectiveness of the product with the proposed changes. Additional clinical studies may be required for proposed changes.
+ 
+Fraud and abuse laws in the United States
+ 
+A variety of U.S. federal and state laws apply to the sale, marketing and promotion of drugs that are paid for, directly or indirectly, by U.S. federal or state healthcare programs such as Medicare and Medicaid. The restrictions imposed by these laws are in addition to those imposed by the FDA, the U.S. Federal Trade Commission and corresponding state agencies. Some of these laws significantly restrict or prohibit certain types of sales, marketing and promotional activities by drug manufacturers. Violation of these laws may result in significant criminal, civil and administrative penalties, including imprisonment of individuals, fines and penalties and exclusion or debarment from United States federal and state healthcare and other programs. Many private health insurance companies also prohibit payment to entities that have been sanctioned, excluded or debarred by U.S. federal agencies.
+ 
+Anti-kickback statutes in the United States
+ 
+The U.S. federal anti-kickback statute prohibits, among other things, persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual, or the furnishing, arranging for or recommending of a good or service, for which payment may be made in whole or in part under a United States federal healthcare program such as the Medicare and Medicaid programs. The definition of “remuneration” has been broadly interpreted to include anything of value, including gifts, discounts, the furnishing of supplies or equipment, payments of cash and waivers of payments. Several courts have interpreted the statute’s intent requirement to mean that, if any one purpose of an arrangement involving remuneration is to induce referrals or otherwise generate business involving goods or services reimbursed in whole or in part under federal healthcare programs, the statute has been violated. Penalties for violations include criminal penalties and civil sanctions such as fines, imprisonment and possible exclusion from Medicare, Medicaid and other U.S. federal healthcare programs. In addition, some kickback allegations have been claimed to violate the U.S. False Claims Act (as discussed below).
+ 
+33
+
+ 
+
+The federal anti-kickback statute is broad and prohibits many arrangements and practices that are lawful in businesses outside of the healthcare industry. Recognizing that the statute is broad and may technically prohibit many innocuous or beneficial arrangements, the Office of Inspector General of the Department of Health and Human Services (“OIG”) has issued a series of regulations, known as “safe harbors.” These safe harbors set forth provisions which, if met in form and substance, will assure healthcare providers and other parties that they will not be prosecuted under the federal anti-kickback statute. The failure of a transaction or arrangement to fit precisely within one or more safe harbors does not necessarily mean that it is illegal or that prosecution will be pursued. However, conduct and business arrangements that do not fully satisfy an applicable safe harbor may result in increased scrutiny by government enforcement authorities such as the OIG or the United States Department of Justice.
+ 
+Many states have adopted laws similar to the U.S. federal anti-kickback statute. Some of these state prohibitions are broader than the U.S. federal statute, and apply to the referral of patients and recommendations for healthcare items or services reimbursed by any source, not only the Medicare and Medicaid programs. Government officials have focused certain enforcement efforts on marketing of healthcare items and services, among other activities, and have brought cases against individuals or entities with sales personnel who allegedly offered unlawful inducements to potential or existing physician customers in an attempt to procure their business.
+ 
+U.S. False Claims Act 
+ 
+The U.S. False Claims Act prohibits any person from knowingly presenting, or causing to be presented, a false or fraudulent claim for payment by a federal healthcare program or knowingly making, or causing to be made, a false statement or record in order to have a false claim paid or avoiding, decreasing or concealing an obligation to pay money to the federal government. The federal government’s interpretation of the scope of the law has in recent years grown increasingly broad. Most states also have statutes or regulations similar to the U.S. False Claims Act, which apply to items and services reimbursed under Medicaid and other state programs, or, in several states, apply regardless of the payor. Sanctions under these federal and state laws may include civil monetary penalties, exclusion of a manufacturer’s products from reimbursement under government programs, criminal fines and imprisonment. Several drug manufacturers have been prosecuted under the false claims laws for allegedly providing free drugs to physician customers with the expectation that the physician customers would bill federal programs for the product. In addition, several recent cases against drug manufacturers have alleged that the manufacturers improperly promoted their products for “off-label” use, outside of the scope of the FDA-approved labeling.
+ 
+U.S. Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+ 
+HIPAA created a new federal healthcare fraud statute that prohibits knowingly and willfully executing a scheme to defraud any healthcare benefit program, including private payors. A violation of this statute is a felony and may result in fines, imprisonment or exclusion from government-sponsored programs. Among other things, HIPAA also imposes new criminal penalties for knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services, along with theft or embezzlement in connection with a healthcare benefits program and willful obstruction of a criminal investigation involving a federal healthcare offense.
+ 
+34
+
+ 
+
+U.S. Affordable Care Act Section 6002 (the Sunshine Act) 
+ 
+Enacted in 2010 under the Affordable Care Act of 2010, Public Law No. 111-148 (the “ACA”), the Sunshine Act is a national disclosure program that promotes transparency by publishing data on the financial relationships between the healthcare industry (applicable manufacturers) and healthcare providers (physicians and teaching hospitals) on a publicly accessible website. The Sunshine Act requires that certain manufacturers of drugs, devices, biologicals, or medical supplies report payments or other transfers of value made to physicians and teaching hospitals as well as certain ownership or investment interests held by physicians or their immediate family members to the Centers for Medicare & Medicaid Services (CMS). A violation of this act may result in fines and/or civil liabilities. Any payment or transfer of value that is currently prohibited under the anti-kickback statute, the U.S. False Claims Act, or other health care fraud and abuse laws may still be subject to fines, sanctions, or lawsuit.
+ 
+Non-U.S. regulation 
+ 
+Marketing authorization requests outside of the United States are subject to regulatory approval of the respective authorities in the country in which we would like to market. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary widely from country to country. No action can be taken to market any product in a country until an appropriate application has been approved by the regulatory authorities in that country. The current approval process varies from country to country, and the time spent in gaining approval varies from that required for FDA approval. In certain countries, the sales price of a product must also be approved prior to its marketing application approval. The pricing review period often begins after market approval is granted. Even if a product is approved by a regulatory authority, satisfactory prices might not be approved for such product. In the European Union, authorization can be obtained through one of the following pathways: (i) the “centralized” procedure, described in greater detail below, with applications made directly to the EMA leading to the grant of a European marketing authorization by the European Commission, (ii) the “decentralized procedure,” whereby companies may apply for simultaneous authorization in more than one EU country of medicinal products that have not yet been authorized in any EU country, or do not fall within the mandatory scope of the centralized procedure, (iii) the “mutual recognition” procedure, in which applications are made to one or more member states, leading to national marketing authorizations mutually recognized by other member states, or (iv) a “national authorization” application made to a single EU member state. Based on the nature of our products, the marketing authorization will be through the centralized procedure.
+ 
+The EMA is responsible for the centralized procedure, which results in a single marketing authorization that is valid across the European Union. Applications through the centralized procedure are submitted directly to the EMA. The procedure consists of three milestones:
+ 
+
+(i) | Evaluation by a scientific committee for up to seven months, at the end of which the committee adopts an opinion on whether the drug should be approved for marketing. During this period, the EMA may send questions to the company, at which time the aforementioned review clock stops until answers are provided.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(ii) | Formal decision by the EMA’s Committee for Medicinal Products for Human Use, which is transmitted to the European Commission, which issues a formal decision on the authorization of the product.
+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(iii) | Marketing authorization: Once a European Community marketing authorization has been granted, the marketing-authorization holder can begin to make the medicine available to patients and healthcare professionals in all EU countries.
+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Even after a company receives marketing authorization, EU law regulates the distribution, classification for supply, labeling and packaging, and advertising of medicinal products for human use. The European Union also regulates the manufacture of medicinal products, requiring cGMP, set forth in the EU Guidelines to Good Manufacturing Practice — Medicinal Products for Human and Veterinary Use.
+ 
+EU pharmacovigilance directives and regulations require a company to establish post-market surveillance systems that include individual adverse reaction case reports, periodic safety update reports, and company-sponsored post-authorization safety studies. If a medicinal product’s overall risk and benefit profile is found to have changed significantly for any reason, it may be required to be varied, withdrawn, or have its use suspended.
+ 
+35
+
+ 
+
+Patent term restoration and extension 
+ 
+A patent claiming a new drug product may be eligible for a limited patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984 (the “Hatch-Waxman Act”) which permits a patent restoration of up to five years for patent term lost during product development and FDA regulatory review. The restoration period granted is typically one-half the time between the effective date of an IND and the submission date of an NDA, plus the time between the submission date of an NDA and the ultimate approval date. Patent term restoration cannot be used to extend the remaining term of a patent past a total of 14 years from the product’s approval date. Only one patent applicable to an approved drug product is eligible for the extension, and the application for the extension must be submitted prior to the expiration of the patent in question. A patent that covers multiple drugs for which approval is sought can only be extended in connection with one of the approvals. The PTO reviews and approves the application for any patent term extension or restoration in consultation with the FDA.
+ 
+Pharmaceutical coverage, pricing and reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of any products for which we may seek to obtain regulatory approval. In the United States and other markets, sales of any future product for which we receive regulatory approval for commercial sale will depend in part on the availability of reimbursement from third-party payors. Third-party payors include government health administrative authorities, managed care providers, private health insurers and other organizations. The process for determining whether a payor will provide coverage for a drug product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the drug product. Third-party payors may limit coverage to specific drug products on an approved list, or formulary, which might not include all of the FDA-approved drug products for a particular indication. Third-party payors are increasingly challenging the price and examining the medical necessity and cost-effectiveness of medical products and services, in addition to their safety and efficacy. We may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost-effectiveness of our prospective products, in addition to the costs required to obtain the FDA approvals. Additionally, a future product may not be considered medically necessary or cost-effective. A payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Adequate third-party reimbursement may not be available to enable us to maintain price levels sufficient to realize an appropriate return on our investment in product development.
+ 
+In March 2010, a significant healthcare reform was signed into law in the United States. The healthcare reform law substantially changes the way healthcare will be financed by both governmental and private insurers, and significantly impacts the pharmaceutical industry. The comprehensive $940 billion dollar overhaul is expected to extend coverage to approximately 32 million previously uninsured Americans. The healthcare reform law contains a number of provisions, including those governing enrollment in federal healthcare programs, reimbursement changes and fraud and abuse, which will impact existing government healthcare programs and will result in the development of new programs, including Medicare payment for performance initiatives and improvements to the physician quality reporting system and feedback program.
+ 
+Additionally, the healthcare reform law, as limited by the United States Supreme Court’s decision in June 2012:
+ 
+
+· | Increases the minimum level of Medicaid rebates payable by manufacturers of brand-name drugs from 15.1% to 23.1%;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+· | Requires collection of rebates for drugs paid by Medicaid managed care organizations; and
+--+------------------------------------------------------------------------------------------
+
+
+· | Imposes a non-deductible annual fee on pharmaceutical manufacturers or importers who sell “branded prescription drugs” to specified federal government programs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+There have been proposed in Congress a number of legislative initiatives regarding healthcare, including possible repeal of the healthcare reform law. At this time, it remains unclear whether there will be any changes made to the healthcare reform law, whether to certain provisions or its entirety.
+ 
+36
+
+ 
+
+In the European Union, pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after agreeing on a reimbursement price. Some countries may require the completion of additional studies that compare the cost-effectiveness of a particular drug to currently available therapies. For example, the European Union provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. European Union member states may approve a specific price for a drug product or may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug product on the market. Other member states allow companies to set their own prices for drug products, but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert competitive pressure that may reduce pricing within a country. Any country that has price controls or reimbursement limitations for drug products may not allow favorable reimbursement and pricing arrangements.
+ 
+Environmental, Health and Safety Matters
+ 
+We, our agents and our service providers, including our manufacturers, may be subject to various environmental, health and safety laws and regulations, including those governing air emissions, water and wastewater discharges, noise emissions, the use, management and disposal of hazardous, radioactive and biological materials and wastes and the cleanup of contaminated sites. We believe that our business, operations and facilities, including, to our knowledge, those of our agents and service providers, are being operated in compliance in all material respects with applicable environmental and health and safety laws and regulations. All information with respect to any chemical substance is filed and stored as a Material Safety Data Sheet, as required by applicable environmental regulations. Based on information currently available to us, we do not expect environmental costs and contingencies to have a material adverse effect on us. However, significant expenditures could be required in the future if we, our agents or our service providers are required to comply with new or more stringent environmental or health and safety laws, regulations or requirements.
+Employees
+ 
+As of December 31, 2019, we had 16 employees based at our office and laboratory in Jerusalem, Israel and our Cambridge, Massachusetts office. The following table sets forth the total number of full-time employees as of the periods indicated by function and geography:
+
+ | As of December 31, | 
+------------------------------+--------------------+---
+ | 2019 | | 2018
+Function: | | | | 
+Administrative | | 8 | | 7 
+Research and development | | 8 | | 12
+Total | | 16 | | 19
+Geography: | | | | 
+Israel | | 9 | | 14
+Cambridge, Massachusetts, USA | | 7 | | 5 
+Total | | 16 | | 19
+
+ 
+In January 2020, our board of directors approved management’s recommendation to close our office and laboratory in Israel. Following the closure of our Israeli facilities, our sole office will continue to be located in Cambridge, Massachusetts.
+ 
+Local labor laws govern the length of the workday and workweek, minimum wages for employees, procedures for hiring and dismissing employees, determination of severance pay, annual leave, sick days, advance notice of termination, Social Security payments or regional equivalents, and other conditions of employment and include equal opportunity and anti-discrimination laws. None of our employees is party to any collective bargaining agreements. We generally provide our employees with benefits and working conditions beyond the required minimums. We have a good relationship with our employees, and have never experienced any employment-related work stoppages.
+ 
+Available Information
+ 
+The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. Our filings with the SEC are available to the public through this website at http://www.sec.gov.
+ 
+We maintain a corporate website at www.anchiano.com. Our reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, including our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and amendments to those reports, are accessible through our website, free of charge, as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the SEC. Information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K, and you should not consider information on our website to be part of this Annual Report on Form 10-K.
+ 
+37
+
+ 
+

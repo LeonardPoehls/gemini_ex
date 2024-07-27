@@ -1,0 +1,178 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.  Business
+OVERVIEW
+
+FalconStor Software, Inc. is a technology company whose mission is to deliver technical innovation that creates investment protection, flexibility, and leverage of modern cloud-based technologies for our enterprise customers. We provide software and cloud services that enable our enterprise customers to better manage, protect, secure, and make use of their valuable data.  Our customers achieve lower costs, simpler operations, greater data security, higher confidence in their business continuity, and greater ability to effectively use their data assets to drive innovation.  
+Our products are utilized by enterprises and managed service providers across the globe and address two key areas of enterprise data protection; long-term archive retention and reinstatement, and business continuity driven data replication. Our products are software-defined, which means that our technology allows our solutions to be hardware, cloud, and source-data agnostic, giving our customers maximum leverage of existing hardware and software investments. Our innovative integration into modern cloud-based technologies enables our customers to dramatically improve the portability, security, and accessibility of their enterprise data. This accessibility is key in our modern world, where data is not only protected, but also intelligently leveraged to facilitate learning, improve product design, and drive competitive advantage.
+
+The enterprise data protection segments in which we focus our attention are critical to the data protection plans of any enterprise. First, the absolute foundation of any enterprise data protection plan is based on long-term data archive. Whether in the form of application databases, documents, emails, or digital media files, an enterprise is mandated to preserve these information assets for lengthy periods of time to fulfill operational, legal, and regulatory requirements. In fact, expanding government and industry regulations continue to increase mandated retention periods, which now exceed one hundred years in certain cases. In addition, beyond fundamental data retention, modern enterprises desire to leverage their long-term archives for strategic analysis and to unlock new revenue streams. As a result, enterprises must be confident they can securely and cost effectively archive their data, and efficiently access that archived data at any point in the future. 
+
+Second, in addition to their long-term data archive foundation, an enterprise frequently needs to maintain operational data redundancy for specific data assets to ensure near real-time business continuity. Our data replication products and associated technologies allow an enterprise to capture snapshots of selected data or entire systems at user-defined intervals and include the ability to replicate data continuously as it is written or modified in real-time. These solutions allow our enterprise customers to recover data back to a specific millisecond in time to completely recover from operational data loss or corruption, including ransomware. As with our long-term archive products, our business continuity driven data replication products are designed to leverage existing enterprise hardware and software investments, while seamlessly enabling the use of new cloud-based data storage technologies.
+
+Our products are available and supported worldwide by a network of leading service providers, systems integrators, resellers, managed services providers, and OEMs.  
+
+INDUSTRY BACKGROUND
+
+Enterprises of all sizes are increasingly challenged to securely archive and replicate their data assets. Their challenge continues to grow as new types of digital technologies generate vast amounts of data, as legal and regulatory compliance demands expand, as the number of operationally focused systems and applications deployed increase, and as an enterprise’s need to analyze more and more internal data in search of strategic and competitive advantage become commonplace. These continually expanding data capture and associated data protection use cases have and will continue to result in an explosion in the sheer volume of data an enterprise must effectively maintain.
+
+Long-term data archive is the fastest-growing segment of an enterprise’s data assets. This growth is accelerating as enterprises are increasingly subject to complex regulatory compliance, such as that driven by the Food and Drug Administration (FDA), the Health Insurance Portability and Accountability Act (HIPAA), European Union’s General Data Protection Regulation (GDPR), and the Sarbanes-Oxley Act. As the volume of long-term archive continues to expand, the need for enterprises to securely and cost-effectively store the associated data will only increase.
+
+Traditionally, enterprises have stored their long-term archives within physical tape libraries or on disc-based storage connected directly to internal servers. However, new distributed storage technologies, and public and private cloud-based environments, have created additional cost-effective and scalable options for archive storage. Early adoption of these new storage options has been 
+3
+
+measured, especially within larger enterprises, as they contemplate security concerns, attempt to optimize existing hardware and data center investments and add the required internal technical experience required to confidently utilize the new technologies and cloud-based environments.
+
+We fundamentally believe that data protection software and solutions, like FalconStor’s, that help enterprises to securely, seamlessly, and cost-effectively optimize their long-term archive storage by providing a bridge to newly available options will be critical to the broader adoption of these new storage environments.
+
+The introduction of new long-term archive storage options has also given rise to a growth in managed service providers (MSPs) remotely managing data protection, primarily to smaller enterprises with a less complex array of data assets. The MSPs are able to leverage modern broadband connectivity and offer more scalable long-term storage options, which will serve to reduce data protection costs for their customers. We believe this trend to outsourced long-term archive data protection will continue.
+
+OUR SOFTWARE PRODUCTS AND SUPPORTING TECHNOLOGY
+
+FalconStor’s software products create investment protection, flexibility, and leverage of modern cloud-based technologies, through software-defined functionality that provides long-term archive retention and reinstatement, and business continuity driven data replication. As a result, our enterprise clients are able to utilize the underlying storage hardware, media, or environment (on-premise or cloud) that best aligns with their strategic needs. Our customers utilize our products to protect data residing in physical, virtual, public-cloud, private-cloud, and multi-cloud environments, and give our them the freedom to optimize their data protection infrastructure and eliminate costly hardware-vendor, cloud, and form-factor lock-in.
+Long-Term Archive Retention and Reinstatement Products
+
+FalconStor Virtual Tape Library (“VTL”) - FalconStor introduced its Virtual Tape Library product in the early 2000s and was one of the first software providers to introduce this innovative solution, allowing enterprise customers to emulate and replace cumbersome legacy physical tape libraries for archive related data preservation, without being forced to replace their enterprise backup and archive software and associated processes.
+
+Our VTL product continues to be a leading virtual tape library solution, and we believe it is unmatched in terms of performance and scalability. With VTL, our enterprise customers are able to complete their data archive operations more reliably, with minimal change needed to the legacy archive environment. They are also able to leverage sophisticated physical tape emulation, advanced data security, data-deduplication, and public- or private-cloud based virtual tape archive storage, which are all now seamlessly integrated into our solution. We are dedicated to providing our enterprise customers with the highest performing VTL product in the industry. As such, we subject our VTL solution to independent performance testing, which has demonstrated that our product is 25% faster than the closest competitor and can be executed on hardware that is 1/3 the cost of that required by our closest competitor.
+
+Beyond allowing our customers to benefit from sheer data archive speed, we also enable them to dramatically reduce the amount of data that needs to be archived, by processing their archive data through our integrated data deduplication engine. By eliminating redundant archive data, the archive storage capacity required can be reduced by as much as 95%. Our technology allows our enterprise customers to significantly reduce the cost of storing the ever-growing volume of data subject to long-term archive data protection mandates. 
+
+ FalconStor StorSafeTM (“StorSafe”) - Traditionally, enterprises have had limited choice and have been forced to store their archive data on physical tape or within storage arrays installed in an internal data center. Our newest and most innovative long-term archive data management software product, StorSafe, breaks these traditional storage limitations and enables enterprises to securely and cost effectively leverage a wide array of storage options, including ultra efficient and scalable cloud-based storage environments.
+With general availability scheduled for 2020, StorSafe, like our proven VTL solution, provides sophisticated physical tape emulation and seamless integration with an enterprise’s legacy backup and archive software and processes. In addition, StorSafe includes our advanced data deduplication technology. However, StorSafe takes long-term archive storage optimization to an entirely new and innovative level. By leveraging patent pending industry-standard Container technology to enable persistent long-term archive storage, our StorSafe solution dramatically improves archive data portability, accessibility, security, and integrity validation, especially as it relates to multi-cloud data storage leverage. As a result, a full spectrum of archive data storage options is made 
+4
+
+available to our enterprise customers to efficiently utilize essentially any storage environment, while confidently ensuring data security and efficient archive access. 
+We have designed StorSafe to significantly reduce long-term archive data storage and legal or regulatory mandated compliance costs and redefine long-term archive storage optimization and accessibility for the next decade.
+
+Business Continuity Driven Data Replication Products
+
+FalconStor Continuous Data Protector (“CDP”)
+
+In addition to retaining long-term archive data, enterprises routinely maintain short-term copies, or backups, of data generated by various user applications, to protect against data loss or natural disaster. FalconStor CDP technology reinvents the way data replication and recovery are implemented and performed. Moving beyond once-a-day backup models, CDP combines local and remote protection into a cost-effective, unified, disk-based solution that allows organizations to recover data back to the most recent transaction. Combining application-aware snapshot agents and continuous journaling functions, CDP enables customers to recover data effectively at any point in time. CDP delivers instant data availability and reliable recovery, bringing business applications back online in a matter of minutes after a failure. CDP protects application-specific data for Microsoft, Oracle, SAP, and other business applications, ensuring high performance and stability for even the most complex business environments.
+
+FalconStor Network Storage Server (“NSS”)
+
+The ever expanding capacity of data managed by enterprises creates a continual challenge in ensuring the organization has an adequate amount of available storage. FalconStor NSS is a scalable, highly available solution that enables data storage virtualization and business continuity in heterogeneous environments. Supporting existing third-party disk arrays, NSS eliminates storage boundaries and vendor lock-in, providing fast and secure data storage provisioning and migration. From a small iSCSI virtual server lab to an enterprise-class Fiber Channel SAN running Tier-1 database applications, NSS is designed to meet the data storage needs of any enterprise.
+
+Moving data between different data storage platforms can be complex, complicated, time-consuming, and disruptive to business operations. Our core storage virtualization technology provides a non-disruptive approach to data mobility across different SAN protocols and vendors. With NSS, it becomes a simple operation to move data from older platforms to newer ones or to introduce new storage capacity and tiers. This allows enterprises to respond to evolving performance and capacity requirements, as well as changing data protection mandates.
+
+Our products are sold as stand-alone software, but can also be bundled with standard hardware configurations to simplify implementation for our customers.
+
+Supporting Technology
+
+Our core long-term archive and business continuity driven products are complemented by a set of underlying technologies that streamline usability and overall solution performance.
+FalconStor StorSightTM (“StorSight”)
+
+StorSight gives our enterprise customers and MSPs the ability to administer long-term archive and business continuity driven data replication from one centralized management point and to easily test additional FalconStor products they may not be currently licensing. Prior to Q4 2019, our products were managed through two different user consoles; a Java-based console for VTL, and a modern HTML-based console (branded initially as FreeStorTM) for CDP and NSS. To simplify our development efforts and to enable broader use of our products by our enterprise customers, we have unified all user management into our modern HTML-based console and rebranded that unified tool as StorSight. As a result, StorSight is now our unified data protection console used to administer our VTL, StorSafe, CDP, and NSS products.
+
+Our StorSight user console provides deep analytics relative to each FalconStor product as they are utilized in production. StorSight also includes a full array of functionality key to our MSP customers, such as multi-tenancy and charge-back.
+
+5
+
+StorSight usage licensing is included when customers and MSPs license any FalconStor product.
+
+FalconStor RecoverTracTM (“RecoverTrac”) Disaster Recovery Technology
+
+Our patented RecoverTrac technology streamlines the implementation, testing, and execution of disaster recovery operations. It minimizes service failover time between sites and reduces disaster recovery costs by offering full recovery from physical-to-physical, virtual-to-virtual, and physical-to-virtual server infrastructures. This technology is a disaster recovery automation service, and is included as a standard feature of the FalconStor NSS and the FalconStor CDP products to automate complex, time-consuming, and error-prone failover and failback operations of systems, applications, services, and entire data centers. This technology can also work across those environments, enabling organizations to seamlessly migrate locally, remotely, or to and from cloud environments.
+
+FalconStor MicroScanTM (“MicroScan”) Technology
+
+The patented FalconStor MicroScan technology minimizes the amount of data transferred during replication by eliminating inefficiencies at the application and file system layer. Data changes are replicated at the smallest possible level of granularity, reducing LAN/WAN bandwidth and associated storage costs for disaster recovery (DR), and any time data is replicated from one source to another. Typical storage array-based solutions replicate changes track-by-track. This means that even when the smallest possible data change is made (512 bytes or one disk sector), the file system will write 8K of data, and the array will send the entire track (typically 32KB in size) or four times more than the file system change. In contrast, if MicroScan scans 8K of “new” data and concludes that only 512 bytes (1 disk sector) have truly changed. Only the 512-byte change is sent over the LAN/WAN network, making it 64 times more efficient than sending the full track. As a result, for every one terabyte needing to be sent over the network, FalconStor CDP or FalconStor NSS only needs to send 16 gigabytes. MicroScan is an integral part of the FalconStor replication option for CDP and NSS.
+
+BUSINESS STRATEGY
+
+FalconStor‘s products and supporting technologies serve enterprise IT organizations and managed service providers worldwide and are guided by the following strategies. 
+
+Modernize Existing Enterprise Storage Environments While Protecting Investments
+
+As enterprise IT organizations look to modernize their long-term archive and business continuity related data replication, they are challenged by the cost, risk, and disruption upgrades and migrations can cause. Because FalconStor abstracts the data protection services from the physical storage infrastructure, additional capabilities can be added to legacy hardware, eliminating the need and cost to replace that hardware. This delivers discrete value in terms of lowering capital and operational costs, reduced risk and disruption, and significantly faster time to deployment. For IT organizations wishing to deploy new hardware or storage paradigms, including the utilization of private- or public-cloud based storage, our products enable the migration and on-going optimization of data storage to and on those new platforms, versus being forced to start with a new or “greenfield” deployment required by many of the latest hardware vendors. FalconStor offers these organizations a path forward with an approach that minimizes or eliminates risk and disruption to business processes and workflows while lowering both capital and operational costs.
+
+FalconStor intends to continue leveraging the protocol-independent, full featured, unified architecture, analytics, and robust open data services technology of its products to maintain a leadership position in the enterprise storage software market. With the addition of StorSafe, and its associated storage container technology, FalconStor has joined and is dedicated to the Open Source community, which has accelerated development and integration efforts across our entire product suite. FalconStor plans to continue its leadership in this market by delivering technical innovation that creates investment protection, flexibility, and leverage of modern cloud-based technologies for our enterprise customers.
+
+Enable Managed Service Providers
+
+As the managed service provider segment continues to grow, they increasingly have a need to support heterogeneous storage environments across their own data centers and their customer’s environments. Further, MSPs often have different hardware and software capabilities, making it significantly challenging to offer consistent data services across these environments. We believe FalconStor offers several strategic benefits for MSPs:
+
+6
+
+•Enables the seamless and non-disruptive movement of data from the customer premise to the service provider’s hosted environment;
+•Offers common data services across customer’s environments regardless of underlying hardware or technology;
+•Allows for the introduction and ability to monetize additional data services they may not have previously been able to offer;
+•Provides a low-cost growth opportunity due to the flexibility of StorSight licensing, while eliminating the need to have multiple feature licenses array by array;
+•Enables reduced storage management complexity and costs within their infrastructure by eliminating silos, reducing licensing costs and optimizing hardware;
+•Optimizes storage hardware based on price/performance needs of customers; and
+•Provides analytics for necessary real-time and historical information to achieve SLA's and make economic decisions.
+
+Expand Software and Hardware Strategic Alliances with Industry Leaders
+
+The Flash/SSD, High-Density Shingle Disk, and Cloud Data Archival markets should be key opportunities for us on two fronts: targeting customers wanting to integrate new Flash/SSD, High-Density Shingle Disk, Cloud Data Archival technology into existing IT environments, and OEMs needing to enhance their software stack in order to offer data movement and protection services on their platform. Cloud Service Providers (CSPs) such as AWS, Azure, Wasabi, and Aliyun also represent a growth opportunity. Our mutual customers and partners need help moving data from the customer site to their own facilities as well as a way to deliver common data services across disparate and often incompatible hardware typically found across the provider and end customer environments. We believe FalconStor is positioned to continue to take advantage of these key opportunities in the global marketplace. Our strategic relationships with Hitachi Data Systems, Hitachi Vantara, Fujitsu, DSI, and others should fuel growth across all three major geographies.
+Expanded Existing Product Offerings
+
+We will continue to enhance our products to address the ever-changing market dynamics to ensure that FalconStor continues to be a leader in the data protection marketplace.
+
+StorSafe is the newest innovation from FalconStor. It leverages the latest industry-standard software container technology that utilizes virtualization at the application layer versus the systems layer. This powerful differentiator allows StorSafe, the first enterprise-class, persistent storage container, to disaggregate data storage from the system-level components. With FalconStor's successful adaptation of transient container technology, it delivers a persistent, long-term data protection container that is agnostic, heterogeneous, and highly portable, as well as backward compatible and compatible with future technology advancements. It also delivers the capability to seamlessly operate across data centers, and public, private, hybrid, and multi-cloud data storage environment(s). Leveraging the power of container technologies has also allowed the development of robust active and passive features and functionality that are necessary to meet integrity, validation, and journal-based auditing. These advancements are essential to meet the chain of custody mandates that are inherent in long-term data retention plans subject to compliance, regulatory, legal discovery, and privacy laws that continue to evolve and mature.
+
+Market Approach
+
+FalconStor continues to focus on enterprise customers, managed service providers, cloud service providers, as well as OEM partners. These markets offer the most significant opportunity and are best suited to realize the value of FalconStor products, and provide an efficient and effective access to broad, worldwide markets.
+Growth Drivers
+
+New regulations and laws governing the processing, storage, retention, protection, and reinstatement of high-value information assets are driving double-digit growth in the data protection markets. Additionally, we believe that data archives will play an increasing role in training and validating AI and Machine Learning algorithms and optimizing strategic analytic model outcomes. Given FalconStor's long history and deep skillset of the unique challenges associated with long-term storage, we feel we are in an excellent position to capitalize on data assets that are subject to new protection requirements with our existing product portfolio. Our innovative StorSafe product is designed and architected to leverage the scale-up and scale-out capabilities found in today's public and private clouds to support the expanding long-term data protection market demand that is estimated to grow into the Zettabyte (10^21) range by 2030 (IDC). In addition, we believe our innovative integration of long-term archive storage into modern cloud-based technologies will enable our customers to dramatically improve the portability, security, and accessibility of their enterprise data. We believe, this accessibility will be key in our modern world, where data is not only protected, but also intelligently leveraged to facilitate learning, improve product design, and drive competitive advantage.
+7
+
+SALES ROUTES TO MARKET
+
+FalconStor continues to sell products through:
+•Authorized partners, value-added resellers (VARs), solution providers, and large system integrators 
+•Direct Market Resellers (DMRs) and Distributors
+•Managed Service Providers (MSPs) and Cloud Service Providers (CSPs)
+•Original Equipment Manufacturers (OEMs)
+
+Professional Services
+
+FalconStor’s Professional Services personnel are also available to assist customers and partners throughout the lifecycle of FalconStor product deployments. The Professional Services team includes experienced Storage Architects (expert field engineers) who can assist in the assessment, planning/design, implementation, and test phases of the deployment project, and a Technical Support Group for post-deployment assistance and ongoing support.
+MARKETING
+
+We focus our efforts to increase awareness and demand for FalconStor products by targeting our efforts at our extensive global installed base and the expanding awareness in the emerging long-term data protection market. 
+PRODUCT LICENSING
+
+Historically, the majority of our software licenses have been sold on a per terabyte capacity basis and have included a perpetual right to use the licensed capacity. Over the last several years, we have also offered our capacity-based licenses on a subscription or term-based model, which gives a customer the right to utilize the licensed terabyte capacity over a designated period of time. We expect revenue from subscription-based per terabyte licensing to increase over the next several years.
+COMPETITION
+
+Long-Term Archive Retention and Reinstatement
+
+We believe our VTL and StorSafe products are positioned well in the marketplace. Given the fact that these products are designed to integrate with an enterprise’s legacy backup and archive software and processes, the level of competition we typically face is limited to DellEMC’s Data Domain virtual tape library product. 
+One could argue that we also compete with legacy backup and archive vendors such as Veritas, and Commvault; however, in practice, our products are more complimentary to their solutions than competitive, as our solutions do not require their solutions to be retired or replaced. In fact, our enterprise customers view the ability to maintain their legacy software solutions and processes as a key differentiator for selecting FalconStor, as it is common for them to use backup and archive products from multiple vendors. By inserting our VTL or StorSafe product, they are able to aggregate all of their archive data easily and control global data deduplication and archive storage from one central point.
+
+Our enterprise customers also view the fact that our VTL and StorSafe products operate effectively with Windows, Linux, and IBM i operating system (OS) environments as a key differentiator. As a result, we execute specific go-to-market efforts to identify enterprise customers that have multiple OS environments in production.
+
+Beyond the differentiation our VTL and StorSafe products provide related to existing infrastructure integration, we also believe the innovations we are delivering to improve long-term archive retention and reinstatement dramatically, will serve as important competitive differentiators for FalconStor over the next several years. This belief is founded on the fact that our new innovations are designed to significantly improve archive data portability, security, and integrity validation. In addition, our new innovations are designed to allow our enterprise customers to seamlessly leverage multiple private- or public-clouds at one time to significantly reduce archive data storage costs.
+
+Business Continuity Driven Data Replication
+
+Competition within the business continuity driven data replication space is significant and includes products from Veeam, Rubrik, Cohesity, Commvault, Veritas, DellEMC, DataCore, and others. As a result, it is imperative that we carefully select the 
+8
+
+areas in which we will compete to ensure they are aligned with our key product differentiations. As a result, our two areas of focus within this space are on-premise storage virtualization and granular application-aware data replication snapshots that enable our enterprise customers to recover data back to a specific millisecond in time for near real-time recovery time objectives (RTO).
+
+INTELLECTUAL PROPERTY
+
+FalconStor’s success is dependent in part upon its proprietary technology. We currently have thirty three patents and numerous pending patent applications. The Company has multiple registered trademarks - including “FalconStor Software”, “StorSight”, “StorSafe”, and “Intelligent Abstraction” - as well as pending trademark applications related to FalconStor and its products.
+
+FalconStor seeks to protect its proprietary rights and other intellectual property through a combination of copyright, patents, trademark, and trade secret protection, as well as through contractual protections such as proprietary information agreements and nondisclosure agreements. The technological and creative skills of its personnel, new product developments, frequent product enhancements, and reliable product maintenance are essential to establishing and maintaining a technology leadership.
+
+FalconStor generally enters into confidentiality or license agreements with employees, consultants, and corporate partners and generally controls access to and distribution of its software, documentation, and other proprietary information. Despite the Company’s efforts to protect its proprietary rights, unauthorized parties may attempt to copy or otherwise obtain and use FalconStor’s products or technology. Monitoring unauthorized use of FalconStor’s products is difficult, and there can be no assurance that the steps FalconStor has taken will prevent misappropriation of its technology, particularly in foreign countries where laws may not protect its proprietary rights as fully as do the laws of the United States.
+MAJOR CUSTOMERS
+For the year ended December 31, 2019, we had two customers that accounted for 10% or more of total revenue. For the year ended December 31, 2018, we had no customers that accounted for 10% or more of total revenue.
+As of December 31, 2019 and 2018, one customer accounted for more than 10% of our gross accounts receivable balance. 
+EMPLOYEES
+As of December 31, 2019, we had 71 full-time and part-time employees, consisting of 23 in research & development, 14 in sales & marketing, 20 in service, and 14 in general and administrative. We are not subject to any collective bargaining agreements and we believe that our employee relations are good.
+INTERNET ADDRESS AND AVAILABILTY OF FILINGS
+Our internet address is www.falconstor.com. The Company makes available free of charge, on or through its Internet website, the Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Sections 13(a) or (15)(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after the Company electronically files such material with, or furnishes it to, the Securities and Exchange Commission. The Company complied with this policy for every Exchange Act (the "Exchange Act"), report filed during the year ended December 31, 2019.
+RECENT DEVELOPMENTS
+On December 27, 2019, we entered into Amendment No. 1 to the Amended and Restated Term Loan Credit Agreement (the “Amendment”), by and among the Company, certain of the Company’s affiliates in their capacities as guarantors, HCP-FVA, LLC (“HCP-FVA”) as administrative agent for the lenders party thereto (the “Lenders”), ESW Capital, LLC (“ESW”), as co-agent, and the Lenders, to provide for, among other things, a new $2,500,000 term loan facility to the Company (the “2019 Term Loan” and together with the amended term loan under the Amended and Restated Term Loan Credit Agreement, collectively, the "Term Notes"). The Amendment also provides for certain financial covenants. On December 27, 2019, the Company drew down $1,000,000 of the 2019 Term Loan and the Company will pay a fixed amount of interest on such advance equal to 15% of the principal amount advanced.
+In connection with the initial advance of the 2019 Term Loan, HCP-FVA funded $620,000, ESW funded $378,439 and Michael Kelly funded $1,561. HCP-FVA is an affiliate of Hale Capital Partners, LP, the Company’s largest stockholder, and an 
+9
+
+affiliate of a director of the Company, Martin Hale. ESW is a greater than 5% stockholder of the Company and Mr. Kelly is a director of the Company.

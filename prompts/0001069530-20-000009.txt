@@ -1,0 +1,667 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.    Business
+ ﻿
+ Overview
+ ﻿
+
+Cassava Sciences, Inc. is a clinical stage biotechnology company. Our mission is to detect and treat neurodegenerative diseases, such as Alzheimer’s disease. Our novel science is based on stabilizing – but not removing – a critical protein in the brain.
+ ﻿
+ Over the past 10 years, we have combined state-of-the-art technology with new insights in neurobiology to develop novel solutions for Alzheimer’s disease and other neurodegenerative diseases. Our strategy is to leverage our unique scientific/clinical platform to develop a first-in-class program for treating neurodegenerative diseases, such as Alzheimer’s. 
+ ﻿
+ We currently have two clinical-stage biopharmaceutical assets under development: 
+ ﻿
+
+· | our lead therapeutic product candidate, called PTI-125, for the treatment of Alzheimer’s disease; and
+--+------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | our lead investigational diagnostic product candidate, called SavaDx, to detect Alzheimer’s disease from a small sample of blood, possibly years before the overt appearance of clinical symptoms.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Our scientific approach for the treatment of Alzheimer’s disease seeks to simultaneously improve both neurodegeneration and neuroinflammation. We believe our ability to improve multiple vital functions in the brain represents a new, different and crucial approach to address Alzheimer’s disease. 
+ ﻿
+ Our lead therapeutic product candidate, PTI-125, is a proprietary small molecule (oral) drug. PTI-125 targets an altered form of a protein called filamin A (FLNA) in the Alzheimer’s brain. Published studies have demonstrated that the altered form of FLNA causes neuronal dysfunction, neuronal degeneration and neuroinflammation.  
+ ﻿
+ We believe PTI-125 improves brain health by reverting altered FLNA back to its native, healthy confirmation, thus countering the downstream toxic effects of altered FLNA. We have generated and published experimental and clinical 
+
+     
+4
+
+evidence of improved brain health with PTI-125. Importantly, PTI-125 is not dependent on clearing amyloid from the brain. Since PTI-125 has a unique mechanism of action, we believe its potential therapeutic effects may be additive or synergistic with that of other therapeutic candidates aiming to treat neurodegeneration.
+ ﻿
+ PTI-125 has demonstrated a multitude of beneficial effects in animal models of disease, including normalizing neurotransmission, decreasing neuroinflammation, suppressing neurodegeneration, and restoring memory and cognition.  
+ ﻿
+ In 2019, we completed a small, first-in-human, clinical-proof-of-concept, open-label Phase 2a study of PTI-125 in the U.S., with substantial support from the National Institute on Aging (NIA), a division of the NIH. Treatment with PTI-125 for 28 days significantly improved key biomarkers of Alzheimer’s pathology, neurodegeneration and neuroinflammation (p<0.001). Biomarkers effects were seen in all patients in both cerebrospinal fluid (CSF) and plasma. To our knowledge, no other drug candidate has improved an entire panel of biomarkers of in patients with Alzheimer’s disease.  
+ ﻿
+ A confirmatory, randomized, placebo-controlled, multi-center Phase 2b study of PTI-125 in Alzheimer’s disease is on-going as of March 2020. We expect to announce Phase 2b results in approximately mid-2020.
+ ﻿
+ Our diagnostic effort, called SavaDx, is an early-stage program focused on detecting Alzheimer’s disease from a small sample of blood, possibly years before the overt appearance of clinical symptoms. We are developing SavaDx as a fast, accurate and quantitative blood-based investigational biomarker/diagnostic to detect and monitor Alzheimer's disease. The goal is to make the detection of Alzheimer’s disease as simple as getting a blood test.    ﻿
+ Alzheimer’s disease is a progressive neurodegenerative disorder that affects cognition, function and behavior. An estimated 5.8 million Americans are living with Alzheimer’s disease in 2020, according to the Alzheimer’s Association, a non-profit organization. There are no disease-modifying drug therapies to treat the disease.   
+ ﻿
+ PTI-125 and SavaDx were both discovered and designed in-house and were characterized by our academic collaborators during research activities that were conducted from approximately 2008 to date. We own exclusive, worldwide rights to these drug assets and related technologies, without royalty obligations to any third party. Our patent protection in this area currently runs through 2034.
+ ﻿
+ Our Scientific Approach is Different.
+ ﻿
+ Over the last ten years, we have developed a new and promising scientific approach for the treatment and diagnosis of neurodegenerative diseases, such as Alzheimer’s disease. Importantly, we do not seek to clear amyloid out of the brain. Rather, we seek to stabilize a critical protein in the brain that has many downstream effects.
+ ﻿
+ Our scientific approach is to treat neurodegeneration by targeting an altered form of a scaffolding protein called FLNA. Through years of basic research, we and our academic collaborators identified FLNA as a structurally altered protein in the Alzheimer’s brain. We have shown that the altered form of FLNA is pervasive in the Alzheimer’s brain and undetectable in healthy control brains.
+ ﻿
+ Using scientific insight and advanced techniques in molecular biochemistry, bioinformatics and imaging, we have elucidated this protein dysfunction. Through this work, we have produced experimental evidence that altered FLNA plays a critical role in Alzheimer’s disease. We engineered a family of high-affinity, small molecules to target this structurally altered protein and restore its normal shape and function. This family of small molecules, including our lead therapeutic candidate, PTI-125, was designed in-house and characterized by our academic collaborators. 
+ ﻿
+ Our lead therapeutic product candidate, PTI-125, is a small molecule (oral) drug with a novel mechanism of action. The target of PTI-125 is altered FLNA, the brain protein we seek to stabilize. Importantly, since PTI-125 has a unique mechanism of action, we believe its potential therapeutic effects may be additive or synergistic with that of other therapeutic candidates aiming to treat neurodegeneration.
+ ﻿
+ Given the biopharmaceutical industry’s challenging track record in Alzheimer’s research, we believe there is an urgent need to consider more recent and innovative approaches to combat this disease. We believe our scientific approach may broaden the range of possible treatment approaches for this complex disease.
+ ﻿
+
+
+     
+5
+
+﻿
+ Our science is based on stabilizing a critical protein in the brain.
+ ﻿
+ Proteins are essential for cell function because they participate in virtually every biological process. If protein function is impaired, the health consequences can be devastating. Technological advances in medicine and improvements in lifestyle are making our lives longer. But with age, genetic mutations and other factors conspire against healthy cells, resulting in altered proteins. Sometimes a cell can rid itself of altered proteins. However, when disease changes the shape and function of critical proteins, multiple downstream processes are impaired. There are many clinical conditions in which proteins become structurally altered and impair the normal function of cells, tissues and organs, leading to disease.  Conversely, restoring altered proteins back to health –called proteostasis – is a well-accepted therapeutic strategy in clinical medicine.
+ ﻿
+ For over 100 years, scientists have ascribed various neurodegenerative diseases to proteins that misfold and are rendered pathological. In Alzheimer’s disease, certain proteins, such as amyloid and tau, lose their normal shape and function. Such misfolded proteins can breakdown or aggregate in clumps and form plaque in the brain. Destruction of neuronal synapses, accelerated nerve cell death, and dysfunction of the brain support cells, are all widely believed to be direct consequences of misfolded proteins. 
+ ﻿
+ FLNA is a scaffolding protein widely found throughout the body. A healthy scaffolding protein brings multiple proteins together, initiating their interaction. However, an altered form of FLNA protein is found in the Alzheimer’s brain. Our experimental evidence shows that altered FLNA protein contribute to Alzheimer’s disease by disrupting the normal function of neurons, leading to neurodegeneration and brain inflammation. Our product candidate, PTI-125, aims to counter the altered and toxic form of FLNA in the brain, thus restoring the normal function of this critical protein. Our novel science is based on stabilizing – but not removing – a critical protein in the brain.
+ ﻿
+ One drug, multiple effects. 
+ ﻿
+ Our lead therapeutic candidate, PTI-125, binds to altered FLNA with very high (femtomolar) affinity. This drug effect restores the normal shape of FLNA and the normal function of three key brain receptors: the alpha-7 nicotinic acetylcholine receptor; the N-methyl-D-aspartate (NMDA) receptor; and the insulin receptor. These receptors have pivotal roles in brain cell survival, cognition and memory.  
+ ﻿
+ In animal models, treatment with PTI-125 resulted in dramatic improvements in brain health, such as reduced amyloid and tau deposits, improved receptor signaling and improved learning and memory. In addition, PTI-125 has another beneficial treatment effect of significantly reducing inflammatory cytokines in the brain. In animal models of disease, treatment with PTI-125 greatly reduced levels of IL-6 and suppressed TNF-alpha and IL-1beta levels by 86% and 80%, respectively, illustrating a powerful anti-neuroinflammatory effect.  
+ ﻿
+ In 2019, a small, first-in-patient, clinical proof-of-concept Phase 2a study funded by NIH, showed that open-label treatment with PTI-125 for 28 days significantly improved key biomarkers of Alzheimer’s pathology, neuroinflammation and neurodegeneration (p<0.001). By restoring function to multiple receptors and exerting powerful anti-inflammatory effects, we believe our approach has potential to slow the progression of neurodegeneration in patients. Thus, we have designed PTI-125 to slow or, potentially, even reverse the deterioration of brain cells. We believe the ability to simultaneously improve many vital functions in the brain represents a new, different and crucial approach to combating neurodegeneration. 
+ ﻿
+ Our science is published in multiple peer-reviewed journals. In addition, our research has been supported by NIH under multiple research grant awards. Each grant was awarded following an in-depth, peer-reviewed evaluation of our approach for scientific and technical merit by a panel of outside experts in the field. Strong, long-term support from NIH has allowed us to advance our two product candidates for neurodegeneration, PTI-125 and SavaDx, into clinical development.
+ ﻿
+ Overview of Alzheimer’s disease.
+ ﻿
+ Alzheimer’s disease is a progressive neurodegenerative disorder that has debilitating effects on patients' cognition, memory and day-to-day functioning. Most cases of Alzheimer’s disease are age-related. Alzheimer’s disease has become markedly more common with the aging of the U.S. population. The prevalence of Alzheimer's disease is widely expected to increase over time, with 13.8 million people age 65 and older projected to have the disease by 2050 in the U.S., up from 5.6 million in 2019. 
+
+
+     
+6
+
+﻿
+ According to the non-profit Alzheimer's Association, the aggregate cost of care in 2019 for patients with Alzheimer's disease and other types of dementia in the U.S. was estimated to be $234 billion. The prevalence of Alzheimer’s disease is expected to nearly triple in the U.S. between now and 2050.  If this occurs, there is potential for Alzheimer's disease to cause a major financial drain on the national economy.
+ ﻿
+ Currently marketed drug therapies for Alzheimer’s disease have limited therapeutic effect.
+ ﻿
+ There are no disease-modifying drug therapies to treat Alzheimer’s disease. The U.S. Food & Drug Administration (FDA) has not approved any new drugs for Alzheimer’s disease since 2003. Currently marketed drug therapies focus solely on treating symptoms, mostly in patients with mild-to-moderate Alzheimer's disease. At the time of diagnosis, patients are initiated on a class of drugs called cholinesterase inhibitors. The Alzheimer’s brain has low levels of a neurotransmitter called acetylcholine. Cholinesterase inhibitors prevent an enzyme in the brain, called acetylcholinesterase, from breaking down acetylcholine. Currently marketed cholinesterase inhibitors include donepezil (marketed by Eisai Co., Ltd. and Pfizer, Inc. as Aricept®), rivastigmine (marketed by Novartis AG as Exelon®) and galantamine (marketed by Janssen Pharmaceuticals, Inc. as Razadyne®). Cholinesterase inhibitors may benefit some patients for several months, after which the targeted brain receptors are desensitized, and drug efficacy is lost. 
+ ﻿
+ PTI-125 is our Proprietary Drug for the Treatment of Alzheimer’s Disease.
+ ﻿
+ We have generated and published experimental evidence of improved brain health by restoring altered FLNA with PTI-125, our lead therapeutic product candidate. PTI-125 is a proprietary small molecule drug that represents an entirely new scientific approach to treat neurodegeneration. Published studies have demonstrated that PTI-125 targets an altered form of a protein called FLNA that is pervasive in the Alzheimer’s brain. Altered FLNA causes neuronal dysfunction, neuronal degeneration and neuroinflammation. We believe our drug candidate, PTI-125, improves brain health by reverting altered FLNA back to its native, healthy confirmation, thus countering downstream toxic effects of altered FLNA. Importantly, PTI-125 is not dependent on clearing amyloid from the brain. The following is a summary profile of PTI-125’s drug development program.  
+ ﻿
+ IND submission to FDA.
+ ﻿
+ Over the past ten years, we successfully conducted basic research, in vitro studies and preclinical studies in support of an Investigational New Drug (IND) submission to the FDA for PTI-125, including requisite studies around safety pharmacology, toxicology, genotoxicity and bioanalytical methods. In 2017 we filed an IND with FDA for PTI-125.
+ ﻿
+ Clinical safety of PTI-125 in a Phase 1 study.
+ ﻿
+ Following FDA acceptance of our IND in 2017, we investigated the safety, dosing and pharmacokinetic profile of PTI-125 in healthy human volunteers. The design of our first-in-human Phase 1 study was based on regulatory feedback, clinical and scientific rationale and observations from previously conducted preclinical and in vitro studies. 
+ ﻿
+ In a Phase 1 study, PTI-125 was evaluated in 24 healthy human volunteers in a single site in the U.S. for safety, tolerability and pharmacokinetics. Study subjects were administered a single oral dose of 50, 100 or 200 mg of PTI-125. Drug was well-tolerated in all subjects. Importantly, PTI-125 showed no treatment-related adverse effects and no dose-limiting safety findings. Pharmacokinetic measurements demonstrated that PTI-125, a small molecule, was rapidly absorbed. Dose-proportionality was observed over the full dose range of 50 to 200 mg. Results of this Phase 1 study were presented at the 10th Annual International Conference on Clinical Studies on Alzheimer's Disease in 2017 (Figure 1). 
+ ﻿
+
+
+     
+7
+
+
+ ﻿
+ Figure 1. Phase 1 study results with PTI-125 in healthy volunteers demonstrated dose-proportional pharmacokinetics.
+ ﻿
+ Given the absence of any observable dose-limiting effects in healthy adults in a Phase 1 study, a strong scientific rationale, and multiple peer-reviewed publications and research grant awards, we believe this program demonstrated favorable proof-of-principle for the development of PTI-125 in Alzheimer’s disease. 
+ ﻿
+ Phase 2 clinical development program for PTI-125.
+ ﻿
+ In 2018, we mapped out, in collaboration with outside science advisors and medical experts, a strategic clinical plan to advance PTI-125 into a comprehensive Phase 2 clinical development program. The general objective of our Phase 2 program with PTI-125 is to gain an initial estimate of the safety, tolerability and biological activity of this drug candidate in patients with Alzheimer’s disease. We believe meaningful Phase 2 data may enable us to design and conduct a large-scale Phase 3 efficacy program for PTI-125 and may also enable us to seek one or more strategic collaborations with pharmaceutical or biotechnology companies.
+ ﻿
+ Phase 2a Clinical Study    In 2019, we completed a first-in-patient, clinical proof-of-concept study of PTI-125 in the U.S. Our Phase 2a was an open-label, multi-center, safety and pharmacokinetic study of PTI-125. Thirteen (13) patients with mild-to-moderate Alzheimer’s disease, age 50-85, received 100 mg oral PTI-125 twice daily for 28 days. A diagnosis of Alzheimer’s disease was confirmed with Mini-Mental State Examination (MMSE) ≥ 16 and ≤ 24 and a cerebrospinal fluid (CSF) T-tau/Aβ42 ratio ≥ 0.30. Safety was assessed by ECGs, clinical labs, adverse event monitoring and physical examinations. CSF was drawn from patients before dosing started and again after 28 continuous days of dosing with PTI-125. CSF samples were then analyzed for biomarkers of Alzheimer’s pathology (T-tau, P-tau, Aβ42); neurodegeneration (NfL, neurogranin); and neuroinflammation (YKL-40, IL-6, IL-1β and TNFα). A consulting biostatistician conducted an independent analysis of the data set.
+ ﻿
+ A key objective of our Phase 2a study was to measure levels of biomarkers in the brain. Key results of this study include (Figure 2):    ﻿
+
+· | Total tau (T-tau) decreased 20% (p<0.001)
+--+------------------------------------------
+
+
+· | Phosphorylated tau (P-tau) decreased 34% (p<0.0001)
+--+----------------------------------------------------
+
+
+· | Neurofilament light chain (NfL), a marker for neurodegeneration, decreased 22% (p<0.0001)
+--+------------------------------------------------------------------------------------------
+
+
+· | Neurogranin, a marker for cognitive decline, decreased 32% (p<0.0001)
+--+----------------------------------------------------------------------
+
+
+· | Neuroinflammatory marker YKL-40, an indicator of microglial activation, decreased 9% (p<0.0001)
+--+------------------------------------------------------------------------------------------------
+
+
+· | Proinflammatory Interleukin 6 (IL-6) decreased 14% (p<0.0001)
+--+--------------------------------------------------------------
+
+ 
+     
+8
+
+
+· | Proinflammatory Interleukin 1 beta (IL-1β) decreased 11% (p<0.0001)
+--+--------------------------------------------------------------------
+
+
+· | Proinflammatory Tumor Necrosis Factor alpha (TNFα) decreased 5% (p<0.001)
+--+--------------------------------------------------------------------------
+
+
+· | The ratio of CSF P-tau to Aβ42, a widely accepted biochemical value of Alzheimer’s disease, improved in all patients (p<0.001)
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Figure 2: PTI-125 treatment reduces levels of CSF biomarkers in patients with Alzheimer’s in a Phase 2a study.
+
+﻿ | | | | | | | 
+-------------+------+--------+-----------+--------+-------+--------+------
+Neurogranin* | NfL* | T-tau+ | P-tau181* | YKL40* | IL-6* | IL-1β* | TNFα+
+
+  ﻿
+
+ ﻿
+ Figure 2. Percent change from baseline in CSF biomarkers measured by ELISA. Eight CSF biomarkers of disease in Alzheimer’s patients were significantly reduced with PTI-125 treatment.  *p < 0.0001, +p < 0.001 in paired t test comparing Day 28 to pre-dose baseline. 
+ ﻿
+ In addition, visual line plots, which are also known as spaghetti plots, of each individual patient and each individual biomarker measurement show that all patients had a biomarker response to treatment with PTI-125 in our Phase 2a study (Figure 3). 
+ ﻿
+ Figure 3. Individual patient response to treatment with PTI-125 in a Phase 2a study. CSF data are plotted as pg/mL.
+ ﻿
+
+ ﻿
+
+
+     
+9
+
+
+ ﻿
+ Figure 3. Each spaghetti plot shows change from baseline to Day 28 for each patient and each biomarker.
+ ﻿
+ Consistent with over 10 years of basic research and pre-clinical data, we believe our Phase 2a study showed clinical evidence of PTI-125’s mechanism of action and drug-target engagement, including:
+ ﻿
+
+· | Improvements in biomarkers of Alzheimer’s disease in CSF, plasma and lymphocytes;
+--+----------------------------------------------------------------------------------
+
+
+· | Consistency across biomarker improvements in CSF, plasma, and lymphocytes;
+--+---------------------------------------------------------------------------
+
+
+· | Significant reductions (p<0.01) in both nitrated and phosphorylated forms of tau protein;
+--+------------------------------------------------------------------------------------------
+
+
+· | Evidence that each individual patient showed biomarker responses to PTI-125;
+--+-----------------------------------------------------------------------------
+
+
+· | Evidence that PTI-125 reversed the shape of altered filamin A in lymphocytes;
+--+------------------------------------------------------------------------------
+
+
+· | Evidence that PTI-125 reduced levels of amyloid bound to alpha 7 nicotinic receptors in lymphocytes;
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | Early clinical validation of the drug target – altered filamin A – as a facilitator protein between amyloid beta and both neuroinflammation and tau pathology.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ To our knowledge, no competing drug candidate has demonstrated the ability to reduce an entire panel of biomarkers of disease in patients with Alzheimer’s disease. For this reason, CSF biomarker data generated in our Phase 2a study may not be directly comparable to clinical results generated by our competitors.
+ ﻿
+ In December 2019, we presented data from our Phase 2a study at the 12th International Conference on Clinical Trials on Alzheimer’s Disease (CTAD), a conference for the medical and scientific community held in San Diego, CA. Our Phase 2a presentation was selected as a “Late Breaking Oral Communication” by CTAD 2019.  
+ ﻿
+ In February 2020, our Phase 2a study was published in The Journal of Prevention of Alzheimer’s Disease (JPAD), a technical journal for the research community. This peer-reviewed publication highlighted that biomarkers of Alzheimer’s 
+
+     
+10
+
+disease pathology (P-tau, total tau and Aβ42), neurodegeneration (NfL and neurogranin) and neuroinflammation (YKL-40, IL-6, IL-1β and TNFα) improved significantly after 28 days of treatment with PTI-125.
+ ﻿
+ Cognition and function were not assessed in this small Phase 2a study. However, independent research has shown that high levels of CSF biomarkers of P-tau and total tau/Aβ42 ratio correlate with worse performance on a wide range of memory and attention tests. Conversely, lowering biomarkers of disease may benefit patients. 
+ ﻿
+ Phase 2b Clinical Study    In September 2019, we announced initiation of a Phase 2b confirmatory clinical study in Alzheimer’s patients, with funding provided by NIH. This Phase 2b clinical study is designed to evaluate safety, tolerability and drug effects of PTI-125 on biomarkers of Alzheimer’s disease. This is a blinded, randomized, placebo-controlled, multi-center, multi-dose research study in 64 patients with mild-to-moderate Alzheimer’s disease. Patients received PTI-125 100 mg, 50 mg, or matching placebo, twice daily for 28 continuous days. The primary endpoint is improvement in biomarkers of Alzheimer’s disease from baseline to Day 28.  
+ ﻿
+ In January 2020, we announced the completion of patient enrollment for our Phase 2b study. In February 2020, the last study participants were successfully dosed. In March 2020, the last study participants underwent final, routine follow-ups. No safety issues were found. Cerebrospinal fluid and plasma samples from study participants were then shipped to independent, third party labs for biomarker analysis. Study samples will be analyzed under blinded conditions, meaning no one will know whether a test sample came from a study participant who was on drug or placebo until the study is unblinded. Lab testing, statistical analysis, data analytics and interpretation of results are expected to run through approximately May 2020. We expect to announce Phase 2b results approximately in approximately mid-2020.
+ ﻿
+ Open-label Extension Clinical Study    On March 25, 2020, we announced the initiation of an open-label extension study to evaluate PTI-125 in patients with Alzheimer’s disease. This open-label, multi-center, extension study will monitor the long-term safety and tolerability of PTI-125 at 100 mg twice-daily for 12 months. The study’s target enrollment is approximately 100 patients with mild-to-moderate Alzheimer’s disease, including patients from prior studies of PTI-125. Study sites may initially slow the pace of patient enrollment to minimize any risks of exposing elderly patients to infectious disease during office visits.    ﻿
+ Future Clinical Plans
+ The basis for rational drug development is to ask and answer important questions around safety, tolerability and efficacy. The sequence of our smaller Phase 1 and Phase 2 studies are intended to generate preliminary conclusions around the safety and tolerability of PTI-125 for its intended indication to treat Alzheimer’s disease. Following the conclusion of these smaller studies, we may design and conduct a large-scale Phase 3 efficacy program of PTI-125 in Alzheimer’s disease in the future. Our strategy would be to tailor a Phase 3 efficacy program to the strengths and prior clinical observations of PTI-125.  
+ ﻿
+ In early 2018, FDA released a draft guidance document for Alzheimer’s drug development. While helpful, this draft guidance document does not provide a consensus opinion around the proper design of a Phase 3 efficacy program. In addition, the basic requirement to show a drug-placebo difference on a cognitive measure and a global or functional co-primary measurement appears to be unchanged. We believe our clinical efficacy program will need to correlate improvements in biomarkers with beneficial effects on cognition and or function in Alzheimer’s patients.
+ ﻿
+ In order to take advantage of an evolving regulatory landscape, we intend to design and conduct a Phase 3 efficacy program in close collaboration with FDA and scientific, clinical and industry advisors. Any detailed consideration of our Phase 3 efficacy program is predicated on such collaboration. However, we believe current regulatory standards around the design and conduct of a Phase 3 study in Alzheimer’s disease may include the following baseline requirements:
+ ﻿
+
+· | Study design: randomized, placebo-controlled, double-blind, multi-center study;
+--+--------------------------------------------------------------------------------
+
+  ﻿
+
+· | Objective: to assess the effects of PTI-125 on cognition, function and biomarkers;
+--+-----------------------------------------------------------------------------------
+
+  ﻿
+
+· | Study size: 750 to 1,000 patients;
+--+-----------------------------------
+
+  ﻿
+
+· | Patient population: mild to moderate Alzheimer’s disease, also including mild cognitively impaired;
+--+----------------------------------------------------------------------------------------------------
+
+ 
+
+     
+11
+
+﻿
+
+· | Study duration: 18 to 24 months;
+--+---------------------------------
+
+  ﻿
+
+· | Primary endpoint: slower rate of decline over 18 months vs placebo on cognition and/or daily function; and
+--+-----------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Co-primary endpoint: biomarkers of disease, hippocampal volume, others.
+--+------------------------------------------------------------------------
+
+  ﻿
+ Large-scale Phase 3 efficacy programs in Alzheimer’s disease are complex and very expensive, with greater challenges in planning, design, measurements methodology, implementation and analysis compared to smaller studies.
+ ﻿
+ SavaDx is our investigational diagnostic to detect Alzheimer’s disease from a small sample of blood.
+ ﻿
+ Our diagnostic effort, called SavaDx, is an early-stage program focused on detecting Alzheimer’s disease from a small sample of blood, possibly years before the overt appearance of clinical symptoms. The goal of SavaDx, an early-stage product candidate, is to make the detection of Alzheimer’s disease as simple as getting a blood test. We are developing SavaDx as a fast, accurate and quantitative blood-based biomarker/diagnostic to detect and monitor Alzheimer's disease. If successful, we believe SavaDx has potential to make obsolete more invasive approaches for diagnosing Alzheimer’s disease. 
+ ﻿
+ Over the past ten years, we discovered that altered FLNA is a hallmark feature of brain pathology in patients with Alzheimer’s disease. We believe SavaDx, which is a complex and unique detection system for altered filamin A (FLNA), can reveal early traces of the disease, potentially even before the overt appearance of disease symptoms, such as memory loss.  
+ ﻿
+ In September 2017, we announced a $1.8 million research grant award from the NIH for SavaDx. The NIH awarded us this research grant following a confidential, in-depth evaluation of SavaDx technology for scientific and technical merit. This technical milestone-based grant award enables us to work collaboratively with leaders in the field to collect clinical samples needed to develop our blood-based diagnostic for Alzheimer’s disease.    
+ ﻿
+ A diagnostic test usually measures one or more biomarkers, which are biological indicators of disease. A deep understanding of the biology of disease is required to identify and develop a diagnostic. A valid diagnostic has certain baseline characteristics to be functional and useful for clinical practice. It must detect disease in patients and, conversely, not detect disease in healthy subjects; and it is preferably quantitative, giving some indication of severity or stage of disease. Collectively, the ability to selectively detect disease indicators can be useful to provide diagnostic information (i.e., detect the disease) or prognostic information (i.e., predict the disease or its future course).    ﻿
+ Currently, the most definitive method to diagnose Alzheimer’s disease is through autopsy after death, which is not particularly helpful. Methods to detect Alzheimer’s disease during its course can be expensive, invasive, subjective, risky or uncomfortable. Importantly, because of the expense and invasiveness of current tests, most people are not tested until they show obvious cognitive decline.    ﻿
+ Current approaches for diagnosing Alzheimer’s disease include measurement of amyloid-β (specifically, Aβ42), total tau (T-tau) or phosphorylated tau (P-tau) levels in CSF; structural neuroimaging techniques, including magnetic resonance imaging (MRI) or computerized tomography (CT); positron-emission tomography (PET) imaging of brain amyloid (AmyVid®); and batteries of cognitive tests. Usually, a combination of more than one test is necessary to provide a working diagnosis. When such tests and techniques are used together, the totality of data can be sensitive and specific for the detection of Alzheimer’s disease. In practice, however, such tests and techniques are only used after overt symptoms of impaired memory.  
+ ﻿
+ We believe there is a profound need for a blood-based diagnostic test for Alzheimer’s disease. A quick, simple, inexpensive test may benefit the medical community in many ways. Advantages may include confirming the presence of Alzheimer’s disease earlier, when lifestyle changes and potential therapeutics may have the most impact, or conversely, to rule out Alzheimer’s disease at such early stages. Other potential benefits include discriminating Alzheimer’s disease from other causes of dementias; helping to identify stage of Alzheimer’s disease; selection and enrollment of appropriate patients into clinical studies of experimental product candidates; and better alignment of a patient’s specific diagnosis with a targeted therapeutic.  
+ ﻿
+
+
+     
+12
+
+It is widely accepted that in Alzheimer’s disease, pathological changes in the brain occur at least 10-15 years before clinical symptoms appear. These “pre-symptomatic” changes include deposits of certain misfolded or impaired proteins in the brain. Our long-term goal with SavaDx is to identify people with Alzheimer’s disease, potentially long before clinical symptoms occur. Early detection may be critical for any intervention to cease - or at least slow down - brain damage before it is too late. Importantly, a non-invasive screen for latent Alzheimer’s disease prior to overt symptoms could be conducted as a general health screen, not just in patients at risk by family history or in patients already showing cognitive impairment. Once a disease-modifying treatment is found, early detection is likely to be critically important. Early detection and treatment may also be critical in identifying such a disease-modifying treatment, as many believe one reason for clinical study failures in Alzheimer’s disease is that treatment has routinely started too late in the course of disease to make any impact.
+ ﻿
+ Moreover, with repeat measurements over time, SavaDx may provide a probability of cognitive decline or disease progression. Even if SavaDx does not provide a precise numerical cutoff value for Alzheimer’s disease, we believe it may be important to incorporate data from SavaDx into the overall diagnostic framework for neurodegeneration, and Alzheimer’s disease in particular. As with any diagnosis of disease, some people may embrace a way to detect Alzheimer’s disease long before clinical symptoms appear, while others may prefer not to know – at least until a treatment is found.
+ ﻿
+ Diagnostic development program for SavaDx.
+ ﻿
+ Diagnostic development differs from drug development in many important ways. As a result, diagnostic development requires substantial differences in planning, study design and study execution.
+ ﻿
+ Some of the ways that diagnostic development differs from drug development include the following:
+ ﻿
+
+· | We may need to choose among a wider range of regulatory pathways for approval of SavaDx, depending on factors such as intended use and user, test type and complexity and role in patient-care decisions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Drug studies usually deal primarily with one office within FDA, but the regulatory pathway for SavaDx may require us to consider the policies of multiple federal or state regulatory agencies and offices;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Unlike drug programs, statistical analysis with SavaDx does not focus on efficacy and safety endpoints. Rather, study endpoints for SavaDx will focus on sensitivity (true positives), specificity (true negatives), positive predictive value (percentage of correct positive diagnoses of known positive cases) and negative predictive value (percentage of correct negative diagnoses of known negative cases);
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ SavaDx is an investigational diagnostic product candidate that has not yet been reviewed by FDA. Clinical testing consists of collecting blood samples on a limited scale to validate SavaDx. Our ability to test such samples depends on multiple factors, many of which are beyond our control. For example, optimal sample collection depends on risk of sample degradation, storage requirements to preserve samples, cost of sample storage and actual vs. predicted time of assay validation. 
+ ﻿
+ Over the past three years, we have conducted four such rounds of early validation tests, with funding from NIH. In three blinded studies of test samples, SavaDx detected more than a 10-fold separation between Alzheimer’s patients and normal healthy control subjects (N=232 test samples). In these three proof-of-concept studies, SavaDx demonstrated nearly 100% accuracy and specificity. The three studies deployed a research grade antibody manufactured by an outside vendor.  
+ ﻿
+ A fourth blinded study of SavaDx failed to generate meaningful diagnostic data. We believe the fourth study deployed a faulty research antibody sourced from an outside vendor. Commercially available research antibodies can present certain technical flaws, such as improper validation, significant batch-to-batch variations or inconsistent storage, any of which can jeopardize results of studies and experiments. For these reasons, and in order to increase consistency of quality, reliability and availability, we are now developing and validating a proprietary, fit-for-purpose, antibody system for use with SavaDx. NIH is funding the development expenses for this project. Such technical activities are on-going. Assuming technical success with on-going efforts, we expect to run validation studies with SavaDx in the second half of 2020.
+ ﻿
+ The legal system for intellectual property around diagnostic methods is highly complex and uncertain. In the U.S., patent courts have struggled to define a clear means of patent eligibility for modern age diagnostics. Generally, a simple process involving correlations between blood test results and patient health is not eligible for patent claims because such processes incorporate “laws of nature”. However, different outcomes from different courts, including Federal Circuit, district court and 
+
+     
+13
+
+Patent Trial and Appeal Board decisions, have continued to create a sometimes vague or conflicting legal framework for determining the eligibility of patent claims for diagnostic methods. As a result, we cannot be certain how SavaDx fits into the current U.S. legal framework for obtaining effective patent claims. Furthermore, claims for diagnostic methods can be complicated to enforce.
+ ﻿
+ Expansion of our science to other indications.
+ ﻿
+ It is well-known that protein misfolds occur in a wide variety of biological processes and diseases. We may leverage our scientific insights in neurodegeneration and advanced tools in biochemistry, bioinformatics and imaging to expand our science to other diseases. New indications and new drug development approaches may complement our initial focus on Alzheimer’s disease.  
+ ﻿
+ Pre-clinical programs are always visionary, sometimes innovative and often of high biomedical potential. However, by definition such programs are exploratory and risky. Moreover, most pre-clinical programs fail for scientific or other reasons, regardless of the amount of effort or resources that are brought to bear upon such programs. For these reasons, in general we do not intend to disclose our pre-clinical programs until such time as they become material to our pipeline of product candidates.
+ ﻿
+ We own worldwide rights to our neurodegeneration program. 
+ ﻿
+ We own intellectual property, including patents, patent applications, technology, trade secrets and know-how in the U.S. and other countries. The protection of patents, designs, trademarks and other proprietary rights that we own or license is critical to our success and competitive position. We consider the overall protection of our patents and other intellectual property rights to be of material value and act to protect these rights from infringement. 
+ ﻿
+ We seek to protect our technology by, among other methods, filing and prosecuting U.S. and foreign patents and patent applications with respect to our technology and products and their uses. The focus of our patent strategy is to secure and maintain intellectual property rights to technology for our program in neurodegeneration.
+ ﻿
+ PTI-125 and SavaDx were both discovered and designed in-house and were characterized by our academic collaborators during research activities that were conducted from approximately 2008 to date. We own exclusive, worldwide rights to these drug assets and related technologies, without royalty obligations to any third party. Our patent protection in this area currently runs through 2034, plus extensions, and includes six issued patents and related patent filings and applications.
+ ﻿
+ Our Development Team 
+ ﻿
+ Our product development team is led by seasoned professionals with a proven track record of innovation in drug discovery and development, as well as substantial business expertise. 
+ ﻿
+ Our Founder and Chief Executive Officer, Remi Barbier, has over 25 years of biopharmaceutical industry experience and has led teams responsible for pioneering several pharmaceutical innovations, including abuse-deterrent drugs; the clinical development of multiple pain drugs; an innovative antibody program in cancer; and other programs in neuroscience and other therapeutics areas. Before founding Cassava Sciences (formerly known as Pain Therapeutics, Inc.), he held leadership roles and was founder or co-founder of four life science companies, three of which are now publicly traded. Our Chief Medical Officer, Nadav Friedmann PhD, MD, has eight prior FDA drug approvals and previously served as CEO of Daiichi Pharmaceuticals USA and Head of Johnson & Johnson’s Biotechnology Research Center. Lindsay Burns, PhD, SVP, Neuroscience, worked on the development of several product candidates in neuroscience and other therapeutics areas while at Neurex (acquired by Elan Pharmaceuticals) and Abgenix (acquired by Amgen). Michael Zamloot, SVP of Technology Operations, has four prior FDA drug approvals and has worked in drug operations and supply chain management at Boehringer Mannheim (acquired by Roche Diagnostics), Athena Neuroscience (acquired by Elan Pharmaceuticals) and Ciba-Geigy (acquired by Novartis). George (Ben) Thornton, PhD, SVP of Technology, has led research and development teams at Johnson & Johnson as well as translated basic science to the clinical setting at biotechnology start-ups such as GeneMedicine and Apovia.
+ ﻿
+ Our management team is further supported by scientific advisors that share our commitment to advancing new treatments for Alzheimer’s disease. Leading experts in the field who advise us include:
+
+
+     
+14
+
+﻿
+
+· | Jeff Cummings, MD, Director of Cleveland Clinic Lou Ruvo Center for Brain Health and Professor of Neurotherapeutics and Drug Development, Cleveland Clinic.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Hoau-Yan Wang, PhD, Tenured Medical Professor at CUNY Medical School; co-lead scientist on discovery & development of PTI-125 and SavaDx.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Steven E. Arnold, MD, Translational Neurology Head of the Interdisciplinary Brain Center, Massachusetts General Hospital, Harvard Medical School.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Barbara Sahakian, FBA, FMedSci, Professor of Clinical Neuropsychology at the Department of Psychiatry and Medical Research Council /Wellcome Trust Behavioral and Clinical Neuroscience Institute, University of Cambridge.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Trevor W. Robbins, CBE FRS FMedSci, Professor of Cognitive Neuroscience at the University of Cambridge and Past President of the British Neuroscience Association.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Our Strategy 
+ ﻿
+ Our goal is to develop product candidates to diagnose and treat neurodegeneration, such as Alzheimer’s disease. Key elements of our business strategy to achieve this mission include: 
+ ﻿
+
+· | building a lean company that is narrowly focused on developing innovative product candidates for Alzheimer’s disease and other areas of neurodegeneration;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | validating our unique scientific approach with competitive research grants and publishing our scientific data in peer-reviewed journals;
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | applying our development capabilities to advance our product candidates through clinical proof-of-concept studies and beyond;
+--+------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | using our expertise and experience to continue to focus on discovering new indications and product candidates, validated by experimental evidence and leading experts in the field; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | continuing to outsource preclinical studies, clinical studies and formulation development activities in order to allow more efficient deployment of our resources
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ We also conduct basic research and development in collaboration with academic and other partners. Our research and development expenses were $1.6 million and $3.0 million for the year ended December 31, 2019 and 2018, respectively. These amounts are net of significant reimbursement received from NIH. See “Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations” for additional details regarding our research and development activities.
+ ﻿
+ Competition
+ ﻿
+ The drug discovery and development industry is characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products. We face potential competition from many different sources, including pharmaceutical and biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Any product candidates that we successfully develop and commercialize, such as PTI-125 or SavaDx, may compete with existing therapies and new therapies that may become available in the future.
+ ﻿
+ Historically, the drug industry has attempted to treat Alzheimer’s disease by developing drugs that block the synthesis of, or remove or dis-aggregate, beta amyloid and, more recently another protein in the brain called tau. Essentially, the prevailing doctrine says amyloid must be cleared out of the brain. This scientific approach – known as the amyloid hypothesis - has been repeatedly tested by our competitors in late stage clinical studies using a variety of antibody backbones, epitopes, target conformations, biomarkers and in various stages of disease. While this approach may yet work, to date the amyloid hypothesis has failed to generate unambiguous therapeutic benefit in patients with Alzheimer’s disease. More recent competitors in 
+
+     
+15
+
+Alzheimer’s research are focused on modulating proteins in the brain that have anti-inflammatory or other properties, an approach known as immunotherapy. 
+ ﻿
+ In contrast, our scientific approach seeks to simultaneously improve neurodegeneration and neuroinflammation. We believe improving multiple vital functions in the brain represents a new, different and crucial approach to address Alzheimer’s disease.
+ ﻿
+ Regardless of scientific approach, improvements in cognition and function remains a key criterion for FDA approval of a new drug in Alzheimer’s disease, a hurdle which, to date, no drug candidate has met with clear and compelling clinical data.
+ ﻿
+ Our competitors may have significantly greater financial resources, an established presence in the market, expertise in research and development, manufacturing, preclinical and clinical testing, obtaining regulatory approvals and reimbursement and marketing-approved products. These competitors also compete with us in recruiting and retaining qualified scientific and technical personnel, establishing clinical study sites and patient registration for clinical studies, as well as in acquiring or developing technologies complementary to, or necessary for, our programs. Smaller or early-stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. 
+ ﻿
+ The key competitive factors affecting the success of PTI-125, and any other product candidates that we develop to address neurodegenerative disorders, if approved, are likely to be their efficacy, safety, convenience, price, the level of generic competition, patient and physician acceptance and the availability of reimbursement from government and other third-party payors. Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are more effective, have fewer or less severe side effects, are more convenient or are less expensive than any products that we may develop.
+ ﻿
+ Our competitors also may obtain FDA approval for their products more rapidly than we may obtain approval for ours. For example, we are aware that Biogen, Inc., a large biopharmaceutical company, has announced their intention to seek regulatory approval in the U.S. for aducanumab in 2020. Aducanumab is a proprietary investigational drug candidate (human monoclonal antibody) that has been intensely studied for the treatment of Alzheimer’s disease. The safety and efficacy data with aducanumab are complex and subject to debate. However, aducanumab may become the first therapy since 2003 to receive FDA approval in patients with Alzheimer’s disease.
+ ﻿
+ In recent years, we have observed ramped-up worldwide efforts aimed at developing blood-based techniques to detect and monitor Alzheimer’s disease. The key competitive factors affecting the success of SavaDx, and any other product candidates that we develop to diagnose neurodegeneration, if approved, are likely to be their measure of accuracy, such as specificity and sensitivity, as well as their convenience, patient acceptance, price and the availability of reimbursement from government and other third-party payors. Our competitors in the diagnostic area are pharmaceutical and biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Despite increased research effort, the field has generally been hampered by lack of reproducibility and an unclear path on how to move academic discoveries into clinical utilization. 
+ ﻿
+ In addition to blood-based techniques to detect Alzheimer’s disease, competitors are examining the use of novel tracing agents and imaging techniques to map the course of neurodegeneration. In 2012 the FDA approved Amyvid® (Eli Lilly Pharmaceuticals), which is a radioactive diagnostic agent for brain imaging of amyloid plaque. Amyvid can rule out Alzheimer’s disease but does not confirm its presence. That is, a negative scan means little or no plaque is present; however, a positive scan does not necessarily indicate Alzheimer’s disease. In addition, Amyvid cannot be used to stage Alzheimer’s disease because some people take years to show cognitive decline after amyloid plaque develops, while other others rapidly develop advanced Alzheimer’s disease within months. Since its approval in 2012, Amyvid has had modest clinical utilization due to its high cost, lack of widespread reimbursement and need for specialized training.  
+ ﻿
+ Manufacturing
+ ﻿
+ We do not own or lease any manufacturing facilities. We outsource formulation, manufacturing and related activities to third parties. For the foreseeable future, we will continue to rely on third parties to conduct certain quality control and assurance testing, shipping or storage of our product candidates.
+ ﻿
+
+
+     
+16
+
+We currently rely on contract development and manufacturing organizations (CDMOs) for the manufacture of all our materials for preclinical and clinical studies and expect to continue to do so, and for commercial supply of any product candidates that we may develop. We currently have established relationships with several CDMOs for the manufacturing of our product candidates.
+ ﻿
+ Our suppliers must comply with current good manufacturing practices (cGMP) enforced by the FDA and other government agencies. Our suppliers are subject to unannounced inspection by regulators, including pre-approval inspections by the FDA, to ensure they are in strict compliance with government regulations and standards. Our suppliers may be forced to stop producing, storing, shipping or testing our drug products if they fall out of compliance with government regulations and standards. 
+ ﻿
+ We have no control over our suppliers’ compliance, or lack thereof, with the multitude of regulations and standards that affect our drug products. We cannot control decisions by our suppliers that affect their ability or willingness to continue to supply us on acceptable terms, or at all.    ﻿
+ Strategic Shift Away from Analgesic Drug Development
+ ﻿
+ Historically, our focus had been on analgesic drug development. During that time, we conceived, formulated, developed, tested and patented various analgesic drug candidates. In late 2018, we announced a strategic shift away from analgesic drug development. On March 20, 2019, we gave a prior collaborator, Durect Corporation, written notice of termination of a licensing agreement for analgesic drugs. This action effectively ended our involvement with analgesic drug development. In March 2019, we announced that going forward we would focus exclusively on our on-going program in neurodegeneration. On or around that time, we also announced our new company name, logo, NASDAQ ticker symbol and website.
+ ﻿
+ Government Regulation 
+ ﻿
+ Government authorities in the U.S. at the federal, state and local level and in other countries regulate, among other things, the research, development, testing, manufacture, quality control, approval, labeling, packaging, storage, record-keeping, promotion, advertising, distribution, post-approval monitoring and reporting, marketing and export and import of drug and diagnostic products. Generally, before a new drug or diagnostic can be marketed, considerable data demonstrating its quality, safety and efficacy and/or specificity must be obtained, organized into a format specific for each regulatory authority, submitted for review and approved by the regulatory authority. 
+ ﻿
+ U.S. Drug Development 
+ ﻿
+ In the U.S., the FDA regulates drugs under the Food, Drug, and Cosmetic Act (FDCA). Both drugs and diagnostics also are subject to other federal, state and local statutes and regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or post-market may subject an applicant to administrative or judicial sanctions. These sanctions could include, among other actions, the FDA’s refusal to approve pending applications, withdrawal of an approval, a clinical hold, untitled or warning letters, product recalls or market withdrawals, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement and civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us.
+ ﻿
+ Product candidates must be approved by the FDA before they may be commercialized in the U.S. The drug approval process generally involves the following: 
+    
+· | Completion of extensive preclinical studies in accordance with applicable regulations, including studies conducted in accordance with good laboratory practice;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Submission to the FDA of an IND, which must become effective before human clinical studies may begin;
+--+------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Approval by an independent institutional review board (IRB) or ethics committee before each study may be initiated;
+--+--------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+     
+17
+
+
+· | Performance of adequate and well-controlled human clinical studies in accordance with applicable IND regulations, code of good clinical practice (cGCP), requirements and other clinical trial-related regulations to establish the safety and efficacy of the investigational product for each proposed indication;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Submission to the FDA of an NDA;
+--+---------------------------------
+
+  ﻿
+
+· | A determination by the FDA within 60 days of its receipt of an NDA to accept the filing for review;
+--+----------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities where the drug will be produced to assess compliance with cGMP, requirements to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Potential FDA audit of the preclinical study and/or clinical study sites that generated the data in support of the NDA;
+--+------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | FDA review and approval of the NDA, including consideration of the views of any FDA advisory committee, prior to any commercial marketing or sale of the drug in the U.S.; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Compliance with any post-approval requirements, including the potential requirement to conduct post-approval studies.
+--+----------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ The data required to support an NDA are generated in two distinct developmental stages: preclinical and clinical. The preclinical and clinical testing and approval process requires substantial time, effort and financial resources, and we cannot be certain that any approvals for any future product candidates will be granted on a timely basis, or at all. 
+ ﻿
+ Preclinical Studies and IND 
+ ﻿
+ The preclinical developmental stage generally involves laboratory evaluations of drug chemistry, formulation and stability, as well as studies to evaluate toxicity in animals, which support subsequent clinical testing. As sponsor, we must submit the results of the preclinical studies, together with manufacturing information, analytical data, any available clinical data or literature and a proposed clinical protocol, to the FDA as part of the IND. An IND is a request for authorization from the FDA to administer an investigational product to humans and must become effective before human clinical studies may begin. 
+ ﻿
+ Preclinical studies include laboratory evaluation of product chemistry and formulation, as well as in vitro and animal studies to assess the potential for adverse events and in some cases to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including cGCP regulations for safety/toxicology studies. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, to the FDA as part of an IND. Some long-term preclinical testing, such as long-term toxicity tests, animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions about any aspect of the program. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical study can begin.
+ ﻿
+ Clinical Studies 
+ ﻿
+ The clinical stage of development involves the administration of the investigational product to healthy volunteers or patients under the supervision of qualified investigators, generally physicians not employed by or under the study sponsor’s control, in accordance with cGCP requirements, which include the requirement that all research subjects provide their informed consent for their participation in any clinical trial. Clinical studies are conducted under protocols detailing, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria and the parameters to be used to monitor subject safety and assess efficacy. Each protocol, and any subsequent amendments to the protocol, must be submitted to the FDA as part of the IND. Furthermore, each clinical study must be reviewed and approved by an IRB for each institution at which the clinical study will be conducted to ensure that the risks to individuals participating in the clinical studies are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the informed consent form that must be provided to each clinical study subject or his or her legal representative and must monitor the clinical study until 
+
+     
+18
+
+completed. There also are requirements governing the reporting of ongoing clinical studies and completed clinical study results to public registries. 
+ ﻿
+ A sponsor who wishes to conduct a clinical study outside of the U.S. may, but need not, obtain FDA authorization to conduct the clinical study under an IND. If a foreign clinical study is not conducted under an IND, the sponsor may submit data from the clinical study to the FDA in support of an NDA. The FDA may accept a well-designed and well-conducted foreign clinical study not conducted under an IND if the study was conducted in accordance with cGCP requirements and the FDA is able to validate the data through an onsite inspection if deemed necessary. In 2019 we did not conduct any clinical studies outside of the U.S. but we may do so in the future.
+ ﻿
+ Clinical studies in the U.S. generally are conducted in three sequential phases, known as Phase 1, Phase 2 and Phase 3, and may overlap. 
+    
+· | Phase 1 clinical studies generally involve a small number of healthy volunteers or disease-affected patients who are initially exposed to a single dose and then multiple doses of the product candidate. The primary purpose of these clinical studies is to assess the metabolism, pharmacologic action, tolerability and safety of a drug candidate.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Phase 2 clinical studies involve studies in disease-affected patients to determine the proper dose required to produce the desired benefits. At the same time, safety and further pharmacokinetic and pharmacodynamic information is collected, possible adverse effects and safety risks are identified, and a preliminary evaluation of efficacy may be observed.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+
+· | Phase 3 clinical studies generally involve many patients at multiple sites and are designed to provide the data necessary to demonstrate the effectiveness of the product for its intended use, its safety in use and to establish the overall benefit/risk relationship of the product and provide an adequate basis for product approval. These studies may include comparisons with placebo and/or other comparator treatments. The duration of treatment is often extended to mimic the actual use of a product during marketing.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ Post-approval studies, sometimes referred to as Phase 4 clinical studies, may be conducted after initial marketing approval. These studies are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, the FDA may mandate the performance of Phase 4 clinical studies as a condition of approval of an NDA. 
+ ﻿
+ Progress reports detailing the results of the clinical studies, among other information, must be submitted at least annually to the FDA. Written safety reports and the investigators for serious and unexpected adverse events, or any other findings suggesting a significant risk to humans exposed to the drug must be submitted to the FDA.    ﻿
+ Phase 1, Phase 2, and Phase 3 clinical studies may not be completed successfully within any specified period, if at all. The FDA or the sponsor may suspend or terminate a clinical study at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical study at its institution if the clinical study is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients. Additionally, some clinical studies are overseen by an independent group of qualified experts organized by the clinical study sponsor, known as a data safety monitoring board or committee. This group provides authorization for whether a study may move forward at designated check-points based on access to certain data from the trial. Concurrent with clinical studies, companies usually complete additional animal studies and must develop additional information about the chemistry and physical characteristics of the drug as well as finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the product and, among other things, companies must develop methods for testing the identity, strength, quality and purity of the final product. Additionally, appropriate packaging must be selected and tested, and stability studies must be conducted to demonstrate that our product candidates do not undergo unacceptable deterioration over their shelf life.
+ ﻿
+
+
+     
+19
+
+NDA Review Process
+ ﻿
+ Following completion of the clinical studies, data is analyzed to assess whether the investigational product is safe and effective for the proposed indicated use or uses. The results of preclinical studies and clinical studies are then submitted to the FDA as part of an NDA, along with proposed labeling, chemistry and manufacturing information to ensure product quality and other relevant data. In short, the NDA is a request for approval to market a drug for one or more specified indication and must contain proof of safety and efficacy for a drug’s purity and potency. The application may include both negative and ambiguous results of preclinical studies and clinical studies, as well as positive findings. Data may come from company-sponsored clinical studies intended to test the safety and efficacy of a product’s use or from several alternative sources, including studies initiated by investigators. To support marketing approval, the data submitted must be sufficient in quality and quantity to establish the safety and efficacy of the investigational product to the satisfaction of FDA. FDA approval of an NDA must be obtained before a drug may be marketed in the U.S.    ﻿
+ Under the Prescription Drug User Fee Act (PDUFA), as amended, each NDA must be accompanied by a user fee. FDA adjusts the PDUFA user fees on an annual basis. According to the FDA’s fiscal year 2020 fee schedule, effective through September 30, 2020, the user fee for an application requiring clinical data, such as an NDA, is approximately $2.9 million. Fee waivers or reductions are available in certain circumstances, including a waiver of the application fee for the first application filed by a small business. Additionally, no user fees are assessed on NDAs for products designated as orphan drugs, unless the product also includes a non-orphan indication. 
+ ﻿
+ The FDA reviews all submitted NDAs before it accepts them for filing and may request additional information rather than accept the NDA for filing. The FDA must decide on accepting an NDA for filing within 60 days of receipt. Once the submission is accepted for filing, the FDA begins an in-depth review of the NDA. Under the goals and policies agreed to by the FDA under PDUFA, the FDA has 10 months, from the filing date, in which to complete its initial review of a new molecular-entity NDA and respond to the applicant, and six months from the filing date of a new molecular-entity NDA designated for priority review. The FDA does not always meet its PDUFA goal dates for standard and priority NDAs, and the review process is often extended by FDA requests for additional information or clarification. 
+ ﻿
+ Before approving an NDA, the FDA may conduct a pre-approval inspection of the manufacturing facilities for the new product to determine whether they comply with cGMP requirements. The FDA will not approve the product unless it determines that the manufacturing processes and facilities fully comply with cGMP requirements and are adequate to assure consistent production of the product within required specifications. The FDA also may audit data from clinical studies to ensure compliance with cGCP requirements. Additionally, the FDA may refer applications for novel product candidates which present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions, if any. The FDA is not bound by recommendations of an advisory committee, but it considers such recommendations when making decisions on approval. The FDA likely will reanalyze the clinical study data, which could result in extensive discussions between the FDA and the applicant during the review process. After the FDA evaluates an NDA, it will issue either an approval letter or a Complete Response Letter (CRL). An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A CRL indicates that the FDA’s review of the application is complete and the application cannot be approved in its present form. A CRL usually describes the specific deficiencies in the NDA identified by the FDA. The CRL may require additional clinical data, additional pivotal Phase 3 clinical trial(s) and/or other significant and time-consuming requirements related to clinical studies, preclinical studies or manufacturing. If a CRL is issued, the applicant may either resubmit the NDA, addressing all the deficiencies identified in the CRL, or withdraw the application. Even if such data and information are submitted, the FDA may decide that the NDA does not satisfy the criteria for approval. Data obtained from clinical studies are not always conclusive and the FDA may interpret data differently than we interpret the same data.
+ ﻿
+ Advertising and Promotion    ﻿
+ The FDA and other federal regulatory agencies closely regulate the marketing and promotion of drugs through, among other things, standards and regulations for direct‑to‑consumer advertising, communications regarding unapproved uses, industry‑sponsored scientific and educational activities, and promotional activities involving the Internet. None of our product candidates can be commercially promoted before receiving FDA approval. After approval, product promotion can include only those claims relating to safety and effectiveness that are consistent with the labeling approved by the FDA. Healthcare providers are permitted to prescribe drugs for “off‑label” uses — that is, uses not approved by the FDA and therefore not 
+
+     
+20
+
+described in the drug’s labeling — because the FDA does not regulate the practice of medicine. However, FDA regulations impose stringent restrictions on manufacturers’ communications regarding off‑label uses. Failure to comply with applicable FDA requirements and restrictions in this area may subject us to adverse publicity and enforcement action by the FDA, the U.S. Department of Justice, or the Office of the Inspector General of Health and Human Services, as well as state authorities. This could subject us to a range of penalties that could have a significant commercial impact, including civil and criminal fines and agreements that materially restrict the manner in which we promote or distribute our product candidates.
+ ﻿
+ Post‑Approval Requirements
+ ﻿
+ After a product candidate receives regulatory approval, it is often subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to drug listing and registration, recordkeeping, periodic reporting, product sampling and distribution, adverse event reporting and advertising, marketing and promotion restrictions. 
+ ﻿
+ Adverse event reporting and submission of periodic reports is required following FDA approval of an NDA. The FDA also may require post‑market testing, known as Phase 4 testing, or the FDA may place conditions on an approval that could restrict the distribution or use of the product. In addition, quality control, drug manufacture, packaging, and labeling procedures must continue to conform to cGMP after approval. Drug manufacturers and certain of their subcontractors are required to register their establishments with the FDA and certain state agencies. Registration may result in periodic announced or unannounced inspections by the FDA or these state agencies, during which the agency inspects manufacturing facilities to assess compliance with cGMP. Accordingly, manufacturers must continue to expend time, money, and effort in the areas of production and quality control to maintain compliance with cGMP. Regulatory authorities may withdraw product approvals or request product recalls if a company fails to comply with regulatory standards, if it encounters problems following initial marketing, or if previously unrecognized problems are subsequently discovered. In addition, other regulatory actions may be taken, including, among other things, warning letters, the seizure of products, injunctions, consent decrees placing significant restrictions on or suspending manufacturing operations, refusal to approve pending applications or supplements to approved applications, civil penalties, and criminal prosecution. 
+ ﻿
+ The FDA may require post‑approval clinical studies to help assure continued safety or effectiveness of the approved drug. The FDA may also require a labeling change if it becomes aware of new safety information that it believes should be included in the labeling of a drug. 
+ ﻿
+ The Hatch‑Waxman Amendments    ﻿
+ Orange Book Listing    ﻿
+ In seeking approval for our product candidates through an NDA, we will be required to list with the FDA each patent whose claims cover the drug product. Upon receiving regulatory approval, each of the patents listed in the application for this drug is then published in the FDA’s Approved Drug Products with Therapeutic Equivalence Evaluations, commonly known as the “Orange Book”. Drugs listed in the Orange Book can, in turn, be cited by potential generic competitors in support of approval of an abbreviated NDA, or ANDA. An ANDA provides for marketing of a drug product that has the same active ingredient in the same strengths and dosage form as the listed drug and has been shown through bioequivalence testing to be therapeutically equivalent to the listed drug. Other than the requirement for bioequivalence testing, ANDA applicants are not required to conduct, or submit results of, preclinical or clinical tests to prove the safety or efficacy of their drug product. Drugs approved in this way are commonly referred to as “generic equivalents” to the listed drug, and can often be substituted by pharmacists under prescriptions written for the original listed drug. 
+ ﻿
+ The ANDA applicant is required to make certain certifications to the FDA concerning any patents listed for the approved product in the FDA’s Orange Book. Specifically, the applicant must certify that: (i) the required patent information has not been filed; (ii) the listed patent has expired; (iii) the listed patent has not expired but will expire on a particular date and approval is sought after patent expiration; or (iv) the listed patent is invalid or will not be infringed by the new product. The ANDA applicant may also elect to submit a section viii statement certifying that its proposed ANDA label does not contain (or carves out) any language regarding the patented method‑of‑use rather than make certifications concerning a listed method‑of‑use patent. If the applicant does not challenge the listed patents, the ANDA application will not be approved until all the listed patents claiming the referenced product have expired. 
+ ﻿
+
+
+     
+21
+
+A certification that the new product will not infringe the already approved product’s listed patents, or that such patents are invalid, is called a Paragraph IV certification. If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days of the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of 30 months, expiration of the patent, settlement of the lawsuit, or a decision in the infringement case that is favorable to the ANDA applicant. The ANDA application also will not be approved until any applicable non‑patent exclusivity listed in the Orange Book for the referenced product has expired. 
+ ﻿
+ Exclusivity    ﻿
+ Upon NDA approval of a new chemical entity, or NCE, which is a drug that contains no active moiety that has been approved by the FDA in any other NDA, that drug receives five years of marketing exclusivity during which the FDA cannot receive any ANDA seeking approval of a generic version of that drug or any Section 505(b)(2) NDA that relies on the FDA’s findings regarding that drug. A drug may obtain a three‑year period of exclusivity for a change to the drug, such as the addition of a new indication to the labeling or a new formulation, during which the FDA cannot approve an ANDA or any Section 505(b)(2) NDA, if the supplement includes reports of new clinical studies (other than bioavailability clinical studies) essential to the approval of the supplement. 
+ ﻿
+ An ANDA may be submitted one year before NCE exclusivity expires if a Paragraph IV certification is filed. If there is no listed patent in the Orange Book, there may not be a Paragraph IV certification, and, thus, no ANDA may be filed before the expiration of the exclusivity period. 
+ ﻿
+ Disclosure of Clinical Study Information    ﻿
+ Sponsors of clinical studies of FDA‑regulated products, including drugs, are required to register and disclose certain clinical study information. Information related to the product, patient population, phase of investigation, clinical study sites and investigators, and other aspects of the clinical study is then made public as part of the registration. Sponsors are also obligated to post certain information regarding the results of their clinical studies after completion. Disclosure of the results of these studies can be delayed until the new product or new indication being studied has been approved. Competitors may use this publicly available information to gain knowledge regarding the progress of development programs. 
+ ﻿
+ Other Regulatory Requirements
+ ﻿
+ We may be subject to federal, state and local environmental laws and regulations, including the Environmental Protection Act and the Clean Air Act. Although we believe that our safety procedures for handling and disposing of controlled materials comply with the standards prescribed by state and federal regulations, accidental contamination or injury from these materials may occur. In the event of such an occurrence, we could be held liable for any damages that result and any such liability could exceed our resources.
+ ﻿
+ We may also be subject to regulations under other federal, state, and local laws, including the Occupational Safety and Health Act, national restrictions on technology transfer, and import, export, and customs regulations. It is possible that any portion of the regulatory framework under which we operate may change and that such change could have a negative impact on our current and anticipated operations. Failure to comply with these requirements could result, among other things, in suspension of regulatory approval, recalls, injunctions or civil or criminal sanctions.
+ ﻿
+ Third‑Party Payor Coverage and Reimbursement
+ ﻿
+ The commercial success of our product candidates, if approved, will depend, in part, upon the availability of coverage and adequate reimbursement from third‑party payors at the federal, state and private levels. Third‑party payors include governmental programs such as Medicare or Medicaid, private insurance plans and managed care plans. These third‑party payors may deny coverage or reimbursement for our product candidates in whole or in part if they determine that our product candidates are not medically appropriate or necessary. Also, third-party payors attempt to control costs by limiting coverage through the use of formularies and other cost‑containment mechanisms and the amount of reimbursement for particular procedures or drug treatments. 
+
+
+     
+22
+
+﻿
+ Some third‑party payors also require pre‑approval of coverage for new or innovative devices or drug therapies before they will reimburse healthcare providers who use such therapies. While we cannot predict whether any proposed cost‑containment measures will be adopted or otherwise implemented in the future, these requirements or any announcement or adoption of such proposals could have a material adverse effect on our ability to obtain adequate prices for our approved product candidates to operate profitably. 
+ ﻿
+ Employees
+ ﻿
+ As of December 31, 2019, we had 9 full-time employees. None of our employees are represented by a labor union or covered under a collective bargaining agreement. We also engage numerous consultants to perform services on retainer, per diem or an hourly basis.
+ ﻿
+ Corporate Information
+ ﻿
+ We were incorporated as a Delaware corporation in May 1998 under the name Pain Therapeutics, Inc. On March 26, 2019, we changed our company name to Cassava Sciences, Inc. Our principal offices are located at 7801 N. Capital of Texas Highway, Suite 260, Austin, TX, 78731. Our telephone number is 512-501-2444. Our website address is www.CassavaSciences.com.
+ ﻿
+ We use Cassava Sciences, the Cassava Sciences logo, artwork and other marks as trademarks in the United States and other countries. Solely for convenience, trademarks and trade names referred to in this Annual Report, including logos, artwork, and other visual displays, may appear without the ® or TM symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent under applicable law, our rights, or the rights of the applicable licensor to these trademarks and trade names. We do not intend our use or display of other entities’ trade names, trademarks, or service marks to imply a relationship with, or endorsement or sponsorship of us by, any other entity.
+ ﻿
+ We file electronically with the Securities and Exchange Commission, or SEC, our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The address of the site is http://www.sec.gov.
+ ﻿
+ You may obtain a free copy of our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K and amendments to those reports on the day of filing with the SEC on our website at http://www.cassavasciences.com, by contacting our corporate offices by calling 512-501-2450 or by sending an e-mail message to IR@cassavasciences.com.
+ ﻿
+
+
+     
+23
+
+

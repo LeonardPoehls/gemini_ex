@@ -1,0 +1,851 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1.  BUSINESS
+Overview
+ 
+During 2019, we completed our transformation into a clinical stage biopharmaceutical company, developing our clinical stage immuno-oncology and immunology portfolio of monoclonal antibodies. We are focusing our efforts on the development of our lead product candidate, lenzilumab, our proprietary Humaneered® (“Humaneered” or “Humaneered®”) anti-human GM-CSF immunotherapy, through a clinical research agreement (the “Kite Agreement”) with Kite Pharmaceuticals, Inc., a Gilead company (“Kite”) to study the effect of lenzilumab on the safety of Yescarta®, axicabtagene ciloleucel (“Yescarta” or “Yescarta®”) including cytokine release syndrome (“CRS”), which is sometimes also referred to as cytokine storm, and neurotoxicity, with a secondary endpoint of increased efficacy in a multicenter Phase Ib/II clinical trial in adults with relapsed or refractory large B-cell lymphoma. We believe this study, designated the nomenclature ‘ZUMA-19’, may be the basis for the registration of lenzilumab, given the similar trial design to Yescarta’s and Novartis’s Kymriah® (“Kymriah” or “Kymriah®”) registration trials.
+ 
+We are also exploring the effectiveness of our GM-CSF neutralization technologies (either through the use of lenzilumab as a neutralizing antibody, or through GM-CSF gene knockout) in combination with other CAR-T, T-cell engaging, and immunotherapy treatments to break the efficacy/toxicity linkage including the prevention and/or treatment of graft-versus-host disease (“GvHD”) while preserving graft-versus-leukemia (“GvL”) benefits in patients undergoing allogeneic HSCT. In this context, GvHD is akin to CRS, or cytokine storm and we believe the mechanism to be driven by GM-CSF levels. The recent coronavirus pandemic which is due to the SARS-CoV-2 virus and leads to the condition referred to as COVID-19, is characterized in the later and sometimes fatal stages by lung dysfunction which is triggered by CRS, or cytokine storm. Recent publications point to GM-CSF being a key cytokine, with elevated levels especially in those patients who transition to the Intensive Care Unit (ICU). We have established several partnerships with leading institutions to advance our innovative pipeline and are in active discussion with several government and commercial organizations.
+ 
+We believe that we have a dominant intellectual property position in the area of GM-CSF neutralization through multiple approaches and mechanisms, as they pertain to COVID-19, CAR-T, GvHD and multiple other oncology/transplantation, inflammation, fibrosis and autoimmune conditions which may be driven by GM-CSF.
+ 
+During 2019, we also advanced our preclinical next-generation cell and gene therapies for the treatment of cancers via our novel human granulocyte-macrophage colony-stimulating factor (“GM-CSF”) neutralization and gene-knockout platforms.
+ 
+As a leader in GM-CSF pathway science, we believe that we have the ability to transform prevention of CRS in SARS-CoV-2 infection. The virus associated with the current COVID-19 pandemic, SARS-Cov-2, is one of a group of several betacoronaviruses, which includes the viruses responsible for Severe Acute Respiratory Syndrome (SARS-CoV) and Middle East Respiratory Syndrome (MERS-CoV). These viruses infect predominantly the lower lung and cause fatal pneumonia. Other coronaviruses infect the upper respiratory tract and cause some cases of the common cold. The clinical course of COVID-19 can be mistaken for influenza infection – patients in both cases often suffer from aches and pains throughout the body, fever, cough and general malaise. COVID-19 is not typically associated with a productive cough – rather it tends to be a dry cough – and sneezing is less common. A nasal or throat swab can be used to test for SARS-CoV-2 infection, and blood tests can be run to check for viral titers. Travel to areas where COVID-19 appears to have a large number of cases and exposure to people who are known to have suffered from the condition or carriers of SARS-CoV-2 also increases the clinical suspicion of possible infection. Data generated during the SARS and MERS outbreaks point to cytokine storm as a phase of the illness which is characterized by an immune hyperactive phase, which then can progress to lung dysfunction and death. The natural history of SARS infection shows viral load actually decreases as patients enter the second phase.
+
+
+
+5
+-
+
+
+
+
+Source: WHO
+ 
+Recent data from China and the subject of a pre-publication titled “Aberrant pathogenic GM-CSF+ T cells and inflammatory CD14+CD16+ monocytes in severe pulmonary syndrome patients of a new coronavirus”, supports the hypothesis that cytokine storm-induced immune mechanisms have contributed to patient mortality with the current pandemic strain of coronavirus.
+ 
+The severe clinical features associated with some COVID-19 infections result from an inflammation-induced lung injury requiring Intensive Care Unit (ICU) care and mechanical ventilation. This lung injury is a result of a cytokine storm resulting from a hyper-reactive immune response. The lung injury that leads to death is not directly related to the virus, but appears to be a result of a hyper-reactive immune response to the virus triggering a cytokine storm that can continue even after viral titers begin to fall. 
+ 
+The authors of the study assessed samples from patients with severe pneumonia resulting from COVID-19 infection to identify whether inflammatory factors such as GM-CSF, G-CSF, IL-6, MCP-1, MIP 1 alpha, IFN-gamma and TNF-alpha were implicated.
+ 
+The authors noted that steroid treatment in such cases has been disappointing in terms of outcome, but suggested that a monoclonal antibody that targets GM-CSF may prevent or curb the hyper-active immune response caused by COVID-19 in this setting. Humanigen believes that the authors’ findings are worthy of further investigation, suggesting that to reduce or eradicate ICU care and prevent deaths from COVID-19 infection, an intervention may be needed to prevent cytokine storm.
+ 
+Separate publications confirm that cytokine storm is characterized by surge of high levels of circulating inflammatory cytokines, and is an overreaction of the immune system under the conditions, such as CAR-T therapy and patients infected with SARS-CoV-2. These recent studies revealed that high levels of GM-CSF, along with a few other cytokines, are critically associated with severe clinical complications in COVID-19 patients. High concentration of GM-CSF was found in the plasma of severe and critically ill patients, which account for approximately 20% of all patients, especially in those requiring intensive care.
+ 
+Lenzilumab has been shown to prevent cytokine storm in animal models and this work has been published in peer reviewed journals. Patients are expected to be enrolled soon in a clinical study to determine lenzilumab’s effect on cytokine storm associated with the hyper-active immune response associated with CAR-T therapy in collaboration with Kite Pharma.
+ 
+We believe that these new data suggest that GM-CSF may be a critical triggering cytokine in the increased mortality in the current coronavirus pandemic. A potential program in COVID-19 to prevent cytokine storm is complementary to the programs in CAR-T and GvHD, which are also focused on preventing or reducing cytokine storm in those disease states. 
+ 
+
+6
+-
+
+
+As a leader in GM-CSF pathway science, we believe that we have the ability to transform chimeric antigen receptor T-cell (“CAR-T”) therapy and a broad range of other T-cell engaging therapies, including both autologous and allogeneic cell transplantation. There is a direct correlation between the efficacy of CAR-T therapy and the incidence of life-threatening toxicities (referred to as the efficacy/toxicity linkage).
+ 
+We believe that our GM-CSF neutralization and gene-editing CAR-T platform technologies have the potential to reduce the inflammatory cascade associated with serious and potentially life-threatening CAR-T therapy-related side-effects while preserving and potentially improving the efficacy of the CAR-T therapy itself, thereby breaking the efficacy/toxicity linkage. Clinical correlative analysis and preclinical in vivo evidence points to GM-CSF as the key initiator of the inflammatory cascade resulting in CAR-T therapy’s side-effects, including cytokine release syndrome (CRS) and neurotoxicity (NT). GM-CSF has also been linked to the suppressive myeloid cell axis through recruitment of myeloid-derived suppressor cells (“MDSCs”) that reduce CAR-T cell expansion and hamper CAR-T cell efficacy. Our strategy is to continue to pioneer the use of GM-CSF neutralization and GM-CSF gene knockout technologies to improve efficacy and prevent or significantly reduce the serious side-effects associated with CAR-T therapy.
+ 
+We believe that our GM-CSF pathway science, assets and expertise create two technology platforms to assist in the development of next-generation CAR-T therapies. Lenzilumab has the potential to be used in combination with any United States Food and Drug Administration (“FDA”)-approved or development stage T-cell therapy, including CAR-T therapy, as well as in combination with other cell therapies such as allogeneic hematopoietic stem cell therapy (“HSCT”) to make these treatments safer and more effective.
+ 
+We have utilized a precision medicine approach and personalized the development of lenzilumab based on specific genetic mutations or biomarkers at baseline. We recently reported on a Phase I study of lenzilumab as monotherapy in refractory chronic myelomonocytic leukemia (CMML) and are now planning a potential Phase II study of lenzilumab in combination with azacitidine (current standard therapy) in newly-diagnosed CMML patients with certain genetic mutations. We are also planning a potential Phase II/III study focused on early intervention with lenzilumab in patients at high risk for acute Graft versus Host Disease (GvHD) based on specific biomarkers. We have also reported on a Phase II study in severe asthma utilizing lenzilumab, which showed a statistically significant improvement in efficacy and favorable safety profile in patients with eosinophilic asthma, 21 of whom received lenzilumab vs. 20 patients who received placebo. In addition, our GM-CSF knockout gene-editing CAR-T platform has the potential to create next-generation CAR-T therapies that may inherently avoid any efficacy/toxicity linkage, thereby potentially preserving the benefits of the CAR-T therapy while reducing or altogether avoiding its serious and potentially life-threatening side-effects.
+ 
+Our immediate focus is combining FDA-approved and development stage CAR-T therapies with lenzilumab, our lead product candidate. A clinical collaboration with Kite was recently announced to evaluate the use of lenzilumab with Yescarta.
+ 
+We are also creating next-generation combinatory gene-edited CAR-T therapies using strategies to improve efficacy while employing GM-CSF gene knockout technologies to control toxicity. This includes developing our own portfolio of proprietary first-in-class EphA3-CAR-Ts for various solid cancers and EMR1-CAR-Ts for various eosinophilic disorders.
+
+
+Our Pipeline
+ 
+Our clinical-stage pipeline comprises a further Phase I study which is almost fully enrolled with ifabotuzumab in GBM and potentially other solid cancers, a Phase Ib/II study which is enrolling alongside YESCARTA in the CAR-T arena (ZUMA-19), an additional Phase II study, in CMML and a Phase II/III study in acute GvHD, the latter two of which are in advanced planning stages. We also have a focus on creating safer and more effective CAR-T therapies in hematologic malignancies and solid tumors via three key modalities:
+
+7
+-
+
+
+· | Combining FDA-approved and development stage CAR-T therapies with lenzilumab;
+--+------------------------------------------------------------------------------
+
+
+· | Creating next-generation gene-edited CAR-T therapies using GM-CSF gene knockout technologies; and
+--+--------------------------------------------------------------------------------------------------
+
+
+· | Exploring the effectiveness of our GM-CSF neutralization technologies (either through the use of lenzilumab as a neutralizing antibody or through GM-CSF gene knockout) in combination with other CAR-T, T-cell engaging, and immunotherapy treatments, including allogeneic HSCT.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We are also developing our own CAR-T programs based on the backbone of ifabotuzumab and HGEN005, in high unmet medical need and rare/orphan oncology conditions. 
+
+
+These product candidates are in the early stage of development and will require substantial time, resources, research and development, and regulatory approval prior to commercialization. Furthermore, none of these product candidates has advanced into a pivotal registration study and it may be years before such a study is initiated, if at all. Our current pipeline is depicted below: 
+ 
+
+Lenzilumab
+ 
+Lenzilumab neutralizes human GM-CSF and has the potential to prevent or reduce certain serious side-effects associated with CAR-T therapy (CRS and neurotoxicity) and improve upon the efficacy of CAR-T therapy. This same mechanism we believe to be the causation of CRS/cytokine storm which precedes the decline in lung function seen with severe cases of COVID-19. Preclinical data generated in collaboration with the Mayo Clinic (the “Mayo Clinic”), which was published in ‘blood®’, a premier journal in hematology, indicates that the use of lenzilumab in combination with CAR-T therapy may also enhance the proliferation and improve the efficacy of CAR-T therapy. This may also result in durable, or longer term, responses in CAR-T therapies.
+
+8
+-
+
+
+There are currently no products approved by the FDA for the prevention of CRS/cytokine storm associated with COVID-19. Also there are currently no products approved by the FDA for the prevention of CAR-T therapy-related side effects, nor are there any approved therapies for the treatment of CAR-T therapy related NT. We continue to advance the development of lenzilumab in combination with CAR-T therapy through a non-exclusive clinical collaboration with Kite, pursuant to which we are conducting a multi-center Phase Ib/II study of lenzilumab with Kite’s Yescarta in patients with relapsed or refractory B-cell lymphoma, including diffuse large B-cell lymphoma (“DLBCL”) (the “Study”). The Study has been designated the nomenclature ‘ZUMA-19’, consistent with the other Kite CAR-T studies, which also receive a ‘ZUMA’ designation. The primary objective of ZUMA-19 is to determine the effect of lenzilumab on the safety and efficacy of Yescarta. Kite’s Yescarta is one of two CAR-T therapies that have been approved by the FDA and is the CAR-T therapy market leader, and our collaboration with Kite is currently the only clinical collaboration which is now enrolling patients with the potential to improve both the safety and efficacy of CAR-T therapy. We also plan to measure other potentially beneficial effects on efficacy and healthcare resource utilization. In addition, lenzilumab’s success in preventing serious and potentially life-threatening side-effects could offer economic benefits to medical system payers by making the CAR-T therapy capable of being administered, and follow-up care subsequently monitored and managed, potentially on an out-patient basis in certain patients and circumstances. In turn, we believe that delivering such provider and payer benefits might accelerate the use of the CAR-T therapy itself, and thereby permit us to generate further revenues from sales of lenzilumab.
+
+
+In addition to COVID-19 and CAR-T therapy, we are committed to advancing our diverse platform for GM-CSF axis suppression for a broad range of other T-cell engaging therapies, including both autologous and allogeneic next generation CAR-T therapies, bi-specific antibody therapies, as well as other cell-based immunotherapies in development, including allogeneic HSCT, with our current and future partners.
+ 
+In July 2019, we entered into an exclusive worldwide license agreement (the “Zurich Agreement”) with the University of Zurich (“UZH”). Under the Zurich Agreement, we have in-licensed certain technologies that we believe may be used to prevent or treat GvHD, thereby expanding our development platform to include improving the safety and effectiveness of allogeneic HSCT, a potentially curative therapy for patients with hematological cancers. There are currently no FDA-approved agents for the prevention of GvHD nor treatment of GvHD in patients identified as high risk by certain biomarkers. We believe that GM-CSF neutralization with lenzilumab has the potential to prevent or treat GvHD without compromising, and potentially improving, the beneficial GvL effect in patients undergoing allogeneic HSCT, thereby making allogeneic HSCT safer. Several recent papers have been published which support this approach, including in Science Translational Medicine in November 2018 and in ‘blood advances’ in October 2019.
+ 
+We aim to position lenzilumab as a necessary companion product to any allogeneic HSCT and as a part of the standard pre-conditioning that all patients receiving allogeneic HSCT should receive or as an early treatment option in patients identified as high risk for GvHD.
+ 
+Given our interest in developing lenzilumab to prevent CRS/cytokine storm in COVID-19 as well as in the treatment of rare cancers and other orphan conditions such as GvHD, we believe that we have the opportunity to benefit from various regulatory incentives, such as orphan drug exclusivity, breakthrough therapy designation, fast track designation, priority review and accelerated approval.
+ 
+GM-CSF Gene Knockout
+ 
+We are advancing our GM-CSF knockout gene-editing CAR-T platform through an exclusive worldwide license agreement (the “Mayo Agreement”) that we entered into in June 2019 with the Mayo Foundation for Medical Education and Research (the “Mayo Foundation”). Under the Mayo Agreement, we have in-licensed certain technologies that we believe may be used to create CAR-T cells lacking GM-CSF expression through various gene-editing tools, including CRISPR-Cas9. We believe that our GM-CSF knockout gene-editing CAR-T platform has the potential to create next-generation CAR-T therapies that improve the efficacy and safety profile of CAR-T therapy. In addition, we have and continue to file intellectual property encompassing a broad range of gene-editing approaches related to GM-CSF knockout.
+
+9
+-
+
+
+Preclinical data indicates that GM-CSF gene knockout CAR-T cells show improved overall survival in animals compared to wild-type CAR-T cells in addition to the expected benefits of reduced serious side-effects associated with CAR-T therapy. We are establishing a platform of next-generation combinatorial gene knockout CAR-T cells that have potential to be applied across both autologous and allogeneic approaches and we are also investigating multiple CAR-T cell designs using precise dual and triple gene editing to significantly enhance the anti-tumor activity while simultaneously preventing CAR-T therapy induced toxicities. Through targeted gene expression and modulating cytokine activation signaling, we may be able to increase the proportion of fitter T-cells produced during expansion, increase their proliferative potential, and inhibit activation-induced cell death, thereby improving the cancer killing activity of our engineered CAR-T cells thereby making them more effective and safer in the treatment of cancers. Initial data were published in an abstract that was presented at the December 2019 American Society of Hematology (ASH) meeting and also won an ASH Abstract Achievement award.
+ 
+We plan to continue development of this technology in combination approaches that could add to the observed efficacy benefits of current generation CAR-T products. In addition, we anticipate that our GM-CSF knockout gene-editing CAR-T platform may be a future backbone for controlling the serious side-effects that hamper CAR-T therapy that lead to serious and sometimes fatal outcomes for patients as a result of the CAR-T therapy itself. 
+
+
+EphA3-CAR: Targeting Tumor Stroma and Tumor Vasculature
+ 
+We have begun to generate our own pipeline of CAR-T therapies including an EphA3-CAR-T based on the ifabotuzumab v-region and backbone. Ifabotuzumab is a Humaneered anti-EphA3 monoclonal antibody (“EphA3”). Ifabotuzumab has the potential to kill tumor cells by targeting tumor stroma that protects them and the vasculature that feeds them. This unique combination of activities as a backbone of a CAR-T therapy may provide the potential to generate durable responses in a range of solid tumors by targeting the tissues that surround, protect, and nourish a growing cancer.
+ 
+By developing an EphA3-CAR-T using ifabotuzumab as the backbone, we may have the ability to target the tumor, tumor stroma, and tumor vasculature in a novel manner. We are collaborating with the Mayo Clinic and plan to move to clinical testing with an anti-EphA3 construct for a range of cancer types after completing Investigational New Drug (“IND”)-enabling work. We have published initial data from our Phase I study in an abstract that was accepted for the November 2019 Society of Neuro-Oncology (“SNO”) meeting, showing data in glioblastoma multiforme, a form of brain cancer.
+ 
+EMR1-CAR: Targeting Eosinophils
+ 
+Our epidermal growth factor-like module containing mucin-like hormone receptor 1 (“EMR1”)-CAR-T product is based on the HGEN005 (anti-EMR1 Humaneered monoclonal antibody) backbone and targets epidermal growth factor-like module containing mucin-like hormone receptor 1 (“EMR1”). Our EMR1-CAR-T based on the HGEN005 backbone is another approach in our growing platform of CAR-T therapies. We believe that because of its high selectivity, EMR1-CAR-T has significant potential to treat serious eosinophil diseases.
+ 
+In preclinical work, HGEN005’s anti-EMR1 activity resulted in dramatically enhanced killing of eosinophils from normal and eosinophilic donors and also induced a rapid and sustained depletion of eosinophils in a non-human primate model without any clinically significant adverse events. We have engaged with U.S. National Institutes of Health (“NIH”) to discuss expanding the initial work they have conducted utilizing HGEN005 and discussions are underway with a leading center in the U.S. to perform the IND-enabling testing in eosinophilic leukemia, an orphan condition with significant unmet need, as well as with several other potential partners, although we cannot assure you that we will reach any agreements for these next steps. 
+ 
+
+10
+--
+
+
+CAR-T Overview and Market Opportunity
+ 
+Development and implementation of individualized treatments based on T-cell therapies has the potential to revolutionize the fight against cancer. The two CAR-T therapies that have been approved by the FDA, Gilead/Kite’s Yescarta and Novartis’s Kymriah, seek to treat forms of B-cell cancers such as various types of Non-Hodgkin Lymphoma (“NHL”), including DLBCL and acute lymphoblastic leukemia (“ALL”) that are refractory or in second or later stage relapse. Although patients suffering from these aggressive cancers frequently undergo multiple treatments, including chemotherapy, radiation and targeted therapy including stem cell transplants, the five-year survival rate has been severely limited and patients who do not respond to, or have relapsed following at least two courses of standard treatment, have no other treatment options and a very poor outcome. According to the Surveillance, Epidemiology, and End Results (“SEER”) program of the National Cancer Institute, which is a source of epidemiologic information on the incidence and survival rates of cancer in the U.S., it is estimated that up to 10,000 patients per year in the U.S. with relapsed or refractory (r/r) B-cell NHL and ALL who have failed at least two prior systemic therapies may be eligible for CAR-T therapy. In addition, if CAR-T therapy is approved as an earlier second line option versus stem cell transplantation, an additional 10,000 to 12,000 patients may be eligible for treatment. However, this is predicated on improving the benefit-to-risk profile of CAR-T therapy, addressing the severe life threatening adverse events currently associated with these agents and breaking the efficacy/toxicity linkage
+ 
+The FDA-approved CAR-T therapies have demonstrated the effectiveness of using targeted immuno-cellular engineering to cause a patient’s own T-cells to fight certain cancers that have not responded to standard therapies. T-cells are often called the “workhorses” of the immune system because of their role in coordinating the immune response and killing cells infected by pathogens and cancer cells. As depicted below, each of the FDA-approved CAR-T therapies is currently a one-time treatment that involves multiple steps:
+ 
+
+· | Harvesting white blood cells from the patient’s blood, also known as apheresis;
+--+--------------------------------------------------------------------------------
+
+
+· | Engineering T-cells within this population to express cancer-specific receptors;
+--+---------------------------------------------------------------------------------
+
+
+· | Increasing and purifying the number of genetically re-engineered T-cells; and
+--+------------------------------------------------------------------------------
+
+
+· | Infusing the functional cancer-specific T-cells back into the patient to allow for expansion and targeting the cancer cells.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+11
+--
+
+
+Both Kymriah and Yescarta received FDA approval for adults with r/r DLBCL on the basis of one single-arm Phase II study which served as the pivotal registration trial for each product in this indication, a markedly accelerated process that indicates the FDA’s view of the strong potential of these novel CAR-T therapy treatments to address an unmet need and improve patient outcomes. The number of evaluable patients in the studies that led to FDA approval for Kymriah and Yescarta in large B-cell lymphoma was 68 and 101, respectively. Moreover, Kymriah also received FDA approval for the treatment of pediatrics and adolescents with r/r ALL based on a single phase II study. The Novartis-sponsored Kymriah study in ALL showed that 83% of pediatric and adolescent patients with r/r ALL who received treatment with Kymriah (52 of 63; 95% confidence interval: 71%-91%) achieved a complete response rate (CR) or a CR with incomplete blood count recovery within three months of infusion. In addition, Novartis announced that no minimal residual disease, a blood marker that indicates potential relapse, was detected among responding patients. The Novartis-sponsored Kymriah study in adults with r/r DLBCL showed that 32% of adults achieved a CR within three months of infusion, which dropped to 30% after six months. In the Kymriah registration study in the DLBCL population, 160 patients were enrolled and 68 were evaluable.
+ 
+
+12
+--
+
+
+The single Phase II study that led to the FDA approval of Yescarta in r/r DLBCL showed similarly positive results. The study enrolled 111 patients (101 were evaluable) with large B-cell lymphoma at advanced stages despite having undergone at least two previous treatments, with approximately 20% of patients already having undergone a stem cell transplant. The CR rate within three months of CAR-T treatment, given as a single infusion, was 58%, which dropped to 46% after six months. The CR rate after two years of CAR-T treatment, given as a single infusion, has been reported as 37%.
+ 
+Encouraged by the success of the Phase II studies, since the initial FDA approvals were granted to Novartis for Kymriah, the CAR-T therapy market has seen rapid expansion, with Gilead/Kite and Novartis and scores of other biotechnology companies actively working to progress CAR-T therapies as potential treatments for numerous blood and solid tumor cancers. The third entrant to the U.S. market, lisocabtagene maraleucel (liso-cel) from BMS, is expected to be approved in 2020. 
+ 
+Kymriah, Yescarta and liso-cel are autologous individualized CD19 targeted CAR-T therapies. Development is also ongoing to move each agent to earlier lines of therapy for DLBCL (rather than as salvage therapy for patients who have exhausted other options), in other types of B-cell NHL and for the treatment of chronic lymphocytic leukemia (“CLL”). According to SEER, as well as the American Cancer Society's Cancer Statistics Center and World Health Organization Union for International Cancer Control, it is estimated that up to 10,000 patients with r/r B-cell hematologic malignancies (including DLBCL, ALL, CLL) per year may potentially benefit from CD19 targeted CAR-T therapies. In addition, if CAR-T therapy is approved as an earlier second-line option versus stem cell transplantation, an additional 10,000 to 12,000 patients may be eligible for treatment. Moreover, there are two B-cell maturation antigen (“BCMA”) targeted CAR-T therapies in phase II development for relapsed or refractory multiple myeloma and several other novel CAR-T therapies targeting various antigens and neo-antigens in development for a number of hematologic and solid cancers. While there may be individual differences between CAR-T therapy products, the overall toxicity profile is generally expected to be generally consistent with that reported for Yescarta and for Kymriah.
+ 
+Former FDA Commissioner Scott Gottlieb and FDA Center for Biologics Evaluation and Research (CBER) Director Peter Marks detailed plans for the FDA to keep pace with an expected influx of applications for cell and gene therapies over the coming years. Gottlieb and Marks have indicated that by 2020, FDA expects to receive more than 200 active IND applications for cell and gene therapies each year, adding to the 800 active IND applications for such products already filed with FDA. By 2025, they predict that FDA will be approving between 10 and 20 cell and gene therapy products annually. The FDA has also issued final guidance to gene therapy and cell therapy developers, whereby under the Regenerative Medicine Advanced Therapy (“RMAT”) designation, qualified applications will be eligible for FDA priority review and accelerated approval.
+ 
+The global CAR-T therapy market is projected to grow from approximately $300 million in 2018 to greater than $2 billion in 2021, with continued growth up to $8.5 billion in 2028, according to ‘Evaluatepharma’.
+ 
+Allogeneic HSCT Overview and Market Opportunity
+ 
+Allogeneic HSCT, which involves transferring stem cells from a healthy donor to the patient, has demonstrated effectiveness in treating hematological cancers. As depicted below, allogeneic HSCT involves multiple steps:
+ 
+
+· | Collecting blood from a healthy donor;
+--+---------------------------------------
+
+
+· | Processing the donor’s blood to remove the stem cells before returning the rest of the donor’s blood back to the donor;
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+· | Pre-conditioning the patient with high-dose chemotherapy and/or radiation; and
+--+-------------------------------------------------------------------------------
+
+
+· | Infusing the donor’s stem cells into the patient to allow for the production of new blood cells.
+--+-------------------------------------------------------------------------------------------------
+
+
+13
+--
+
+
+
+The overall number of allogeneic HSCT treatments continues to increase annually in the U.S. and abroad. In 2019, approximately 10,000 allogeneic HSCT treatments are expected to be performed in the U.S., with similar trends expected in Europe. 
+ 
+
+14
+--
+
+Market Opportunity
+ 
+CAR-T Therapy
+ 
+The two FDA-approved CAR-T therapies are not without significant limitations. Despite the exciting prospects for treating patients with limited options, significant and potentially life-threatening side-effects from CAR-T therapy, including NT and CRS, remain a significant unmet need that must be addressed. Because NT and CRS can be life-threatening and have proven fatal in many instances, and because each product bears a “Boxed” warning from the FDA (the strictest FDA warning label intended to alert patients and providers about serious and life-threatening risks associated with a particular drug), patients seeking to benefit from Yescarta or Kymriah generally may only do so if the treatment center is in compliance with the Risk Evaluation and Mitigation Strategy (“REMS”) program required by FDA. 
+ 
+REMS is a drug safety program that the FDA can require for certain medications with serious safety concerns to help ensure the benefits of the medication outweigh its risks and are intended to assist and train certified treatment centers on the management of these serious side-effects. For example, each hospital and its associated clinics have a minimum of two doses of tocilizumab available on-site for each patient for the potential treatment of moderate to severe cases of CRS. We believe the REMS requirement may have adversely impacted both market uptake and usage to date. Both CRS and NT are caused by a large-scale release of pro-inflammatory cytokines and chemokines induced by the CAR-T therapy, sometimes referred to as a “cytokine storm”.
+ 
+According to the package inserts for Yescarta and Kymriah, up to 94% of patients treated with Yescarta or Kymriah in the clinical trial setting experienced CRS (with up to 49% of cases being severe or grade >3 in nature) and up to 87% experienced NT (with up to 31% of cases being severe or grade >3 in nature) despite the availability and utilization of tocilizumab. Moreover, based on feedback from leading treatment centers in the U.S., approximately 30 to 60% of patients receiving CAR-T therapy require admission to the intensive care unit (“ICU”) and in some cases require an extended stay, with multiple interventions, including ventilator support and other supportive measures, to be urgently administered to manage these side-effects. Some patients can suffer seizures, coma, brain swelling, heart arrhythmias, organ failure and serious and life-threatening clotting disorders, not only causing more complex and potentially fatal medical consequences, but significantly adding to cost of patient care. These can be particularly challenging and concerning issues, especially in younger and pediatric patients.
+ 
+Researchers who evaluated 1,254 patients who underwent CAR-T therapy at 86 hospitals over the past two years reported that the median ICU stay was 15 to 19 days with a median overall cost ranging from $85,726 to $242,730, not including the cost of the CAR-T therapy itself (Harris, et al. TCT 2019 Abstracts 500, 501). In addition, there have also been deaths reported as a result of these serious side-effects. A publication assessing 636 patients who had received either of the two FDA-approved CAR-T therapies (348 patients on Yescarta and 288 on Kymriah) authored by Anand and Burns, et al. in the Journal of Clinical Oncology (37, 2019 (suppl; abstract 2540)) reported that 15% of CAR-T treated patients (10% receiving Yescarta and 21% receiving Kymriah) died from factors not associated with disease progression (i.e., non-relapse mortality) and the primary driver of non-relapse mortality was NT and/or CRS. Therefore these serious side-effects are associated with significant mortality rates, despite the availability of approved supportive care measures, even as CAR-T therapies are administered only in trained and certified treatment centers staffed by experts in the field. We expect that the CAR-T therapies under development may be hampered by the same significant side-effects. If such side-effects can be ameliorated or eradicated, and adequate data is submitted to FDA, the “Black Box” warning and REMS program could potentially be scaled back or removed.
+ 
+There are currently no FDA-approved products for the prevention or treatment of NT or for the prevention of CRS associated with CAR-T therapy. Medicines used to manage NT and CRS, such as tocilizumab and corticosteroids, have not adequately controlled the side-effects, and steroids may have a detrimental impact on the efficacy of the CAR-T therapy itself while tocilizumab may increase the risk of CAR-T therapy induced NT and is correlated with an increased risk of infections, including severe infections. Further, these medicines have not undergone prospective clinical trials for use in this patient population. Tocilizumab is only approved for the treatment of severe cases of CRS, but is not approved for prevention of CRS, nor is it approved for either prevention or treatment of NT. 
+ 
+
+15
+--
+
+
+The approval in CRS was granted as a result of case studies and not as a result of a planned, prospective clinical study in this patient population, as would be typical. Studies testing tocilizumab for the prevention of NT have shown tocilizumab to significantly worsen the rate of NT across all grades as well as the more serious grades 3 and above, as compared to the rate in patients who did not receive tocilizumab prophylactically. In addition, recent publications question the efficacy of tocilizumab in CRS. For example, studies testing tocilizumab as a prophylactic therapy for CRS have shown the rates of overall CRS remained unaltered as compared to the rate in patients who did not receive tocilizumab prophylactically (Locke et al. American Society of Hematology (“ASH”) 2017, Abstract 1547). Further, a publication authored by Le, et al. in The Oncologist (2018, 28(8); 943-947) assessing 60 patients who had received either Yescarta or Kymriah and had suffered from CRS having received tocilizumab and/or steroids after the onset of CRS, reported that only approximately half of the patients responded at day 11. 
+ 
+These data, along with the Anand/Burns data and the Locke data discussed above, demonstrate that improvements in the ability to prevent or mitigate NT and CRS are needed. Such improvements would help remove these major impediments to uptake and utility of CAR-T therapies, improve healthcare utilization and improve overall patient outcomes. Managing patients with these side-effects can consume a significant amount of in-hospital resources, including extended stays in the ICU. The primary driver of non-drug related costs associated with CAR-T therapy is the length of stay in the hospital, particularly if this includes ICU admission. Non-drug related costs for patients who develop CRS and/or NT are approximately double that of patients who do not develop these serious toxicities. Further, as the potential benefit of CAR-T therapies are explored in earlier lines of hematologic cancers (rather than as salvage therapy for patients who have exhausted other options), as well as moving use of CAR-T therapies into solid tumors, the need to address serious side-effects becomes paramount.
+ 
+In addition to improving patient outcomes, the ability to significantly reduce the incidence and severity of NT and prevent CRS associated with CAR-T therapy may offer significant benefits in making these treatments more cost-effective. Hospital reimbursement for patients who are treated only as an out-patient is profoundly different from, and more favorable to the hospital than, the reimbursement afforded to treatments for patients who are admitted or re-admitted to the hospital within a 72 hour period. Unfortunately, at present, the need to identify, treat and manage NT and CRS generally has prevented CAR-T therapies from being administered, and follow-up care monitored and managed, potentially on an out-patient basis. Again, 30-60% of patients receiving CAR-T therapy require admission to the ICU, in some cases requiring an extended stay, with multiple interventions, investigations and treatments needing to be urgently administered. 
+ 
+As a result, in some institutions, the treating physician may require the hospital to reserve a bed in the ICU as a prerequisite to administering the CAR-T therapy in case the patient needs to be hospitalized in an attempt to manage the adverse effects from NT and CRS. At other institutions, the patient is admitted as an in-patient and is required to remain in the hospital for at least a week, with discharge being subject to satisfactory short-term outcomes and no emergence of complications. Even in institutions where the CAR-T therapy is initially administered in an out-patient setting, the patient is closely monitored daily for several weeks and is required to stay within a short distance from the hospital in case the patient needs to be admitted to the hospital on an emergency basis, requiring additional lodging, food and other costs to be incurred by the patient, the payer, or both. In some situations these patients are re-admitted to the hospital on an emergency basis as an in-patient if complications ensue. If a patient is admitted or re-admitted to the hospital as an in-patient, the hospital reimbursement dynamics may change in a manner which is negative for the hospital, the payer and the patient. This dynamic also changes typical hospital reimbursement, depending on when in the treatment cycle the patient is admitted or re-admitted. In addition, certain treatment centers do not accept patients who are not potentially able to be treated as an out-patient and refer such patients to other centers who may be willing to treat them as in-patients, primarily as a result of the reimbursement handicap that would accrue as a result of in-patient coding, billing and reimbursement, which generally leads to the hospital system losing money because of the in-patient care reimbursement.
+
+The reimbursement challenges associated with CAR-T therapies are also proving to be an impediment to greater utilization of Kymriah and Yescarta in Europe and the United Kingdom, where the National Institute of Clinical Excellence (“NICE”) initially recommended that the UK National Health Service not reimburse Yescarta based on their assessment of the cost per quality-adjusted life-year (“QALY”). A key driver of the cost per QALY is in-patient and potential ICU-related costs. This led to Yescarta having to be funded through other mechanisms. A positive recommendation for use of Yescarta within the Cancer Drugs Fund (“CDF”) was subsequently made by the NICE appraisal committee in January 2019, but only in compliance with a managed access agreement. When the data collection period finishes (anticipated by February 2022), the process for exiting the CDF will begin and the review of NICE’s guidance for Yescarta will start.
+ 
+
+16
+--
+
+
+While both Kymriah and Yescarta have been approved by European regulators for market authorization, prescriptions have been limited as Kite and Novartis work to establish reimbursement arrangements intended to facilitate access to the treatments on a discounted basis consistent with the governmental mandates to curb healthcare spending. These dynamics, and the additional complexity of treating patients with serious and potentially life-threatening side-effects in the hospital and/or ICU, mean that enabling true out-patient administration and follow-up would confer significant benefits to patients, payers and the hospital system. Lenzilumab, if proven to be able to abrogate these serious side-effects as well as improve efficacy, may offer a solution.
+ 
+Other T-cell Engaging Therapies
+ 
+In addition to CAR-T therapy, we are committed to advancing our diverse platform for GM-CSF axis suppression for a broad range of other T-cell engaging therapies, including both autologous and allogeneic next generation CAR-T therapies, bi-specific antibody therapies, as well as other cell-based immunotherapies in development, to break the efficacy/toxicity linkage, including for the prevention and/or treatment of GvHD in patients undergoing allogeneic HSCT. Many of these treatment options may lead to serious side-effects and have ample room for improved efficacy.
+ 
+We believe that GM-CSF neutralization with lenzilumab has the potential to prevent or reduce GvHD without compromising, and potentially improving, the beneficial GvL effect in patients undergoing allogeneic HSCT, thereby making allogeneic HSCT safer. Allogeneic HSCT is a potentially curative therapy for patients with hematological cancers. Although a potentially life-saving treatment for patients suffering from hematological cancers, between 40-60% of patients receiving HSCT treatments experience acute or chronic GvHD, which together carries a 50% mortality rate. After being transplanted into the patient, donor-derived T cells are responsible for mediating the beneficial GvL effect. In many cases, however, donor-derived T cells that remain within the graft itself have also been linked to destruction of healthy tissue in the patient (the host), with particular risk of destroying cells in the patient’s skin, gut, and liver, resulting in GvHD. Although depleting donor grafts of T cells can prevent or reduce the risk of GvHD, this results in a reduced GvL effect, thereby having a detrimental impact on the efficacy of the allogeneic HSCT treatment itself and leading to increased relapse rates. We expect that the use of allogeneic HSCT may be hampered by GvHD complications. A recent study published in ‘blood advances’ an official journal of the American Society of Hematology, suggests that neutralizing or blocking GM-CSF may limit or prevent GvHD in the gastrointestinal tract (Gartlan, K., et al, October 8, 2019, vol 3, no.19).
+ 
+There are currently no FDA-approved agents for the prevention of GvHD, and there is a significant unmet medical need for an agent that can uncouple the beneficial GvL effect from harmful GvHD. At this time, pre-conditioning regimens for HSCT treatments vary significantly by treatment centers, including by unapproved, or “off-label”, use of agents that have been approved by the FDA for other uses only. We believe there to be a significant unmet medical need and lenzilumab, if proven to be able to prevent GvHD in allogeneic HSCTs, may offer a solution.
+ 
+Preclinical studies have shown lenzilumab can potentially be used to cause apoptosis in CMML cells by depriving them of GM-CSF. We completed dosing in a Phase 1 clinical trial in patients with CMML to identify the MTD or recommended Phase 2 dose of lenzilumab and to assess lenzilumab’s safety, pharmacokinetics, and clinical activity and reported the results at the 2019 American Society of Hematology (ASH) conference. 
+
+
+Our Solution
+ 
+We believe that our GM-CSF pathway science, assets and expertise create two technology platforms to assist in the development of next-generation CAR-T therapies. Lenzilumab has the potential to be used in combination with any FDA-approved or development stage T-cell therapies, including CAR-T therapy, as well as in combination with other cell therapies such as HSCT, to make these treatments safer and more effective. In addition, our GM-CSF knockout gene-editing CAR-T platform has the potential to create next-generation CAR-T therapies that may inherently avoid any efficacy/toxicity linkage, thereby potentially preserving the benefits of the CAR-T therapy while reducing or altogether avoiding its serious and potentially life-threatening side-effects.
+
+17
+--
+
+
+In our review of results of CAR-T clinical trials, as well as preclinical animal models that seek to understand the causation of side-effects, we noted from independent researchers that CAR-T infusion leads to an early rise in levels of soluble GM-CSF, a cytokine that we believe is of critical importance in the inflammatory cascade associated with CAR-T therapy related side-effects. GM-CSF is one of only two cytokines that have been clearly demonstrated to be associated with severe NT and early rise in, and peak levels of, GM-CSF are associated with NT. GM-CSF is also implicated in the growth of certain hematologic malignancies, such as chronic myelomonocytic leukemia (“CMML”), juvenile myelomonocytic leukemia (“JMML”), hemophagocytic lymphohistiocytosis (“HLH”), macrophage activation syndrome (“MAS”), certain solid tumors and other serious conditions, particularly a broad range of auto-immune conditions. Moreover, there is an abundance of data demonstrating that GM-CSF is upstream in the cytokine cascade and that the neutralization of GM-CSF is known to inhibit the release of key downstream cytokines known to be associated with CRS and NT.
+ 
+Combining CAR-T Therapies with Lenzilumab 
+ 
+Lenzilumab binds to and neutralizes soluble, circulating GM-CSF, and has been shown to be generally safe and well tolerated in 113 patients in three Phase I and two Phase II studies conducted for other purposes, including a form of leukemia, CMML. As a result, we have an extensive safety, tolerability and pharmacokinetics data package on lenzilumab in clinical use in healthy human volunteers as well as in patients. Accordingly, we believe lenzilumab has the potential to improve the efficacy and safety of CAR-T therapy and that the use of lenzilumab may minimize or eradicate the incidence, frequency, duration and/or severity of NT and/or CRS associated with CAR-T therapy while also enhancing CAR-T proliferation and effector functions and potentially confer additional benefits in terms of durable efficacy and healthcare resource utilization. We also believe lenzilumab may further improve the value proposition of CAR-T therapies and facilitate their use and acceptance throughout the healthcare systems in the U.S. and abroad.
+ 
+A strong scientific rationale exists for GM-CSF neutralization using lenzilumab for the improvement of safety, efficacy and cost-effectiveness of CAR-T therapy. Lenzilumab is in development to significantly reduce the incidence and severity of CAR-T therapy induced NT and CRS, and to improve the overall efficacy and duration of response of CAR-T therapy. Robust scientific rationale and independent scientific research from leading institutions support GM-CSF neutralization as a validated target in this setting. In December 2017, we held a scientific advisory board at the 2017 ASH annual meeting with leading key opinion leaders in the CAR-T field to validate the scientific rationale of lenzilumab prophylactic therapy in combination with CAR-T therapy. Based on feedback received from the advisory board, we created the development plan for lenzilumab. To that end, we initiated preclinical studies using proprietary xenograft models in collaboration with the Mayo Clinic. In addition, and following subsequent scientific advisory boards convened at the 2018 American Society of Clinical Oncology and the 2018 ASH annual meeting, we continued to work with leading key opinion leaders and CAR-T centers to advance lenzilumab into phase Ib/II pivotal trials in combination with FDA-approved, CD19 targeted CAR-T therapies such as Kite’s Yescarta and potentially with Novartis’s Kymriah.
+ 
+Following outreach to key opinion leaders and innovators in the CAR-T field, we have tested the hypothesis of using lenzilumab as a prophylaxis against these side-effects. A preclinical study conducted in 2018 in collaboration with leading researchers at the Mayo Clinic, validated our hypothesis that the use of lenzilumab along with CD19 targeted CAR-T therapy neutralized GM-CSF and significantly reduced NT and CRS. In addition, the Mayo Clinic study showed that the use of lenzilumab enhanced CAR-T proliferation and effector functions, generally improving the efficacy of the CAR-T therapy. This was the first time it has been demonstrated that the toxicities associated with CAR-T therapy can be effectively abrogated in vivo. These data were submitted as an abstract to the ASH and led to a presentation during the CAR-T plenary session at the 2018 annual meeting of the ASH, the receipt of one of ASH’s coveted ‘Outstanding Abstract Achievement Awards’, and an invitation to submit a manuscript to ‘blood’, a premier journal in hematology and the official journal of ASH. The manuscript entitled “GM-CSF inhibition reduces cytokine release syndrome and neuroinflammation but enhances CAR-T cell function in xenografts” was published as a first edition paper by ‘blood’ in the November 21, 2018 online edition. In February 2019, the editors of ‘blood’ selected our study and a key image from the associated manuscript for the front cover of the February 14, 2019 edition of the journal.
+ 
+
+18
+--
+
+
+Our current clinical and regulatory development plan centers around the collaboration agreement we executed with Kite in May 2019 (the “Kite Agreement”). Pursuant to the Kite Agreement, the parties have agreed to conduct a multi-center Phase 1b/2 study (ZUMA-19) of lenzilumab with Kite’s Yescarta in patients with relapsed or refractory B-cell lymphoma. The primary objective of ZUMA-19 is to determine the effect of lenzilumab on the safety of Yescarta. In addition, efficacy and healthcare resource utilization will be assessed. The Kite Agreement is non-exclusive. Depending upon FDA feedback, we believe ZUMA-19 may serve as the basis for registration for lenzilumab.
+ 
+Combining Allogeneic HSCT with Lenzilumab
+ 
+In addition to CAR-T therapy, we are committed to advancing our diverse platform for GM-CSF axis suppression for a broad range of other T-cell engaging therapies, including both autologous and allogeneic next generation CAR-T therapies, bi-specific antibody therapies as well as other cell-based immunotherapies in development, with our current and future partners.
+ 
+We believe that GM-CSF neutralization using lenzilumab has the potential to make allogeneic HSCT safer and more effective. Similar to GM-CSF neutralization with lenzilumab breaking the efficacy/toxicity linkage with CAR-T therapy, GM-CSF neutralization has demonstrated potential to attenuate GvHD while maintaining the beneficial GvL effect in patients undergoing allogeneic HSCT.
+ 
+In July 2019, we entered into the Zurich Agreement with UZH. Under the Zurich Agreement, we have in-licensed certain technologies that we believe may be used to prevent or treat GvHD, thereby expanding our development platform to include improving the safety and effectiveness of allogeneic HSCT, a potentially curative therapy for patients with hematological cancers. The technology was recently featured in a November 2018 research article published in Science Translational Medicine, where the authors demonstrated in a murine model of GvHD, that donor T cell-derived GM-CSF drives GvHD through activation, expansion, and trafficking of myeloid cells but has no effect on the GvL response. Neutralization of GM-CSF (either using a neutralizing antibody or through GM-CSF gene knock-out) was able to uncouple the myeloid-mediated immunopathology resulting in GvHD from the T cell-mediated control of leukemic cells. This discovery provides a clear mechanistic proof-of-concept for neutralizing GM-CSF to prevent GvHD without compromising, and potentially improving, the GvL effect in patients undergoing allogeneic HSCT. Corroborating data related to the critical effect GM-CSF has on GvHD development in HSCT was published recently by Gartlan et al.
+ 
+The strong link between T cell-mediated efficacy and myeloid cell mediated toxicity mirrors the findings that have been reported with CAR-T therapies where T cell-produced GM-CSF has emerged as a key driver of the myeloid inflammatory cascade resulting in NT and CRS and potentially impairing improved CAR-T therapy efficacy through effects on myeloid-derived suppressor cells. GM-CSF neutralization has the potential to eliminate or reduce the off-target inflammatory cascade while preserving the on-target efficacy of T cell therapies, thereby breaking the efficacy/toxicity linkage.
+ 
+We believe that GM-CSF neutralization with lenzilumab has the potential to prevent or treat GvHD without compromising, and potentially improving, the beneficial GvL effect in patients undergoing allogeneic HSCT, thereby making allogeneic HSCT safer. Accordingly, we aim to position lenzilumab as a “must have” companion product to any allogeneic HSCT and as a part of the standard pre-conditioning that all patients receiving allogeneic HSCT should receive or as an early treatment option in patients identified as high risk for GvHD.
+ 
+
+19
+--
+
+
+Lenzilumab in CMML 
+ 
+We believe that lenzilumab also holds promise in CMML, a rare form of hematologic cancer with no FDA-approved treatment options and a three-year overall survival rate of 20% and median overall survival of 20 months, and potentially in JMML, a rare pediatric form of leukemia. CMML is a clonal stem cell disorder of which monocytosis is a key feature. Approximately 40% of CMML patients carry NRAS/KRAS/CBL mutations which are associated with GM-CSF hypersensitivity. CMML has features of myelodysplastic syndrome (“MDS”), including abnormal, dysplastic bone marrow cells; cytopenia; transfusion dependence; and of myeloproliferative neoplasms, including overproduction of white blood cells, organomegaly (e.g., splenomegaly and hepatomegaly) and extramedullary disease. About 15 to 20% of CMML cases progress to acute myeloid leukemia, or AML. According to the American Cancer Society, approximately 1,100 individuals in the United States are newly diagnosed annually with CMML, with the majority of these new patients being age 60 or older. These patients are typically unsuitable for stem cell transplants. 
+ 
+In a recently conducted Phase I study, 3 of 6 patients with NRAS/KRAS/CBL mutations demonstrated a clinical response by the MDS/MPN International Working Group criteria. Final results of this study were presented at the 2019 ASH annual meeting and published in ‘blood’. Building on this successful Phase I study in CMML with lenzilumab, we may initiate a Phase II study in newly-diagnosed CMML patients who express NRAS/KRAS/CBL mutations which are known to be hypersensitive to GM-CSF and therefore may lend themselves to responsiveness to lenzilumab treatment.
+ 
+Gene-edited CAR-T Therapies using GM-CSF Gene Knockout
+ 
+We believe that our GM-CSF knockout gene-editing CAR-T platform has the potential to create next-generation CAR-T therapies that improve the efficacy and safety profile of CAR-T therapy via gene-edited CAR-T cells which can be engineered to lack the ability to produce GM-CSF, thereby avoiding any efficacy/toxicity linkage and potentially preserving and improving upon the benefits of the CAR-T therapy while altogether avoiding its serious and potentially life-threatening side-effects.
+ 
+We are advancing our GM-CSF knockout gene-editing CAR-T platform through the Mayo Agreement that we entered into in June 2019 with the Mayo Foundation. Under the Mayo Agreement, we have in-licensed certain technologies that we believe may be used to create CAR-T cells lacking GM-CSF expression through various gene-editing tools including CRISPR-Cas9. The Mayo Agreement broadened our leadership position in the GM-CSF neutralization space and expanded our discovery platform aimed at improving CAR-T therapy to include gene-edited CAR-T cells.
+ 
+Preclinical data indicates that GM-CSF gene knockout CAR-T cells show improved overall survival compared to GM-CSF-expressing CAR-T cells in addition to the expected benefits of reduced serious side-effects associated with CAR-T therapy. We are establishing a platform of next-generation combinatorial gene knockout CAR-T cells that have potential to be applied across both autologous and allogeneic approaches and we are also investigating multiple CAR-T cell designs using precise dual and triple gene editing to significantly enhance the anti-tumor activity while simultaneously preventing CAR-T therapy induced toxicities. Through targeted gene expression and modulating cytokine activation signaling, we may be able to increase the proportion of fitter T-cells produced during expansion, increase the proliferative potential, and inhibit activation induced cell death, thereby improving the cancer killing activity of our engineered CAR-T cells thereby making them more effective and safer in the treatment of cancers. Preclinical data indicates that CAR-T cells express GM-CSF and signal through GM-CSF receptors upon activation in an autocrine fashion. GM-CSF knockout CAR-T cells are not able to signal through this pathway which results in a gene expression profile distinct from GM-CSF-expressing CAR-T cells after in vitro expansion. This includes lower levels of Fas expression which may indicate a less differentiated state of the CAR-T cells. These data were presented at the 2019 ASH annual meeting and the abstract was the recipient of an Abstract Achievement Award. We continue to explore the phenotypic pattern of GM-CSF knockout CAR-T cells relative to GM-CSF-expressing CAR-T cells and possible implications for improved safety and efficacy. We plan to continue development of this technology in combination approaches that could add to the observed efficacy benefits of current generation CAR-T products. 
+
+
+EphA3-CAR: Targeting Tumor Stroma and Tumor Vasculature
+ 
+We have begun to generate our own pipeline of CAR-T therapies including an EphA3-CAR-T based on the ifabotuzumab v-region and backbone. Ifabotuzumab is a Humaneered anti-EphA3 monoclonal antibody. Ifabotuzumab has the potential to kill tumor cells by targeting tumor stroma that protects them and the vasculature that feeds them. This unique combination of activities as a backbone of a CAR-T therapy may provide the potential to generate durable responses in a range of solid tumors by targeting the tissues that surround, protect, and nourish a growing cancer.
+
+20
+--
+
+
+Eph receptors are critical for cell positioning and movement in fetal development. However, in the adult, EphA3 is not expressed in normal tissue but it is thought to be expressed on the cancer stem cell compartment, in particular the stroma that surrounds and protects the cancer cells and the tumor vasculature that feeds them. EphA3 expression has been reported in the tumor vasculature of human cancers of the brain, kidney, skin, lung, colon, and bladder. GBM is the most common form of brain cancer and the most deadly. Targeting antigens expressed by GBM such as IL-13Ra2 and EGFRvIII is associated with the development of antigen loss variants. There are safety concerns targeting HER2 given its expression in normal adult tissue. EphA3 is increasingly being recognized as a therapeutic target for GBM given its lack of expression in normal adult tissues and its expression on stromal cells that support the cancer’s growth and metastatic potential.
+ 
+Using ifabotuzumab as the backbone, we have generated an EphA3-CAR-T that may be useful in the treatment of a range of solid tumors and presented data at the 2019 SNO annual meeting. EphA3 expression in tumor stroma is controlled by HIF in response to the low oxygen environment that characterizes solid tumors. Preclinical data has shown the EphA3 expressing stroma cells are important for tumor neovascularization.
+ 
+A Phase I safety and imaging trial of radio-labeled ifabotuzumab in recurrent glioblastoma multiforme (GBM), a particularly aggressive and deadly form of brain cancer, is enrolling at two centers in Australia, the Olivia-Newton John Cancer Research Institute in Melbourne (the “ONJCRI”) and the Queensland Institute for Medical Research in Brisbane. Preliminary imaging data reported at AACR in early 2019 and at SNO in late 2019, demonstrated that administration of ifabotuzumab resulted in rapid, specific targeting of GBM tumors in all patients. Whole body bio-distribution imaging demonstrated no normal tissue uptake of the antibody. Post-treatment MRI scans showed predominant T2/Flair changes which were consistent with treatment effect on tumor vasculature.
+ 
+By developing an EphA3-CAR-T using ifabotuzumab as the backbone, we may have the ability to target the tumor, tumor stroma, and tumor vasculature in a novel manner. We are collaborating with the Mayo Clinic and plan to move to clinical testing with an anti-EphA3 construct for a range of cancer types after completing IND-enabling work.
+ 
+EMR1-CAR: Targeting Eosinophils
+ 
+Our EMR1-CAR-T product is based on the HGEN005 (anti-EMR1 Humaneered monoclonal antibody) backbone and targets EMR1.
+ 
+A major limitation of current eosinophil-targeted therapies is incomplete depletion of tissue eosinophils and/or lack of cell selectivity. Eosinophils are a type of white blood cell. If too many eosinophils are produced in the body, chronic inflammation and tissue and organ damage may result. The origin and development of eosinophilic disorders is mostly due to eosinophils infiltrating tissue. EMR1 is expressed exclusively on eosinophils, making it an ideal target for the treatment of eosinophilic disorders. Regardless of the eosinophilic disorder, mature eosinophils express EMR1 in tissue, blood and bone marrow in patients with eosinophilia. Our EMR1-CAR-T based on the HGEN005 backbone is another approach in our growing platform of CAR-T therapies. We believe that because of its high selectivity, EMR1-CAR-T has significant potential to treat serious eosinophil diseases. 
+
+
+In preclinical work, HGEN005’s anti-EMR1 activity resulted in dramatically enhanced NK killing of eosinophils from normal and eosinophilic donors and also induced a rapid and sustained depletion of eosinophils in a non-human primate model without any clinically significant adverse events. We have engaged with NIH to discuss expanding the initial work they have conducted utilizing HGEN005 and discussions are underway with a leading center in the U.S. to perform the IND-enabling testing in eosinophilic leukemia, an orphan condition with significant unmet need, as well as with several other potential partners, although we cannot assure you that we will reach any agreements for these next steps.
+ 
+
+21
+--
+
+Kite Collaboration
+ 
+Our current clinical and regulatory development plan centers around the Kite Agreement we executed in May 2019. Pursuant to the Kite Agreement, the parties have agreed to conduct a multi-center Phase 1b/2 study (ZUMA-19) of lenzilumab with Kite’s Yescarta in patients with relapsed or refractory B-cell lymphoma, including DLBCL. The primary objective of ZUMA-19 is to determine the effect of lenzilumab on the safety of Yescarta. In addition, efficacy and healthcare resource utilization will be assessed. Kite is the sponsor of ZUMA-19 and responsible for its conduct. 
+ 
+The Kite Agreement provides that we and Kite will split only the out-of-pocket costs incurred in conducting the ZUMA-19 study, including third-party expenses incurred in accordance with a mutually agreed budget. We currently project we will be responsible for an aggregate of up to approximately $8 million in out-of-pocket costs, assuming up to a total of 72 patients are recruited for a multi-center study. Each party will otherwise be responsible for its own internal costs, including internal personnel costs, incurred in connection with the Study.
+ 
+In addition, the parties have agreed to enter into certain additional agreements in connection with ZUMA-19, including a quality and a supply agreement that will obligate us, at our expense, to supply certain quantities of lenzilumab in final form for administration to subjects in ZUMA-19. Kite is responsible, at its expense, to supply Yescarta. Kite will be responsible for other costs related to ZUMA-19. 
+ 
+The parties have formed a Joint Development Committee (“JDC”) to oversee ZUMA-19, its progress and administration, and other matters between the parties and their obligations set forth in the Kite Agreement. The JDC comprises representatives of each of Humanigen and Kite. Kite’s JDC designees will have decision-making authority with respect to (1) certain operational matters in conducting ZUMA-19, such as selection of participating sites and engagement of third party service providers; and (2) amendments to the ZUMA-19 protocol established by the JDC that do not directly relate to our investigational product or the part of the ZUMA-19 Study combination that consists solely of our investigational product; but only, in each case, to the extent that such decisions by the Kite JDC designees do not result in an increase in the mutually agreed-upon budget by fifteen percent or more. Neither Kite designees nor our designees will have final decision making authority on matters directly related to the investigational product of the other party, including the other party’s investigational product that is used in or a part of ZUMA-19.
+ 
+We and Kite will jointly own all ZUMA-19 data and sample data, including case report forms, findings, conclusions and other results from ZUMA-19 that relates to each party’s investigational product that is used in combination or sequence in ZUMA-19, and not solely to either party’s investigational product. ZUMA-19 data and sample data that relates solely to a party’s own investigational product will be owned solely by that party. We and Kite will own our respective background intellectual property and neither party has been granted a commercial license to use the respective background intellectual property of the other party. Each party will own any inventions that relate to its own investigational product used in ZUMA-19 or sample data, however, any new inventions related to, or covering, the combination of each party’s investigational product used in ZUMA-19 will be jointly owned by the parties. Kite will control any preparation, filing, prosecution and maintenance of any patent covering any new inventions related to, or covering, the combination of each party’s investigational product used in ZUMA-19 and the parties will equally share costs for all such patents. We will continue to own all world-wide rights to lenzilumab and the intellectual property related to lenzilumab, including use of lenzilumab with CAR-T therapy.
+ 
+Unless previously terminated, the Kite Agreement will continue until the first anniversary of the date Kite provides the final ZUMA-19 Study report to us or the termination of the Study. Kite may elect to terminate or suspend the Study at any time. Each party may terminate the Kite Agreement under certain circumstances, including (1) for an uncured breach by the other party; (2) if a party determines that the Study may unreasonably affect patient safety; (3) upon certain actions by regulatory authorities that are adverse to the Study; or (4) if a party determines to discontinue the development of its investigational product.
+ 
+
+22
+--
+
+
+The Kite Agreement imposes additional obligations on the parties, such as confidentiality obligations, obligations to comply with applicable law related to patient privacy and data protection, and potential indemnification obligations. The Kite Agreement is non-exclusive.
+ 
+Worldwide License for the Prevention of GvHD through GM-CSF Neutralization from UZH
+ 
+In July 2019, we entered into the Zurich Agreement with UZH. Under the Zurich Agreement, we have in-licensed certain technologies that we believe may be used to prevent GvHD through GM-CSF neutralization. The Zurich Agreement covers various patent applications filed by UZH which complement and broaden our position in the application of GM-CSF neutralization and expands our development platform to include improving allogeneic HSCT.
+ 
+Worldwide License to Gene-Editing Technology from the Mayo Foundation
+ 
+In June 2019, we entered into an exclusive worldwide license with the Mayo Foundation. Under the Mayo Agreement, we have in-licensed certain technologies that we believe may be used to create CAR-T cells lacking GM-CSF expression through various gene-editing tools including CRISPR-Cas9. The license covers various patent applications and know-how developed by the Mayo Foundation in collaboration with us. These licensed technologies complement and broaden our leadership position in the CAR-T/GM-CSF neutralization space and expand our discovery platform aimed at improving CAR-T therapy to include gene-edited CAR-T cells. With this license agreement, we significantly expanded our intellectual property portfolio to include gene-edited CAR-T cells which can be engineered to lack the ability to produce GM-CSF which may improve the efficacy and safety profile of CAR-T therapy. In addition, we have and continue to file intellectual property encompassing a broad range of gene-editing approaches related to GM-CSF knockout. 
+ 
+Lenzilumab
+ 
+Overview and Mechanism of Action
+ 
+Lenzilumab, previously referred to as KB003, is a novel monoclonal antibody designed to target and neutralize human GM-CSF, which could also be described as a ‘myeloid inflammatory factor’. We used our proprietary and patent-protected Humaneered antibody development platform to develop lenzilumab. 
+
+
+We have completed a 160 patient Phase II study with lenzilumab in severe asthma. Lenzilumab was found to be safe and well-tolerated in the 78 patients who received it in the active treatment arm of the study. There was a trend toward improved respiratory function and a statistically significant improvement in patients with eosinophilic asthma (measured by standard forced expiratory volume measures at 24 weeks vs. baseline). These data were published in the British Medical Journal.
+
+
+There is extensive evidence linking GM-CSF expression to serious and potentially life-threatening side-effects in CAR-T therapy and reduced efficacy through recruitment of MDSCs. Our focus for lenzilumab development is investigating its potential to improve efficacy of CAR-T therapy and to prevent or ameliorate CAR-T therapy-related NT and CRS. Following CAR-T therapy administration, GM-CSF produced by CAR-T cells initiates a signaling cascade of inflammation that results in the trafficking and recruitment of myeloid cells to the tumor site. These myeloid cells produce key cytokines known to be associated with the development of NT and CRS thereby perpetuating the inflammatory cascade. Peer-reviewed publications in leading journals by well-recognized experts have reported that GM-CSF blood levels are elevated early after CAR-T cell administration and reach significant peak levels in patients who suffer serious NT as a side-effect of CAR-T therapy.
+ 
+
+23
+--
+
+
+GM-CSF seems to be critical for the initiation of CRS, NT and the inflammatory cascade following CAR-T administration. GM-CSF acts as an upstream ‘initiator’ and the precursor to other cytokines involved in the cascade. GM-CSF gene knock-out (k/o) mice, or animals that lack a functional myeloid compartment, do not develop CRS and have normal levels of downstream cytokines, including IL-6, IL-1 and MCP-1/CCL2. Animals that are k/o for IL-1, INF-gamma and IL-6 still develop CRS in models which recapitulate this syndrome. This is very telling, given that some investigators believe IL-6 to be causative of CRS. In addition, in pivotal clinical studies, IL-6 has not been shown to correlate with severe NT or CRS emergence. The lack of GM-CSF does not affect T-cell mediated cancer-killing, or cytotoxicity, as GM-CSF k/o animals had equivalent effector to target cell (E:T) ratios and cytotoxic activity against tumor cells in our published studies. GM-CSF is required for CCR2+ monocytes to initiate and sustain neuro-inflammation. It is postulated that GM-CSF induces CCR2+ inflammatory myeloid derived cells to infiltrate into the CNS, activating microglial cells; the activated microglial cells then increase their expression of CCL2/MCP-1 to further recruit inflammatory myeloid cells in a self-perpetuating manner, forming a positive feedback loop. Research from CAR-T clinical trials demonstrated that fever and elevated MCP-1 levels 36 hours post CAR-T treatment were most predictive of severe CRS and NT across patients with NHL, ALL and CLL, providing further support for the mechanism by which GM-CSF may contribute to these toxicities. 
+
+
+There are many other publications that point to the pivotal role of GM-CSF in CRS and NT, as well as potentially hampering efficacy. Based on these publications and extensive discussions with leading key opinion leaders, we believe that lenzilumab, used as alongside CAR-T therapy offers a number of potential benefits, including:
+ 
+
+· | Lower rates of severe/grades >3 CRS and all grades of CRS;
+--+-----------------------------------------------------------
+
+
+· | Lower rates of severe/grades >3 NT and all grades of NT;
+--+---------------------------------------------------------
+
+
+· | Lower rates of ICU admissions and duration of hospitalization;
+--+---------------------------------------------------------------
+
+
+· | Improved anti-tumor response (e.g. ORR, CR) and overall patient outcomes;
+--+--------------------------------------------------------------------------
+
+
+· | Improved duration of response and reduced relapse rates;
+--+---------------------------------------------------------
+
+
+· | Improved cost effectiveness and reduced direct/indirect costs;
+--+---------------------------------------------------------------
+
+
+· | Improved reimbursement, and preferential formulary placement for CAR-T;
+--+------------------------------------------------------------------------
+
+
+· | Expansion of CAR-T beyond the relapse/refractory setting to second-line and potential first-line use due to improved benefit-risk profile, increasing utilization to a significantly larger pool of patients;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Expansion of CAR-T into solid tumor treatments; and
+--+----------------------------------------------------
+
+
+· | Scaling back or removal of current CAR-T required REMS programs and “Black Box” warnings due to improved benefit-risk profile of CAR-T.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Preclinical studies in mice conducted at the Mayo Clinic using human ALL blasts, human CD19 CAR-T, and human peripheral blood mononuclear cells (PBMCs), demonstrated that blockade of GM-CSF with lenzilumab prevented the onset of CRS, reduced neuro-inflammation by 75% (as assessed by quantitative MRI) and maintained the integrity of the blood-brain barrier (BBB) compared to CAR-T plus control antibody treatment, where CRS, neuro-inflammation and BBB disruption can be profoundly affected. The administration of lenzilumab in combination with CAR-T therapy led to a significant (5-fold) increase in proliferation of CAR-T cells and improved CAR-T effector function, presumably due to a decrease in MDSC expansion and trafficking which is known to be promulgated by GM-CSF. GM-CSF neutralization in combination with CAR-T therapy reduced relapse, enhanced anti-tumor response and improved overall survival compared to CAR-T therapy alone and these data were published in ‘blood’. Moreover, the combination of lenzilumab and CAR-T reduced myeloid cell infiltration into the CNS and resulted in significantly better leukemic control as quantified by flow cytometry compared to CAR-T and control antibody. Human data from CAR-T clinical trials suggests that the only cytokines associated with grade > 3 NT are GM-CSF, IL-2 and IL-15. Moreover, in patients who developed severe NT, there was a 17-fold increase in myeloid cell trafficking into the CNS further establishing the role of GM-CSF in the expansion and trafficking of myeloid cells in the toxicities associated with CAR-T therapy.
+ 
+We are also developing lenzilumab alongside allogeneic HSCT for patients with hematological cancers. Accordingly, we are assessing plans to investigate use of lenzilumab as a necessary companion product to any allogeneic HSCT and as a part of the standard pre-conditioning that all patients receiving allogeneic HSCT should receive or as an early treatment option for patients identified as high risk by certain biomarkers.
+ 
+
+24
+--
+
+
+Clinical data also shows the potential for lenzilumab as a treatment for certain autoimmune and other inflammatory conditions, including eosinophilic asthma, rheumatoid arthritis (RA), ankylosing spondylitis (“AS”), psoriatic arthritis (“PsA”), inflammatory bowel disease (“IBD”), juvenile idiopathic arthritis (“JIA”), giant cell arteritis (“GCA”), atopic dermatitis (“AD”) and systemic lupus erythematosus (“SLE”). There is potential for a range of other oncology, immunology and autoimmune conditions and we are investigating partnering lifecycle management opportunities for lenzilumab in high value markets with strong unmet medical needs. 
+
+
+Development Program
+ 
+As a Sequenced Therapy In Combination with CD19 Targeted CAR-T Therapies
+ 
+Our current clinical and regulatory development plan centers around the Kite Agreement we executed in May 2019. Pursuant to the Kite Agreement, the parties have agreed to conduct a multi-center Phase 1b/2 study (ZUMA-19) of lenzilumab with Kite’s Yescarta in patients with relapsed or refractory B-cell lymphoma, including DLBCL which is currently enrolling. Kite is the sponsor of ZUMA-19 and is responsible for its conduct. The primary objective of ZUMA-19 is to determine the effect of lenzilumab on the safety of Yescarta. In addition, efficacy and healthcare resource utilization will be assessed.
+ 
+Kite’s Yescarta is one of two CAR-T therapies that have been approved by FDA and is the leading CAR-T by revenue. Our collaboration with Kite is the only current clinical collaboration that is enrolling patients with the potential to improve both the safety and efficacy of CAR-T therapy. The Kite Agreement is non-exclusive. Depending upon FDA feedback, we believe ZUMA-19 may serve as the basis for registration for lenzilumab.
+ 
+As a Companion to Allogeneic HSCT
+ 
+We believe lenzilumab has potential to prevent or reduce GvHD in allogeneic HSCT, thereby making allogeneic HSCT safer as a potentially curative therapy for patients with hematological cancers. In July 2019, we entered into an exclusive worldwide license agreement with UZH. Under the Zurich Agreement, we have in-licensed certain technologies that we believe may be used to prevent GvHD through GM-CSF neutralization, thereby expanding our development platform to include improving the safety and effectiveness of allogeneic HSCT. A recent study published in ‘blood advances’, an official journal of the American Society of Hematology, suggests that neutralizing or blocking GM-CSF may limit or prevent GvHD in the gastrointestinal tract (Gartlan, K., et al, October 8, 2019, vol 3, no.19).
+ 
+We plan to study lenzilumab as a companion to allogeneic HSCT for patients with hematological cancers. Accordingly, we are working to initiate pivotal Phase II/III studies of lenzilumab prophylaxis or early treatment in combination with allogeneic HSCT with a primary objective of preventing or reducing acute GvHD. 
+ 
+COVID-19
+ 
+We are exploring the potential for use of lenzilumab to prevent the emergence of CRS in COVID-19. According to a recent paper published in The Lancet, patients infected with SARS-CoV-2 have high serum amounts of GM-CSF, MCP1, IL1b, INFg, IP10; patients requiring ICU admission had higher concentrations of GCSF, IP10, MCP1, MIP1a, and TNFa and it has been shown that GM-CSF, MCP1, MIP1a, IL1b, and IP10 are all produced by GM-CSF activated myeloid cells. The cytokine storm seen in the context of CAR-T therapy appears to follow the same cascade as in SAR-CoV-2 infection and the COVID-19 disease process.
+
+
+
+25
+--
+
+Other Inflammatory Conditions
+ 
+Previous clinical studies of lenzilumab include a repeat-dose, Phase II clinical trial of lenzilumab in RA with the inclusion of a safety run-in portion. On completing the safety run-in portion of this trial, which showed lenzilumab to be well tolerated with no clinically significant adverse events, we reassessed the increasingly competitive RA market and chose to redirect our study of lenzilumab to other areas given the competitive intensity and diminishing levels of unmet need in RA relative to some other medical areas. Results from a subsequent randomized, double-blinded, placebo-controlled, repeat dose, Phase II clinical trial in severe asthma, showed a statistically significant benefit on patients with eosinophilic asthma. As a result of a strategic shift and other corporate activities, we terminated development of lenzilumab in severe asthma. We have generated safety and tolerability data in 113 patients in various clinical studies, including in CMML, and have demonstrated lenzilumab to be safe and well- tolerated in these settings.
+ 
+Gene-edited CAR-T Therapies using GM-CSF Gene Knockout
+ 
+We believe that our GM-CSF knockout gene-editing CAR-T platform has the potential to create next-generation CAR-T therapies that improve the efficacy and safety profile of CAR-T therapy via gene-edited CAR-T cells which can be engineered to lack the ability to produce GM-CSF, thereby avoiding any efficacy/toxicity linkage and potentially preserving and improving upon the benefits of the CAR-T therapy while altogether avoiding its serious and potentially life-threatening side-effects. 
+
+
+We are advancing our GM-CSF knockout gene-editing CAR-T platform through the Mayo Agreement that we entered into in June 2019 with the Mayo Foundation. Under the Mayo Agreement, we have in-licensed certain technologies that we believe may be used to create CAR-T cells lacking GM-CSF expression through various gene-editing tools including CRISPR-Cas9. The Mayo Agreement broadened our leadership position in the GM-CSF neutralization space and expanded our discovery platform aimed at improving CAR-T therapy to include gene-edited CAR-T cells.
+ 
+Preclinical data indicates that GM-CSF knockout CAR-T cells show improved overall survival compared to GM-CSF-expressing CAR-T cells, in addition to the expected benefits of reduced serious side-effects associated with CAR-T therapy. We are establishing a platform of next-generation combinatorial gene knockout CAR-T cells that have potential to be applied across both autologous and allogeneic approaches and we are also investigating multiple CAR-T cell designs using precise dual and triple gene editing to significantly enhance the anti-tumor activity while simultaneously preventing CAR-T therapy induced toxicities. Through targeted gene expression and modulating cytokine activation signaling, we may be able to increase the proportion of fitter T-cells produced during expansion, increase the proliferative potential, and inhibit activation-induced cell death, thereby improving the cancer killing activity of our engineered CAR-T cells thereby making them more effective and safer in the treatment of cancers. Preclinical data indicates that CAR-T cells express GM-CSF and signal through GM-CSF receptors upon activation in an autocrine fashion. GM-CSF knockout CAR-T cells are not able to signal through this pathway which results in a gene expression profile distinct from GM-CSF-expressing CAR-T cells after in vitro expansion. This includes lower levels of Fas expression which may indicate a less exhausted state of the CAR-T cells. These data were presented at the 2019 ASH annual meeting.
+ 
+We continue to explore exhaustion markers of GM-CSF knockout CAR-T cells relative to GM-CSF-expressing CAR-T cells and possible implications for improved safety and efficacy. We plan to continue development of this technology in combination approaches that could add to the observed efficacy benefits of current generation CAR-T products.
+ 
+Ifabotuzumab
+ 
+Ifabotuzumab is a Humaneered immunotherapy, formerly referred to as KB004, which targets the EphA3 receptor, and in which the antibody carbohydrate chains lack fucose, thereby enhancing the targeted cell-killing activity of the antibody. We believe that ifabotuzumab has the potential for treating solid tumors, hematologic malignancies and serious pulmonary conditions. In 2006, we entered into a license agreement with Ludwig Institute of Cancer Research (“LICR”) pursuant to which LICR granted certain exclusive rights to the ifabotuzumab prototype (referred to as IIIA4) as well as EphA3 intellectual property.
+
+26
+--
+
+
+Ifabotuzumab binds to the EphA3 receptor, which plays an important role in cell positioning and tissue organization during fetal development, but is not thought to be expressed nor play a significant role in healthy adults. EphA3 is a tyrosine kinase receptor, aberrantly expressed on the tumor cell surface in a number of hematologic malignancies and solid tumors. It is also expressed in the stem cell compartment, which includes malignant stem cells, the vasculature that feeds them, and the stromal cells that protect them. EphA3 expression has been documented in a number of hematologic and solid tumor types, including AML, chronic myelogenous leukemia (“CML”), CLL, MDS, myelofibrosis, multiple myeloma, melanoma, breast cancer, small and non-small cell lung cancer (“SCLC” and “NSCLC”), colorectal cancer, gastric cancer, renal cancer, GBM, and prostate cancer, making it an attractive target for a range of cancers. Publications related to certain cancers have indicated that EphA3 tumor cell expression correlates with cancer growth and a poor prognosis. EphA3 is overexpressed in GBM and, in particular, in the most aggressive mesenchymal subtype. Importantly, EphA3 is highly expressed on the tumor-initiating cell population in glioma and appears to be critically involved in maintaining tumor cells in a less differentiated state by modulating mitogen-activated protein kinase signaling. EphA3 knockdown or depletion of EphA3-positive tumor cells may reduce tumorigenic potential to a degree comparable to treatment with a therapeutic radiolabeled EphA3-specific monoclonal antibody. We believe EphA3 is a functional, targetable receptor in GBM and other solid tumors as well as certain lymphomas and leukemias. A study published in December 2018 in ‘Cancers’ showed that an antibody drug conjugate (“ADC”) comprising IIIA4 (a predecessor monoclonal antibody and prototype for ifabotuzumab) showed significant survival benefit in mice with GBM. 
+
+
+Anti-EphA3 treatment has shown encouraging preclinical results in multiple experiment types, including patient primary tumor cell assays, colony forming assays, and xenograft mouse models. Upon binding to EphA3, ifabotuzumab causes cell killing to occur either through antibody-dependent, cell-mediated cytotoxicity or through direct apoptosis, and in the case of tumor neovasculature, through cell rounding and blood vessel disruption. Given the expression pattern of EphA3 in multiple tumor types, ifabotuzumab may have the potential to kill cancer cells and the tumor stem cell microenvironment, providing for long-term responses while sparing normal cells.
+ 
+Further, by developing ifabotuzumab as the backbone for a next generation CAR-T construct, we may have the ability to target both the tumor, tumor stroma, and tumor vasculature in a novel manner and build on the experience with current second generation CD19 CAR-T therapies. We are collaborating with the Mayo Clinic to make a series of CAR-T constructs based on ifabotuzumab, of which initial constructs have been created and data presented at the 2019 SNO annual meeting, and plan to move to preclinical testing with these constructs for a range of cancer types. EphA3 is a tumor specific antigen expressed on the surface of a multitude of solid tumor cells, tumor stroma cells and tumor vasculature in certain cancers. We completed the Phase I dose escalation portion of a Phase I/II clinical trial of ifabotuzumab in multiple hematologic malignancies for which the preliminary results were published in the journal Leukemia Research in 2016. A Phase I safety and imaging trial of radio-labeled ifabotuzumab in recurrent glioblastoma multiforme, a particularly aggressive and deadly form of brain cancer, has almost fully enrolled at two centers in Australia, the ONJCRI in Melbourne and the Queensland Institute for Medical Research in Brisbane and data have been presented at both AACR and SNO in 2019. The lead investigators at the ONJCRI, are also evaluating an antibody-drug conjugate (“ADC” or “ADCs”) based on ifabotuzumab in tumor models. The current clinical trial has enrolled eight patients to date, and is expected to complete enrollment with a total of twelve patients. Preliminary imaging data reported at AACR and at SNO demonstrated that administration of ifabotuzumab resulted in rapid, specific targeting of GBM tumors in all patients. Whole body bio-distribution imaging demonstrated no normal tissue uptake of the antibody. Post-treatment MRI scans showed predominant T2/Flair changes which were consistent with treatment effect on tumor vasculature. We continue to explore partnering opportunities to facilitate the further development of ifabotuzumab in a range of cancer types.
+ 
+We are in discussions with separate and various parties and may initiate partnerships to pursue some of the following activities:
+ 
+
+· | Initiate and complete preclinical studies with a CAR-T product;
+--+----------------------------------------------------------------
+
+
+· | Complete the on-going clinical study and preclinical studies with various ADCs that are based on ifabotuzumab (in partnership with leading centers in Australia); and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+27
+--
+
+
+· | Develop bi-specific antibodies based on ifabotuzumab.
+--+------------------------------------------------------
+
+ 
+We have conducted a Phase I/II trial for ifabotuzumab in multiple hematologic malignancies. The most common adverse event attributed to ifabotuzumab in this trial was infusion reactions (chills, fever, nausea, hypertension, and rapid heart rate) which is an expected safety finding based on the mechanism of action. The majority of infusion reactions were mild-to-moderate in severity and resolved with temporary stoppage of infusion and/or use of medications to treat symptoms. In 2014, we completed the Phase I dose escalation portion of our study, primarily treating patients with AML as well as patients with MDS and myelofibrosis (“MF”). Responses were observed in patients with AML, MF and MDS. In this study, ifabotuzumab was well tolerated and clinically active when given as a weekly infusion.
+ 
+Centers in Australia have worked independently on IIIA4, the murine antibody parent of ifabotuzumab, as an ADC in mice and a December 2018 publication in the journal ‘Cancers’ showed that in mice engrafted with GBM, treatment with an ADC based on IIIA4 showed significantly improved survival. 
+
+
+HGEN005
+ 
+Our EMR1-CAR-T product is based on the HGEN005 (anti-EMR1 monoclonal antibody) backbone and targets EMR1.
+ 
+A major limitation of current eosinophil-targeted therapies is incomplete depletion of tissue eosinophils and/or lack of cell selectivity. Eosinophils are a type of white blood cell. If too many eosinophils are produced in the body, chronic inflammation and tissue and organ damage may result. The origin and development of eosinophilic disorders is mostly due to eosinophils infiltrating tissue. EMR1 is expressed exclusively on eosinophils, making it an ideal target for the treatment of eosinophilic disorders. Regardless of the eosinophilic disorder, mature eosinophils express EMR1 in tissue, blood and bone marrow in patients with eosinophilia. Our EMR1-CAR-T based on the HGEN005 backbone is another approach in our growing platform of CAR-T therapies. We believe that because of its high selectivity, EMR1-CAR-T has significant potential to treat serious eosinophil diseases.
+ 
+In preclinical work, HGEN005’s anti-EMR1 activity resulted in dramatically enhanced NK killing of eosinophils from normal and eosinophilic donors and also induced a rapid and sustained depletion of eosinophils in a non-human primate model without any clinically significant adverse events. We have engaged with NIH to discuss expanding the initial work they have conducted utilizing HGEN005 and discussions are underway with a leading center in the U.S. to perform the IND-enabling testing in eosinophilic leukemia, an orphan condition with significant unmet need, as well as with several other potential partners, although we cannot assure you that we will reach any agreements for these next steps.
+ 
+Our Humaneered Technology 
+ 
+Our proprietary and patented Humaneered technology platform is a method for converting existing antibodies (typically murine) into engineered, high-affinity human antibodies designed for therapeutic use, particularly for chronic conditions. We have developed or in-licensed targets or research (mouse) antibodies, typically from academic institutions, and then applied our Humaneered technology to them. Lenzilumab, ifabotuzumab and HGEN005 are Humaneered antibodies. In aggregate, our Humaneered antibodies have been tested clinically in more than 200 patients with no evidence of serious immunogenicity. Our Humaneered antibodies are closer to human antibodies than chimeric or conventionally humanized antibodies and have a high affinity for their target but low immunogenicity. Specifically, our Humaneered technology generates an antibody from an existing antibody with the required specificity as a starting point and, we believe, provides the following additional advantages:
+
+· | retention of identical target epitope specificity of the starting antibody and frequent generation of higher affinity antibodies;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+28
+--
+
+
+· | very-near-to-human germ line sequence, which we believe means our Humaneered antibodies are less likely to induce an inappropriate immune response in broad patient populations when used chronically than chimeric or conventionally humanized antibodies, which has proven to be the case in clinical studies;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | high potency and slow off-rate of the antibody;
+--+------------------------------------------------
+
+
+· | antibodies with physiochemical properties that facilitate process development and formulation (lack of aggregation at high concentration);
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | high solubility;
+--+-----------------
+
+
+· | high antibody expression yields that potentially provide cost-of-goods benefits; and
+--+-------------------------------------------------------------------------------------
+
+
+· | an optimized antibody processing time of three to six months.
+--+--------------------------------------------------------------
+
+ 
+As we are focused on progressing our current portfolio of antibodies through clinical development and out-licensing, we are not currently dedicating additional resources to the research or development of additional Humaneered antibodies other than our existing portfolio of lenzilumab, ifabotuzumab and HGEN005. 
+
+
+Intellectual Property
+ 
+Intellectual property is an important part of our strategy. We have and continue to file aggressively on our own inventions and in-license intellectual property and technology as it relates to our therapeutic interests.
+Licensing and Collaborations
+ 
+The University of Zurich
+ 
+On July 19, 2019, we entered into the Zurich Agreement with UZH. Under the Zurich Agreement, we have in-licensed certain technologies that we believe may be used to prevent GvHD through GM-CSF neutralization. The Zurich Agreement covers various patent applications filed by UZH which complement and broaden our position in the application of GM-CSF neutralization and expands our development platform to include improving allogeneic HSCT.
+ 
+The Zurich Agreement required an initial one-time payment of $100,000, which we paid to UZH on July 29, 2019. The Zurich Agreement also requires the payment of annual license maintenance fees, as well as milestones and royalties upon the achievement of certain regulatory and commercialization milestones.
+ 
+The Mayo Foundation for Medical Education and Research
+ 
+On June 19, 2019, we entered into the Mayo Agreement with the Mayo Foundation. Under the Mayo Agreement, we have in-licensed certain technologies that we believe may be used to create CAR-T cells lacking GM-CSF expression through various gene-editing tools including CRISPR-Cas9. The license covers various patent applications and know-how developed by Mayo Foundation in collaboration with us. These licensed technologies complement and broaden our position in the GM-CSF neutralization space and expand our discovery platform aimed at improving CAR-T to include gene-edited CAR-T cells.
+ 
+Pursuant to the Mayo Agreement, we were required to pay $200,000 to the Mayo Foundation within six months of the effective date of the Mayo Agreement, or upon completion of a qualified financing, whichever is earlier. We did not make the initial payment as of the due date and until the payment is made, the overdue amount will incur interest on the unpaid balance at the prime rate plus 2%. The Mayo Agreement also requires the payment of milestones and royalties upon the achievement of certain regulatory and commercialization milestones.  
+ 
+Kite
+ 
+On May 30, 2019, we entered into the Kite Agreement. Pursuant to the Kite Agreement, the parties agreed to conduct a multi-center Phase Ib/II study (ZUMA-19) of lenzilumab with Kite’s Yescarta in patients with relapsed or refractory B-cell lymphoma. The primary objective of ZUMA-19 is to determine the effect of lenzilumab on the safety of Yescarta. Various other important parameters, including efficacy and healthcare resource utilization, will also be measured. Kite is the sponsor of ZUMA-19 and responsible for its conduct.
+
+29
+--
+
+
+The Kite Agreement provides that we and Kite will split only the out-of-pocket costs incurred in conducting ZUMA-19, including third-party expenses incurred in accordance with a mutually agreed budget. We currently project we will be responsible for an aggregate of up to approximately $8 million in out-of-pocket costs, assuming up to a total of 72 patients are recruited for ZUMA-19 as a multi-center Study. Each party will otherwise be responsible for its own internal costs, including internal personnel costs, incurred in connection with ZUMA-19.
+ 
+The Ludwig Institute for Cancer Research
+ 
+In 2004, we entered into a license agreement with the LICR pursuant to which LICR granted to us an exclusive license for intellectual property rights and materials related to chimeric anti-GM-CSF antibodies that formed the basis for lenzilumab. Under the agreement, we were granted an exclusive license to develop antibodies related to LICR’s antibodies against GM-CSF. We are responsible for using commercially reasonable efforts to research, develop, and sell lenzilumab. We pay LICR a quarterly license fee and are obligated to pay to LICR a royalty from 1.5% to 3% of net sales of licensed products, subject to certain potential offsets and deductions. Our royalty obligation applies on a country-by-country and licensed product-by-licensed product basis, and will begin on the first commercial sale of a licensed product in a given country and end on the later of the expiration of the last to expire patent covering a licensed product in a given country (which in the U.S. is currently expected in 2029 for the composition of matter and 2038 for methods of use in CAR-T) or 10 years from first commercial sale of such licensed product in the country. We must also pay to LICR a certain percentage of sublicensing revenue received by us. Payments made to LICR under this license for the twelve months ended December 31, 2019 and 2018 were $0.1 million and $0.1 million, respectively. 
+Other License Agreements
+ 
+LICR and ifabotuzumab
+ 
+In 2006, we entered into a license agreement with LICR pursuant to which LICR granted to us certain exclusive rights to the ifabotuzumab prototype (IIIA4) which targets the EphA3 receptor and EphA3-related intellectual property. Under the agreement, we obtained rights to develop and commercialize products made through use of licensed patents and any improvements thereto, including human or Humaneered antibodies that bind to or modulate EphA3. We paid LICR an upfront option fee of $0.05 million and a further $0.05 million upon our exercise of the option for the exclusive license outlined above. We are responsible for contingent milestone payments of less than $2.5 million and royalties of 3% of net sales subject to certain potential offsets and deductions. In addition, we are obligated to pay to LICR a percentage of certain payments we receive from any sublicensee in consideration for a sublicense. Our royalty obligation exists on a country-by-country and licensed product-by-licensed product basis, which will begin on the first commercial sale and end on the later of the expiration of the last to expire patent covering such licensed product in such country, which in the U.S. is currently expected in 2031, or 10 years from first commercial sale of such licensed product in such country.
+ 
+BioWa and Lonza 
+ 
+In 2010, we entered into a license agreement with BioWa, Inc. (“BioWa”), and Lonza Sales AG (“Lonza”) pursuant to which BioWa and Lonza granted us a non-exclusive, royalty-bearing, sub-licensable license under certain know-how and patents related to antibody expression and antibody-dependent cellular cytotoxicity enhancing technology using BioWa and Lonza’s Potelligent® CHOK1SV technology. This technology is used to enhance the cell killing capabilities of antibodies and is currently used by us in connection with our development of ifabotuzumab. Under this agreement, we owe annual license fees, milestone payments in connection with certain regulatory and sales milestones and royalties in the low single digits on net sales of products developed under the agreement. The agreement expires upon the expiration of royalty payment obligations under the agreement, is terminable at will by us upon written notice, is terminable by BioWa and Lonza if we challenge or otherwise oppose any licensed patents under the agreement, and is terminable by either party upon the occurrence of an uncured material breach or insolvency. Payment made to BioWa under this license for the twelve months ended December 31, 2018 was $0.1 million. We have not made a payment for the annual license fee in 2019 as of December 31, 2019, but have accrued the related expense as of December 31, 2019.
+ 
+
+30
+--
+
+Patents and Trade Secrets
+ 
+We use a combination of patent, trade secret and other intellectual property protections to protect our product candidates and platforms. We will be able to protect our product candidates from unauthorized use by third parties only to the extent they are covered by valid and enforceable patents or to the extent our technology is effectively maintained as trade secrets. Intellectual property is an important part of our strategy. We have and continue to file aggressively on our own inventions and in-license intellectual property and technology as it relates to our therapeutic interests. Our success will depend in part on our ability to obtain, maintain, defend and enforce patent rights for and to extend the life of patents covering lenzilumab, ifabotuzumab, HGEN005, our Humaneered technology, and our GM-CSF gene-editing CAR-T platform technologies, to preserve trade secrets and proprietary know how, and to operate without infringing the patents and proprietary rights of third parties. We actively seek patent protection, if available, in the U.S. and select foreign countries for the technology we develop. We have 111 registered patents, including 14 registered in the U.S. and 97 registered in foreign countries. Of the 111 registered patents, 86 are owned by us, 9 are owned jointly with a third party and 16 are exclusively licensed from a third party. We also have 19 patent applications pending globally, of which 12 are owned by us, 4 are owned jointly with a third party and 3 are exclusively licensed from a third party. 
+
+
+Using our Humaneered technology, we have developed and own two composition of matter U.S. patents covering lenzilumab and related anti-GM-CSF antibodies that provide patent protection through April 2029, a granted composition of matter patent in Europe and certain foreign countries, and have five additional pending patent applications in the U.S. and one PCT international patent application covering various methods of treatment, including in the CAR-T space covering a broad and comprehensive range of approaches to neutralizing GM-CSF, including the use of GM-CSF k/o CAR-T cells, which, if granted, are expected to confer protection to at least October 2038. We also have three currently pending patent applications in the U.S. and selected foreign countries for anti-EphA3 antibodies and their use, and we developed and own an issued U.S. composition of matter patent covering ifabotuzumab and related anti-EphA3 antibodies, which is currently expected to expire in 2031, in addition to three U.S. patents to methods of anti-EphA3 antibodies and six foreign patents countries. The nine patents to our Humaneered technology cover methods of producing human antibodies that are very specific for target antigens using only a small region from mouse antibodies.
+ 
+We cannot be certain that any of our pending patent applications, or those of our licensors, will result in issued patents. In addition, because the patent positions of biopharmaceutical companies are highly uncertain and involve complex legal and factual questions, the patents we own and license, or any further patents we may own or license, may not prevent other companies from developing similar or therapeutically equivalent products, even though we may be able to prevent their commercial use without our permission if our intellectual property allows for such limitations. Patents also will not protect our products if competitors devise ways of making or using these products without legally infringing our patents. We cannot be assured that our patents will not be challenged by third parties or that we will be successful in any defense we undertake.
+ 
+In addition, changes in patent laws, rules or regulations or in their interpretations by the courts may materially diminish the value of our intellectual property or narrow the scope of our patent protection, which could have a material adverse effect on our business and financial condition. However, prospective partners may have to license or otherwise come to an agreement with us if they wish to use our products and those products and methods of use of such products have issued patents in those territories.
+ 
+We also rely on trade secrets, technical know-how and continuing innovation to develop and maintain our competitive position. We seek to protect our proprietary information by requiring our employees, consultants, contractors, outside scientific collaborators and other advisors to execute non-disclosure and confidentiality agreements and our employees to execute assignment of invention agreements to us on commencement of their employment. Agreements with our employees also prevent them from bringing any proprietary rights of third parties to us. We also require confidentiality or material transfer agreements from third parties that receive our confidential data or materials.
+ 
+
+31
+--
+
+Manufacturing
+ 
+We outsource all development activities, including the development of formulation prototypes, and have adopted a manufacturing strategy of contracting with third parties for the manufacture of drug substance and product. Additional contract manufacturers are used to fill, label, package, and distribute investigational drug products. This allows us to maintain a more flexible infrastructure while focusing our expertise on developing our products. It does however mean that we have to carefully plan the availability of manufacturing ‘slots’ and the availability of drug for investigation in preclinical and clinical trials. The use of contract manufacturers can be expensive, complicated and time consuming and could delay clinical trials, drug approval and potential product launch.
+Sales and Marketing
+ 
+We do not currently have the sales and marketing infrastructure in place that would be necessary to market and sell our products, if approved. The establishment of a sales and marketing operation can be expensive, complicated and time consuming and could delay any potential product launch. As our drug candidates progress, while we may build or contract with expert commercial vendors the type of infrastructure that would be needed to successfully market and sell any successful drug candidate on our own, we may also seek strategic alliances and partnerships with third parties including those with existing infrastructure. 
+Competition
+ 
+We compete in an industry characterized by rapidly advancing technologies, intense competition, a changing regulatory and legislative landscape and a strong emphasis on the benefits of intellectual property protection and regulatory exclusivities. Our competitors include pharmaceutical companies, other biotechnology companies, academic institutions, government agencies and other private and public research organizations. We compete with these parties to develop potential biologic therapies to make CAR-T therapy and allogeneic HSCT safer and more effective and to develop a potential treatment for hematologic cancers, in addition to recruiting highly qualified personnel. Our product candidates, if successfully developed and approved, may compete with established therapies, with new treatments that may be introduced by our competitors, including competitors relying to a large extent on our drug approvals or on our biologics approvals, or with generic copies of our product approved by FDA, as bio-similars, referencing our drug products. Many of our potential competitors have substantially greater scientific, research, and product development capabilities, as well as greater financial, marketing, sales and human resources capabilities than we do.
+ 
+In addition, many specialized biotechnology firms have formed collaborations with large, established companies to support the research, development and commercialization of products that may be competitive with ours. Accordingly, our competitors may be more successful with respect to their products than we may be in developing, commercializing, and achieving widespread market acceptance for our products. In addition, our competitors’ products may be more effective or more effectively marketed and sold than any treatment we or our development partners may commercialize and may render our product candidates obsolete or non-competitive before we can recover the expenses related to developing and supporting the commercialization of any of our product candidates. Developments by competitors may render our product candidates obsolete or noncompetitive. After one of our product candidates is approved, FDA may also approve a generic version with the same or similar dosage form, safety, strength, route of administration, quality, performance characteristics and intended use as our product. These bio-similar equivalents would be less costly to bring to market and could generally be offered at lower prices, thereby limiting our ability to gain or retain market share. However, our product candidates are all biologics and, as such, would benefit from 12 years market exclusivity from launch in the U.S.
+ 
+
+32
+--
+
+
+The acquisition or licensing of pharmaceutical products is also very competitive, and a number of more established companies, which have acknowledged strategies to in-license or acquire products, may have competitive advantages as may other emerging companies taking similar or different approaches to product acquisitions. The more established companies may have a competitive advantage over us due to their size, cash flows, institutional experience and historical corporate reputation.
+ 
+Lenzilumab and CAR-T-related toxicities competition
+ 
+Significant ongoing concerns for clinicians, care-givers, patients and FDA regarding CAR-T therapy include, durability of response, long-term outcomes, manufacturing process, time to delivery of active CAR-T product, serious and potentially life-threatening side-effects, namely NT and CRS, frequency and duration of hospitalization and ICU admission, health resource utilization, cost effectiveness and reimbursement. Both Kymriah and Yescarta carry “Black Box” warnings in their labels for NT and CRS and are subject to a REMS program, such that on-going data has to be provided to FDA and CAR-T therapy can only be administered in strictly controlled environments at trained centers.
+ 
+FDA approval of tocilizumab (anti-IL-6 receptor blocker, Genetech’s Actemra®) with or without high-dose corticosteroids, for the management of severe cases of CRS, was announced in conjunction with approval of Kymriah solely as part of its REMS program based on a retrospective analysis of 45 patients who received tocilizumab. Approval was subsequently also granted for tocilizumab as a treatment (not prevention) of moderate to severe CRS, despite the lack of an IND application, NDA or conduct of a prospective trial of tocilizumab in this setting. Only 20% of Kymriah or Yescarta patients treated with tocilizumab had resolution of signs and symptoms 6 days after onset of CRS and ~50% patients responded 11 days after onset of CRS. Tocilizumab is not approved for the prevention of CRS or for the prevention or treatment of NT. Tocilizumab is also not approved for the treatment of mild cases of CRS. 
+
+
+There are no FDA-approved therapies for the prevention of CAR-T therapy induced NT and CRS or for the treatment of CAR-T therapy induced NT. The CAR-T therapy-associated TOXicity Working Group currently recommends intensive monitoring, accurate grading and aggressive supportive care with the anti-IL-6 receptor blocker tocilizumab and/or high-dose corticosteroids. These agents are reserved only for the treatment of severe cases of CRS and are not approved for prevention. Since corticosteroids have been reported to suppress T-cell function and/or induce T-cell apoptosis, they may limit the effectiveness of CAR-T therapy and use has been generally limited to treatment of severe cases of CRS refractory to tocilizumab and severe cases of NT. Sometimes high-dose corticosteroids are used alongside tocilizumab. Tocilizumab has not been found to be effective in the prevention or management of CAR-T therapy induced NT. In fact, the prophylactic use of tocilizumab has been shown to increase both overall rates of NT and rates of severe NT with overall rates of CRS remaining unchanged in an expanded safety cohort from a CAR-T trial. As tocilizumab is an anti-IL-6 receptor blocker, serum IL-6 levels have been shown to increase shortly after administration of tocilizumab which may increase passive diffusion of IL-6 into the CNS and increase the risk of NT. In patients who received prophylactic tocilizumab, a 17-fold increase in CD14+ myeloid cells was seen in the CSF of patients who developed severe NT vs those who did not. A similar dynamic may occur with other cytokine receptor blocking monoclonal antibodies that are also being explored in this setting (e.g. anti-IL-1Ra, anti-GM-CSFRa). As the antibody directly binds the cytokine receptor, the receptor may get saturated causing the cytokine to get dislodged which leads to an initial increase in the level of the circulating cytokine. In this setting, elevated levels of pro-inflammatory cytokines can further propagate the inflammatory cascade and result in higher levels of NT and CRS when the receptor blocker is administered prophylactically. In addition, IL-1 levels have not been shown to correlate to CRS and NT in CAR-T clinical trials and there is no evidence in the clinical or preclinical setting available to support the use of GM-CSF receptor alpha blockade with CAR-T cell therapy. There are data that suggest that the mechanism of GM-CSF receptor alpha blockade may be interfere with CAR-T expansion and potentially efficacy. Our approach with lenzilumab is a different mechanism of action entirely and we have published data which shows expansion of CAR-T cells and potential beneficial effects on efficacy in animal models.
+ 
+
+33
+--
+
+
+Other experimental approaches being explored include development of next-generation, CAR-T constructs, including introducing suicide genes into CAR-T cells using herpes simplex virus thymidine kinase (HSV-TK) or inducible caspase-9 (iCasp9) genes with “on / off” switches, incorporating a co-stimulatory molecule into T-cells, using RNA-guided DNA targeting technology or other epitope-based / gene-editing technology. While it is possible that some of these approaches could result in lower rates of NT and/or CRS, preliminary data suggests that improvements in the safety profile are associated with lower rates of efficacy and durable response. This is not surprising given the linkage that has been shown to exist between CAR-T cell expansion, efficacy and toxicity. In addition, an agent comprised of a mixture of single-stranded oligonucleotides that is purified from the intestinal mucosa of pigs, defibrotide (Jazz Pharmaceuticals, Defitelio®) is being evaluated to reduce NT although there is no preclinical data supporting its use in this indication and the mechanisms of action is uncertain. Defibrotide is approved for the treatment of severe veno-occlusive disease (VOD) in adults and children who have undergone chemotherapy and a stem-cell transplant and is associated with a 37% rate of hypotension, or low blood pressure. Hypotension is a hallmark of CRS, which occurs very frequently with patients receiving CAR-T therapy.  There are also several other anti-GM-CSF compounds that are in various stages of development, however the focus of these compounds appears to be in chronic autoimmune disorders such as rheumatoid arthritis, ankylosing spondylitis, giant cell arteritis and related disorders.
+ 
+Government Regulation
+ 
+Drug Development and Approval in the U.S.
+ 
+As a biopharmaceutical company operating in the U.S., we are subject to extensive regulation by FDA and by other federal, state, and local regulatory agencies. FDA regulates biological products such as our product candidates under the U.S. Federal Food and Cosmetic Act (FDCA), the Public Health Service Act (PHSA) and their implementing regulations. Under the PHSA, an FDA-approved biologics license application (BLA) is required to market a biological product, or biologic, in the U.S. These laws and regulations set forth, among other things, requirements for preclinical and clinical testing, development, approval, labeling, manufacture, storage, record keeping, reporting, distribution, import, export, advertising, and promotion of our products and product candidates. Biologics receive 12 years market exclusivity from approval and launch. 
+Applications Relying on the Applicant’s Clinical Data
+ 
+The approval process for a BLA under the PHSA requires the conduct of extensive studies and the submission of large amounts of data by the applicant. The biologic development process for these applications will generally include the following phases:
+Preclinical Testing. Before testing any new biologic in human subjects in the U.S., a company must generate extensive preclinical data. Preclinical testing generally includes laboratory evaluation of product chemistry and formulation, as well as toxicological and pharmacological studies in several animal species to assess the quality and safety of the product. Animal studies must be performed in compliance with FDA’s Good Laboratory Practice (GLP) regulations and the U.S. Department of Agriculture’s Animal Welfare Act.
+ 
+IND Application. Human clinical trials in the U.S. cannot commence until an IND application is submitted and becomes effective. A company must submit preclinical testing results to FDA as part of the IND application, and FDA must evaluate whether there is an adequate basis for testing the product in initial clinical studies in human volunteers. Unless FDA raises concerns, the IND application becomes effective 30 days following its receipt by FDA. Once human clinical trials have commenced, FDA may stop the clinical trials by placing them on “clinical hold” because of concerns about the safety of the product being tested, or for other reasons.
+ 
+Clinical Trials. Clinical trials involve the administration of the product to healthy human volunteers or to patients, under the supervision of a qualified investigator. The conduct of clinical trials is subject to extensive regulation, including compliance with FDA’s bioresearch monitoring regulations and Good Clinical Practice (“GCP”) requirements, which establish standards for conducting, recording data from, and reporting the results of clinical trials. GCP requirements are intended to assure that the data and reported results are credible and accurate, and that the rights, safety, and well-being of study participants are protected.
+
+34
+--
+
+
+Clinical trials must be conducted under protocols that detail the study objectives, parameters for monitoring safety, and the efficacy criteria, if any, to be evaluated. Each protocol is submitted to FDA as part of the IND application. In addition, each clinical trial must be reviewed, approved, and conducted under the auspices of an Institutional Review Board (IRB), at the institution conducting the clinical trial. Companies sponsoring the clinical trials, investigators, and IRBs also must comply with regulations and guidelines for obtaining informed consent from the study subjects, complying with the protocol and investigational plan, adequately monitoring the clinical trial, and timely reporting of adverse events. Foreign studies conducted under an IND application must meet the same requirements that apply to studies being conducted in the U.S. Data from a foreign study not conducted under an IND application may be submitted in support of a BLA if the study was conducted in accordance with GCP and FDA is able to validate the data. A study sponsor is required to publicly post certain details about active clinical trials and clinical trial results on the government website clinicaltrials.gov.
+ 
+Human clinical trials are typically conducted in three sequential phases, although the phases may overlap with one another and, notably, in the CAR-T setting, FDA has granted approval to both currently marketed CAR-T therapies (Kite’s Yescarta and Novartis’s Kymriah) based on Phase II data and to tocilizumab without any prospective data in the CAR-T setting:
+ 
+
+· | Phase I clinical trials include the initial administration of the investigational product to humans, typically to a small group of healthy human subjects, but occasionally to a group of patients with the targeted disease or disorder. Phase I clinical trials generally are intended to determine the metabolism and pharmacologic actions of the product, the side-effects associated with increasing doses, and, if possible, to gain early evidence of effectiveness.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase II clinical trials generally are controlled studies that involve a relatively small sample of the intended patient population, and are designed to develop data regarding the product’s effectiveness, to determine dose response and the optimal dose range, and to gather additional information relating to safety and potential adverse effects.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase III clinical trials are conducted after preliminary evidence of effectiveness has been obtained and are intended to gather additional information about safety and effectiveness necessary to evaluate the product’s overall risk-benefit profile, and to provide a basis for physician labeling. Generally, Phase III clinical development programs consist of expanded, large-scale studies of patients with the target disease or disorder to obtain statistical evidence of the efficacy and safety of the drug at the proposed dosing regimen, or with the safety, purity, and potency of a biological product.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | The FDA does not always require every approved therapy to complete Phase I through III studies to secure approval. Approval through expedited routes is at the discretion of FDA.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The sponsoring company, FDA, or the IRB may suspend or terminate a clinical trial at any time on various grounds, including a finding that the subjects are being exposed to an unacceptable health risk. Further, success in early-stage clinical trials does not assure success in later-stage clinical trials. Data obtained from clinical activities are not always conclusive and may be subject to alternative interpretations that could delay, limit, or prevent regulatory approval.
+ 
+BLA Submission and Review
+ 
+After completing clinical testing of an investigational biologic product, a sponsor must prepare and submit a BLA for review and approval by FDA. A BLA is a comprehensive, multi-volume application that must include, among other things, sufficient data establishing the safety, purity and potency of the proposed biological product for its intended indication. The application includes all relevant data available from pertinent preclinical and clinical trials, including negative or ambiguous results as well as positive findings, together with detailed information relating to the product’s chemistry, manufacturing, controls and proposed labeling. When a BLA is submitted, FDA conducts a preliminary review to determine whether the application is sufficiently complete to be accepted for filing. If it is not, FDA may refuse to file the application and may request additional information, in which case the application must be resubmitted with the supplemental information and review of the application is delayed.
+ 
+
+35
+--
+
+
+FDA performance goals, which are target dates and other aspirational measures of agency performance to which the agency, Congressional representatives, and industry agree through negotiations that occur every five years, generally provide for action BLA applications within 10 months of submission or 10 months from acceptance for filing for an original BLA. FDA is not expected to meet those target dates for all applications, however, and the deadline may be extended in certain circumstances, such as when the applicant submits new data late in the review period. In practice, the review process is often significantly extended by FDA requests for additional information or clarification. In some circumstances, FDA can expedite the review of new biologics deemed to qualify for priority review, such as those intended to treat serious or life-threatening conditions that demonstrate the potential to address unmet medical needs. In those cases, the targeted action date is six months from submission, or for biologics constituting original biological products, six months from the date that FDA accepts the application for filing.
+ 
+As part of its review, FDA may refer a BLA to an advisory committee for evaluation and a recommendation as to whether the application should be approved. Although FDA is not bound by the recommendation of an advisory committee, the agency usually has followed such recommendations. FDA may also determine that a REMS program is necessary to ensure that the benefits of a new product outweigh its risks, and that the product can therefore be approved. A REMS program may include various elements, ranging from a medication guide or patient package insert to limitations on who may prescribe or dispense the product, depending on what FDA considers necessary for the safe use of the product. Under the Pediatric Research Equity Act, a BLA must include an assessment, generally based on clinical study data, of the safety and effectiveness of the subject drug or biological product in relevant pediatric populations, unless the requirement is waived or deferred. Receiving orphan drug designation from FDA is one situation where such a requirement may be waived. 
+
+
+After review of a BLA, FDA may determine that the product cannot be approved, or may determine that it can only be approved if the applicant cures deficiencies in the application, in which case the agency endeavors to provide the applicant with a complete list of the deficiencies in correspondence known as a Complete Response Letter (“CRL”). A CRL may request additional information, including additional preclinical or clinical data. Even if such additional information and data are submitted, FDA may decide that the BLA still does not meet the standards for approval. Data from clinical trials are not always conclusive and FDA may interpret data differently than the sponsor interprets them. Additionally, as a condition of approval, FDA may impose restrictions that could affect the commercial success of a drug or require post-approval commitments, including the completion within a specified time period of additional clinical studies, which often are referred to as “Phase IV” studies or “post-marketing requirements.” Obtaining regulatory approval often takes a number of years, involves the expenditure of substantial resources, and depends on a number of factors, including the severity of the disease in question, the availability of alternative treatments, and the risks and benefits demonstrated in clinical trials.
+ 
+Post-approval modifications to the drug or biologic product, such as changes in indications, labeling, or manufacturing processes or facilities, may require a sponsor to develop additional data or conduct additional preclinical or clinical trials. The proposed changes would need to be submitted in a new or supplemental BLA, which would then require FDA approval.
+ 
+Regulatory Exclusivities
+ 
+Biologics Price Competition and Innovation Act
+ 
+In 2010, the Biologics Price Competition and Innovation Act (BPCIA) was enacted, creating an abbreviated approval pathway for biologic products that are biosimilar to, and possibly interchangeable with, reference biological products licensed under a BLA. The BPCIA also provides innovator manufacturers of original reference biological products 12 years of exclusive use before biosimilar versions can be licensed in the U.S.. This means that FDA may not approve an application for a biosimilar version of a reference biological product until 12 years after the date of approval of the reference biological product (with a potential six-month extension of exclusivity if certain pediatric studies are conducted and the results reported to FDA), although a biosimilar application may be submitted four years after the date of licensure of the reference biological product. Additionally, the BPCIA establishes procedures by which the biosimilar applicant must provide information about its application and product to the reference product sponsor, and by which information about potentially relevant patents is shared and litigation over patents may proceed in advance of approval, although the interpretation of those procedures has been subject to litigation and appears to continue to evolve. The BPCIA also provides a period of exclusivity for the first biosimilar to be determined by FDA to be interchangeable with the reference product.
+
+36
+--
+
+
+FDA approved the first biosimilar product under the BPCIA in 2015, and the agency continues to refine the procedures and standards it will apply in implementing this approval pathway. FDA has released guidance documents interpreting specific aspects of the BPCIA in each of the last four years. We would expect lenzilumab, ifabotuzumab and HGEN005, as biologics, to each receive at least 12 years exclusivity from approval, if they are approved.
+ 
+Pediatric Studies and Exclusivity
+ 
+Under the Pediatric Research Equity Act, a BLA must contain data adequate to assess the safety and effectiveness of the product for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. Sponsors must also submit pediatric study plans prior to the assessment data. Those plans must contain an outline of the proposed pediatric study or studies the applicant plans to conduct, including study objectives and design, any deferral or waiver requests and other information required by regulation. The applicant, the FDA, and the FDA’s internal review committee must then review the information submitted, consult with each other and agree upon a final plan. The FDA or the applicant may request an amendment to the plan at any time. 
+
+
+For products intended to treat a serious or life-threatening disease or condition, the FDA must, upon the request of an applicant, meet to discuss preparation of the initial pediatric study plan or to discuss deferral or waiver of pediatric assessments. In addition, FDA will meet early in the development process to discuss pediatric study plans with sponsors and FDA must meet with sponsors by no later than the end-of-Phase I meeting for serious or life-threatening diseases and by no later than ninety (90) days after FDA’s receipt of the study plan.
+ 
+The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after licensing of the product for use in adults, or full or partial waivers from the pediatric data requirements. Additional requirements and procedures relating to deferral requests and requests for extension of deferrals are contained in Food and Drug Administration Safety and Innovation Act (FDASIA). Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan designation.
+ 
+The FDA Reauthorization Act of 2017 established new requirements to govern certain molecularly targeted cancer indications. Any company that submits a BLA three years after the date of enactment of that statute must submit pediatric assessments with the BLA if the biologic is intended for the treatment of an adult cancer and is directed at a molecular target that FDA determines to be substantially relevant to the growth or progression of a pediatric cancer. The investigation must be designed to yield clinically meaningful pediatric study data regarding the dosing, safety and preliminary potency to inform pediatric labeling for the product. Deferrals and waivers as described above are also available.
+ 
+Pediatric exclusivity is another type of exclusivity in the U.S. and, if granted, provides for the attachment of an additional six months of marketing protection to the term of any existing regulatory exclusivity, including the non-patent and orphan exclusivity. This six-month exclusivity may be granted if a BLA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data do not need to show the product to be effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA’s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or patent protection cover the product are extended by a further six-months. This is not a patent term extension, but it effectively extends the regulatory period during which the FDA cannot license another application.
+ 
+
+37
+--
+
+Orphan Drug Designation
+ 
+The Orphan Drug Act provides incentives for the development of therapeutic products intended to treat rare diseases or conditions. Rare diseases and conditions generally are those affecting less than 200,000 individuals in the U.S., but also include diseases or conditions affecting more than 200,000 individuals in the U.S. if there is no reasonable expectation that the cost of developing and making available in the U.S. a drug for such disease or condition will be recovered from sales in the U.S. of such product.
+ 
+If a sponsor demonstrates that a therapeutic product, including a biological product, is intended to treat a rare disease or condition, and meets certain other criteria, FDA grants orphan drug designation to the product for that use. FDA may grant multiple orphan designations to different companies developing the same product for the same indication, until the one company is the first to be able to secure successful approval for that product. The first product approved with an orphan drug designated indication is granted seven years of orphan drug exclusivity from the date of approval for that indication. During that period, FDA generally may not approve any other application for the same product for the same indication, although there are exceptions, most notably when the later product is shown to be clinically superior to the product with exclusivity. FDA can also revoke a product’s orphan drug exclusivity under certain circumstances, including when the holder of the approved orphan drug application is unable to assure the availability of sufficient quantities of the product to meet patient needs. 
+
+
+A sponsor of a product application that has received an orphan drug designation is also granted tax incentives for clinical research undertaken to support the application. In addition, FDA will typically coordinate with the sponsor on research study design for an orphan drug and may exercise its discretion to grant marketing approval on the basis of more limited product safety and efficacy data than would ordinarily be required, based on the limited size of the applicable patient population.
+ 
+We anticipate submitting applications for orphan drug designation for all of our current pipeline candidates and the targeted therapeutic indications.
+ 
+Expedited Programs for Serious Conditions
+ 
+FDA has implemented a number of expedited programs to help ensure that therapies for serious or life-threatening conditions, and for which there is unmet medical need, are approved and available to patients as soon as it can be concluded that the therapies’ benefits justify their risks. Among these programs are the following:
+Fast Track Designation
+ 
+FDA may designate a product for fast track review if it is intended, whether alone or in combination with one or more other products, for the treatment of a serious or life-threatening disease or condition and where non-clinical or clinical data demonstrates the potential to address unmet medical need for such a disease or condition. A product can also receive fast track review if it receives breakthrough therapy designation.
+ 
+For fast track products, sponsors may have greater interactions with FDA and FDA may initiate review of sections of a fast track product’s application before the application is complete, also referred to as a ‘rolling review’. This rolling review may be available if FDA determines, after preliminary evaluation of clinical data submitted by the sponsor, that a fast track product may be effective. The sponsor must also provide, and FDA must approve, a schedule for the submission of the remaining information and the sponsor must pay applicable user fees. Furthermore, FDA’s time period goal for reviewing a fast track application does not begin until the last section of the complete application is submitted. Finally, the fast track designation may be withdrawn by FDA if FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ 
+
+38
+--
+
+Breakthrough Therapy Designation
+ 
+A product may be designated as a breakthrough therapy if it is intended, either alone or in combination with one or more other products, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. The designation includes all of the features of fast track designation, as well as more intensive FDA interaction and guidance. FDA may take certain actions with respect to breakthrough therapies, including holding meetings with the sponsor throughout the development process; providing timely advice to the product sponsor regarding development and approval; involving more senior staff in the review process; assigning a cross-disciplinary project lead for the review team; and taking other steps to design efficient clinical trials.
+Accelerated Approval
+ 
+Under the accelerated approval pathway, FDA may approve a drug or biologic based on a surrogate endpoint that is reasonably likely to predict clinical benefit; qualifying products must target a serious or life-threatening illness and provide meaningful therapeutic benefit to patients over existing treatments. In clinical trials, a surrogate endpoint is a measurement of laboratory or clinical signs of a disease or condition that substitutes for a direct measurement of how a patient feels, functions, or survives. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. A product candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including the completion of Phase IV or post-approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post-approval studies, or to confirm a clinical benefit during post-marketing studies, would allow FDA to withdraw the product from the market on an expedited basis. All promotional materials for product candidates approved under accelerated regulations are subject to prior review by FDA. 
+Priority Review
+ 
+FDA may designate a product for priority review if it is a product that treats a serious condition and, if approved, would provide a significant improvement in safety or effectiveness. FDA generally determines, on a case-by-case basis, whether the proposed product represents a significant improvement in safety and effectiveness when compared with other available therapies. Significant improvement may be illustrated by evidence of increased effectiveness in the treatment of a condition, elimination or substantial reduction of a treatment-limiting product reaction, documented enhancement of patient compliance that may lead to improvement in serious outcomes, and evidence of safety and effectiveness in a new subpopulation. A priority designation is intended to direct overall attention and resources to the evaluation of such applications, and will shorten FDA’s goal for taking action on a marketing application from the standard targeted ten months to a target of six months review.
+ 
+Created in 2012 under the FDASIA and extended with the 21st Century Cures Act in 2016, FDA is authorized under section 529 of the FDCA to grant a PRV to BLA sponsors receiving FDA approval for a product to treat a rare pediatric disease, defined as a disease that affects fewer than 200,000 individuals in the U.S., and where more than 50% of the patients affected are aged from birth to 18 years. We believe that our product candidates which may assist with the treatment of rare pediatric cancers or other rare pediatric diseases may qualify for a PRV under this program, depending on the indication.
+ 
+The PRV program allows the voucher holder to obtain priority review for a product application that would otherwise not receive priority review, shortening FDA’s target review period to a targeted six months following acceptance of filing of an NDA or BLA, or four months shorter than the standard review period. The voucher may be used by the sponsor who receives it, or it may be sold to another sponsor for use in that sponsor’s own marketing application. The sponsor who uses the voucher is required to pay additional user fees on top of the standard user fee for reviewing an NDA or BLA.
+ 
+We anticipate submitting applications for one or more of these expedited programs for all of our current pipeline candidates and the targeted therapeutic indications.
+ 
+
+39
+--
+
+Regenerative Medicine Advanced Therapy Designation
+ 
+Recently, through the 21st Century Cures Act, or Cures Act, Congress also established another expedited program, called a RMAT designation. The Cures Act directs the FDA to facilitate an efficient development program for and expedite review of RMATs. To qualify for this program, the product must be a cell therapy, therapeutic tissue engineering product, human cell and tissue product, or a combination of such products, and not a product solely regulated as a human cell and tissue product. The product must be intended to treat, modify, reverse, or cure a serious or life-threatening disease or condition, and preliminary clinical evidence must indicate that the product has the potential to address an unmet need for such disease or condition. Advantages of the RMAT designation include all the benefits of the fast track and breakthrough therapy designation programs, including early interactions with the FDA. These early interactions may be used to discuss potential surrogate or intermediate endpoints to support accelerated approval.
+ 
+Post-Licensing Regulation
+ 
+Once a BLA is approved and a product marketed, a sponsor will be required to comply with all regular post-licensing regulatory requirements as well as any post-licensing requirements that the FDA may have imposed as part of the licensing process. The sponsor will be required to report, among other things, certain adverse reactions and manufacturing problems to the FDA, provide updated safety and potency or efficacy information and comply with requirements concerning advertising and promotional labeling requirements. Manufacturers and certain of their subcontractors are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with ongoing regulatory requirements, including cGMP regulations, which impose certain procedural and documentation requirements upon manufacturers. Changes to the manufacturing processes are strictly regulated and often require prior FDA approval before being implemented. Accordingly, the sponsor and its third-party manufacturers must continue to expend time, money, and effort in the areas of production and quality control to maintain compliance with cGMP regulations and other regulatory requirements. 
+
+
+In addition, the distribution of prescription pharmaceutical products is subject to the Prescription Drug Marketing Act (PDMA) and its implementing regulations, as well as the Drug Supply Chain Security Act (DSCA), which regulate the distribution and tracing of prescription drug samples at the federal level, and set minimum standards for the regulation of distributors by the states. The PDMA, its implementing regulations and state laws limit the distribution of prescription pharmaceutical product samples, and the DSCA imposes requirements to ensure accountability in distribution and to identify and remove counterfeit and other illegitimate products from the market.
+ 
+Employees
+ 
+We currently have two full-time employees. We contract with several part-time independent consultants performing manufacturing, regulatory and clinical development, intellectual property, public relations, investor relations and finance and accounting functions. None of our employees are represented by labor unions or covered by collective bargaining agreements. 
+Bankruptcy 
+ 
+As previously reported, on December 29, 2015, we filed a voluntary petition for bankruptcy protection under Chapter 11 of the U.S. Bankruptcy Code. The filing was made in the U.S. Bankruptcy Court for the District of Delaware (the “Bankruptcy Court”) (Case No. 15-12628 (LSS)).
+ 
+On May 9, 2016, we filed with the Bankruptcy Court a Second Amended Plan of Reorganization (the “Plan”), and related amended disclosure statement pursuant to Chapter 11 of the Bankruptcy Code. On June 16, 2016, the Bankruptcy Court entered an order confirming the Plan. On June 30, 2016 (the “Effective Date”), the Plan became effective and we emerged from our Chapter 11 bankruptcy proceedings.
+ 
+
+40
+--
+
+
+On September 17, 2018 the Bankruptcy Court issued a Final Decree and Order to close the bankruptcy case and terminate the remaining claims and noticing services.
+ 
+Restructuring Transactions
+ 
+On December 1, 2017, our obligations matured under the Credit and Security Agreement dated December 21, 2016, as amended on March 21, 2017 and on July 8, 2017 (the “Term Loan Credit Agreement”) with Black Horse Capital Master Fund Ltd., as administrative agent and lender (“BHCMF”), Black Horse Capital LP, as a lender (“BHC”), Cheval Holdings, Ltd., as a lender (“Cheval” and collectively with BHCMF and BHC, the “Black Horse Entities”) and Nomis Bay LTD, as a lender (“Nomis” and, together with the Black Horse Entities, the “Term Loan Lenders”).
+ 
+On December 21, 2017, we entered into a Securities Purchase and Loan Satisfaction Agreement (the “Restructuring Purchase Agreement”) and a Forbearance and Loan Modification Agreement (the “Forbearance Agreement” and, together with the Restructuring Purchase Agreement, the “Restructuring Agreements”), each with the Term Loan Lenders, in connection with a series of transactions providing for, among other things, the satisfaction and extinguishment of our outstanding obligations under the Term Loan Credit Agreement and the infusion of $3.0 million of new capital. As of February 27, 2018, the date the Restructuring Transactions were completed, the aggregate amount of our obligations under the Term Loan Credit Agreement, including the Bridge Loan, the Claims Advances extended by Nomis Bay (each as discussed below) and all accrued interest and fees, approximated $18.4 million (the “Term Loans”). 
+
+
+On February 27, 2018 (the “Restructuring Effective Date”), the Restructuring Transactions were completed in accordance with the Restructuring Agreements. As a result, on the Restructuring Effective Date, we: (i) in exchange for the satisfaction and extinguishment of the entire $18.4 million balance of the Term Loans, including the Bridge Loan, the Claims Advances extended by Nomis Bay (each as discussed below) and all accrued interest and fees, (a) issued to the Term Loan Lenders an aggregate of 59,786,848 shares of our common stock (the “New Lender Shares”), and (b) transferred and assigned to Madison Joint Venture LLC owned 70% by Nomis Bay and 30% by us (Madison), all of our assets related to benznidazole (the “Benz Assets”), our former drug candidate, capable of being so assigned; and (ii) issued to Cheval an aggregate of 32,028,669 shares of our common stock (the “New Black Horse Shares” and, collectively with the New Lender Shares, the “New Common Shares”) for total consideration of $3.0 million (collectively, the “Restructuring Transactions”), $1.5 million of which we received on December 22, 2017 in the form of a bridge loan (the “Bridge Loan”).
+ 
+On the Restructuring Effective Date, the aggregate amount of the Term Loans that were deemed to be satisfied and extinguished (i) previously owed to the Black Horse Entities, including the Bridge Loan and all accrued interest and fees, approximated $9.9 million, and (ii) previously owed to Nomis Bay, including certain advances previously extended to us by Nomis Bay totaling $0.1 million (the Claims Advances) and all accrued interest and fees, approximated $8.5 million. In addition, on the Restructuring Effective Date, (i) each of the Term Loan Credit Agreement, all promissory notes issued thereunder and the Intellectual Property Security Agreement, dated as of December 21, 2016, by and between us and the Term Loan Lenders, were terminated and are of no further force or effect, and (ii) all security interests of the Black Horse Entities and Nomis Bay in our assets were released. Although the Term Loans were satisfied and extinguished, if Madison elected to keep the Benz Assets after the Restructuring Effective Date, Nomis Bay would be obligated to pay or cause Madison to pay $0.3 million in legal fees and expenses owed by us to our litigation counsel, which remain unpaid in our Accounts payable at December 31, 2017. On August 23, 2018 Madison elected to keep the Benz Assets and these amounts were paid by Madison to our litigation counsel.
+ 
+Upon completion of the Restructuring Transactions, Nomis Bay held 33,573,530 of our common stock, or approximately 31.4% of our outstanding common stock, and the Black Horse Entities collectively held 66,870,851 shares of our common stock, or approximately 62.6% of our outstanding common stock. Accordingly, the completion of the Restructuring Transactions on the Restructuring Effective Date resulted in a change in control of our company, as the Black Horse Entities and their affiliates owning more than a majority of our outstanding common stock. Dr. Dale Chappell, a member of our board of directors from June 30, 2016 until November 10, 2017, controls the Black Horse Entities and accordingly, will be able to exert control over matters of our company and will be able to determine all matters of our company requiring stockholder approval.
+ 
+
+41
+--
+
+Available Information
+ 
+We were incorporated on March 15, 2000 in California and reincorporated as a Delaware corporation in September 2001. Effective August 7, 2017, we changed our legal name to Humanigen, Inc. Our principal offices are located at 533 Airport Boulevard, Suite 400, Burlingame, CA 94010, and our telephone number is (650) 243-3100. Our website address is www.humanigen.com. Our common stock is currently traded on the OTCQB Venture Market. We operate in a single segment.
+ 
+Our website and the information contained on, or that can be accessed through, the website will not be deemed to be incorporated by reference in, and are not considered part of, this Annual Report on Form 10-K. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on the Investor Relations portion of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. In addition, the SEC maintains an internet site that contains the reports, proxy and information statements, and other information we electronically file with or furnish to the SEC, located at www.sec.gov.
+ 
+
+42
+--
+
