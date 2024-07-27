@@ -1,0 +1,204 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+ In this Annual Report on Form 10-K, unless the context otherwise dictates, references to “Resideo”, “the Company”, “we,” “us” or “our” means Resideo Technologies, Inc. and its consolidated subsidiaries.
+ This Annual Report includes industry and market data that we obtained from various third-party industry and market data sources. While we believe the projections of the industry sources referenced in this Annual Report are reasonable, forecasts based upon such data involve inherent uncertainties, and actual results are subject to change based upon various factors beyond our control. All such industry data is available publicly or for purchase and was not commissioned specifically for us. While we are not aware of any misstatements regarding any market, industry or similar data presented herein, forecasts based upon such data involve inherent uncertainties, and actual results regarding the subject matter of such forecasts are subject to change based upon various factors, including those beyond our control and those discussed under the headings “Risk Factors” and “Cautionary Statement Concerning Forward-Looking Statements” in this Annual Report.
+ Separation from Honeywell
+ The Company was incorporated in Delaware on April 24, 2018. We separated from Honeywell International Inc. (“Honeywell”) on October 29, 2018, becoming an independent publicly traded company as a result of a pro rata distribution of our common stock to shareholders of Honeywell (the “Spin-Off”). The Spin-Off is further described in Note 1. Organization, Operations and Basis of Presentation of Notes to the Consolidated and Combined Financial Statements included in Item 8 of this Form 10-K.
+Description of Business
+ Resideo is a leading global provider of critical comfort, residential thermal solutions and security solutions primarily in residential environments. We manage our business operations through two segments, Products & Solutions and ADI Global Distribution, which contributed 43.6% and 56.4%, respectively, of our net revenue for the year ended December 31, 2019. In addition, Products & Solutions sold $312 million to ADI Global Distribution for the year ended December 31, 2019. The Products & Solutions segment offerings consist of solutions in Comfort, Residential Thermal Solutions (“RTS”) and Security categories and include temperature and humidity control, thermal, water and air solutions as well as security panels, sensors, peripherals, wire and cable, communications devices, video cameras, awareness solutions, cloud infrastructure, installation and maintenance tools and related software. Our ADI Global Distribution business is the leading wholesale distributor of security and low-voltage electronic and security products which include intrusion and smart home, fire, video surveillance, access control, power, audio and video, Pro AV, networking, communications, wire and cable, enterprise connectivity and structured wiring.
+ Our critical comfort, residential thermal and security solutions have a presence in over 150 million homes globally. Our products benefit from the trusted, well-established Honeywell Home brand. Over 15 million systems are installed in homes annually, allowing us to launch innovative technologies and services at scale. Included in our Products & Solutions segment are traditional products, as well as connected products, which we define as any device with the capability to be monitored or controlled from a remote location by an end-user or service provider. Approximately 6.7 million of our customers are connected via our software solutions, providing access to control, monitoring and alerts, and we have approximately 35 million installed sensors generating more than 400 billion data transmissions annually. Our broad portfolio of innovative products is delivered through a comprehensive network of over 110,000 professional contractors, more than 3,000 distributors and over 1,200 original equipment manufacturers (“OEMs”), as well as major retailers and online merchants.
+ 3
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+Our ADI Global Distribution business is the leading wholesale distributor of low-voltage security products and is independently recognized for superior customer service. Through over 200 stocking locations in 17 countries, ADI Global Distribution distributes more than 350,000 products from over 1,000 manufacturers to a customer base of over 100,000 contractors. We believe this global footprint gives us distinct scale and network advantages in our core products over our competitors. Further, we believe our customers derive great value from the advice and recommendations of our knowledgeable design specialists, allowing our customers to better meet the technical and systems integration expertise requirements to install and service professional security systems. We continue to be a leader in the industry with value-added services including presales system design, 24/7 order pick-up, and the selective introduction of new product categories such as professional audio-visual. Additionally, ADI Global Distribution has long been an important channel to market for our security products, providing a level of end-customer intimacy that drives our ability to develop successful new products at an accelerated rate and insights into current market trends that help us quickly adapt our product portfolio to meet evolving customer needs. Similarly, ADI Global Distribution is an important channel to market for third-party manufacturers, whose products represent a significant majority of ADI Global Distribution’s net revenue. 
+Addressable Markets and Competition
+ Products & Solutions
+ 
+The addressable market for Comfort and RTS solutions is analyzed by IHS Markit (Information Handling Services, “IHS”), Navigant Consulting, Building Services Research and Information Association (“BSRIA”), and BRG Enterprise Solutions. Based on our analysis of these sources, we believe that the addressable market is approximately $8 billion for Comfort and approximately $3 billion for RTS in annual sales for 2020 in the markets and geographies that we compete in. The addressable market for Security solutions is analyzed by IHS and based on our analysis of this source, we believe that the addressable market is approximately $6 billion in annual sales for 2020 in the markets and geographies that we compete in, which includes security monitoring services and remote video services.
+ 
+Some examples of the product categories that we compete in include: Comfort – thermostats, humidity controls, air filters, thermostatic radiator valves, backflow preventers, etc.; RTS – gas valves, ignition controls, air pressure switches, etc.; and Security – security panels, cellular communicators, motion sensors, smoke & carbon monoxide sensors, etc.
+ 
+Our industries and markets are highly competitive. In our Products & Solutions segment we compete with global, national, regional and local providers for our products, services and solutions, including established manufacturers, distributors and service providers, as well as new entrants, in particular in connected home and smart products. 
+ 
+Our Security, Comfort and RTS solutions are generally installed professionally, and our channel partners rely on our high-quality OEM parts for repair and remodel services to meet their customers’ needs. We believe our relationship and investment into the professional channel is one of the key differentiating factors to allow us to compete more effectively over our competitors. We also have long-standing relationships with important OEMs.
+ ADI Global Distribution
+ Based on IHS, we estimate that the global addressable market for the distribution of security and low-voltage products (which include intrusion and smart home, fire, video surveillance, access control, power, audio and video, Pro AV, networking, communications, wire and cable, enterprise connectivity and structured wiring) is approximately $22 billion in annual sales for 2020 in the markets and geographies in which we participate.
+ Examples of select product categories we distribute via ADI Global Distribution include video surveillance, intrusion systems, access control, fire and life safety systems, professional audio-visual systems, and networking products, etc.
+ In our ADI Global Distribution segment, we compete against manufacturer direct sales, other distributors and other sellers, including retail and e-commerce. 
+ 4
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+The most significant competitive factors we face are product and service innovation, our reputation and the reputation of our brands, sales and marketing programs, product performance, quality of product training and events, product availability, speed and accuracy of delivery, service and price, technical support, credit availability and product reliability and warranty. In addition to current competitive factors, there may be new market entrants with non-traditional business and customer service models or disruptive technologies and products, resulting in increased competition and changing industry dynamics.
+Materials and Suppliers
+ Purchased materials in our manufacture of products include copper, steel, aluminum, plastics, printed circuit boards, semiconductors and passive electronics. Purchased materials cover a wide range of supplier value-add, from raw materials and single components to subassemblies and complete finished goods, and there are considerable expenditures on both commercial off-the-shelf and make-to-print items. Although execution of material substitutions or supplier changes may be resource intensive, alternatives usually exist in the event that a supplier becomes unable to provide material. Unforeseen shortages and supply disruptions occur from time to time but are typically manageable such that adverse impact to customers can be avoided. Raw material price fluctuations, the ability of key suppliers to meet quality and delivery requirements, and catastrophic events can increase the cost of our products and services, and impact our ability to meet commitments to customers.
+Inventory
+ Our inventory levels vary by distribution channel. We typically maintain approximately three to six weeks of inventory for retail distribution and two to four weeks of inventory for professional installers, distributors and OEMs. In addition, ADI Global Distribution operates over 200 stocking locations globally and is contractually obligated to maintain four weeks of inventory for certain customers.
+Customers
+ The end-users for our products are residential and commercial consumers throughout the world. We reach these end-users through sales to professional installers and OEMs, and through retail distribution including e-commerce. The global end-user customer base for the Products & Solutions segment includes over 150 million homes globally and greater than 15 million systems installed in homes annually. Our products and solutions are carried by major distributors in our relevant industries across North America and Western Europe, including our ADI Global Distribution business. We also have relationships with over 1,200 OEMs.
+ In the distribution segment, ADI Global Distribution has a customer base of over 100,000 contractors and covers a variety of product categories comprising over 350,000 products from over 1,000 leading manufacturers.
+ Regulatory and Environmental Compliance
+ We are subject to various federal, state, local and foreign government requirements relating to the protection of the environment. We believe that, as a general matter, our policies, practices and procedures are properly designed to prevent unreasonable risk of environmental damage and personal injury and that our handling, manufacture, use and disposal of hazardous substances are in accordance with environmental and safety laws and regulations. However, mainly because of past operations and operations of predecessor companies, we, like other companies engaged in similar businesses, have incurred and will continue to incur and manage remedial response and voluntary cleanup costs for site contamination. Lawsuits, claims and costs involving environmental matters may arise in the future.
+ As of December 31, 2019, we have recorded a liability for environmental investigation and remediation of approximately $22 million related to sites owned and operated by Resideo (“Resideo Sites”). We do not currently possess sufficient information to reasonably estimate the amounts of environmental liabilities to be recorded upon future completion of studies, litigation or settlements, and we cannot determine either the timing or the amount of the ultimate costs associated with environmental matters, which could be material to our consolidated and combined results of operations and operating cash flows in the periods recognized or paid. However, considering our past experience and existing reserves, we do not expect that environmental matters will have a material adverse effect on our consolidated and combined financial position.
+ 5
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+
+Furthermore, we are required to indemnify Honeywell in amounts equal to 90% of payments, which include amounts billed, with respect to certain environmental claims, remediation and, to the extent arising after the Spin-Off, hazardous exposure or toxic tort claims, in each case including consequential damages in respect of specified Honeywell properties contaminated through historical business operations prior to the Spin-Off (“Honeywell Sites”), including the legal and other costs of defending and resolving such liabilities, less 90% of Honeywell’s net insurance receipts relating to such liabilities, and less 90% of the net proceeds received by Honeywell in connection with (i) affirmative claims relating to such liabilities, (ii) contributions by other parties relating to such liabilities and (iii) certain property sales. As of December 31, 2019, we have recorded a liability of approximately $585 million in relation to our reimbursement obligation to Honeywell under the Honeywell Reimbursement Agreement. See Note 19. Commitments and Contingencies of Notes to Consolidated and Combined Financial Statements for a description of the material terms thereof.
+ Employees
+ As of December 31, 2019, we employ approximately 13,000 employees. Of this total, approximately 10.1% of our employees were covered by collective bargaining agreements and represented worldwide by numerous unions and works councils. We believe that our relations with our employees and labor unions have generally been good.
+Seasonality
+ Our business experiences a moderate level of seasonality. Sales activity is generally highest during the early winter months, with the highest sales at the end of the fourth quarter and into the first quarter in the majority of our geographical markets.
+Backlog
+ In general, we do not manufacture our products against a backlog of orders and do not consider backlog to be a significant indicator of the level of future sales activity. Therefore, we believe that backlog information is not material to understanding our overall business and should not be considered a reliable indicator of our ability to achieve any particular level of revenue or financial return.
+Research and Development and Intellectual Property
+ We have software centers of excellence in Austin, Texas and Bengaluru and Madurai, India. In addition, our laboratories are certified to meet various industry standards, such as through UL, enabling us to test products internally. We also have a user experience design group that consists of researchers and product and user experience designers across three primary studios in Austin, Texas; Golden Valley, Minnesota; and Bengaluru, India. As of December 31, 2019, we employed over 1,100 engineers. 
+ Our deep domain expertise, proprietary technology and brands are protected by a combination of patents, trademarks, copyrights, trade secrets, non-disclosure agreements and contractual provisions. We own approximately 3,000 worldwide active patents and pending patent applications to protect our research and development investments in new products and services. We have and will continue to protect our products and technology by asserting our intellectual property rights against third-party infringers. See Note 19. Commitments and Contingencies of Notes to Consolidated and Combined Financial Statements for more information.Segments
+ We manage our business operations through two segments, Products & Solutions and ADI Global Distribution. The Products & Solutions segment offerings include our Comfort, RTS, and Security products, which, consistent with our industry, has a higher gross and operating margin profile in comparison to the ADI Global Distribution segment.
+ 6
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+Products & Solutions
+ We estimate that our net revenue generated from our Products & Solutions segment is primarily from residential end-markets. Included in our Products & Solutions segment are traditional products, as well as connected products, which we define as any device with the capability to be monitored or controlled from a remote location by an end-user or service provider. Products & Solutions consist of solutions in the following Comfort, RTS and Security categories:
+
+• | Comfort: Our Comfort solutions have historically been marketed and sold primarily under the Honeywell brand, and following the Spin-Off, these products and solutions are now marketed and sold under the Honeywell Home brand. These solutions include home products, services and technologies including:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Temperature and Humidity Control Solutions: Products to control air conditioners and heating equipment, thermostats and zoning devices, control panels, dampers and actuators.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Water Solutions: Products to control hydronic heating, cooling, and potable water solutions, including control panels, zone valves, balancing valves, thermostatic radiator valves, temperature valves, floor temperature sensors and accessories, pressure regulators, backflow preventers and potable water care products to filter, clean and soften water.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Air Solutions: Products to control air quality, such as whole home humidifiers and dehumidifiers, air filters, air purification and odor control solutions and ventilation systems and controls.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Software Solutions: Global software platforms and mobile applications that provide contractors and consumers with access to services such as demand response, energy management, auto-replenishment services and predictive appliance diagnostics.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | RTS: Our RTS solutions have historically been marketed and sold under the Honeywell Home brand as part of our portfolio. These solutions include:
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Boiler Products: Solutions that provide safe and efficient combustion for standard and high efficiency Boiler Systems. Key technology in gas adaptivity, gas pre-mix, and diagnostics used in critical components such as gas valves, electronic and ignition controls.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Gas Storage Water Heating Solutions: Solutions that provide safe and efficient combustion for Water Heating Systems. Key technology in gas pressure regulation, set-point control, and temperature accuracy used in critical components such as gas valves, electronic and ignition controls.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Ducted Solutions: Solutions that provide safe and efficient combustion for Warm Air Furnaces. Key technology in ignition, gas pressure regulation, fan control, and system monitoring used in critical components such as air pressure switches, gas valves and ignition controls.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Thermal Adjacency Solutions: Solutions that provide safe and efficient combustion for other gas burning appliances. Key technology in gas ignition and gas pressure regulation used in critical components such as air pressure switches, gas valves, electronic and ignition controls for use in Agricultural heaters, Commercial Cooking gas appliances, Pool heaters, Unit and Duct heaters. In addition, agricultural heaters, equipped with our gas valve, electronic and ignition control.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Security: Our Security solutions are sold under the Honeywell Home and various OEM brands. They include professionally-installed and monitored intrusion and life safety detection and alarm systems, as well as self-installed and self-monitored awareness solutions including:
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Security Panels: Product solutions that communicate with sensors that receive event or condition signals and send those signals to a monitoring station and cloud infrastructure.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Sensors: Product solutions that detect intrusion (for example, motion, opening of doors and windows and breaking of glass), smoke, carbon monoxide and water and transmit a signal to a security panel.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Peripherals: Accessory solutions that interact with security systems, such as keypads and key-fobs.
+--+----------------------------------------------------------------------------------------------------
+
+
+○ | Wire and Cable: Low voltage electrical wiring and category cable.
+--+------------------------------------------------------------------
+
+
+○ | Software Solutions: Global software platforms and mobile applications that provide contractors and consumers with access to services such as alarm monitoring, communication, automation and video services. In addition, we provide our contractors with data analytics tools, through our AlarmNet 360 software suite.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Communications: Solutions that transmit notifications and security information from security systems to monitoring stations, such as cellular radios and internet and telephone line communicators.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 7
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+ 
+○ | Video Cameras: Battery-operated indoor and outdoor video motion viewers that detect motion and enable live “look-in” remotely, and Wi-Fi cameras for indoor and outdoor use.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Awareness: Self-installed and self-monitored systems that include a home gateway/hub, cameras and awareness sensors to detect motion and sounds, opening and closing of doors, entry and exit of known users of the system (facial recognition) and provide alerts to the user via a mobile app.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Cloud Infrastructure: Network operating center that routes signals between home and monitoring station and enables secured, remote data transmissions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Installation and Maintenance: Software tools and applications to enable security contractors to install, program and maintain security systems.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+ADI Global Distribution
+ ADI Global Distribution is the leading wholesale distributor of security and low-voltage electronics products, which include security, safety and audio-visual products and related accessories. These products, which are commonly referred to as “low-voltage”, are traditionally defined as products operating at or below 24 volts. According to IHS data, ADI Global Distribution has the leading global market share in security equipment distribution. ADI Global Distribution operates through a distribution network of over 200 stocking locations throughout the world, delivering to over 100,000 contractors. 
+ Through ADI Global Distribution, we distribute a broad selection of our products as well as third-party products to meet customer needs, including:
+  
+• | Security products
+--+------------------
+
+
+○ | Video Surveillance: Internet protocol and high-definition analog cameras, recording and storage devices, video management and analytics software, and related system accessories.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Intrusion: Residential and commercial alarm systems, keypads, detection and sensing devices, alarm communication equipment, and related systems accessories.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Access Control: Access control panels and software, readers, credentials, locking hardware, gate control, intercoms and related system accessories.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Other products
+--+---------------
+
+
+○ | Fire and Life Safety: Fire alarm control panels, fire detection equipment, fire notification equipment, manual call points/stations and related system accessories.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Wire, networking and professional audio-visual systems.
+--+--------------------------------------------------------
+
+ In addition to our own Security products, which make up 13% of total ADI Global Distribution product line revenue, ADI Global Distribution distributes products from industry-leading manufacturers and also carries a line of private label products. We sell these products to contractors that service non-residential and residential end-users. Management estimates that in 2019 approximately two-thirds of ADI Global Distribution net revenue were attributed to non-residential end markets and one-third to residential end markets.
+ 
+Other Information
+ Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports are available free of charge on our website (www.resideo.com) under the heading Investors (see SEC Filings) immediately after they are filed with, or furnished to, the SEC. All of the reports that we file or furnish with the SEC are also available on the SEC’s website at www.sec.gov. In addition, in this Form 10-K, we incorporate by reference certain information from parts of our Proxy Statement for the 2020 Annual Meeting of Stockholders and which will also be available free of charge on our website. Information contained on, or connected to, our website does not and will not constitute part of this Form 10-K.
+ We are a Delaware corporation incorporated on April 24, 2018. Our principal executive offices are located at 901 E. 6th Street, Austin, Texas 78702. Our telephone number is (512) 726-3500. Our website address is www.resideo.com. 
+ We disclose public information to investors, the media and others interested in our Company through a variety of means, including our investor relations website (https://investor.resideo.com), press releases, SEC filings, blogs, public conference calls and presentations, webcasts and social media, in order to achieve broad, non-exclusionary distribution of information to the public. We use these channels to communicate with our stockholders 
+ 8
+
+RESIDEO TECHNOLOGIES, INC.
+ 
+and the public about our Company, our products, solutions and other issues. It is possible that the information we post on social media could be deemed to be material information. We encourage investors, the media and others interested in our Company to review the information we post on our website and the social media channels listed below. The list of social media channels we use may be updated from time to time on our investor relations website.
+The Company’s News Page (https://www.resideo.com/news)
+ The Company’s Facebook Page (www.facebook.com/resideo)
+ The Company’s Twitter Feed (https://twitter.com/resideo)
+ The Company’s LinkedIn Feed (https://www.linkedin.com/company/resideo1/)
+ References to our website and other social media channels are made as inactive textual references and information contained on them is not incorporated by reference into this Annual Report.

@@ -1,0 +1,371 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+General
+ 
+Provectus Biopharmaceuticals, Inc. (“Provectus”, the “Company,” or “we”) is a clinical-stage biotechnology company developing a new class of drugs for oncology, hematology, and dermatology based on an entire, wholly-owned, family of chemical small molecules called halogenated xanthenes. Intratumoral (aka intralesional) PV-10®, the first small molecule autolytic immunotherapy, which can induce immunogenic cell death, is undergoing clinical study for adult solid tumor cancers, such as melanoma and GI tumors (e.g., hepatocellular carcinoma, metastatic colorectal cancer, metastatic neuroendocrine tumors, metastatic uveal melanoma), and preclinical study for pediatric solid tumor cancers (e.g., neuroblastoma, Ewing sarcoma, rhabdomyosarcoma, osteosarcoma) and blood cancers (e.g., acute myeloid leukemia). Topical PH-10® is undergoing clinical study for inflammatory dermatoses (e.g., psoriasis, atopic dermatitis). Provectus is a Delaware corporation formed in 2002.
+Our Core Science
+ 
+Oncology. PV-10 drug product is an injectable formulation of rose bengal disodium (4,5,6,7-tetrachloro-2’,4’,5’,7’-tetraiodofluorescein disodium salt) (“RB”) drug substance (i.e., active pharmaceutical ingredient). PV-10 is a bright rose red solution containing 10% w/v RB in 0.9% saline for injection, which is supplied in single-use glass vials containing 5 mL (to deliver) of solution. PV-10 is administered directly to superficial disease (e.g., cutaneous melanoma) via injection and to visceral disease (e.g., GI tumors) via image-guided percutaneous injection. PV-10 selectively accumulates in the lysosomes of cancer cells. Cancer cells, particularly advanced cancer cells, are very dependent on effective lysosomal functioning (Piao et al., Ann N Y Acad Sci 2016). Cancer progression and metastasis are associated with lysosomal compartment changes (Nishimura et al., Pathol Oncol Res 1998; Gocheva et al., Genes Dev 2006), which are closely correlated with, among other things, invasive growth, angiogenesis, and drug resistance (Fahrenbacher et al., Cancer Res 2005). Physicochemical properties of lysosomes trap PV-10. Lumenal pH of 4.5 to 5 is ideal for the conversion of soluble rose bengal disodium into insoluble rose bengal lactone.
+ 
+Lysosomes are the central organelles for intracellular degradation of biological macromolecules and organelles. Discovered by Christian de Duve, M.D. in 1955, lysosomes have been linked with a number of biological processes like cell death, inflammasome activation, and immune response. In 1959, Dr. de Duve described lysosomes as “suicide bags,” because their rupture led to cell death and tissue autolysis. Lysosomes have been shown to play a role in each of the primary pathways of cell death, which are apoptosis, autophagy, and necrosis. He was awarded the Nobel Prize in 1974 for discovering and characterizing lysosomes.
+ 
+Provectus showed that PV-10 selectively accumulates in the lysosomes of cancer cells and disrupts them, causing the cancer cells to die. PV-10 (RB) has also been shown by Provectus and independent researchers to trigger each major, distinct form of lysosomal cell death; that is, apoptosis, autophagy, and necrosis.
+ 
+PV-10’s lysosomal targeting comprises:
+ 
+
+● | Transiting the plasmalemma (i.e., the cell membrane) of cancer cells. PV-10 penetrates the cell membrane of cancerous cells which normally protects the cancer cell from its surrounding environment. PV-10, however, is excluded from normal cells; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Accumulating in the lysosomes of cancer cells. As noted above, the physicochemical properties of lysosomes trap PV-10; 
+● | Triggering the release of lysosomal contents. Acute autolysis can occur within 60 minutes. Early preclinical work by Provectus on PV-10’s lysosomal targeting showed identical responses in different disease models, such as Hepa1-6 murine hepatocellular carcinoma, HTB-133 human breast carcinoma, and H96Ar human multi-drug resistant small cell lung carcinoma; 
+● | Inducing the rapid cell death of cancer cells. Early trypan blue exclusion work by Provectus confirmed cell death within hours; and 
+● | Intracellular pH consistency with the release of acidic lysosomal contents. Early seminaphthorhodafluor-1 (“SNARF-1”) staining work by Provectus confirmed lower intracellular pH upon exposure to PV-10 (RB). 
+
+
+2
+-
+
+
+Dermatology. For psoriasis, pathways significantly improved include published psoriasis transcriptomes and cellular responses mediated by IL-17, IL-22, and interferons. Clinical work has shown that more than 500 disease-related genes were down-regulated after four weeks of PH-10 application and expression of a wide-range of central “psoriasis related” genes including IL-23, IL-17, IL-22, S100A7, IL-19, IL-36, and CXCL1 were effectively normalized; that is, treated lesional skin had values in the same range as baseline non-lesional skin.
+ 
+Our Drug Development Strategy for Oncology
+ 
+The Company’s strategy is to (i) demonstrate the independent action of single-agent PV-10; that is, safety and activity in T cell and non-T cell inflamed tumor types, in high and low tumor mutation burden tumor types, and in other tumor type categories, such as gene mutations, (ii) demonstrate the coordinated induction of multiple immune signaling pathways (i.e., functional immunogenic cell death [“ICD”]; Snyder et al., Sci Immunol 2019) by PV-10 treatment, (iii) demonstrate the functional T cell response generated by PV-10 treatment, and (iii) contrast and compare PV-10 treatment – safety, activity, and induced immune response – with that of immune checkpoint inhibition (“CI”) and other drug classes in single-agent and PV-10-based combination therapy settings.
+ 
+This strategy may quicken the advancement of single-agent PV-10 along a pathway-to-approval in solid tumor cancer indications where there is high unmet need, limited activity from other therapies, and the opportunity to display the immune response from PV-10 treatment, such as neuroendocrine tumors (“NET”) metastatic to the liver (“mNET”) (NCT02693067). This strategy may also permit the Company to develop and advance a cancer combination therapy involving one or more CI and/or other drug classes along a pathway-to-approval in a disease indication where there is high unmet need, limited activity from standard of care (“SOC”) treatment, and the opportunity to display how PV-10 augments clinical response to existing or emerging SOCs, such as uveal melanoma metastatic to the liver (“mUM”) (i.e., combination therapy with an anti-CTLA-4 agent and an anti-PD-1 agent) (NCT00986661).
+ 
+Our Drug Development Strategy for Dermatology
+ 
+The Company’s strategy is to (i) demonstrate 12-week single-agent administration proof-of-concept (“POC”) for PH-10 that includes (a) a preclinical safety study of extended 12-week administration (compared to, previously, four weeks), (b) a clinical mechanism of action study in atopic dermatitis, which would be a “book-end” trial to the already completed clinical mechanism study in psoriasis, (c) Phase 2 randomized controlled trials of PH-10 for the treatment of psoriasis and atopic dermatitis that may potentially utilize SOC comparators, and (d) end-of-Phase 2 meetings with the FDA upon the completion of the abovementioned Phase 2 trials, and (ii) expand POC PH-10 treatment to include dermatology combination therapy. Our goal for this POC work is to achieve Phase 3 trial-ready status for PH-10 in both psoriasis and atopic dermatitis.
+Product Pipeline
+ 
+Oncology (PV-10)
+ 
+Melanoma (single-agent)
+ 
+
+● | Completed Phase 1 and 2 studies (NCT00219843 and NCT00521053, respectively). 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Orphan drug designation (“ODD”) status was granted by the U.S. Food and Drug Administration (the “FDA”) for metastatic melanoma. 
+● | In 2019, terminated a Phase 3 study (NCT02288897). 
+● | In 2019, results from an investigator-conceived and led, single-center study of in-transit melanoma (“ITM”) patients receiving either regionally-administered isolated limb infusion (“ILI”) or PV-10 to assess and compare the effect of these treatments on survival by principal investigators at the Princess Alexandra Hospital in Brisbane, Australia (where isolated limb infusion represents the historical standard of care for ITM and PV-10 was used to treat the disease under expanded access) was published: Read et al. Patients with in-transit melanoma metastases have comparable survival outcomes following isolated limb infusion or intralesional PV-10—A propensity score matched, single center study. J Surg Oncol. 2019. 
+
+
+3
+-
+
+
+Melanoma and Non-Melanoma Cancers of the Skin (combination therapy)
+
+
+● | With CI drug KEYTRUDA® (pembrolizumab) – Ongoing Phase 1b/2 study for metastatic melanoma (Stage III-IV) (NCT02557321); in 2019, we: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Reported updated data from the Main Cohort of CI-naïve patients at the annual meetings of the American Society of Clinical Oncology (“ASCO”), including preliminary progression-free survival (PFS) and changes in T cell populations (Agarwala et al., ASCO 2019), and Society for Melanoma Research (“SMR”), including 12-month overall survival (“OS”) and disease-specific survival (“DSS”) rates, and median OS and DSS (Agarwala et al., SMR 2019), 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Continued to enroll patients in an Expansion Cohort of CI-refractory patients, 
+● | Reported preliminary data from the Expansion Cohort of CI-refractory patients at SMR, including objective response and disease control rates (“ORR” and “DCR,” respectively), and changes in immune system activation biomarkers (Zager et al., SMR 2019), and 
+● | Continued to enroll patients in an Expansion Cohort of patients with satellite or in-transit disease. These patients are typically CI-naïve. 
+
+Gastrointestinal Cancers (single-agent)
+ 
+
+● | Ongoing Phase 1 basket study of hepatocellular carcinoma (“HCC”) and other solid tumors metastatic to the liver (NCT00986661); to date, patients have received PV-10 via percutaneous administration into several different hepatic tumor types, including HCC, colorectal cancer, lung cancer, cutaneous melanoma, uveal melanoma, breast cancer, ovarian cancer, and pancreatic cancer. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | FDA ODD status was granted for HCC. 
+● | In 2019, FDA ODD status was granted for ocular melanoma (including uveal melanoma). 
+● | Ongoing Phase 1 study of symptomatic mNET (NCT02693067); in 2019, we: 
+
+
+● | Continued to enroll in the Second Cohort, and 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Reported preliminary data from the First Cohort at ASCO, including lesion-level ORR and DCR, and Chromogranin A responses and quality of life scores (Price et al., ASCO 2019). 
+
+
+4
+-
+
+
+Gastrointestinal Cancers (combination therapy)
+ 
+
+● | With CI combination of YERVOY® (ipilimumab) and OPDIVO® (nivolumab) – Ongoing Phase 1 basket study of HCC and other solid tumors metastatic to the liver (NCT00986661); in 2019: 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continued to enroll patients in the single-site cohort of mUM patients treated with single-agent PV-10, the combination therapies of PV-10+KEYTRUDA or PV-10+OPDIVO, or the combination therapy of PV-10, YERVOY, and OPDIVO, and 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Reported updated uveal melanoma single-agent PV-10 and PV-10 based combination therapy data at the 2019 European Society for Medical Oncology (“ESMO”) Immuno-Oncology Congress (“ESMO I-O”), including lesion-level ORR and DCR (Patel et al., ESMO I-O 2019), and patient-level ORR and PFS (Carter et al., ESMO I-O 2019). 
+
+ 
+Pediatric Cancers (single-agent and combination therapy)
+ 
+
+● | Ongoing non-clinical assessment of pediatric cancer tumor cell lines by the Pediatric Oncology Experimental Therapeutics Investigators’ Consortium (“POETIC”); in 2019: 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Results from POETIC’s preclinical work on in vitro and animal tumor model studies of PV-10 for the treatment of relapsed and refractory neuroblastoma was published: Swift et al. Potent in vitro and xenograft antitumor activity of a novel agent, PV-10, against relapsed and refractory neuroblastoma. Onco Targets Ther. 2019. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | FDA ODD was granted for neuroblastoma. 
+
+Dermatology (PH-10)
+ 
+Toxicology
+ 
+
+● | Completed non-clinical, single-administration studies to demonstrate lack of systemic uptake, as part of toxicology work to support extended 12-week administration. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Psoriasis
+ 
+
+● | Completed Phase 2c randomized study of mild-to-moderate psoriasis (NCT01247818). 
+--+----------------------------------------------------------------------------------------------
+● | Completed Phase 2d mechanism of action study of mild-to-moderate psoriasis (NCT02322086). 
+
+Atopic Dermatitis
+ 
+
+● | Completed Phase 2 study of mild, moderate or severe atopic dermatitis (NCT00690807). 
+--+-----------------------------------------------------------------------------------------
+
+
+5
+-
+
+Oncology (PV-10)
+ 
+We are developing PV-10 for direct injection into tumors as an autolytic immunotherapy, where (a) cancer cells in injected tumors die from self-digestion (i.e., autolytic death), which activate the innate immune system, and (b) a tumor-specific immune response can result via downstream activation of the adaptive immune system (i.e., immunotherapy).
+Locally Advanced and Widely Metastatic Melanoma
+ 
+A pivotal Phase 3 randomized controlled trial of PV-10 as single-agent treatment for locally advanced cutaneous melanoma (Stage IIIB-IV M1a), compared to standard therapy (i.e., investigator’s choice of oncolytic viral therapy or systemic chemotherapy), opened to enrollment in 2015 (NCT02288897). The primary outcome measure of the study was progression-free survival (“PFS”) assessed every 12 weeks for up to 18 months. Secondary outcome measures include complete response (“CR”) rate and its duration, and OS, all also assessed every 12 weeks up to 18 months. In October 2019, we terminated the trial due to an inadequate enrollment rate, which was due in large part to systemic therapy with CI being recommended in the U.S. for Stage III melanoma patients with satellite or in-transit disease.
+ 
+Mechanism of action and other work previously reported by our research collaborators at Moffitt Cancer Center (Toomey et al., PLOS ONE 2013, Liu et al., Oncotarget 2016, and Pilon-Thomas et al., J Immunother Cancer 2016) and the University of Illinois at Chicago (Qin et al., Cell Death Dis 2017) indicate that PV-10 functions as an autolytic immunotherapy in laboratory models of multiple tumor types, such as melanoma, breast cancer, colon cancer, and pancreatic cancer. These collaborators definitively classify PV-10 as an autolytic immunotherapy capable of yielding ICD, a primer for adaptive immunity, functioning via multiple immune effector cells, including CD8+ T cells, dendritic cells, and natural killer T cells. By the end of 2019, additional mechanism work was underway to assess the potential breadth of this immunotherapy capability in other tumor types.
+ 
+In January 2019, principal investigators at the Princess Alexandra Hospital published results from an investigator-conceived and led, single-center study of ITM patients receiving either regionally-administered ILI or intratumoral PV-10 to assess and compare the effect of these treatments on survival, including:
+ 
+Baseline and disease characteristics:
+ 
+
+● | Patients matched for key covariates: Age, gender, primary disease site, and Breslow thickness, 
+--+--------------------------------------------------------------------------------------------------------------
+● | ILI: 36 patients; 56% men; median age of 76.5 years (interquartile range 69-83); 100% Stage IIB/IIIC, and 
+● | PV-10: 36 patients; 56% men; median age of 74.5 years (65-81); 89% Stage IIV/IIIC (11% Stage IV). 
+
+ 
+Treatment response (patient-level best overall response [“BORR”]):
+ 
+
+● | ILI: 22% CR and 50% ORR, and 
+--+---------------------------------
+● | PV-10: 25% CR and 83% ORR. 
+
+ 
+ILI survival outcomes:
+ 
+
+● | Median PFS of 5.0 months (interquartile range 2.7-10.7), 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+● | Median disease-free survival (“DFS”) of 16.5 months (8.9-48.4), 
+● | Median OS of 29.7 months (12.3-88.5), and 
+● | Median melanoma-specific survival (“MSS”) of 74.4 months (24.3-NA); 12-,24-,36-, and 60-month MSS rates of 85%, 75%, and 60%, respectively. 
+
+
+6
+-
+
+
+PV-10 survival outcomes:
+ 
+
+● | Median PFS of 3.9 months (9.6-47.9), 
+--+------------------------------------------------------------------------------------------------------------------------------
+● | Median DFS of 14.1 months (4.5-20.9), 
+● | Median OS of 27.1 months (14.3-48.6), 
+● | Median MSS of 36.4 months (16.6-65.3); 12-, 24-, 36-, and 60-month MSS rates of 83%, 70%, 54%, and 36%, respectively, and 
+● | Differences in PFS, DFS, and MSS comparing ILI with PV-10 were not statistically significant. 
+
+ 
+For those patients with more advanced melanoma that is not fully accessible to injection (Stage IV), we are assessing PV-10 in combination with CI in a Phase 1b/2 clinical study. This study is the result of mechanism of action work on PV-10 showing that it may be complementary to CI. Updated data from the fully-enrolled Phase 1b study portion of 21 CI-naïve patients were reported at the SMR annual meeting in November 2019, including:
+ 
+
+● | Baseline characteristic: Median age of 69 years (range 28-82), 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Disease characteristics: 52% Stage IV M1b-c; median of 2 injectable lesions (range 1-15); most patients had substantial non-injected systemic disease burden, 
+● | Treatment summary: Patients received a median of 5 cycles of PV-10 (mean 3.8, range 1-5) and a median of 5 total injections of PV-10 (mean 11.7, range 1-82); PV-10 was not administered after week 12, 
+● | Safety: Adverse events were consistent with the established patterns for the single-agent use of each drug; principally Grade 1-2 injection site reactions to PV-10; principally Grade 1-3 immune-mediated reactions to KEYTRUDA, 
+● | Injected target lesion efficacy (BORR): 75% CR, 79% ORR, and 86% DCR for 28 injected lesions in 21 patients; 85% CR and 92% DCR for 13 injected lesions in 11 M1b-c patients, 
+● | Overall patient efficacy (BORR, RECIST 1.1): 10% CR and 67% ORR for 21 patients; 9% CR and 82% ORR for M1b-c patients, and 
+● | Durability: 95% 12-month OS rate; 100% 12-month DSS rate; median OS and DSS were not reached; median PFS of 11.7 months. 
+
+ 
+We expanded the Phase 1b study in 2018 to include a First Expansion Cohort of up to 24 patients with advanced melanoma (Stage III-IV) who are CI-refractory and a Second Expansion Cohort of up to 24 patients who have satellite or in-transit disease. Both expansion cohorts continue to enroll patients. Preliminary data from 10 CI-refractory patients were reported at the same SMR annual meeting, including:
+ 
+
+● | Baseline characteristic: Median age of 77 years (range 54-90); compared to the median age of 69 years (range 28-62) of the CI-naive cohort, 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Disease characteristics: 50% Stage IV M1b-d; 50% of patients were refractory to single-agent and dual-agent checkpoint inhibition treatment (KEYTRUDA, YERVOY, or OPDIVO and YERVOY), 
+● | Treatment summary: PV-10 was limited to 5 cycles, 
+● | Safety: Adverse events were consistent with the established patterns for the single-agent use of each drug; 1 patient withdrew due to an adverse reaction to KEYTRUDA, 
+● | Overall patient efficacy (BORR, RECIST 1.1): 20% ORR and 40% DCR; 2 of 10 patients were not evaluated (“NEV”), 
+● | Durability: Median OS and DSS were not reached; median PFS of 4.9 months, and 
+● | Changes in peripheral blood biomarkers: Initial correlative results for these highly checkpoint inhibition-refractory patients were consistent with prior evidence of immune activation by PV-10 in checkpoint inhibition-naïve patients, both as a single-agent and in combination with KEYTRUDA; PV-10-based combination therapy-treated CI-refractory patients exhibited a damage-associated molecular pattern (“DAMP”) profile similar to the DAMP profile of CI-naïve patients receiving single-agent PV-10 (NCT01760499). 
+
+ 
+Research collaborators published results from a study investigating cancer combination therapy with PV-10 and checkpoint inhibition (anti-CTLA-4, anti-PD-1 and anti-PD-L1 antibodies) in murine melanoma models (Liu et al., PLOS ONE 2018), and also examined the role of specific immune cell populations in eliciting and controlling tumor-specific response. The authors showed the impact of combining checkpoint inhibition with the tumor-specific immune response induced by PV-10. Treatment with PV-10 and anti-PD-1 antibody resulted in a delay in tumor growth and enhanced T cell activation in an M05 melanoma tumor model. Similar effects were observed with PV-10 and anti-PD-L1 antibody in a B16 tumor model. The effect of combination therapy with PV-10 and PD-1 blockade is mediated by CD8+ T cells, and depletion of either CD4+ T cells or CD4+CD25+ Tregs enhanced anti-tumor immunity in the M05 melanoma model. Similar effects were also observed with PV-10 and anti-CTLA-4 antibody in the B16 tumor model.
+ 
+
+7
+-
+
+Gastrointestinal Cancers
+ 
+During 2019, we continued our exploratory Phase 1 study of cancers of the liver. This “basket study” enrolls patients with HCC and other tumor types that have metastasized to the liver. Patients are treated using percutaneous injection of PV-10 under image guidance into one or move liver lesions. To date patients with HCC and liver metastases, including colorectal, lung, breast, cutaneous melanoma, uveal melanoma, ovarian, and pancreatic, have been treated at the five centers. The non-clinical mechanism of action work reported by Qin et al. was consistent with clinical observations reported for patients with metastatic colorectal cancer participating in our Phase 1 basket study.
+ 
+In 2018, we announced that the Phase 1 study had expanded to include a single-site cohort of mUM patients. Eligible mUM patients may also receive standard of care checkpoint blockade during and after treatment with PV-10. Updated data from this cohort were reported at the ESMO I-O meeting in December 2019, including:
+ 
+
+● | Baseline characteristics: 46% men; median age of 61 years; 46% elevated LDH, 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Disease characteristics: 100% Stage IV M1a-b; 38% of patients were refractory to one or more prior lines of treatment, with 31% having received prior immunotherapy, 
+● | Treatment summary: 7 patients received 1 cycle of PV-10; 6 patients received 2 cycles; 26 tumors were injected with PV-10, 
+● | Combination therapy: 9 patients received concomitant standard of care checkpoint blockade (i.e., maintenance anti-PD-1, anti-PD-1 subsequent to PV-10 treatment, or anti-CTLA-4+anti-PD-1 subsequent to PV-10 treatment), 
+● | Safety: 3 cases of Grade 3/4 transaminitis that resolved to Grade 1 or better within 72 hours; additional Grade 1 PV-10 related events seen in 1 patient each included pink stool, pink urine, photosensitivity, injection site pain, and hyperbilirubinemia; Additional adverse events, such as nausea, headache, myalgias, blurry vision, decreased white blood cells, and fatigue, were attributed to concomitant checkpoint blockade, and 
+● | Preliminary injected target lesion efficacy: 32% ORR and 82% DCR. 
+
+ 
+In February 2019, the Company was granted FDA ODD for PV-10 for the treatment of for the treatment of ocular melanoma (to include all melanoma disease including that affecting the eye and orbit). The FDA grants ODD status to medicines intended for the treatment, diagnosis or prevention of rare diseases or disorders that affect fewer than 200,000 people in the US. ODD status qualifies companies for benefits that include seven years of market exclusivity following marketing approval, tax credits on U.S. clinical trials, eligibility for orphan drug grants, and waiver of certain administrative fees.
+ 
+In 2017, we initiated clinical activity in a Phase 1 study to assess PV-10 as an autolytic immunotherapy for patients with symptomatic mNET at The Queen Elizabeth Hospital in Adelaide, Australia. This study uses a treatment protocol comparable to that employed in the Phase 1 liver cancer basket study. Because the NET study is focused on a single tumor type, it includes radiologic (medical imaging), blood biomarker, and quality of life assessments specific to NET. Updated data were reported at the ASCO annual meeting in June 2019, including:
+ 
+
+● | Baseline characteristics: 67% men; median age of 65 years (range 47-72), 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Disease characteristics: primary tumor site – 50% small intestine, 33% pancreas, and 17% caecal; 87% Grade 2 (well differentiated, intermediate); all patients were refractory to systemic somatostatin analogues and peptide receptor radionuclide therapy, 
+● | PV-10 treatment summary: Median of 1 cycle (mean 1.7, range 1-4) and median dose per cycle of 2.1 mL (range 1.0-5.8 mL), 
+● | Preliminary safety: Acceptable toxicity (e.g., post-procedure pain, carcinoid flare, nausea); liver function tests have remained stable, 
+● | Preliminary target lesion efficacy: 50% objective response and 87% disease control; response follow-up in 3 patients (50%) is ongoing, and 
+● | Preliminary clinical and biomarker outcomes: overall quality of life scores were stable in 5 patients (87%); Chromogranin A responses were stable in 5 patients (87%). 
+
+Pediatric Cancers
+ 
+In December 2016, we announced a joint research agreement with POETIC to investigate the potential of PV-10 for pediatric cancers. This collaboration involves National Cancer Institute-Designated Cancer Centers that are part of the POETIC group such as Memorial Sloan Kettering Cancer Center, Alberta Children’s Hospital, and other cancer centers.
+ 
+In February 2019, POETIC researchers published preclinical work on in vitro and animal tumor model studies of PV-10 for the treatment of relapsed and refractory neuroblastoma: Swift et al. Potent in vitro and xenograft antitumor activity of a novel agent, PV-10, against relapsed and refractory neuroblastoma. Onco Targets Ther. 2019. According to the POETIC authors,
+ 
+“Our studies provide preclinical proof-of-concept data on the efficacy of PV-10 in neuroblastoma. Mechanistically, we have found that PV-10 acts by disrupting lysosomes, inducing cell cycle changes and initiating cell death by apoptosis. We have also identified several commonly used treatments with which PV-10 shows synergistic anti-tumor activity. Furthermore, we have validated the efficacy of PV-10 in vivo, using neuroblastoma xenograft mouse experiments. Our experiments, carried out in representative cell lines and in tumor bearing mice, provide evidence for the direct cytotoxic potential of PV-10, as well as mechanisms by which this agent may induce target modulatory effects in cancer cells. We have also identified agents that can be combined to generate treatment synergy, providing the framework for the formulation of early phase clinical trials. This, in addition to the expected immunostimulatory effect of PV-10 described previously, provides support for a potential approach where a PV-10 backbone regimen can be combined with agents such as immune checkpoint inhibitors to further enhance its activity in patients with relapsed or refractory neuroblastoma.”
+ 
+Among the authors’ results, PV-10 was shown to be cytotoxic to neuroblastoma cell lines, to disrupt tumor lysosomes, to induce both apoptosis and necrosis in neuroblastoma, to be synergistic with multiple standard anticancer agents, to induce radiosensitivity in neuroblastoma cell lines, and to lead to tumor regression in vivo.
+ 
+
+8
+-
+
+Dermatology (PH-10)
+ 
+We are developing PH-10, an aqueous hydrogel formulation of rose bengal disodium, for topical administration to the skin for inflammatory dermatoses such as psoriasis and atopic dermatitis.
+ 
+In January 2015, we commenced a mechanism of action study of PH-10 to characterize its immunologic signaling aspects, safety, and efficacy. The clinical portion of this study was completed in January 2016. Advanced immunologic profiling of clinical samples obtained from that work was completed in June 2017 and data were reported at Psoriasis Gene to Clinic in London, England in November 2017 (Krueger et al.). These data demonstrated downregulation of more than 500 disease-related genes, including central “psoriasis-related” genes that were normalized to levels consistent with non-lesional skin, and established that PH-10 has a novel mechanism of action in inflammatory dermatoses.
+ 
+Work began in support of extended 12-week administration (proof-of-concept or POC) for PH-10. In 2018, we finished two toxicology-focused, non-clinical, single administration studies using 14C-labeled Rose Bengal to demonstrate lack of systemic uptake. Radio-labeled Rose Bengal is easier to detect in plasma and tissues at very low levels than Rose Bengal itself. These data suggest there is minimal potential of systemic, distant target organ effects from topical application of PH-10. The goal of a planned, non-clinical, toxicology-focused, 12-week administration study is to demonstrate local effects in the skin from the extended use of PH-10 and identify any potential systemic toxicities. When completed, the 12-week POC program may allow for direct comparison of PH-10 to approved topical treatments for psoriasis and atopic dermatitis.
+ 
+Research and Development
+ 
+Our approach to drug development in oncology comprises two related, complementary, clinical program paths based on the features of our respective investigational drugs and their clinically-rational applicability to different patient populations. In solid tumor cancers for adults, for example, we believe PV-10 has important implications as a single-agent for earlier states of disease (e.g., locally advanced disease; Stage III or earlier), while the combination of PV-10 with other classes of therapy (e.g., immunotherapy, chemotherapy, radiotherapy, targeted therapy) is more appropriate for advanced disease states (e.g., widely metastatic disease; Stage IV). In both paths, direct delivery of PV-10 to cancerous tumor (i.e., intratumoral delivery) maximizes local therapeutic potential while minimizing potential for toxicity in normal tissue.
+ 
+Our approach to drug development in dermatology comprises a similar approach, where direct delivery of PH-10 to diseased tissue (i.e., topical delivery) maximizes local therapeutic potential while minimizing potential for toxicity in normal tissue.
+ 
+We believe these approaches optimize potential value in the single-agent setting while providing favorable pharmacologic properties for the use of PV-10 or PH-10, respectively, in combination with other systemic therapies.
+ 
+
+9
+-
+
+Intellectual Property (“IP”)
+
+U.S. Patents
+ 
+We hold a number of patents covering the technologies we have developed and are continuing to develop for the production of investigational drugs and other technologies. All patents material to an understanding of the Company are included below, and a cross reference to a discussion that explains the patent technologies and products is identified for certain patents in the following table:
+
+U.S. Patent No. | Title and Cross Reference | Issue Date | Expiration Date 
+--------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------+--------------------
+7,201,914 | Combination antiperspirant and antimicrobial compositions; see discussion under Over-the-Counter Pharmaceuticals in Description of Business | April 10, 2007 | May 15, 2024 
+8,470,296 | Improved intracorporeal medicaments for high energy photodynamic treatment of disease; see discussion under Dermatology in Description of Business | June 25, 2013 | July 28, 2022 
+8,530,675 | Process for the synthesis of rose bengal and related xanthenes; see discussion under Oncology in Description of Business | September 10, 2013 | April 21, 2031 
+
+
+10
+--
+
+
+9,107,887 | Combination therapy for cancer; see discussion under Oncology in Description of Business | August 15, 2015 | March 9, 2032 
+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+-----------------------
+9,273,022 | Process for the synthesis of rose bengal and related xanthenes; see discussion under Oncology in Description of Business | March 1, 2016 | September 17, 2030 
+9,422,260 | Process for the synthesis of rose bengal and related xanthenes; see discussion under Oncology in Description of Business | August 23, 2016 | September 26, 2030 
+9,808,524 | Combination of local and systematic immunomodulative therapies for melanoma and liver cancer | November 7, 2017 | June 24, 2035 
+9,839,688 | Combination of rose bengal and systemic immunomodulative therapies for enhanced treatment of cancer | December 12, 2017 | June 24, 2035 
+10,130,658 | Method of ex vivo enhancement of immune cell activity for cancer immunotherapy with a small molecule ablative compound | November 20, 2018 | November 20, 2036 
+10,471,144 | Combination of local rose bengal and systemic immunomodulative therapies for enhanced treatment of cancer | November 12, 2019 | November 12 2034 
+
+New U.S. Patents
+ 
+In 2019, we received U.S. patent no. 10,471,144, entitled “Combination of local rose bengal and systemic immunomodulative therapies for enhanced treatment of cancer.”
+ 
+Competition
+ 
+In general, the pharmaceutical and biotechnology industries are competitive, characterized by steady and sometimes disruptive advances in products and technology. A number of companies have developed and continue to develop products that address the areas we have targeted. Some of these companies are pharmaceutical companies and biotechnology companies that are international in scope and very large in size, while others are small companies that have been successful in one or more areas we are targeting. Existing or future pharmaceutical, device, or other competitors may develop products that accomplish similar functions to our technologies in ways that may be less expensive, receive faster regulatory approval, or receive greater market acceptance than our products. Many of our competitors have been in existence longer than we have, have greater capital resources, broader internal structure for research, development, manufacturing and marketing, and may be further along in their respective product cycles.
+
+11
+--
+
+Federal Regulation of Therapeutic Products
+ 
+All of the prescription drug candidates we currently contemplate developing will require approval by the FDA prior to sales within the U.S. and by comparable international governmental healthcare regulatory agencies prior to sale outside the U.S. The FDA and comparable international agencies impose substantial requirements on the manufacturing and marketing of pharmaceutical products. These agencies and other entities regulate, among other things, research and development activities and the testing, manufacturing, quality control, safety and effectiveness claims, labeling, storage, record keeping, approval, advertising, and promotion of our prescription drug candidates. While we attempt to minimize and avoid significant regulatory bars when formulating our products, some degree of regulation from these regulatory agencies is unavoidable.
+ 
+The regulatory process required by the FDA, through which our prescription drug candidates must successfully pass before they may be marketed in the U.S., generally involves pre-clinical laboratory and animal testing, submission of an application that must become effective before clinical trials may begin, adequate and well-controlled human clinical trials to establish the safety and efficacy of the product for its intended indication, and FDA approval to market a given product for a given indication after the appropriate application has been filed. For pharmaceutical products, pre-clinical tests include laboratory evaluation of the product, its chemistry, formulation and stability, as well as in vitro and animal studies to assess the potential safety and efficacy of the product. We will require sponsored work to be conducted in compliance with pertinent local and international regulatory requirements, including those providing for Institutional Review Board approval, national governing agency approval, and patient informed consent, using protocols consistent with ethical principles stated in the Declaration of Helsinki and other internationally recognized standards and delineated by the International Council on Harmonisation (“ICH”) Good Clinical Practice (“GCP”) standards.
+ 
+If the FDA is satisfied with the results and data from pre-clinical tests, it will authorize human clinical trials. Human clinical trials traditionally are conducted in three sequential phases which may overlap. Each of the three phases involves testing and study of specific aspects of the effects of the investigational product on human subjects, including testing for safety, dosage tolerance, side effects, absorption, metabolism, distribution, excretion, and clinical efficacy.
+ 
+Phase 1 clinical trials include the initial introduction of an investigational new drug into humans, or via a new route of administration or new organ system if previously investigated in humans. These studies are closely monitored and may be conducted in patients but may also be conducted in healthy volunteer subjects. These studies are designed to determine the metabolic and pharmacologic actions of the drug in humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on effectiveness. While the FDA can cause us to end clinical trials at any phase due to safety concerns, Phase 1 clinical trials are primarily concerned with safety issues. We also attempt to obtain sufficient information about the drug candidate’s pharmacokinetics and pharmacological effects during Phase 1 clinical trials to permit the design of scientifically valid, Phase 2 studies.
+ 
+Phase 1 studies also evaluate drug metabolism, structure-activity relationships, and the mechanism of action in humans. These studies also determine which investigational drugs are used as research tools to explore biological phenomena or disease processes. The total number of subjects included in Phase 1 studies varies with the drug but is generally in the range of 10 to 80.
+ 
+
+12
+--
+
+
+Phase 2 clinical trials include early controlled clinical studies conducted to obtain preliminary data on the effectiveness of the drug for a particular indication or indications in patients with the disease or condition. This phase of testing also helps determine the common short-term side effects and risks associated with the drug. Phase 2 studies are often randomized controlled studies that are closely monitored and conducted in a relatively small number of patients, usually involving up to several hundred people.
+ 
+Phase 3 studies are expanded controlled and uncontrolled trials. They are performed after preliminary evidence suggesting effectiveness of the drug has been obtained in Phase 2 and are intended to gather definitive information about effectiveness and safety that is needed to evaluate the overall benefit-risk relationship of the drug. Phase 3 studies also provide an adequate basis for extrapolating the results to the general population and transmitting that information in the physician labeling. Phase 3 studies usually include several hundred to several thousand people.
+
+
+We have established a core clinical development team and have been working with external and FDA-experienced consultants to assist us in developing product-specific development and approval strategies, preparing the required submittals, guiding us through the regulatory process, and providing input into the design and site selection of human clinical studies.
+ 
+The testing and approval process requires substantial time, effort, and financial resources, and we may not obtain FDA approval on a timely basis, if at all. Success in preclinical or early-stage clinical trials does not assure success in later-stage clinical trials. The FDA or research institution conducting the trials may suspend clinical trials or may not permit trials to advance from one phase to another at any time for various reasons, including a finding that the subjects or patients are being exposed to an unacceptable health risk. Once issued, the FDA may withdraw a prescription drug approval if we do not comply with pertinent regulatory requirements and standards or if problems are identified after the product reaches the market. If the FDA grants approval of a prescription drug candidate, the approval may impose limitations, including limits on the indicated uses for which we may market a drug product. In addition, the FDA may require additional testing and surveillance programs to monitor the safety and/or effectiveness of approved drug products that have been commercialized, and the agency has the power to prevent or limit further marketing of a product based on the results of these post-marketing programs. Further, later discovery of previously unknown problems with a drug product may result in restrictions on the product, including withdrawal from the market.
+ 
+Marketing our prescription drug candidates abroad will require similar regulatory approvals by equivalent national authorities and is subject to similar risks. To expedite development, we may pursue some or all of our initial clinical testing and approval activities outside the U.S., and in particular in those countries where our prescription drug candidates may have substantial medical and commercial relevance. In some such cases, any resulting drug products may be brought to the U.S. after substantial offshore experience is gained. Accordingly, we intend to pursue any such development in a manner consistent with U.S. and ICH standards so that the resultant development data is maximally applicable for potential global approval.
+ 
+Management Changes
+ 
+On March 25, 2019, the Company’s Board of Directors (the “Board”) named Heather Raines, CPA as Chief Financial Officer (“CFO”). On May 9, 2019, the Board named Bruce Horowitz as Chief Operating Officer (“COO”).
+ 
+
+13
+--
+
+Employees
+ 
+We have two full-time employees. We also engage independent contractors, who currently serve as COO, director of clinical operations, senior scientist, clinical research associates, project manager, information technology manager, controller, patient advocacy manager, and database manager.
+Available Information
+ 
+Our website is located at www.provectusbio.com. We make available free of charge through this website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. Reference to our website does not constitute incorporation by reference of the information contained on the site and should not be considered part of this document.
+ 
+The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC as we do. The website is http://www.sec.gov.
+ 
