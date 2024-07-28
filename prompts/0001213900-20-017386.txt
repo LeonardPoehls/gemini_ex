@@ -1,0 +1,316 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Introduction
+ 
+Aura Systems, Inc., is a Delaware corporation that was founded in 1987. The Company designs, assembles, tests and sells our proprietary and patented axial flux induction machine known as the AuraGen® for industrial and commercial applications and the VIPER for military applications (collectively referred to as the “AuraGen®”).
+ 
+Our patented AuraGen® system –– when applied as a generator –– uses an existing engine (of a vehicle or any other prime mover) to create mechanical energy which is then converted into electric power by our system. Our control system is used to deliver such power to the user. When used as an electric motor, our system delivers mechanical power to drive mechanical devices. During the first half of fiscal 2016, the Company significantly reduced operations due to lack of financial resources. During the second half of fiscal 2016, the Company’s operations were further disrupted when the Company was forced to move from its facilities in Redondo Beach, California to a smaller facility in Stanton, California. During fiscal 2017, the Company curtailed much of its engineering, manufacturing, sales, and marketing activities to focus on renegotiating numerous financial obligations. During fiscal 2018, the Company successfully restructured in excess of $30 million of debt and held its first stockholder meeting since 2011. During fiscal 2019, the Company continued to focus on seeking new sources of financing and utilized a contract manufacturer to produce some initial products. Since July 2019, the Company has focused its efforts on the sales and manufacturing of its products as well as rebuilding relationships with its vendors and suppliers. Though these efforts, since July 8, 2019, the Company has shipped more than one-hundred and thirty units and during fiscal 2020, we recognized revenue of approximately $822,000.
+ 
+Traditional induction machines representing a radial flux design has been the workhorse of industry due to their robustness, attractive cost, and easy control. However, radial flux machines are heavy and bulky. Axial flux induction machines (such as the AuraGen®), on the other hand, have all the advantages of radial flux machines, but with the advantage of higher energy density (more energy per unit volume). This results in axial flux machines being smaller and lighter yet with equivalent performance to the radial flux design. Unlike permanent magnet (“PM”) machines, induction machines do not use any permanent magnets and therefore the controller can change the magnetic (B) fields, since, generally the magnetic (B) field is proportionate to the voltage divided by the frequency (V/f). It is generally accepted that for PM machines, as machine size grows, the magnetic losses increase proportionately, and partial load efficiency drops. On the other hand, with induction machines, as the machine size grows, magnetic losses do not necessarily grow. Induction drives could offer an advantage when high-performance is desired. The peak efficiency of an induction drive will be somewhat lower than with PM machines, but average efficiency may increase. In addition, most permanent magnets used in motor/generator applications are Neodymium-based. Today, more than 80% of Neodymium (a rare earth metal) is produced in China. Induction machines, such as the AuraGen®, however, do not use any permanent magnets.
+ 
+1
+
+ 
+
+Although the first radial flux machines were demonstrated in the early 1900’s, such machines were never widely adopted due to various characteristics of this technology that were deemed to be prohibitive to mainstream utilization, including: (i) strong axial magnetic attraction force between the stator and the rotor, (ii) fabrication difficulties such as cutting the slots in laminated cores, (iii) high cost involved in manufacturing the laminated stator core, (iv) difficulties in assembling the machine and maintaining a uniform air gap and (v) providing a laminated rotor that can stand the large centrifugal forces. Through technological innovations and developments by Aura, however, these historical objections to the axial flux machines have been overcome and do not present a barrier for widespread adoption of the AuraGen® system.
+ 
+The AuraGen® Mobile Power System is composed of two primary subsystems (i) the patented axial flux alternator, (ii) the electronic control unit (“ECU”) The architecture of our ECU is designed to separate the power generation from the power user, thus creating a flexible system that can support multi voltages simultaneously. The system architecture is based on having a direct current (“DC”) power bus that is used to excite the alternator and also to collect energy from the alternator. The user AC loads are supported from the power bus through a PWM based inverter and DC loads are supported through a Buck converter used in conjunction with a bidirectional power supply (BDPS) from the high voltage power buss. Neither the AC nor the DC loads are directly supported by the AuraGen®/VIPER, but rather the control system is such that the AuraGen®/VIPER alternator function is to support the power buss to ensure no significant drop in voltage as the load is applied. This immediately leads to a load following design where the demand on the alternator at any moment in time is equal to the demanded user load (up to the maximum alternator power capabilities). The BDPS also provides the seamless transition to maintain the power bus when the prime mover is turned off (batteries are used to support the power bus).
+ 
+The issue of the strong axial magnetic attraction force between the stator and the rotor was addressed by Aura’s patented approach of using a topology of two stators and a rotor sandwiched between them. This was disclosed in Aura’s U.S. Patent 5,734,217 and U.S. Patent 6,157,175. In addition to other benefits, the topology is such that the axial forces on the bearings are small and negligible.
+ 
+The Company also developed a cast rotor for the axial flux machine as described in U.S. Patents 5,734,217 and 6,157,175. This rotor does not require any laminates and provides the structural integrity to withstand large centrifugal forces, while at the same time provides the proper electric and magnetic properties.
+ 
+After a lengthy development period, the Company first began commercializing the AuraGen® in late 1999 and early 2000. In 2001, our first commercial product was a 5,000-watt 120/240V AC machine; we subsequently added an 8,500-watt configuration and introduced the BDPS that allowed us to provide simultaneously an AC/DC solution. In fiscal 2008, the Company introduced a system that generates up to 16,000 watts of continuous power by combining two 8,000-watt systems on a single-shaft (dual system). Since July 2019, we have upgraded a version of our electronic controller using Silicon Carbide (SiC) switching to 10,000 watts continuous and a dual system was upgraded to 20,000 watts of output power.
+ 
+Impact of the COVID-19 Pandemic
+ 
+The COVID-19 global pandemic has negatively affected the global economy, disrupted global supply chains, and created extreme volatility and disruptions to capital and credit markets in the global financial markets. We began to see the impact of COVID-19 during our fourth quarter of fiscal 2020 with our Chinese joint venture’s manufacturing facilities being required to close and many of our customers suspending their own operations due to the COVID-19 pandemic. As a result, net sales and production levels during the fourth quarter of fiscal 2020 and the first quarter of fiscal 2021 were significantly reduced, thus impacting our results of operations during these quarters.
+ 
+In response to the COVID-19 pandemic and business disruption, we implemented certain measures to manage costs, preserve liquidity and enhance employee safety. These measures included the following:
+ 
+
+● | Reduction of payroll costs through temporary furloughs;
+--+--------------------------------------------------------
+
+
+● | Enhanced cleaning and disinfection procedures at our facilities, temperature checks for our workers, promotion of social distancing at our facilities and requirements for employees to work from home where possible; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Reduction of capital expenditures; and 
+
+
+● | Deferral of discretionary spending.
+--+------------------------------------
+
+ 
+2
+
+ 
+
+The extent of the impact of the COVID-19 pandemic on our business, financial results and liquidity will depend largely on future developments, including the duration of the spread of the COVID-19 outbreak within the U.S. and globally, the impact on capital and financial markets and the related impact on our customers, especially in the commercial vehicle markets. These future developments are outside of our control, are highly uncertain and cannot be predicted. If the impact is prolonged, then it can further increase the difficulty of planning for operations and may require us to take further actions as it relates to costs and liquidity. These and other potential impacts of the COVID-19 pandemic will adversely impact our results for the first quarter of fiscal 2021, as well as the full fiscal year, and that impact could be material.
+ 
+Business Arrangements
+ 
+During fiscal 2018 and fiscal 2019, the Company’s engineering, manufacturing, sales, and marketing activities were reduced while we focused on renegotiating numerous financial obligations. During this time, the Company’s agreements with numerous customers, third party vendors, and organizations and entities material to the operation of the Company business were canceled, delayed or terminated. During fiscal 2018, the Company successfully restructured in excess of $30 million of debt. During fiscal 2019, the Company continued to address its financial needs and began utilizing an outside contractor to manufacture the AuraGen® product. Utilizing contractors, the Company shipped 11 units to customers during fiscal 2019. In the second half of fiscal 2020, the Company began significantly increasing its engineering, manufacturing and marketing activities. From July 8, 2019 through the end of fiscal year 2020 (February 29, 2020), we have shipped more than 130 units to customers, a greater than ten-fold increase over fiscal 2019.
+ 
+In March 2017, the Company signed a joint venture agreement with a Chinese company to build, service and distribute AuraGen® products in China. Under the Jiangsu Shengfeng joint venture agreement, the Chinese partner owns 51% of the joint venture and the Company owns 49%. The Chinese partner contributed a total of approximately $9.75 million to the venture principally in the form of facilities, equipment, and approximately $500,000 of working capital while the Company contributed $250,000 in cash as well as a limited license. The limited license sold to the joint venture, however, does not permit the venture to manufacture the AuraGen® rotor; rather, the joint venture is required to purchase all rotor subassemblies as well as certain software elements directly from the Company. During fiscal 2018, Jiangsu Shengfeng placed a $1,000,000 order with the Company including a $700,000 advance payment of which the Company has failed to deliver produce in accordance with the order received. On November 20, 2019, the Company reached a preliminary agreement with Jiangsu Shengfeng regarding the return of $700,000 previously advanced to the Company. The preliminary agreement reached consists of a non-interest-bearing promissory note and a payment plan pursuant to which the $700,000 is to be paid over a 11-month period beginning March 15, 2020 through February 15, 2021. The preliminary agreement was subject to the JV continuous operation. However, starting in January 2020 the JV was shut down by the Chinese authority a due to the COVID-19 virus, and as of the date of this filing, the JV operation has not restarted. In the Balance Sheet as of February 29, 2020, the unpaid balance of $700,000 was reclassified as part of notes payable. During fiscal 2020, the Company recorded an impairment expense of $250,000 to fully write-off the Jiangsu Shengfeng investment due to the uncertainty of the operation as of this time.
+ 
+On March 26, 2019, various stockholders of the Company, controlling a combined total of more than 27.5 million shares, delivered a signed written consent to the Company removing Ronald Buschur as a member of the Company’s Board and electing Cipora Lavut as a director of the Company.  On March 27, 2019, those same stockholders delivered a further signed written consent to the Company removing William Anderson and Si Ryong Yu as members of the Company’s Board and electing Robert Lempert and David Mann as directors of the Company. These written consents represented a majority of the outstanding shares of the Company’s common stock as of March 26, 2019 and March 27, 2019, respectively. Because of Aura’s refusal to recognize the legal effectiveness of the consents, on April 8, 2019 the stockholders filed suit in the Court of Chancery of the State of Delaware pursuant to Section 225 of the Delaware General Corporations Law, seeking an order confirming the validity of the consents and declaring that Aura’s Board consists of Ms. Lavut, Mr. Mann, Dr. Lempert, Mr. Douglas and Mr. Diaz-Versón, Jr. On July 8, 2019 the Court of Chancery entered final judgment in favor of the stockholder plaintiffs, confirming that (a) Ronald Buschur, Si Ryong Yu and William Anderson had been validly removed by the holders of a majority of the Company’s outstanding stock acting by written consent (b) Ms. Lavut, Mr. Mann and Dr. Lempert had been validly elected by the holders of a majority of the Company’s outstanding stock acting by written consent, and (c) the Company’s Board of Directors validly consists of Cipora Lavut, David Mann, Robert Lempert, Gary Douglas and Salvador Diaz-Versón, Jr. See Item 3, Legal Proceedings for more information.
+ 
+3
+
+ 
+
+The AuraGen®®/VIPER Product Overview:
+ 
+The AuraGen® is composed of three basic subsystems. The first subsystem is the axial flux induction generator that is bolted to, and driven by, the vehicle’s engine, PTO, or any other prime mover. The second subsystem is the ECU, which filters and conditions the electricity to provide clean, steady voltages for both AC and DC power, and provides for variable speed applications as well as load following for increased efficiency. The third subsystem consists of mounting brackets and supporting components for installation and integration of the generator with the vehicle engine, PTO, or the prime mover.
+ 
+The Company has power solutions for three continuous power levels: (a) 5,000 watts; (b) 10,000 watts; (c) 20,000 watts. All the AC power is pure sine wave with total harmonic distortion of less than 2.1% and is available in 120 VAC and/or 230/240/400 VAC as well as 50/60 Hz and either single or three phases. In addition, the power generated on all models can be partitioned to provide simultaneous AC and 14 or 28 VDC.  The AuraGen® power levels can be generated as the prime mover speed varies from idle to maximum rated speed. The VIPER (the military version of the AuraGen® system) includes as an option a complete power management system which (i) monitors in real time the batteries’ voltage and temperature, (ii) provides a partition of the power between AC and DC simultaneously with the ability to be programmed from all AC to all DC, (iii) monitors the RPM of the generator, (iv) monitors the temperatures of the generator and the ECU, (v) monitors the raw power generated, (vi) monitors both the AC and DC loads as to voltage and current, (vii) provides programming of load prioritization and load shedding, and (viii) monitors the voltage of the internal 400-800 VDC bus.
+ 
+Markets Served by the AuraGen®/VIPER
+ 
+Mobile and Remote (not power grid connected) Power Industry
+ 
+We believe that the mobile and remote power generation market is large and growing. There are four basic market segments (i) military, (ii) stationary but remote commercial/industrial, (iii) mobile commercial/industrial, and (iv) hybrid, electric and autonomous vehicles. The military marketplace is also divided between mobile and stationary applications.
+ 
+We believe that one of the fastest growing segments in the military marketplace is On-Board-Exportable-Power (OBEP), which is electric power on vehicles that can be used to support other than vehicle functions. The driver behind the increased demand for on-board power include numerous advance weapon systems as well as increase in C4I functions (command, control, communication, computers and information). Currently, most on board power is provided by Auxiliary Power Units (“APUs”) that are (i) large fuel users, (ii) bulky, (iii) heavy and (iv) require constant maintenance. Militaries all over the world are seeking more efficient integrated power solutions for their vehicles.
+ 
+Similar to the military demands, the commercial and industrial markets also require on-board power to support modern computers, digital sensors and instruments as well as electrical driven tools. Current automotive alternators cannot supply the existing demanded power and thus the common solution is the use of APUs. These APUs can be environmentally unfriendly, substantial users of fuel, heavy, bulky and require constant maintenance and scheduled service. Vehicles used in the telecommunications, utilities, public works, construction, catering, oil and gas industries, emergency/rescue, and recreational vehicles rely heavily on mobile power for their daily work. Hybrid and electric vehicles by their nature require significant amounts of on-board power to charge batteries as well as to operate electric motors.
+ 
+4
+
+ 
+
+The traditional solutions available for mobile and remote power users are:
+ 
+
+● | Gensets (AKA APUs), Gensets are standalone power generation units that are not incorporated into a vehicle and require external fuel (either gasoline or diesel) in order to generate electricity. Gensets (i) are generally noisy and cumbersome to transport because of their weight and size, (ii) typically run at constant speed to generate 50 or 60 Hz of AC power, (iii) must be operated at a significant part of the rated power to avoid wet staking, (iv) are significantly derated in the presence of harmonics in the loads and (v) require significant scheduled maintenance and service. Genset technology has been utilized since the 1950s. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | High-Output Alternators, High-output alternators are traditionally found in trucks and commercial vehicles and the vehicle’s engine is used as the prime mover. All high-output alternators provide their rated power at very high RPM and significantly less power at lower RPM. In addition, high-output alternators are generally only 30% efficient at the low RPM range and increase to only 50% efficiency at the high end of the RPM range. The power generated by high-output alternators is 12 or 24 Volt DC and an inverter is required if AC power is needed. In addition, due to the low power output at low RPMs, in order to get significant power, a throttle controller is used to speed-up the engine. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Inverters, Inverters are devices that invert DC to AC. Inverters as mobile power generators are traditionally used in low power requirements, typically less than 2,500 watts, and do not have the ability to recharge the batteries that are traditionally used as the source of power. Thus, typical inverter users require other means to recharge the used batteries such as “shore-power” or gensets. More recently dynamic inverters became available. Dynamic inverters use power from the alternator to augment power from the batteries and are able to achieve power levels in excess of 6,000 watts. Dynamic inverters introduce significant stresses on both the batteries and alternators, which causes significant life shortening for both. When the inverter is turned on, the alternator is switched off from the vehicle battery and tied into a transformer that uses electronic controls to change the DC alternator inputs to AC inverter output. A separate transformer winding provides battery charging so that fully regulated 120 Volt AC and 12 Volt DC power is available as long as the engine is running at high enough RPM to provide power for the load and the battery charging. All dynamic inverters require a high-output alternator to be able to output significant AC power. As is often the case, the limiting factor is the high-output alternator. In order to get stable output, a very accurate throttle controller is also needed to maintain steady speed on the engine. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Permanent-Magnet Alternators. Recently a number of companies have introduced alternators using exotic permanent magnets. These alternators tend to have higher power generation capabilities than regular alternators at lower engine RPM. In order to be practical in an under-the–hood environment (200oF) active cooling must be added, since the magnets are demagnetized at approximately 176oF. There are other issues that require an active control system that will add and subtract magnetic field strength as the engine RPM increases. Over 80% of the magnets used for electric machines comes from China. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fuel Cells. Fuel cells are solid-state devices that produce electricity by combining a fuel containing hydrogen with oxygen. They have a wide range of applications and can be used in place of the internal combustion engine and traditional lead-acid and lithium-ion batteries. The most widely deployed fuel cells are substantially more expensive than other power solutions. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Batteries. Batteries convert stored chemical energy to electrical power 
+--+-----------------------------------------------------------------------------------------------------------------
+
+Competition
+ 
+The Company is involved in the application of its AuraGen® technology to mobile power and, as such, faces substantial competition from companies offering different technologies.
+
+5
+
+ 
+
+Gensets AKA APU- Portable generators meet the large market need for auxiliary power. Millions of units per year are sold in North America alone, and millions more across the world to meet market demands for 1 to 20 Kilowatts of portable power. The market for these power levels addresses the commercial, leisure and residential markets, and divides essentially into: (a) higher power, higher quality and higher price commercial level units; and (b) lower power, lower quality and lower price level units. Gensets provide the strongest competition across the widest marketplace for auxiliary power. Onan, Honda and Kohler, among others, are well established and respected brand names in the genset market for higher reliability auxiliary power generation. There are over 40 registered genset-manufacturing companies in the United States.
+High Output Alternators- There are many High Output Alternator manufacturers. Some of the better known are: Delco-Remy, Bosh, Nippon Densu, Hitachi, Mitsubishi and Prestolite. All alternators provide their rated power at very high RPM and significantly less power at lower RPM. In addition, alternators are generally only 30% efficient at the low RPM range and increase to 50% efficiency at the high RPM range.
+Inverters-There are many inverter manufacturers; across the globe the best known one is Xentrex. The pricing of industrial grade sine wave inverters is approximately $700-850 per kilowatt plus the cost of a high output alternator (estimated at $1,000) and a good throttle controller (estimated in the range of $250-500).
+ 
+Permanent-Magnet (“PM”) alternators. -A number of companies have introduced alternators using exotic Neodymium (NdFeB) magnets. These alternators tend to have higher power generation capabilities than regular alternators at lower RPM. Unfortunately, PM machines with NdFeB magnets are very sensitive to temperature and, unlike the AuraGen®, cannot survive the typical under-the-hood environment (200oF+). In order to apply such devices for automotive applications one must add expensive and cumbersome active cooling since the magnets are demagnetized at approximately (176oF). To date, such machines have been used mostly in wind-power generation applications.
+ 
+In addition to the temperature challenges of such machines, there are other issues involving active control of the magnetic field. The main disadvantage of PM generators is the difficulty of output voltage regulation to compensate for speed and load variation due to the lack of a simple means of field control.
+ 
+Fuel Cells-Fuel cells are solid-state, devices that produce electricity by combining a fuel containing hydrogen with oxygen. They have a wide range of applications and can be used in place of the internal combustion engine and traditional lead-acid and lithium-ion batteries. These systems are, however, generally prohibitively expensive, and the most widely deployed fuel cells are estimated to cost significantly more per kilowatt than alternative solutions.
+Others- Symetron Technology by Raser Inc. is sometimes mistaken for a new form of a motor or generator. It is not. Rather, the Symetron technology is simply a variable frequency motor/generator controller that uses numerous control schemes to optimize performance. The Symetron technology involves adaptive tuning to continuously optimize motor and system efficiency for the speed and torque operating point.
+ 
+The Symetron controller is a potential competitor to variable speed motor controllers provided by such companies as of ABB, or Baldor-Electric Co.
+ 
+Evans Electric in Australia has introduced an axial flux machine with a complete conductive rotor. Such a machine was first introduced by Brinner more than 20 years ago and was abandoned because the rotor lacked the required rigidity to withstand the magnetic and centrifugal forces. The Brinner machine is cited in Aura’s patents.
+ 
+Transport Refrigeration (“TRU”)- The main competitors for the all-electric TRU are traditional diesel-based solutions provided by Thermo-king and Carrier. The diesel based comparable systems provided by Thermo-king and Carrier are somewhat less expensive than our AuraGen® all-electric solution, however the diesel solutions require frequent maintenance and the utilization of a separate diesel engine that consumes considerable fuel every operating hour. In addition, the diesel solutions emit harmful emissions that have been recognized by the U.S. Environmental Protection Agency, California’s Air Resource Board and others as dangerous pollutants and are increasingly subject to federal and state regulations.
+ 
+Most of our competitors have far greater financial, technical, and marketing resources than we have. They have larger budgets for research, new product development and marketing, and have long-standing customer relationships. We also compete with many larger and more established companies in the hiring and retention of qualified personnel. Our financial condition has limited our ability to market the AuraGen®.
+ 
+6
+
+ 
+
+The AuraGen® uses different technology and because our product is radically different from traditionally available mobile power solutions, users may require lengthy evaluation periods to gain confidence in the product. OEMs and large fleet users also typically require considerable time to make changes to their planning and production.
+ 
+Competitive Advantages of the AuraGen®
+ 
+We believe the AuraGen® system to be a superior product due to its convenience, cost efficiency, fuel efficiency, reliability, flexibility in power output, quality of the electricity generated, and its ability to provide the full power at variable speeds as well as provide load following architecture.
+ 
+
+● | Smaller Size and Weight. The AuraGen®’s patented breakthrough design is more than 50% smaller and lighter as compared to traditional solutions of comparative output. This ultra-compact design allows the AuraGen® to reside “under-the-hood” of most vehicles and to be powered by a vehicle’s primary engine or power takeoff “PTO”. In comparison, traditional solutions are too large and bulky to be integrated directly into most vehicles and, therefore, require their own independent power source. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Higher Efficiency. The AuraGen® power solution is also more efficient than traditional solutions. due to the significant increase in efficiency of the AuraGen® design over conventional designs. Traditional alternators, for example, are at best 50% efficient and require approximately 1 gallon of fuel per each 7.6 kW-Hr. The AuraGen® system in comparison is approximately 80% efficient and requires approximately only 1 gallon of fuel per each 12.16 kW-Hr. Thus, given a need for 10 kW of power, for example, the traditional solution will require approximately 1.3 gallons per hour of fuel while the AuraGen® solution will require only 0.83 gallons per hour for the same output. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The AuraGen® solution is also a load-following solution that further increases efficiency. A load following solution is able to adjust the amount of power output generated at any one moment to mirror the immediate demand. This is an important characteristic as power demands generally fluctuate (sometimes dramatically). Traditional solutions, in comparison, are not load-following and simply provide power at their maximum output rating at all times, irrespective of demand. By producing only that amount of power necessary to meet actual demand, however, the AuraGen® becomes especially efficient whenever less than maximum power output is required.
+ 
+
+● | Variable Speed. The AuraGen® solution provides full power at near idol. This means that, unlike most other traditional systems, the AuraGen® system’s ability to provide users with full power is largely independent of the speed of the prime mover. The ability to operate at variable speed makes the Aura solution very attractive when the speed of the prime mover varies and is unpredictable, such as in automotive applications. The variable speed solution is a direct consequence of our system architecture where we separated the power generation from the power delivery by the power bus. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Earth-Forward, Green Technology. The AuraGen® system is significantly more environmentally friendly than traditional generator and mobile power technology. Because of its extreme efficiency and resulting small size, the AuraGen® system utilizes fewer resources to manufacture. Moreover, the AuraGen® uses a vehicle’s primary automotive engine, which is already highly regulated for environmental protection. Traditional mobile power solutions, in comparison, use small, less efficient, auxiliary engines that produce significantly higher levels of emissions per unit of power output than the automobile engine. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In applications, such as transport refrigeration, use of the AuraGen® system eliminates the need for a separate auxiliary diesel engine to run the refrigeration unit; because these auxiliary diesel engines are highly pollutive as to both emissions and noise, the AuraGen® has the potential to meaningfully impact air and noise pollution levels in areas where it is employed.
+ 
+
+● | Durability; No Scheduled Maintenance. The AuraGen® is not sensitive to temperature or altitude variations and generates the rated power at or near idle engine RPM. The AuraGen® also does not require scheduled maintenance and is offered with a three-year warranty, compared to the typical one-year warranty available for traditional solutions. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7
+
+ 
+
+Targeted Markets
+ 
+The Company is reexamining and identifying key markets upon which to focus as the Company expands operations.
+ 
+The uses of mobile generators in many industries are well documented and understood. Most industries dealing with construction and maintaining infrastructure rely on mobile generators for their primary power source. In addition, numerous leisure users are demanding friendly mobile power to use for their air-conditioning and appliances while traveling by RVs or boats. Aura already has a well-defined global interest in numerous market segments with over 10,000 systems installed in 20 countries. The global opportunities can clearly expand rapidly by providing social and economic benefit to end-users.
+ 
+Traditionally, these markets have been served by generators knows as gensets, also known as Auxiliary Power Units (“APU”) that consist of a small diesel or gasoline engine and an alternator. The largest segments of mobile power users require power in the 3.5 to 15 kilowatts (“kW”) range. The global motor and generator manufacturing industry in 2013 had revenue of about $100 billion annually1.
+ 
+Military market
+ 
+One of the fastest growing segments is the military marketplace for On-Board-Exportable-Power (OBEP); electric power on vehicles that can be used to support additional functions over and above those of traditional vehicle functions. The drivers for increased demand for on-board power include numerous advanced weapon systems as well as an increase in C4I functions (Command, Control Communication, Computers and Intelligence). Similar to the military demands, the commercial and industrial markets also require on-board power to support modern computers, digital sensors and instruments as well as electrically driven tools. Current automotive alternators cannot supply the existing demanded power and, thus, the common solution is the use of Auxiliary Power Unit. Vehicles used in the telecommunications, transport refrigeration, utilities, public works, construction, catering, oil and gas service industries, emergency/rescue, and recreational vehicles and boats rely heavily on mobile power for their daily needs.
+ 
+One focused market for the Company’s VIPER solution is military applications. The global military land vehicles market is expected to grow by 29% through 2022, increasing to $30.33 billion by 2022, according to market researcher, Frost & Sullivan in London2. While traditional markets for military vehicles such as the U.S. are choosing to upgrade and maintain existing fleets rather than replace aging vehicles, other regions are looking to purchase new units, which also provides maintenance and upgrade opportunities. The active number of military vehicles was estimated at over 408,000 in 2012 and is expected to increase to slightly over 418,000 by 2021. New vehicle procurement is expected to decline in western defense and increase in emerging markets of APAC and the Middle East. End-users are focusing more on quality over quantity in all new procurements.3
+
+
+
+
+1 | www.researchandmarkets.com/research/85nfdq/motor_ Press Release | Wed Feb 27, 2013
+--+-----------------------------------------------------------------------------------
+
+
+2 | John Keller July 10, 2014 Military and Aerospace Electronics
+--+-------------------------------------------------------------
+
+
+3 | Frost and Sullivan, October 2012
+--+---------------------------------
+
+ 
+8
+
+ 
+
+Hybrid APU Market
+ 
+Aura’s technology can provide for a significant fuel savings for users that operate diesel APUs with the future introduction of an Aura-designed hybrid APU solution as shown by the diagram. The logic for a hybrid solution is based on the following:
+
+● | Significant reduction is fuel usage 
+--+-----------------------------------------------------------------------------
+
+
+● | Significant reduction in the diesel engine usage provides for longer life and lower maintenance costs 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ability to start inductive load without the need to oversize the diesel engine 
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ability to seamlessly deal with power spikes 
+--+--------------------------------------------------------------------------------------
+
+
+● | Significant reduction in noise 
+--+------------------------------------------------------------------------
+
+Electric Motor Market
+ 
+Aura’s axial flux induction machine can be used both as a generator and or as an electric motor. The global electric motor sales market size is expected to reach $214.5 billion by 20254, according to a new report by Grand View Research, Inc. Electric motors are used in all heating, ventilation, and cooling (HVAC) equipment. They are also used in multiple applications across industry verticals such as home appliances, industrial machinery, and motor vehicles, among others.
+ 
+According to a new market research report, the overall induction motor market is expected to exhibit high growth. The driving factor for the growth of the induction motor market is its simple and rugged physical structure. Induction motors are robust and can operate in any environmental condition. Due to the absence of brushes and slip rings (which can cause sparks), they are safe to operate in polluted and explosive working conditions. And, unlike synchronous motors, induction motors do not require starting mechanisms since they have a self-starting torque. This leads to their reliable, cost and operational effectiveness, and easy maintenance. Hence, induction motors are preferred over synchronous motors.
+ 
+Vehicle Electrification Market
+ 
+Vehicle electrification can be grouped as (i) hybrid vehicles, (ii) electric vehicles, (iii) electrification of Heating Ventilation and Air conditioning (“HVAC”), and (iv) high power alternators. For the hybrid segment, Aura’s product line needs to consist of 60-75 kW solutions for locomotion with very low rpm and a 5-10 kW solution for electric power generation. For the general electric car segment, the required power is approximately 150-200 kW solution with high torque at low rpm. The general automotive electrification of HVAC requires a 5-10 kW solution and the high-power alternator requires 2.5-3 kW with both 28 and 56 VDC. The AuraGen® power solution technology could meet all of the above requirements. The power required for the upcoming autonomous driven vehicle is a perfect fit for the Aura’s alternator which should support both 28V and 56 volts at a very competitive price and exceptional efficiency.
+ 
+The auto electrification is a developing market with potential estimates that vary drastically from one to another. What is well known is that the demand of high output high efficiency alternators is in the many millions of units per year. Aura’s technology allows for significant cost savings in the manufacturing process and significant improvements in efficiency and performance.
+ 
+
+
+4 | https://www.grandviewresearch.com › Press Release
+--+--------------------------------------------------
+
+ 
+9
+
+ 
+
+Facilities, Manufacturing Process and Suppliers
+ 
+During fiscal 2020, our facilities consisted of approximately 20,000 square feet in Stanton, California and an additional storage facility in Santa Clarita, California. The Stanton facility is used for final assembly and testing of AuraGen®/VIPER systems under a month-to-month rent agreement for $10,000 per month. The monthly rent for the Santa Clara storage facility is also under a month-to-month rental agreement for $5,000 per month. In May 2020, we gave notice of our intention to vacate the Santa Clara storage facility by July 31, 2020. From February to July 2019, the Company also rented on a month-to-month basis approximately 300 square feet of office space in Irvine, California at a cost of $2,350 per month. In July 2019, our new management team terminated the 300 square feet of office space in Irvine, California.
+ 
+Our current Stanton facility is not sufficient to support the expected increase in operations and the Company is actively searching for a new facility to be used for production, testing, warehousing, engineering, and office space for support staff.
+ 
+Our Jiangsu Shengfeng joint venture, of which the Company owns 49% and as further described in “Business Arrangements”, owns facilities of approximately 400,000 square feet, consisting of approximately 200,000 square feet of manufacturing space and 200,000 square feet of general office and engineering space. The Jiangsu Shengfeng facilities are fully paid for and there is no monthly or annual rent associated with these facilities.
+ 
+As the Company begun to increase operations, we will need to renew relationships and contracts with our suppliers or locate suitable new suppliers for subassemblies and other components.
+ 
+Research and Development
+ 
+We believe that ongoing research and development is important to the success of our product in order to utilize the most recent technology, develop additional products and additional uses for existing products, stay current with changes in vehicle manufacture and design and maintain an advantage over potential competition. Our engineering, research and development costs for fiscal 2020 was approximately $0.2 million compared to approximately $0.5 million in fiscal 2019.
+ 
+In fiscal 2019 we began redesign work on our Electronic Control Unit (“ECU”) to include state-of-the-art power electronics and processors. Work on this redesign was temporarily suspended in mid-2019 when the Company’s then-management team reallocated significant resources to oppose shareholders controlling a majority of the outstanding shares of the Company’s common stock who sought to replace certain members of the Company’s Board of Directors. On July 8, 2019 the Delaware Court of Chancery entered final judgment confirming the validity of this stockholder action to remove certain directors. With the new management team installed, work on the ECU redesign resumed and, in September 2019, we successfully tested and implemented this newly designed ECU. In fiscal 2021 we plan to begin delivering the new ECU solution.
+ 
+Patents and Intellectual Property
+ 
+Our intellectual property portfolio consists of trademarks, proprietary know-how, trade secrets, and patents.
+ 
+In the area of electromagnetic technology, we have developed numerous magnetic systems and designs that result in a significant increase of magnetic field density per unit volume that can be converted into useful power energy or work. This increase in field density is a factor of three to four, which, when incorporated into mechanical devices, could result in a significant reduction in size and cost of production for the same performance.
+ 
+The applications of these technological advances are in machines used every day by industrial, commercial, and consumers. We have applied technology to numerous applications in industrial machines, such as generators, motors, actuators, and linear motors.
+ 
+10
+
+ 
+
+We hold the following patents: Nos. 6,157,175; 6,700,214; 6,700,802; 8,955,624; with expiration dates in 2020, 2024, 2024 and 2033 respectively.
+ 
+At the end of fiscal 2013 and the first quarter of fiscal 2014, we filed five new patent applications related to the AuraGen®. These new patent applications are specifically designed to cover the (i) integration of the AuraGen® power solution with transport refrigeration, (ii) the interface kit of the AuraGen® with prime movers, (iii) a water cooled AuraGen® solution for situations where ventilation is not available, (iv) a unique cable system with safety protection to transfer high power between two moving objects, and (v) a unique clamping of power electronic components to heat sink to ensure good thermal conductivity.
+ 
+Government Regulation
+ 
+We are subject to laws and regulations that affect the Company’s activities, which include, but are not limited to, the areas of labor, intellectual property and ownership and infringement, tax, import and export requirements, environmental, and health and safety. As we recommence operations, our operations will again be subject to federal, state and local laws and regulations governing the occupational health and safety of our employees and wage regulations. For example, we are subject to the requirements of the federal Occupational Safety and Health Act, as amended, or OSHA, and comparable state laws that protect and regulate employee health and safety. We expect to expend resources to maintain compliance with OSHA requirements and industry best practices.
+Employees
+ 
+As of the date of this filing, the Company has seven full-time equivalent employees. Additionally, the Company engages independent contractors to support various areas of the business. The independent contractors are used on an as-needed basis.
+Significant Customers
+ 
+As of the date of the filing of this Annual Report on Form 10-K, CBOL Corporation of Chatsworth, California is a significant customer representing more than 95% of our annual revenues.
+Backlog
+ 
+As of the date of the filing of this Annual Report on Form 10-K, the Company has no significant backlog of orders.
+ 
+Raw Materials
+ 
+The most important raw materials we use in manufacturing our products are steel, copper, and aluminum. Raw materials are purchased both domestically and outside the United States. We have no significant long-term supply contracts. When possible, we maintain a number of sources for our raw materials, which we believe contribute to our ability to obtain competitive pricing. The cost of some of our raw materials and shipping costs are dependent on petroleum cost. Higher material prices, cost of petroleum, and costs of sourced products could have an adverse effect on margins.
+ 
+We enter into standard purchase agreements with certain foreign and domestic suppliers to source selected products. The terms of these arrangements are customary for the industry and do not contain any long-term contractual obligations on our behalf.
+ 
+Available Information
+ 
+We file annual, quarterly and current reports and other information with the Securities and Exchange Commission (the “SEC” or the “Commission”). These materials can be inspected and copied at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. Copies of these materials may also be obtained by mail at prescribed rates from the SEC’s Public Reference Room at the above address. Information about the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+ 
+11
+
+ 
+
+On our website, www.aurasystems.com, we provide free of charge our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments thereto, as soon as reasonably practicable after they have been electronically filed or furnished to the SEC. Information contained on our website is not part of this Annual Report on Form 10-K or our other filings with the SEC.
+ 

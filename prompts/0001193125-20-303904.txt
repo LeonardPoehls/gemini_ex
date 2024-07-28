@@ -1,0 +1,417 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+ At Twist Bioscience Corporation, we work in service of customers who are changing the world for the better. In fields such as health care, food/agriculture, industrial chemicals, academic research and data storage, by using our synthetic DNA tools, our customers are developing ways to better lives and improve the sustainability of the planet. We believe that the faster our customers succeed, the better for all of us, and we believe Twist Bioscience is uniquely positioned to help accelerate their efforts. 
+ We have developed a disruptive DNA synthesis platform to industrialize the engineering of biology that provides DNA for a wide range of uses and markets. The core of our platform is a proprietary technology that pioneers a new method of manufacturing synthetic DNA by writing DNA on a silicon chip. We have miniaturized traditional chemical DNA synthesis reactions to write over one million short pieces of DNA on each silicon chip, approximately the size of a large mobile phone. We have combined our silicon-based DNA writing technology with proprietary software, scalable commercial infrastructure and an e-commerce platform to create an integrated technology platform that enables us to achieve high levels of quality, precision, automation, and manufacturing throughput at a significantly lower cost than our competitors. 
+ We have applied our unique technology to manufacture a broad range of synthetic DNA-based products, including synthetic genes, tools for next generation sample preparation, and antibody libraries for drug discovery and development, all designed to enable our customers to conduct research more efficiently and effectively. Additionally, we are expanding our footprint by harnessing our proprietary platform to disrupt and innovate within larger market opportunities, such as discovery partnerships for biologic drugs, and new applications for synthetic DNA, such as digital data storage, to expand the overall reach and impact of DNA-based products. We sell our synthetic DNA and synthetic DNA-based products to a global customer base of approximately 2,200 customers across a broad range of industries. 
+ DNA is the fundamental building block of biology. The ability to design DNA and engineer biology, a field known as synthetic biology, is growing rapidly, and we believe this field represents one of the most exciting areas of growth and technological innovation in the 21st century. The ability to modify DNA to improve health and the sustainability of the planet is leading to a broad range of applications for synthetic DNA and synthetic DNA-based products across multiple industries, including: 
+ 
+
+ | healthcare for the identification, prevention, diagnosis and treatment of disease (antibody discovery and optimization technology);
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | chemicals/materials for cost-effective and sustainable production of new and existing specialty chemicals and materials, such as spider silk, nylon, rubber, fragrances, food flavors and food additives;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | food/agriculture for more effective and sustainable crop production;
+--+---------------------------------------------------------------------
+
+
+ | academic research for a broad range of applications; and
+--+---------------------------------------------------------
+
+
+ | technology for potential use as an alternative long-term data storage medium.
+--+------------------------------------------------------------------------------
+
+Background 
+ We currently generate revenue through two primary product lines: synthetic biology tools and next generation sequencing, or NGS, tools. In addition, we are leveraging our platform to expand our portfolio to include other 
+ 
+3 
+
+
+  synthetic DNA-based products and address additional market opportunities, including vertical market opportunities in biological drug discovery and development and digital data storage. 
+ As part of our synthetic biology offering, we have commercialized a custom DNA library solution which we believe can be leveraged to facilitate other proprietary tools to provide an end-to-end solution in biologics drug discovery and early development, from target to investigational new drug, or IND, application, adding value as a partner to biotechnology and pharmaceutical companies. 
+ In fiscal year 2020 we served approximately 2,200 customers and reported $90.1 million in revenue, including $29.1 million in revenue to the chemicals/materials sector, $40.0 million in revenue to the healthcare sector, $19.6 million in revenue to the academic research sector and $1.4 million in revenue to the food/agriculture sector. The industrial chemicals sector includes sales of $10.4 million to Ginkgo Bioworks, Inc., which we believe is the largest purchaser of synthetic DNA. 
+ COVID-19 considerations 
+ In March 2020, the World Health Organization declared the COVID-19 outbreak to be a pandemic. During the twelve months ended September 30, 2020, our revenues were not significantly affected by the COVID-19 pandemic. However, the extent to which the COVID-19 pandemic affects our future financial results and operations will depend on future developments which are highly uncertain and cannot be predicted, including the recurrence, severity and/or duration of the ongoing pandemic, and current or future domestic and international actions to contain and treat COVID-19.
+We are following public and private sector policies and initiatives to reduce the transmission of COVID-19, such as the imposition of travel restrictions and the promotion of social distancing and work-from-home arrangements. We are taking a variety of measures to ensure the availability and functioning of our critical infrastructure, to promote the safety and security of our employees and to support the communities in which we operate. These measures include increasing our inventory, requiring remote working arrangements for employees not integral in physically making and shipping our products or who need specialized equipment to perform their work, investing in personal protective equipment, and providing paid sick leave to affected employees. For fiscal 2020, we provided shelter-in-place compensation during the quarter ended June 30, 2020 for employees working on site. On July 20, 2020 we commenced weekly testing of our employees working on site. 
+ Due to the speed with which the situation may change, we are not able at this time to estimate the effect of COVID-19 on our financial results and operations, but the effect could be material for fiscal year 2021 and/or during any future period affected either directly or indirectly by this pandemic. For further discussion of the risks relating to COVID-19, see We are subject to risks associated with COVID-19 under the section titled Risk factors. 
+ Our Markets 
+ The synthetic biology industry 
+ Our products serve the field of synthetic biology, which is undergoing an era of rapid innovation and transformation. Synthetic biology is the engineering of biology to build new biological systems or re-design existing biological systems. The ability to design DNA and engineer biology is creating advances and benefits for a broad and growing range of applications for synthetic DNA and synthetic DNA-based products across multiple industries, including: 
+ 
+
+ | healthcare for the discovery and production of new vaccines, therapeutics and molecular diagnostics;
+--+-----------------------------------------------------------------------------------------------------
+
+
+ | chemicals/materials for cost-effective and sustainable production of new and existing specialty chemicals and materials, such as spider silk, nylon, rubber, fragrances food flavors and food additives;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4 
+
+
+ 
+ | food/agriculture for more effective and sustainable crop production;
+--+---------------------------------------------------------------------
+
+
+ | academic research for a broad range of applications; and
+--+---------------------------------------------------------
+
+
+ | technology for potential use as an alternative long-term data storage medium.
+--+------------------------------------------------------------------------------
+
+ Synthetic DNA is the fundamental building block of synthetic biology. Users of synthetic biology can design synthetic DNA to regulate the production of proteins and other molecules to achieve a specific functional purpose. While synthetic DNA has been produced for more than 40 years, the complexities of biology and the production constraints inherent in legacy processes have historically limited the applications and market opportunities for DNA synthesis. 
+ The NGS Industry 
+ Our NGS product line improves the work of our customers within large and growing markets. NGS has transformed many markets in recent years by changing the landscape of diagnosing disease and disorders to offer a path to prevention or treatment of disease. Some of the markets impacted by NGS includes oncology, reproductive health, food/agriculture, consumer genomics, infectious disease research and drug discovery. As NGS technology improves and the cost of sequencing declines, new emerging markets that were once considered impractical, such as population-scale sequencing, liquid biopsy and single cell sequencing, have become major areas of interest and investment. 
+ Historically, a significant constraint in many NGS applications has been the high cost and long turnaround time of oligonucleotide production. Highly accurate and reproducible oligonucleotide production is required to produce high quality target enrichment data. Traditionally, the lack of options for oligonucleotide production forced researchers to choose between using less precise methods or to reduce the number of samples in their study. 
+ The ability of the Twist DNA synthesis platform to precisely manufacture target enrichment probes at large scale has dramatically increased the types of projects that can now be addressed using NGS technologies. Our platform has unlocked new applications, improved data quality, and dramatically expanded the types of scientific questions that can be answered using NGS. In addition, the speed of our DNA synthesis platform enables customers to quickly deploy NGS technologies to applications where the time to answer is critical. 
+ 
+5 
+
+
+ Our platform 
+ We developed the Twist Bioscience DNA synthesis platform to address the limitations of throughput, scalability, and cost inherent in legacy DNA synthesis methods. Our platform stems from extensive analyses and improvements to the existing gene synthesis and assembly workflows. Our core technologies combine expertise in silicon, software, fluidics, chemistry, and motion and vision control to miniaturize thousands of parallel chemical reactions on silicon and write thousands of strands of DNA in parallel. With a footprint that is similar to the size of a 96-well plate that produces one gene, we are able to produce 9,600 genes in parallel. Based on current production needs, we have intentionally designed our latest chip to make 6,144 genes in parallel, but we have the current capability to increase this to 9,600 genes, as needed. We have combined our DNA synthesis technology with propriety software and a scalable commercial infrastructure to create our vertically integrated DNA synthesis platform capable of delivering very large volumes of high-quality synthetic DNA at low cost. 
+ 
+
+Enzymatic Synthesis 
+ Several companies are pursuing an emerging gene synthesis process that uses enzymatic chemistry rather than phosphoramidite chemistry. While the promise of enzymatic synthesis to deliver longer genes in a shorter timeframe provides excitement for the industry, this technology is at the proof-of-concept stage and has not yet been proven to be scalable or commercially viable. If, in the future, enzymatic synthesis proves commercially scalable, we have the ability to include this chemistry within our established infrastructure. 
+ Our products 
+ We have developed multiple products derived from synthetic DNA and our versatile DNA synthesis technology. Our current offering consists of two primary product lines, synthetic biology tools and NGS tools, that address different needs of our customers across a variety of applications, such as synthetic genes, oligo pools, SARS-CoV-2 tools and DNA libraries. 
+ 
+6 
+
+
+ Synthetic Biology Products 
+ Synthetic genes 
+ Synthetic genes are manufactured strands of DNA. Customers order our synthetic genes to conduct a wide range of research, including product development for the chemical/materials, food/agriculture, therapeutics, diagnostic, data storage as well as a multitude of emerging applications within academic research. Virtually all research and development requires trial and error, and our customers require many variations of genes to find the DNA sequence that achieves their objectives. 
+ We offer two primary categories of synthetic genes: genes of perfect quality, clonal genes, in a vehicle to carry the DNA, also called a vector, and genes of near-perfect quality, non-clonal genes or fragments, that customers can place in their own vector. Within these two categories, customers can order different lengths of DNA depending on their required final gene construct. Customers can order longer genes or shorter genes and can stitch genes together to create longer or shorter constructs if desired. 
+ Clonal genes in a Twist Bioscience or customer vector 
+ Our premier gene synthesis offering delivers clonally perfect genes. For our clonally perfect genes, we perform the cloning on behalf of our customers and deliver DNA in either a customer-supplied vector or a Twist Bioscience vector. Customer-supplied vectors greatly simplify downstream work for our customers, allowing them to take our genes and pass them directly into their workflows. We have also developed a catalog of our own specific vectors. Currently, we manufacture genes of up to 5,000 base pairs in length, yielding a clonally perfect piece of DNA that our customers can immediately use for their research. In 2020, we enhanced our clonal genes product line with the expansion of preparation quantities, delivery formats, buffer options, as well as tube and plate options, to allow customers to access larger amounts of DNA in the format suitable for their specific research needs. We offer turnaround times of approximately 11 to 17 business days for clonal genes. Our standard pricing for clonal DNA is $0.09 per base pair for genes between 300 and 1,800 bps in length. 
+ Non-clonal genes
+Non-clonal genes serve customers who prefer to conduct their own cloning protocols or that do not need, or want, to pay for perfect quality genes. We offer non-clonal genes of up to 1,800 base pairs in length, which we believe addresses the vast majority of demand for non-clonal genes. We offer turnaround times of six to nine business days for non-clonal genes, with what we believe is the lowest industry error rate of 1:3000 base pairs. Our standard pricing for non-clonal genes is $0.07 per base pair. 
+ Oligonucleotide, or Oligo, pools 
+ Oligo pools, or high diversity collections of oligonucleotides, are utilized in many applications, including targeted NGS, CRISPR gene editing, mutagenesis experiments, DNA origami (the nanoscale folding of DNA to create two- and three-dimensional shapes at the nanoscale), DNA computing and data storage in DNA, among others. Our oligo pools are also used for high-throughput reporter assays that are used to study cell signaling pathways, gene regulation, and the structure of cell regulatory elements. For these applications, we provide customers with accurate and uniform synthetic oligos to precisely match their required designs. 
+ We sell a diverse, customizable set of oligo pools, ranging from a few hundred oligos to over one million and offer oligonucleotides of up to 300 nucleotides in length with an error rate of 1:2000 nucleotides and turnaround times beginning at five days. In the future, we expect to offer cloned pools, and a sub-pooling capability which will allow our customers to purchase lower complexity pools and arrayed pools. 
+ Oligo pools for CRISPR gene editing 
+ CRISPR is a gene editing tool that has become an area of significant research focus, especially in drug development, and is a rapidly growing application that is contributing to growing demand for our oligo pools. In 
+ 
+7 
+
+
+  the CRISPR editing process, a short sequence of RNA called guide-RNA (gRNA) binds to its target DNA sequence in a host cell, indicating to an enzyme where to cut and edit the DNA. In order to conduct gene editing research, many single guide-RNA must be created. Researchers can use oligo pools for CRISPR gene editing to silence, through editing, DNA locations. This process creates an error at a particular location in the DNA of the cell, rendering that location unusable, in other words silenced. By studying the relationship between silenced regions and change in phenotype (did the disease get worse or better), researchers can find the genomic regions important to the disease and identify targets for therapeutics. Similar to our standard oligo pools, we offer oligo pools for CRISPR screening with a diverse and customizable set of specifications, including pool sizes ranging from a few hundred oligos to over one million. From oligos produced on a single silicon chip, researchers can edit up to 1,000,000 DNA locations. We currently offer oligo pools for CRISPR screening of up to 300 nucleotides in length, which in each oligo, allows for two guide-RNAs. As such, where previously researchers could study one region at a time, with the ability to create double guide-RNA pools, there is now the ability to study two regions simultaneously, which has the potential to expand the knowledge of a particular target or disease as well as the underlying biology. 
+ NGS tools 
+ Building from our DNA synthesis platform, we developed products for the large NGS market. In particular, we are focused on addressing the demand for better sample preparation products that improve sequencing workflow, increase sequencing accuracy, and lower sequencing costs. Using our silicon-based DNA synthesis platform, we are able to synthesize the exact sequences of interest. In the target enrichment process, our synthetic DNA probes enrich, or hybridize by binding to, the sequence of interest within the sample in order to isolate and physically extract the targeted segment of DNA. 
+ Our NGS products are primarily used for diagnostic tests for various indications like SARS-CoV-2 and cancer through liquid biopsy, research for population genetics and biomarker discovery, translational research, microbiology and applied markets. Our customers are primarily diagnostic companies and hospitals, research institutions, agricultural biotechnology companies, and consumer genetics companies conducting diagnostic tests for a wide range of applications. 
+ With the emergence of the COVID-19 pandemic, we introduced a suite of infectious disease products designed to support the fight against COVID-19. This includes synthetic RNA controls, which serve as a positive control for diagnostic tests to confirm a positive sample. These controls for SARS-CoV-2 and other respiratory diseases allow researchers to develop tests safely and effectively, without working with live virus samples. In addition, we introduced the SARS-CoV-2 Research Panels and the Twist Respiratory Virus Panel, for the detection of disease in a research setting. Both products can be used for environmental monitoring and surveillance testing, while also providing insight into the full sequence information for monitoring of viral evolution and strain origin. 
+ In addition to our DNA probes, we have created a comprehensive sample preparation kit that combines these probes for NGS target enrichment with all the reagents and consumables necessary to process a sample into sequencing-ready material. This improves the NGS library preparation workflow and is a cost-effective solution that reduces sequencing costs, improves time to results, enhances sequencing coverage, and provides quality control on every DNA probe. Each of our NGS tool products include our individually synthesized DNA probes. 
+ Human Exome Kits 
+ A human genome is incredibly complex. Genes (the parts of the genome that encode proteins) are fragmented, scattered across the genome and surrounded by other DNA. That other DNA is required for maintaining the genomes integrity, for controlling each genes expression, and in some instances, its function still remains a mystery. A researchers aim in an exome sequencing experiment is to isolate the DNA sequences from a genomic sample containing only the protein coding regions called the exome. Only 1% of a human genome contains gene encoding regions, yet around 85% of genetic mutations known to cause disease to occur in the exome. By 
+ 
+8 
+
+
+  isolating just these regions, the amount of genomic DNA that needs to be sequenced to get meaningful data about a disease can be lowered. Exome sequencing provides an important first pass screen for mutations. 
+ The Twist Human Comprehensive and Core Exome Kits includes the library preparation and enrichment components of the NGS sample preparation process for the entire known coding region of the genome for known inherited disease. Compared to traditional capture methods, our kit allows researchers to increase sample throughput, and achieve a higher depth of coverage across target regions with uncompromising quality. 
+ Library Prep Kits 
+ In addition to the complete human exome, we offer kits to accommodate a wide range of DNA. Sometimes DNA samples are degraded and need special materials to enhance the extraction of the DNA, particularly when the input sample is low quality. 
+Fixed Panels 
+ We offer a suite of products that have specific probes to address specific needs. We sell the Human RefSeq Panel to complement the Human Comprehensive Exome Kit. We sell the Comprehensive Viral Research Panel that contains over 1,000 viral human pathogens for rapid identification in various settings and the Mouse Exome Panel with the most current content in the industry. We also offer a Mitochondrial Panel that can be combined with the Human Core Exome Kit for study of rare diseases. In 2020, we added two panels for infectious disease research: the SARS-CoV-2 Research Panel and the Respiratory Virus Research Panel. 
+ Custom Panels 
+ Similar to our fixed panels, we build customized NGS panels of all sizes, designing these panels for the specific needs of our customers in their own laboratory workflow. 
+ FastHyb 
+ A key step in the sample preparation process is hybridization. This is the process whereby the probes are mixed with the genomic sample and then the target DNA is extracted. This step often takes many hours and can even take days, and is an important rate-limiting step in the sample preparation process. With our FastHyb solution, customers can complete the hybridization step in as little as 15 minutes, enabling the sample to be processed through the workflow and onto the sequencing step in a single day. 
+ In our FastHyb and Wash Kit, the probes are mixed with the genomic sample and then heated to above 95°C to melt the base pair interactions in the double-stranded genomic DNA, forming a pool of single stranded DNA. Bringing the temperature down allows the genomic DNA to start to form back into complementary double stranded molecules. As the probes are designed to be complementary with the exome, they will also form base pair interactions with the genomic DNA. 
+ Twist Targeted Methylation Sequencing Solution 
+ In February 2020, we introduced the Twist Targeted Methylation Sequencing Solution for early access customers. DNA methylation plays a key role in many biological processes and disease. When a methyl group is added to a single nucleotide in a genetic sequence, it can change the genes behavior, even without changing the sequence. For example, when a methyl group is located in a gene promotor, it often acts to repress gene transcription into a protein. Methylation is a focus of current cancer research because it may help in understanding the physiology and pathology of disease as well as approaches for prevention and treatment of disease. Twists Targeted Methylation Solution offers a high-throughput, highly uniform target enrichment solution to explore methylation in a wide range of applications including epigenetic and oncology research. We expect to launch this product to all customers in early calendar year 2021. 
+ 
+9 
+
+
+ Synthetic Viral Controls 
+ Leveraging our DNA synthesis platform, we launched a new product line of synthetic viral controls in response to the rapid spread of COVID-19. We offer fully synthetic SARS-CoV-2 RNA reference sequences as positive controls for the development of both NGS and reverse transcription-polymerase chain reaction (RT-PCR) assays. In addition, we offer a wide range of respiratory viral controls including for influenzas, respiratory syncytial virus, rhinoviruses, SARS, MERS and other coronaviruses. These controls can be used to provide quality control for the development, verification and ongoing validation of diagnostic tests. Our SARS-CoV-2 controls are now included on the U.S. Food and Drug Administration website as reference materials. 
+ Partnerships 
+ We signed several partnerships with technology providers in which, using our NGS solutions, customers can access a complete workflow that meets their specific needs. This includes all steps of the sequencing workflow from preparation to analysis. Our collaborators include SOPHiA Genetics, Genopsys, Miroculus and others. 
+Drug and Target Discovery Solutions 
+ Precision DNA libraries 
+ Our platform allows customers to customize every antibody variation and construct a precise library systematically to target the entire region of interest. We can create single site libraries in which we change one single amino acid (which is encoded by a group of three DNA nucleobases) within the sequence or single site saturation libraries in which we change every amino acid within the sequence for a more comprehensive approach. We can also generate combinatorial libraries in which we introduce changes to multiple sites within the same gene in specific ratios and combinations. These libraries can be used for antibody engineering, affinity maturation, and humanization, which simplifies downstream screening and identifies more lead molecules. Our libraries are explicitly developed for a specific area of the genome or tailored to a specific disease, with antibody compounds evenly represented across all areas of the genome desired. 
+ We have also developed a comprehensive antibody optimization solution to enable simultaneous optimization of multiple characteristics of a given antibody. We have developed custom software for the optimization of antibody hits, antibody compounds that meet pre-specified criteria for therapeutic development. We have added our high throughput and hyper-variant antibody library capabilities to create a comprehensive antibody optimization solution for potential partners. We are now using this solution to design, build and test hyper-variant, tightly controlled antibody libraries that follow the rules of the human repertoire and mitigate the pitfalls associated with traditional optimization methods. By following the rules of the human repertoire, which means including only DNA sequences known to occur in humans, we have created a Library of Libraries made up of many different individual libraries. These libraries are natural in composition and are expected to generate better drug development candidates. The libraries also have a large degree of synthetic variation, enabling simultaneous optimization of several antibody characteristics and the discovery of antibodies with high affinity and specificity to drug targets. 
+ Additionally, we are leveraging our ability to rapidly generate custom libraries to discover novel therapeutic antibodies against biological targets that have traditionally been difficult for biological drug development. One of our libraries within the Library of Libraries is a proprietary antibody library targeting a major class of proteins known as G protein-coupled receptors, or GPCRs. GPCRs are important receptors that control and drive the biology of nearly all disease classes, including inflammation, cancer, metabolism, respiratory, and pain. 
+ We also have created a series of single domain antibody libraries, potentially enabling faster discovery and development. Using our proprietary libraries, we have identified three different functional antibodies to the GLP1R receptor, an important target for people who have severe hypoglycemia. 
+ 
+10 
+
+
+ Identification and validation of antibodies for diagnosis and treatment of COVID-19
+In March 2020, we initiated antibody discovery using our biopharma platform, identifying approximately 75 potential antibodies that could be used for the diagnosis and treatment of COVID-19 for research purposes. To expedite COVID-19 research, we sell these antibodies to customers for further development as either a diagnostic tool or potential therapeutic. In addition, we tested several of these antibody candidates in live virus. In September 2020, we announced data from testing our antibodies against live virus. The results demonstrated the potent neutralizing effects of multiple potential therapeutic antibodies, both immunoglobulin G (IgG) antibodies and substantially smaller single domain VHH nanobodies, against SARS-CoV-2, the virus that causes COVID-19. These neutralizing effects were found to be comparable to or better than those seen with antibody candidates derived from patients who had recovered from COVID-19. The data were collected from studies conducted by St. Louis University and verified by scientists at Colorado State. The data was very promising and provided validation of our ability to generate well characterized and potent antibodies from our proprietary libraries. 
+ Partnerships with leading companies 
+ We believe we have several avenues available to monetize our antibody discovery program. In general, partnerships for our antibody development platform require us to provide rapid, on-demand (high affinity) antibodies based on one or more targets provided by the customer. These agreements have 3 elements to the program: 
+ 
+
+ | We license and also utilize our Library of Libraries, a panel of synthetic antibody phage display libraries derived only from sequences that exist in the human body.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | We will work to discover, validate and optimize new antibody candidates.
+--+-------------------------------------------------------------------------
+
+
+ | The customers pay Twist annual technology licensing fees, and increasingly, we receive project milestones for completion of various Twist activities and development milestones as our customers progress and commercialize the products. In many cases, we also receive royalties on any products coming out of the partnerships.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ As of September 30, 2020, we had signed thirteen revenue-generating partnerships, with eight of those agreements including milestones and/or royalties. Some of our partners have been disclosed: Takeda Pharmaceutical Company Limited, Invetx, Inc., and Neogene Therapeutics, Inc. In addition, we collaborate with companies that bring complementary technologies to expand our opportunities and reach. 
+ Our growth strategy 
+ Our objective is to be the leading provider of synthetic DNA and DNA-based products worldwide and to leverage our platform to build a leadership position in other synthetic DNA-based product markets in which we have a competitive advantage. We intend to accomplish this objective by executing on the following: 
+ 
+
+ | maintain and expand our position as the provider of choice for high-quality, affordable synthetic genes and DNA to customers across multiple industries;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | become a leading supplier of NGS sample preparation products;
+--+--------------------------------------------------------------
+
+
+ | conduct antibody therapeutic discovery and optimization for our current customers and future partners;
+--+-------------------------------------------------------------------------------------------------------
+
+
+ | continue to explore development of DNA as a digital data storage medium through internal research and government and industry partnerships; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | expand our global presence.
+--+----------------------------
+
+ Beyond these opportunities, we are working with industry partners to create new markets for our products by leveraging our platform. 
+ 
+11 
+
+
+ Sales and marketing 
+ We have built a versatile and scalable commercial platform that enables us to reach a diverse customer base that we estimate consists of over 100,000 synthetic DNA users, and many additional potential customers of our NGS library preparation products today. In order to address this diverse customer base, we have employed a multi-channel strategy comprised of a direct sales force targeting synthetic DNA customers, a direct sales force focusing on the NGS market and an e-commerce platform that serves both commercial channels. Our sales force is focused on customer acquisition, support, and management across industries, and is highly trained on both the technical aspects of our platform and how synthetic DNA can be used in a wide range of industries. Our easy-to-use e-commerce platform allows customers to design, validate, and place on-demand orders of customized DNA online, and enable them to receive real-time customized quotes for their products and track their order status through the manufacturing and delivery process. This is a critical part of our strategy to address our large market and diverse customer base, as well as drive commercial productivity, enhance the customer experience, and promote loyalty. We target customers of our NGS products through a direct sales team focused on the NGS tools market and which is separate from our synthetic DNA sales force. Our direct NGS sales representatives are focused on supporting our early adopters and providing a high level of service in order to familiarize customers with our product offering. 
+ We sell our products through a worldwide selling organization that includes direct sales personnel, commercial consultants in Europe, Asia, an ecommerce platform and distributors. As of September 30, 2020, we employed 166 people in sales, marketing and customer support. 
+ Research and development 
+ We are engaged in ongoing research and development efforts focused on enhancements to existing products and the development of new products. Currently, we are pursuing research and development projects with respect to the following: 
+ 
+
+ | process development for higher quality oligos;
+--+-----------------------------------------------
+
+
+ | building a massively parallel fast turnaround time SynBio pipeline;
+--+--------------------------------------------------------------------
+
+
+ | optimization, automation and miniaturization of gene and NGS pipelines;
+--+------------------------------------------------------------------------
+
+
+ | silicon process and chemistry development for our data storage initiative;
+--+---------------------------------------------------------------------------
+
+
+ | buildout of a massively parallel screening facility for our pharma initiatives that allows us to screen over a dozen antibody phage display campaigns per week; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | expansion of our product offering for oligo, gene, DNA Libraries NGS products.
+--+-------------------------------------------------------------------------------
+
+ In June 2020, we executed a firm fixed-price subcontract with Georgia Institute of Technology to develop the DNA synthesis portion of the Molecular Information Storage program. The total cost for this subcontract is $6.5 million, and we are responsible for providing a minimum contribution of $2.0 million of the cost, with the remaining $4.5 million to be funded by the U.S. Director of Central Intelligence. The $4.5 million funding is to be received in fixed amounts over a period from September 2019 to June 2022. 
+ Research and development activities are conducted in collaboration with manufacturing activities to help expedite new products from the development phase to manufacturing and to more quickly implement new process technologies. From time to time, our research and development efforts have included participation in technology collaborations with universities and research institutions. 
+ Patents and other intellectual property rights 
+ As of September 30, 2020, we own 23 issued U.S. patents and 10 issued international patents; three in China, one in Europe, two in South Korea, two in Taiwan, one in Japan and one in Eurasia. There are 205 pending patent 
+ 
+12 
+
+
+  applications, including 56 in the United States, 141 international applications and eight applications filed under the Patent Cooperation Treaty. Additionally, we have exclusively licensed a patent portfolio containing nine issued patents, including one U.S. patent and eight international patents, and nine pending applications, including one in the U.S. and eight international applications. We rely on a combination of patent rights, copyrights and trade secrets to protect the proprietary elements of our products. Our policy is to file patent applications to protect technology, inventions and improvements that are important to our business. 
+ Manufacturing and facilities 
+ The production of our products is a highly complex and precise process. We currently manufacture all of our products and multiple sub-assemblies at our manufacturing facility in South San Francisco, California. We also outsource some of our sub-assemblies to third party manufacturers. All of our products originate from synthetic DNA obtained from nanostructured clusters fabricated on our proprietary silicon technology platform. Due to its on-demand nature, the gene synthesis business requires manufacturing operations to be in operation 24 hours a day, seven days a week, 365 days per year. For synthetic genes, we have built a highly scalable gene production process with what we believe is industry-leading capacity of approximately 45,000 genes per month to address the growing demand of scalable, high-quality, affordable synthetic genes. 
+ In addition to synthetic genes, we are combining nanostructured clusters into oligo pools. The pooling process has been fully automated through a mixture of custom proprietary and over-the-counter liquid handling equipment. We are currently only utilizing approximately two thirds of our production capacity for synthetic genes and oligos. We currently have the capacity to produce more than 60 million high-quality oligos per month that can be combined into high-precision oligo pools of various sizes. We intend to increase our shipments to leverage our production capacity through our e-commerce platform, which we believe will expand both our market opportunity and our customer base. 
+ The manufacturing process for our NGS tools is highly flexible given the efficiency of our production capability. We have automated the entire workflow using proprietary and over-the-counter laboratory equipment. We have built dedicated production capabilities for our NGS products. 
+ ISO Certification 
+ In 2018, we certified our Quality Management System (QMS) to the ISO 9001:2015 (Quality Management SystemsRequirements) standard and ISO 13485:2016 standard (Medical devicesQuality management systemsRequirements for regulatory purposes). ISO is a global network of national standards with over 18,000 standards for nearly every aspect of technology and business. ISO has standard bodies in 163 countries. ISO Surveillance Audits will be carried out twice within a three-year period by the registrar (certification body) to ensure we are maintaining our system in compliance with ISO standards. Recertification is required every three years and we have been successfully recertified since obtaining our original ISO certification. Most recently, we were registered with the FDA as a manufacturer of Reagents, 2019-novel coronavirus nucleic acid. 
+ In January 2019, our quality management systems for manufacturing our NGS Target Enrichment Panels in our Mission Bay San Francisco offices received ISO 9001:2015 and 13485:2016 certifications, the latter for medical device applications. In 2020, these certifications were extended to our South San Francisco offices. In addition to continuing to provide NGS tools to our current customer base, we now have the ability to support customers in more regulated markets that require ISO certification from their key reagent suppliers. 
+ 
+13 
+
+
+ Supply chain 
+ We have historically purchased many of the components and raw materials used in our products from numerous suppliers worldwide. For reasons of quality assurance, sole source availability or cost effectiveness, certain components and raw materials used in the manufacture of our products are available only from one supplier. We have worked closely with our suppliers to develop contingency plans to assure continuity of supply while maintaining high quality and reliability, and in some cases, we have established long-term supply contracts with our suppliers. The COVID-19 pandemic could disrupt our supply chain and although we continue to take steps to increase our safety stock and qualify other suppliers it is very difficult to predict the future impact of the pandemic on our supply chain. As outbreaks of the virus continue to occur, we could potentially face disruption which could mean supply chain lead times are lengthened or we experience shortages and consequently this could impact our ability to produce and negatively impact our revenue. 
+ Competition 
+ The synthetic biology industry is intensely competitive and is characterized by price competition, technological change, international competition, product turnaround time and manufacturing yield problems. The competitive factors in the market for our products include: 
+
+ | price;
+--+-------
+
+
+ | product quality, reliability and accuracy;
+--+-------------------------------------------
+
+
+ | product offering & complexity;
+--+-------------------------------
+
+
+ | turnaround time;
+--+-----------------
+
+
+ | breadth of product line;
+--+-------------------------
+
+
+ | design and introduction of new products;
+--+-----------------------------------------
+
+
+ | market acceptance of our products and those of our customers;
+--+--------------------------------------------------------------
+
+
+ | throughput and scale; and
+--+--------------------------
+
+
+ | technical support and service.
+--+-------------------------------
+
+ Regarding these factors, we face competition from a broad range of providers of core synthetic biology products such as GenScript Biotech Corporation, GENEWIZ (owned by Brooks Automation), Integrated DNA Technologies, Inc. (owned by Danaher), DNA 2.0 Inc. d/b/a/ ATUM, GeneArt (owned by Thermo Fisher Scientific Inc.), Eurofins Genomics LLC, Sigma-Aldrich Corporation (an indirect wholly owned subsidiary of Merck & Company), Promega Corporation, OriGene Technologies, Inc., Blue Heron Biotech, LLC and others. Additionally, we compete with both large and emerging providers in the life sciences tools and diagnostics industries focused on sample preparation for NGS such as Thermo Fisher Scientific Inc., Illumina, Inc., Integrated DNA Technologies, Inc., Agilent Technologies, Inc. (Agilent), and Roche NimbleGen, Inc. In the antibody discovery market, we compete with clinical research organizations, such as LakePharma (mouse hybridoma, llama immune libraries, XOMA phage display library) and Aldevron, LLC (genetic mouse immunization coupled with hybridoma), and antibody discovery biotechnology companies, such as Iontas (human phage display libraries, human phage display library focused on ion channels), Adimab (human synthetic yeast display libraries), and Distributed Bio (human synthetic phage display library, lead optimization libraries). In the field of DNA digital data storage, we compete with Catalog Technologies, Inc., ETH Zurich, Helixworks, Iridia, Inc., North Shore Bio and Roswell. 
+ Environmental, social, governance and human capital 
+ We are at the forefront of the synthetic biology revolution, and our products are increasingly being used to empower our customers, who are diagnostic, therapeutic and healthcare companies, agricultural biotech 
+ 
+14 
+
+
+  companies, chemical companies, academic institutions and government entities, around the world to address societal grand challenges. All of our work supports our mission to provide synthetic DNA and DNA product to improve health and sustainability. 
+ Our employees are a key factor in our ability to serve our customers and achieve our mission to provide synthetic DNA to improve health and sustainability. The ability to hire and retain highly skilled professionals remains key to our success in the marketplace. To attract, maintain and motivate our employees, we offer a challenging work environment, ongoing skills development initiatives, attractive career advancement, opportunities and a culture that rewards entrepreneurial initiative and exceptional execution. 
+ Our guiding principles of grit, impact, service and trust serve as our cultural pillars. Our guiding principles set the tone for how we work together, provide a framework for giving feedback and increase the power of our brand. Service is at the core of our business and our interactions with one another. We relentlessly focus on exceeding internal and external customer needs. 
+ We have six dedicated, full-time employees who oversee all aspects of our human resources processes including attracting, retaining and motivating our employees. We are consistently looking at new opportunities and avenues to recruit talented individuals to work in our organization. 
+ Diversity and inclusion 
+ Diversity is in our DNA. Our employees come from numerous countries and bring diversity to our workplace across many critical categories. We believe our company is stronger because of the variety of experiences and backgrounds our employees bring to their work every day and are committed to creating and maintaining a diverse, inclusive and safe work environment. 
+ We are committed to creating and maintaining a diverse, inclusive and safe work environment where our employees can bring their best selves to work each day. As part of our diversity and inclusion program, we bring in speakers on specific topics, assemble resources for all employees on diversity and inclusion, conduct an Allyship Challenge among all employees and are currently running an 8-session Diversity Forum where all employees are encouraged to participate. 
+ We actively engage with underrepresented populations through a variety of outreach including targeted recruitment and collaboration with local community colleges. Additionally, we invest in STEM education for all ages and global populations to encourage education and new career pathways within the synthetic biology field. 
+ With an active program in place for our employees, we are striving further support our female and underrepresented employees advance their careers while continuing to focus on hiring diverse talent at more senior positions. 
+ Community engagement, social and relationship capital 
+ We are endeavoring to develop relationships, give back to our communities and engage in corporate social responsibility and sustainability initiatives. We provide all employees with eight fully paid hours each year to give back to the community at an organization of their choice. As we grow our employee base, we will extend our efforts in these areas. 
+ Compensation and benefits, health and wellness 
+ We strive to provide pay, comprehensive benefits and services that help meet the varying needs of our employees. Our generous total rewards package includes above-market pay; fully covered healthcare benefits for employees, with family member healthcare benefits covered at 90%; a health savings account that is fully funded 
+ 
+15 
+
+
+  for individuals and their families; approximately four weeks of paid vacation; family leave; flexible work schedules; and, onsite services. In addition, we offer every full-time employee, both exempt and non-exempt the benefit of equity ownership in the company through stock option grants and our employee stock purchase plan. 
+ COVID-19 employee safety and benefits 
+ With the emergence of the COVID-19 global pandemic, many of our customers require our synthetic DNA products to provide critical tools for global health. Prior to the shelter-in-place mandate from the State of California, Twist took extra precautions to reduce the risk of virus exposure for all employees. We encouraged all of our employees who were able to work from home to do so. For these newly remote employees, we provide ergonomic evaluations of their workstation, allow flexible schedules, support their information technology needs and provide guidance for managers to ensure that their employees are maintaining their physical, mental and emotional wellbeing. For those employees who remain onsite to produce our products, we reduced the number of people in the office significantly with the remote work option. In addition, we provide personal protective equipment (PPE), implemented shelter-in-place pay for a period of four months, put in place new safety protocols for the manufacturing environment, and we currently test all onsite employees once per week. As a benefit for all employees, we provide flu shots for the employee and their family. 
+ For any employee who contracts COVID-19, we provide full pay for their entire recovery and quarantine time, regardless of the guidelines of their home country. Twist paid sick leave for all affected employees at 100%. 
+ Growth and development 
+ We invest significant financial and support resources to develop the talent we need to remain at the cutting edge of innovation to ensure Twist Bioscience is an employer of choice. We recently launched a new performance management system to support our culture, maintain consistency with our guiding principles and to focus on continuous learning and development. Our success in the market depends on employees understanding and embracing how their job contributes to the companys overall strategy. We employ a variety of tools to facilitate open and direct communication including open forums with executives, employee experience surveys and engagement through focus groups, forums and committees. We believe this broadens our employees skill set and provides opportunity for growth and advancement. We invest in our next generation of leaders through a one-year leadership program for mid-level managers. In addition, we offer tuition reimbursement aimed at growth and career development. 
+ Communications and engagement 
+ We employ a variety of tools to facilitate open and direct communication including open forums with executives, employee surveys and engagement through focus groups, forums and committees. We endeavor to further refine our employee programs through our employee engagement survey as well as follow up pulse surveys. Based on the most recent survey, our employees are extremely proud to work for Twist, see strength in the leadership and executive team, feel supported in making flexible work arrangements and believe their manager genuinely cares about their wellbeing. The executive leadership team identified key initiatives within their organizations that tie directly back to the survey feedback to further increase employee engagement moving forward. 
+ Conduct and ethics 
+ We believe it is imperative that the board of directors and senior management strongly support a no-tolerance stance for workplace harassment, biases and unethical behavior. All employees are required to abide by, review and confirm compliance to the companys Code of Business Conduct and Ethics Policy, our Anti-Money Laundering Policy, our Anti-Corruption Policy. 
+ 
+16 
+
+
+ In addition, because synthetic DNA is considered to be a dual use technology, we invest substantial financial and human resources in biosecurity to help ensure that our products are used for responsible research. We abide by all local, national and international regulations as well as trade compliance requirements and are an active member of the International Gene Synthesis Consortium and the Australia Group. We maintain an active relationship with the governing body for synthetic DNA within the U.S. Department of Homeland Security. 
+ Employee population 
+ As of September 30, 2020, we had 525 employees, which includes our team of 64 dedicated commercial consultants. Of these employees, 129 were primarily engaged in engineering as well as research and development activities; 166 were primarily engaged in marketing, sales and customer support; 56 were primarily engaged in general and administrative activities; and 174 were primarily engaged in operations and manufacturing, of which there are 132 full-time employees dedicated to manufacturing our synthetic genes, oligo pools, NGS tools and DNA libraries. Of these employees, 403 hold engineering or science degrees including 86 Ph.D.s. None of our employees is represented by a labor union, and we consider our employee relations to be good. 
+ Board of Directors 
+ 
+
+Board Member | Gender
+Nicolas Barthelemy | Male 
+Nelson C. Chan | Male 
+Robert Chess | Male 
+Keith Crandell | Male 
+Jan Johannessen | Male 
+Xiaoying Mai | Female
+Robert Ragusa | Male 
+Emily Leproust | Female
+Bill Banyai | Male 
+Female | 22% 
+Male | 78% 
+Total | 9 
+Executives | 
+Executive Team Member | Gender
+Emily Leproust | Female
+Paula Green | Female
+Erin Smith | Female
+Jim Thorburn | Male 
+Patrick Weiss | Male 
+Patrick Finn | Male 
+Aaron Sato | Male 
+Martin Kunz | Male 
+Mark Daniels | Male 
+Bill Banyai | Male 
+Female | 30% 
+Male | 70% 
+Total | 10 
+
+ 
+17 
+
+
+ 
+All Twisters (inclusive of executives) | 
+Gender | Percent of allTwisters
+Female | 38% 
+Male | 62% 
+Total | 525 
+Region | Percent of allTwisters
+Americas | 80% 
+EMEA | 14% 
+APAC | 6% 
+Total | 525 
+Degree | Percent of allTwisters
+Engineering or Science Degree, not inclusive of Ph.D | 61% 
+PhD in Engineering or Science | 16% 
+Employee without Engineering or Science Degree | 23% 
+Total | 525 
+
+ 
+18 
+
+
+ Government regulation 
+ Our synthetic DNA products are currently labeled and sold for Research Use Only (RUO). We sell these products for non-diagnostic and non-clinical purposes to academic institutions, life sciences and research laboratories, and biopharmaceutical and biotechnology companies. Our products are neither intended nor promoted for clinical use, diagnostic procedures, or use as components of our customers products. Rather, they are intended to be used as research tools that enable our customers to develop a wide spectrum of commercial products. However, in the future we may be subject to a variety of specialized regulatory requirements, including potential regulation by the U.S. Food and Drug Administration, or the FDA. For example, in December 2010, the Presidential Commission for the Study of Bioethical Issues recommended that the federal government oversee, but not regulate, synthetic biology research. The Presidential Commission also recommended that the federal government lead an ongoing review of developments in the synthetic biology field and that the federal government conduct a reasonable risk assessment before the field release of synthetic organisms. 
+ Aside from certain labeling requirements, we believe that our products, as currently marketed, are largely unregulated by governmental bodies, including the FDA. As we expand our product development to include products for clinical applications, we may be subject to a variety of specialized regulatory requirements, including regulation by the FDA, any of which could have a material effect on the business. 
+ RUO is a term limited to our target enrichment products for the next-generation sequencing (NGS) market and is specifically applied only to kits sold to this market segment. It is intended to restrict use of the kits to non-in vitro diagnostic purposes. Our NGS target enrichment and library preparation products are used in a more comprehensive workflow for next generation sequencing for research purposes only. In the future, we may develop this larger workflow as an in vitro diagnostic, for which we will obtain prior authorization from FDA or other applicable regulatory authorities before commercialization. 
+ FDA 
+ Pursuant to its authority under the Federal Food, Drug, and Cosmetic Act, or the FDC Act, the FDA has jurisdiction over medical devices. The FDA regulates, among other things, the research, testing, manufacturing, safety, labeling, storage, recordkeeping, premarket clearance or approval, marketing and promotion and sales and distribution of medical devices in the United States to ensure that medical products distributed domestically are safe and effective for their intended uses. In addition, the FDA regulates the import and export of medical devices. 
+ Medical device regulation in general 
+ The FDC Act classifies medical devices into one of three categories based on the risks associated with the device and the level of control necessary to provide reasonable assurance of safety and effectiveness. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or implantable devices, or devices deemed not substantially equivalent to a previously 510(k) cleared devices are generally categorized as Class III. These devices typically require submission and approval of a Premarket Approval Application, or PMA. However, FDA can reclassify or use de novo classification for a device that meets the FDC Act standards for a class II device, permitting the device to be marketed without PMA approval. Devices deemed to pose lower risk are categorized as either Class I or II. Class II classification usually requires the manufacturer to submit to the FDA a premarket notification submission requesting clearance of the device for commercial distribution in the United States pursuant to Section 510(k) of the FDC Act, referred to as 510(k) clearance. Most Class I devices are exempt from this requirement, as are some lower risk Class II devices. When a 510(k) is required, the manufacturer must submit to the FDA a premarket notification submission demonstrating that the device is substantially equivalent to: (i) a device that was legally marketed prior to May 28, 1976, for which PMA approval is not required, (ii) a legally marketed device that has been reclassified from Class III to Class II or Class I, or (iii) another legally marketed, similar device that has been cleared through the 510(k) process. 
+ 
+19 
+
+
+ All clinical studies of investigational medical devices to determine safety and effectiveness must be conducted in accordance with FDAs investigational device exemption (IDE) regulations, including the requirement for the study sponsor to submit an IDE application to FDA, unless exempt, which must become effective prior to commencing human clinical studies. PMA reviews generally last between one and two years, although they can take longer. Both the 510(k) and the PMA processes can be expensive and lengthy and may not result in clearance or approval. If we are required to submit our products for pre-market review by the FDA, we may be required to delay marketing and commercialization while we obtain premarket clearance or approval from the FDA. There would be no assurance that we could ever obtain such clearance or approval. 
+ All medical devices, including in vitro diagnostics, or IVDs, that are regulated by the FDA are also subject to the Quality System Regulation. Obtaining the requisite regulatory approvals, including the FDA quality system inspections that are required for PMA approval, can be expensive, may involve delay, and could conclude without such products being approved by the FDA. Changes to the current regulatory framework, including the imposition of additional or new regulations, could arise at any time during the development or marketing of our products. This may negatively affect our ability to obtain or maintain FDA or comparable regulatory clearance or approval of our products in the future. 
+ IVDs are a category of medical devices that include reagents, instruments, and systems intended for use in diagnosis of disease or other conditions, including a determination of the state of health, in order to cure, mitigate, treat, or prevent disease or its sequelae. IVDs are intended for use in the collection, preparation, and examination of specimens taken from the human body. A RUO IVD product is an IVD product that is in the laboratory research phase of development. As such, an RUO IVD is not intended for use in clinical investigations or in clinical practice. Such RUO products do not require premarket clearance or approval from the FDA, provided that they be labeled For Research Use Only. Not For Use In Diagnostic Procedures pursuant to FDA regulations. 
+ As noted above, although our products are currently labeled and sold for research purposes only, the regulatory requirements related to marketing, selling, and supporting such products could be uncertain and depend on the totality of circumstances. This uncertainty exists even if such use by our customers occurs without our consent. If the FDA or other regulatory authorities assert that any of our RUO products are subject to regulatory clearance or approval, our business, financial condition, or results of operations could be adversely affected. 
+ According to the FDA, merely including the RUO labeling statement will not necessarily render the device exempt from FDA premarket clearance, approval, or other regulatory requirements if the totality of circumstances surrounding the distribution of the product indicate that the manufacturer intended its IVDs for diagnostic use. Such circumstances may include, but are not limited to, the products advertising, labeling, or promotion, or the manufacturers assistance of a clinical laboratory in validating or verifying a test that incorporates products labeled RUO. This uncertainty exists even if such use by our customers occurs without our consent. If the FDA or other regulatory authorities assert that any of our RUO products are subject to regulatory clearance or approval, our business, financial condition, or results of operations could be adversely affected. 
+ EU Regulation 
+ In the European Union (EU), the new In Vitro Diagnostic Device Regulation (EU) 2017/746, or IVDR, imposes stricter requirements for the marketing and sale of applicable medical devices, including in the area of clinical evaluation requirements, quality systems and post-market surveillance. The IVDR is expected to become effective in May 2022. We likely will be impacted by this new regulation, either directly as a manufacturer of IVDs, or indirectly as a supplier to customers who are placing IVDs in the EU market for clinical or diagnostic use. Complying with the IVDR requirements may require us to incur significant expenditures. Failure to meet these requirements could adversely impact our business in the EU and other regions that tie their product registrations to the EU requirements. 
+ 
+20 
+
+
+ FSAP 
+ The federal Centers for Disease Control and Prevention (CDC) and the Animal and Plant Health Inspection Service (APHIS) administer requirements of the Federal Select Agent Program, or FSAP. FSAP requirements govern possession, use, and transfer of select agents and toxins consisting of biological materials that have the potential to pose a severe threat to public, animal or plant health or to animal or plant products. The FSAP currently lists approximately 67 select agents and toxins, and approximately 247 entities were registered under FSAP to possess a select agent or toxin. The registered entities primarily consist of academic, federal and non-federal government, commercial, and private facilities that conduct research studies or diagnostic activities. We are not a registered entity under FSAP and it is our policy generally not to produce or otherwise work with any biological material that is subject to FSAP license requirements. To the extent that we may possess, use, or transfer any material considered a select agent or toxin under FSAP prospectively, we would register with FSAP and obtain all necessary permits for possession, transfer, importation, or any other regulated activity. 
+ Export controls 
+ Some sequences and synthetic controls we produce may be subject to licensing requirements for export outside of the United States under the U.S. Export Administration Regulations (EAR). Given the evolving nature of our industry, legislative bodies or regulatory authorities may adopt additional regulation or expand existing regulation to include our service. Changes to the current regulatory framework, including the imposition of additional or new regulations, could arise at any time, and we may be unable to obtain or maintain comparable regulatory approval or clearance of our service, if required. These regulations and restrictions may materially and adversely affect our business, financial condition, and results of operations. 
+ Available information 
+ Our corporate website address is www.twistbioscience.com. We use the investor relations page of our website for purposes of compliance with Regulation FD and as a routine channel for distribution of important information, including news releases, analyst presentations, financial information and corporate governance practices. Our filings with the SEC are posted on our website and available free of charge as soon as reasonably practical after they are electronically filed with, or furnished to, the SEC. The SECs website, www.sec.gov, contains reports, proxy statements and other information regarding issuers that file electronically with the SEC. The content on any website referred to in this Form 10-K is not incorporated by reference in this Form 10-K unless expressly noted. Further, the Companys references to website URLs are intended to be inactive textual references only. 
+ 

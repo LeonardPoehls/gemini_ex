@@ -1,0 +1,84 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+Overview
+ 
+Our proprietary PCR-based DNA LinearDNATM manufacturing platform produces large quantities of DNA for use in the nucleic acid-based in vitro medical diagnostics and preclinical nucleic acid-based drug development and manufacturing markets (“Biotherapeutic Contract Research and Manufacturing”) and for supply chain security, anti-counterfeiting and anti-theft technology purposes (“Non-Biologic Tagging”). In response to the COVID-19 pandemic, the Company developed a PCR-based molecular diagnostic test for COVID-19, which was granted Emergency Use Authorization (EUA) by the U.S. Food and Drug Administration (“FDA”) in May 2020. The Company currently manufactures and sells its EUA authorized COVID-19 molecular diagnostic test kit under the LineaTM COVID-19 Assay Kit trademark (“COVID-19 Diagnostic Testing”). In addition, and in further response to the COVID-19 pandemic, the Company developed and is currently offering non-diagnostic COVID-19 pooled surveillance testing to detect instances of COVID-19 in defined populations. The Company’s COVID-19 pooled surveillance testing services are currently offered under the safeCircleTM trademark (“COVID-19 Surveillance Testing”). The Company is also developing an invasive circulating tumor cell capture and identification technology (“iCTC Technology”) which uses a patented functional assay to capture live invasive circulating tumor cell and associated lymphocytes that can be identified and expanded for further analysis.
+ 
+Applied DNA’s LinearDNATM PCR platform is capable of producing large scale DNA, which we believe offers many benefits over the limitations of other large scale DNA manufacturing systems, including:
+ 
+
+· | Speed – Production of DNA via the LinearDNATM platform can be measured in terms of hours, not days and weeks like other large scale DNA manufacturing platforms.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Scale – The LinearDNATM platform is flexible and can be adapted to encompass large quantity production.
+--+--------------------------------------------------------------------------------------------------------
+
+
+· | Purity – DNA produced via PCR is pure, resulting in only large quantities of the target DNA sequence. Unwanted DNA sequences such as bacterially-derived DNA are not present.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Customization – DNA produced via PCR can be easily chemically modified to suit specific customer applications.
+--+---------------------------------------------------------------------------------------------------------------
+
+Corporate History
+ 
+We are a Delaware corporation, which was initially formed in 1983 under the laws of the State of Florida as Datalink Systems, Inc. In 1998, we reincorporated in the State of Nevada, and in 2002, we changed our name to our current name, Applied DNA Sciences, Inc. In December 2008, we reincorporated from Nevada to the State of Delaware. LineaRx (“LRx”), Inc. was incorporated in Delaware on September 11, 2018. Applied DNA Clinical Labs, LLC (“ADCL”) was formed in Delaware on June 12, 2020.
+ 
+Our corporate headquarters are located at the Long Island High Technology Incubator at Stony Brook University in Stony Brook, New York, where we established laboratories for the manufacture of molecular tags, product prototyping, molecular tag authentication, bulk DNA production, as well the manufacture of our LineaTM COVID-19 Assay Kit and the performance of our COVID-19 Surveillance Testing. The address of our corporate headquarters is 50 Health Sciences Drive, Stony Brook, New York 11790, and our telephone number is (631) 240-8800. We maintain a website at www.adnas.com where general information about us is available. The information on, or that may be accessed through, our website is not incorporated by reference into and should not be considered a part of this report.
+ 
+
+5
+-
+
+Industry Background
+ 
+Biotherapeutic Contract Research and Manufacturing
+ 
+Our patented continuous flow PCR systems and other proprietary PCR-based production technology and post-processing systems that comprise the LinearDNATM platform allows for the large-scale production of specific DNA sequences. The LinearDNATM platform is currently being used for customers to manufacture DNA as components of in vitro diagnostic tests and for preclinical nucleic acid-based drug development in the fields of adoptive cell therapies (CAR T and TCR therapies), DNA vaccines (anti-viral and cancer), RNA therapies, clustered regularly interspaced short palindromic repeats (CRISPR) based therapies and gene therapies. We believe our LinearDNATM platform confers a distinct competitive advantage in cost, cleanliness, and time-to-market as compared to other DNA manufacturing systems.
+ 
+The Company provides preclinical contract research and manufacturing services for the nucleic acid-based therapeutic markets. We work with biotech and pharmaceutical companies to convert plasmid-based and/or viral transduction-based preclinical biotherapeutics into PCR-produced linear DNA-based forms that can be produced on our LinearDNATM platform. In addition, we provide contract research services to RNA based drug and biologic customers for preclinical studies. These services include the design, development and manufacture of PCR-produced DNA templates for RNA. In addition, we also use our LinearDNATM platform to produce very large gram-scale quantities of DNA for the in vitro diagnostic market where our DNA is used for both commercially available diagnostics and diagnostics under development.
+ 
+We also seek to develop, acquire, and commercialize, ourselves or with partners, a diverse portfolio of nucleic acid-based therapeutics based on PCR-produced linear DNA to improve existing nucleic acid-based therapeutics or to create new nucleic acid-based therapeutics that address unmet medical needs. We are currently directly engaged in preclinical drug candidate development activities focusing on therapeutically-relevant DNA constructs manufactured via our LinearDNATM platform in the fields of DNA-based anti-viral and anti-cancer vaccines, CAR-T cell immunotherapy and the manufacture of rAAV vectors for gene therapy.
+ 
+We are also engaged in preclinical and animal drug candidate development activities focusing on therapeutically relevant DNA constructs manufactured via our PCR-based production platform. We seek to develop, acquire and commercialize, alone or with partners, a diverse portfolio of nucleic acid-based therapeutics based on PCR-produced linear DNA which we believe will improve existing nucleic acid-based therapeutics or create new nucleic acid-based therapeutics that address unmet medical needs. To this end, we are currently working with our development partners Takis S.R.L. and Evvivax S.R.L. (“Takis/Evvivax”) to develop an amplicon-based linear DNA vaccine for COVID-19 that would be manufactured on our LinearDNATM platform. Together with our development partners, our amplicon-based linear COVID-19 vaccine candidate has shown efficacy in preclinical cell and small animal studies. In September 2020, we entered into an Animal Clinical Trial Agreement with Takis/Evvivax and with Veterinary Oncology Services, PLLC, an affiliate of Guardian Veterinary Specialists (“GVS”), a multi-specialty veterinary hospital. In November 2020, we, together with Takis/Evvivax and GVS, announced receipt of approvals from the New York State Department of Agriculture and Markets and the U.S. Department of Agriculture (“USDA”) on an advanced clinical strategy to conduct a veterinary trial of a vaccine candidate. Our jointly-developed amplicon-based DNA vaccine for COVID-19 is expected to start veterinary clinical trials in domestic feline cats by early 2021, with the end goal of applying for a USDA Animal and Plant Health Inspection Service conditional license to enable commercial veterinary sales for domestic felines.
+ 
+COVID-19 Diagnostic Testing
+ 
+On May 13, 2020 we received an EUA from the FDA for the clinical use of the LineaTM COVID-19 Assay Kit for the qualitative detection of nucleic acid from SARS-CoV-2 in respiratory specimens including anterior nasal swabs, self-collected at a healthcare location or collected by a healthcare worker, and nasopharyngeal and oropharyngeal swabs, mid-turbinate nasal swabs, nasopharyngeal washes/aspirates or nasal aspirates, and bronchoalveolar lavage specimens collected by a healthcare worker from individuals who are suspected of COVID-19 by their healthcare provider. Under the EUA, testing is limited to laboratories certified under the Clinical Laboratory Improvement Amendments of 1988 , 42 U.S.C. §263a (“CLIA”), that meet requirements to perform high complexity tests, which certification we have applied for but have not yet obtained. Subsequently, during July and November 2020, we were granted EUA amendments that expand the installed base of PCR equipment platforms on which our LineaTM COVID-19 Assay Kit can be processed and significantly increased the daily testing capacity of the LineaTM COVID-19 Assay Kit through the use of automation. The scope of the EUA, as amended, is expressly limited to use consistent with the Instructions for Use by authorized laboratories, certified under CLIA to perform high complexity tests. The EUA will be effective until the declaration that circumstances exist justifying the authorization of the emergency use of in vitro diagnostics for detection and/or diagnosis of COVID-19 is terminated or until the EUA’s prior termination or revocation. Our LineaTM COVID-19 Assay Kit has not been FDA cleared or approved, and the EUA’s limited authorization is only for the detection of nucleic acid from SARS-CoV-2, not for any other viruses or pathogens. We currently manufacture the LineaTM COVID-19 Assay Kit at our facilities in Stony Brook, New York.
+ 
+
+6
+-
+
+COVID-19 Surveillance Testing
+ 
+Starting in July 2020, the Company under its ADCL subsidiary, began offering COVID-19 pooled surveillance testing to customers as a Testing-as-a-Service (TaaS) offering branded under the safeCircleTM trademark. Unlike diagnostic testing, which looks for the occurrence of COVID-19 at the individual level, safeCircleTM surveillance testing looks for infections within a defined population or community and can be used for making health management decisions at the population level. safeCircleTM surveillance testing uses high-sensitivity pooled COVID-19 testing utilizing the LineaTM COVID-19 Assay Kit. Under the safeCircleTM surveillance testing service, pooled test results are returned to the sponsoring organization in the aggregate only, not directly to the participating individuals, and may be performed without CLIA certification. Once potentially infected portions of a defined population are identified by the safeCircleTM surveillance testing service, the individuals comprising the potentially infected portions of the defined population are referred to follow on diagnostic testing at a clinical lab to obtain individual results. ADCL is offering its safeCircleTM surveillance testing in compliance with current CDC, FDA, CMS and New York State Department of Health recommendations. The use of pooled sampling procedures for the safeCircleTM surveillance testing service has been internally validated by ADCL in compliance with current CDC guidance. The use of pooled sampling procedures is not included in the LineaTM COVID-19 Assay Kit EUA.
+ 
+We seek to commercialize the safeCircleTM surveillance testing TaaS offering with institutional clients such as schools, colleges and businesses. We currently provide safeCircleTM surveillance testing to several private schools, New York State-based small enterprises and college athletic programs.
+ 
+Clinical Testing Laboratory
+ 
+Under our ADCL subsidiary, we have applied to the New York State Department of Health for all necessary licensing to operate a New York State clinical diagnostics laboratory. These applications are currently pending. The New York State Department of Health performed its initial inspection of our clinical laboratory and identified deficiencies in the clinical standard of practice. These deficiencies need to be rectified before we can submit a request for re-inspection. We are working to rectify these deficiencies now. Through ADCL, we seek to further commercialize our EUA authorized Linea COVID-19 Assay Kit and our iCTC Technology. ADCL is also performing testing services in support of the Company’s safeCircleTM surveillance testing services in accordance with current CDC, FDA, CMS and New York State Department of Health recommendations.
+ 
+iCTC Technology
+ 
+We seek to further develop, manufacture and commercialize our Vita-AssayTM iCTC Technology recently acquired from Vitatex, Inc. in August 2019. Our iCTC Technology uses a patented functional assay to capture live invasive circulating tumor cell and associated lymphocytes that can be identified and expanded for further analysis, including genetic sequencing. We believe our iCTC Technology can be used as an early cancer diagnostic tool, to facilitate cancer disease progression monitoring, to assess metastatic tumor risk and to discover epitopes to serve as targets for nucleic-acid based immunotherapies. Our iCTC Technology has been used and is currently being used in a human cancer drug candidate clinical trial to monitor cancer disease progression in the trial subjects as a Research Use Only diagnostic assay. We believe our iCTC Technology has several advantages over existing in vitro circulating tumor cell diagnostic technologies that do not capture live iCTC cells. The Company seeks to further develop and commercialize this technology and to potentially integrate aspects of the iCTC Technology with the LinearDNATM platform for cancer research and nucleic-acid based drug development.
+ 
+Non-Biologic Tagging and Security Products and Services
+ 
+Our supply chain security business allows our customers to use non-biologic DNA (molecular) tags manufactured on our LinearDNATM platform to mark objects in a unique manner and then identify these objects by detecting the absence or presence of the molecular tag. We believe our molecular tags are not economically feasible nor practical to replicate, and that our disruptive tracking platform offers broad commercial relevance across many industry verticals.
+ 
+The underlying strategy in our tagging business is to become an authenticity and traceability platform provider for large complex supply chains, particularly in process industries in which contracts for our products and services are typically larger and recurring over longer duration as compared to our historic norms, where the benefits to customers and consumers are more significant, and where our forensic security and traceability offer a unique and protected value. Using our tagging products and technology, manufacturers, brands, and other stakeholders can ensure authenticity and protect against diversion throughout a product’s journey from manufacturer to use.
+ 
+SigNature® Molecular Tags, SigNature® T Molecular Tags, fiberTyping®, SigNify® Beacon® and CertainT® comprise our principal Non-Biologic tagging and security technology platform.
+ 
+
+7
+-
+

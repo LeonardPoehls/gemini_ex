@@ -1,0 +1,237 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1.    Business.
+  
+  General
+ 
+  Our Company
+  
+  LightPath Technologies, Inc. (“LightPath”, the “Company”, “we”, “our”, or “us”) was incorporated under Delaware law in 1992 as the successor to LightPath Technologies Limited Partnership, a New Mexico limited partnership formed in 1989, and its predecessor, Integrated Solar Technologies Corporation, a New Mexico corporation formed in 1985. Today, LightPath is a global company with major facilities in the United States, the People’s Republic of China and the Republic of Latvia.
+ Capabilities
+  
+  Our capabilities include precision molded optics, thermal imaging optics and custom designed optics. These capabilities allow us to manufacture optical components and higher-level assemblies, including precision molded glass aspheric optics, molded and diamond-turned infrared aspheric lenses and other optical materials used to produce products that manipulate light.  We design, develop, manufacture and distribute optical components and assemblies utilizing advanced optical manufacturing processes. We serve a wide and diverse number of industries including defense and security, optical systems and components, datacom/telecom, information technology, life sciences, machine vision and production technology. Our products are incorporated into a variety of applications by our broad and diverse customer base. These applications include defense products, medical devices, laser aided industrial tools, automotive safety applications, barcode scanners, optical data storage, hybrid fiber coax datacom, telecommunication optical networks, machine vision and sensors, among others. All the products we produce enable lasers and imaging devices to function more effectively.  For example:
+  
+   ●
+ Molded glass aspheres and assemblies are used in various high-performance optical applications primarily based on laser technology;
+
+   ●
+ Infrared molded lenses, diamond turned, conventional and CNC ground and polished lenses and assemblies using short (“SWIR”), mid (“MWIR”) and long (“LWIR”) wave transmitting materials are used in applications for fever detection, firefighting, predictive maintenance, homeland security, surveillance, automotive, cell phone infrared cameras, pharmaceutical research & development and defense; and
+
+   ●
+ Collimator assemblies are used in applications involving light detection and ranging (“LIDAR”) technology for advanced driver assistance systems and autonomous vehicles, such as forklifts and other automated warehouse equipment.
+
+ 
+  The Company has robust and innovative manufacturing technologies and is vertically integrated from optical design through testing. Manufacturing strengths include the ability to use multiple optical glasses (visible and infrared spectrums), multiple lens fabrication methods (precision molding, single point diamond turning, and both conventional and CNC grind and polish), anti-reflective coatings, wear resistant coatings (such as diamond-like carbon or “DLC”), assembly and test.
+  
+   
+3
+
+
+  
+ 
+  Subsidiaries
+  
+  In November 2005, we formed LightPath Optical Instrumentation (Shanghai) Co., Ltd (“LPOI”), a wholly-owned subsidiary, located in Jiading, People’s Republic of China. The LPOI facility (the “Shanghai Facility”) is primarily used for sales and support functions.
+  
+  In December 2013, we formed LightPath Optical Instrumentation (Zhenjiang) Co., Ltd. (“LPOIZ”), a wholly-owned subsidiary located in the New City district, of the Jiangsu province, of the People’s Republic of China. LPOIZ’s manufacturing facility (the “Zhenjiang Facility”) serves as our primary manufacturing facility in China and provides a lower cost structure for production of larger volumes of optical components and assemblies. Late in fiscal 2019, this facility was expanded from 39,000 to 55,000 square feet to add capacity for polishing to support our growing infrared business.
+  
+ In December 2016, we acquired ISP Optics Corporation, a New York corporation (“ISP”), and its wholly-owned subsidiary, ISP Optics Latvia, SIA, a limited liability company founded in 1998 under the Laws of the Republic of Latvia (“ISP Latvia”). ISP is a vertically integrated manufacturer offering a full range of infrared products from custom infrared optical elements to catalog and high-performance lens assemblies. Historically, ISP’s Irvington, New York facility (the “Irvington Facility”) functioned as its global headquarters for operations, while also providing manufacturing capabilities, optical coatings, and optical and mechanical design, assembly, and testing. In June 2019, we completed the relocation of this manufacturing facility to our existing facilities in Orlando, Florida and Riga, Latvia. ISP Latvia is a manufacturer of high precision optics and offers a full range of infrared products, including catalog and custom infrared optics. ISP Latvia’s manufacturing facility is located in Riga, Latvia (the “Riga Facility”).
+  
+  Product Groups and Markets 
+ 
+  Overview
+  
+  Our business is organized into three product groups: precision molded optics (“PMO”), infrared products and specialty products. These product groups are supported by our major product capabilities: molded optics, thermal imaging optics, and custom designed optics.
+  
+  Our PMO product group consists of visible precision molded optics with varying applications. Our infrared product group is comprised of infrared optics, both molded and diamond-turned, and thermal imaging assemblies. This product group also includes both conventional and CNC ground and polished lenses. Between these two product groups, we have the capability to manufacture lenses from very small (with diameters of sub-millimeter) to over 300 millimeters, and with focal lengths from approximately 0.4mm to over 2000mm. In addition, both product groups offer both catalog and custom designed optics.
+  
+  Our specialty product group is comprised of value-added products, such as optical subsystems, assemblies, and collimators, and non-recurring engineering (“NRE”) products, consisting of those products we develop pursuant to product development agreements that we enter into with customers. Typically, customers approach us and request that we develop new products or applications for our existing products to fit their particular needs or specifications. The timing and extent of any such product development is outside of our control.
+  
+  We have also aligned our marketing efforts by our capabilities (i.e., molded optics, thermal imaging optics, and custom optics), and then by industry. We currently serve the following major markets: defense and security, optical systems and components, datacom/telecom, information technology, life sciences, machine vision and production technology. Customers in each of these markets may select the best optical technologies that suit their needs from our entire suite of products, availing us to cross-selling opportunities, particularly where we can leverage our knowledge base against our expanding design library. Within our product groups, we have various applications that serve our major markets. For example, our infrared products can be used for gas sensing devices, spectrometers, night vision systems, advanced driver-assistance systems (“ADAS”), thermal weapon gun sights, and infrared counter measure systems, among others.
+  
+  The photonics market drives our growth and is comprised of eight application areas: information and communication technology, display, lighting, photovoltaic, production technology, life sciences, and measurement and automated vision. In 2018, the market size for these applications at the system level was $556.4 billion. LightPath has product applications in six of the eight application areas, all except for displays and photovoltaic. According to the latest Markets and Markets survey, published in 2019, these six application areas had an estimated market value of $401 billion and are growing at a 7% compound annual growth rate. Within the larger overall markets, we believe there is a market of approximately $2.0 billion for our current products and capabilities. We continue to believe our products will provide significant growth opportunities over the next several years and, therefore, we will continue to target specific applications in each of these major markets. In addition to these major markets, a large percentage of our revenues are derived from sales to unaffiliated companies that purchase our products to fulfill their customers’ orders, as well as unaffiliated companies that offer our products for sale in their catalogs.
+  
+  Our strategy is to capitalize on optics as an enabling technology across many industries and markets, by leveraging our  key differentiators, including our deep design and manufacturing expertise, our technology, and our established low-cost vertically integrated manufacturing capabilities. In addition, we intend for our product managers and sales force to work together to focus on pursuing customer growth opportunities where our differential advantages coincide with key customer needs.
+  
+   
+4
+
+
+  
+ 
+  Product Groups
+  
+  Beginning in late 2019, we implemented a product management function, with a product manager for each of our major product capabilities: molded optics, thermal imaging optics and custom designed optics. Product management is principally a portfolio management process that analyzes products within the product capability areas as defined above. This function has begun to facilitate choosing investment priorities to help strategically align our competencies with strategic industry revenue opportunities. Over the longer term, this function will also help ensure successful product life cycle management. The following further discusses the various products we offer and certain growth opportunities we anticipate for each such product.
+  
+  PMO Product Group. Aspheric lenses are known for their optimal performance. Aspheric lenses simplify and shrink optical systems by replacing several conventional lenses. However, aspheric lenses can be difficult and costly to machine. Our glass molding technology enables the production of both low and high volumes of aspheric optics, while still maintaining the highest quality at an affordable price. Molding is the most consistent and economical way to produce aspheres and we have perfected this method to offer the most precise molded aspheric lenses available.
+  
+  Infrared Product Group. Our infrared product group is comprised of both molded and turned infrared lenses and assemblies using a variety of infrared glass materials. Advances in chalcogenide materials have enabled compression molding for MWIR and LWIR optics in a process similar to precision molded lenses. Our molded infrared optics technology enables high performance, cost-effective infrared aspheric lenses that do not rely on traditional diamond turning or lengthy polishing methods. Utilizing precision molded aspheric optics significantly reduces the number of lenses required for typical thermal imaging systems and the cost to manufacture these lenses. Molding is an excellent alternative to traditional lens processing methods particularly where volume and repeatability is required.
+  
+  Through ISP, our wholly-owned subsidiary, we also offer germanium, silicon or zinc selenide aspheres and spherical lenses, which are manufactured by diamond turning. This manufacturing technique allows us to offer larger lens sizes and the ability to use other optical materials that cannot be effectively molded. The capabilities we have from ISP give us the ability to meet complex optical challenges that demand more exotic optical substrate materials that are non-moldable, as well as larger size optics.
+  
+ Near the end of fiscal 2018, we announced comprehensive production capabilities and global availability for a new line of infrared lenses made from chalcogenide glass. We developed this glass and melt it internally to produce our Black Diamond glass, which has been trademarked, and is marketed as BD6. Historically, the majority of our thermal imaging products have been germanium-based, which is subject to market pricing and availability. BD6 offers a lower-cost alternative to germanium, which we expect will benefit the cost structure of some of our current infrared products and allow us to expand our product offerings in response to the markets’ increasing requirement for low-cost infrared optics applications.
+  
+  Overall, we anticipate growth for infrared optics, particularly as BD6 continues to be adopted into new applications and new designs. Infrared systems, which include thermal imaging cameras, temperature sensing, gas sensing devices, spectrometers, night vision systems, automotive driver awareness systems, such as blind spot detection, thermal weapon sights, and infrared counter measure systems, is an area that is growing rapidly and we are selling products that are utilized in a number of these applications. As infrared imaging systems become widely available, market demand will increase as the cost of components decreases. Our aspheric molding process is an enabling technology for the cost reduction and commercialization of infrared imaging systems utilizing smaller lenses because the aspheric shape of our lenses enables system designers to reduce the lens element in a system and provide similar performance at a lower cost. In addition, there is a trend toward utilizing smaller size sensors in these devices which require smaller size lenses and that fits well with our molding technology.
+  
+  Specialty Product Group. We offer a group of custom specialty optics products and assemblies that take advantage of our unique technologies and capabilities. These products include custom optical designs, mounted lenses, optical assemblies, and collimator assemblies. Collimator assemblies for applications involving light detection and ranging LIDAR technology for advanced driver assistance systems and autonomous vehicles, such as forklifts and other automated warehouse equipment. This continues to be an emerging market with long-term growth potential for us. We also expect growth from medical programs and commercial optical sub-assemblies.
+  
+  We design, build, and sell optical assemblies into markets for test and measurement, medical devices, military, industrial, and communications based on our proprietary technologies. Many of our optical assemblies consist of several products that we manufacture.
+  
+  Growth Strategy
+  
+  Over the last few months, through an intensive discovery and analysis process, our leadership has worked to develop and re-define our strategic direction.
+  
+   
+5
+
+
+  
+ 
+  As a component company with its roots deep in optics manufacturing technology, we are known for our innovative products and solutions, which we have leveraged over the years to focus on  the delivery of "best in class" and cost leading optical components.  Initially, we focused on standard glass PMO products, and later, through the acquisition of ISP, as well as internal research and development, we began to shift our focus to products specific to the infrared market.
+  
+  As is typical with a company with origins in component manufacturing, over the years, we have focused on our products and technology, and became a leader in molded optical glass components.  We then leveraged that experience and know-how into infrared optics. However, during the 30 years since we began delivering our innovative molded optics, the uses of optical technology have grown exponentially.
+  
+  With the expansion of optical applications into many industries, technologies and products, customers' needs have changed, and customers now often seek a partner that can complement their capabilities and support their implementation of optics into their products. We are well positioned to become the partner of choice for OEM customers integrating optics into their products because of our optical technologies expertise, design of optical systems, and manufacturing of the individual components, as well as assemblies.
+  
+  To execute on this strategic direction, we intend to focus on the following strategic priorities:
+  
+  1. Capitalize on the Opportunity.  We recognize that the opportunity for optics and optical assemblies has changed over the past several years.  Optics (or more generally photonics) and optical technologies are increasingly pervasive across numerous industries and markets. Optics is not an industry vertical in itself, but an enabling technology that spans industries well beyond telecommunications. Optics has become a key technology in industries such as automotive, defense, medical, surveillance, industrial equipment, and many other industries.  As such, we have an enormous market opportunity for our products globally, and the opportunity is diversified across many industries and end markets.
+  
+  2. Prioritize Key Differentiators.  We will prioritize the key differentors that we bring to the photonics market and what we can provide to our customers. Namely, we believe that these key differentiators are our deep design and manufacturing expertise coupled with key optical technologies, as well as a global presence of market penetration and low-cost manufacturing.
+  
+  3. Continue to Drive Operational Excellence. We acknowledge the importance of continuous improvement and will intensify our focus on operational excellence. This will encompass both short- and long-term initiatives throughout the organization and be supported by a culture that values results and accountability.
+  
+  4. Create Solutions for Our Customers.  We will leverage our unique capabilities using our expertise in optical design and manufacturing to create solutions for our customers rather than simply components. Over time, we believe this will promote a richer business model supported by longer term partnerships with our customers.
+  
+  5. Invest in Our People.  We will invest in world class optical design and engineering talent and a strong sales force that can focus and prioritize customer opportunities that align with our strategic goals.
+ 
+ 
+  We will work to change the operations and execution culture to be "best in class."  We will remain focused on identifying and investing in the opportunities best suited to deliver on our strategy. We believe that this new strategic focus will put us on a path to provide even more value to our customers, greater opportunities to our employees, and better financial returns to our stockholders.
+  
+  Sales and Marketing
+  
+  Marketing. Extensive product diversity and varying levels of product maturity characterize the optics industry. Product markets range from consumer (e.g., cameras and copiers) to industrial (e.g., lasers, data storage, and infrared imaging), from products where the lenses are the central feature (e.g., telescopes, microscopes, and lens systems) to products incorporating lens components (e.g., robotics and semiconductor production equipment) and communications (e.g., various optics are required for bandwidth expansion and improved data transfer for the optical network). As a result, we market our products across a wide variety of customer groups, including laser systems manufacturers, laser OEMs, infrared-imaging systems vendors, industrial laser tool manufacturers, telecommunications equipment manufacturers, medical and industrial measurement equipment manufacturers, government defense agencies, and research institutions worldwide.
+  
+  Technical Sales Model. To align the organization for specific goals and accountability, we have made a number of organizational changes designed to ensure we continue to leverage the expanded capabilities and manage our broader product portfolio. First, our organizational structure now enables the close coordination of supply with demand. We created a product management function to manage the portfolio of products and identify our best growth opportunities.  Finally, in June 2020, we hired a Vice President of Global Sales and Marketing to lead our Sales and Marketing organization.
+  
+   
+6
+
+
+  
+ 
+  Sales Team & Channel.  We have expanded our inside sales and application engineering organization to better support our regional sales forces that market and sell our products directly to customers in North America, Europe and China. We also have a master distributor in Europe. We have formalized relationships with 15 industrial, laser, and optoelectronics distributors and channel partners located in the United States (“U.S.”) and various foreign countries to assist in the distribution of our products in highly specific target markets. We also have reseller arrangements with the top three product catalog companies in the optics and opto-electronics market. In addition, we also maintain our own product catalog and internet websites (www.lightpath.com and www.ispoptics.com) as vehicles for broader promotion of our products. We make use of print media advertisements in various trade magazines and participate in appropriate domestic and foreign trade shows.
+  
+  All of our partners work diligently to expand opportunities in emerging geographic markets and through alternate channels of distribution. We believe that we provide a high level of support in developing and maintaining our long-term relationships with our customers. Customer service and support are provided through our offices and those of our partners that are located throughout the world.
+  
+  Trade Shows. Generally, we display our product line additions and enhancements at one or more trade shows each year. As a result of COVID-19, however, several of these trade shows were either cancelled or modified into virtual trade shows. Prior to COVID-19, we participated in several U.S.-based shows including Society of Photographic Instrumentation Engineers (“SPIE”) Photonics West in February 2020. In addition, we participated, virtually, in the Optical Society of America (“OSA”) Industry Development Associates (“OIDA”) Showcase in August 2020, and intend to exhibit at the China International Optoelectronic Expo (“CIOE”) in September 2020.  This strategy underscores our strategic directive of broadening our base of innovative optical components and assemblies. These trade shows, even as virtual events, also provide an opportunity to meet with and enhance existing business relationships, meet and develop potential customers, and to distribute information and samples regarding our products.
+  
+  Competition
+  
+  The market for optical components generally is highly competitive and highly fragmented. We compete with manufacturers of conventional spherical lenses and optical components, providers of aspheric lenses and optical components, and producers of optical quality glass. To a lesser extent, we compete with developers of specialty optical components and assemblies, particularly as related to our custom products within the infrared product group. Many of these competitors have greater financial, manufacturing, marketing, and other resources than we do.
+  
+  We believe our unique capabilities in optical design engineering, our low-cost structure and our substantial presence in Europe and Asia, provides us with a competitive edge and assists us in securing business. Additionally, we believe that we offer value to some customers as a primary or backup supply source in the U.S. should they be unwilling to commit to purchase their supply of a critical component from a foreign production source. We also have a broad product offering to satisfy a variety of applications and markets.
+  
+  PMO Product Group. Our PMO products compete with conventional lenses and optical components manufactured by companies such as Asia Optical Co., Inc., Anteryon BV, Rochester Precision Optics, and Sunny Optical Technology (Group) Company Limited. Aspheric lens system manufacturers include Panasonic Corporation, Alps Electric Co., Ltd., Hoya Corporation, as well as other competitors from China and Taiwan, such as E-Pin Optical Industry Co., Ltd., and Kinik Company.
+  
+  Our aspheric lenses compete with lens systems comprised of multiple conventional lenses. Machined aspheric lenses compete with our molded glass aspheric lenses. The use of aspheric surfaces provides the optical designer with a powerful tool in correcting spherical aberrations and enhancing performance in state-of-the-art optical products. However, we believe that our optical design expertise and our flexibility in providing custom high-performance optical components at a low price are key competitive advantages for us over these competitors.
+  
+  Plastic molded aspheres and hybrid plastic/glass aspheric optics, on the other hand, allow for high volume production, but primarily are limited to low cost consumer products that do not place a high demand on performance (such as plastic lenses in disposable or mobile phone cameras). Molded plastic aspheres appear in products that stress cost or weight as their measure of success over performance and durability. Our low-cost structure allows us to compete with these lenses based on higher performance and durability from our glass lenses at only a small premium in price.
+  
+  Infrared Product Group. Our infrared aspheric optics compete with optical products produced by Janos Technology LLC, Ophir Optronics Solutions Ltd. (a subsidiary of MKS Instruments, Inc.), Clear Align and a variety of Eastern European and Asian manufacturers. These traditional infrared lenses can either be polished spherical or are diamond turned aspherical. Our molded lenses compete with spherical lenses because like all aspheres they can replace doublets or triplets based on the higher performance of an aspheric lens.  Our proprietary BD6 (chalcogenide material), a lower cost replacement for Germanium, gives us a competitive advantage as it can be diamond turned or molded depending upon customer requirements. In addition, our low-cost, high volume lens molding technology combined with our lens fabrication capabilities in China and Latvia, which are low-cost regions, enables us to compete with the other manufacturers of infrared lens by offering the best technology fit at a competitive price.
+  
+   
+7
+
+
+  
+ 
+  Our molded infrared optics competes with products manufactured by Umicore N.V. (“Umicore”), Rochester Precision Optics, and a number of Asian and European manufacturers. We believe that our optical design expertise, our BD6-based product offerings, our diverse manufacturing flexibility, and our manufacturing facilities located in Asia, Europe and North America are key advantages over the products manufactured by these competitors. 
+  
+  Manufacturing
+  
+  Facilities. Our manufacturing is largely performed in our combined 38,000 square feet of production facilities in Orlando, Florida (the “Orlando Facility”), in LPOIZ’s combined 55,000 square feet of production facilities in Zhenjiang, China, and in ISP Latvia’s 23,000 square feet of production facilities in Riga, Latvia. LPOI sales and support functions occupy a 1,900 square foot facility in Shanghai.
+  
+  Our Orlando Facility and LPOIZ’s Zhenjiang Facility feature areas for each step of the manufacturing process, including coating work areas, diamond turning, preform manufacturing and a clean room for precision glass molding and integrated assembly. The Orlando and Zhenjiang Facilities include new product development laboratories and space that includes development and metrology equipment. The Orlando and Zhenjiang Facilities have anti-reflective and infrared coating equipment to coat our lenses in-house. ISP Latvia’s Riga Facility includes fully vertically integrated manufacturing processes to produce high precision infrared lenses and infrared lens assemblies, including crystal growth, CNC grinding, conventional polishing, diamond turning, multilayer coatings, assemblies and state of the art metrology.
+  
+ We are routinely adding additional production equipment at our Orlando, Zhenjiang and Riga Facilities. During fiscal 2018, we added additional space in both our Zhenjiang and Riga Facilities. In fiscal 2019, we completed our expansion in Orlando and closed the Irvington Facility, moving the manufacturing operations to the Orlando Facility and the Riga Facility. We also completed an expansion to our Zhenjiang operation increasing our preform capacity. In addition to adding additional equipment or space at our manufacturing facilities, we add additional work shifts, as needed, to increase capacity and meet forecasted demand. We intend to monitor the capacity at our facilities, and will increase such space as needed. We believe our facilities are adequate to accommodate our needs over the next year.
+  
+  Production and Equipment. Our Orlando Facility contains glass melting capability for BD6 chalcogenide glass, a manufacturing area for our molded glass aspheres, multiple anti-reflective and wear resistant coating chambers, diamond turning machines and accompanying metrology equipment offering full scale diamond turning lens capability, a tooling and machine shop to support new product development, commercial production requirements for our machined parts, the fabrication of proprietary precision glass molding machines and mold equipment, and a clean room for our molding and assembly workstations and related metrology equipment.
+  
+  LPOIZ’s Zhenjiang Facility features precision glass molding manufacturing area, clean room, machine shop, dicing area, and thin film coating chambers for anti-reflective coatings on both visible and infrared optics and related metrology equipment.
+  
+  ISP Latvia’s Riga Facility consists of crystal growth, grinding, polishing, diamond turning, quality control departments and a mechanical shop to provide the departments with the necessary tooling. The crystal growth department is equipped with multiple furnaces to grow water soluble crystals. The grind and polish department has modern CNC equipment, lens centering and conventional equipment to perform spindle, double sided and continuous polishing operations. The diamond turning department has numerous diamond turning machines accompanied with the latest metrology tools. In connection with the relocation of the Irvington Facility, we have increased the diamond turning capacity in this facility. The quality control department contains numerous inspection stations with various equipment to perform optical testing of finished optics.
+  
+  The Orlando, Zhenjiang, and Riga Facilities are ISO 9001:2015 certified. The Zhenjiang Facility is also ISO/TS 1649:2009 automotive certified for manufacturing of optical lenses and accessories. The Orlando Facility is International Traffic in Arms Regulations (“ITAR”) compliant and registered with the U.S. Department of State. The Riga Facility has a DSP-5 ITAR license and Technical Assistance Agreement in place that allows this facility to manufacture items with ITAR requirements.
+  
+  For more information regarding our facilities, please see Item 2. Properties in this Annual Report on Form 10-K.
+  
+  Subcontractors and Strategic Alliances.  We believe that low-cost manufacturing is crucial to our long-term success. In that regard, we generally use subcontractors in our production process to accomplish certain processing steps requiring specialized capabilities. For example, we presently use a number of qualified subcontractors for fabricating, polishing, and coating certain lenses, as necessary. We have taken steps to protect our proprietary methods of repeatable high-quality manufacturing by patent disclosures and internal trade secret controls.
+  
+  Suppliers.  We utilize a number of glass compositions in manufacturing our molded glass aspheres and lens array products.  These glasses or equivalents are available from a large number of suppliers, including CDGM Glass Company Ltd., Ohara Corporation, and Sumita Optical Glass, Inc. Base optical materials, used in both infrared glass and collimator products, are manufactured and supplied by a number of optical and glass manufacturers. ISP utilizes major infrared material suppliers located around the globe for a broad spectrum of infrared crystal and glass. The development of our manufacturing capability for BD6 glass provides a low-cost internal source for infrared glass. We believe that a satisfactory supply of such production materials will continue to be available, at reasonable or, in some cases, increased prices, although there can be no assurance in this regard.
+  
+   
+8
+
+
+  
+ 
+  We also rely on local and regional vendors for component materials and services such as housings, fixtures, chemicals and inert gases, specialty ceramics, UV and AR coatings, and other specialty coatings. In addition, certain products require external processing, such as anodizing and metallization. To date, we are not dependent on any of these manufacturers and have found a suitable number of qualified vendors and suppliers for these materials and services.
+  
+  We currently purchase a few key materials from single or limited sources. We believe that a satisfactory supply of production materials will continue to be available at competitive prices, although there can be no assurance in this regard.
+  
+  Intellectual Property
+  
+  Our policy is to protect our technology by, among other things, patents, trade secret protection, trademarks, and copyrights. We primarily rely upon trade secrets and unpatented proprietary know-how to protect certain process inventions, lens designs, and innovations. We have taken security measures to protect our trade secrets and proprietary know-how, to the extent that is reasonable.
+  
+  In addition to trade secrets and proprietary know-how, we have three remaining patents that relate to the fusing of certain of our lenses that are part of our specialty products group. These patents expire at various times through 2023. We also are in the process of applying for multiple new patents.
+  
+  Our means of protecting our proprietary rights may not be adequate and our competitors may independently develop technology or products that are similar to ours or that compete with ours. Patent, trademark, and trade secret laws afford only limited protection for our technology and products. The laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the U.S. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to obtain and use information that we regard as proprietary. Third parties may also design around our proprietary rights, which may render our protected technology and products less valuable, if the design around is favorably received in the marketplace. In addition, if any of our products or technology is covered by third-party patents or other intellectual property rights, we could be subject to various legal actions. We cannot assure you that our technology platform and products do not infringe patents held by others or that they will not in the future. Litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement, invalidity, misappropriation, or other claims.
+  
+  We own several registered and unregistered service marks and trademarks that are used in the marketing and sale of our products. The following table sets forth our registered and unregistered service marks and trademarks, if registered, the country in which the mark is filed, and the renewal date for such mark.
+  
+ 
+Mark | Type | Registered | Country | Renewal Date 
+--------------+--------------+------------+----------------------------+-------------------
+LightPath® | Service mark | Yes | United States | October 22, 2022 
+GRADIUM™ | Trademark | Yes | United States | April 29, 2027 
+Circulight | Trademark | No | - | - 
+BLACK DIAMOND | Trademark | No | - | - 
+GelTech | Trademark | No | - | - 
+Oasis | Trademark | No | - | - 
+LightPath® | Service mark | Yes | People’s Republic of China | September 13, 2025
+ISP Optics® | Trademark | Yes | United States | August 12, 2022 
+
+ Environmental and Governmental Regulation
+  
+  Currently, emissions and waste from our manufacturing processes are at such low levels that no special environmental permits or licenses are required. In the future, we may need to obtain special permits for disposal of increased waste by-products. The glass materials we utilize contain some toxic elements in a stabilized molecular form. However, the high temperature diffusion process results in low-level emissions of such elements in gaseous form. If production reaches a certain level, we believe that we will be able to efficiently recycle certain of our raw material waste, thereby reducing disposal levels. We believe that we are presently in compliance with all material federal, state, and local laws and regulations governing our operations and have obtained all material licenses and permits necessary for the operation of our business.
+  
+  We also utilize certain chemicals, solvents, and adhesives in our manufacturing process. We believe we maintain all necessary permits and are in full compliance with all applicable regulations.
+  
+   
+9
+
+
+  
+ 
+  To our knowledge, there are currently no U.S. federal, state, or local regulations that restrict the manufacturing and distribution of our products. Certain end-user applications require government approval of the complete optical system, such as U.S. Food and Drug Administration approval for use in endoscopy. In these cases, we will generally be involved on a secondary level and our OEM customer will be responsible for the license and approval process.
+  
+  The Dodd-Frank Wall Street Reform and Consumer Protection Act imposes disclosure requirements regarding the use of “conflict minerals” mined from the Democratic Republic of Congo and adjoining countries in products, whether or not these products are manufactured by third parties. The conflict minerals include tin, tantalum, tungsten, and gold, and their derivatives. Pursuant to these requirements, we are required to report on Form SD the procedures we employ to determine the sourcing of such minerals and metals produced from those minerals. There are costs associated with complying with these disclosure requirements, including for diligence in regards to the sources of any conflict minerals used in our products, in addition to the cost of remediation and other changes to products, processes, or sources of supply as a consequence of such verification activities. In addition, the implementation of these rules could adversely affect the sourcing, supply, and pricing of materials used in our products. We strive to only use suppliers that source from conflict-free smelters and refiners; however, in the future, we may face difficulties in gathering information regarding our suppliers and the source of any such conflict minerals.
+  
+  New Product Development
+  
+  In recent years, our new product development efforts have been focused on the development of our capabilities in molded aspheric lenses and infrared lenses. We incurred expenditures for new product development during fiscal 2020 and 2019 of approximately $1.7 million and $2.0 million, respectively. In fiscal 2020 and 2019, our efforts were concentrated on expanding our product capabilities for molded optics and thermal imaging optics, to continue increasing our product offerings, lower costs and increase capacity in response to demand for both our PMO and infrared products.
+  
+  In line with our new strategic priorities we anticipate continuing to invest in new product development with a stronger focus on providing complete customer-specific solutions as well as continuing to develop new core technologies that will allow us to differentiate ourselves in the marketplace and create solutions for our customers. Our spending on new product development may begin to increase as we review implementation of our strategic plan and align our capabilities and new product development to that plan.
+  
+  For more difficult or customized products, we typically bill our customers for engineering services as a NRE fee.
+  
+  Concentration of Customer Risk
+  
+  In fiscal 2020, we had sales to three customers that comprised an aggregate of approximately 31% of our annual revenue with one customer at 15% of our sales, another customer at 10% of our sales, and the third customer at 6% of our sales. In fiscal 2019, we had sales to three customers that comprised an aggregate of approximately 32% of our annual revenue with one customer at 17% of our sales, another customer at 8% of our sales, and the third customer at 7% of our sales. The loss of any of these customers, or a significant reduction in sales to any such customer, would adversely affect our revenues and profits. We continue to diversify our business in order to minimize our sales concentration risk.
+  
+  In fiscal 2020, 66% of our net revenue was derived from sales outside of the U.S., with 96% of our foreign sales derived from customers in Europe and Asia. In fiscal 2019, 62% of our net revenue was derived from sales outside of the U.S., with 94% of our foreign sales derived from customers in Europe and Asia.
+  
+  Employees
+  
+  As of June 30, 2020, we had 372 employees, of which 363 were full-time equivalent employees, with 106 in the U.S., including 102 located in Orlando, Florida and 4 working remotely from various locations, 96 located in Riga, Latvia, and 170 located in Jiading and Zhenjiang, China. Of our 363 full-time equivalent employees, we have 40 employees engaged in management, administrative, and clerical functions, 27 employees in new product development, 19 employees in sales and marketing, and 286 employees in production and quality control functions. Any employee additions or terminations over the next twelve months will be dependent upon the actual sales levels realized during fiscal 2021. We have used and will continue utilizing part-time help, including interns, temporary employment agencies, and outside consultants, where appropriate, to qualify prospective employees and to ramp up production as required from time to time. None of our employees are represented by a labor union.

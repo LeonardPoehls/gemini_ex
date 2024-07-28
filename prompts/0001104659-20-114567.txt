@@ -1,0 +1,530 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Overview 
+ 
+We are a biotechnology company and biologics contract development and manufacturing organization (“CDMO”). We apply our licensed and owned technologies to develop novel products to fight fibrotic diseases, cancers, and infectious diseases. We use our FastPharming® Development and Manufacturing System to increase “speed-to-clinic” for new candidates. We are also using the FastPharming System to create proteins and bioinks for research and further manufacturing uses in a variety of research and development (“R&D”) applications, including 3D-bioprinting. In addition, we make the FastPharming System available to clients on a fee-for-service basis for the production of proteins.
+ 
+During the year ended June 30, 2020, we operated in two segments: (i) our CDMO segment, operated via our subsidiary iBio CDMO LLC (“iBio CDMO”), and (ii) our proprietary biologics development and licensing activities, conducted within iBio, Inc. In the past, our primary focus was the CDMO business, pursuant to which iBio CDMO provided manufacturing services to collaborators and third-party customers as well as to us, for our own product development purposes. However, during the second half of 2020 and subsequent to our fiscal year end, we shifted our primary focus to our proprietary biologics development programs, including novel vaccines and therapeutics.
+ 
+Our current platforms and programs include: (i) CDMO services using our licensed and owned FastPharming Technologies and GlycaneeringTM Services; (ii) the development of therapeutics, for which we intend to conduct preclinical and clinical trials; (iii) the development of vaccines, for which we intend to conduct preclinical and clinical trials, and (iv) the production of proteins for research and further manufacturing use in 3D-bioprinting and other applications. We are developing a portfolio of technologies, products, and services driven by the following platforms and programs, which we intend to use individually, and in combination:
+ 
+
+· | CDMO Services
+--+--------------
+
+
+o | Process development and manufacturing of protein products in hydroponically-grown, transiently-transfected plants, (typically Nicotiana benthamiana, a relative of the tobacco plant) using our proprietary expression technologies, Glycaneering Services, and production know-how (the FastPharming System), deployed in our 130,000 square-foot manufacturing facility in Bryan, Texas.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | “Factory Solutions” for the clients who seek to insource biologics manufacturing using the FastPharming System instead of outsourcing production to iBio CDMO.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Therapeutics
+--+-------------
+
+
+o | Treatments for fibrotic diseases, including a fusion of the endostatin-derived E4 antifibrotic peptide to the hinge and heavy chain of human IgG1 (“IBIO-100”, formerly described as “CFB-03”) for systemic scleroderma (for which we have received orphan drug designation), idiopathic pulmonary fibrosis, and related conditions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | An ACE2-Fc fusion protein to be developed as a treatment for Coronavirus disease 2019 (“COVID-19”) and, prospectively, other diseases emanating from the Coronaviridae family, in-licensed from Planet Biotechnology, Inc.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Vaccines
+--+---------
+
+
+o | A novel virus-like particle antigen being designed for use in a vaccine candidate targeting the SARS-CoV-2 virus (“IBIO-200”).
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+o | The lichenase (“LicKMTM”)-subunit vaccine for COVID-19 (“IBIO-201”).
+--+---------------------------------------------------------------------
+
+
+o | An E2 antigen, in combination with a selected adjuvant, for vaccination of pigs against classical swine fever (“IBIO-400”).
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+· | Research & Bioprocess Products
+--+-------------------------------
+
+
+o | Protein scaffolds for use as bioinks in the development of 3D-bioprinted tissues and organs.
+--+---------------------------------------------------------------------------------------------
+
+
+o | Cytokines and growth factors for cell culture applications.
+--+------------------------------------------------------------
+
+
+o | Biomaterials for a range of life science research, development, and bioprocessing applications.
+--+------------------------------------------------------------------------------------------------
+
+Our Platforms and Programs 
+ 
+CDMO Services
+ 
+Our contract development and manufacturing services include:
+ 
+
+Process Development | Feasibility assessment and development of manufacturing processes using the FastPharming Technology for optimized gene expression and purification parameters to meet client specifications for their active pharmaceutical ingredients (“APIs”). Product optimization via our Glycaneering Services that may be used to enhance the quality and performance of therapeutic proteins via plant-based glycosylation controls.
+--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+1
+
+ 
+
+
+Manufacturing | Biologics production using the FastPharming System to deliver custom biologics for clinical trials. 
+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------
+Fill / Finish | Aseptic vial and bottle filling and finishing services with in-line labelling that provides serialization capability for greater quality assurance.
+BioAnalytics | Method development and validation with expertise in protein characterization using mass spectrometry. 
+
+ 
+FastPharming® System
+ 
+The FastPharming System is iBio’s proprietary approach to plant-made pharmaceutical production. It uses iBio’s Nicotiana benthamiana plants, novel expression vectors, a large-scale transient transfection method, and other technologies that can be used to produce complex therapeutic proteins emerging from our own, our clients’ and our potential clients’ pipelines. The FastPharming System offers several advantages versus traditional mammalian cell expression systems, including:
+ 
+
+· | Speed: Shorter time-to-clinic with research and clinical-scale quantities of product in weeks versus months
+--+------------------------------------------------------------------------------------------------------------
+
+
+· | Cost-Effectiveness: No expensive, labor-intensive or costly mammalian cell line development
+--+--------------------------------------------------------------------------------------------
+
+
+· | Quality: Consistently high-quality recombinant protein production with the ability to enhance potency for some products with powerful glycosylation controls
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Scalability: Each N. benthamiana plant is its own bioreactor, so scale-up issues are avoided by simply growing more plants
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+· | Safety: Since mammalian viruses cannot replicate in plants, FastPharming-produced products avoid many of the risks associated with viral contamination events
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Eco-Friendliness: Use of plants for the protein expression process avoids the single-use plastic disposables frequently used in large volumes with mammalian expression systems
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The FastPharming Process Technologies have been established in iBio CDMO’s operations in Bryan, Texas. The process begins with robotic seeding of iBio’s plants into an inert matrix for hydroponic cultivation under optimized LED lighting conditions. While the plants grow, FastPharming Vectors carrying the genes encoding the desired protein product are developed and then loaded into a bacterial host (Agrobacterium tumefaciens). Then, the bacteria carrying the vectors and DNA for producing the desired protein are introduced into the leaves of the plants via an automated vacuum infiltration process. The vectors introduce the DNA into the plant nucleus, where it is coded into instructions that direct the plant’s own cellular machinery to make the desired protein. A specific arrangement of genes for plant viral enzymes causes these protein production instructions to be copied hundreds of thousands of times in each plant cell. Thus, as the plants continue growing for about another week, the gene transfer vectors combine the desirable features of the DNA mobilization plasmid, with gene control elements taken from single-stranded RNA plant viruses, to produce the encoded protein in abundance. With the target protein accumulated in the leaves, the plants are harvested, and the bulk drug substance is purified via traditional methods.
+ 
+In the FastPharming System, no animal- or human-derived materials are used, decreasing the risk of product contamination with mammalian viruses or prions. In place of animal-origin raw materials, green plants, grown under clean and controlled conditions, provide for the expression of proteins. This portion of the bioprocess uses raw materials readily available to us, decreasing certain supply chain risks.
+ 
+By incorporating transient gene expression technology, the FastPharming System can rapidly deliver high quality proteins for clinical use without several of the time-consuming steps that competitive mammalian-cell based expression systems require, such as the need to i) isolate a high-producing cell clone from millions of non-productive cells, ii) establish a master cell bank, and iii) grow the clonal cells in a sterile fermenter to start the manufacturing process. In addition to saving months of development time associated with traditional methods, the use of plants instead of bioreactors – and sterile liquid-handling systems to prevent bacterial, fungal, or viral contamination of the protein drug substance – saves money and reduces plastic waste.
+ 
+2
+
+ 
+
+FastPharming Facility Joint Venture with Eastern Capital Limited
+ 
+iBio CDMO’s operations take place in Bryan, Texas in a 130,000 square-foot cGMP manufacturing facility controlled by an affiliate (the “Second Eastern Affiliate”) of Eastern Capital Limited (“Eastern”), a stockholder of the Company as sublandlord (the “Sublandlord”). The facility is a Class A life sciences building located on land owned by the Texas Agricultural and Mechanical College of Texas (“Texas A&M”) system designed and equipped for the manufacture of plant-made biopharmaceuticals. The Sublandlord granted iBio CDMO a 34-year lease for the facility that expires in 2050.
+ 
+On December 16, 2015, we formed iBio CDMO as a Delaware limited liability company to develop and manufacture plant-made pharmaceuticals. On January 13, 2016, we entered into a contract manufacturing joint venture with an affiliate of Eastern (the “Eastern Affiliate”). The Eastern Affiliate contributed $15 million in cash for a 30% interest in iBio CDMO. We retained a 70% interest in iBio CDMO and granted iBio CDMO a non-exclusive license to use our proprietary technologies for research purposes and an exclusive U.S. license for manufacturing purposes. We retained the exclusive right to grant product licenses to those who wish to sell or distribute products made using our technology. On February 23, 2017, we entered into an exchange agreement with the Eastern Affiliate, pursuant to which we acquired substantially all of the interest held by the Eastern Affiliate in iBio CDMO and issued one share of our iBio CMO Preferred Tracking Stock, par value $0.001 per share. After giving effect to the transaction, we own 99.99% of iBio CDMO. At any time, at our election or the election of the Eastern Affiliate, the outstanding share of iBio CMO Preferred Tracking Stock may be exchanged for 29,990,000 units of limited liability company interests of iBio CDMO. Following such exchange, we would own a 70% interest in iBio CDMO and the Eastern Affiliate would own a 30% interest.
+ 
+See Notes 1, 13 and 14 in the consolidated financial statements for a further discussion.
+ 
+Commercial activities commenced in January 2016 with most of our initial efforts directed towards recommissioning the facility to help meet cGMP manufacturing standards and provisions for iBio’s service offerings. The facility houses laboratory and pilot-scale operations, as well as large-scale automated hydroponic systems capable of growing more than four million plants and delivering dozens of kilograms of protein per year.
+
+
+
+Vaccines
+--------
+
+ 
+In the first half of 2020, we renewed development of our E2 classic swine fever vaccine program (IBIO-400). During the second half of fiscal 2020, we entered the human vaccine space with the filing on March 11, 2020 of four provisional patent applications with the U.S. Patent and Trademark Office in support of our COVID-19 vaccine platforms, followed by the announcement in March 2020 of our Virus-Like Particle (VLP)-Based Platform (“VLP”) vaccine program (IBIO-200) and our announcement in June 2020 of our second candidate, the LicKM-subunit vaccine (IBIO-201). 
+ 
+SARS-CoV-2
+ 
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a strain of coronavirus that causes coronavirus disease 2019 (COVID-19). The virus was introduced to human populations from an animal source in the Chinese province of Hubei in late 2019. The spread of infection has since been driven by human-to-human transmission and has resulted in an ongoing pandemic. According to the World Health Organization, as of September 15, 2020, more than 28 million cases have been reported globally with more than 900,000 deaths.
+ 
+IBIO-200
+ 
+IBIO-200 is a vaccine candidate currently in preclinical development for the prevention of COVID-19 and leverages iBio’s own VLP platform. The first VLP vaccine was approved in 1998, and the safety and effectiveness of additional VLP-based vaccines have been well documented since that time. VLP-based vaccines interact with immune cells differently than soluble antigens and trigger both humoral and cellular responses. IBIO-200 incorporates the receptor binding motif (RBM) of SARS-CoV-2 within the VLP structure to direct antigen presentation to activate both polyfunctional CD4+ and CD8+ T cells and increase the overall immune response. This design allows for a multivalent particle to display high density antigens to the immune system in a highly structured format. Combined with iBio’s FastPharming Manufacturing System, iBio’s technology delivers a tightly controlled particle size, leading to better dose definition and higher product consistency.
+ 
+3
+
+ 
+
+IBIO-201
+ 
+IBIO-201 is a vaccine candidate currently in preclinical development for the prevention of COVID-19. IBIO-201 is based on a subunit platform that combines antigens derived from the SARS-CoV-2 spike protein fused with iBio’s patented LicKM™ booster molecule to enhance immune response. iBio’s proprietary LicKM technology offers the potential to strengthen the initial immune response to the antigen and extend the duration of the immune response. 
+ 
+Preclinical Development of IBIO-200 and IBIO-201
+ 
+We have engaged in preclinical studies of both IBIO-200 and IBIO-201 and are developing IBIO-200 and IBIO-201 in tandem, and in combination with multiple adjuvants. In August 2020, we announced that preclinical immunization studies with IBIO-200 and IBIO-201, combined with select adjuvants from the Infectious Disease Research Institute (“IDRI”), induced anti-SARS-CoV-2 antibodies with notable antibody responses with two particular antigen-adjuvant combinations. Additional data from cell-based pseudovirus neutralization assay testing demonstrated that IBIO-201 induced the production of more anti-spike neutralizing antibodies than IBIO-200 in immunized mice. Based on these results, in September 2020, we announced the selection of IBIO-201 as our lead candidate for the prevention of SARS-CoV-2 infection. We intend to conduct more focused studies on each of IBIO-200 and IBIO-201 with the goal of advancing IBIO-201 to toxicology studies ahead of planned clinical development while we continue preclinical development of IBIO-200 and our VLP platform as a potential ‘plug-and-play’ vaccine development system.
+ 
+Classical Swine Fever
+ 
+Classical swine fever (“CSF”) is a contagious, often fatal disease affecting both feral and domesticated pigs. Outbreaks in Europe, Asia, Africa, and South America have not only adversely impacted animal health and food security but have also had severe socioeconomic impacts on both the pig industry worldwide and small-scale pig farming. 
+ 
+IBIO-400
+ 
+In collaboration with the Institute of Infectious Animal Diseases at Texas A&M University and Kansas State University, iBio used the FastPharming System to develop a potentially safe and protective [DIVA]-capable subunit vaccine. Characterized as a candidate that can “differentiate infected from vaccinated animals” [DIVA]-capable, the antigen is formulated in cost-effective oil-in-water emulsion adjuvants. IBIO-400 studies have shown that after single-dose vaccination, the adjuvanted, plant-made CSF E2 subunit vaccine provides complete protection in challenged pigs and is accompanied by strong virus neutralization antibody responses.
+ 
+Therapeutics
+ 
+We are developing novel therapeutic candidates that we believe can quickly move into clinical trials by using our FastPharming® System. Our current focus is on biological medicines for the treatment of fibrotic and infectious diseases, and we intend to continue to explore the application of our FastPharming Technologies in oncology and other therapeutic areas.
+ 
+Fibrosis
+ 
+Fibrosis is a pathological disorder in which connective tissue replaces normal parenchymal tissue to the extent that it goes unchecked, leading to considerable tissue remodeling and the formation of permanent scar tissue. Fibrosis can occur in many tissues within the body, including the lungs (e.g., idiopathic pulmonary fibrosis (“IPF”) and skin (e.g. systemic scleroderma).
+ 
+Systemic scleroderma is a rare chronic disease of uncertain etiology characterized by diffuse fibrosis and vascular abnormalities in the skin, joints, and internal organs. IPF is a type of chronic scarring lung disease characterized by a progressive and irreversible decline in lung function. In both cases, while there are medications that can slow the progression of specific existing symptoms or temporarily reduce the development of new symptoms, there remains an unmet need for more effective treatments.
+ 
+IBIO-100
+ 
+IBIO-100, is our lead therapeutic candidate being advanced for Investigational New Drug (“IND”) development based on in-licensed patents from the University of Pittsburgh. The molecule is a fusion of the endostatin derived E4 antifibrotic peptide to the hinge and heavy chain of human IgG1. In preclinical studies, IBIO-100 has been shown to reduce: (i) bleomycin-induced lung fibrosis in mice, as measured by hydroxyproline content and modified Ashcroft histopathology scoring; (ii) collagen content in mice in which fibrosis was produced by osmotic pump delivery of bleomycin followed by pump delivery of IBIO-100, and (iii) hydroxyproline content of human lung tissue obtained after transplant of diseased, terminal-stage organs. Tissue fragments exhibited a significant reduction of hydroxyproline when cultured in the presence of IBIO-100 after only 72 hours. We expect to conduct our remaining IND-enabling studies in 2021. IBIO-100 has been granted orphan drug designation by the FDA for treatment of systemic scleroderma.
+ 
+4
+
+ 
+
+COVID-19
+ 
+Coronavirus disease 2019 is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic. According to the World Health Organization, as of September 15, 2020, more than 28 million cases have been reported globally with more than 900,000 deaths. Common symptoms include fever, cough, fatigue, shortness of breath or breathing difficulties, and loss of smell and taste. While most people have mild symptoms, some people develop acute respiratory distress syndrome (ARDS), possibly precipitated by cytokine dysregulation, multi-organ failure, septic shock, and blood clots.
+ 
+ACE2-Fc Immunoadhesin
+ 
+As part of our strategy to develop new therapeutics for infectious diseases, we entered into an exclusive license agreement with Planet Biotechnology, Inc., (“Planet”) in August 2020 to develop a recombinant ACE2-Fc protein as a treatment for COVID-19 and related coronavirus diseases. We received worldwide, sublicensable rights to the technology and assumed responsibility for preclinical development expenses. In the event we, at our sole discretion, choose to continue to develop the technology, Planet will be eligible for certain clinical development milestone payments, and royalties on net sales if products are commercialized. The molecule is in the lead optimization stage of development.
+Research & Bioprocess Products
+ 
+We are also developing recombinant proteins for third parties on a catalog and custom basis. We plan to initially focus on creating products that will help life science researchers working in the field of cell and tissue biofabrication, including those using 3D-bioprinting techniques. Biofabrication involves the use of cells, proteins, and biological materials to construct functional tissues and organs in the laboratory as a means to ultimately replace human donors as a source of organs for transplantation. The speed, economy, and safety profile of plant-produced recombinant proteins should allow us to leverage our FastPharming System to enter the market for cytokines, growth factors, scaffolds (sometimes referred to as “bioinks”) and other proteins for use in the cell and tissue biofabrication category.
+Strategic Alliances, Collaborations, and Service Agreements
+ 
+We have formed collaborations and strategic alliances to gain access to funding, capabilities, technical resources and intellectual property to further our development efforts, commercialize our technology and to generate revenues, including through the development and manufacture of products at iBio’s FastPharming Facility.
+ 
+License Agreement with Planet Biotechnology, Inc.
+ 
+As part of our strategy to develop new therapeutics for infectious diseases, we entered into an exclusive license agreement with Planet in August 2020, as described above.
+ 
+Service Agreement with IBM, Corp.
+ 
+In June 2020, we entered into a Cloud Services Agreement with IBM Watson Health under which iBio will receive free-of-charge access to IBM’s clinical development solution for 18 months. Thereafter, we will be required to pay standard service fees.
+ 
+Collaboration with AzarGen Biotechnologies (Pty) Ltd.
+ 
+In March 2020, we entered into a second Statement of Work (SOW) with AzarGen Biotechnologies (Pty) Ltd (“AzarGen”) under the 2018 Master Joint Development Agreement (“MJDA”) between the companies. iBio continues to provide contract development and manufacturing services for AzarGen’s development of a rituximab biosimilar/biobetter for the South African market.
+Collaboration with The Texas A&M University System
+ 
+We entered into two new SOWs with The Texas A&M University System ("TAMUS") during 2020. In March, we entered into an SOW related to iBio’s preclinical development of COVID-19 vaccine candidates as part of the MJDA executed in June 2016. The other SOW, executed in January, involved TAMUS support of certain CDMO services.
+ 
+5
+
+ 
+
+License Agreement with University of Natural Resources and Life Sciences, Vienna
+ 
+Effective February 1, 2020, we expanded our non-exclusive license agreement with the University of Natural Resources and Life Sciences, Vienna, to include commercial applications as well as research use of technology for the expression of recombinant proteins with modified N-glycosylation patterns in Nicotiana benthamiana plants.
+ 
+Collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc.
+ 
+On December 20, 2019, we entered into a collaboration agreement with EdgePoint AI, a division of Mateon Therapeutics, Inc., to deploy EdgePoint’s proprietary artificial intelligence (“AI”)/blockchain-driven vision system for pharmaceutical manufacturing, known as TrustPoint Fabric. Initial implementation is occurring at iBio’s FastPharming Facility for the optimization of raw material documentation and verification activities from receipt through final manufacturing.
+ 
+Collaboration with CC-Pharming Ltd.
+ 
+In August 2019, we licensed our rituximab biosimilar/biobetter candidates to CC-Pharming Ltd. of Beijing (“CC-Pharming”) for the China territory, along with a research license to the FastPharming Technologies for use in the evaluation of reagents for research, diagnostic, bioprocess, and cosmetic applications. The license to our rituximab candidate follows as part of the strategic, royalty-bearing, commercial relationship with we established with CC-Pharming in June 2018 under a MJDA between the parties. In April 2020, we amended and restated the Master Joint Development Agreement and iBio recognized more than $1.2 million in revenues in fiscal year 2020, primarily attributable to Process Development and Tech Transfer.
+ 
+Service Agreement with Lung Biotechnology PBC, a subsidiary of United Therapeutics Corporation
+ 
+In July 2019, we entered into an MSA with Lung Biotechnology PBC ("Lung Bio"), to produce recombinant human collagen (“rhCollagen”) licensed from CollPlant Biotechnologies, Inc., to be used as a bioink for 3D bioprinting. The initial work involves the development of a scalable purification process for rhCollagen tailored to the biofabrication of lung scaffolds.
+ 
+License with University of Pittsburgh (“UP”)
+ 
+On January 14, 2014 (the “Effective Date”), we entered into an exclusive worldwide License Agreement with UP covering all of the U.S. and foreign patents and patent applications and related intellectual property owned by UP pertinent to the use of endostatin peptides for the treatment of fibrosis. We paid an initial license fee of $20,000 and we are required to pay all of UP’s patent prosecution costs that were incurred prior to, totaling $30,627, and subsequent to the Effective Date. On each anniversary date we are to pay license fees ranging from $25,000 to $150,000 for the first five years and $150,000 on each subsequent anniversary date until the first commercial sale of the licensed technology. Beginning with commercial sales of the technology or approval by the FDA or foreign equivalent, the Company will be required to pay milestone payments, royalties and a percentage of any non-royalty sublicense income to UP. We are also required to meet certain diligence milestones and we and UP have agreed to set a new milestone schedule and are currently undergoing an analysis based on new data and revised forecasted timelines.
+ 
+Intellectual Property
+ 
+We currently own or license 106 patents, of which 100 are owned and 6 are licensed. Of the 100 patents we own, 32 are U.S. and 68 are international. We have an exclusive license to five U.S. patents and one application. Additionally, we have one international patent application allowed, as well as seven U.S. and 12 international applications pending. International patents and applications include numerous foreign countries including Australia, Brazil, Canada, China, Hong Kong, India, Korea, Russia and several countries in Europe.
+ 
+We exclusively own the right to use certain intellectual property acquired by or developed at Fraunhofer for human health and certain veterinary and diagnostic applications. We also own intellectual property developed or acquired independently of Fraunhofer.
+ 
+In addition, we have an exclusive worldwide license agreement with the University of Pittsburgh covering U.S. and foreign patents and patent applications and related intellectual property co-owned with the University of Pittsburgh and the Medical University of South Carolina pertinent to the use of endostatin peptides for the treatment of fibrosis.
+ 
+Our success will depend in part on our ability to obtain and maintain patent protection for our technologies and products and to preserve our trade secrets. Our policy is to seek to protect our proprietary rights, by among other methods, filing patent applications in the U.S. and foreign jurisdictions to cover certain aspects of our technology. We continue to prepare patent applications relating to our expanding technology in the U.S. and abroad.
+ 
+6
+
+ 
+
+The technology and products covered by our issued and pending patent applications are summarized below:
+ 
+Technology and Product Patents (U.S.)
+ 
+
+• | Virus-induced gene silencing in plants 
+--+----------------------------------------------------------------------------------------------
+• | Transient expression of foreign genes in plants 
+• | Production of foreign nucleic acids and polypeptides in sprout systems 
+• | Production of pharmaceutically active proteins in sprouted seedlings 
+• | Systems and method for clonal expression in plants 
+• | Recombinant carrier molecule for expression, delivery and purification of target polypeptides
+• | Influenza antigens, vaccine compositions, and related methods 
+• | Plague antigens, vaccine compositions, and related methods 
+• | Influenza therapeutic antibodies 
+• | Trypanosomiasis vaccine 
+• | Anthrax antigens, vaccine compositions, and related methods 
+• | Use of endostatin peptides for the treatment of fibrosis 
+
+Pending Technology Patent Applications (U.S. and International) 
+ 
+
+• | Activation of transgenes in plants by viral vectors 
+--+----------------------------------------------------------
+• | Transient expression of proteins in plants 
+• | Thermostable carrier molecule 
+• | In vivo deglycosylation of recombinant proteins in plants
+
+Pending Product Patent Applications (U.S. and International)
+ 
+
+• | Antibodies 
+----+-----------------------------------------------------------------------------------------
+• | Influenza vaccines 
+• | Influenza therapeutic antibodies 
+• | Anthrax vaccines 
+• | Plague vaccines 
+• | HPV vaccines 
+• | Trypanosomiasis vaccine 
+• | Malaria vaccines 
+• • | Endostatin fragments and variants for use in treating fibrosis COVID-19 vaccines 
+
+Competition
+ 
+The biotechnology and pharmaceutical industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products.
+ 
+We face competition from many different sources, including commercial pharmaceutical and biotechnology enterprises, academic institutions, government agencies, and private and public research institutions. Our commercial opportunities will be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer side effects or are less expensive than any products that we or our collaborators may develop based on the use of our technologies.
+ 
+Our competition in the CDMO market includes a number of full-service contract manufacturers and large pharmaceutical companies offering third-party development and manufacturing services to fill their excess capacity. Large pharmaceutical companies have been seeking to divest portions of their manufacturing capacity, and any such divested businesses may compete with us in the future. In addition, most of our competitors may have substantially greater financial, marketing, technical or other resources than we do. Moreover, additional competition may emerge and may, among other things, result in a decrease in the fees paid for our services, which would affect our results of operations and financial condition.
+ 
+While we believe that the potential advantages of our new technologies will enable us to compete effectively against other providers of technology for biologic product development and manufacturing, many of our competitors have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, clinical trials, regulatory approvals and marketing approved products than we do. Smaller or early stage companies may also prove to be significant competitors, particularly through arrangements with large and established companies, and this may reduce the value of our technologies for the purposes of establishing license agreements. In addition, these third parties compete with us in recruiting and retaining qualified scientific and management personnel, establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies and technology licenses complementary to our programs or advantageous to our business.
+ 
+7
+
+ 
+
+We expect to rely upon licensees, collaborators or customers for support in advancing certain of our drug candidates and intend to rely on additional work with our collaborators during our efforts to commercialize our product candidates. Our licensees, collaborators or customers may be conducting multiple product development efforts within the same disease areas that are the subjects of their agreements with us. Agreements with collaborators may not preclude them from pursuing development efforts using a different approach from that which is the subject of our agreement with them. Any of our drug candidates, therefore, may be subject to competition with a drug candidate under development by a customer.
+ 
+There are currently approved vaccines and therapies for many of the diseases and conditions addressed by the product candidates our clients and collaborators may be developing or manufacturing or in our own pipeline. Specifically, with respect to the development of COVD-19 biopharmaceuticals, there are over 180 vaccines in various stages of development, and 549 therapeutics, according to the Biotechnology Industry Organization. Several of those candidates are in late stage clinical trials and are sponsored by large, multinational biopharmaceutical companies, some of whom have also received government funding. There are also a number of companies working to develop new drugs and other therapies for diseases of commercial interest to us that are undergoing various stages of testing including clinical trials. The key competitive factors affecting the success of our technologies for commercial product candidates are likely to be efficacy, safety profile, price, and convenience.
+ 
+Research and Development
+ 
+Our research and development functions are focused on the creation of new products and services, as well as enhancements to our existing offerings, both of which are necessary to maintain our competitive position. Our research and development activities take place primarily at our facilities in Bryan, Texas.
+Suppliers
+ 
+We outsource certain functions to third parties. While we rely on our outsourcing partners to perform their contracted functions, we are continuing to build internal capabilities. Refer to Item 1A, “Risk Factors,” for a description of risks associated with our reliance on suppliers and outsourcing partners.
+Backlog
+ 
+Our backlog consists primarily of orders for which we have entered into a Master Services Agreement with an accompanying Statement of Work (“SOW”). Our backlog was approximately $2.6 million as of June 30, 2020.
+Government Regulation and Product Approval
+ 
+Regulation by governmental authorities in the U.S. and other countries is a significant factor in the development, manufacturing and marketing of pharmaceutical drugs and vaccines.
+ 
+CDMO Regulatory Requirements
+ 
+iBio CDMO’s operations are subject to a variety of environmental, health and safety laws and regulations, including those of the Environmental Protection Agency and equivalent local and state agencies. These laws and regulations govern, among other things, air emissions, wastewater discharges, the use, handling and disposal of hazardous substances and wastes, soil and groundwater contamination and employee health and safety. Any failure to comply with environmental, health and safety requirements could result in the limitation or suspension of production or monetary fines or civil or criminal sanctions, or other future liabilities. iBio CDMO is also subject to laws and regulations governing the destruction and disposal of raw materials and the handling and disposal of regulated material. In particular, we are subject to laws and regulations concerning research and development, testing, manufacturing processes, equipment and facilities, including compliance with current Good Manufacturing Practices (“cGMPs”), labeling and distribution, import and export, and product registration and listing. As a result, our facility is subject to regulation by the FDA, as well as regulatory bodies of other jurisdictions where our customers have marketing approval for their products.
+ 
+Certain products manufactured by us involve the use, storage and transportation of toxic and hazardous materials. Our operations are subject to extensive laws and regulations relating to the storage, handling, emission, transportation and discharge of materials into the environment and the maintenance of safe working conditions. We maintain environmental and industrial safety and health compliance programs and training at our facilities. Prevailing legislation tends to hold companies primarily responsible for the proper disposal of their waste even after transfer to third party waste disposal facilities. Other future developments, such as increasingly strict environmental, health and safety laws and regulations, and enforcement policies, could result in substantial costs and liabilities to us and could subject the handling, manufacture, use, reuse or disposal of substances or pollutants at our facilities to more rigorous scrutiny than at present.
+ 
+8
+
+ 
+
+These regulatory requirements impact many aspects of our operations, including manufacturing, developing, labeling, packaging, storage, distribution, import and export and record keeping related to customers’ products. Noncompliance with any applicable regulatory requirements can result in government refusal to approve facilities for manufacturing products or products for commercialization.
+
+
+U.S. Drug Approval Process
+ 
+All of the vaccine and therapeutic products developed from our technologies will require regulatory approval by governmental agencies prior to commercialization. In particular, pharmaceutical drugs and vaccines are subject to rigorous preclinical testing and clinical trials and other pre-marketing approval requirements by the U.S. Food and Drug Administration (“FDA”) and regulatory authorities in other countries. In the U.S., various federal, and, in some cases, state statutes and regulations, also govern or impact the manufacturing, safety, labeling, storage, record-keeping and marketing of vaccines and pharmaceutical products. The lengthy process of seeking required approvals and the continuing need for compliance with applicable statutes and regulations requires the expenditure of substantial resources. Regulatory approval, if and when obtained for any of our product candidates, may be limited in scope, which may significantly limit the indicated uses for which our product candidates may be marketed. Further, FDA approved vaccines and drugs are subject to ongoing oversight and discovery of previously unknown problems may result in restrictions on their manufacture, sale or use, or in their withdrawal from the market.
+ The process required by the FDA before a drug or biological product may be marketed in the United States generally involves the following:
+ 
+
+· | completion of pre-clinical laboratory tests and animal studies according to good laboratory practices (“GLP”) and applicable requirements for the humane use of laboratory animals or other applicable regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to the FDA of an Investigational New Drug (“IND”) application which must become effective before human clinical trials may begin;
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | performance of adequate and well-controlled human clinical trials according to the FDA’s regulations commonly referred to as good clinical practices (“GCPs”) and any additional requirements for the protection of human research subjects and their health information, to establish the safety and efficacy of the proposed biological product for its intended use;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to the FDA of a New Drug Application or NDA or Biologics License Application (“BLA”) for marketing approval that meets applicable requirements to ensure the continued safety, purity, and potency of the product that is the subject of the NDA or BLA based on results of pre-clinical testing and clinical trials;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities where the product candidates are produced, to assess compliance with cGMP, to assure that the facilities, methods and controls are adequate to preserve the product’s identity, strength, quality and purity;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | potential FDA audit of the pre-clinical trial and clinical trial sites that generated the data in support of the NDA or BLA; and
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+· | FDA review and approval of the NDA or licensure of the BLA.
+--+------------------------------------------------------------
+
+ 
+Before any product candidates with potential immunization or therapeutic value may be tested in human subjects, we must satisfy stringent government requirements for preclinical studies. Preclinical testing includes both in vitro and in vivo laboratory evaluation and characterization of the safety and efficacy of the product candidate. “In vitro” refers to tests conducted with cells in culture and “in vivo” refers to tests conducted in animals. The conduct of the preclinical tests must comply with federal regulations and requirements including good laboratory procedures (“GLP”). Preclinical testing results obtained from studies in several animal species, as well as data from in vitro studies, are submitted to the FDA as part of an IND application and are reviewed by the FDA prior to the commencement of human clinical trials. These preclinical data must provide an adequate basis for evaluating both the safety and the scientific rationale for the initial clinical trials. In the case of vaccine candidates, animal immunogenicity and immune protection tests must establish a sound scientific basis to believe that the product candidate may be beneficial when administered to humans.
+ 
+An IND becomes effective automatically 30 days after receipt by the FDA unless the FDA raises concern or questions about the conduct of the clinical trials as outlined in the IND prior to that time. In such an event, the IND sponsor and the FDA must resolve any outstanding concerns before clinical trials may proceed. For additional information on the most recent FDA regulations and guidance on vaccine and therapeutic product testing and approval, visit its website at http://www.fda.gov. The FDA may also impose clinical holds on a product candidate at any time before or during clinical trials due to potential safety concerns or non-compliance. If the FDA imposes a clinical hold, trials may not recommence without FDA authorization and then only under terms authorized by the FDA. Accordingly, we cannot be sure that submission of an IND will result in the FDA allowing clinical trials to begin, or that, once begun, issues will not arise that suspend or terminate such trials.
+ 
+9
+
+ 
+
+Clinical trials involve the administration of the product candidate to healthy volunteers or patients under the supervision of qualified investigators, generally physicians not employed by or under the trial sponsor’s control. Clinical trials are conducted under protocols detailing, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria, and the parameters to be used to monitor subject safety, including stopping rules that assure a clinical trial will be stopped if certain adverse events should occur. Each protocol and any amendments to the protocol must be submitted to the FDA as part of the IND. Clinical trials must be conducted and monitored in accordance with the FDA’s regulations composing the good clinical practice requirements, including the requirement that all research subjects provide informed consent. Further, each clinical trial must be reviewed and approved by an independent institutional review board, or IRB at or servicing each institution at which the clinical trial will be conducted. An IRB is charged with protecting the welfare and rights of trial participants and considers such items as whether the risks to individuals participating in the clinical trials are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the form and content of the informed consent that must be signed by each clinical trial subject or his or her legal representative and must monitor the clinical trial until completed. Human clinical trials involving biological products are typically conducted in three sequential phases that may overlap or be combined:
+ 
+
+· | Phase 1. The biological product is initially introduced into a small number of closely monitored healthy human volunteers and tested for safety. In the case of some products for severe or life-threatening diseases, especially when the product may be too inherently toxic to ethically administer to healthy volunteers, the initial human testing is often conducted in patients with the targeted disease.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 2. The biological product is evaluated in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance, optimal dosage and dosing schedule.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 3. Clinical trials generally enroll a large number of volunteers and are undertaken to further evaluate dosage, clinical efficacy, potency, and safety in an expanded patient population at geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk to benefit ratio of the product and provide an adequate basis for product labeling.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Post-approval clinical trials, sometimes referred to as Phase 4 clinical trials, may be conducted after initial FDA marketing approval. These clinical trials are used to gain additional experience from the treatment of patients in the intended therapeutic indication, particularly for long-term safety follow-up.
+ 
+During all phases of clinical development, regulatory agencies require extensive monitoring and auditing of all clinical activities, clinical data, and clinical trial investigators. Annual progress reports detailing the results of the clinical trials must be submitted to the FDA. Written IND safety reports must be promptly submitted to the FDA and the investigators for serious and unexpected adverse events, any findings from other studies, tests in laboratory animals or in vitro testing that suggest a significant risk for human subjects, or any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. The sponsor must submit an IND safety report within 15 calendar days after the sponsor determines that the information qualifies for reporting. The sponsor also must notify the FDA of any unexpected fatal or life-threatening suspected adverse reaction within seven calendar days after the sponsor’s initial receipt of the information. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, if at all. The FDA or the sponsor or its data safety monitoring board may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the biological product has been associated with unexpected serious harm to subjects.
+ 
+Concurrently with clinical trials, companies usually complete additional studies and must also develop additional information about the physical characteristics of the biological product as well as finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the product candidate and, among other criteria, the sponsor must develop methods for testing the identity, strength, quality, potency and purity of the final biological product. Additionally, appropriate packaging must be selected and tested, and stability studies must be conducted.
+ 
+U.S. Review and Approval Processes
+ 
+After the completion of clinical trials of a product candidate, FDA approval of an NDA or BLA must be obtained before commercial marketing of the product. The NDA or BLA must include results of product development, laboratory and animal studies, human trials, information on the manufacture and composition of the product, proposed labeling and other relevant information. The FDA may grant deferrals for submission of data, or full or partial waivers. The testing and approval processes require substantial time and effort and there can be no assurance that the FDA will accept the NDA or BLA for filing and, even if filed, that any approval will be granted on a timely basis, if at all.
+ 
+10
+
+ 
+
+Under the Prescription Drug User Fee Act, or PDUFA, as amended, each NDA or BLA must be accompanied by a significant user fee. The FDA adjusts the PDUFA user fees on an annual basis. PDUFA also imposes an annual program fee on approved biological products. Fee waivers or reductions are available in certain circumstances, including a waiver of the application fee for the first application filed by a small business. No user fees are assessed on NDAs or BLAs for products designated as orphan drugs, unless the product also includes a non-orphan indication.
+ 
+Within 60 days following submission of the application, the FDA reviews an NDA or BLA submitted to determine if it is substantially complete before the agency accepts it for filing. The FDA may refuse to file any NDA or BLA that it deems incomplete or not properly reviewable at the time of submission and may request additional information. In this event, the NDA or BLA must be resubmitted with the additional information. The resubmitted application also is subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review of the NDA or BLA. The FDA reviews the NDA or BLA to determine, among other things, whether the proposed product is safe, potent, and effective for its intended use, and has an acceptable purity profile, and whether the product is being manufactured in accordance with cGMP to assure and preserve the product’s identity, safety, strength, quality, potency and purity. The FDA may refer applications for novel products or products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. During the product approval process, the FDA also will determine whether a Risk Evaluation and Mitigation Strategy, or REMS, is necessary to assure the safe use of the biological product. If the FDA concludes a REMS is needed, the sponsor of the NDA or BLA must submit a proposed REMS. The FDA will not approve an NDA or BLA without a REMS, if required.
+ 
+Before approving an NDA or BLA, the FDA will inspect the facilities at which the product is manufactured. The FDA will not approve the product unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA or BLA, the FDA will typically inspect one or more clinical sites to assure that the clinical trials were conducted in compliance with IND trial requirements and GCP requirements. To assure cGMP and GCP compliance, an applicant must incur significant expenditure of time, money and effort in the areas of training, record keeping, production, and quality control.
+ 
+Notwithstanding the submission of relevant data and information, the FDA may ultimately decide that the NDA or BLA does not satisfy its regulatory criteria for approval and deny approval. Data obtained from clinical trials are not always conclusive and the FDA may interpret data differently than we interpret the same data. If the agency decides not to approve the NDA or BLA in its present form, the FDA will issue a complete response letter that describes all of the specific deficiencies in the NDA or BLA identified by the FDA. The deficiencies identified may be minor, for example, requiring labeling changes, or major, for example, requiring additional clinical trials. Additionally, the complete response letter may include recommended actions that the applicant might take to place the application in a condition for approval. If a complete response letter is issued, the applicant may either resubmit the BLA, addressing all of the deficiencies identified in the letter, or withdraw the application.
+ 
+If a product receives regulatory approval, the approval may be significantly limited to specific diseases and dosages or the indications for use may otherwise be limited, which could restrict the commercial value of the product.
+ 
+Further, the FDA may require that certain contraindications, warnings or precautions be included in the product labeling. The FDA may impose restrictions and conditions on product distribution, prescribing, or dispensing in the form of a risk management plan, or otherwise limit the scope of any approval. In addition, the FDA may require post marketing clinical trials, sometimes referred to as Phase 4 clinical trials, designed to further assess a biological product’s safety and effectiveness, and testing and surveillance programs to monitor the safety of approved products that have been commercialized.
+ 
+In addition, under the Pediatric Research Equity Act, an NDA or BLA or supplement to an NDA or BLA must contain data to assess the safety and effectiveness of the product for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may grant deferrals for submission of data or full or partial waivers.
+ 
+Orphan Drug Act
+ 
+Under the Orphan Drug Act, the FDA may grant orphan designation to a drug or biologic intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States, or more than 200,000 individuals in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for this type of disease or condition will be recovered from sales in the United States for that drug. Orphan drug designation must be requested before submitting an NDA or BLA. After the FDA grants orphan drug designation, the name of the sponsor, identity of the drug or biologic and its potential orphan use are disclosed publicly by the FDA. The orphan drug designation does not shorten the duration of the regulatory review or approval process, but does provide certain advantages, such as a waiver of Prescription Drug User Fee Act, or PDUFA, fees, enhanced access to FDA staff and potential waiver of pediatric research requirements.
+
+
+11
+
+ 
+
+If a product that has orphan drug designation subsequently receives the first FDA approval for the disease for which it has such designation, the product is entitled to orphan product exclusivity, which means that the FDA may not approve any other applications, including a full NDA, to market the same drug or biologic for the same indication for seven years, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity. Orphan drug exclusivity does not prevent FDA from approving a different drug or biologic for the same disease or condition, or the same drug or biologic for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the application user fee. A designated orphan drug may not receive orphan drug exclusivity if it is approved for a use that is broader than the indication for which it received orphan designation. In addition, exclusive marketing rights in the United States may be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantities of the product to meet the needs of patients with the rare disease or condition.
+ 
+Fast Track Program
+ 
+The FDA has a Fast Track program that is intended to expedite or facilitate the process for reviewing new drugs and biological products that meet certain criteria. Specifically, new biological products are eligible for Fast Track designation if they are intended to treat a serious or life-threatening condition and demonstrate the potential to address unmet medical needs for the condition. Fast Track designation applies to the combination of the product and the specific indication for which it is being studied. For a Fast Track product, the FDA may consider review of completed sections of an NDA or BLA on a rolling basis provided the sponsor provides, and the FDA accepts, a schedule for the submission of the completed sections of the NDA or BLA. Under these circumstances, the sponsor pays any required user fees upon submission of the first section of the NDA or BLA. A Fast Track designated drug candidate may also qualify for Priority Review designation, under which the FDA reviews the NDA or BLA in a total of six months rather than ten months after it is accepted for filing.
+ 
+Post-Approval Requirements
+ 
+Any products for which we receive FDA approvals will be subject to continuing regulation by the FDA, including, among other things, record-keeping requirements, reporting of adverse experiences with the product, providing the FDA with updated safety and efficacy information, product sampling and distribution requirements, and complying with FDA promotion and advertising requirements, which include, among others, standards for direct-to-consumer advertising, restrictions on promoting products for uses or in patient populations that are not described in the product’s approved uses, known as ‘off-label’ use, limitations on industry-sponsored scientific and educational activities, and requirements for promotional activities involving the internet. Although physicians may prescribe legally available products for off-label uses, if the physicians deem to be appropriate in their professional medical judgment, manufacturers may not market or promote such off-label uses.
+ 
+In addition, quality control and manufacturing procedures must continue to conform to applicable manufacturing requirements after approval to ensure the long-term stability of the product. cGMP regulations require among other things, quality control and quality assurance as well as the corresponding maintenance of records and documentation and the obligation to investigate and correct any deviations from cGMP. Manufacturers and other entities involved in the manufacture and distribution of approved products are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP and other laws. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance. Discovery of problems with a product after approval may result in restrictions on a product, manufacturer, or holder of an approved BLA or NDA, including, among other things, recall or withdrawal of the product from the market. In addition, changes to the manufacturing process are strictly regulated, and depending on the significance of the change, may require prior FDA approval before being implemented. Other types of changes to the approved product, such as adding new indications and claims, are also subject to further FDA review and approval.
+ 
+The FDA also may require post-marketing testing, known as Phase 4 testing, and surveillance to monitor the effects of an approved product. Discovery of previously unknown problems with a product or the failure to comply with applicable FDA requirements can have negative consequences, including adverse publicity, judicial or administrative enforcement, warning letters from the FDA, mandated corrective advertising or communications with doctors, and civil or criminal penalties, among others. Newly discovered or developed safety or effectiveness data may require changes to a product’s FDA approved labeling, including the addition of new warnings and contraindications, and also may require the implementation of other risk management measures. Also, new government requirements, including those resulting from new legislation, may be established, or the FDA’s policies may change, which could delay or prevent regulatory approval of our product candidates under development.
+ 
+12
+
+ 
+
+Other U.S. Healthcare Laws and Compliance Requirements
+ 
+In the United States, our activities are potentially subject to regulation by various federal, state and local authorities in addition to the FDA, including but not limited to, the Centers for Medicare & Medicaid Services, or CMS, other divisions of the U.S. Department of Health and Human Services, for instance the Office of Inspector General, the U.S. Department of Justice, or DOJ, and individual U.S. Attorney offices within the DOJ, and state and local governments. For example, research, sales, marketing and scientific/educational grant programs must comply with the anti-fraud and abuse provisions of the Social Security Act, the false claims laws, the physician payment transparency laws, the privacy and security provisions of HIPAA, as amended by HITECH, and similar state laws, each as amended.
+ 
+The federal Anti-Kickback Statute prohibits, among other things, any person or entity, from knowingly and willfully offering, paying, soliciting or receiving any remuneration, directly or indirectly, overtly or covertly, in cash or in kind, to induce or in return for purchasing, leasing, ordering or arranging for the purchase, lease or order of any item or service reimbursable under Medicare, Medicaid or other federal healthcare programs. The term remuneration has been interpreted broadly to include anything of value. The Anti-Kickback Statute has been interpreted to apply to arrangements between pharmaceutical manufacturers on one hand and prescribers, purchasers, and formulary managers on the other. There are a number of statutory exceptions and regulatory safe harbors protecting some common activities from prosecution. The exceptions and safe harbors are drawn narrowly and practices that involve remuneration that may be alleged to be intended to induce prescribing, purchasing or recommending may be subject to scrutiny if they do not qualify for an exception or safe harbor. Our practices may not in all cases meet all of the criteria for protection under a statutory exception or regulatory safe harbor. Failure to meet all of the requirements of a particular applicable statutory exception or regulatory safe harbor, however, does not make the conduct per se illegal under the Anti-Kickback Statute. Instead, the legality of the arrangement will be evaluated on a case-by-case basis based on a cumulative review of all of its facts and circumstances. 
+ 
+Additionally, the intent standard under the Anti-Kickback Statute was amended by the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010, collectively the ACA, to a stricter standard such that a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. In addition, the ACA provides that the government may assert that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the federal civil False Claims Act., as discussed below.
+ 
+The civil monetary penalties statute imposes penalties against any person or entity that, among other things, is determined to have presented or caused to be presented a claim to a federal health program that the person knows or should know is for an item or service that was not provided as claimed or is false or fraudulent.
+ 
+Drug manufacturers can be held liable under the federal civil False Claims Act, which imposes civil penalties, including through civil whistleblower or qui tam actions, against individuals or entities (including manufacturers) for, among other things, knowingly presenting, or causing to be presented to federal programs (including Medicare and Medicaid) claims for items or services, including drugs, that are false or fraudulent, claims for items or services not provided as claimed, or claims for medically unnecessary items or services; making a false statement or record material to payment of a false claim; or avoiding, decreasing or concealing an obligation to pay money to the federal government. The government may deem manufacturers to have “caused” the submission of false or fraudulent claims by, for example, providing inaccurate billing or coding information to customers or promoting a product off-label. Claims which include items or services resulting from a violation of the federal Anti-Kickback Statute are false or fraudulent claims for purposes of the False Claims Act. Our future marketing and activities relating to the reporting of wholesaler or estimated retail prices for our products, if approved, the reporting of prices used to calculate Medicaid rebate information and other information affecting federal, state and third-party reimbursement for our products, and the sale and marketing of our product and any future product candidates, are subject to scrutiny under this law. Pharmaceutical and other healthcare companies have been prosecuted under these laws, for among other things, allegedly providing free product to customers with the expectation that the customers would bill federal programs for the product. Pharmaceutical and other healthcare companies also have been prosecuted for causing false claims to be submitted because of the companies’ marketing of the product for unapproved, and thus non-reimbursable, uses.
+ 
+The federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, created new federal criminal statutes that prohibit knowingly and willfully executing, or attempting to execute, a scheme to defraud or to obtain, by means of false or fraudulent pretenses, representations or promises, any money or property owned by, or under the control or custody of, any healthcare benefit program, including private third party payors and knowingly and willfully falsifying, concealing or covering up by trick, scheme or device, a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. Similar to the federal Anti-Kickback Statute, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation.
+ 
+13
+
+ 
+
+We may be subject to data privacy and security regulations by both the federal government and the states in which we conduct business. HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009, or HITECH Act, and their respective implementing regulations, imposes requirements on covered entities, including health plans, health clearinghouses, and certain healthcare providers, and their business associates relating to the privacy, security and transmission of individually identifiable health information. Among other things, HITECH makes HIPAA’s privacy and security standards directly applicable to business associates, defined as independent contractors or agents of covered entities, which include certain health care providers, health plans, and healthcare clearinghouse, that create, receive, or obtain protected health information in connection with providing a service on behalf of a covered entity. HITECH also increased the civil and criminal penalties that may be imposed against covered entities and business associates, and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorney’s fees and costs associated with pursuing federal civil actions. In addition, certain state laws govern the privacy and security of health information in specified circumstances, some of which are more stringent and many of which differ from each other in significant ways, thus complicating compliance efforts.
+
+
+Additionally, the Federal Physician Payments Sunshine Act under the ACA, and its implementing regulations, require that certain manufacturers of drugs, devices, biological and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, (with certain exceptions), to annually report to the CMS, information related to certain payments or other transfers of value made or distributed to physicians and teaching hospitals, or to entities or individuals at the request of, or designated on behalf of, the physicians, as defined by such law, and teaching hospitals and to report annually certain ownership and investment interests held by physicians and their immediate family members. Beginning in 2022, applicable manufacturers also will be required to report such information regarding its relationships with physician assistants, nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists and certified nurse midwives during the previous year. Failure to submit timely, accurately, and completely the required information may result in civil monetary penalties. Certain states also mandate implementation of compliance programs, impose restrictions on pharmaceutical manufacturer marketing practices and/or require the tracking and reporting of gifts, compensation and other remuneration to healthcare providers and entities.
+ 
+Many states have similar statutes or regulations to the above federal laws that may be broader in scope and may apply regardless of payor. In addition, in order to distribute products commercially, we must also comply with state laws that require the registration of manufacturers and wholesale distributors of drug and biological products in a state, including, in certain states, manufacturers and distributors who ship products into the state even if such manufacturers or distributors have no place of business within the state. Some states also impose requirements on manufacturers and distributors to establish the pedigree of product in the chain of distribution, including some states that require manufacturers and others to adopt new technology capable of tracking and tracing product as it moves through the distribution chain. Several states have enacted legislation requiring pharmaceutical and biotechnology companies to establish marketing compliance programs, file periodic reports with the state, make periodic public disclosures on sales, marketing, pricing, clinical trials and other activities, and/or register their sales representatives, as well as to prohibit pharmacies and other healthcare entities from providing certain physician prescribing data to pharmaceutical and biotechnology companies for use in sales and marketing, and to prohibit certain other sales and marketing practices. All of our activities are potentially subject to federal and state consumer protection and unfair competition laws.
+ 
+If our operations are found to be in violation of any of the federal and state healthcare laws described above or any other governmental regulations that apply to it, we may be subject to penalties, including without limitation, significant civil, criminal and/or administrative penalties, damages, fines, disgorgement, imprisonment, exclusion from participation in government programs, such as Medicare and Medicaid, injunctions, private “qui tam” actions brought by individual whistleblowers in the name of the government, or refusal to enter into government contracts, contractual damages, reputational harm, administrative burdens, diminished profits and future earnings, and the curtailment or restructuring of operations, any of which could adversely affect our ability to operate our business and our results of operations. If any of the physicians or other healthcare providers or entities with whom we expect to do business is found to be not in compliance with applicable laws, they may be subject to criminal, civil or administrative sanctions, including exclusions from government funded healthcare programs. Ensuring business arrangements comply with applicable healthcare laws, as well as responding to possible investigations by government authorities, can be time- and resource-consuming and can divert a company’s attention from the business.
+ 
+Coverage, Pricing and Reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of any product candidates for which we obtain regulatory approval. In the United States and markets in other countries, sales of any products for which we receive regulatory approval for commercial sale will depend, in part, on the extent to that third-party payors provide coverage, and establish adequate reimbursement levels for such products. In the United States, third-party payors include federal and state healthcare programs, private managed care providers, health insurers and other organizations. The process for determining whether a third-party payor will provide coverage for a product may be separate from the process for setting the price of a product or for establishing the reimbursement rate that such a payor will pay for the product. Third-party payors may limit coverage to specific products on an approved list, also known as a formulary, which might not include all of the FDA-approved products for a particular indication. Third-party payors are increasingly challenging the price, examining the medical necessity and reviewing the cost- effectiveness of medical products, therapies and services, in addition to questioning their safety and efficacy. We may need to conduct expensive pharmaco-economic studies in order to demonstrate the medical necessity and cost-effectiveness of our product candidates, in addition to the costs required to obtain the FDA approvals. Our product candidates may not be considered medically necessary or cost-effective. A payor’s decision to provide coverage for a product does not imply that an adequate reimbursement rate will be approved. Further, one payor’s determination to provide coverage for a product does not assure that other payors will also provide coverage for the product. Adequate third-party reimbursement may not be available to enable us to maintain price levels sufficient to realize an appropriate return on investment in product development.
+ 
+14
+
+ 
+
+Different pricing and reimbursement schemes exist in other countries. Some jurisdictions operate positive and negative list systems under which products may only be marketed once a reimbursement price has been agreed. To obtain reimbursement or pricing approval, some of these countries may require the completion of clinical trials that compare the cost-effectiveness of a particular product candidate to currently available therapies. Other countries allow companies to fix their own prices for medicines but monitor and control company profits. The downward pressure on health care costs has become very intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert a commercial pressure on pricing within a country.
+ 
+The marketability of any product candidate for which we receive regulatory approval for commercial sale may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. In addition, emphasis on managed care in the United States has increased and we expect the pressure on healthcare pricing will continue to increase. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more products for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future.
+ 
+U.S. Healthcare Reform
+ 
+In the United States and some foreign jurisdictions, there have been, and likely will continue to be, a number of legislative and regulatory changes and proposed changes regarding the healthcare system directed at broadening the availability of healthcare, improving the quality of healthcare, and containing or lowering the cost of healthcare. We expect that there will continue to be a number of federal and state proposals to implement government pricing controls and limit the grown of healthcare costs. For example, the ACA was passed in March 2010, and substantially changed the way healthcare is financed by both governmental and private insurers, and continues to significantly impact the U.S. pharmaceutical industry. There remain judicial and Congressional challenges to the ACA, as well as efforts by the Trump administration to repeal or replace certain aspects of the ACA. Since January 2017, President Trump has signed several Executive Orders and other directives designed to delay the implementation of certain provisions of the ACA or otherwise circumvent some of the requirements for health insurance mandated by the ACA. Concurrently, Congress has considered legislation that would repeal or repeal and replace all or part of the ACA. While Congress has not passed comprehensive repeal legislation, several bills affecting the implementation of certain taxes under the ACA were signed into law. For example, the Tax Cuts and Jobs Act of 2017, or Tax Act, included a provision which repealed, effective January 1, 2019, the tax-based shared responsibility payment imposed by the ACA on certain individuals who fail to maintain qualifying health coverage for all or part of a year that is commonly referred to as the “individual mandate.” On December 14, 2018, a Texas U.S. District Court Judge ruled that the ACA is unconstitutional in its entirety because the “individual mandate” was repealed by Congress as part of the Tax Act. Additionally, on December 18, 2019, the U.S. Court of Appeals for the 5th Circuit upheld the District Court ruling that the individual mandate was unconstitutional and remanded the case back to the District Court to determine whether the remaining provisions of the ACA are invalid as well. On March 2, 2020, the United States Supreme Court granted the petitions for writs of certiorari to review this case. It is unclear how such litigation and other efforts to repeal and replace the ACA will impact our business in the future.
+ 
+
+Other legislative changes have been proposed and adopted in the United States since the ACA was enacted. Additionally, there have been several recent U.S. Congressional inquiries and proposed bills designed to, among other things, bring more transparency to drug pricing, review the relationship between pricing and manufacturer patient programs and reform government program reimbursement methodologies for drugs. At the federal level, the Trump administration’s budget proposal for fiscal year 2021 includes a $135 billion allowance to support legislative proposals seeking to reduce drug prices, increase competition, lower out-of-pocket drug costs for patients, and increase patient access to lower-cost generic and biosimilar drugs. On March 10, 2020, the Trump administration sent “principles” for drug pricing to Congress, calling for legislation that would, among other things, cap Medicare Part D beneficiary out-of-pocket pharmacy expenses, provide an option to cap Medicare Part D beneficiary monthly out-of-pocket expenses, and place limits on pharmaceutical price increases.  Further, the Trump administration previously released a “Blueprint” to lower drug prices and reduce out of pocket costs of drugs that contained proposals to increase drug manufacturer competition, increase the negotiating power of certain federal healthcare programs, incentivize manufacturers to lower the list price of their products, and reduce the out of pocket costs of drug products paid by consumers. While some of these and other measures may require additional authorization to become effective, Congress and the Trump administration have each indicated that it will continue to seek new legislative and/or administrative measures to control drug costs. At the state level, legislatures have increasingly passed legislation and implemented regulations designed to control pharmaceutical and biological product pricing.
+ 
+We cannot predict what healthcare reform initiatives may be adopted in the future. Further federal, state and foreign legislative and regulatory developments are likely, and we expect ongoing initiatives to increase pressure on drug pricing. Such reforms could have an adverse effect on anticipated revenues from product candidates and may affect our overall financial condition and ability to develop product candidates.
+ 
+We anticipate that current and future U.S. legislative healthcare reforms may result in additional downward pressure on the price that we receive for any approved product, if covered, and could seriously harm our business. For example, it is possible that additional government action is taken in response to the COVID-19 pandemic. Any reduction in reimbursement from Medicare and other government programs may result in a similar reduction in payments from private payors.
+ 
+Foreign Regulation
+ 
+In order to market any product outside of the United States, we would need to comply with numerous and varying regulatory requirements of other countries and jurisdictions regarding quality, safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of our products. Whether or not we obtain FDA approval for a product, we would need to obtain the necessary approvals by the comparable foreign regulatory authorities before we can commence clinical trials or marketing of the product in foreign countries and jurisdictions. Although many of the issues discussed above with respect to the United States apply similarly in the context of the European Union, the approval process varies between countries and jurisdictions and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries and jurisdictions might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country or jurisdiction does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country or jurisdiction may negatively impact the regulatory process in others.
+European Data Collection
+ 
+The collection and use of personal health data in the European Economic Area (EEA) is governed by the General Data Protection Regulation 2016/679 (“GDPR”), which became effective May 25, 2018. The GDPR applies to any company established in the EEA and to companies established outside the EEA that process personal data in connection with the offering of goods or services to data subjects in the EU or the monitoring of the behavior of data subjects in the EU. The GDPR enhances data protection obligations for data controllers of personal data (including stringent requirements relating to the consent of data subjects, expanded disclosures about how personal data is used, requirements to conduct privacy impact assessments for “high risk” processing, limitations on retention of personal data, mandatory data breach notification and “privacy by design” requirements) and creates direct obligations on service providers acting as data processors. The GDPR also imposes strict rules on the transfer of personal data outside of the EEA to countries that do not ensure an adequate level of protection, like the U.S. Failure to comply with the requirements of the GDPR and the related national data protection laws of the EEA Member States may result in fines up to 20 million Euros or 4% of a company’s global annual revenues for the preceding financial year, whichever is higher. Moreover, the GDPR grants data subjects the right to claim material and non-material damages resulting from infringement of the GDPR. Given the breadth and depth of changes in data protection obligations, maintaining compliance with the GDPR, will require significant time, resources and expense, and we may be required to put in place additional mechanisms ensuring compliance with the new data protection rules. This may be onerous and adversely affect our business, financial condition, results of operations and prospects.
+ 
+15
+
+ 
+
+Employees
+ 
+As of October 8, 2020, we had four employees in iBio and forty-seven employees in iBio CDMO, forty-three of which are full time employees. Our employees are not represented by any union and are not the subject of a collective bargaining agreement. We consider our relations with our employees to be good. We believe that we will need to continue to add staff during FY21 in order to meet our new growth objectives for Therapeutic, Vaccine, and Research & Bioprocess proprietary product development.
+Corporate Information
+ 
+We were incorporated under the laws of the State of Delaware on April 17, 2008 under the name iBioPharma, Inc. We engaged in a merger with InB:Biotechnologies, Inc., a New Jersey corporation on July 25, 2008 and changed our name to iBio, Inc. on August 10, 2009.
+Available Information
+ 
+Our website address is www.ibioinc.com. We file Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and other materials with the Securities and Exchange Commission, or SEC. We are subject to the informational requirements of the Exchange Act and file or furnish reports, proxy statements and other information with the SEC. Such reports and other information filed by the Company with the SEC are available free of charge on our website at www.ibioinc.com. Information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K, and you should not consider information on our website to be part of this Annual Report on Form 10-K.
+ 
+The SEC also maintains a website that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov.
+ 

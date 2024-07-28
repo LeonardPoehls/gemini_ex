@@ -1,0 +1,318 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1. Business
+Overview
+ Our mission is to make it simple to connect and do business.
+ We are champions of small and midsize businesses (SMBs). We are a leading provider of cloud-based software that simplifies, digitizes, and automates complex back-office financial operations for SMBs. By transforming how SMBs manage their cash inflows and outflows, we create efficiencies and free our customers to run their businesses.
+ Our purpose-built, artificial-intelligence (AI)-enabled financial software platform creates seamless connections between our customers, their suppliers, and their clients. Customers use our platform to generate and process invoices, streamline approvals, send and receive payments, sync with their accounting system, and manage their cash. We have built sophisticated integrations with popular accounting software solutions, banks, and payment processors, enabling our customers to access these mission-critical services through a single connection. As a result, we are central to an SMB’s accounts payable and accounts receivable operations.
+ Today, over 98,000 customers trust our platform to manage their financial workflows and process their payments, which totaled $96.5 billion during fiscal 2020. As of June 30, 2020, we had over 2.5 million network members. We define network members as our customers plus their suppliers and clients, who pay and receive funds electronically via our platform.
+ 
+Our Solution
+ Our cloud-based, intelligent platform was purpose-built as an end-to-end solution that automates the SMB back office and enables our customers to pay their suppliers and collect payments from their clients, in effect acting as a system of control for their accounts payable and accounts receivable activities. As a result, our platform frees our customers from cumbersome legacy financial processes and provides the following key benefits:
+
+• | Automated and Efficient. Our AI-enabled platform helps our customers pay their bills efficiently and get paid faster. We provide tools such as our Intelligent Virtual Assistant (IVA) that streamlines the transaction lifecycle by automating data capture and entry, routing bills for approval, and detecting duplicate invoices. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Unified, Integrated, and Accurate. We provide an end-to-end platform that connects our customers to their suppliers and clients. Our platform integrates with accounting software, banks, and payment processors, enabling our customers to access all of these mission-critical partners through a single connection. Because we provide a unified view, customers can more easily find inconsistencies and inaccuracies, and fix them quickly. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital and Secure. We enable secure connections and storage of sensitive supplier and client information and documents, such as invoices and contracts, and make them accessible to authorized users through our cloud-based application, on any device, from anywhere. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Visible and Transparent. With our platform dashboard, customers can easily view their transaction workflows, enabling them to gain deeper insight into their financial operations and manage their cash flows intelligently. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 3
+
+
+
+What Sets Us Apart
+  
+• | Purpose-Built for SMBs. Our easy-to-use, unified platform provides SMBs with core functionality and value-added services generally reserved for larger companies. Through our cloud-based desktop and mobile applications, SMBs can connect and do business from anywhere, at any time. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Diverse Distribution Channels. We leverage both direct and indirect channels—accounting firms, financial institution partners, and accounting software integrations—to efficiently reach our target market. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Large and Growing Network of Connected Businesses. As accounts receivable customers issue invoices and accounts payable customers pay bills on our platform, they connect to their clients and suppliers, driving a powerful network effect. This aids our customer acquisition efforts by increasing the number of businesses connected to our platform, which then become prospects. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Large Data Asset. We have a large data asset as a result of processing millions of documents and billions of dollars in business payments annually for our customers. By leveraging our AI and machine learning capabilities, we generate insights from this data that drive product innovation. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Risk Management Expertise. Leveraging our data, our risk engine has trained upon millions of business-to-business ACH, check, card, and wire transactions. Our AI capabilities have enhanced the power of that engine, enabling us to keep our customers’ funds secure. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Experienced Management Team and Vibrant Culture. Our management team and employees have deep experience with SMBs, software-as-a-service (SaaS) companies, and financial institutions. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Platform
+ Every business transaction has two sides: for accounts payable, a customer and a supplier; and for accounts receivable, a customer and a client. The same transaction can be viewed differently depending on the party; one company’s debit is another’s credit. We built our platform with that in mind, leveraging the fact that we can see both sides, easily connect both parties, and promote the rapid exchange of information. This builds stronger business relationships.
+ Our AI-enabled, cloud-based platform automates this entire transaction lifecycle and delivers our customer-facing products, including accounts payable, accounts receivable, and payments, along with myriad value-added services.
+ Accounts Payable Automation
+ Our accounts payable automation service streamlines the entire legacy payables process, from the receipt of a bill, through the approvals workflow, to the payment, and synchronization with the accounting system. Here are some highlights of our service:
+
+• | Visibility at a Glance – Through our platform dashboard, our customers gain a comprehensive view of their cash in-flows and outflows as well as bills coming due.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Document Management – Most invoices are delivered to us directly via email. When a customer enrolls in our service, Bill.com automatically assigns a dedicated email address to the customer to provide to its suppliers. Suppliers use that email address to send invoices to the customer’s dedicated Bill.com inbox directly. Alternatively, for invoices that are mailed directly to our customers’ offices, we offer the ability for scanned invoices to be uploaded
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 4
+
+
+ 
+directly through our application or by fax. Once uploaded, we store the bills securely, linking them to the associated supplier. With a single click, customers can use our powerful keyword search feature to scan thousands of documents quickly and resolve an open payables question. Our document management capabilities assist our SMBs in making payment decisions, answering supplier questions and providing supporting documentation to accountants and auditors. We also securely store contracts, forms, and other critical information that customers need so that any document required to support any part of the transaction lifecycle is at their fingertips.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Intelligent bill capture – We have automated the capture of data from bills by leveraging IVA. With IVA, incoming bills are machine- read, and critical data fields including due date, amount and supplier name are pre-populated. The accounts payable staff simply reviews the result, makes any adjustments required, and IVA routes the bill internally for approval.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital workflows and approvals – Our platform speeds approval processes through policy-driven workflows. Much of this activity takes place while our customers are on-the-go: one of the top three uses of our mobile app is bill approvals. Our platform proactively suggests payment dates based upon a bill’s due date, helping customers avoid late payment penalty fees. SMBs assign each user a role, such as: administrator, payor, approver, clerk or accountant. Each has its own entitlements that the platform enforces to ensure appropriate checks and balances in the back office. For mid-sized firms with unique needs, we also offer the ability to create custom roles.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Collaboration and engagement – Our platform promotes collaboration between customers, their employees, and their suppliers and clients. Our in-app messaging capabilities make communications easy and trackable. For example, our platform allows administrators and payors to remind approvers to act, or delegate payment authority when a key employee is unavailable. Our platform tracks all exchanges, keeping a clear audit trail that becomes invaluable in the event of an audit, or at tax time, when organized and complete files become critical.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Accounts Receivable Automation
+ Our accounts receivable service builds upon our accounts payable functionality, automating the entire receivable process, from the creation of an invoice, to its delivery to the client, to funds collection and synchronization back to the accounting system. Here are some highlights of this service:
+
+• | Easy invoicing – Using a simple template, customers can synchronize from their accounting software or easily create electronic invoices on our platform and insert their own logos to customize the look-and-feel. For occasions when it is required, our platform also enables the printing and mailing of paper invoices. Many accounts receivable customers take advantage of our recurring invoice feature.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital workflows and visibility – Our platform automates and simplifies electronic invoice creation, delivery, and collection of funds. Using our progress bar, customers have complete visibility into the accounts receivable process. When both trading partners are in the network, our customer can see when their invoices are delivered, opened, authorized to be paid and payment received. Invoices and supporting documents like contracts are readily accessible and notes can be entered for future reference and are visible to authorized users.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+
+ 
+• | Collaboration and engagement – For accounts receivable customers whose clients interact with them online, we offer a customizable, branded client payment portal. Clients receive a link to an electronic invoice accessible on the Bill.com site. From this customer-branded portal, the client can make a payment via ACH or credit card within seconds. In fact, in a May 2019 customer survey we conducted, half of respondents reported that using our platform allows them to get paid at least twice as fast as with other accounts receivable methods. In addition, for reference purposes, the client has ongoing access to its bills and associated payments within the portal. Just like our accounts payable service, our in-app collaboration tools make communications between the accounts receivable customer and its clients easy and trackable.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Payment Services
+ Using our platform, accounts payable customers can disburse funds to suppliers through multiple payment methods. Accounts receivable customers collect funds quickly and efficiently using electronic funds transfers. Our suite of comprehensive payment services includes:
+
+• | ACH Payments – We enable low-cost ACH transactions for both disbursements and collections. Our network makes it simple to make the switch from paper checks.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Card Payments – Through a third party, we offer accounts receivable customers the convenience of accepting credit card payments. In addition, we have integrations with Mastercard and Comdata/Fleetcor to enable our accounts payable customers to make virtual card payments. Virtual cards enable faster payments to suppliers along with the data needed to easily match incoming payments with open receivables.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Checks – We issue payment via check if our customer prefers this method or is contractually obligated to pay via this method. By design, we protect our SMB customers against check fraud by never disclosing their bank account details to a supplier and by reviewing every check presented against a check issue file to detect and prevent tampering and check fraud.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cross-Border Payments – We simplify cross-border disbursements by facilitating wire transfers around the world with our Cross- Border Payments service. Payments can be issued in either U.S. or foreign currency and are synchronized with accounting software for a consolidated view of all outflows, domestic and international. We now offer our U.S.-based customers the ability to disburse funds to over 130 countries worldwide.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition, our platform offers these value-added services:
+  
+• | Two-Way Sync with Leading Accounting Systems – Our platform automatically synchronizes customers, suppliers, general ledger accounts, and transactions with an SMB’s accounting system to automate reconciliation. We are integrated with several of the most popular business accounting software applications, including QuickBooks, Oracle NetSuite, and Sage Intacct. Our two-way synchronization capabilities virtually eliminate double data-entry, as our platform and the customer’s accounting software are continuously keeping each other updated. Customers who use other types of systems use our advanced file import/export capabilities to minimize data entry activities.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Purchase Order (PO) Matching – We sync POs directly from accounting software systems Oracle NetSuite and Sage Intacct into our platform. Users can compare POs and invoices on one screen, then route bills for approval and payment seamlessly in the same workflow. This eliminates the need to switch between systems for two-way matching and reduces the back-and-forth communication between PO creators and AP managers.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Frequent Status Updates – We provide timely status updates of financial inflows and outflows by providing timely status of all transactions on a regular basis. Through our workflow progress bars on each page, our customers can see who has approved an invoice and what approvals remain, the status of each payment, and the date transactions are expected to clear.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+ 
+• | Treasury Services – Our platform integrates advanced treasury services functionality from commercial banks, tools that are normally either not offered to or are too costly for SMBs. Examples include:
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the positive pay feature we employ to ensure only authorized payment transactions are processed;
+--+-------------------------------------------------------------------------------------------------
+
+
+• | a streamlined void and reissue function when an in-process payment needs to be cancelled; and
+--+----------------------------------------------------------------------------------------------
+
+
+• | the cleared check images we make available to enable our customers to confirm payment receipt and facilitate research.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+• | Custom User Roles – Our platform enables customers to define custom user roles that are unique to their organizations. These roles can be used to expand or limit each user’s access to the platform and core financial operations functions. For example, a customer can temporarily enable its auditors or tax preparers to access our platform using a custom role that allows them to view source documents in support of the professional services they are providing, but not have access to other confidential documents, invoices, or payment information.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Document Discovery – With our advanced document management capabilities, a customer can easily search for an uploaded document and search its data elements, regardless of how old it is, or how long it has been in our system. Our customers utilize this feature when deciding whether to pay a given bill, re-issue an invoice, or determine who authorized a certain payment. It’s quick, easy, and eliminates the need for filing cabinets.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Data Asset
+ The payment activity of our over 98,000 customers and over 2.5 million network members as of June 30, 2020, paired with hundreds of millions of documents, bills, and invoices processed through our platform, provides us with a unique data asset. This asset has allowed us to enhance the machine learning algorithms that power our artificial intelligence capabilities. The data provides a view into customer transactions and operational status of various payment processes, which enables us to effectively manage risk exposure. Our system continues to learn with each invoice uploaded and each new member that joins our network. This virtuous cycle of learning powers a network effect that facilitates customer satisfaction, offers intelligent insights, improves trust and safety, and will fuel further growth.
+Our Network
+ Through our AI-enabled platform, our customers can easily connect with existing network members. The benefit of being in the network is simple: customers connect with others to pay and be paid electronically, freeing them of the need to solicit or share bank account and routing numbers with each trading partner individually. The process of adding bank account details to our platform is easy and secure. For example, when a supplier of an accounts payable customer receives an invitation to join our network, the supplier can accept and securely share their bank account details once with Bill.com. From that point onward, all payments to that supplier will be electronic.
+ Once in the network, other Bill.com customers can easily link to that same supplier without the supplier having to repeat this process again. This approach to connecting businesses for accounts payable and accounts receivable has allowed us to build a robust and growing business-to-business payments directory, which includes over 2.5 million network members as of June 30, 2020.
+ These network effects promote greater adoption of our platform, higher levels of engagement, and increased value across our ecosystem. We believe this is the fundamental power of our network.
+ 7
+
+
+Technology and Architecture
+ We have built a modern technology platform that serves as the foundation for a highly scalable and extensible SaaS solution. Our foundation is built upon sophisticated infrastructure, app servers, and databases. Additionally, we have integrated a powerful AI-enabled machine learning engine, payment and risk engine, document management services, and workflow management. Together, these services form our platform, which serves our customers and can be adapted to support new strategic partners and future technology integrations.
+ Our proprietary technology includes the following:
+ Artificial Intelligence Technology
+ IVA eliminates most manual data entry from invoices received electronically via email or uploaded by customers. Leveraging our machine-learning capabilities, IVA pre-populates the key fields needed to process an invoice in accounts payable, including: supplier name, dollar amount, invoice number, invoice date, and due date. We learn from our customers’ prior transactions and suggest the appropriate general ledger code and the appropriate people to include in approval workflows. As a result, invoices are presented to our customers, pre-populated and pre-processed, ready for a quick confirmation review and then routed through the approval process.
+ IVA reduces a customer’s data entry burden, reduces data entry errors, and delivers additional insights to streamline back-office workflows. By gleaning payment details from the invoice, our intelligent platform can send payments using the most efficient means accepted by their suppliers. Our system continues to learn with each invoice uploaded and each new customer, supplier, or client that joins our network. This virtuous cycle of learning powers a network effect that delivers customer delight, intelligent insights, and business growth.
+ Mobile Capabilities
+ Integrated, robust mobile functionality is a key requirement for business users as more daily back-office tasks migrate away from the office and the desktop. Our mobile-native app, available in both iOS and Android, is easy to adopt and use. Through our app, our customers can manage their transaction workflows, send an invoice, or make payments on-the-go.
+Partner Integrations
+ We provide our financial institution strategic partners a technology platform that enables a simple, white-label integration with their existing business banking services. We deliver single sign-on, multi-factor authentication, integrated provisioning and entitlement of new accounts, as well as integration with required compliance systems. Transactions are synchronized automatically between the financial institution’s platform and ours, keeping the customer’s view current and consistent.
+ In addition to our white-labeled solution, we support a broad range of partners and customers with our platform APIs. These APIs allow our partners to integrate our platform seamlessly into their solutions, create web or mobile apps that integrate with ours, or leverage our payments capabilities. Through our APIs, developers can:
+  
+• | interact with business entities, like suppliers and clients;
+--+-------------------------------------------------------------
+
+
+• | obtain summary-level reports, such as payables and receivables reports; and
+--+----------------------------------------------------------------------------
+
+
+• | interact with accounting details, such as the general ledger codes of the chart of accounts.
+--+---------------------------------------------------------------------------------------------
+
+ 8
+
+
+Payment and Risk Management Services
+ Our payments engine powers our payment services. Through dedicated connections with banks and payment processors, we issue checks, originate ACH files, and execute wire transfers. We receive incoming files daily that include cleared check information, check images, and ACH returns. Our payments engine handles all aspects of payment file transfers, exception file handling, and required payment status reporting. We have redundancy such that if one of our payment providers is unable to process a file on a given day, we have the option to re-route the file to another provider, preventing any interruption in payment processing services.
+ Our operations dashboard provides a full view of the current status of all payment processes, such as disbursement/funding, settlement, voids, returns, and ACH status. Notifications, alerts, and exceptions are sent to our network operations center, payment operations, and customer support teams so we can proactively monitor transactions on behalf of our customers throughout the business day and during off-hours. The data provides a view into customer transactions and operational status of various payment processes, enabling us to effectively manage risk exposure.
+ Through our risk engine, we use both proprietary and third-party tools to assess, detect, and mitigate financial risk associated with the payment volume that we process. Throughout the transaction lifecycle, we monitor customers, users, and payments to ensure that we are safeguarding our customers, their suppliers and clients, and our company. At new account set-up, we verify that the customer exists, that the person who enrolled the customer exists, and that the customer’s business is in good standing. When a bank account is added to the platform, we validate that the bank account is held at a United States-domiciled financial institution, is associated with the organization adding the account, and is in good standing.
+ When customers use our services, we monitor key activities looking for signals that would indicate anomalies that could create risk exposure and need to be investigated. Our risk engine analyzes 95 individual data elements to score transactions. Those that score above our thresholds are routed to trained risk agents for manual review. Agents have the latitude to contact customers to gather further information, or if a financial risk is imminent, to prevent funds from leaving our system until any suspicious activity can be resolved.
+ Once a payment transaction is processed, we continue to manage our exposure. We have extensive contacts in the banking industry, and we utilize these to reverse payments when possible. If a suspicious or fraudulent payment cannot be reversed, we follow a rigorous collections process to recover funds.
+ This risk management process gets progressively more accurate and insightful as our dataset gets larger and our AI-enabled risk engine gets smarter. This is an advantage that we expect to continue to grow over time. Our success in managing the risk inherent in moving funds for business customers is proven. As a percentage of our total payment volume, our fraud loss rates were negligible, less than one basis point for each of fiscal 2020, 2019 and 2018.
+ Infrastructure and Operations
+ Our technology architecture supports a distributed deployment footprint across multiple data centers and regions in a public cloud environment. We employ enterprise-grade databases with real-time replication between data centers to ensure minimal data loss and maximum availability. We have purposefully engineered for redundancy and fault tolerance; in the event of a production incident, we can failover between data centers with minimal data loss. Since 2017, we have been performing a full-site failover, where we seamlessly move from our primary production site to our hot back-up site, and run in the back-up site for a full week, before reverting back to our primary location.
+ 9
+
+
+We designed our platform with multiple layers of redundancy and fault tolerance to guard against data loss while delivering high availability and low latency. Data is replicated in real-time between databases in our two primary data centers. Incremental backups are performed hourly and full backups are performed daily. These backups are transmitted electronically and hosted in a third data center. No tapes are used for transmission or storage, which eliminates a common source of data loss. Data is encrypted during transmission and at rest when stored in our system.
+ We have begun transitioning all production infrastructure to Amazon Web Services, which will enhance our ability to scale quickly and efficiently.
+ Security, Privacy, and Data Protection
+ Trust is important for our relationship with customers and partners, and we take significant measures designed to protect their privacy and the data that they provide to us. Keeping our customers’ data safe and secure is a high priority. Our approach to security includes data governance as well as ongoing testing for potential security issues.
+ We have robust access controls in our production environment with access to data strictly assigned, monitored, and audited. To ensure our controls remain up-to-date, we undergo continuous external testing for vulnerabilities within our software architecture. These efforts have enabled us to certify our platform to SOC1 Type II, SOC2 Type II, and SOC3 standards. Our security program is aligned to the NIST-800-53 standards and is regularly audited and assessed by third parties as well as our strategic partners.
+ Our security program consists of the following:
+  
+• | Organizational security – including personnel security, security and privacy training, a team of dedicated security professionals, policies and standards, separation of duties, regular audits, compliance activities, and third-party assessments;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Secure by design principles – by which we assess the security risk of each software development project according to our secure development lifecycle and create a set of requirements that must be met before the resulting change may be released to production; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Public bug bounty program – to facilitate responsible disclosure of potential security vulnerabilities identified by external researchers and reward them for their verified findings.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The focus of our program is working to prevent unauthorized access to the data of our customers and network members. To this end, our team of security practitioners work to identify and mitigate risks, implement best practices, and continue to evaluate ways to improve.
+ These steps include close attention to network security, classifying and inventorying data, limiting and authorizing access controls, and multi- factor authentication for access to systems. We also employ regular system monitoring, logging, and alerting to retain and analyze the security state of our corporate and production infrastructures.
+ We take steps to help ensure that our security measures are maintained by the third-party suppliers we use, including conducting annual security reviews and audits.
+ Competition
+ Our primary competition remains the legacy manual processes that SMBs have relied upon for decades. Other competitors range from large firms that predominantly focus on selling to enterprises, to smaller niche providers of solutions that focus exclusively on document management, workflow management, accounts payable solutions, accounts receivable solutions, or electronic bill presentment and payment.
+ 10
+
+
+We differentiate ourselves from our competitors by offering a unified financial back-office solution that handles accounts payable, accounts receivable, and payment services end-to-end. Our extensive investment in building a robust, fully-integrated two-way sync with popular accounting software providers is well-regarded in the industry. With respect to the domestic payments that comprise the bulk of our business, we disburse and collect funds on behalf of our customers through our proprietary payments engine.
+ We believe that the key competitive factors in our market include:
+  
+• | Product features, quality, and functionality;
+--+----------------------------------------------
+
+
+• | Data asset size and ability to leverage artificial intelligence to grow faster and smarter;
+--+--------------------------------------------------------------------------------------------
+
+
+• | Ease of deployment;
+--+--------------------
+
+
+• | Ease of integration with leading accounting and banking technology infrastructures;
+--+------------------------------------------------------------------------------------
+
+
+• | Ability to automate processes;
+--+-------------------------------
+
+
+• | Cloud-based delivery architecture;
+--+-----------------------------------
+
+
+• | Advanced security and control features;
+--+----------------------------------------
+
+
+• | Regulatory compliance leadership, as evidenced by having been granted money transmitter licenses in all required U.S. jurisdictions;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Brand recognition; and
+--+-----------------------
+
+
+• | Pricing and total cost of ownership.
+--+-------------------------------------
+
+ We compare favorably with our competitors on the basis of these factors. We expect the market for SMB back-office financial software and business-to-business payment solutions to continue to evolve and grow, as greater numbers of SMBs and larger businesses digitize their back offices. We believe that we are well-positioned to help them.
+ Research and Development
+ We invest substantial time, energy, and resources to ensure we have a deep understanding of our customers’ needs, and we continually innovate to deliver value-added products and services through our platform. Our research and development organization consists of engineering, product, and design teams. These teams are responsible for the design, development, and testing of our applications. We focus our efforts on developing new functionality and further enhancing the usability, reliability, and performance of existing applications.
+Sales and Marketing
+ We distribute our platform through direct and indirect sales channels, both of which we leverage to reach our target customers in an efficient manner. Our direct sales are driven by a self-service process and an inside sales team. Our inside sales team augments our direct sales capabilities by targeting potential customers that have engaged with us on their own.
+ We also reach customers indirectly through our partnerships with accounting firms, financial institutions, and accounting software providers. While these partners sometimes require an initial integration investment, a go-to-market flywheel takes effect as our partners accelerate the delivery of our platform across their customer base with minimal incremental investment from us.
+ We focus our marketing efforts on generating leads to develop our sales pipeline, building brand and category awareness, enabling our go-to-market partners, and growing our business from within our existing customers. Our sales leads primarily come through word-of-mouth, our accounting firm partners, and website searches. We generate additional leads through digital marketing campaigns, referrals, in-product customer education, brand advertising, public relations, and social media.
+ 11
+
+
+Customer Success
+ SMBs have unique needs and customer support contact expectations. With more than a decade of experience supporting our product, our customer success team has a deep understanding of their needs and has developed our support model accordingly. We recognize and understand patterns that our customers may not, because we see the aggregate – millions of accounts payable and accounts receivable transactions per month. We use what we learn to continuously improve the platform and the customer experience. We have developed an efficient support model. For instance, we offer online chat support to respond to customers within seconds of their initial outreach. We also leverage our machine learning tools to anticipate customer issues and provide in-app, real-time suggestions and support.
+ We provide onboarding implementation support, as well as ongoing support and training. We periodically contact our customers to discuss their utilization of our platform, highlight additional features that may interest them, and identify any additional tools that may be needed.
+ Regulatory Environment
+ We operate in a rapidly evolving regulatory environment. Most states in the United States require a license to offer money transmission services such as the payment services that we offer. We have procured and maintain money transmitter licenses in 51 jurisdictions and actively work to comply with new license requirements as they arise. We are also registered as a Money Services Business with the U.S. Department of Treasury’s Financial Crimes Enforcement Network. These licenses and registrations subject us, among other things, to record-keeping requirements, reporting requirements, bonding requirements, limitations on the investment of customer funds, and inspection by state and federal regulatory agencies.
+ As a Money Services Business and a licensed money transmitter we are subject to U.S. anti-money laundering (AML) laws and regulations. We have implemented and are expanding an AML program designed to prevent our platform from being used to facilitate money laundering, terrorist financing, and other financial crimes. Our program is also designed to prevent our products from being used to facilitate business in certain countries, or with certain persons or entities, including those on designated lists promulgated by the U.S. Department of the Treasury’s Office of Foreign Assets Controls and other foreign authorities. Our AML and sanctions compliance programs include policies, procedures, reporting protocols, and internal controls, including the designation of an AML compliance officer to oversee the programs, and is designed to address these legal and regulatory requirements and to assist in managing risk associated with money laundering and terrorist financing risks.
+ We collect and use a wide variety of information for various purposes in our business, including to help ensure the integrity of our services and to provide features and functionality to our customers. This aspect of our business, including the collection, use, disclosure, and protection of the information we acquire in connection with our customers’ use of our services, is subject to numerous laws and regulations in the United States. Accordingly, we publish our privacy policies and terms of service, which describes our practices concerning the use, transmission, and disclosure of information.
+ In addition, several foreign countries and governmental bodies, including the European Union, have laws and regulations dealing with the collection, use, disclosure, and protection of information which are more restrictive than those in the United States. While we believe that the products and services that we currently offer do not subject us to such laws or regulations in foreign jurisdictions, such laws and regulations may be modified or subject to new or different interpretations, new laws and regulations may be enacted, or we may modify our products or services in the future, which may subject us to such laws and regulations.
+ Various regulatory agencies in the United States and in foreign jurisdictions continue to examine a wide variety of issues which are applicable to us and may impact our business. These issues include identity theft, account management guidelines, privacy, disclosure rules, cybersecurity, and marketing. As our business continues to develop and expand, we continue to monitor the additional rules and regulations that may become relevant.
+ 12
+
+
+Any actual or perceived failure to comply with legal and regulatory requirements may result in, among other things, revocation of required licenses or registrations, loss of approved status, private litigation, regulatory or governmental investigations, administrative enforcement actions, sanctions, civil and criminal liability, and constraints on our ability to continue to operate. For an additional discussion on governmental regulation affecting our business, please see the risk factors related to regulation of our payments business and regulation in the areas of privacy and data use, under the section titled “Risk Factors – Risks Related to our Business and Industry.”
+ Employees
+ As of June 30, 2020, we had 618 full-time employees. We also engage temporary employees and consultants as needed to support our operations. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relations with our employees to be good.
+Intellectual Property
+ We seek to protect our intellectual property rights by relying upon a combination of patent, trademark, copyright, and trade secret laws, as well as contractual measures.
+ As of June 30, 2020, we had fourteen issued patents that expire between 2028 and 2038, and six pending patent applications. These patents and patent applications seek to protect proprietary inventions relevant to our business. While we believe our patents and patent applications in the aggregate are important to our competitive position, no single patent or patent application is material to us as a whole. We intend to pursue additional patent protection to the extent we believe it would be beneficial and cost effective.
+ As of June 30, 2020, we had a trademark registration covering the Bill.com logo and a notice of allowance for a related logo. Our trademark applications for certain logos are pending. We will pursue additional trademark registrations to the extent we believe it would be beneficial and cost effective. We also own several domain names, including www.bill.com.
+ We rely on trade secrets and confidential information to develop and maintain our competitive position. It is our practice to enter into confidentiality and invention assignment agreements (or similar agreements) with our employees, consultants, and contractors involved in the development of intellectual property on our behalf. We also enter into confidentiality agreements with other third parties in order to limit access to, and disclosure and use of, our confidential information and proprietary information. We further control the use of our proprietary technology and intellectual property through provisions in our terms of service.
+ From time to time we also incorporate certain intellectual property licensed from third parties, including under certain open source licenses. Even if any such third-party technology was not available to us on commercially reasonable terms, we believe that alternative technologies would be available as needed.
+ 13
+
+
+Despite our efforts to protect our intellectual property rights, they may not be respected in the future or may be invalidated, circumvented, or challenged. In addition, the laws of various foreign countries where our products are produced may not protect our intellectual property rights to the same extent as laws in the United States. Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation based on allegations of patent infringement or other violations of intellectual property rights. We believe that competitors will try to develop products that are similar to ours and that may infringe our intellectual property rights. Our competitors or other third-parties may also claim that our solutions infringe their intellectual property rights. In particular, some companies in our industry have extensive patent portfolios. From time to time, third parties have in the past and may in the future assert claims of infringement, misappropriation, and other violations of intellectual property rights against us or our customers or partners, with whom our agreements may obligate us to indemnify against these claims. Successful claims of infringement by a third party could prevent us from offering certain products or features, require us to develop alternate, non-infringing technology, which could require significant time and during which we could be unable to continue to offer our affected products, require us to obtain a license, which may not be available on reasonable terms or at all, or force us to pay substantial damages, royalties, or other fees. Moreover, our products incorporate software components licensed to the general public under open source software licenses. Open source licenses grant licensees broad permissions to use, copy, modify, and redistribute our platform. As a result, open source development and license practices can limit the value of our software copyright assets. For additional information about our intellectual property and associated risks, see the section titled “Risk Factors—Risks Related to our Business and Industry.”
+Available Information
+ Our internet address is www.bill.com. We make available free of charge on our website our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+ 14
+
+

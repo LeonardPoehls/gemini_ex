@@ -1,0 +1,216 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS
+OVERVIEW
+ 
+GBT Technologies Inc. (formally known as Gopher Protocol Inc., the “Company”, “Gopher”, “Gopher Protocol” “GOPH” or “GTCH”) was incorporated on July 22, 2009 under the laws of the State of Nevada. GBT is an emerging growth company that is creating and patenting innovative mobile microchip (ICs) and software technologies based on the GopherInsight ™ technology platform. Effective August 5, 2019, the Company changed its name from Gopher Protocol Inc. to GBT Technologies Inc. The Company also offers prepaid cellular phone minutes for both domestic and international carriers. In addition, the Company has historically offered cellular activation (activating SIM cards with wireless carriers) to create additional users (consumers) on those networks and provides check processing, verification and recovery solutions for small to medium sized businesses. During the year ended December 31, 2019, the Company derived revenues from (i) the provision of IT services; (ii) from the operations of the assets that include the sale of phones, phone card products, prepaid cellular phone minutes and cellular activation and (iii) from the licensing of its technology.
+ 
+The Company is targeting additional growing markets: development of Internet of Things (IoT) and Artificial Intelligence (AI) enabled networking and tracking technologies, including wireless mesh network technology platform and fixed solutions, development of an intelligent human body vitals device, prepaid services, asset-tracking IoT and wireless mesh networks.
+ 
+Prepaid services
+ 
+On September 1, 2017, the Company entered into an Asset Purchase Agreement with a third party, RWJ Advanced Marketing, LLC, a Georgia corporation. The Company entered into this Asset Purchase Agreement to acquire terminals in approximately 9,400 locations by which, and at which, the Company planned to deploy its IoT/asset tracking technology. The operations consist primarily of the sale of phones and phone card products, including PINS for cell minutes, SIM cards for cell minutes, as well as gift cards and prepaid long distance cards. The Company incorporated a wholly-owned subsidiary, UGopherServices Corp. (“UGopherServices”), to operate the acquired assets. The assets acquired in the purchase consisted of racks that contain 9-12 items per rack that are displayed in retail locations, mainly convenience stores; and payment terminals at those same points of sale.
+ 
+1
+
+ 
+
+On March 16, 2018, the Company entered into and closed an asset purchase agreement dated March 1, 2018 with ECS Prepaid, LLC (“ECS”), a Missouri limited liability company, pursuant to which the Company purchased certain assets from ECS, including, but not limited to, the processing prepaid platform, servers, POS terminals, customer list, a processing software program and goodwill, in consideration of $1,100,000 of which $100,000 was paid on the Closing Date and the balance is to be paid pursuant to a secured promissory note in the amount of $1,000,000. In addition, the Company issued 500,000 shares of common stock of the Company and warrants to purchase 500,000 shares of common stock that are exercisable for a period of five years at a fixed exercise price of $1.85 per share. The note is secured by the assets acquired by the Company from ECS and the Company is required to make ten equal principal payments of $100,000 commencing on April 15, 2018. The Company may prepay the note at any time without penalty.
+ 
+On April 2, 2018, the Company entered into and closed an asset purchase agreement with Electronic Check Services, Inc. (“Electronic Check”), a Missouri corporation, pursuant to which the Company purchased certain assets from Electronic Check, including, but not limited to, assets associated with software that validates written check authenticity. The purchase price was $75,000 in cash, and the Company issued 250,000 shares of common stock of the Company and warrants to purchase 250,000 shares of common stock that are exercisable for a period of five years at a fixed exercise price of $2.70 per share.
+ 
+On April 2, 2018, the Company entered into and closed an asset purchase agreement with Central State Legal Services, Inc. (“CSLS”), a Missouri corporation, pursuant to which the Company purchased certain assets from CSLS, including, but not limited to, assets associated with a system to recover funds from returned checks, for $25,000 in cash.
+ 
+The Company entered into these asset purchase agreements to acquire the software needed to process transactions for its prepaid business, and to acquire additional terminal locations by which the Company will deploy its technology. On a combined basis, there are approximately 9,400 points of sale as a result of acquiring certain assets from both RWJ Advanced Marketing LLC and ECS.
+ 
+On or around November 10, 2017, UGopherServices experienced a suspension of operations on the terminals that the Company acquired in its acquisition on September 1, 2017 from RWJ Advanced Marketing LLC. Management of the Company believes that this shutdown came as a result of the decision of Paypal Holdings Inc. (“Paypal”) decision to suspend operations of TIO Networks (“TIO”), and appears to have affected all of TIO’s customers. TIO was acquired by Paypal in or around July 2017. Prior to the suspension, the Company received no notice from TIO, or from RWJ Advanced Marketing LLC, which sold the assets to UGopherServices, that the suspension would be taking place. Although the Company worked diligently to contain the fallout from the suspension of operations by TIO, the vast majority of the customers that were acquired as part of the transaction defected as a result. The subsequent acquisition of ECS was done partly to stem the customer defections, as many of the customers of UgopherServices sought the services of ECS. In doing so, the Company got many, though not all, of the customers back.
+ 
+The Company is currently in litigation with RWJ Advanced Marketing, LLC, its executives and other third parties, and wrote off a substantial portion of its investment in UgopherServices from September 1, 2017. The Company’s position is that it was defrauded by the Seller and certain third parties due to the lack of disclosure of TIO’s decision to suspend operations.
+ 
+On September 30, 2019, the Company entered into an Asset Purchase Agreement with Surge Holdings, Inc., a Nevada corporation (“SURG”) pursuant to which the Company agreed to sell and assign to SURG all the assets and certain specified liabilities of its ECS Prepaid, Electronic Check and the CSLS businesses in consideration of $5,000,000 to be paid through the issuance of 3,333,333 shares of SURG’s common stock and a convertible promissory note in favor of the Company in the principal amount of $4,000,000. The 3,333,333 shares of SURG’s common stock have been pledged to a third party for providing working capital needs of the Company. The convertible promissory note was issued to AltCorp Trading, LLC a wholly owned subsidiary of the Company.
+ 
+The ECS Prepaid, Electronic Check and the CSLS businesses have been presented as discontinued operations on the accompanying financial statements.
+ 
+Prepaid services products
+ 
+The racks located at the points of sale contained the following items:
+ 
+
+● | New and refurbished cellular handsets and SIM cards; 
+--+---------------------------------------------------------
+
+
+● | Prepaid gift cards; 
+--+------------------------
+
+
+● | Prepaid long distance cards; and, 
+--+--------------------------------------
+
+
+● | Prepaid wireless cards, for both foreign and domestic calls. 
+--+-----------------------------------------------------------------
+
+ 
+2
+
+ 
+
+When any of these items are brought to the counter, the customer’s method of payment is swiped into a payment terminal machine. The Company records the revenue from the purchase and the cost of goods sold at the point of sale, and the net is booked as gross profit by the Company. When a customer purchases a gift card, for example, a value is assigned to a digital PIN number which puts a certain value on their gift card, to be redeemed by the purchaser at their convenience.
+ 
+There are various fees that get added to the cost of the gift card, including commissions and a transaction fee. The transaction fee is split between the store and the Company. The volume of transactions for each customer in a given month varies, with some points of sale more active in certain months than others.
+ 
+Prepaid services markets
+ 
+After the acquisition of certain assets from RWJ Marketing Services LLC in September 2017, the majority of the point of sale locations held by UGopherServices were in the Southeastern US, but the geographic penetration of the locations overall is national. As discussed above, a substantial portion of the investment in the UGopherServices investment was written off in the third fiscal quarter of 2018.
+ 
+Prepaid services competition
+ 
+Given the nature of its business (primarily gift cards, prepaid long distance and wireless calls, and selling handsets and SIM cards), the competitors are numerous, as any company that issues gift cards, such as Starbucks and Best Buy, could potentially compete with the gift cards that the company sells at these points of sale. Competitors that sell prepaid calling and wireless plans are also numerous. Although its competitors do not necessarily sell their gift and calling cards at the same points of sale at which the company sells its goods, they could, though not on the rack that the Company controls that is positioned within the store.
+ 
+Asset tracking IoT - and Artificial Intelligence (AI) enabled networking (including AI Medical Advisor platform and potential products)
+ 
+The Company plans to launch a series of software and microchip design products that integrate into strategic technology partners’ solutions and enable real-time tracking and management of IoT or connected assets. Through its investment in GBT Technologies S.A. and its Joint Venture with Tokenize – It S.A., this platform was further developed with an Artificial Intelligence (AI) enabled networking as well as a stand-alone AI platform. As an example, the Company’s Guardian Patch solution is a sticky adhesive patch that is placed on an object to be tracked, and relays the location of the asset through a mesh network that does not rely on Global System for Mobile Communications (GSM) or GPS technology, while being “managed” by AI. Avant! AI is a revolutionary system under development for managing and controlling the Company’s technology. It is designed to as an AI system that can detect, analyze and learn from experience. The Company is pursuing its use in autonomous cars, drone operations, geo-tracking and controlling many other complex systems
+ 
+Additionally, GopherInsight™ allows the tracking and enhanced security of digital assets, including blockchain-based assets. The health system is an AI based medical advisor. Users may provide symptoms, ask medical questions and describe conditions in order to get diagnostic advice, including known medications and treatments. We believe this can provide a reliable, simple and fast medical information for people around the world. We provide information on medical symptoms and conditions based on data and analytics taken from The National Center for Biotechnology, CDC and other accredited resources. The service is available for adults (18+) under a disclaimer and is not intended to replace a human physician.
+ 
+Asset tracking IoT markets and Artificial Intelligence (AI) enabled networking (including AI Medical Advisor platform and potential products)
+ 
+The applications for the Company’s solutions include segments such as public sector, healthcare sector, banking financial services and insurance (BFSI) sector, transport and logistics sector, retail sector, commercial sector, industrial sector, energy and utility sector, manufacturing sector and other sectors. 
+ 
+Asset tracking IoT and Artificial Intelligence (AI) enabled networking (including AI Medical Advisor platform and potential products) competition
+ 
+The prevailing AI solutions in the marketplace currently are a combination of barcoding and RFID technologies. Existing solutions require that the asset is near the scanner to be scanned. Further, such existing solutions are “point to point,” meaning they require repeated scan points along a route in order to update the location of the asset. The GopherInsight platform, including the Guardian Patch solution, is designed to be more accurate and when placed on or into the asset, has the ability to interactively locate and update information on an asset anywhere on earth. It works through a Gopher-enabled global mesh network, does not need GPS or GSM to locate the package, and is regularly transmitting information on the asset, meaning that there is no need to frequently re-scan the asset to update its location. In addition, the Company’s solutions are planned to include resource and distributed database management features which are not normally found in IoT systems.
+ 
+There are many competitors supplying AI standalone, and AI asset tracking and asset tracking IoT systems today, including companies such as AT&T, IBM and Verizon. It is Company’s goal to offer the GopherInsight platform to some or all of these competitors to upgrade and differentiate their solutions.
+ 
+3
+
+ 
+
+Wireless mesh networking
+ 
+Wireless mesh networks consist of LAN/MAN/WAN solutions that are infrastructural-intensive, may rely on regulated frequencies and bandwidth, often have so-called “last mile” problems areas where either economics or population density make it too expensive for current solutions to cover, and difficult to manage centrally. The Company’s GopherInsight platform makes it easy to add and manage last mile capacity. The solution is easily integrated into existing networks. The Company’s Avant! AI platform is designed for easy integration with, and management of, additional coverage for customer networks.
+ 
+Additionally, the Company will be targeting device manufacturers as strategic technology partners and OEMs. If a mobile phone manufacturer wishes to add GopherInsight to is devices, GopherInsight allows devices to communicate without the need for an internet service provider, thus dramatically reducing costs.
+ 
+Wireless mesh networking markets
+ 
+The Company will target telecommunications providers, corporate entities that run LAN or wide-area networks, universities, and government entities. 
+ 
+Wireless mesh networking markets competition
+ 
+The competitors for wireless mesh networking solutions, and AI solutions, are the entities themselves that have their own capability. The Company’s strategy is to integrate and “wrap around” those solutions to make them more efficient, less costly, and less infrastructural-intensive, while at the same time solving last mile problems to the end user.
+ 
+Mobiquity Agreements
+ 
+On September 4, 2018, the Company and Mobiquity Technologies, Inc., a New York corporation (“Mobiquity”) entered an agreement pursuant to which the parties exchanged equity interest in each of the companies. In accordance with the agreement, the Company received 1,000 shares of Mobiquity’s restricted Series AAAA Preferred Stock (the “Mobiquity Preferred Stock”) in consideration of Company’s concurrent sale and issuance to Mobiquity of 10,000,000 shares of Company’s common stock. The shares of Mobiquity Preferred Stock are convertible into an aggregate of up to 100,000,000 shares of Mobiquity common stock (the “Mobiquity Common Stock”) and 150,000,000 common stock purchase warrants (the “Mobiquity Warrants”). The Mobiquity Warrants shall have a term of 5 years from the date of grant and shall be exercisable at a price of $0.12 per share and the shares of Mobiquity Preferred Stock shall not be convertible into shares of Mobiquity Common Stock and the Mobiquity Warrants shall not be contemporaneously granted until after Mobiquity’s Board of Directors and stockholders shall have increased the authorized number of shares of Mobiquity’s common stock to a number sufficient to accommodate a reserve in the Company’s favor of 250,000,000 shares of Mobiquity’s common stock. The Mobiquity Preferred Stock shall have immediate voting rights equal to the number of shares of Mobiquity Common Stock into which they may be converted, not including the shares of Mobiquity’s common stock underlying the Mobiquity Warrants.
+ 
+4
+
+ 
+
+On November 19, 2018, the Company and Mobiquity entered into an Amendment and Exercise Letter waiving the requirement that Mobiquity’s Board of Directors and stockholders increase the authorized number of shares of Mobiquity’s common stock to a number sufficient to accommodate a reserve in the Company’s favor of 250,000,000 shares of Mobiquity’s common stock prior to the conversion of the Mobiquity Preferred Stock or exercise of the Mobiquity Warrants. In addition, the Company converted 200 shares of Mobiquity Preferred Stock resulting in the issuance to the Company by Mobiquity of 20,000,000 shares of Mobiquity Common Stock and 30,000,000 Mobiquity Warrants. The Company exercised the 30,000,000 Mobiquity Warrants at an exercise price of $0.12 per share of common stock, payable through of the issuance to Mobiquity of 10,000,000 shares of common stock of the Company.
+ 
+In addition, the Company issued 20,000 shares of common stock to Glen Eagles Acquisition LP (“GEAL”) in consideration of its consulting services associated with the negotiation of the number of shares of common stock to be delivered to Mobiquity upon exercise of the Mobiquity Warrants.
+ 
+As a result of the transaction on September 4, 2018, the Company had an approximate 21% interest in Mobiquity and began to account for its investment in Mobiquity using the equity method of accounting. During the fourth quarter of 2018, Mobiquity issued additional shares of common stock resulting in the Company’s ownership in Mobiquity dropping to approximately 18% at December 31, 2018. The Company determined that during the fourth quarter of 2018 that it did not exercise significant influence over Mobiquity due to its decreased ownership percentage and the Company’s intent to begin selling shares of Mobiquity common stock that will further decrease its ownership percentage. As a result, during the fourth quarter of 2018 the Company began accounting for its investment in Mobiquity as a marketable equity security.
+ 
+On February 6, 2019, the Company entered into a letter agreement with Gopher Protocol Costa Rica Sociedad De Responsabilidad Limitada, a Costa Rican company (“Gopher CR”) and a 50% owned subsidiary of the Company, pursuant to which the Company sold 30,000,000 shares of Mobiquity Technologies, Inc., a New York corporation (“Mobiquity”) to Gopher CR in the principal amount of $5,000,000 secured by all of the assets of Gopher CR payable with 10% interest on the two year anniversary
+ 
+On May 10, 2019, the Company entered into a Membership Interest Purchase Agreement with GEAL pursuant to which the Company acquired 49% of the membership interest in Advangelists, LLC (the “AVNG Interest”) in consideration of the assumption of a Promissory Note payable by GEAL to the former owners of the AVGN Interest with an outstanding balance of $7,475,000 (the “AVNG Note”) and cancellation of an outstanding Promissory Note payable by GEAL to the Company in the amount of $1,200,000 originally issued on March 1, 2019. Concurrently, the Company entered into a Membership Interest Purchase Agreement with Mobiquity pursuant to which the Company sold the AVNG Interest to Mobiquity in consideration of Mobiquity assuming the AVNG Note and Mobiquity amending the terms of the Remaining Mobiquity Warrant providing for cashless exercise.
+ 
+The Company paid 60,000,000 of its Mobiquity shares as partial consideration for the purchase of GBT Technologies, S. A.
+ 
+On August 6, 2019, Mobiquity delivered a counter signed letter agreement dated August 2, 2019 pursuant to which the Company exchanged 120,000,000 Mobiquity Warrants into 20,000,000 shares of Mobiquity common stock, which resulted in the Company holding 60,000,000 shares of Mobiquity common stock.
+ 
+On September 10, 2019, the Company entered into (i) a Stock Purchase Agreement with Mobiquity pursuant to which the Company agreed to return 15,000,000 shares of Mobiquity common stock to Mobiquity in exchange for 110,000 shares of common stock of the Company, (ii) a Stock Purchase Agreement with Marital Trust GST Subject U/W/O Leopold Salkind (“Salkind Trust”) pursuant to which the Company agreed to sell 7,000,000 shares of Mobiquity common stock to Salkind Trust in consideration of $67,200, (iii) Stock Purchase Agreement with Dr. Gene Salkind (“Salkind”) pursuant to which the Company agreed to sell 28,000,000 shares of Mobiquity common stock to Salkind in consideration of $268,000 and (iv) a Stock Purchase Agreement with Deepanker Katyal (“Katyal”) pursuant to which the Company agreed to sell 10,000,000 shares of Mobiquity common stock to Katyal in consideration of 90,000 shares of common stock of the Company. The closing of the agreements occurred on September 13, 2019. As a result of these transactions, the Company realized a loss on the sale of Mobiquity common stock of $3,673,595. At December 31, 2019, the Company owned no shares of Mobiquity common stock.
+ 
+Surge Holdings, Inc.
+ 
+On September 30, 2019, the Company entered into an Asset Purchase Agreement with Surge Holdings, Inc., a Nevada corporation (“SURG”) pursuant to which the Company agreed to sell and assign to SURG, all the assets and certain specified liabilities, of its ECS Prepaid, Electronic Check Services and the Central State Legal Services businesses in consideration of $5,000,000 to be paid through the issuance of 3,333,333 shares of SURG’s common stock (See Note 14 for pledge to third party) and a convertible promissory note in favor of the Company in the principal amount of $4,000,000 (the “SURG “Note”), convertible into SURG’s shares of common stock following the six-month anniversary of the issuance date. The conversion price of the SURG Note is the volume weighted-average price of SURG’s common stock over the 20 trading days prior to the conversion; provided, however, the conversion price shall never be lower than $0.10 or higher than $0.70. The Company has agreed to restrict its ability to convert the SURG Note and receive shares of common stock such that the number of shares of common stock held by it in the aggregate and its affiliates after such conversion does not exceed 4.99% of the then issued and outstanding shares of common stock. The SURG Note is payable by SURG to the Company on the 18-month anniversary of the issuance date and does not bear interest.
+ 
+5
+
+ 
+
+GBT Technologies, S.A. (“GBT”)
+ 
+On September 14, 2018, the Company entered into an Exclusive Intellectual Property License and Royalty Agreement (the “GBT License Agreement”) with GBT, a fully compliant and regulated cryptocurrency exchange platform that currently operates in Costa Rica as a decentralized cryptocurrency platform, pursuant to which, among other things, the Company granted to GBT an exclusive, royalty-bearing right and license relating intellectual property relating to systems and methods of converting electronic transmissions into digital currency as reflected in that certain patent filed with the United Stated Patent and Trademark Office on or about June 14, 2018 (EFS ID: 32893586; Application Number: 16008069; collectively, the “Digital Currently Technology”). Pursuant to the GBT License Agreement, the Company granted GBT an exclusive worldwide license to use the Digital Currency Technology to make, use, sell, lease or otherwise commercialize and dispose of products and devices utilizing the Digital Currently Technology.
+ 
+Under the terms of the GBT License Agreement, the Company is entitled to receive a royalty payment of 2% of gross revenue of each licensed product sold by GBT during the period starting in which revenue is first generated using the licensed products and continuing for five years thereafter. Upon signing the GBT License Agreement, GBT paid the Company $300,000, which is nonrefundable. The Company has recognized the $300,000 as revenue during the year ended December 31, 2018. Upon GBT making available for sale (the “Commercial Event”) an ICO (Initial Coin Offering) (the “Coin”), GBT will make a payment to the Company in the amount of $5,000,000. Further, upon the Commercial Event, GBT will grant the Company the ability to acquire 30% of the Coin at a 30% discount of such offering price of the Coin. The GBT License Agreement commenced as of the signing date and, unless terminated in accordance with the termination provisions of the GBT License Agreement, shall remain in force until the expiration of the patent pertaining to the Digital Currency Technology; provided that the right to use trade secrets shall survive the expiration of the GBT License Agreement provided the Company has not terminated. Prior to the signing of the GBT License Agreement, GBT advanced $200,000 to the Company, which the parties have agreed will be applied toward the $5,000,000 fee when it becomes due. The $200,000 is recorded as unearned revenue at December 31, 2019 in the accompanying consolidated balance sheet. As of the date of this filing, the Commercial Event has not yet occurred.
+ 
+On June 17, 2019, the Company, Altcorp Trading LLC, a Costa Rica company and a wholly-owned subsidiary of the Company (“Altcorp”), GBT Technologies, S.A., a Costa Rica company (“GBT-CR”) and Pablo Gonzalez, a shareholder’s representative of GBT-CR (“Gonzalez”), entered into and closed an Exchange Agreement (the “GBT Exchange Agreement”) pursuant to which the parties exchanged certain securities. In accordance with the Exchange Agreement, Altcorp acquired 625,000 shares of GBT-CR representing 25% of its issued and outstanding shares of common stock from Gonzalez in exchange for the issuance of 20,000 shares of Series H Convertible Preferred Stock of the Company and a Convertible Note in the principal amount of $10,000,000 issued by the Company (the “Gopher Convertible Note”) as well as the transfer and assignment of a Promissory Note payable by Gopher Protocol Costa Rica Sociedad De Responsabilidad Limitada to the Company in the principal amount of $5,000,000 dated February 6, 2019 (of which the underlying security for this Promissory Note is 30,000,000 restricted shares of common stock of Mobiquity) and 60,000,000 restricted shares of common stock of Mobiquity.
+ 
+The Gopher Convertible Note bears interest of 6% per annum and is payable at maturity on December 31, 2021. At the election of Gonzalez, the Gopher Convertible Note can be converted into a maximum of 20,000 shares of Series H Preferred Stock. Each share of Series H Preferred Stock is convertible, at the option of the holder but subject to the Company increasing its authorized shares of common stock, into such number of shares of common stock of the Company as determined by dividing the Stated Value ($500 per share) by the conversion price ($10.00 per share).  The Series H Preferred Stock has no liquidation preference, does not pay dividends and the holder of Series H Preferred Stock shall be entitled to one vote for each share of common stock that the Series H Preferred Stock may be convertible into. Upon conversion of the Gopher Convertible Note and the 20,000 shares of Series H Preferred Stock, Gonzalez would be entitled to less than 50% of the resulting outstanding shares of common stock of the Company following conversion in full and, as a result, such transaction is not considered a change of control.
+ 
+GBT-CR is in the business of the strategic management of BPO (Business Process Outsourcing) digital communications processing for enterprises and startups, distributed ledger technology development, AI development and fintech software development and applications.
+ 
+The Company accounts for its investment in GBT-CR using the equity method of accounting.
+ 
+6
+
+ 
+
+Latinex
+ 
+On January 8, 2019, the Company entered into a Stock Pledge Agreement with Latin American Exchange Latinex Casa de Cambio, S.A., a Costa Rica corporation (“Latinex”), to provide that Latinex may maintain its required regulatory capital as required by various regulators. The Company has pledged 200,267 restricted shares of its common stock valued at $7,610,147 (based on the closing price on the grant date) for a term of three years in consideration of an annual payment of $375,000 paid in quarterly installments of $93,750. In lieu of cash payment, Latinex may pay the Company in virtual currency of WISE Network S.A. valued at a 50% discount of its offering price of $10 per token. In the event that Latinex’s required capital has decreased below $5,000,000, Latinex is permitted to sell the pledged shares of common stock only in an amount to ensure that Latinex can satisfy the required capital levels. The Company must consent to such sale of the shares of common stock, which may not be unreasonably withheld. Upon expiration of the agreement, the remaining shares of common stock shall be returned to the Company free and clear of all liens. The Company has recorded the value of these shares of common stock as a stock loan receivable which is presented as a contra-equity account in the accompanying consolidated balance sheets.
+Joint Ventures
+ 
+GBT BitSpeed
+ 
+On October 10, 2019, the Company entered into a Joint Venture Agreement (the “BitSpeed Agreement”) with BitSpeed LLC, which is owned by Douglas Davis, the Company’s Chief Executive Officer, to form GBT BitSpeed Corp., a Nevada company (“GBT BitSpeed”). The purpose of GBT BitSpeed is to develop, maintain and support its proprietary Extreme Transfer Software Application Concurrency, a software application to transfer secure, accelerated transmission of large file data over networks, and connection to cloud storage, Network-Attached Storage (NAS) and Storage Area Networks (SANs) (“Concurrency”). BitSpeed shall contribute the services and resources for the development of Concurrency to GBT BitSpeed. The Company shall contribute 10 million shares of common stock (valued at $17,900,000) of the Company to GBT BitSpeed. BitSpeed and the Company will each own 50% of GBT BitSpeed. The Company shall appoint two directors and BitSpeed shall appoint one director of GBT BitSpeed. In addition, GBT BitSpeed and Mr. Davis entered into a Consulting Agreement in which Mr. Davis is engaged to provide services in consideration of $10,000 per month payable quarterly which may be paid in shares of common stock calculated by the amount owed divided by the Company’s 20-day VWAP. Mr. Davis will provide services in connection with the development of the business as well as GBT BitSpeed’s capital raising efforts. The term of the Consulting Agreement is two years. The closing of the BitSpeed Agreement occurred on October 14, 2019.
+ 
+At December 31, 2019, the Company evaluated the carrying amount of this joint venture investment and determined that an impairment charge of $17,900,000 was necessary.
+ 
+GBT Tokenize
+ 
+On March 6, 2020, the Company through its newly acquired wholly owned subsidiary, Greenwich International Holdings, a Costa Rica corporation (“Greenwich”), entered into a Joint Venture and Territorial License Agreement (the “Tokenize Agreement”) with Tokenize-It, S.A. (“Tokenize”), which is owned by a Costa Rica Trust represented by Pablo Gonzalez (“Gonzalez”). Gonzalez also represents Gonzalez Costa Rica Trust, which holds a note in the principal amount of $10,000,000 and is also a shareholder of the Company. Under the Tokenize Agreement, the parties formed GBT Tokenize Corp., a Nevada corporation (“GBT Tokenize”). The purpose of GBT Tokenize is to develop, maintain and support source codes for its proprietary technologies including advanced mobile chip technologies, tracking, radio technologies, AI core engine, electronic design automation, mesh, games, data storage, networking, IT services, business process outsourcing development services, customer service, technical support and quality assurance for business, customizable and dedicated inbound and outbound calls solutions, as well as digital communications processing for enterprises and startups (“Technology Portfolio”), throughout the State of California. Upon generating any revenue from the Technology Portfolio, the Joint Venture will earn the first right of refusal for other territories.
+ 
+Tokenize shall contribute the services and resources for the development of the Technology Portfolio to GBT Tokenize. The Company shall contribute 100,000,000 shares of common stock of the Company (“GBT Shares”) to GBT Tokenize. Tokenize and the Company will each own 50% of GBT Tokenize. The Company pledged its 50% ownership in GBT Tokenize and its 100% ownership of Greenwich to Tokenize to secure its Technology Portfolio investment. The Company shall appoint two directors and Tokenize shall appoint one director of GBT Tokenize.
+ 
+In addition, GBT Tokenize and Gonzalez entered into a Consulting Agreement in which Gonzalez is engaged to provide services in consideration of $33,333.33 per month payable quarterly which may be paid in shares of common stock calculated by the amount owed divided by the Company’s 10-day VWAP. Gonzalez will provide services in connection with the development of the business as well as GBT Tokenize’s capital raising efforts. The term of the Consulting Agreement is two years. The closing of the Tokenize Agreement occurred on March 9, 2020.
+ 
+7
+
+ 
+
+Dr. Rittman Employment Agreement
+ 
+On April 6, 2018, the Company and Danny Rittman, Chief Technology Officer and a Director of the Company, agreed to amend his employment agreement pursuant to which he will receive salary at the rate of $250,000 annually payable in equal increments of $15,000 per month.  An additional $70,000 shall be payable within 15 days of the end of the calendar year. On September 14, 2018, the Company and Dr. Rittman entered into a letter agreement confirming that the Company is the owner of all intellectual property developed by Dr. Rittman relating to the Internet of Things (IoT) and Artificial Intelligence enabled mobile technologies, including a global platform with both mobile and fixed solutions, commencing June 16, 2015 and continuing until Dr. Rittman’s employment agreement is terminated. 
+Guardian Agreements
+ 
+On September 25, 2018, the Company entered into a Joint Venture Interest Purchase Agreement with Guardian Patch LLC pursuant to which the Company purchased Guardian LLC’s 50% interest in a joint venture (the “JV Interest”) previously entered between the parties in March 2016 covering the Guardian Patch, Puzpix and Epsilon. In consideration for the JV Interest, the Company issued Guardian 125,000 shares of common stock. During the year ended December 31, 2018, the Company took a charge to earnings of $11,750,000 related to the purchase of Guardian LLC’s 50% JV Interest.
+ 
+On July 8, 2019, the Company entered a Consulting Agreement with Glen Eagles Glen Eagles Acquisition LP (“Glen”) as consultant to provide services in connection with the Company’s acquisition of 25% of GBT Technologies, S.A., a Costa Rican corporation (“GBT-CR”). Consultant will provide analysis, interaction with related professional and other services as requested by the Company to integrate and expand capabilities between GBT-CR and the Company. The Company shall pay Glen $1,000,000 through the issuance of a 6% Convertible Note. At the election of Glen, the Convertible Note can be converted into a maximum of 2,000 shares of Series H Preferred Stock. Each share of Series H Preferred Stock is convertible, at the option of the holder but subject to the Company increasing its authorized shares of common stock, into such number of shares of common stock of the Company as determined by dividing the Stated Value ($500 per share) by the conversion price ($10.00 per share).  The Series H Preferred Stock has no liquidation preference, does not pay dividends and the holder of Series H Preferred Stock shall be entitled to one vote for each share of common stock that the Series H Preferred Stock may be convertible into. In addition, the Company enter into an Amendment of a Common Stock Purchase Warrant held by Glen to acquire nine million shares of common stock that had been assigned to Glen by Guardian Patch LLC. Pursuant to the amendment, the Company agreed to provide that the Common Stock Purchase Warrant may be exercised on a cashless basis and provided a beneficial ownership limitation of 4.99%. As a result of the above Guardian Patch LLC does not hold any securities or debts of the Company.
+ 
+Regulatory
+ 
+The Company has commenced development, and the Company has completed the Statement of Work (SOW) for the Federal Communications Commission (“FCC”) survey to deploy the Company’s Guardian Global Tracking Device within the continental US. The Company has also completed their transmitters/transceivers modules feasibility research. Although the Company can use open channels, and therefore is not required to comply with various FCC regulations relevant to the system, the Company has chosen to comply, and is complying with FCC regulations. The FCC regulates the limits of potentially harmful interference to licensed transmitters due to low power unlicensed transmitters. The Company tracking device system consists of advanced security protocols in order to maintain the global, private, fully-secured network. In addition, the device needs to perform communication tasks across the globe providing breakthrough tracking features. The Company successfully completed thorough research that involved security, performance and FCC regulations compliance. The Company completed the design and construction of the device circuit prototype device. The Company has completed the construction of 10 prototype units, and performed intensive testing program to be tested as a complete system in designated areas by the Company.
+ 
+8
+
+ 
+
+Intellectual Property
+ 
+To date, the Company, has filed for different patents covering certain fields of its technologies, as well as trademarks. The patents are owned by the Company. These patents and trademarks, as well as various websites and social media platforms, comprise the Company’s intellectual properties. On February 27, 2020 GBT Technologies, S.A., as successor in interest to Hermes Roll, LLC had notified the Company that it was in default on its Amended and Restated Territorial License Agreement (“ARTLA”) dated June 15, 2015 and that the ARTLA had been cancelled and rescinded.
+ 
+On January 31, 2020, in the arbitration titled GBT Technologies Inc. (k/n/a Gopher Protocol, Inc. v. Discover Growth Fund, LLC (“Discover”) (JAMS Ref. No. 1260005395), the Company was informed that a final award was entered (the “Final Award”). The Final Award affirms that certain sections of the Senior Secured Redeemable Convertible Debenture (the “Debenture”) constitute unenforceable liquidated damages penalties and were stricken. Further, it was determined that neither Discover nor John Kirkland, President and General Partner of Discover, were entitled to recovery of their attorneys fees. Consequently, and consistent with the expectations of the Company, the arbitrator awarded Discover an award of $4,034,444.46 plus interest of 7.25% accrued from May 15, 2019 and costs in the amount of $55,613.00. On February 18, 2020, the Company filed a motion with the United States District Court District of Nevada (the “Nevada Court”) to confirm the Final Award and a motion to consolidate Discover’s application to confirm the Final Award filed in the U.S. District Court of the Virgin Islands (Case No: 3 :20-cv-00012-CVG-RM) (the “Virgin Island Court”). On February 27, 2020, the Nevada Court denied the Company’s motion to confirm the Final Award and motion to consolidate and further decided that the confirmation of the Final Award should be litigated in the Virgin Island Court. As such, on February 27, 2020, the Company filed a Notice of Entry of Order as well as a Motion to Confirm the Arbitration Award; Address the Outstanding issue regarding whether Discover’s rights are subordinated to other creditors and, thereafter, oversee a commercially reasonable foreclosure sale (Case No: 3 :20-cv-00012-CVG-RM). It was the Company’s position that the Final Award must first be confirmed and all questions regarding the rights of Discover relative to those of other creditors must be determined before any foreclosure sale can proceed. It was further the position of the Company that the previously disclosed foreclosure sale scheduled by Discover is being conducted in a commercially unreasonable manner and that if Discover proceeded forward with the foreclosure sale it did so at its own risk.
+ 
+Nevertheless, on February 28, 2020, Discover advised that it conducted a sale of the Company’s assets.
+ 
+On March 6, 2020, the Company through its newly acquired wholly owned subsidiary, Greenwich International Holdings, a Costa Rica corporation (“Greenwich”), entered into a Joint Venture and Territorial License Agreement (the “Tokenize Agreement”) with Tokenize-It, S.A. (“Tokenize”) to develop, maintain and support source codes for its proprietary technologies including advanced mobile chip technologies, tracking, radio technologies, AI core engine, electronic design automation, mesh, games, data storage, networking, IT services, business process outsourcing development services, customer service, technical support and quality assurance for business, customizable and dedicated inbound and outbound calls solutions, as well as digital communications processing for enterprises and startups (“Technology Portfolio”),
+ 
+Employees
+ 
+As of December 31, 2019, we had 14 full time employees and 0 part time employees. We also utilize outside consultants and contractors as needed. 
+ 
+Clients and Customers
+ 
+After the acquisition of certain assets from RWJ Marketing Services LLC in September 2017, the Company via its subsidiary UGopherServices Corp. serving approximately 5,980 point of sale locations, with approximately 7,326 active members, each of which process varying volumes of transactions per month.
+ 
+9
+
+ 
+

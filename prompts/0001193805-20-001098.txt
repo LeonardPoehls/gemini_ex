@@ -1,0 +1,113 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+Schmitt Industries, Inc. (the “Company”) was founded in 1987. As a leader in precision testing and measurement products, Schmitt helps customers save money, increase production efficiency and improve product quality across a variety of industries.
+ 
+The Company’s current family of products includes the Acuity™ and XactTM product lines.
+ 
+Acuity products utilize both triangulation and time-of-flight measurement principles and are known for their speed and accuracy. Acuity products are used in a wide variety of industrial, commercial and research applications.
+ 
+Xact ultrasonic measurement technology monitors the fill levels of propane and other liquid tanks via satellite-connected devices. Together with the Xact gauge reader, Xact systems can detect and communicate fill levels, along with other information such as tank size and configuration, to customers through the “Internet of Things” ecosystem using our satellite provider and a secure website. Typical users of Xact systems are bulk propane, diesel, jet fuel suppliers and ammonia users and distributors.
+ 
+The Company was originally incorporated under the laws of British Columbia, Canada, in 1984 and was reincorporated under the laws of the State of Oregon in 1995. Schmitt is an ISO 9001 certified company. Schmitt trades on the Nasdaq Composite Index (the “NASDAQ”) under the ticker “SMIT”.
+ 
+As discussed further in Note 10, the Company’s former SBS business line was sold to Tosei Engineering Corp on November 22, 2019. After the sale of the SBS business, based on the types of products and services sold, and an analysis of how the Company reviews and manages operations, the Company determined that it operates as one reportable segment: Measurement (“Measurement”) Segment.
+ 
+As discussed further in Note 11, the Company now operates Ample Hills Creamery following the July 9, 2020 successful asset purchase of, among other things, Ample Hills’ equipment, inventory, and all intellectual property, including the names and marks of “AMPLE HILLS” and “AMPLE HILLS CREAMERY” and all derivatives thereof.
+ 
+Measurement Segment
+ 
+In the Measurement Segment, our measurement solutions support a wide range of industries through laser solution products, applications, and our tank monitoring products. These products and services include the Acuity and Xact product lines.
+ACUITY LASERS 
+ 
+Acuity sells products, solutions and services including laser and white light sensor distance, measurement and dimensional sizing products.
+ 
+Products and Services 
+ 
+Products sold under the Acuity brand include lasers utilizing both triangulation and time-of-flight methods of measurement, and confocal chromatic white light sensors. These lasers are used in a wide range of industrial applications including manufacturing, lumber production, steel casting, glass and paper production, medical imaging, crane control and micron-level part and surface inspection. 
+Page 3
+
+
+
+Customers and Markets 
+ 
+Acuity laser measurement sensors are used for fast and accurate dimensional measurement in a wide range of applications, including factory automation, surface profile scanning, crane positioning, road profiling, tire production, semiconductor manufacturing and many other industrial and commercial applications. 
+ 
+The market for Acuity lasers is growing as the industry moves from a products market to a solutions-based market as customers seek tailored solutions to solve complex problems in a range of industrial and manufacturing businesses. 
+ 
+Competition 
+ 
+The Company believes the principal elements of competition include quality of ongoing technical support and maintenance coupled with responsiveness to customer needs, as well as price, product quality, reliability and performance. The Acuity products market is extremely competitive, characterized by rapidly changing technology, and includes multinational competitors. Company pricing is intended to obtain market share and meet competitive supplier prices. The market strategy is to establish products with the best quality, reliability and performance and superior economic value. 
+XACT REMOTE TANK MONITORING SYSTEMS 
+ 
+Xact product line includes satellite focused remote tank monitoring products and related monitoring services for markets in the Internet of Things (“IoT”) environment. The products measure the fill levels of tanks holding propane, diesel and other tank-based liquids and the related monitoring services includes transmission of fill data from the tanks via satellite to a secure web site for display. 
+Products and Services 
+ 
+Xact Satellite Remote Tank Monitors include both ultrasonic and gauge reader sensors that provide remote fill level monitoring of propane, diesel and other tank-based liquids for tanks anywhere in the world. The Xact Tank Monitoring Systems are highly dependable, providing the ability to operate in a wide range of environments with temperatures ranging from -40ºC to 60ºC. The Xact systems can be used to monitor tanks as small as 125 gallons (473 liters) and as large as 90,000 gallons (340,686 liters). With Xact, users access timely and accurate remote tank data on a consistent schedule or by customized critical fill alarms to optimize inventory management processes.
+ 
+There are three main components to the Xact Tank Monitoring System: 
+ 
+Tank Sensors – Xact offers two sensors, the Xact Ultrasonic sensor and the Xact Gauge Reader. 
+ 
+The Xact Ultrasonic sensor incorporates patented technology and is externally mounted to the bottom of the tank with no reliance on existing mechanical gauges. The system employs a small electrical pulse, which is able to calculate the precise fill level inside using patented sonar technology (measurement accuracy to within ±2% for large tanks and ±1% for small tanks). Ultrasonic sensors work with any tank-based liquids including propane, diesel and natural gas. 
+ 
+The Xact gauge reader connects to the face of a float gauge and detects the fill level that is reported by the gauge. The system then transmits that data by satellite in the same manner as the Ultrasonic sensor. Float gauges have a typical accuracy range of ±4% to ±8%. Gauge readers are primarily used in the propane industry to monitor propane tanks and support refill optimization for distributors and customers. 
+ 
+Satellite Radio Transmitter – The Xact radio transmitter is placed on the top of the tank and is connected by cable to the tank sensor or gauge reader. The transmitter transmits the tank data using the GlobalStar® satellite network to the secure Xact website. Xact satellite telemetry provides global coverage with no dependence on land lines, cellular networks or Wi-Fi signals, making it a reliable monitoring solution for tanks located anywhere in the world. 
+ 
+Xact Website – The Xact website is a secured location providing controlled access to the tank data for each customer’s various tank locations. Customers can access the website to check fill levels and additional information such as temperature, battery status, GPS coordinates and map location. In addition, the data can also be integrated into customer back-office software via API. This integration can be automatically directed to a customer’s inventory or delivery management system for full automation of the delivery process.
+Page 4
+
+
+
+Customers and Markets 
+ 
+Accessing accurate fill level information is essential to effectively manage inventory, improve delivery efficiency, reduce operating costs and increase profitability, and justify capital expenditures for fuel providers. Xact focuses on niche satellite solutions, which separates it from intense competition in the cellular monitoring industry. To reach our customers and fill gaps in cellular monitor customers, Xact partners with select cell providers in providing our Xact solution. Given our niche market, Xact is well positioned to partner with various providers to offer a full range solution. 
+ 
+Customers of the Xact Tank Monitoring System include large, regional and local propane distributors, such as Superior Propane (Canada), Suburban Propane (U.S.), AmeriGas (U.S.), Dassel Petroleum (U.S.) and TermoGas (Mexico). The Company is currently focusing its business development efforts on the propane industry in the United States and Canada. 
+ 
+Competition 
+ 
+Competitors offer telemetry options based on cellular or closed-loop communication networks, whereas Xact telemetry is satellite based. General tank monitoring competitors include: Anova (Wesroc), NasCorp (SkyTracker), WACnGO, Silicon Controls, TankScan, SkyBitz, Otodata, Angus Energy (Gremlin), and Tank Utility. Competitors that offer satellite telemetry include Anova (WESROC), NasCorp (SkyTracker), and Micro-Design, Inc. (LevelCon).
+ Business and Marketing Strategy
+ 
+The Company designs, manufactures and markets all of its products with operations divided into a number of different channels and geographies. 
+ 
+Measurement Segment Products
+ 
+The Measurement segment uses a variety of methods to market and sell its products. Primarily, our sales and marketing managers direct the overall worldwide sales and marketing efforts for the Acuity and Xact products, including the employment and management of representatives and distributors in various markets. 
+Backlog
+ 
+Backlog is not a reliable indicator of Company performance. Normally, orders are shipped within one to three weeks after receipt unless the customer requests otherwise.
+ 
+Manufacturing
+ 
+The Company uses a variety of sources for the supply of raw materials for the product lines. Essential electronic components, available in large quantities from various suppliers, are assembled electronic control units under the Company’s quality and assembly standards. Company-owned software and firmware are coupled with the electronic components to provide the basis of the Company’s various electronic control units. Management believes several supply sources exist for all electronic components and assembly work incorporated into its electronic control systems. Mechanical parts for the Company’s products are produced by high quality machine shops. The Company is not dependent on any one supplier of mechanical components. In the event of supply problems, the Company believes that two or three alternatives could be developed within 30 days. The Company is subject to availability and pricing on the various component parts purchased, which has had, and may continue to have, a material impact on operations.
+ 
+The Company uses in-house skilled assemblers to construct and test vendor-supplied components. Component inventory of finished vendor-supplied parts is held on Company property to assure adequate flow of parts to meet customer order requirements. Inventory is monitored by a computer control system designed to assure timely re-ordering of components. In-house personnel assemble various products and test all finished components before placing them in the finished goods inventory. Finished goods inventory is maintained via computer to assure timely shipment and service to customers. All customer shipments are from the finished goods inventory.
+ 
+The Company’s Quality Control Program first received full ISO 9001 certification in 1996. In 2005, the Company received its certification to the newer ISO 9001:2000 requirements and received subsequent recertification and is current as of Fiscal year end 2020 with ISO 9001:2015 requirements.
+ 
+Page 5
+
+
+
+Proprietary Technology
+ 
+The Company's success depends, in part, on its proprietary technology, which the Company protects through patents, copyrights, trademarks, trade secrets and other measures. Several patents, trademarks and copyrights currently protect this proprietary technology. The Company has a policy of seeking patents, where appropriate, on inventions concerning new products and improvements developed as part of its ongoing research, development and manufacturing activities. While patents provide certain legal rights of enforceability, there can be no assurance the historic legal standards surrounding questions of validity and enforceability will continue to be applied or that current defenses with respect to issued patents will, in fact, be considered substantial in the future. There can be no assurance as to the degree and range of protection any patent will afford and whether patents will be issued or the extent to which the Company may inadvertently infringe upon patents granted to others.
+ 
+The Company also relies upon trade secret protection for its confidential and proprietary information. There can be no assurance that others will not independently develop substantially equivalent proprietary information and techniques or otherwise gain access to the Company's trade secrets or disclose such technology or that the Company can meaningfully protect its trade secrets. 
+ 
+While the Company pursues patent, trademark, trade secret and copyright protection for products and various trademarks, it also relies on know-how and continuing technology advancement, manufacturing capabilities, affordable high-quality products, new product introduction and direct marketing efforts to develop and maintain its competitive position.
+ 
+Product Development
+ 
+The Company maintains an ongoing research and development program to expand the product lines and capabilities of its business segments. During Fiscal 2020 and 2019, the Company’s research and development expense totaled $68,847 and $56,833, respectively.
+Employees
+ 
+As of May 31, 2020, the Company employed 18 individuals, none of which were covered by a collective bargaining agreement.
+ 

@@ -1,0 +1,318 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+​
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by the use of the words such as “anticipates,” “believes,” “continue,” “could,” “would,” “estimates,” “expects,” “intends,” “may,” “might,” “plans,” “potential,” “should,” or “will” and similar expressions or the negative of those terms. The forward-looking statements include, but are not limited to, statements regarding: the impact of the COVID-19 pandemic on our business, employees and customers; our SaaS only business model and our belief that it affords recurring revenue visibility, more predictability and 50% faster time to value to SaaS clients; our belief that SaaS revenue better reflects business momentum; expectations regarding our revenue, including visibility and predictability; our beliefs regarding the value of our platform; the opportunities afforded by automation of contact centers, innovation in cloud and growing API economy; our business strategies; the effect of changes in macroeconomic factors beyond our control; our ability to predict subscription renewals or upgrade rates; our lengthy sales cycles and the difficulty in predicting timing of sales or delays; competition in the markets in which we do business and our competitive advantages; our expectations regarding the composition of our customers and the result of a loss of a significant customer; our beliefs regarding our prospects for our business; the adequacy of our capital resources and our ability to raise additional financing; the development and expansion of our strategic and third party distribution partnerships and relationships with systems integrators; legal liability or the effect of negative publicity for the services provided to consumers through our technology platforms; our ability to compete; the operational integrity and maintenance of our systems; the effect of unauthorized access to a customer’s data or our data or our IT systems and cybersecurity attacks; the uncertainty of demand for our products; our beliefs regarding the attributes and anticipated customer benefits of our products; the actual mix in new business between subscription and license transactions; our ability to increase the profitability of our recurring products and services; our ability to increase revenue as a result of the increased investment in sales and marketing; our ability to hire additional personnel and retain key personnel; our ability to expand and improve our sales performance and marketing activities; our ability to manage our expenditures and estimate future expenses, revenue, and operational requirements; the effect of changes to management judgments and estimates; the impact of any modification to our pricing practices in the future; our beliefs regarding our international operations; our ability to timely adapt and comply with changing European regulatory and political environments; uncertainty relating to the implementation and effect of Brexit; the effect of recent changes in U.S. tax legislation; the effect of compliance with California privacy laws and regulations on our business and our customers; our inability to successfully detect weaknesses or errors in our internal controls; our ability to take adequate precautions against claims or lawsuits made by third parties, including alleged infringement of proprietary rights; the potential impact of foreign currency fluctuations; the impact of accounting pronouncements and our critical accounting policies, judgments, estimates, models and assumptions on our financial results; and our expectations with respect to revenue, cost of revenue, expenses and other financial metrics. 
+​
+Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expected. These risks and uncertainties include, but are not limited to, those risks discussed in Item 1A “Risk Factors” in this report, as well as the effect of the COVID-19 pandemic on our business; our ability to manage our business plans, strategies and outlooks and any business-related forecasts or projections; our ability to effectively implement and improve our current products; our ability to innovate and respond to rapid technological change and competitive challenges; customer acceptance of our existing and future products; the impact of new legislation or regulations, or of judicial decisions, on our business; legal and regulatory uncertainties and other risks related to protection of our intellectual property assets; our ability to compete against third parties; the success of our partnerships; our ability to obtain capital when needed; the economic environment; our history of operating losses; our ability to manage future growth; the market price of our common stock; and foreign currency fluctuations. These forward looking statements speak only as of the date hereof. We expressly disclaim any obligation or undertaking to update any forward-looking statements contained herein to reflect any change in our expectations with regard thereto or any change in events, conditions or circumstances on which any such statement is based. 
+​
+All references to “eGain”, the “Company”, “our”, “we” or “us” mean eGain Corporation and its subsidiaries, except where it is clear from the context that such terms mean only this parent company and exclude subsidiaries. 
+​
+eGain and the eGain® are trademarks of eGain Corporation. We also refer to trademarks of other corporations and organizations in this report
+
+3
+
+
+
+Overview 
+​
+eGain automates customer engagement with an innovative Software as a service (SaaS) platform, powered by deep digital, Artificial intelligence (AI), and knowledge capabilities. We are headquartered in the United States. We also operate in United Kingdom and India. We sell mostly to large enterprises across financial services, telecommunications, retail, government, healthcare, and utilities. With our mantra of AX + BX + CX = DX™, we guide clients to effortless Digital experience (DX) by holistically optimizing Agent experience (AX), Business experience (BX) and Customer experience (CX). One hundred fifty leading brands use eGain cloud software to improve customer satisfaction, empower agents, reduce service cost and boost sales. 
+​
+Industry Background 
+Introduction
+​
+Customer relationship management (CRM) tools are not designed to serve as systems of engagement because they are primarily systems of record. They do not offer rich applications to engage customers across digital touch points, nor do they escalate conversations with context across self-service to agent assistance. Furthermore, CRM systems mostly view knowledge management as traditional document management - a big content model that does not work the personalized, media-rich, and content-heavy digital world. Frontline agents, in the CRM worldview, are supposed to have super-human capacity to retain and routinely refresh all relevant knowhow across complex, expanding product portfolios and compliance-heavy processes. Finally, the concept of in-band guidance for customer self-service and agent assistance is foreign to CRM systems. The reality of CRM desktops in contact centers today, we believe, is that agents ignore 90% of the data piled up their application screens—most of which is hidden behind multiple tabs. According to Gartner, 84% of agents surveyed are not satisfied with their desktop tools. It is time to reimagine the Agent Experience.
+Digital Economy Demands Modern Software
+​
+In a world selling commoditized products to information-rich customers short on time, smart engagement must automate the routine and augment the interesting across agent, business and customer. Therefore, businesses are increasingly seeking digital-first, modern software platforms to layer on top of their traditional systems like CRM, contact centers, and content management. Customer engagement platforms must be designed to be systems of engagement, enabling rapid innovation, delivering quick value and integrating with systems of record across the enterprise. Agile, comprehensive, scalable, and cost-effective, they must demonstrably automate customer self-service, empower agents and easily orchestrate contact center operation in an omnichannel environment.
+AI-Knowledge Powered Customer Engagement Automation
+​
+Energized by big-data, cloud-computing and open-source technologies in a digital world, AI-Knowledge can deliver transformational value, within a digital-first, omnichannel customer interaction framework. Smart, connected experiences can be automated to successfully resolve majority of customer interactions in most B2C businesses. The pressing challenge for solution buyers, however, is to separate the wheat from the chaff as they look for trusted, innovative and aligned partners. They seek sustained product leadership, at-scale proof points and no-risk trials.
+Contact Centers are the Battleground
+​
+Contact centers offer a significant opportunity to automate customer engagement. Globally, there are close to 15 million contact center agents. Time-starved customers consuming complex products and grappling with marketing offers generate stubbornly high levels of customer contact. Furthermore, contact centers worldwide are undergoing a technology refresh cycle from on-premise voice-centric models to cloud-based omnichannel platforms. This transition affords businesses the opportunity to reimagine and design new customer contact strategies to drive digital-first automation, fueled by AI-Knowledge.
+​
+
+4
+
+
+
+Customer Engagement Automation is a Large, Growing Market
+​
+Businesses are investing heavily in digital transformation, with customer engagement as a top priority. Ease of innovation in cloud and a growing Application programming interface (API) economy present exciting capability to connect, solve, and optimize. This is both an opportunity and a challenge. As predicted by industry analysts, the number of customer interactions involving emerging technology such as machine-learning applications, chatbots, or mobile messaging is increasing every day. To effectively harness such novel capabilities, businesses are looking toward innovative platform providers with proof at scale to guide them on their automation journey.
+​
+The eGain Approach and Benefits
+What Customers Want
+​
+Technology acceleration notwithstanding, human needs for customer engagement and service change slowly. We believe what customers want is help in three categories: information, transaction, and situational. A given customer contact can morph across these categories as the conversation develops. Therefore, it is critical that an effective solution optimization customer contact across these three categories seamlessly and with context —accounting for machine-human hand-offs, channel switching, multimodal interaction, and conversational pause-and-resume. During these interactions, we believe customers increasingly want to be guided, even anticipated. Siloed solutions like transactional, simplistic chatbots without contextual escalation and supporting knowledge tend to disappoint consumers even more than non-existent self-service options.
+The eGain Solution is Comprehensive
+​
+eGain offers a comprehensive, unified cloud software solution to automate, augment and orchestrate customer engagement in a digital world. Our feature-rich portfolio of applications empowers businesses to holistically connect, flexibly solve, and continuously optimize the experience for agents, businesses and customers. Our solution experts and partners guide clients by aligning with their strategic priorities and demonstrating quick value across a series of agile sprints.
+Digital-First, Omnichannel Desktop Connect
+​
+First, our solution offers comprehensive, scalable capabilities for digital-first, omnichannel interaction within a modern, purpose-built desktop. Rich applications, optimized for productivity, proactively guide agents to efficiently interact with customers using messaging, Short message service (SMS), chat, email, social media, phone, video, fax, and letter. Agents do not have to remember complex product details and detailed process steps. Process compliance is built into the solution.
+AI and Knowledge Solve
+​
+Next, our solution offers powerful AI and knowledge applications for virtual assistance for customers and agents. These applications enable businesses to centralize knowledge, policies, procedures, and best-practices, while delivering guided, personalized solutions to customers and agents. Our AI and knowledge applications deliver compelling value through large-scale self-service automation. Further, these applications ensure that all agents effectively resolve all contact types, regardless of product or procedure. Correct, compliant, and consistent responses across touchpoints - automated and assisted - boost customer satisfaction. First contact resolution surges and agent time to competency drops. 
+​
+Analytics and Machine Learning Optimize
+​
+Our analytics solution enables clients to measure, manage and orchestrate their omnichannel service operations. In addition, our machine learning service led by our digital optimization experts helps clients generate product improvement and customer preference insights from customer conversations and journey events, while spotting opportunities to improve experience and automate processes.
+​
+
+5
+
+
+
+Open, Secure APIs and Third-Party Connectors Deliver Quick Value
+​
+Our open, secure platform APIs enable clients and partners to extend and enhance our solutions and to integrate with enterprise assets to enable a single view of the customer. Our certified integration with platforms such as those from Avaya, Amazon, Cisco, Salesforce, and Microsoft enable clients to leverage existing systems of record and communication.
+Compelling Benefits
+​
+We believe our solution delivers transformational value. Specifically, we help businesses:
+
+
+o | Enhance customer experience with digital-first, omnichannel service.
+--+---------------------------------------------------------------------
+
+
+o | Reduce operating costs through self-service automation, improved first contact resolution, and compressed agent time-to-competence.
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Ensure compliance with regulations, policies, procedures, and best practices even as clients expand their product portfolio and serviced customer segments. This benefit is particularly sought after in regulated sectors like financial services and healthcare, as well as government.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Deliver rich, primary insights to enhance products and design new offerings. Analyzing and learning from customer conversations provides a unique tool to quickly respond to customer dissatisfaction or agent challenges, while generating ideas for product innovation and process automation.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competitive Strengths
+Comprehensive Omnichannel Platform with Rich Apps and Purpose-built APIs
+​
+The eGain solution is a comprehensive omnichannel solution for the customer engagement market, with AI and knowledge applications at its core. We unlock the full power of our cloud platform with extensive APIs through a developer portal to enable digital engagement, knowledge management, and decision support capabilities for clients and partners in a way that is unique in the market.
+​
+Enterprise-Grade, Secure Cloud Service with Differentiated Offerings
+​
+Our cloud offering is secure, scalable and offers unique capabilities. With respect to security and certification, we offer SOC2, PCI, HIPAA, and GDPR certification. Two of the largest federal tax services, one in North America and the other in Europe, use eGain solutions served from the eGain Cloud. Furthermore, we offer an “Always On” capability for businesses who cannot afford to be down at any time, day or night, for scheduled maintenance downtime. Finally, we offer service credits in the event of non-adherence to contracted service levels.
+Transformative Value at Scale Across Diversified Customer Base
+​
+Our solution delivers transformative value at scale today across a diversified customer base. We believe that our understanding of the customer need and our ability to fulfil it at scale and with enterprise-grade sophistication is unmatched. From over a hundred thousand users at a healthcare client using our solution on a 24x7 basis to a P&C insurer with fifteen thousand contact center advisors and thirty-thousand field agents, we are the preferred choice for large brands looking to automate customer engagement.
+Market-leading Innovation with a Risk-free Trail Model
+​
+We are consistently seen as product leaders in digital engagement and knowledge management by leading analysts. For over twenty years, we have anticipated technology and market trends. We anticipated the need for AI in customer service early and developed an omnichannel customer engagement hub years ahead of competition. With a relentless focus on the customer engagement automation, we continue to add capabilities to enhance our clients’ investment in eGain. For example, to enable our clients to serve their customers across all channels, our messaging hub out of the box connects with Apple Business Chat, Facebook Messenger, Google Business Messaging, SMS and WhatsApp. Our third-generation 
+
+6
+
+
+
+virtual assistant - powered by AI, machine learning, and knowledge applications - seamlessly layers across our omnichannel platform. Our knowledge and AI solutions lead the market.
+​
+Not only do we innovate quicker than others, we stand behind our claim with a unique Innovation in 30 Days™ offer—a 30-day guided production pilot in the eGain Cloud – at no cost and with no strings attached.
+Leveraged Go-to-market Strategy with a Growing Partner Ecosystem
+​
+We take our solutions to market through a partner-leveraged enterprise sales model. We started our Original equipment manufacturing (OEM) partnership journey with Cisco several years ago. Through Cisco’s partner ecosystem and direct sales network, we also resell cloud-based, eGain-branded solutions.
+​
+In fiscal year 2020, we announced our cloud-based OEM partnership with Avaya for our digital connect portfolio. We are now building an active pipeline with Avaya field sales and their partners.
+​
+Finally, we partner with Amazon Connect, a disruptive cloud-based contact center solution. Our integrated proposition delivers the best of omnichannel capabilities powered by AI, Knowledge and Analytics.
+Customers 
+​
+We mostly sell to large enterprises, which we define as businesses with over a billion dollars in annual revenue or government organizations. Approximately 90% of our annual recurring cloud revenue for fiscal year 2020 came from such large enterprises.
+​
+We focus on the following verticals: financial services, telco, retail, government, health care and utilities. For fiscal year 2020, domestic and international revenue accounted for 62% and 38% of total revenue. 
+​
+One of our largest customers, who is also a partner, accounted for 18% of total revenue in fiscal year 2020. 
+Competition 
+​
+We compete with application software providers, including Genesys Telecommunications, LivePerson, Moxie Software, Verint, Nuance, and Oracle. In addition, we engage in partnerships with some of our competitors, including Salesforce, Microsoft, and ServiceNow. 
+​
+The market that we compete in is highly competitive and some of our competitors may have longer operating histories, greater economies of scale, greater financial resources, greater engineering and technical resources, greater sales and marketing resources, stronger strategic partnerships and distribution channels, larger user bases, products and services with different functions and feature sets and greater brand recognition than we have. We believe the principal competitive factors in our market include the following:
+
+
+o | proven track record of customer success;
+--+-----------------------------------------
+
+
+o | speed and ease of implementation;
+--+----------------------------------
+
+
+o | product functionality;
+--+-----------------------
+
+
+o | financial stability and viability of the vendor;
+--+-------------------------------------------------
+
+
+o | product adoption;
+--+------------------
+
+
+o | ease of use and rates of user adoption;
+--+----------------------------------------
+
+
+o | low total cost of ownership and demonstrable cost-effective benefits for customers;
+--+------------------------------------------------------------------------------------
+
+
+o | performance, security, scalability, flexibility and reliability of the service;
+--+--------------------------------------------------------------------------------
+
+
+o | whether the software is delivered via the cloud or on-premises;
+--+----------------------------------------------------------------
+
+7
+
+
+
+
+o | ease of integration with existing applications;
+--+------------------------------------------------
+
+
+o | quality of customer support;
+--+-----------------------------
+
+
+o | availability and quality of implementation, consulting and training services; and
+--+----------------------------------------------------------------------------------
+
+
+o | vendor reputation and brand awareness.
+--+---------------------------------------
+
+​
+Growth Strategy
+​
+We are investing in multiple programs to accelerate growth.
+Invest in Direct Sales and Marketing
+​
+We are enhancing our digital marketing to boost brand awareness, based on client success, product leadership and no-risk trial offers. To complement our marketing investment, we are significantly expanding our field sales team to increase high-touch presence in target accounts.
+Develop New Partner Relationships
+​
+We are developing new partnerships with complementary platform providers (with large customer bases) to enhance their proposition with our AI Knowledge powered customer engagement capabilities. We have hired a new head of Business Development to lead a team to develop and operationalize such new partnerships.
+Land and Expand in the Enterprise
+​
+With the sustained progress we have made in customer success, we see a replicable pattern emerging: land enterprise logos with a limited footprint in one business unit, demonstrate business value, and then expand in the enterprise. We are increasing the value of investment in eGain for our clients by deeply integrating our capabilities via our enhanced APIs with enterprise assets like enterprise collaboration platforms, CRM systems, transaction and billing, and content sources.
+Migrate Our Remaining Legacy Customers to eGain Cloud
+​
+We offer an attractive proposition to our remaining on-premise customers to move to the eGain Cloud where we subsidize the migration service cost in exchange for their multi-year commitment to the eGain Cloud. We expect to substantially migrate most remaining on-premise clients to the eGain Cloud by the end of fiscal year 2021.
+​
+Maintain Platform Innovation Leadership
+​
+Innovation is in our DNA. We are developing vertical solutions on our platform to better acquire and serve customers. We continue to enhance our core capabilities to improve usability and personalization.
+​
+Selectively Pursue Acquisitions
+​
+From time to time, we pursue inorganic strategies to strengthen our product portfolio. In 2014 we acquired Exony Limited, a provider of advanced contact center analytics software. Moving forward, we will look for strategic acquisitions that we believe will deliver compelling value faster than organic options.
+​
+​
+
+8
+
+
+
+Sales and Marketing
+Sales Strategy 
+​
+Our sales strategy is to pursue targeted accounts, mostly B2C enterprises, through a combination of our direct sales force and partners. These enterprises typically have thousands of customer service agents in their contact centers and, in the aggregate, communicate with billions of customers each year. We utilize thought leadership and other marketing events to demonstrate our leadership position in the customer engagement software market and highlight our customer successes. 
+​
+Our direct sales force is organized into teams that include field sales representatives and sales consultants. Our direct sales force is complemented by lead generation representatives and sales development representatives. 
+We also complement our direct effort with sales alliances.
+Marketing and Partner Strategy 
+​
+Our marketing strategy is to build our brand around innovative and robust products trusted by leading enterprises. We accomplish this via public relations, analyst relations, marketing communications and demand generation. We employ a wide range of marketing avenues to deliver our message, including print and digital, targeted electronic and postal mailing, email newsletters, and a variety of trade shows, seminars, webinars, and interest groups.
+​
+Our marketing group produces sales tools, including product collateral, customer case studies, demonstrations, and presentations. In addition, the group performs market analyses and customer reviews to identify and develop key partnership opportunities and product capabilities. 
+​
+We believe that our partners help extend the breadth and depth of our product offerings, drive market penetration, and augment our professional service capabilities. We believe these relationships are important to delivering successful, integrated products and services to our customers. Our partner portal, eGain Econet™, provides comprehensive sales, support and services information for channel partners. 
+​
+Subscription Services 
+​
+Our subscription services provide customers with access to our software on a cloud-based platform that we manage and offer on a subscription basis. These subscription services allow our customers to easily consume our product innovation without dealing with infrastructure, installation and ongoing administration. We generally offer these services through a 36-month contract, with pricing based on the number of agents or self-service sessions.
+​
+Professional Services 
+​
+Our worldwide professional services organization provides consulting, implementation and training services to deliver business value, drive customer success and build customer loyalty.
+
+
+o | Consulting and Implementation Services. Our offering includes rapid implementation services, platform-based solution extension, and systems integration services. Our consultants work with customers to understand their requirements, analyze their business needs, and implement effective solutions. We provide these services independently or in partnership with systems integrators who have developed expertise on our platform.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Training Services. We provide comprehensive training options to customers and partners. Training programs are offered either online (remote training) or in-person at the customer site. We also offer complementary e-learning through our eGain University education portal to our customers and partners.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+​
+
+9
+
+
+
+Customer Support 
+​
+We offer 24 x 7 customer support via online and phone channels worldwide under support agreements. Our customer support centers are in California, United Kingdom, and India. 
+​
+Research and Development
+​
+The market for our products changes rapidly and is characterized by evolving industry standards, swift changes in customer requirements, and frequent product introductions. 
+​
+We continuously analyze market and customer requirements and evaluate external technology that we believe will enhance our competitiveness, increase our lifetime customer value and expand our target market. Our product roadmap effectively combines build, partner and buy options. [The last company we acquired was Exony Limited, a UK-based leader in enterprise contact center analytics software, in August 2014.]  
+​
+Intellectual Property 
+​
+We regard our intellectual property as critical to our success. We rely on intellectual property and other laws, in addition to confidentiality procedures and licensing arrangements, to protect the proprietary aspects of our technology and business.
+​
+As of June 30, 2020, we had 11 issued patents in the United States. In addition, we have a number of pending patent applications in the United States, including one provisional filing and several non-provisional filings. Our issued U.S. patents expire at various times between 2029 and 2035.
+​
+We continually assess the strength of our intellectual property protection for those aspects of our technology that we believe constitute innovations providing significant competitive advantages. Future applications may or may not receive the issuance of valid patents or registered trademarks. 
+​
+We routinely require our employees, customers, and potential business partners to enter into confidentiality and nondisclosure agreements before we disclose any sensitive aspects of our products, technology, or business plans. In addition, we require employees to agree to surrender to us any proprietary information, inventions or other intellectual property they generate or come to possess while employed by us. Despite our efforts to protect our proprietary rights through confidentiality and license agreements, unauthorized parties may attempt to copy or otherwise obtain and use our products or technology. These precautions may not prevent misappropriation or infringement of our intellectual property. In addition, some of our license agreements with certain customers and partners require us to place the source code for our products into escrow. These agreements typically provide that some party will have a limited, non-exclusive right to access and use this code as authorized by the license agreement if there is a bankruptcy proceeding instituted by or against us, or if we materially breach a contractual commitment to provide support and maintenance to the party. 
+​
+Employees 
+​
+As of June 30, 2020, we had 522 full-time employees, of which 179 were in product development, 197 in services and support, 89 in sales and marketing, and 57 in finance and administration. 
+​
+None of our employees are covered by collective bargaining agreements. While we believe our relations with our employees are good, our future performance depends largely upon the continued service of our key technical, sales and marketing, and senior management personnel, none of whom are bound by employment agreements requiring service for a defined period of time. 
+​
+​
+
+10
+
+
+
+Available Information 
+​
+We were incorporated in Delaware in September 1997, and our website is located at www.egain.com. We make available free of charge on our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, as soon as reasonably practicable after we electronically file or furnish such materials to the Securities and Exchange Commission. Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K.
+​
+Information About Our Executive Officers
+The following table sets forth information regarding eGain’s executive officers as of September 11, 2020: 
+
+​ | ​ | ​ | ​ | ​ 
+--------------+---+-----+---+--------------------------------------------------
+Name | | Age | | Position 
+Ashutosh Roy | | 54 | | Chief Executive Officer and Chairman 
+Eric Smit | | 58 | | Chief Financial Officer 
+Promod Narang | | 62 | | Senior Vice President of Products and Engineering
+Todd Woodstra | | 58 | | Senior Vice President of Global Sales 
+
+​
+Ashutosh Roy co-founded eGain and has served as Chief Executive Officer and a Director of eGain since September 1997 and as President since October 1, 2003. From May 1995 through April 1997, Mr. Roy served as Chairman of WhoWhere? Inc., an Internet-services company co-founded by Mr. Roy. From June 1994 to April 1995, Mr. Roy worked at Parsec Technologies, a call center company based in New Delhi, India, which he co-founded. From August 1988 to August 1992, Mr. Roy worked as a software engineer at Digital Equipment Corporation. Mr. Roy holds a B.S. in Computer Science from the Indian Institute of Technology, New Delhi, a Master’s degree in Computer Science from Johns Hopkins University and a M.B.A. from Stanford University. Mr. Roy’s qualifications to serve on our Board of Directors include his industry experience and deep knowledge of eGain from his position as a founder of our Company and as our Chief Executive Officer for over 20 years.
+​
+Eric Smit has served as Chief Financial Officer since August 2002. Prior to that, Mr. Smit served in a variety of roles at eGain, including Vice President, Operations from April 2001 to July 2002, Vice President, Finance and Administration from June 1999 to April 2001, and Director of Finance from June 1998 to June 1999. From December 1996 to May 1998, Mr. Smit served as Director of Finance for WhoWhere? Inc., an Internet services company. From April 1993 to November 1996, Mr. Smit served as Vice President of Operations and Chief Financial Officer of Velocity Incorporated, a software game developer and publishing company. Mr. Smit holds a Bachelor of Commerce in Accounting from Rhodes University, South Africa.
+Promod Narang has served as Senior Vice President of Products and Engineering since March 2000. Mr. Narang joined eGain in October 1998, and served as Director of Engineering prior to assuming his current position. Prior to joining eGain, Mr. Narang served as President of VMpro, a system software consulting company, from September 1987 to October 1998. Mr. Narang holds a Bachelor of Science in Computer Science from Wayne State University. 
+Todd Woodstra  has served as Senior Vice President of Global Sales since August 2017. Prior to joining eGain, Mr. Woodstra was the Senior Vice President of Enterprise/Channels at Sparks Compass, a real time data analytics platform company, and the Senior Vice President of Enterprise Sales for Interactions LLC from January 2015 to February 2017, where he led enterprise customer sales focused on virtual assistant solutions. From November 2009 to July 2014, Mr. Woodstra was Vice President of Global Channel and Partner Alliances for Nuance Communications where he managed and executed business in channels and commercial enterprise, self-service, mobile, collaboration, unified communications, natural language speech recognition, voice biometrics, gesture technologies, inbound/outbound notification and voice-to-text transcription. Mr. Woodstra holds a Bachelor of Arts in Business Administration, Management Information Systems from California State University, San Bernardino
+​
+
+11
+
+
+

@@ -1,0 +1,102 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+Red Cat Holdings, Inc. (“the “Company”) is a Nevada corporation which was originally incorporated in the State of Colorado. In November 2016, we changed our name to TimefireVR Inc. and in July 2019, we changed our name to Red Cat Holdings. Inc.
+ Since inception, there have been multiple corporate transactions which resulted in a change in the Company’s operating businesses. The most recent change occurred in May 2019 when the Company changed its operating business from the bitcoin industry to the drone industry. In connection with the acquisition of Rotor Riot in January 2020, the Company become the parent company of Propware and Rotor Riot.
+ 
+The Company’s primary business is to provide products, services and solutions to the drone industry. It operates in two sectors of the drone industry. Rotor Riot designs and sells drones and related components, primarily focused on the First Person View (“FPV”) sector. FPV provides the operator with a visual experience, using goggles, that simulates being in the cockpit of the drone. Rotor Riot is focused on the consumer market and sells its products through its e-commerce platform operated at www.rotorriot.com. Rotor Riot purchases drones and components from manufacturers, and then resells such items and custom designs and builds its own line of branded products. Rotor Riot generates approximately 50% of its revenues as a reseller, and 50% from the sale of its branded products. The Company’s principal marketing strategy is to maintain a visible social media presence to attract buyers to its e-commerce platform. Rotor Riot accomplishes this through its Facebook page, where it sponsors a monthly internet episode, as well as its sponsorship of a leading drone racing team.
+ The Company is also developing software solutions to provide secure cloud-based analytics, storage and services for the drone industry. Its initial product candidate is Dronebox, a blockchain technology that records, stores and analyzes flight data and information from a drone, much like the “black box” utilized by the airline industry. Dronebox initially records data and then transmits data and information directly to a third party server, commonly referred to as “the cloud” or “cloud computing”, where it can be viewed using the Company’s analytics platform. Blockchain technology is utilized to ensure that the data has not changed since it was initially recorded. The Company plans to offer Dronebox as a Software-as-a-Service platform. Potential customers include regulators to track and review flight data, insurance companies for coverage and claims administration, and pilots to maintain compliance with regulations. In May 2020, the Company launched Dronebox for beta testing by a limited number of users in order to test the platform and get user feedback on their real time experience and existing features as well as recommendations for new features. Initial user feedback has been positive and we continue to enhance and prepare the product for commercial release. We are currently targeting the fourth quarter of 2020 for the commercial release of Dronebox although no assurances can be provided regarding the actual release date.
+ Strategy
+ 
+Our strategy is to provide products, services and solutions to the drone industry. We hope to grow our business in the FPV retail consumer market and by develop new solutions to the broader drone industry such as our Dronebox software product. Key components of our strategy include:
+ 
+Grow market share of existing products. The Rotor Riot brand name is highly recognized in the drone industry. We believe that we are regarded as a leader in the FPV sector of the market. We hope to increase our market share by continuing to leverage and market the visibility that we enjoy in social media outlets such as Facebook and YouTube, and through our strong relationship with leading FPV racing pilots.
+ 
+Deliver innovative new solutions into existing and new markets. Innovation is a key driver of our growth. We plan to continue internal research and development to develop better, more capable products that we can offer for sale through our Rotor Riot e*commerce platform. In some cases, these products will be developed in response to customer inquiries and requests. In addition, we hope to leverage our relationships with pilots to introduce entirely new, innovative products, in addition to our FPV products. The commercial launch of Dronebox will represent our entry into an entirely new market in the drone industry.
+ 
+Foster our entrepreneurial culture to attract and retain highly skilled personnel. We believe that our corporate culture encourages creativity and an entrepreneurial spirit which is attractive to highly skilled professionals. We provide our employees with a wide range of workplace autonomy which fosters innovation and increases retention.
+ 
+
+4
+-
+
+The Drone Industry
+ 
+Similar to the internet and GPS (global positioning system) technologies, drones are moving beyond their military origin to become both a powerful business tool and a recreational activity for consumers. Both of these markets are projected to grow dramatically according to a wide range of investment banks and research firms.
+
+• | Business Insider Intelligence estimates that commercial use of drones will reach 2.4 million in 2023, representing a 66% compounded annual growth rate and that drones will be most employed by the agriculture, construction and mining, insurance, media and telecommunications industries; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The FAA, in a 2019 forecast report, predicted a 300% increase in commercial drones from 2019 to 2023; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Business Insider Intelligence estimates that the drone services market will grow from $4.4 billion in 2018 to more than $60 billion by 2025; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | MarketsandMarkets estimated the small drones market size at $13.4 billion in 2018 and projected it to increase to $40 billion by 2025; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Business Insider Intelligence estimates that consumer drone shipments will reach 29 million by 2021. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | International Data Corporation estimates that spending on drones will reach more than $16 billion in 2020 and experience a compounded annual growth rate of 33% through 2025. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Customers
+ 
+Rotor Riot sells to the consumer marketplace through its e*commerce site located at www. Rotorriot.com. Its target customer is the drone hobbyist with a passion for flying. Rotor Riot has a core strength in the FPV sector of the market. FPV refers to drones which are piloted via a video feed from the drone which provides a view that simulates being in the pilot seat of the drone. LOS, or line-of-sight, refers to a more conventional experience of standing on the ground and controlling the flight of the drone based on what the user can visually see.
+ 
+We plan to market Dronebox in each sector of the drone industry, including military, commercial, civil, and consumer.
+ 
+Competition
+ 
+Rotor Riot competes with a number of significantly larger, better capitalized companies. SZ DJI Technology Company, Ltd., commonly known as DJI, is the dominant market leader in the civilian drone industry with a global market share estimated at more than 70%, according to many industry research firms. Other competitors include Parrotand Lumenier. Race Day Quads is a larger, direct competitor in the FPV sector. We compete against these financially stronger companies by leveraging our visibility on the internet through our Facebook page which has more than 33,000 members and our Rotor Riot channel which has more than 192,000 subscribers. The Rotor Riot brand has been at the center of the racing and freestyle culture of drones since registering its domain name in 2015. Rotor Riot sponsors a team of six of the leading FPV pilots on the competitive racing circuit, including the Drone Racing League champion pilot in 2019 and 2018.
+ 
+Dronebox will compete against a smaller number of companies, most of which are also smaller in size. These competitors include Airdata, Kittyhawk, DroneLogbook and Skyward, which was acquired by Verizon in 2017. While these companies provide certain drone tracking capabilities, we believe that Dronebox will elevate the quality and quantity of features offered through the platform. For example, we plan to enhance the user interface experience and introduce new functionality including a ticketing system which will enable users to track the resolution of mechanical and other flight issues that need to be resolved.
+ Suppliers
+ 
+Rotor Riot presently purchases approximately 56% of its inventory from approximately three suppliers of Dà-Jiāng Innovations. sourced drones and parts. Rotor Riot is in the process of balancing purchasing activity from these three suppliers. Approximately 20% of inventory is purchased equally from two specialty vendors of frames and electronics. The remaining 24% is purchased from a much wider range of suppliers and vendors.
+Government Regulation
+ 
+The Federal Aviation Administration (“FAA”) of the United States Department of Transportation responsible is for the regulation and oversight of civil aviation within the U.S. Its primary mission is to ensure the safety of civil aviation. The FAA has adopted the name unmanned aircraft (“UA”) to describe aircraft systems without a flight crew on board. More common names include drone, Unmanned Aerial Vehicle and remotely operated aircraft.
+ 
+The FAA began issuing regulations governing drones in 2005 with their scope and frequency expanding in recent years with the significant increase in the number of drones sold. In December 2015, the FAA announced that all drones weighing more than 250 grams, or 0.55 pounds, must be registered with the FAA. As of March 2020, the FAA reported the registration of 1,563,263 drones, of which 441,709 were commercial and 1,117,900 were recreational, and the certification of 171,744 remote pilots.
+ 
+
+5
+-
+
+ 
+In December 2019, the FAA announced a proposed rule that would continue the safe integration of drones into the nation’s airspace by requiring them to be identifiable remotely. The FAA believes that remote ID technologies will enhance safety and security by allowing the FAA, law enforcement, and federal security agencies to identify drones flying in their jurisdiction. These efforts lay the foundation for more complex operations, such as those beyond visual line of sight at low altitudes, as the FAA and the drone industry move toward a traffic management ecosystem for Unmanned Aircraft System flights separate from, but complimentary to, the air traffic management system.
+ 
+The Company believes that the oversight of the FAA is beneficial to the drone industry generally, and the Company specifically. Approximately 10 % of the drones sold by Rotor Riot are below the weight threshold required to register. The remaining 90% have more functionality, are more likely to be used for commercial purposes, and therefore, should be registered. The Company believes that the regulations issued by the FAA, such as the remote identification standard, will provide opportunities as such functionality could be offered through our Dronebox platform.
+ 
+The FAA continues to issue new rules and regulations which are designed to build a traffic management ecosystem for drones. For example, in December 2019, the FAA proposed a rule which would require drones to be identified remotely. We plan to build this feature into Dronebox. 
+ 
+Environmental Considerations
+ 
+While the operation of many businesses have some form of negative impact on the environment, drones have a unique ability to provide a positive contribution. Many of these relate to a drone’s ability to reach places in a more efficient manner, and include such activities as:
+ 
+• aerial mapping and nature monitoring;
+ • maintenance of renewal energy sources such as solar panels and wind turbines;
+ • disaster relief monitoring and relief delivery; and
+ • agricultural sustainability solutions
+ 
+Intellectual Property
+ 
+The Company holds trademarks on the Rotor Riot brand name and logo.  The Company holds a provisional patent application for the tracking of unmanned aerial systems which expires in November 2020.
+Employees
+ 
+As of August 5, 2020, the Company had ten full-time employees and one part-time employee.
+ 
+Research and Development
+ 
+During the years ended April 30, 2020 and 2019, we incurred research and development costs of $488,990 and $366,590, respectively.
+ 

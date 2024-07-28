@@ -1,0 +1,1047 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+OVERVIEW
+
+
+
+We are a multinational company with operations primarily in the communications and payment services industries. We have two reportable business segments, Telecom & Payment Services and net2phone. Our Telecom & Payment Services segment, which represented 96.2% and 96.6% of our total revenues in fiscal 2020 and fiscal 2019, respectively, provides retail telecommunications and payment offerings as well as wholesale international long-distance traffic termination. Our net2phone segment, which represented 3.8% and 3.4% of our total revenues in fiscal 2020 and fiscal 2019, respectively, provides cloud communications and telephony services to business customers.
+
+
+
+Our Telecom & Payment Services segment comprises Growth and Core verticals:
+
+
+
+
+● | Growth includes two primary businesses:
+--+----------------------------------------
+
+
+● | BOSS Revolution Money Transfer, an international money remittance service for customers in the United States; and
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | National Retail Solutions’, or NRS’, point-of-sale, or POS, network offerings that includes merchant services such as credit card processing, digital out-of-home advertising through its POS terminal network, and data analytics.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Core includes our three largest communications and/or payments offerings by revenue:
+--+-------------------------------------------------------------------------------------
+
+
+● | BOSS Revolution Calling, an international long-distance calling service marketed primarily to immigrant communities in the United States;
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Mobile Top-Up, which enables customers to transfer airtime and bundles of airtime, messaging, and data to mobile accounts internationally and domestically; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Carrier Services, which provides international voice and text termination as well as outsourced traffic management solutions to telecoms globally.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Core also includes smaller communications and payments offerings, many in harvest mode.
+
+
+
+Our net2phone segment is comprised of two verticals:
+
+
+
+
+● | net2phone-Unified Communications as a Service, or UCaaS, a cloud communications service for businesses in North and South America and certain other international markets; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | net2phone-Platform Services, which provides telephony services to cable operators and other offerings that leverage a common technology platform.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Financial information by segment is presented in Note 23 to our Consolidated Financial Statements in Item 8 of this Annual Report.
+
+
+
+Our headquarters is located at 520 Broad Street, Newark, New Jersey 07102. The main telephone number at our headquarters is (973) 438-1000 and our corporate website’s home page is www.idt.net.
+
+
+
+We make available free of charge our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to these reports, and all beneficial ownership reports on Forms 3, 4 and 5 filed by directors, officers and beneficial owners of more than 10% of our equity through the investor relations page of our website (http://ir.idt.net/) as soon as reasonably practicable after such material is electronically filed with the Securities and Exchange Commission. Our website also contains information not incorporated into this Annual Report on Form 10-K or our other filings with the Securities and Exchange Commission.
+
+
+
+
+
+1
+
+
+KEY EVENTS IN OUR HISTORY
+
+
+
+1990 – Howard S. Jonas, our founder, launched International Discount Telephone to provide international call re-origination services.
+
+
+
+1995 – We began selling wholesale services to other long-distance carriers by leveraging our access to favorable international telephone rates generated by our retail calling traffic.
+
+
+
+1996 – We successfully complete an initial public offering of our common stock.
+
+
+
+1997 – We began marketing prepaid calling cards to provide convenient and affordable international long-distance calls.
+
+
+
+2000 – We complete the sale of a stake in our net2phone subsidiary, a pioneer in the development and commercialization of VoIP technologies and services, to AT&T for approximately $1.1 billion in cash. We subsequently repurchased net2phone from AT&T.
+
+
+
+2001 – Our common stock is listed on the New York Stock Exchange, or NYSE.
+
+
+
+2004 – We launch a retail energy business to provide electricity and natural gas to residential and small business customers in New York.
+
+
+
+2006 – We sell our Russian telecom business, Corbina, for $129.9 million in cash.
+
+
+
+2007 – We complete the sale of IDT Entertainment to Liberty Media for $220 million in cash, stock and other considerations.
+
+
+
+2008 –We launch BOSS Revolution PIN-less, a pay-as-you-go international calling service. BOSS Revolution has since become our flagship brand, and the BOSS Revolution platform has been expanded to include payment offerings.
+
+
+
+2009 – We spin-off our CTM Media Holdings subsidiary to our stockholders. CTM Media Holdings has been renamed IDW Media Holdings, Inc. and its stock is traded on the OTC Pink Market with the ticker symbol “IDWM”.
+
+
+
+2011 – We spin-off our Genie Energy Ltd. subsidiary, which provides electricity and natural gas and related services to residential and business customers in the United States and overseas. Genie Energy’s common stock is listed on the NYSE with the ticker symbol “GNE”.
+
+
+
+2013 – We spin-off our subsidiary, Straight Path Communications, Inc., or Straight Path, including its wireless spectrum holdings, to our stockholders. Straight Path was purchased in February 2018 by Verizon Communications Inc.
+
+
+
+– We introduce the BOSS Revolution Calling app for Android and iOS.
+
+
+
+– We launch our BOSS Revolution international money transfer service.
+
+
+
+2014 – We sell our stake in Fabrix, a pioneer in cloud storage and network delivery technologies, to Ericsson for $69 million.
+
+
+
+2015 – net2phone launches its UCaaS offering in the United States.
+
+
+
+2016 – We spin-off our interest in our Zedge subsidiary to our stockholders. Zedge provides a content platform for mobile device personalization including ringtones, wallpapers, home screen icons and notification sounds. Zedge’s stock is listed on the NYSE American with the ticker symbol “ZDGE”.
+
+
+
+– We launch NRS to provide POS-based services to independent retailers in the United States.
+
+
+
+– net2phone initiates global expansion of its UCaaS offering with a launch in Brazil.
+
+
+
+
+2017 | – We introduce the BOSS Revolution Money app for Android and iOS.
+-----+------------------------------------------------------------------
+
+
+
+
+2018 – We spin-off our interest in our Rafael Holdings, Inc. subsidiary to our stockholders. Rafael Holdings holds real estate assets and stakes in early stage pharmaceuticals companies, including Rafael Pharma, a privately held, clinical-stage, metabolic oncology therapeutics company. Rafael Holdings’ stock is listed on the NYSE with the ticker symbol “RFL”.
+
+
+
+2019 – net2phone’s cloud communications service surpasses 100,000 service seats milestone.
+
+
+
+– NRS adds its 10,000th POS terminal to its retail network.
+
+
+
+
+
+2
+
+
+
+
+
+2020 - net2phone introduces its Huddle video conferencing solution (beta) and integration with Microsoft Teams.
+
+
+
+
+- | NRS introduces the BR Club Shopping App, enabling NRS retailers to accept mobile orders.
+--+-----------------------------------------------------------------------------------------
+
+
+- | BOSS Revolution Money Transfer exceeds 500,000 monthly transactions via digital channels for the first time.
+--+-------------------------------------------------------------------------------------------------------------
+
+OUR STRATEGY
+
+
+
+We are growing several high-margin, tech-centric businesses that compete in the unified business communications and payment services markets. We believe that each of these businesses represents an exceptional opportunity for long term value generation. Each of these businesses leverages one or more of our strategic assets to obtain a distinct competitive advantage vis-a-vis more established competitors. Our current key growth businesses are:
+
+● | net2phone-UCaaS;
+--+-----------------
+
+
+● | BOSS Revolution Money Transfer; and
+--+------------------------------------
+
+
+● | NRS.
+--+-----
+
+
+
+
+Our investment in these growth businesses is financed by the cash flows generated by our maturing core offerings, obviating the need for debt financing and dilutive capital raises. Our core offerings are:
+
+
+
+
+● | BOSS Revolution Calling;
+--+-------------------------
+
+
+● | Mobile Top-Up; and
+--+-------------------
+
+
+● | Carrier Services.
+--+------------------
+
+
+
+
+Our core offerings participate, wholly or partially, in the paid minute voice communications market. As such, they are subject to intense revenue and margin pressure as consumers migrate to low-cost or free messaging services and other non-voice communications technologies, free peer-to-peer voice calls available when both parties utilize broadband connections, and flat-rate international long distance plans offered both by the largest mobile network operators and niche mobile virtual network operators. We work diligently to maximize cash flows from our core offerings in part by introducing new features and enhancements to prolong their longevity and utility while reducing their overhead costs and operating expenditures.
+
+
+
+The increasing revenue contributions from our higher margin growth businesses in combination with our efforts to maximize the cash flows from our lower margin core offerings have enabled us to increase our consolidated margin contribution in recent quarters. We expect that this rotation toward our higher margin offerings will continue and drive a long-term increase in our net margins.
+
+
+
+Our higher-margin growth businesses and our core offerings are synergistic and leverage one or more of our strategic assets including:
+
+
+
+
+● | The BOSS Revolution and net2phone brands;
+--+------------------------------------------
+
+
+● | A nationwide network of more than 35,000 retailers who sell BOSS Revolution offerings including over 26,000 who utilize our digital retailer platform;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our retail customer base of more than eight million, primarily in immigrant communities within the United States;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | Our technology, global infrastructure and calling and transaction platforms;
+--+-----------------------------------------------------------------------------
+
+
+● | Extensive VoIP and cloud services expertise; and
+--+-------------------------------------------------
+
+
+● | Our staff of more than 1,200 working in over 20 offices on four continents.
+--+----------------------------------------------------------------------------
+
+BUSINESS DESCRIPTION
+
+
+
+Telecom & Payment Services
+
+
+
+Our Telecom & Payment Services, or TPS, segment, represented 96.2% and 96.6% of our total revenues in fiscal 2020 and fiscal 2019, respectively. TPS offerings are classified in two verticals, Growth and Core, as follows:
+
+● | Growth comprises high-margin, rapidly growing businesses that leverage our core strategic assets to provide synergistic communications and payments services, including:
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | BOSS Revolution Money Transfer; and
+--+------------------------------------
+
+
+● | National Retail Solutions.
+--+---------------------------
+
+
+● | Core includes our three largest communications and/or payments offerings by revenue:
+--+-------------------------------------------------------------------------------------
+
+
+● | BOSS Revolution Calling;
+--+-------------------------
+
+
+● | Mobile Top-Up; and
+--+-------------------
+
+
+● | Carrier Services.
+--+------------------
+
+
+
+
+Core also includes smaller communications and payments offerings, which are managed to maximize their long-term cash-flows with minimal operating expenditures.
+
+
+
+During fiscal 2020, our TPS segment generated $1,294.9 million in revenues and income from operations of $42.3 million, as compared with revenues of $1,361.9 million and income from operations of $14.3 million in fiscal 2019.
+
+
+
+
+3
+
+
+Telecom & Payment Services – Growth
+
+
+
+BOSS Revolution Money Transfer
+
+
+
+BOSS Revolution Money Transfer revenues were $48.0 million in fiscal 2020, an increase of 108% from fiscal 2019.
+
+
+
+International money remittance is a significant economic activity among our target market of foreign-born communities in the United States. Our BOSS Revolution Money Transfer business enables customers in the United States to remit money to third parties in approximately 60 countries. The service is offered through licensed BOSS Revolution authorized money transfer agents as well as directly to consumers via our digital platforms including the BOSS Revolution Money app and the BOSS Revolution consumer website (www.bossrevolution.com).
+
+
+
+BOSS Revolution Money Transfer’s largest and fastest growing channel is direct-to-consumer via our digital platform. During fiscal 2020, approximately three-quarters of BOSS Revolution Money Transfer’s transactions originated over the BOSS Revolution Money app. The BOSS Revolution Money app works seamlessly with the BOSS Revolution app to enable customers with a debit or credit card to send money transfers and Mobile Top-Up easily and securely directly from their iOS or Android device.
+
+
+
+We continue to expand our BOSS Revolution Money Transfer customer base by focusing our marketing efforts on converting the large BOSS Revolution Calling and Mobile Top-Up customer bases, as well as bringing in new customers directly, primarily through attractive fee and foreign exchange rate offers.
+
+
+
+We also continue to focus on sales through our nationwide network of BOSS Revolution Money Transfer agents.
+
+
+
+BOSS Revolution Money Transfer leverages the BOSS Revolution retail network to afford unbanked and underbanked customers the ability to initiate transactions with cash. In order to provide our remittance service, BOSS Revolution retailers must meet certain financial and other qualifications. To date, only a small fraction of BOSS Revolution retailers have been authorized to offer money transfer services. Our internal sales force recruits new money transfer agents to expand our origination network, and we continue to enhance our retail money transfer portal to facilitate adoption and utilization of the money transfer offering by BOSS Revolution retailers.
+
+
+
+We have also introduced a new Pay@Store service that allows a customer to conveniently initiate a money transfer order within the BOSS Revolution Money app and to pay for it with cash at an authorized Boss Revolution money transfer agent. Pay@Store brings many of the benefits of our BOSS Revolution Money app to our under/unbanked customers.
+
+
+
+BOSS Revolution Money Transfer’s payment network includes payout locations in 59 countries and over 320,000 locations. In addition, remittances are offered to mobile wallets in some destinations.
+
+
+
+BOSS Revolution Money Transfer generates revenues from a per-transaction fee charged to the customer and from foreign exchange differentials. Our transaction costs include commissions paid to the retail agent, payment to the international disbursing agent, banking, compliance, foreign currency exchange costs and, in the case of direct-to-consumer transfers, credit and debit card processing fees in lieu of commissions paid to the retail agents.
+
+
+
+National Retail Solutions (NRS)
+
+
+
+NRS’ revenues were $12.0 million in fiscal 2020, a 93% increase from fiscal 2019.
+
+
+
+NRS provides transaction processing and related services to independent retailers in the United States via its POS terminal-based platform. The NRS solution includes hardware and software components integrated to provide tools that enable these retailers to compete more effectively against retail chains.
+
+
+
+The POS terminal’s hardware includes cash registers, barcode scanners, retailer and customer-facing hi-definition screens, receipt printers and credit card readers. NRS’ integrated, proprietary software is offered as a service and provides operational tools including inventory management, sales tracking, price book management and other useful features.
+
+
+
+The primary market for NRS terminals is the more than 200,000 independently owned convenience, liquor, grocery and tobacco stores in the United States, many of which primarily serve foreign-born communities.
+
+
+
+
+
+4
+
+
+
+
+
+
+During July 2020, over 10,000 retailers processed more than 46,000,000 transactions via NRS terminals. The number of NRS terminals active in the network as of July 31, 2020 increased to more than 10,000 from 7,800 a year earlier. NRS sales and marketing is targeted, in part, to our nationwide network of BOSS Revolution retailers. NRS has also entered into strategic relationships with more than 100 wholesale distributors including some of the largest cash-and-carry wholesalers in the United States.
+
+
+
+NRS generates revenue from a portfolio of services for both retailers and third parties.
+
+
+
+
+● | Terminals and terminal-based software services: NRS’ services for retailers include the provision of POS terminals. Terminals are typically offered at a discount from the full retail price when buyers enroll in NRS’ payment processing service, NRS PAY. Terminal operators pay a monthly software service fee starting at $19.95 per terminal and increasing with premium POS feature sets. NRS technology teams based in the United States and Israel develop new functionalities and feature sets that enable NRS to expand its target market to new retail segments.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Data Analytics: NRS captures targeted, daily POS data from independent retailers. These retailers are concentrated in urban communities with significant immigrant populations and, in the aggregate, constitute a significant but largely opaque market. NRS has built a data platform that allows third parties to analyze purchasing trends at independent retailers and gain insights into this important segment of the consumer market.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Display Advertising: NRS terminals feature 15” high-definition customer-facing screens, which are designed to engage customers during check-out. The screen enables retailers to offer coupons, deals, and promotions on in-store products, and enables NRS to provide advertisers access to a nationwide display network for both static and video advertisements with reach into urban demographic segments. Digital out of home, or DOOH, advertising is among the fastest growing advertising market segments. As it matures, we expect that the DOOH market will become increasing accessible to programmatic advertising buyers, which would enable NRS to significantly increase advertising sales. At July 31, 2020, NRS had a DOOH network capacity of approximately 7.7 billion impressions per year. NRS sold approximately 9% of its available impression capacity in fiscal 2020.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Merchant Services: The NRS network enables us to provide various services to the retailers who operate our terminals. The substantial majority of merchant services revenue is generated by NRS PAY, which enables retailers to accept and process payments made by credit cards, debit cards, and electronic benefits transfer. We believe that our pricing model for NRS PAY is disruptive. Unlike many other payment processors, we do not require a contract, our equipment is free, and we do not charge hidden fees; instead, we charge only a flat, transparent rate per transaction. We added more than 700 new NRS PAY customers in the fourth quarter of fiscal 2020 and we expect comparable growth in the coming quarters.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+The NRS business supports our BOSS Revolution communications and payment offerings - BOSS Revolution Calling, BOSS Revolution Money Transfer, and Mobile Top-Up, all of which can be sold and provisioned by retailers directly from their NRS terminals.
+
+
+
+Telecom & Payment Services – Core
+
+
+
+BOSS Revolution Calling
+
+
+
+BOSS Revolution Calling’s revenue was $463.9 million in fiscal 2020 compared to $490.7 million in fiscal 2019 (35.8% and 36.0% of TPS’ revenue in fiscal 2020 and fiscal 2019, respectively).
+
+
+
+Our BOSS Revolution Calling business is a prepaid international long-distance calling service marketed primarily to foreign-born and under-banked consumers in the United States and Canada, and digital only offering in Europe and Australia.
+
+
+
+BOSS Revolution Calling offerings include our flagship ‘BOSS Revolution’ branded international long-distance prepaid calling service as well as disposable hard cards sold under a variety of brands. In the United States, BOSS Revolution Calling serves, as of July 31, 2020, approximately 3.7 million customers per month.
+
+
+
+
+
+5
+
+
+
+
+
+
+BOSS Revolution Calling is offered both through our extensive national network of BOSS Revolution retailers and through the BOSS Revolution Calling app (for iOS and Android).
+
+
+
+The majority of our customers purchase BOSS Revolution Calling offerings through our nationwide network of BOSS Revolution retailers. At July 31, 2020, we had approximately 26,000 retailers per month utilizing our digital retailer platform to provision customers, the substantial majority of whom pay the retailer in cash. In addition, we estimate that approximately 9,000 retailers resell our disposable hard cards without utilizing our retailer portal. BOSS Revolution retailers are typically independent retailers serving foreign-born communities with significant unbanked or under-banked populations.
+
+
+
+Usage of our BOSS Revolution Calling app has been growing rapidly. At July 31, 2020, approximately 1.4 million customers per month utilized the BOSS Revolution Calling app.
+
+
+
+BOSS Revolution Calling allows users to place international long-distance calls at affordable rates from the BOSS Revolution Calling app or by calling an access number. Regardless of how the call originates, our customers must first establish and top-up a prepaid BOSS Revolution account that is linked to their phone. Once the account is established and a call is placed, our platform recognizes the customer’s phone through its network-provided automatic number identification and seamlessly links each call to the corresponding BOSS Revolution account. Callers then enter their destination phone numbers. BOSS Revolution Calling customers’ account balances are debited at a fixed rate per minute or at a fixed amount for calling plans to a specific country over a specified time period. In contrast to certain of our competitors, BOSS Revolution Calling does not charge connection, usage or breakage fees. BOSS Revolution Calling’s per minute rates vary by the destination country, city, and whether the call is placed to a landline or mobile phone. Rates are published on the BOSS Revolution consumer website and within the BOSS Revolution Calling app.
+
+
+
+Customers can open a BOSS Revolution Calling account for free and top-up with a debit or credit card using the BOSS Revolution Calling app, the BOSS Revolution consumer website (www.bossrevolution.com) or phone, or with cash at any BOSS Revolution retailer.
+
+
+
+In the United States, we distribute our BOSS Revolution Calling hard cards and other retail products primarily through our network of distributors that, either directly or through sub-distributors, sell to retail locations. In addition, our internal sales force sells BOSS Revolution Calling and other platform products directly to retailers. Distributors, our internal salespeople, and retailers receive commissions based on the revenue generated by each transaction or on a per-transaction basis, depending on the product.
+
+
+
+The BOSS Revolution digital retailer platform can be accessed via the internet by a computer or by Android and iOS smartphones and enables retailers to create accounts for new customers, add funds to existing customer balances and execute sales transactions. It provides a direct, real-time interface with our BOSS Revolution retailers, resulting in a cost-effective and adaptable distribution model that allows us to target and promote services directly to distributors and retailers, to introduce and cross-sell new offerings, and to rapidly respond to changes in the business environment.
+
+
+
+In the United States, the BOSS Revolution brand is supported by national, regional and local marketing programs that include television and radio advertising, online advertising, print media, and grass roots marketing at community and sporting events. In addition, we work closely with distributors and retailers on in-store promotional programs and events.
+
+
+
+BOSS Revolution Calling’s sales have traditionally been, and continue to be, strongest in the Northeastern United States and in Florida because of our extensive local distribution network and their large foreign-born populations. We continue to grow BOSS Revolution Calling’s distributor relationships and expand BOSS Revolution Calling’s retail network in other areas of the United States and Canada, including the Southwest and West Coast, where BOSS Revolution Calling historically has not had as strong of a market presence.
+
+
+
+Mobile Top-Up
+
+
+
+Mobile Top-Up’s revenue was $334.3 million in fiscal 2020 compared to $272.0 million in fiscal 2019 (25.8% and 20.0% of TPS’ revenue in fiscal 2020 and fiscal 2019, respectively).
+
+
+
+Our Mobile Top-Up offerings enable customers to transfer airtime and bundles of airtime, messaging, and data to recharge or ‘top-up’ mobile phone accounts internationally (International Mobile Top-Up, or IMTU) and domestically (Domestic Mobile Top-Up, or DMTU). Mobile Top-Up’s offerings leverage our platform capabilities, our distribution reach into foreign-born communities and our relationships with mobile operators around the world.
+
+
+
+IMTU and DMTU offerings are sold under the BOSS Revolution brand through the BOSS Revolution digital platforms, including our BOSS Revolution Calling and BOSS Revolution Money apps. Mobile Top-Up’s offerings are also sold through our retail network including provisioning directly by retailers using our digital retailer platform and through mobile operator-branded top-up cards. We offer Mobile Top-Up service for approximately 135 different carriers in 88 countries, primarily in Latin America, the Caribbean and Africa. The substantial majority of Mobile Top-Up’s revenue is generated by the sale of IMTU offerings.
+
+
+
+Carrier Services
+
+
+
+Carrier Services’ revenue was $393.8 million in fiscal 2020 compared to $514.2 million in fiscal 2019, contributing 30.4% and 37.8% of TPS’ revenue in fiscal 2020 and fiscal 2019, respectively.
+
+
+
+
+
+6
+
+
+
+
+
+
+Our Carrier Services business is one of the largest wholesale carriers of international long-distance minutes in the world.
+
+
+
+Carrier Services’ telecommunications network is comprised of interconnections and commercial relationships that reach virtually every significant carrier globally. These relationships enable us to carry international telecommunications traffic to more than 200 countries around the world. Carrier Services’ customers include our BOSS Revolution Calling and net2phone businesses, major and niche carriers around the globe, mobile network operators, and other service providers such as call aggregators. For many of these customers, particularly the major carriers, we engage in buy-sell relationships, terminating their customers’ traffic in exchange for terminating our traffic with them.
+
+
+
+Carrier Services offers competitively priced international termination rates at several quality levels. We can offer competitively priced termination services in part because of the large volumes of originating minutes generated by our BOSS Revolution Calling business, our global platform powered by proprietary software, our team of professional and experienced account managers and market makers, and the global network of interconnections and relationships with other telecom system operators around the globe.
+
+
+
+TPS terminated 18.3 billion minutes in fiscal 2020, as compared to 21.8 billion minutes in fiscal 2019. Carrier Services accounted for 14.4 billion minutes and 17.5 billion minutes of the total TPS’ minutes in fiscal 2020 and fiscal 2019, respectively.
+
+
+
+Carrier Services has a significant number of direct connections to Tier 1 providers in North America, Latin America, Asia, Africa, Europe and the Middle East. Tier 1 providers are the largest recognized licensed carriers in a country. Direct connections improve the quality of the telephone calls and reduce the cost, thereby enabling us to generate more traffic with higher margins to the associated foreign locales. We also have direct relationships with mobile network operators, reflecting their growing share of the voice traffic market.
+
+
+
+Termination rates charged by Tier 1 and other providers of international long-distance traffic have been declining for many years. Nevertheless, termination rates charged to us by individual Tier 1 carriers and mobile operators can be volatile. Termination price volatility on heavily trafficked routes can significantly impact our minutes of use and wholesale revenues.
+
+
+
+In addition to offering competitive rates to our carrier customers, we emphasize our ability to offer the high-quality connections that these providers often require. To that end, we offer higher-priced services in which we provide higher-quality connections, based upon a set of predetermined quality of service criteria. These services meet a growing need for higher-quality connections for some of our customers who provide services to high-value, quality-conscious retail customers. As of July 31, 2020, Carrier Services had more than 2,100 customers and had more than 330 carrier relationships globally.
+
+
+
+Carrier Services’ revenue is generated by sales to both postpaid and prepaid customers. Postpaid customers typically include Tier 1 carriers, mobile network operators and our most credit worthy customers. The majority of Carrier Services’ prepaid customers connect via our IDT Express portal. IDT Express focuses on delivering wholesale voice and direct inward dialing, or DID, services to small and medium size businesses domestically and internationally. IDT Express offers the convenience of a mobile self-service portal paired with dedicated account managers, all backed by customer support that is available at all times. Prepaid customers are typically smaller telecommunication companies as well as independent call aggregators.
+
+
+
+Carrier Services also provide outsourcing services to help fixed and mobile telephony operators enhance the profitability and value of their international voice operations. Carrier Services offers these operators customized solutions, including full outsourcing, handing all inbound and outbound calls with or without switch management, and hybrid arrangements whereby the operator retains certain routes or customers directly. Pursuant to these deals, Carrier Services collaborates with the companies to provide a full range of international long-distance services to their respective customers in-country and overseas.
+
+
+
+Carrier Services is subject to intense revenue and margin pressure as consumers migrate to low-cost or free messaging services and other non-voice communications technologies, free peer-to-peer voice calls available when both parties utilize broadband connections, and flat-rate international long distance plans offered both by the largest mobile network operators and niche mobile virtual network operators.
+
+
+
+International Operations
+
+
+
+Internationally, Carrier Services’ products and services are marketed and sold through our internal account management team.
+
+
+
+Our operations in Europe include Carrier Services operations in London, England. We also have operations in Germany, Spain, Italy, Ireland, and Greece. Our European operations, including Carrier Services and BOSS Revolution Calling, generated $356.8 million of revenues in fiscal 2020, an 11% decline from the $401.2 million of revenues generated during fiscal 2019. Our European operations’ revenues constituted 28% of TPS’ revenues in fiscal 2020, as compared to 30% in fiscal 2019.
+
+
+
+
+
+7
+
+
+
+
+
+
+In fiscal 2020, we generated $32.3 million in revenues from our operations in the Asia-Pacific region compared to $47.7 million in fiscal 2019, primarily through our Carrier Services business. We maintain our Asia-Pacific headquarters in Hong Kong. In August 2020, our BOSS Revolution business was wound down throughout the Asia-Pacific region.
+
+
+
+In Canada, the United Kingdom, Germany, Spain and Australia, we sell BOSS Revolution platform products through our mobile calling app and direct-to-consumer websites.
+
+
+
+In Latin America, we maintain our headquarters in Buenos Aires, Argentina. In fiscal 2020, we generated $0.4 million in revenues primarily from the sale of prepaid calling in Latin America compared to $0.7 million in fiscal 2019.
+
+
+
+Sales, Marketing and Distribution
+
+
+
+In the United States, we distribute our TPS retail products, including prepaid calling, mobile top-up, money transfer and bill payment services to retail outlets. Our retail products are provisioned directly through the BOSS Revolution digital retailer platform or through our network of distributors and our internal sales force. In addition, our private label calling cards as well as our IDT-branded calling cards are also marketed to retail chains and outlets through our internal sales force, and from time to time, we may utilize third-party agents or brokers to acquire accounts.
+
+
+
+We also market our most significant retail offerings, including BOSS Revolution Calling, Mobile Top-Up, and BOSS Revolution Money Transfer, directly to the consumer via digital channels including the BOSS Revolution consumer website (www.bossrevolution.com) and the BOSS Revolution Calling and BOSS Revolution Money apps for iOS and Android. 
+
+
+
+Carrier Services are marketed and sold through our internal account management team and the IDT Express digital portal. In Canada, the United Kingdom, Germany, Spain and Australia, we sell BOSS Revolution platform products through our mobile calling app and direct-to-consumer websites.
+
+
+
+Communications and Payment Network Infrastructure and Technology Development
+
+
+
+We operate a global network to provide an array of telecommunications and payment services to our customers worldwide using a combination of proprietary and third-party applications. Proprietary applications include call routing and rating, customer provisioning, call management, e-commerce sites and digital platforms, product web pages, calling card features, and payment services features. Proprietary applications provide the flexibility to adapt to evolving marketplace demands without third-party software releases, and often provide advantages in capability or cost over third-party solutions.
+
+
+
+Our core voice network utilizes VoIP and is interconnected, where needed, through gateways to time-division multiplexing, or TDM, networks worldwide. This hybrid IP/TDM capability allows us to interface with carriers using the lowest cost technology protocol available. To support our global reach, we operate voice switches and/or points of presence in the United States, Europe, South America, Asia, and Australia. We receive and terminate voice traffic from every country in the world, including cellular, landline, and satellite calls through direct and indirect interconnects. The network includes data centers located in the United States, the United Kingdom, and Hong Kong, which house equipment used for both our voice and payment services, with smaller points of presence in several other countries. Our global network is monitored and operated on a continual basis by our Network Operations Center in the United States. We also make use of one of the leading cloud providers to serve as host for some of our application infrastructure.
+
+
+
+Our technology organization is responsible for the design, development, testing, and delivery of new technologies and features of our products and services, as well as the continued improvement and iteration of our existing products and services. It is also responsible for operating and scaling our proprietary calling and payment services platform including the underlying cloud infrastructure. Our research and development investments seek to drive core technology innovation and bring new products and services to the market. Research and development employees are located in our Newark office, as well as remotely distributed. Our research and development team consist of our software engineering, product management, quality engineering, voice engineering, business intelligence, systems and development operations teams. We intend to continue to invest in our research and development capabilities to extend our products and services.
+
+
+
+Our technology organization uses a number of key performance indicators to track service quality.  As of July 31, 2020, our technology organization has improved our aggregate service uptime from approximately 99.9% in fiscal 2019 to approximately 99.92% for fiscal 2020.  As of July 31, 2020, the defect escape ratio, a measure of quality engineering was improved for our flagship BOSS Revolution brand from 8.5% in fiscal 2019 to 5% in fiscal 2020, meaning more than 95% of product defects were detected and fixed before being released to our customers.  
+
+
+
+
+
+8
+
+
+
+
+
+
+Our product offerings and go-to-market strategy continue to evolve, and we expect our product offerings to continue to become available to customers at more frequent intervals than our historical release cycles. Our Agile development methodology is characterized by a dynamic development process with more frequent revisions to a product release’s features and functions as the software is being developed. In addition, we have implemented a holistic portfolio management process, which has improved transparency and efficiency across the portfolio through a monthly cadence of business reviews.
+
+
+
+net2phone
+
+
+
+net2phone’s revenue was $50.8 million in fiscal 2020 compared to $47.3 million in fiscal 2019. net2phone’s loss from operations was $14.7 million in fiscal 2020 compared to a loss from operations of $6.5 million in fiscal 2019.
+
+
+
+net2phone is comprised of two verticals:
+
+
+
+
+● | net2phone-UCaaS, a cloud communications service for businesses in North and South America and certain other international markets; and
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | net2phone-Platform Services, which provides telephony services to cable operators and other offerings that leverage a common technology platform.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+net2phone-UCaaS’s revenue was $31.9 million in fiscal 2020, an increase from $24.5 million in fiscal 2019, and net2phone- Platform Services’ revenue was $18.9 million in fiscal 2020, a decrease from $22.8 million in fiscal 2019.
+
+
+
+net2phone launched its UCaaS offering in 2015, leveraging our deep expertise in VoIP communications, established technology team, and global telephony network. net2phone’s UCaaS offering has become its primary growth engine and strategic focus.
+
+
+
+The net2phone-UCaaS solution converges communications across devices: desk phone, PC, and mobile via the net2phone platform, all backed by client management tools and analytics. net2phone’s cloud-based platform replaces and improves upon on-premise private branch exchanges, or PBXs, which many businesses maintain to operate their legacy phone systems. net2phone’s advanced feature set includes its mobile app, Web RTC, SMS/MMS, live chat widget, voicemail to email transcription, and client analytics. net2phone adds features and enhancements to its offering on a regular basis.
+
+
+
+In 2020, net2phone began deployment of its proprietary platform to enhance system reliability and facilitate the development and deployment of additional features and third-party integrations.
+
+
+
+At its 2015 launch, net2phone’s UCaaS service was offered only in the United States. In 2016, net2phone began its international expansion, offering cloud communications to businesses in Brazil. net2phone expanded to Argentina in 2017, and Colombia and Mexico in 2018. In 2018, net2phone entered the Canadian market through its acquisition of Versature Corp., a UCaaS provider serving the Canadian market. In 2019, net2phone entered the European market through the acquisition of RingSouth Europa, a regional provider of cloud communications services to businesses in Spain.
+
+
+
+We expect that net2phone will continue to grow its revenues through expansion in both the U.S. and overseas markets. Overseas, net2phone is leveraging its local presence, licensing, and our global infrastructure to provide a localized service. net2phone’s overseas markets are large and typically characterized by low rates of UCaaS penetration, high levels of competitive fragmentation and, in many cases, by a lack of significant attention from the global market leaders. 
+
+
+
+In March 2020, net2phone released an integration with Microsoft’s popular Teams collaboration platform. The integration enables Teams users to leverage net2phone’s global calling and messaging capabilities from within the Teams environment. In April 2020, net2phone released its integrated video conferencing solution, net2phone Huddle. 
+
+
+
+net2phone’s future growth catalysts include integrations with additional popular customer relationship management, or CRM, platforms, development and deployment of other new features and functionality, expansion into additional geographic markets, further customization for industry verticals, development of APIs enabling developers to customize solutions, and the development of a direct-to-consumer channel, except in Canada where Versature already operates a robust direct-to-consumer channel.
+
+
+
+
+
+9
+
+
+Sales, Marketing and Distribution
+
+
+
+net2phone is focused on the agent channel marketplace and acquires a substantial majority of its customers through its network of master agents, telecom agents and managed service providers in the United States and internationally. Versature historically utilized a direct-to-consumer channel model to acquire customers in Canada. In October 2019, Versature announced a channel market program, leveraging net2phone’s channel relationships and experience. In fiscal 2021, net2phone expects to introduce a direct to business strategy to extend its market reach.
+
+
+
+net2phone-UCaaS’s cloud communications offering is priced on a per-seat basis, with each employee identity constituting a seat. Pricing is structured on a monthly base fee per seat, with additional option-based charges including provisioning of pre-configured VoIP phones.
+
+
+
+Competition
+
+
+
+Telecom & Payment Services
+
+
+
+National Retail Solutions (NRS)
+
+
+
+NRS competes against several nationwide POS companies that primarily service other retail store segments, but also service NRS’ target market of independent convenience, liquor, and tobacco stores in the United States. These companies include, among others, Square, Clover, and NCR. We believe that NRS has a competitive advantage because other nationwide POS companies do not offer the complete suite of services that NRS has tailored to the specific needs of independent retailers. In addition, we do not believe that these competitors have NRS’ reach into the ethnic retailer market where many retailers have established relationships with us and sell our BOSS Revolution offerings.
+
+
+
+NRS also competes with smaller, regional POS companies that focus on convenience stores. However, these regional players generally do not offer a comparable suite of POS services, have limited capacity to scale their platforms, and/or are not price competitive.
+
+
+
+BOSS Revolution Money Transfer
+
+
+
+BOSS Revolution Money Transfer competes against traditional international money transfer services with established retail and disbursement networks including Western Union, MoneyGram, Intermex, and Ria, as well as many niche money transfer organizations that serve specific destination corridors. Our direct-to-consumer channel competes with these operators as well as digital only entrants including Xoom, TransferWise, Remitly, and World-Remit that are disrupting the retailer-based money transfer market. We continue to compete successfully in part by migrating customers from other BOSS Revolution offerings to Money Transfer leveraging our well-regarded BOSS Revolution brand, insights into our customers, and our cross-marketing capabilities. We compete for customers outside the BOSS Revolution ecosystem primarily based on brand reputation, low fees, and competitive foreign exchange rates.
+BOSS Revolution Calling
+
+
+
+BOSS Revolution Calling is subject to fierce competition, and we do not expect to grow revenues and/or margins without a successful strategy and sound execution. While virtually any company offering communication services is a competitor, we face particularly strong competition from Tier 1 mobile network operators who offer flat-rate international calling plans, other PIN-less prepaid voice offerings, prepaid calling card providers, mobile virtual network operators, and VoIP and other “over the top”, or OTT, service providers. Outside the United States, we also compete with large state-owned or state-sanctioned telephone companies.
+
+
+
+Many of these companies, such as AT&T, Verizon, and T-Mobile, are substantially larger and have greater financial, technical, engineering, personnel and marketing resources, longer operating histories, greater name recognition, and larger customer bases than we do. We may not be able to compete successfully if one or more of these companies use their substantial resources in or to affect the international prepaid calling market.
+
+
+
+In addition to these larger competitors, we face significant competition from smaller prepaid calling providers.
+
+
+
+From time-to-time, competitors offer rates that are substantially below ours to gain market share. In some instances, these rates are below what we believe to be the cost to provide the service. This predatory pricing can adversely affect our revenues and our gross margins.
+
+
+
+The continued growth of OTT calling and messaging services such as Skype, Viber, and WhatsApp have adversely affected the sales of BOSS Revolution Calling and our other prepaid calling services. We expect the popularity of these IP-based services—many of which offer free voice and/or video communications provided both the caller and recipient have a broadband connection—to continue to increase, which will increase substitution for, and pricing pressure on, our BOSS Revolution Calling and other international prepaid calling offerings.
+
+
+
+
+
+10
+
+
+
+
+
+
+Many wireless operators offer unlimited international long-distance plans that include international destinations to which customers can place direct calls from their mobile phones without time limitation. These plans now include some of our most popular international destinations. The growth of these “international unlimited” plans adversely affects our revenues as these operators gain subscriber market share.
+
+
+
+Our ability to compete successfully against these operators stems from several factors, including:
+
+
+
+
+● | our interconnect and termination agreements, network infrastructure, and least-cost-routing system enable us to offer low-cost, high quality services;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | our extensive distribution and retail networks provide us with a strong presence in communities of foreign-born residents, a significant portion of which purchase our services with cash;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | continued migration of our retail customers to our digital platform including the BOSS Revolution Calling app; 
+
+
+● | our BOSS Revolution brand is often highly visible in these communities and has a reputation for quality service and competitive, transparent pricing; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | our offering of synergistic payment services over the BOSS Revolution platform that customers can conveniently access from their accounts.
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Our ability to maintain and/or to capture additional market share will remain dependent upon our ability to continue to provide competitively priced services, to maintain our distribution and retail networks, to increase usage through the BOSS Revolution Calling app, and to innovate new products and services to fit the evolving needs of our customers.
+
+
+
+Carrier Services
+
+
+
+The wholesale carrier industry has numerous entities competing for the same customers, primarily based on price and quality of service.
+
+
+
+In our Carrier Services business, we participate in a global marketplace with:
+
+
+
+
+● | interexchange carriers and other long-distance resellers and providers, including large carriers such as T-Mobile, AT&T, and Verizon;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | historically state-owned or state-sanctioned telephone companies such as Telefonica, Orange SA, and KDDI;
+--+----------------------------------------------------------------------------------------------------------
+
+
+● | on-line, spot-market trading exchanges for voice minutes;
+--+----------------------------------------------------------
+
+
+● | OTT internet telephony providers;
+--+----------------------------------
+
+
+● | other VoIP providers;
+--+----------------------
+
+
+● | other providers of international long-distance services; and
+--+-------------------------------------------------------------
+
+
+● | alliances between large multinational carriers that provide wholesale carrier services.
+--+----------------------------------------------------------------------------------------
+
+
+
+
+We believe that our Carrier Services business derives a competitive advantage from several inter-related factors:
+
+
+
+
+● | our BOSS Revolution Calling business generates large volumes of originating minutes, which represents a desirable, negotiable asset that helps us win return traffic and obtain beneficial pricing which we can offer in the wholesale arena;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the proprietary technologies powering our Carrier Services’ platform and, in particular, the software that drives VoIP enables us to scale up at a lower cost than many of our competitors;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | our professional and experienced account management; and
+--+---------------------------------------------------------
+
+
+● | our extensive network of interconnects around the globe, with the ability to connect in whichever format (IP or TDM) is most feasible.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+In aggregate, we believe that these factors provide us with a competitive advantage over some participants on certain routes.
+
+
+
+Mobile Top-Up
+
+
+
+The major competitors to our Mobile Top-Up business include:
+
+
+
+
+● | international mobile operators, who seek to control more of their own distribution channel or create their own products that directly compete with our Mobile Top-Up; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | other service providers, distributors and wholesalers, who develop a more comprehensive product offering than our Mobile Top-Up or aggressively discount their product offerings.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+11
+
+
+
+
+
+
+net2phone
+
+
+
+Major competitors to our net2phone offerings include other UCaaS and hosted voice providers such as Vonage Business, Nextiva, 8x8, LogMeIn, and Ring Central. Due to their longevity and substantial investments in the marketplace, these providers offer more widely recognized brands, larger and more developed marketing and sales forces and/or channel agent networks, and more advanced product sets such as services designed specifically for call centers, messaging and chat, and solutions customized for specific market segments. These competitors’ offerings typically also support integration of their services with other well-known, third-party CRM vendors such as SalesForce, Zoho, and SugarCRM, as well as with various Google applications.
+
+
+
+REGULATION
+
+
+
+The following summary of regulatory developments and legislation is intended to describe what we believe to be the most important, but not all, current and proposed international, federal, state, and local laws, regulations, orders, and legislation that are likely to materially affect us.
+
+
+
+Regulation of Telecom in the United States
+
+
+
+Telecommunications services are subject to extensive government regulation at both the federal and state levels in the United States. Any violations of the regulations may subject us to enforcement actions, including interest and penalties. The Federal Communications Commission, or FCC, has jurisdiction over all telecommunications common carriers to the extent they provide interstate or international communications services, including the use of local networks to originate or terminate such services. Each state regulatory commission has jurisdiction over the same carriers with respect to their provision of local and intrastate communications services. Local governments often indirectly regulate aspects of our communications business by imposing zoning requirements, taxes, permit or right-of-way procedures or franchise fees. Significant changes to the applicable laws or regulations imposed by any of these regulators could have a material adverse effect on our business, operating results and financial condition.
+
+
+
+Regulation of Telecom by the Federal Communications Commission
+
+
+
+In 1997, the FCC issued an order, referred to as the Universal Service Order, that requires all telecommunications carriers providing interstate telecommunications services to contribute to universal service support programs administered by the FCC (known as the Universal Service Fund). In addition, beginning in October 2006, interconnected VoIP providers, such as our subsidiary net2phone, are required to contribute to the Universal Service Fund. These periodic contributions are currently assessed based on a percentage of each contributor’s interstate and international end user telecommunications revenues reported to the FCC. We also contribute to several other regulatory funds and programs, most notably Telecommunications Relay Service, FCC Regulatory Fees, and Local Number Portability (collectively, the Other Funds). We and most of our competitors pass through Universal Service Fund and Other Funds contributions as part of the price of our services, either as part of the base rate or, to the extent allowed, as a separate surcharge on customer bills. Due to the manner in which these contributions are calculated, we cannot be assured that we fully recover from our customers all of our contributions. In addition, based on the nature of our current business, we receive certain exemptions from federal Universal Service Fund contributions. Changes in our business could eliminate our ability to qualify for some or all of these exemptions. As a result, our ability to pursue certain new business opportunities in the future may be constrained in order to maintain these exemptions, the elimination of which could materially affect the rates we would need to charge for existing services. Changes in regulation may also have an impact on the availability of some or all of these exemptions. If even some of these exemptions become unavailable, they could materially increase our federal Universal Service Fund or Other Funds’ contributions and have a material adverse effect on the cost of our operations and, therefore, on our ability to continue to operate profitably, and to develop and grow our business. We cannot be certain of the stability of the contribution factors for the Other Funds. Significant increases in the contribution factor for the Other Funds in general and the Telecommunications Relay Service Fund in particular can impact our profitability. Whether these contribution factors will be stable in the future is unknown, but it is possible that we will be subject to significant increases.
+Regulation of Telecom by State Public Utility Commissions
+
+
+
+Our telecommunications services that originate and terminate within the same state, including both local and in-state long distance services are subject to the jurisdiction of that state’s public utility commission. The Communications Act of 1934, as amended, generally preempts state statutes and regulations that prevent the provision of competitive services but permits state public utility commissions to regulate the rates, terms and conditions of intrastate services, so long as such regulation is not inconsistent with the requirements of federal law. We are certified to provide facilities-based and/or resold long-distance service in all 50 states and facilities-based and resold local exchange service in 45 states. In addition to requiring certification, state regulatory authorities may impose tariff and filing requirements, consumer protection measures, and obligations to contribute to universal service and other funds. Rates for intrastate switched access services, which we both pay to local exchange companies and collect from long-distance companies for terminating in-state toll calls, are subject to the jurisdiction of the state commissions. State commissions also have jurisdiction to approve negotiated rates, or establish rates through arbitration, for interconnection, including rates for unbundled network elements. Changes in those access charges or rates for unbundled network elements could have a substantial and material impact on our business.
+
+
+
+
+
+12
+
+
+
+
+
+
+Regulation of Telecom—International
+
+
+
+In connection with our international operations, we have obtained licenses or are otherwise authorized to provide telecommunications services in various foreign countries. We have obtained licenses or authorizations in Argentina, Australia, Belgium, Brazil, Canada, Chile, Denmark, Germany, Hong Kong, Italy, Japan, Mexico, the Netherlands, Peru, Singapore, South Africa, Spain, Sweden, Switzerland, the United Kingdom, and Uruguay. In numerous countries where we operate or plan to operate, we are subject to many local laws and regulations that, among other things, may restrict or limit the ability of telecommunications companies to provide telecommunications services in competition with state-owned or state-sanctioned dominant carriers.
+
+
+
+Regulation of Internet Telephony
+
+
+
+The use of the Internet and private IP networks to provide voice communications services is generally less regulated than traditional switch-based telephony within the United States and abroad and, in many markets, is not subject to the imposition of certain taxes and fees that increase our costs. As a result, we are able, in many markets, to offer VoIP communications services at rates that are more attractive than those applicable to traditional telephone services. However, in the U.S. and abroad, there have been efforts by legislatures and regulators to harmonize the regulatory structures between traditional switch-based telephony and VoIP. This could result in additional fees, charges, taxes and regulations on IP communications services that could materially increase our costs and may limit or eliminate our competitive pricing advantages. Additionally, several foreign governments have adopted laws and/or regulations that could restrict or prohibit the provision of voice communications services over the Internet or private IP networks. These efforts could likewise harm our ability to offer VoIP communications services.
+Money Transmitter and Payment Instrument Laws and Regulations
+
+
+
+Our consumer payment services offerings include money transfer and various network branded, also called “open loop”, prepaid card offerings. These industries are heavily regulated. Accordingly, we, and the products and services that we market in consumer payment services, are subject to a variety of federal and state laws and regulations, including:
+
+● | Banking laws and regulations;
+--+------------------------------
+
+
+● | Money transmitter and payment instrument laws and regulations;
+--+---------------------------------------------------------------
+
+
+● | Anti-money laundering laws;
+--+----------------------------
+
+
+● | Privacy and data security laws and regulations;
+--+------------------------------------------------
+
+
+● | Consumer protection laws and regulations;
+--+------------------------------------------
+
+
+● | Unclaimed property laws; and
+--+-----------------------------
+
+
+● | Card association and network organization rules.
+--+-------------------------------------------------
+
+
+
+
+In connection with the development of our money transmission services and the expansion of our network branded prepaid card offerings, we have actively pursued our own money transmitter licenses. At July 31, 2020, we had received a money transmitter license in 48 of the 49 U.S. states that require such a license, as well as in Puerto Rico and Washington, D.C.
+
+
+
+Regulation of Other Businesses
+
+
+
+We operate other smaller or early-stage initiatives and operations, which may be subject to federal, state, local or foreign law and regulation.
+
+
+
+INTELLECTUAL PROPERTY
+
+
+
+We own numerous patents, trademarks, domain names and other intellectual property rights necessary to conduct our business. We actively pursue the filing and registration of patents, domain names, trademarks, and service marks to protect our intellectual property rights within the United States and abroad; in particular our registered trademarks and brands: IDT®, BOSS Revolution®, and net2phone®. From time to time we have also acquired or licensed intellectual property relating to present and future business strategy.  We believe that our technological position significantly depends on the technical experience, expertise, and creative ability of our employees to maintain both our current businesses and pursue future business development. Our corporate policies require all employees to assign intellectual property rights developed in the scope of, or in relation to our business to us, and to protect all intellectual property and proprietary information and materials as confidential.
+
+
+
+Our global telecommunications switching and transmission infrastructure enables us to provide an array of telecommunications, Internet access and Internet telephony services to our customers worldwide. We rely upon domestic and foreign patents, patent applications, and other intellectual property rights, regarding our infrastructure and global telecommunication network for our international telecommunications traffic and the international traffic of other telecommunications companies. 
+
+
+
+
+
+13
+
+
+EMPLOYEES
+
+
+
+As of October 1, 2020, we had a total of 1,256 employees, of which 1,245 were full-time employees.
+
+
+
