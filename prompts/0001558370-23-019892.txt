@@ -1,0 +1,1342 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.BUSINESS
+
+​ | ​ | ​ 
+-------------------------------------------------------------+---+-----
+Index to Item 1. BUSINESS | | Page
+​ | ​ | ​ 
+Forward-Looking Statement Disclaimer | ​ | 4 
+​ | ​ | ​ 
+Risk Factor Summary | ​ | 6 
+​ | ​ | ​ 
+General Information | ​ | 7 
+​ | ​ | ​ 
+Business Overview | ​ | 8 
+​ | ​ | ​ 
+Our History | ​ | 8 
+​ | ​ | ​ 
+Product Platforms and Applications Overview | ​ | 8 
+​ | ​ | ​ 
+Our Commitment to Sustainability | ​ | 10 
+​ | ​ | ​ 
+Our Market Opportunity | ​ | 11 
+​ | ​ | ​ 
+Our Business Strategy | ​ | 11 
+​ | ​ | ​ 
+Our Durable Competitive Advantages | ​ | 12 
+​ | ​ | ​ 
+Product Platforms and Applications | ​ | 14 
+​ | ​ | ​ 
+Our Product Platforms and Applications – Current and Future | ​ | 16 
+​ | ​ | ​ 
+Our Markets | ​ | 18 
+​ | ​ | ​ 
+Our Business Model | ​ | 20 
+​ | ​ | ​ 
+Advanced Technologies Programs | ​ | 21 
+​ | ​ | ​ 
+Company Funded Research and Development | ​ | 22 
+​ | ​ | ​ 
+Manufacturing and Service Facilities | ​ | 22 
+​ | ​ | ​ 
+Raw Material Sourcing and Supplier Relationships | ​ | 24 
+​ | ​ | ​ 
+Engineering, Procurement and Construction | ​ | 24 
+​ | ​ | ​ 
+Services and Warranty Agreements | ​ | 24 
+​ | ​ | ​ 
+Competition | ​ | 25 
+​ | ​ | ​ 
+Backlog | ​ | 26 
+​ | ​ | ​ 
+License and Joint Development Agreements with EMTEC | ​ | 26 
+​ | ​ | ​ 
+Regulatory and Legislative Environment | ​ | 28 
+​ | ​ | ​ 
+Government Regulation | ​ | 30 
+​ | ​ | ​ 
+Proprietary Rights and Licensed Technology | ​ | 30 
+​ | ​ | ​ 
+Significant Customers and Information about Geographic Areas | ​ | 30 
+​ | ​ | ​ 
+People and Organizational Development | ​ | 31 
+​ | ​ | ​ 
+Available Information | ​ | 32 
+
+​
+​
+
+3
+
+
+
+
+Forward-Looking Statement Disclaimer
+This Annual Report on Form 10-K contains statements that the Company believes to be “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (the “PSLRA”). All statements other than statements of historical fact included in this Form 10-K, including statements regarding the Company’s future financial condition, results of operations, plans, objectives, expectations, future performance, business operations and business prospects, are forward-looking statements. Words such as “expects,” “anticipates,” “estimates,” “goals,” “projects,” “intends,” “plans,” “believes,” “predicts,” “should,” “seeks,” “will,” “could,” “would,” “may,” “forecast,” and similar expressions and variations of such words are intended to identify forward-looking statements and are included, along with this statement, for purposes of complying with the safe harbor provisions of the PSLRA. Forward-looking statements are neither historical facts, nor assurances of future performance. Instead, such statements are based only on our beliefs, expectations, and assumptions regarding the future. As such, the realization of matters expressed in forward-looking statements involves inherent risks and uncertainties. Such statements relate to, among other things, the following:
+
+
+● | the development and commercialization by FuelCell Energy, Inc. and its subsidiaries (“FuelCell Energy,” “Company,” “we,” “us” and “our”) of fuel cell technology and products and the market for such products,
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the expected timing of completion of our ongoing projects,
+--+-----------------------------------------------------------
+
+
+● | our business plans and strategies,
+--+-----------------------------------
+
+
+● | the markets in which we expect to operate,
+--+-------------------------------------------
+
+
+● | expected operating results such as revenue growth and earnings,
+--+----------------------------------------------------------------
+
+
+● | our belief that we have sufficient liquidity to fund our business operations for the next 12 months,
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | future funding under Advanced Technologies contracts,
+--+------------------------------------------------------
+
+
+● | future financing for projects, including equity and debt investments by investors and commercial bank financing, as well as overall financial market conditions,
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the expected cost competitiveness of our technology, and
+--+---------------------------------------------------------
+
+
+● | our ability to achieve our sales plans, manufacturing capacity expansion plans, market access and market expansion goals, and cost reduction targets.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The forward-looking statements contained in this report are subject to risks and uncertainties, known and unknown, that could cause actual results and future events to differ materially from those set forth in or contemplated by the forward-looking statements, including, without limitation, the risks described under Item 1A - Risk Factors of this report and the following factors:
+
+
+● | general risks associated with product development and manufacturing,
+--+---------------------------------------------------------------------
+
+
+● | general economic conditions,
+--+-----------------------------
+
+
+● | changes in interest rates, which may impact project financing,
+--+---------------------------------------------------------------
+
+
+● | supply chain disruptions,
+--+--------------------------
+
+
+● | changes in the utility regulatory environment,
+--+-----------------------------------------------
+
+
+● | changes in the utility industry and the markets for distributed generation, distributed hydrogen, and fuel cell power plants configured for carbon capture or carbon separation,
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | potential volatility of commodity prices that may adversely affect our projects,
+--+---------------------------------------------------------------------------------
+
+
+● | availability of government subsidies and economic incentives for alternative energy technologies,
+--+--------------------------------------------------------------------------------------------------
+
+
+● | our ability to remain in compliance with U.S. federal and state and foreign government laws and regulations and the listing rules of The Nasdaq Stock Market (“Nasdaq”),
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | rapid technological change,
+--+----------------------------
+
+
+● | competition,
+--+-------------
+
+
+● | the risk that our bid awards will not convert to contracts or that our contracts will not convert to revenue,
+--+--------------------------------------------------------------------------------------------------------------
+
+4
+
+
+
+
+
+● | market acceptance of our products,
+--+-----------------------------------
+
+
+● | changes in accounting policies or practices adopted voluntarily or as required by accounting principles generally accepted in the United States (“U.S. GAAP”),
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | factors affecting our liquidity position and financial condition,
+--+------------------------------------------------------------------
+
+
+● | government appropriations,
+--+---------------------------
+
+
+● | the ability of the government and third parties to terminate their development contracts at any time,
+--+------------------------------------------------------------------------------------------------------
+
+
+● | the ability of the government to exercise “march-in” rights with respect to certain of our patents,
+--+----------------------------------------------------------------------------------------------------
+
+
+● | our ability to successfully market and sell our products internationally,
+--+--------------------------------------------------------------------------
+
+
+● | our ability to develop new products to achieve our long-term revenue targets,
+--+------------------------------------------------------------------------------
+
+
+● | our ability to implement our strategy,
+--+---------------------------------------
+
+
+● | our ability to reduce our levelized cost of energy and deliver on our cost reduction strategy generally,
+--+---------------------------------------------------------------------------------------------------------
+
+
+● | our ability to protect our intellectual property,
+--+--------------------------------------------------
+
+
+● | litigation and other proceedings,
+--+----------------------------------
+
+
+● | the risk that commercialization of our new products will not occur when anticipated or, if it does, that we will not have adequate capacity to satisfy demand,
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | our need for and the availability of additional financing,
+--+-----------------------------------------------------------
+
+
+● | our ability to generate positive cash flow from operations,
+--+------------------------------------------------------------
+
+
+● | our ability to service our long-term debt,
+--+-------------------------------------------
+
+
+● | our ability to increase the output and longevity of our platforms and to meet the performance requirements of our contracts,
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | our ability to expand our customer base and maintain relationships with our largest customers and strategic business allies, and
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+● | concerns with, threats of, or the consequences of, pandemics, contagious diseases or health epidemics, including the novel coronavirus (“COVID-19”), and resulting supply chain disruptions, shifts in clean energy demand, impacts to our customers’ capital budgets and investment plans, and impacts on the demand for our products.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We cannot assure you that:
+
+
+● | we will be able to meet any of our development or commercialization schedules,
+--+-------------------------------------------------------------------------------
+
+
+● | any of our new products or technologies, once developed, will be commercially successful,
+--+------------------------------------------------------------------------------------------
+
+
+● | our power plants will be commercially successful,
+--+--------------------------------------------------
+
+
+● | we will be able to obtain financing or raise capital to achieve our business plans,
+--+------------------------------------------------------------------------------------
+
+
+● | the government will appropriate the funds anticipated by us under our government contracts,
+--+--------------------------------------------------------------------------------------------
+
+
+● | the government will not exercise its right to terminate any or all of our government contracts, or
+--+---------------------------------------------------------------------------------------------------
+
+
+● | we will be able to achieve any other result anticipated in any other forward-looking statement contained herein.
+--+-----------------------------------------------------------------------------------------------------------------
+
+The forward-looking statements contained herein speak only as of the date of this report and readers are cautioned not to place undue reliance on these forward-looking statements. Except for ongoing obligations to disclose material information under the federal securities laws, we expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any such statement to reflect any change in our expectations or any change in events, conditions or circumstances on which any such statement is based.
+​
+
+5
+
+
+
+
+Risk Factor Summary
+Our business is subject to numerous risks and uncertainties, including those described in Item 1A “Risk Factors”. These risks include, but are not limited to the following:
+
+● | We have incurred losses and anticipate continued losses and negative cash flows.
+--+---------------------------------------------------------------------------------
+
+
+● | Our cost reduction strategy for manufacturing may not succeed or may be significantly delayed, which may result in our inability to deliver improved margins.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We have debt and finance obligations outstanding and may incur additional debt in the future, which may adversely affect our financial condition and future financial results.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We rely on project financing for our generation operating portfolio, which includes debt and tax equity financing arrangements, to realize the benefits provided by investment tax credits and accelerated tax depreciation. In the event that interest rates continue to rise or there are changes in tax policy, our financial results could be harmed.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Unanticipated increases or decreases in business growth may result in adverse financial consequences for us.
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | If our goodwill and other indefinite-lived intangible assets and long-lived assets (including project assets) become impaired, we may be required to record a significant charge to operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our Advanced Technologies contracts are subject to the risk of termination by the contracting party and we may not realize the full amounts allocated under some contracts due to the lack of Congressional appropriations or early termination.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Utility companies may resist the adoption of distributed generation and could impose customer fees or interconnection requirements on our customers that could make our products less desirable.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We depend on third party suppliers for the development and timely supply of key raw materials and components for our products.
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | An increase in energy costs, including as a result of the ongoing conflict between Russia and Ukraine, may materially adversely affect our business, financial condition, and results of operations.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Failure to meet Environmental, Social, and Governance (“ESG”) expectations or standards or to achieve our ESG goals could adversely affect our business, results of operations, financial condition, and stock price.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We derive significant revenue from contracts awarded through competitive bidding processes involving substantial costs and risks. Our contracted projects may not convert to revenue, and our project awards and sales pipeline may not convert to contracts, which may have a material adverse effect on our revenue and cash flows.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We have signed product sales contracts, engineering, procurement and construction contracts (“EPCs”), power purchase agreements (“PPAs”) and long-term service agreements with customers subject to contractual, technology, operating, commodity (i.e., natural gas) and fuel pricing risks, as well as market conditions that may affect our operating results.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We extend product warranties for our products, which products are complex and could contain defects and may not operate at expected performance levels, which could impact sales and market adoption of our products, affect our operating results or result in claims against us.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We currently face and will continue to face significant competition, including from products using other energy sources that may be lower priced or have preferred environmental characteristics. Our plans are dependent on market acceptance of our products and we must complete development of our new products and develop additional commercially viable products in order to achieve our long-term revenue targets.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our products use inherently dangerous, flammable fuels, operate at high temperatures and use corrosive carbonate material, each of which could subject our business to product liability claims.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are increasingly dependent on information technology, and disruptions, failures or security breaches of our information technology infrastructure could have a material adverse effect on our operations and the operations of our power plant platforms. In addition, increased information technology security threats and more sophisticated computer crime pose a risk to our systems, networks, products and services.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6
+
+
+
+
+
+● | We are required to maintain effective internal control over financial reporting. In a prior fiscal year, our management identified a material weakness in our internal control over financial reporting. If other control deficiencies are identified in the future, we may not be able to report our financial results accurately, prevent fraud or file our periodic reports in a timely manner, which may adversely affect investor confidence in our Company and, as a result, the value of our common stock.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our results of operations could vary as a result of changes to our accounting policies or the methods, estimates and judgments we use in applying our accounting policies.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We may be affected by environmental and other governmental regulation.
+--+-----------------------------------------------------------------------
+
+
+● | A negative government audit could result in an adverse adjustment of our revenue and costs and could result in civil and criminal penalties.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Exports of certain of our products are subject to various export control regulations and may require a license or permission from the U.S. Department of State, the U.S. Department of Energy or other agencies.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The Paycheck Protection Program loan received by us in 2020 and subsequently repaid by us in 2021 has resulted in an informal SEC inquiry into our financial disclosures and may subject us to challenges regarding qualification for the loan, enforcement actions, fines and penalties.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We will need to raise additional capital, and such capital may not be available on acceptable terms, if at all. If we do raise additional capital utilizing equity, existing stockholders will suffer dilution. If we do not raise additional capital, our business could fail or be materially and adversely affected.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We depend on our intellectual property, and our failure to protect that intellectual property could adversely affect our future growth and success. Additionally, the U.S. government has certain rights relating to our intellectual property, including the right to restrict or take title to certain patents.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our stock price has been and could remain volatile. Financial markets worldwide have experienced heightened volatility and instability which may have a material adverse impact on our Company, our customers and our suppliers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Provisions of Delaware and Connecticut law and of our certificate of incorporation and by-laws may make a takeover more difficult. Our by-laws provide that the Court of Chancery of the State of Delaware is the exclusive forum for substantially all disputes between us and our stockholders, which could limit our stockholders’ ability to obtain a judicial forum deemed favorable by the stockholder for disputes with us or our directors, officers or employees.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The rights of our 5% Series B Cumulative Convertible Perpetual Preferred Stock (“Series B Preferred Stock”) could negatively impact our cash flows and dilute the ownership interest of our common stockholders. The Series B Preferred Stock ranks senior to our common stock with respect to payments upon liquidation, dividends, and distributions.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Litigation could expose us to significant costs and adversely affect our business, financial condition, and results of operations.
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Weakness in the economy and other conditions affecting the financial stability of our customers could negatively impact future sales of our products and our results of operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our results of operations could be adversely affected by economic and political conditions globally and the effects of these conditions on our customers’ businesses and levels of business activity.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our future success will depend on our ability to attract and retain qualified management, technical and other personnel.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are subject to risks inherent in international operations.
+--+--------------------------------------------------------------
+
+​
+General Information
+Information contained in this report concerning the electric power supply industry and the distributed generation market, the distributed hydrogen market, the energy storage market and the carbon capture market, our general expectations concerning these industries and markets, and our position within these industries and markets are based on market research, industry publications, other publicly available information and assumptions made by us based on this information and our 
+
+7
+
+
+
+
+knowledge of these industries and markets, which we believe to be reasonable. Although we believe that the market research, industry publications and other publicly available information, including the sources that we utilized in preparing certain portions of this report, are reliable, they have not been independently verified by us and, accordingly, we cannot assure you that such information is accurate in all material respects. Our estimates, particularly as they relate to our general expectations concerning the electric power supply industry and the distributed generation market, the distributed hydrogen market, the energy storage market and the carbon capture market, involve risks and uncertainties and are subject to change based on various factors, including those discussed under the section of this report entitled “Item 1A - Risk Factors.”
+Unless otherwise specifically noted herein, all degrees refer to Fahrenheit (“F”); kilowatt (“kW”) and megawatt (“MW”) numbers used in this report designate nominal or rated capacity of the referenced power plant which is the design rated output of the referenced power plant as of the date of initiation of commercial operations; “efficiency” or “electrical efficiency” means the ratio of the electrical energy generated in the conversion of a fuel to the total energy contained in the fuel (lower heating value, the standard for power plant generation, assumes the water in the product is in vapor form; as opposed to higher heating value, which assumes the water in the product is in liquid form, net of parasitic load); kW means 1,000 watts; MW means 1,000,000 watts; “kilowatt hour” (“kWh”) is equal to 1kW of power supplied to or taken from an electric circuit steadily for one hour; and one British Thermal Unit (“Btu”) is equal to the amount of heat necessary to raise one pound of pure water from 59oF to 60oF at a specified constant pressure.
+All dollar amounts are in U.S. dollars unless otherwise noted. 
+​
+Business Overview
+Headquartered in Danbury, Connecticut, FuelCell Energy is a global leader in delivering environmentally responsible distributed baseload energy platform solutions through our proprietary fuel cell technology. Today, we offer commercial technology that produces clean electricity, heat, clean hydrogen, and water and is also capable of recovering and capturing carbon for utilization and/or sequestration, depending on product configuration and application. We also continue to invest in product development and commercializing technologies that are expected to add new capabilities to our platforms’ abilities to deliver hydrogen and long duration hydrogen-based energy storage through our solid oxide technologies, as well as further enhance our existing platforms’ carbon capture solutions. 
+​
+FuelCell Energy is focused on advancing sustainable clean energy technologies that address some of the world’s most critical challenges around energy access, security, resilience, reliability, affordability, safety and environmental stewardship. As a leading global manufacturer of proprietary fuel cell technology platforms, FuelCell Energy is uniquely positioned to serve customers worldwide with sustainable products and solutions for industrial and commercial businesses, utilities, governments, municipalities, and communities. 
+​
+Our History
+FuelCell Energy was founded in 1969 by Bernard Baker and Martin Klein, who had a powerful vision for the future of energy. The Company, which is based in Connecticut, was founded as a New York corporation to provide applied research and development services on a contract basis. The Company completed its initial public offering in 1992 and reincorporated in Delaware in 1999. The Company sold its first commercial fuel cell power platform in 2003 to the Kirin Ichiban Brewery Company in Tokyo, Japan, which utilized biofuels to produce carbon neutral electricity and steam. This history of converting advanced research into technological leadership, the diversity of our team, and our team members’ ideas drive our culture of innovation and sense of purpose. 
+​
+Today, FuelCell Energy is a global manufacturer of stationary fuel cell and electrolysis platforms that decarbonize power and produce hydrogen.
+​
+Our purpose is to enable a world empowered by clean energy. 
+​
+Product Platforms and Applications Overview 
+​
+Our product portfolio is based on two electrochemical platforms: carbonate and solid oxide. The platforms are similar in many ways, but they also have unique capabilities. Both platforms support power generation and combined heat and power applications using a variety of fuels, including hydrogen, hydrogen and natural gas blends, biogas, renewable natural gas, and natural gas. The fuel cells utilized in these platforms react fuel electrochemically, without combusting the fuel, 
+
+8
+
+
+
+
+which avoids emissions produced by combustion such as nitrogen oxides (“NOx”), sulfur oxides (“SOx”) and particulates. In the electrochemical process, fuel and air are reacted in separate chambers in the fuel cell stack. The reactions producing CO2 happen before the fuel is mixed with air, and the CO2 is concentrated and therefore easy to recover and capture. Both our carbonate and solid oxide platforms are enabled to recover and capture their own CO2 for use or sequestration before it is emitted into the air. However, our carbonate platforms are unique in their ability to also capture CO2 from an external source, utilizing the flue stream of a power plant or an industrial boiler as a replacement for ambient air intake.
+​
+Our solid oxide platform can operate on pure hydrogen fuel. We believe this feature will gain importance in the future as hydrogen becomes more widespread as a fuel, and in the more near term as we work to deploy our technology for hydrogen-based energy storage.
+​
+Both platforms can be used in electrolysis, which is the reverse of fuel cell operation – producing hydrogen from power and water. Carbonate platforms use a mixture of reforming and electrolysis, while solid oxide platforms can be used for zero emission pure hydrogen electrolysis.
+​
+Our multi-featured platforms can be configured to provide a number of value streams, including electricity, hydrogen, high grade heat (including steam), water and CO2 upgradable to food and beverage grade and/or usable in cement or other industrial products, and to concentrate and separate CO2 from fossil-fueled industrial applications allowing the sequestration and/or utilization of the CO2. 
+​
+See the section below entitled “Product Platforms and Applications” for more information.
+
+9
+
+
+
+
+Our Commitment to Sustainability
+As a company, we are committed to helping our customers reduce their environmental impact. We are equally committed to reducing our environmental impact and have therefore developed and begun implementing a plan to reduce our carbon emissions to net zero by 2050. As part of this commitment, during fiscal year 2023, we: 
+
+● | Performed a corporate-level greenhouse gas (“GHG”) emissions inventory for 2020-2024;
+--+--------------------------------------------------------------------------------------
+
+
+● | Conducted product-level life cycle assessments to understand and potentially reduce GHG emissions throughout the value chain, from production through decommissioning;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Developed an Environmental, Social and Governance (“ESG”) strategy to prioritize and holistically address our key ESG responsibilities and stakeholders’ needs; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Established an ESG governance model comprised of an ESG cross-functional team, including executive team members and overseen by the Environmental, Social, Governance and Nominating Committee of our Board of Directors.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our platforms have a direct impact on reducing our customers’ Scope 1 and Scope 2 emissions, thus lowering the global environmental footprint of baseload, or primary, power generation. However, our platforms are designed to go beyond power generation, delivering hydrogen, carbon recovery, carbon capture, water, and thermal energy in various applications. As a result of our platforms’ ability to deliver multiple value streams, we help our customers reduce their Scope 1 and Scope 2 emissions on-site without buying off-site carbon/environmental offsets, which do not positively impact the local communities’ air quality or emissions. As a company, we are focused on addressing immediate environmental impacts such as NOx, SOx, and particulate emissions and the multi-decade impacts on climate change. In the future, we plan to commercialize our hydrogen, long-duration energy storage, and carbon capture technologies intended to drive next generation solutions to help customers attain their decarbonization goals and continue to advance decarbonization through the utilization of our products in core industries, such as steel manufacturing, cement production, and glass making. 
+​
+Our patented products offer a sustainable alternative to traditional internal combustion-based power generation and more reliable baseload, or prime, power compared to intermittent sources such as wind, solar, and run of river hydro power. Traditional power plants create immediate harmful emissions, such as NOx, SOx and particulate matter, that are a serious public health concern and have a direct impact on the communities in which these plants operate. When a fuel is combusted (as in traditional power generation), carbon dioxide is emitted in addition to SOx, NOx, and other particulates. When intermittent power sources go offline because the sun is not shining, the wind is not blowing, or water is not flowing, they rely on traditional fossil-fueled power resources such as coal and internal combustion engine technologies to provide electricity. Our energy platforms use a combustion-free power generation process that is virtually free of pollutants. Our platforms are highly efficient and environmentally friendly products that support the “Triple Bottom Line” concept of sustainability, consisting of environmental, social, and economic considerations. Intermittent sources generally avoid fewer emissions than our fuel cell platforms due to the fact these sources of power typically only operate 15% to 40% of the time, while our platforms operate 24 hours a day.
+Our commitment to sustainability is also evident in the design, manufacturing, installation, and on-going servicing of our fuel cell energy platforms, which are engineered for the circular economy. For example, when our platforms reach the end of their useful lives, we have the capability to refurbish and re-use certain parts and also recycle more than 90% by weight of what we cannot re-use. This is a departure from combustion-based, wind, and solar power generation methods that typically produce a significant amount of unrecyclable waste, which increases landfill use and, in the case of solar, creates the possibility of toxic material contamination. Our balance of plant (“BOP”), i.e., the mechanical and electrical components surrounding the fuel cell, is designed to have an operating life of 25-to-30 years, at which time metals such as steel and copper are reclaimed for scrap value. For context, by weight, approximately 93% of our entire energy platform can be re-used or recycled at the end of its useful life.
+​
+ ​
+
+10
+
+
+
+
+Our Market Opportunity
+​
+Climate initiatives are driving the global push to reduce greenhouse gases, including CO2, NOx and SOx. We believe a large and increasing combined total addressable market opportunity exists for solutions we currently have commercially available today and solutions that we are actively developing for commercialization. Through the capabilities of our platforms, we provide clean, reliable baseload, or prime, power generation (baseload or prime power generation is power generated over a period of time at a steady rate), hydrogen production, high grade heat, carbon recovery from the fuels utilized by our platforms, isolation and removal of CO2 from exhaust streams, and the ability to use biofuels, renewable natural gas (“RNG”), and a hydrogen-hydrocarbon fuel blend for power generation feedstock. In addition, we are focused on advancing the commercialization of our platform technology to utilize pure hydrogen for baseload power generation and to perform electrolysis to convert water and electricity into hydrogen and to isolate and remove CO2 from external exhaust streams. 
+​
+Hydrogen enables zero emissions transportation by utilizing a zero-carbon feedstock as the fuel to power cars, trucks, buses, ships, trains, and, in the future, aircraft and other aerospace applications. Hydrogen is also capable of providing the fuel needed to produce high grade heat for industrial applications such as steel and glass production, in addition to its traditional uses for the refining process, in making ammonia, cement, and chemicals, for in-building heating, for combustion power generation, and for residential heating.
+​
+Hydrogen is also an effective medium for the storage of energy, and we are in the process of commercializing a highly efficient and environmentally favorable hydrogen-based long-duration energy storage solution. We believe hydrogen-based storage is environmentally superior to a mineral-based storage solution such as lithium-ion batteries. Additionally, through the deployment of our megawatt and sub-megawatt power generation platform solutions, we can deliver the benefits of clean, distributed power generation, including the desirable value stream of thermal energy, and avoid the need for massive, expensive, difficult to permit, long distance transmission infrastructure and the above ground risks that the traditional transmission grid creates.
+​
+CO2 is also a valuable input ingredient in many products and processes. We believe that, by using more CO2 (carbon capture utilization) and emitting less CO2 through the efficiencies of our platforms and by capturing CO2 at the source point, the use of our platforms can positively impact climate change while improving air quality compared to traditional combustion power generation. Our platforms are capable of delivering CO2 for food and beverage use, pH balancing of water supply, extending the shelf life of food vital to global food supply and food security, as a binder in a number of materials from concrete to sustainable building materials and the production of synthetic fuels, polymers and other minerals. 
+​
+See the section below entitled “Our Markets” for information regarding our existing and target markets.
+​
+Our Business Strategy
+​
+In 2019, we launched our “Powerhouse” strategy to strengthen our business, maximize operational efficiencies and position us for future growth. Having made substantial progress in achieving key initiatives under the original three pillars of our strategy, in fiscal year 2022, we updated the three key pillars of our strategy to “Grow, Scale and Innovate.” Under these three pillars, we are focused on: 
+Grow — Penetrate Significant Market Opportunities 
+​
+
+● | Optimize the core business: Capitalizing on our core technological strengths across targeted customer segments and delivering applications, including, but not limited to, microgrids, distributed hydrogen, and carbon capture and utilization.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Drive commercial excellence: Strengthening customer relationships and building a customer-centric reputation; building our sales pipeline by increasing focus on targeted differentiated applications, product sales, energy as a service financing options (through power purchase, lease or similar agreements), and geographic market and customer segment expansion; and building a broader network of channel and go-to-market relationships.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Expand geographically and by market: Targeting growth opportunities in our traditional markets of North America, South Korea, and Europe, and emerging opportunities in the Middle East, Africa, the Asia Pacific
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11
+
+
+
+
+
+region and South America. We will continue to monitor global markets for expansion as those opportunities develop.
+------------------------------------------------------------------------------------------------------------------
+
+Scale — Scale Our Existing Platform to Support Growth 
+​
+
+● | Invest: Investing in our current manufacturing capabilities and building new capacity as we advance commercialization of our solid oxide and carbon capture technologies, enhancing our commercial organization and creating distribution partnerships, and investing in marketing to ensure the various audiences of our message have a clear understanding of the potential value propositions and benefits of our platforms and solutions, including customers, regulatory and legislative bodies in each of our target markets, and investors.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Extend process leadership: Building on our legacy and over twenty years of commercial platform process experience, so that we can scale our new platforms and solution capabilities with the same degree of quality as our current footprint.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Broaden and deepen our team: Implementing the next phase of our plan for developing our team to support our growth and enable our future, including building an even more diverse, inclusive, intellectually curious, engaged, and purpose-driven workforce that embodies the culture of the Company and its core values.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Innovate — Innovate for the Future
+​
+
+● | Continue product innovations: Investing in continuous product improvement, advancing hydrogen-based energy solutions, including storage and electrolysis solutions using a differentiated thin, lightweight, high-efficiency electrode supported cell capable of reverse (fuel cell/electrolysis) operation, and continuing development of carbon capture and carbon recovery technologies extending our platform applications.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Deepen participation in the developing hydrogen economy: Building on our deployed distributed hydrogen Tri-gen platform for the delivery of hydrogen as a zero-emission transportation fuel, as well as advancing our solid oxide technology to support growing applications for distributed hydrogen electrolysis and energy storage applications. This includes leveraging the high efficiency of our solid oxide technology in electrolysis mode and the ability to operate reversibly between electrolysis and fuel cell mode to support the use of hydrogen as an energy storage carrier. These features allow for high efficiency hydrogen and power production using 100% hydrogen fuel for electricity production and economic and efficient hydrogen-based energy storage. Also, this hydrogen is a decarbonizing reduction agent when blended with natural gas and can be used in a number of transportation applications, or as a super fuel to replace traditional hydrocarbons in applications where a continuous fuel feedstock is required. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Diversify our revenue streams by delivering products and services that support the global energy transition: Through the innovations described above, focusing on developing a suite of platforms which we believe will be in demand throughout the energy transition allowing us to increase and broaden our customer penetration, add to the value we deliver to our customers, and diversify our revenue streams.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Our Durable Competitive Advantages
+​
+Given the long history of investment in and deployment of our solutions, we believe we have the following competitive advantages that underpin and enable our strategy: 
+​
+​
+
+● | Intellectual property that we believe makes new entry to the market by competitors challenging and a product portfolio that consists of several proprietary technologies with capabilities that we believe are attractive based on market economics, rather than government mandates alone.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Technical expertise through a highly skilled team, operating complex processes and enabling sophisticated electrochemical processes to deliver our platform solutions.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Operational excellence programs and resource management aim to maximize cost-reduction opportunities to improve competitiveness and reduce waste, while improving safety and product quality, and lean management
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12
+
+
+
+
+
+deployment intended to drive manufacturing speed to market and decrease the environmental impact of our operations.
+-------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Strategic innovation and development relationships with the U.S. Department of Energy (“DOE”), ExxonMobil Technology and Engineering Company, formerly known as ExxonMobil Research and Engineering Company (“EMTEC”), Canadian Natural Resources Limited (“CNRL”) and Drax Group (“Drax”) provide funding for and encourage technology development.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Products characterized by sustainability over their full lifecycle compared to other “clean” technologies such as wind turbines, solar panels and mineral-based batteries for which recycling is neither economical nor practical. In addition, mineral-based batteries rely on certain minerals the production of which may be plagued by supply challenges, disruptive mining practices and labor practices not supported by developed countries. Geopolitical risks may expose rare earth and critical minerals to the fragile nature of global trade, thus reducing energy security and independence. Finally, all of these other technologies are currently significant contributors to landfill waste following their useful life. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+​
+
+13
+
+
+
+
+Product Platforms and Applications 
+We are focused on using our proprietary technology to pursue the following five significant applications, each of which we believe is important to the global energy transition and to limiting climate change, reducing NOx, SOx, and particulate pollution, limiting noise pollution associated with traditional power generation and fostering more efficient utilization of land compared to traditional power generation and intermittent renewable energy platforms: 
+
+• | Distributed generation from carbonate and solid oxide platforms (commercially available);
+--+------------------------------------------------------------------------------------------
+
+
+• | Distributed hydrogen production using carbonate-based Tri-gen to co-produce power, hydrogen, and water (commercially available);
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Distributed and large-scale hydrogen production using high efficiency solid oxide electrolysis cell (“SOEC”) systems (commercially available);
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Carbon capture from external sources (under development) and carbon recovery and utilization enabling carbon capture utilization and sequestration (“CCUS”) (commercially available); and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Long duration energy storage utilizing reversible solid oxide fuel cells (“RSOFC”) which alternate between electrolysis mode (to produce and store hydrogen using input power) and fuel cell mode, regenerating power from the stored hydrogen (under development).
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+The attributes of our products include:
+​
+
+● | Sustainable: With the commercialization of our solid oxide platform, we are able to offer two highly differentiated high temperature electrochemical platforms. Our solutions produce electricity electrochemically − without combustion − and operate at a low decibel level, which enables siting of the power plants within dense, urban areas while meeting clean air permitting regulations. We believe that our solutions represent an important local public health benefit, and they often generate tax revenues for the local community. Fuel cells also reduce carbon emissions compared to less efficient combustion-based power generation and avoid greater CO2, SOx, NOx, and particulate emissions than intermittent renewable energy resources.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Flexible: Our solutions can operate on hydrogen, hydrogen and natural gas blends, renewable natural gas, on-site renewable biogas, directed biogas, natural gas, flare gas and propane to offer combined heat and power (“CHP”) and are scalable to add power incrementally as demand grows. Our solid oxide platform is also capable of operating on 100% hydrogen. For our carbonate platform, the unique chemistry of our fuel cells allows them to directly use low Btu on-site biogas utilizing our proprietary gas cleanup skid, with no reduction in output or efficiency compared to operation on natural gas. We developed our proprietary biogas cleanup and contaminant monitoring equipment which, combined with the inherent suitability of the carbonate fuel cell chemistry, gives us an advantage in on-site biogas applications. In addition, we have demonstrated operation of our carbonate fuel cell technology with other fuel sources including coal syngas, propane, and hydrogen-natural gas blend. We believe traditional oil and gas companies as well as new market entrants will continue to develop and increase the supply of renewable natural gas which would benefit our customers given the fuel flexibility of our platforms.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Reliable: Our solutions improve power reliability and energy security by lessening reliance on the transmission and distribution infrastructure of the electric grid. Unlike solar, wind, and run of river hydro power, fuel cells are able to operate continuously regardless of weather, time of day, water levels, or geographic location.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Standardized: Our solutions use a standard cell design globally, enabling supply chain volume-based cost reduction, optimal resource utilization and long-life product enhancements.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Attractive Thermal Attributes: In addition to electricity, our standard fuel cell configuration produces high quality thermal energy (approximately 700° F), suitable for heating facilities or water, or steam for industrial processes or for absorption cooling ideal for data center applications. The high thermal value may allow
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+14
+
+
+
+
+
+customers to reduce or eliminate their burning of fuel in carbon intensive boilers, which should reduce emissions that contribute to their Scope 1 emissions. When configured for CHP, our system efficiencies can potentially reach up to 90%, depending on the application. When configured for distributed hydrogen, our plants produce hydrogen in addition to power and water, with a potential effective efficiency (counting the fuel that would have been used to produce hydrogen conventionally) of up to 80% before considering waste heat utilization, which can further improve the total efficiency.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Use of Readily Available Catalyst Material: As our fuel cells are designed to operate at approximately 1,100° F, our platform solution has a key advantage afforded high temperature fuel cells, specifically that they do not require the use of geographically limited precious metal electrodes required by lower temperature fuel cells, such as proton exchange membrane (“PEM”) and phosphoric acid (“PAFC”) fuel cells. As a result, we are able to use less expensive and more readily available industrial metals, primarily nickel and stainless steel, as catalysts for our fuel cell components, whereas PEM and PAFC fuel cell technologies must compete for many of the core precious metals needed for their platforms.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Easy to Site: Our fuel cell energy platforms are easily sited with a relatively small footprint and low decibel operating level given the amount of power produced, allowing our platforms to be located at the point of demand. They require significantly less land than solar and wind projects for equivalent power production. There is minimal noise produced by the mechanical BOP and our fuel cell platforms have a clean emissions profile, making our fuel cell energy platforms ideally suited for urban locations and in suburban applications at or near the point of energy consumption. Locating our platforms on-site also contributes directly to reducing our customers’ Scope 1 and Scope 2 emissions. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Scalable: Our platforms are scalable, providing a cost-effective solution to adding power incrementally as demand grows, such as multi-megawatt fuel cell parks supporting the electric grid and large scale commercial and industrial operations.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | Forward Compatibility: Our fuel cells are multi-fuel capable, allowing a customer to deploy our platforms today utilizing natural gas and to migrate in the future to biofuels, renewable natural gas, and/or a hydrogen and natural gas blend as those fuels become more abundant. In addition, upon commercialization of our solid oxide platform, we expect that customers will be able to utilize 100% hydrogen for power production.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Product Efficiency and Effectiveness
+The electrical efficiency of our carbonate fuel cell solutions ranges from approximately 47% to 60% upon initial operations of our platforms depending on the configuration. When configured for CHP, our system efficiencies can potentially reach up to 90%, depending on the application. Our solutions are designed to deliver high electrical efficiency where the power is used, avoiding transmission. Transmission line losses average about 5% for the U.S. grid, which represents inefficiency, resulting in additional emissions and a hidden cost to utility customers. In addition, overhead transmission lines have been shown to contribute to the ignition of wildfires in certain geographies, causing significant damage and loss of homes and life.
+With respect to our solid oxide platforms, in fuel cell mode, we are targeting efficiencies in the low to high 60% range depending on the fuel type. In electrolysis mode, we are targeting electrical efficiency of about 90%, increasing to approximately 100% when augmented by externally supplied waste heat. In reversible mode, we expect round trip efficiencies in the high 60% range.
+​
+With respect to carbon capture capability, we have demonstrated up to 95% carbon capture from simulated coal power plant sources while simultaneously producing baseload power. For harder to capture streams, such as natural gas power generation or industrial boiler capture, we can achieve similarly high capture levels but with reduced power output. We believe we will be able to operate at capture levels of 90% or better at economically acceptable power output levels with industrial boiler sources, and, with continued development, we expect to be able to cost-effectively capture high percentages of carbon from lower concentration streams in the future.
+​
+​
+
+15
+
+
+
+
+Our Product Platforms and Applications – Current and Future
+Carbonate-Based Distributed Generation
+​
+Our proprietary, patented platforms generate electricity directly from fuel, such as hydrogen, hydrogen and natural gas blends, biogas, renewable natural gas, and natural gas. This multi-fuel capability enables our platform to leverage the established natural gas infrastructure that is readily available in our existing and target markets, compared to some types of fuel cells that can only operate on high purity hydrogen. Our proprietary technology also allows us to utilize on-site biogas, renewable natural gas or a hydrogen and natural gas blend, the application of which is rapidly expanding around the world, to fuel our platforms.
+​
+We market different configurations and applications of our platform to meet specific market needs, including:
+​
+
+• | On-Site Power (also known as “Behind the Meter”): Customers benefit from improved power resilience, energy security from on-site power that reduces reliance on the electric grid in an environmentally responsible manner, and long-term electric and other value stream price certainty. Additionally, thermal energy produced by our fuel cells can be used to produce hot water or steam or to drive high efficiency absorption chillers for cooling applications for commercial and industrial customers. Our platform can also deliver hydrogen and carbon dioxide for beverage and food production in addition to other industrial uses. Carbon separated can also be sequestered depending upon the use case.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+• | Utility Grid Support: Our energy platforms are scalable, enabling multiple fuel cell platforms to be located together on a very small footprint per MW generated. This capability enables utilities to add multi-megawatt power generation to enhance electric grid resiliency where needed, without the associated cost and inefficiencies of a transmission system and without other associated above-ground transmission risks. Our fuel cells can solidify the total utility power generation solution when combined with intermittent sources, such as solar or wind, or less efficient combustion-based equipment that provides peaking or load following power.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+• | Microgrid Applications: Our platforms can also be configured as a microgrid, either independently or with other forms of power generation, with the goal of providing continuous power and a seamless transition during times of grid outages. We have deployed multiple microgrids leveraging our platform solutions, some individually and some integrated with other forms of power generation.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Carbonate-Based Distributed Hydrogen
+​
+Our Tri-gen platform is configurable to deliver on-site hydrogen for transportation, industrial applications, natural gas blending, repowering combustion-based equipment with zero carbon hydrogen, and other uses. Our Tri-gen platform utilizes proprietary fuel cells configured to simultaneously generate three value streams — power generation, hydrogen, and water. When operated on biogas or renewable natural gas, our Tri-gen platform produces renewable hydrogen, also known as green hydrogen, but, even when fueled with natural gas, our platform produces hydrogen with a lower carbon and criteria pollutant impact when compared to conventional steam methane reforming (“SMR”) applications because of the use of internal heat compared to burning fuel in the case of SMRs. Heat and steam are byproducts of fuel cell operation, allowing our Tri-gen platform to produce hydrogen without water consumption (in fact with net water production, making our Tri-gen platform a unique platform for hydrogen production) and with a low carbon footprint. Adding carbon separation or carbon capture to our Tri-gen platform when fueled with natural gas will deliver blue hydrogen (i.e., hydrogen produced with carbon capture). 
+​
+Solid Oxide-Based Electrolysis
+​
+We have commercialized a proprietary solid oxide electrolysis technology which is expected to enable production of hydrogen with high electrical efficiency. We believe that our platform will deliver higher efficiency than our competitors and competing technologies with or without the addition of waste heat. Our solid oxide stacks in electrolysis mode split water into hydrogen and oxygen using supplied carbon-free electricity. The hydrogen can be stored as compressed gas, creating the ability to produce a virtually limitless supply. 
+​
+The largest factor in the cost of electrolysis-produced hydrogen is the cost of electricity. Consequently, efficiency is one of the most effective ways to lower cost. We believe our solid oxide platform is among the most efficient available 
+
+16
+
+
+
+
+electrolysis technologies. We believe this translates to approximately 20% to 35% less electrical energy needed per kg of hydrogen production compared to lower efficiency and low-temperature electrolysis. For example, at a cost of $0.10/kWh for electricity, that difference results in a savings of approximately $1 to $1.50 per kg of hydrogen with our SOEC platform. We believe our solid oxide platform offers one of the best chances of achieving the $1 per kg levelized cost of hydrogen targeted by the U.S. Department of Energy by 2050. Applications for this technology include centralized large scale hydrogen production from grid-scale renewables or nuclear power, and decentralized hydrogen production for industrial, transportation, repowered combustion generation assets, and synthetic or sustainable fuels for use in aviation and other applications. 
+​
+We have operated a sub scale demonstration project of our solid oxide electrolysis technology in our Danbury test facility, which demonstrated the high electrical efficiency discussed above. We have also been awarded a pilot program to provide a packaged 150 kg/day system for demonstration at Idaho National Laboratory. Idaho National Laboratory is currently conducting stack tests to evaluate performance and durability, and we expect our solid oxide electrolysis technology to be placed in service during fiscal year 2024.
+​
+Solid Oxide-Based Long Duration Hydrogen-Based Energy Storage
+​
+We are in the process of developing a solution for long duration energy storage using our proprietary solid oxide electrolysis technology. Our solid oxide stacks are designed to alternate between electrolysis and power generation mode, with one of our design goals being improved integration of intermittent wind and solar power generation sources into the modern electrical grid via long duration storage of energy. Hydrogen-based long duration energy storage has the ability to transform the way intermittent resources are supported today as an alternative to combustion energy sources for continuous or peaking power to fill in when intermittent resources are not online. Instead of producing power from fuel and air, a solid oxide fuel cell stack in electrolysis mode splits water into hydrogen and oxygen using supplied carbon-free electricity. During high demand periods or periods when intermittent resources are offline, the stored hydrogen can be sent back to the same solid oxide stacks, which react it with air to produce power and to regenerate the water, which can be stored for the next cycle. 
+​
+Long duration hydrogen-based energy storage can be achieved without the need to add excessive amounts of conventional battery capacity, a capacity that is reliant on rare earth minerals such as lithium and cobalt, both of which have supply constraints for broad adoption, require extensive mining, present long-term disposal challenges post-use, and are impacted by geopolitical risks associated with supply and mineral processing. The Democratic Republic of the Congo and People’s Republic of China (“China”) were collectively responsible for approximately 70% and 60% of global production of cobalt and rare earth elements, respectively, in 2019. High levels of production concentration, compounded by complex supply chains, increase the risks that could arise from physical disruption, trade restrictions or other developments in major producing countries, jeopardizing energy security. 
+​
+Long duration hydrogen-based energy storage is expected to be required at large scale in order to manage the forecasted high penetration of intermittent renewable resources globally, and we believe the water/hydrogen-based approach of our solid oxide fuel cell/solid oxide electrolysis cell/reversible solid oxide fuel cell technology has the potential to be a key enabler of long duration hydrogen-based energy storage. Hydrogen can be produced locally, is less reliant on energy transition minerals and is regenerative. We believe hydrogen as an energy storage medium is superior to mineral-based storage platforms.
+​
+We have recently completed conversion of the Danbury electrolysis demonstration system to a reversible system, adding equipment for supply of hydrogen to the stack to make power. We have begun testing the system in RSOFC mode, alternating the test stack between production of hydrogen in electrolysis mode and consumption of hydrogen in fuel cell mode. This is an extension of previous tests with single cells or smaller stacks which demonstrated stable operation in RSOFC mode.
+​
+Carbon Capture, Recovery and Utilization
+​
+
+● | Carbon Capture – Power generation and industrial applications are the source of two-thirds of the world’s carbon emissions. Cost effective and efficient carbon capture from these two applications globally represents a large market because it could enable clean use of all available fuels. Our carbon capture system is being designed to separate and concentrate CO2 from the flue gases of natural gas, biomass or coal-fired power plants or other
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+17
+
+
+
+
+
+industrial facilities as a side reaction that extracts and purifies the CO2 in the flue gas during the power generation process and destroys approximately 70% of NOx emissions during the power generation process.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+The production of additional baseload power during the carbon capture process, as opposed to consuming power, differentiates our carbon capture system from other forms of carbon capture offerings. This added revenue attribute could make our carbon capture system more cost effective than other systems which are being considered, or are currently in use, for carbon capture. Our carbon capture systems can be implemented incrementally, managing capital outlay to match decarbonization objectives and regulatory requirements. Since our solution generates a return on capital resulting from the fuel cell's production of electricity compared to an increase in operating expense incurred by other carbon capture technologies, it can extend the life of existing power plants and industrial facilities. 
+​
+We have a Joint Development Agreement with EMTEC, which first became effective on October 31, 2019 and was executed in fiscal year 2020 (as amended from time to time, the “EMTEC Joint Development Agreement”). Under this agreement, we have engaged in exclusive research and development efforts with EMTEC to evaluate and develop new and/or improved carbonate fuel cells to reduce carbon dioxide emissions from industrial and power sources. Please see the subsection below entitled “License and Joint Development Agreements with EMTEC” for additional information regarding the EMTEC Joint Development Agreement and the relationship between us and EMTEC.
+
+● | Carbon Recovery and Utilization – In addition to the ability to capture carbon dioxide from an external source, we are adding the capability to our platforms to extract and purify carbon dioxide produced by the fuel cell power generation process. Our carbon separation technology allows carbon dioxide to be extracted and purified to the appropriate level for utilization or sequestration, significantly reducing the carbon footprint of the generated power from our fuel cell platforms. This requires a simple modification to the fuel cell module that can be incorporated into new platforms as well as retrofitted for existing systems during stack replacements. Over time, as we replace fuel cell stacks in our deployed modules, we intend to integrate our carbon separation technology, making every platform receiving a module upgrade carbon separation ready. One attractive application for this technology is the on-site production of carbon dioxide for use in beverage and food production, in addition to other uses such as pH balancing of water, the production of dry ice, as a binder in cement and concrete production, utilization in grow houses, the production of ethanol and synthetic fuels such as sustainable aviation fuels, and numerous other industrial applications and building materials. The ability to provide clean power, heat, and useable carbon dioxide is a unique feature profile that we believe is only available with our carbon capture platform. Our systems are modular and scalable, so they can be deployed in a wide variety of applications where on-site carbon dioxide is consumed as a product solution, or carbon dioxide is delivered to multiple nearby consumers. Carbon separated from our platforms can also be sequestered in instances where the project does not include a use for carbon.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Markets
+We target distinct markets and applications, including:
+
+● | Utilities and independent power producers;
+--+-------------------------------------------
+
+
+● | Industrial process applications;
+--+---------------------------------
+
+
+● | Education and health care;
+--+---------------------------
+
+
+● | Data centers and communication;
+--+--------------------------------
+
+
+● | Wastewater treatment;
+--+----------------------
+
+
+● | Government;
+--+------------
+
+
+● | Commercial and hospitality;
+--+----------------------------
+
+
+● | Microgrids;
+--+------------
+
+18
+
+
+
+
+
+● | Continuous manufacturing;
+--+--------------------------
+
+
+● | Industrial hydrogen applications (e.g., fertilizer);
+--+-----------------------------------------------------
+
+
+● | Hydrogen for mobility and material handling;
+--+---------------------------------------------
+
+
+● | Hydrogen fuel for high grade heat applications;
+--+------------------------------------------------
+
+
+● | Port applications;
+--+-------------------
+
+
+● | Oil and gas sector;
+--+--------------------
+
+
+● | High CO2 emitters;
+--+-------------------
+
+
+● | Large scale wind and solar projects for the production of hydrogen via electrolysis;
+--+-------------------------------------------------------------------------------------
+
+
+● | Engineering, procurement and construction (“EPC”) firms; and
+--+-------------------------------------------------------------
+
+
+● | Food and beverage.
+--+-------------------
+
+The utilities and independent power producer market has historically been our largest market with customers that include utilities on the East and West coasts of the United States, such as UIL Holdings Corporation, Inc. (owned by Avangrid, Inc., a wholly owned subsidiary of Iberdrola), the Long Island Power Authority (“LIPA”) and Southern California Edison. In Europe, utility customers include E.ON Connecting Energies, one of the largest utilities in the world. In South Korea, we are contracted to operate and maintain a 20 MW power plant project (comprised of five SureSource 3000 plants) for Korea Southern Power Company (“KOSPO”). In addition, we are now focusing on transitioning projects in South Korea which are currently or were previously serviced by POSCO Energy Co., Ltd. (“POSCO Energy”) or its affiliates. During fiscal year 2023, we entered into a long-term service agreement with Noeul Green Energy Co., Ltd. (“Noeul Green Energy”) pursuant to which we are contracted to oversee the operation and maintenance of Noeul Green Energy’s 20 MW fuel cell park over a term of 14 years. In addition, as of October 31, 2023, our platform technology was deployed across South Korea at an additional six sites totaling more than 100 MW. Although these other platforms are currently serviced by POSCO Energy or its affiliates, we are actively engaging with these potential customers in discussions to enter into new long-term service agreements with us. If we are successful in transitioning this installed base to us, upgrading each of those sites over time with new stacks would require us to produce additional stack replacements at our manufacturing facility in Torrington. 
+Our power platforms are producing power for a variety of industrial, commercial, municipal and government customers, including manufacturing facilities, pharmaceutical processing facilities, universities, healthcare facilities and wastewater treatment facilities. These institutions expect efficient, clean, and continuous power to reduce operating expenses, reduce greenhouse gas emissions and avoid pollutant emissions to meet their sustainability goals, while boosting resiliency and limiting dependence on the distribution grid. CHP applications further support economic and sustainability initiatives by minimizing or avoiding the use of combustion-based boilers for heat. Our patented power platforms are unique in their ability to run on biogas. 
+We market our products primarily in the United States, Europe and South Korea, and we are also pursuing expanding opportunities in other countries around the world.
+We target for expansion and development markets and geographic regions that:
+
+● | Benefit from and value clean distributed generation;
+--+-----------------------------------------------------
+
+
+● | Are located where there are high energy costs, poor grid reliability, and/or challenged transmission and distribution lines;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Have a need for distributed hydrogen for transportation or industry;
+--+---------------------------------------------------------------------
+
+
+● | Can leverage the multiple value streams delivered by our platforms (electricity, hydrogen, thermal, water, and carbon recovery);
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+19
+
+
+
+
+
+● | Are aligned with regulatory frameworks that harmonize energy, economic and environmental policies; and
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | Are committed to reducing their Scope 1 and Scope 2 emissions.
+--+---------------------------------------------------------------
+
+Our business model focuses on providing these markets and geographic regions with highly efficient and affordable distributed generation that delivers de-centralized power in a low-carbon, virtually pollutant-free manner. Geographic markets that meet these criteria and where we are already well established include the Northeastern United States and California. We have also installed and are operating plants in Europe and Asia, mainly South Korea, in addition to North America. 
+We have made significant progress in reducing costs and creating markets since the commercialization of our products in 2003, with more than 220 MW of our carbonate platforms installed and operating as of October 31, 2023. 
+We believe that we can accelerate and expand the adoption of our distributed solutions through: 
+
+● | further reductions in the total cost of ownership;
+--+---------------------------------------------------
+
+
+● | increasing understanding of total avoided emissions and continued education regarding the multiple value streams that our solutions provide;
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | continued improvements in product quality, power efficiency, and stack life;
+--+-----------------------------------------------------------------------------
+
+
+● | increasing brand recognition and understanding of our differentiated platform portfolio;
+--+-----------------------------------------------------------------------------------------
+
+
+● | expanding our sub megawatt platform to include solid oxide for both hydrogen power production and utilization of hydrogen rich fuels;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | geographic and segment expansion;
+--+----------------------------------
+
+
+● | working to increase demand for on-site generation and microgrid expansion; and
+--+-------------------------------------------------------------------------------
+
+
+● | product expansion across carbon recovery and utilization, carbon capture and distributed hydrogen.
+--+---------------------------------------------------------------------------------------------------
+
+Levelized Cost of Energy
+Our fuel cell projects deliver power at a rate comparable to pricing from the grid in our targeted markets. Policy programs that help to support adoption of clean distributed power generation often lead to below-grid pricing. We measure power costs by calculating the Levelized Cost of Energy (“LCOE”) over the life of the project. 
+There are several primary elements to LCOE for our fuel cell projects, including:
+
+● | Capital cost;
+--+--------------
+
+
+● | Operations and maintenance cost; and
+--+-------------------------------------
+
+
+● | Fuel expense.
+--+--------------
+
+Given the level of integration in our business model of manufacturing, installing and operating fuel cell power platforms, there are multiple areas and opportunities for cost reductions. We are actively managing and reducing costs in all three LCOE areas, including cost reduction initiatives with respect to system components and raw materials, advanced lean manufacturing principles, improvements in lifetime product costs through continued system and platform engineering, and improvements in output and efficiency. We are also investing in platform design to reduce overall EPC cost associated with the installation of our platforms. 
+
+
+Our Business Model
+Our business model is based on multiple revenue streams, targeting both recurring revenue and non-recurring revenue. Recurring revenue is delivered through recurring electricity, capacity, and renewable energy credit sales under power purchase agreements (“PPAs”) and tariffs for projects we retain in our generation operating portfolio, as well as service 
+
+20
+
+
+
+
+revenue, mainly through long-term service agreements. Non-recurring revenue is generated through power platform and component sales, as well as from public and private industry research contracts related to the development of our Advanced Technologies (which are discussed in more detail below).
+We are a complete solutions provider for our platform solutions, controlling the design, sales, manufacturing, installation, operations, and maintenance of our patented fuel cell technology under long-term power purchase and service agreements. When utilizing long-term PPAs, the end-user of the power or utility hosts the installation and only pays for power as it is delivered, avoiding up-front capital investment. We also develop projects and sell equipment directly to customers, providing a complete solution of engineering, installing, and servicing the fuel cell power plant under an EPC agreement and a long-term maintenance and service agreement. (See the sections below entitled “Engineering, Procurement and Construction” and “Service and Warranty Agreements” for more information.) We maintain the long-term recurring service obligation and associated revenues running conterminous with the life of such projects.
+Historically, in the United States, customers or developers typically purchased our fuel cell power plants outright.  As the size of our fuel cell projects has grown and the availability of project capital has improved, project structures in the U.S. have transitioned predominantly to PPAs. Customers and developers generally have the option to either purchase our fuel cell platforms outright or enter into a PPA under which the customer or developer (i.e. the end-user of the power) commits to purchase power as it is produced for an extended period of time, typically 10 to 20 years. We may elect to retain ownership of a project, or we may elect to sell all or some of the project to a third party. If a project or project asset is sold, revenue from the sale is recognized and reflected in the Product revenues line item of our Consolidated Statements of Operations and Comprehensive Loss, and we recognize revenue separately for the long-term maintenance and service agreement with respect to the project over the term of that agreement. If a project is retained, we recognize electricity, capacity and/or renewable energy credits monthly over the term of the PPA. We report the financial performance of retained projects as Generation revenues and Cost of generation revenues in our Consolidated Statements of Operations and Comprehensive Loss. 
+Our decision to retain certain projects is based in part on the recurring, predictable cash flows these projects can offer us, the proliferation of PPAs in the industry and the potential access to capital.  Retaining PPAs affords us the full benefit of future cash flows under the PPAs, which are expected to be higher than if we sell the projects, although it requires more upfront capital investment and financing.  As of October 31, 2023, our operating portfolio of retained projects totaled 43.7 MW with an additional 19.4 MW under development or construction. We plan to continue to grow this portfolio prudently and in a balanced manner, while also selling projects to customers or project investors when selling presents the best value and opportunity for our capital needs or meets the customer’s desired ownership structure. Additionally, we may monetize certain environmental and incentive tax credits through lending institutions and tax investors, including through entering into sale-leaseback and partnership-flip structures that reduce our required net capital investment in a project while still allowing us to retain ownership of the project. 
+We operate and maintain our project platforms for the life of the project regardless of the ownership structure. For all operating fuel cell platforms not operating under a PPA, customers enter into long-term service agreements with us, some of which have terms of up to 20 years. We report the revenue earned under long-term maintenance and service agreements as Service agreements revenues in our Consolidated Statements of Operations and Comprehensive Loss. 
+Internationally, South Korea and Europe have historically been product sale markets for the Company; however, prior to fiscal year 2022, we had not recognized meaningful product sales revenues in these geographies since 2018. Our activities in South Korea were impacted by our prior dispute with POSCO Energy and, until fiscal year 2021, we moderated our investment in business development in Europe due to limited resources. During fiscal year 2022, our commercial team renewed its sales efforts in both markets. Increasing product sales in South Korea and Europe is a key area of focus for our Company. As a result of entering into a settlement agreement with POSCO Energy and its subsidiary, Korea Fuel Cell Co., Ltd. (“KFC”), on December 20, 2021 (the “Settlement Agreement”), we have confirmed our full access to the South Korean and broader Asian markets for sales of our products and we are aggressively pursuing sales in these markets, which we see as key to our future growth. 
+​
+Advanced Technologies Programs
+Our Advanced Technologies programs include research and development and demonstration programs funded by third parties. We undertake both privately funded and publicly funded research and development to develop and grow these 
+
+21
+
+
+
+
+opportunities, reduce product and output costs, and expand our technology portfolio. Our Advanced Technologies programs are currently focused on the continued development and commercialization of our solutions that advance solid oxide fuel cells, distributed hydrogen, and carbon capture. We report the revenue earned under these programs as Advanced Technologies contract revenues in our Consolidated Statements of Operations and Comprehensive Loss.
+​
+We have historically worked on technology development with various U.S. government departments and agencies, including the DOE, the Department of Defense, the Environmental Protection Agency, the Defense Advanced Research Projects Agency, the Office of Naval Research, and the National Aeronautics and Space Administration. Government funding, principally from the DOE, provided 3%, 6% and 9% of our revenue for the fiscal years ended October 31, 2023, 2022, and 2021, respectively. In addition to these U.S. government departments and agencies, we have also executed contracts for other funded work with private companies like CNRL, Drax and EMTEC. 
+​
+Beyond the external funding sources described above, we intend to prudently invest capital to accelerate commercialization of solid oxide fuel cells, carbon capture and separation, and long-duration energy storage solutions, as discussed below in more detail in the section entitled “Company Funded Research and Development.”
+​
+​
+Company Funded Research and Development
+In addition to research and development performed under research contracts, including as described under the heading “Advanced Technologies Programs” above, we also fund our own research and development activities to support the commercial fleet with product enhancements and improvements. We work to continuously improve and mature our products and implement lessons learned into our product designs and manufacturing process subsequent to introduction. We also continue to invest in improvement initiatives with respect to our core molten carbonate technology. For example, we have identified improvement opportunities ranging from improved thermal management by reducing internal temperature to improving the performance of our electrical balance of plant and implemented design changes to our commercial platforms which are expected to improve overall product performance. 
+As it relates to our fuel cell modules, these improvements center around delivering more uniform temperature distribution within the cell stack within the modules with the intent of improving output over the life of the modules to achieve the product’s expected design life. Continued extension of design life and output of our modules over time is a core research and development focus. In addition, we are also investing in the commercialization of our patented technologies, such as carbon capture and separation, solid oxide fuel cells, and solid oxide electrolysis cells for hydrogen production and energy storage as we believe these technologies represent significant future market opportunities. To further accelerate commercialization activity for our solid oxide platform, we commenced the design and construction of two advanced prototypes: (i) a 250-kW power generation platform, and (ii) a 1 MW high-efficiency electrolysis platform. These advanced prototypes are in process and expected to be completed during calendar year 2024.
+Company funded research and development is included in Research and development expenses (operating expenses) in our consolidated financial statements. The total research and development expenditures in the Consolidated Statements of Operations and Comprehensive Loss, including third party and Company-funded expenditures, are as follows:
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ 
+------------------------------------------------+---+-------------------------+--------+------+---+--------+---+---+-------
+​ | | Years Ended October 31,
+(dollars in thousands) | ​ | 2023 | | 2022 | | 2021 
+Cost of Advanced Technologies contract revenues | ​ | $ | 13,185 | ​ | $ | 15,184 | ​ | $ | 16,496
+Research and development expenses | ​ | | 61,021 | ​ | | 34,529 | ​ | | 11,315
+Total research and development | ​ | $ | 74,206 | ​ | $ | 49,713 | ​ | $ | 27,811
+
+​
+​
+​
+​
+​
+Manufacturing and Service Facilities
+We operate a 167,000 square-foot manufacturing facility in Torrington, Connecticut where we produce the individual cell packages and assemble fuel cell modules for our carbonate fuel cell products. This facility also houses our global service center. Our completed modules are conditioned in Torrington and shipped directly to customer sites. We continue to invest in manufacturing capability with the goal of reducing production bottlenecks and driving productivity, including investments in automation, laser welding, and the construction of additional integrated conditioning capacity. We also constructed a SureSource 1500 in Torrington during fiscal year 2022, which operates as a testing facility for qualifying 
+
+22
+
+
+
+
+new supplier components and performance testing and validation of continued platform innovations. Additionally, we expect to complete the construction of an additional on-site fuel cell demonstration and test unit in fiscal year 2024. This platform will allow for component testing, with the goal of accelerating the integration of alternate suppliers, and will allow prospective customers to observe demonstrated capabilities of the fuel cell platform, such as carbon separation, including for the sampling and testing of separated CO2 to verify quantity, quality or purity requirements for food and beverage companies. For the year ended October 31, 2023, the Torrington facility was operating at a 32.7 MW per year annualized production rate on a single production shift. Maximum annualized capacity (module manufacturing, final assembly, testing and conditioning) is 100 MW per year under the Torrington facility’s current configuration when being fully utilized. The Torrington facility is sized to accommodate the eventual annualized production capacity of up to 200 MW per year with additional capital investment in machinery, equipment, tooling and inventory.
+We design and manufacture the core fuel cell components that are stacked on top of each other to build a fuel cell stack. For megawatt-scale power plants, four fuel cell stacks are combined to build a 1.4 MW fuel cell module. To complete the power platform, the fuel cell module or modules are combined with the BOP. The mechanical BOP processes the incoming fuel such as natural gas or biogas and includes various fuel handling and processing equipment such as pipes and blowers. The electrical BOP processes the power generated for use by the customer and includes electrical interface equipment such as an inverter. The BOP components are either purchased directly from suppliers or the manufacturing is outsourced based on our designs and specifications. This strategy allows us to leverage our manufacturing capacity, focusing on the critical aspects of the power plant where we have specialized knowledge and expertise and possess extensive intellectual property. BOP components are shipped directly to a project site and are then assembled with the fuel cell module into a complete power plant.
+The Torrington production and service facility and the Danbury corporate headquarters and research and development facility are ISO 9001:2015 and ISO 14001:2015 certified and our Field Service operation (which maintains the installed fleet of our platforms) is ISO 9001:2015 certified, reinforcing the tenets of our quality management system and a focus on safety, continuous improvement, and commitment to quality, environmental stewardship, and customer satisfaction. Sustainability is promoted throughout our organization. We manufacture our products and manage them through end-of-life using environmentally friendly business processes and practices, certified to ISO 14001:2015. We continually strive to improve how we plan and execute across the entire product life cycle. We maintain a chain of custody and responsibility of our products throughout the product life cycle and strive for “cradle-to-cradle” sustainable business practices, incorporating sustainability in our corporate culture. When our platforms reach the end of their useful lives, we can refurbish and re-use certain parts and then recycle most of what we cannot re-use. By weight, approximately 93% of the entire power plant can be re-used or recycled at the end of its useful life.
+​
+Our manufacturing and research and development facility in Calgary, Alberta, Canada is focused on the engineering and development of our solid oxide fuel cell (“SOFC”) and SOEC technologies. This facility also houses our SOFC and SOEC stack research and development effort and includes equipment for the manufacturing of solid oxide cells and stacks, including advanced manufacturing capabilities. We are making additional investments in the Calgary facility to establish a center of competence and excellence for solid oxide cell and stack research and manufacturing. This facility includes equipment for the manufacturing of solid oxide cells and stacks, including an advanced automated stack manufacturing line which has been developed to ensure that the labor and overhead which are required to produce these technologies are optimized for efficiency and complement the low direct material cost of the stack. As of October 31, 2023, the solid oxide production capacity expansion is well underway in our Calgary facility and is expected to increase the capacity of the facility from 1 MW to 10 MW per year of SOFC production or from 4 MW to 40 MW per year of SOEC production in fiscal year 2024. In parallel, we are also evaluating additional U.S. locations with the goal of producing up to an additional 400 MW per year of SOEC, which would be implemented in phases as the market develops.
+We have a manufacturing and service facility in Taufkirchen, Germany that has the capability to perform final module assembly for up to 20 MW per year of carbonate sub-megawatt fuel cell power platforms to service the European market. Our European service activities are also operated out of this location. Our operations in Europe are certified under both ISO 9001:2015 and ISO 14001:2015. 
+​
+As we continue our focus on business in international markets such as Europe and Asia, we plan to explore manufacturing and assembly opportunities in those markets to achieve more efficient product manufacturing and supply chain operations, as well as meet the increasing government requirements for the inclusion of locally sourced content and components in order to benefit from enhanced clean energy investment incentives.
+​
+​
+
+23
+
+
+
+
+​
+Raw Material Sourcing and Supplier Relationships
+We use various commercially available raw materials and components to construct a fuel cell module, including nickel and stainless steel, which are key inputs in our manufacturing process. Our fuel cell stack raw materials are sourced from multiple vendors and are not considered precious metals. We have a global integrated supply chain with qualified sources of supply, many of which are located locally in the regions in which we have established manufacturing and service operations including Europe and Asia. 
+​
+Despite a somewhat volatile nickel market and increased pricing pressure on stainless steel direct materials, we have employed strategic inventory purchases, negotiated fixed-price supply contracts and employed financial hedges to help mitigate the impact to our product cost and improve financial planning. We have implemented several initiatives to mitigate the effect of impacts associated with extended lead times for materials and components by optimizing domestic supplier shipping volumes, leveraging competition across multiple qualified freight forwarders, establishing selective direct relationships with steamship lines, and aggregating shipments with qualified suppliers. 
+​
+From time to time, we may enter into over-the-counter financial hedges to mitigate market price volatility associated with our underlying physical commodity exposure (and other asset classes) consistent with our Financial Risk Management Policy. These hedges are non-speculative in nature, are entered into with investment grade-rated multinational financial institutions and are governed under the terms of the International Swaps and Derivative Association.
+​
+While we manufacture the fuel cells in our Torrington facility, the electrical and mechanical BOPs are assembled by and procured from several suppliers. All of our suppliers must undergo a stringent and rigorous qualification process. We continually evaluate and qualify new suppliers as we diversify our supplier base in our pursuit of lower costs, security of supply, and consistent quality. We purchase mechanical and electrical BOP components from third party vendors, based on our own proprietary designs.
+​
+Assuring the absence of conflict minerals in our power platforms is a continuing initiative. Our fuel cells, including the fuel cell components and completed fuel cell module, do not utilize any 3TG minerals (i.e., tin, tungsten, tantalum and gold) that are classified as conflict minerals. We utilize componentry in the BOP such as computer circuit boards that utilize trace amounts of 3TG minerals. For perspective, total shipments in fiscal year 2022 weighed approximately 6.2 million pounds, of which only 38.0 pounds, or 0.000908%, represented 3TG minerals, so the presence of these minerals is negligible. Our conflict mineral disclosure filed with the Securities and Exchange Commission (“SEC”) on Form SD contains specific information on the actions we are taking to avoid the use of conflict minerals.
+​
+Overall, as we continue to grow our business, we remain focused on improving quality, increasing the competitive supply landscape, maintaining existing supplier relationships, as well as building strong new key supplier relationships to expand our supply chain options.
+​
+Engineering, Procurement and Construction
+We provide customers with complete turn-key solutions, including development, engineering, procurement, construction, interconnection and operations for our fuel cell projects. We have developed relationships with many design firms and licensed general contractors and have a repeatable, safe, and efficient execution philosophy that has been successfully demonstrated in numerous jurisdictions, both domestically and abroad, all with an exemplary safety record. The ability to rapidly and safely execute installations minimizes high-cost construction period financing and can assist customers in certain situations when the commercial operations date for a project is time sensitive.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Services and Warranty Agreements
+We offer a comprehensive portfolio of services, including engineering, project management and installation, and long-term operating and maintenance programs, including trained technicians that remotely monitor and operate our platforms around the world, 24 hours a day and 365 days a year. We directly employ field technicians to service the power platforms and maintain distribution centers near our customers to support the high availability of our platforms. 
+For all operating fuel cell platforms not under a PPA, customers purchase long-term service agreements (“LTSAs”), some of which have terms of up to 20 years. Pricing for LTSAs is based upon the value of service assurance and the markets in 
+
+24
+
+
+
+
+which we compete and includes all future maintenance and fuel cell module exchanges. Each carbonate model of our power platform has a target design life of 25-to-30 years. The fuel cell modules, with legacy modules having a 5-year target cell design life and current production modules having a 7-year target cell design life, go through periodic replacement, while the BOP systems, which consist of conventional mechanical and electrical equipment, are maintained over the life of the project.
+Under the typical provisions of both our LTSAs and PPAs, we provide services to monitor, operate, service and maintain power platforms to meet specified performance levels. Operations and maintenance are key drivers for power platforms to deliver their projected revenue and cash flows. The service aspects of our business model provide a recurring and predictable revenue stream for the Company. We have committed future production for scheduled fuel cell module exchanges under LTSAs and PPAs through the respective expiration dates of such LTSAs and PPAs, which range through 2042. The pricing structure of the LTSAs incorporates these scheduled fuel cell module exchanges and the committed nature of this production facilitates our production planning. Many of our PPAs and LTSAs include guarantees for system performance, including electrical output and heat rate. Should the power platform not meet the minimum performance levels, we may be required to replace the fuel cell module with a new or used replacement module and/or pay performance penalties. Our goal is to optimize the power platforms to meet expected operating parameters throughout their contracted service terms.
+In addition to our service agreements, we provide a warranty for our products against manufacturing or performance defects for a specific period of time. The warranty term in the U.S. is typically 15 months after shipment or 12 months after acceptance of our products. We accrue for estimated future warranty costs based on historical experience.
+​
+​
+​
+​
+​
+Competition
+The market for clean energy is highly competitive. Many factors, including government incentives and specific market dynamics, affect how clean energy can deliver outcomes for customers in a given region. While clean energy often competes against the electric grid, which is readily available to prospective customers and supplied by traditional centralized power plants, including coal, gas, hydro, and nuclear plants, clean energy is increasingly able to compete with the grid and long-distance transmission of electricity in terms of levelized cost of electricity. Clean energy sources that customers may consider beyond our solutions include products such as wind turbines, solar arrays, and hydro facilities, as well as a range of hydrogen and fuel cell solutions from both incumbent and developing competitors.
+Our platforms are based on a range of technologies and target a variety of applications, each of which have incumbent and developing competitors. Several companies in the U.S. are engaged in fuel cell development, although, to our knowledge, we are the only domestic company engaged in manufacturing and deployment of stationary natural gas or biogas fueled carbonate fuel cells. In addition to different types of stationary fuel cells, some other technologies that compete in the distributed generation marketplace include micro-turbines, turbines, and reciprocating gas engines.
+Our stationary fuel cell platforms also compete against large scale solar and wind technologies, although we complement the unreliable intermittent nature of solar and wind power with the continuous, reliable power output of our fuel cells. Utility scale solar and wind power require specific geographies and weather profiles, transmission for utility-scale applications, and a source of back up capacity for when the sun or wind is not available. They also require a significant amount of land compared to our fuel cell power plants, making it difficult to site megawatt-class solar and wind projects in urban areas. While fuel cells emit negligible amounts of NOx, SOx and particulate matter, fuel cells do emit some carbon dioxide when fueled with natural gas or carbon-neutral biogas (although, while operating on biogas, the platform’s emissions would be considered carbon neutral), but in both cases less per kWh than other less-efficient systems. In many markets, baseload fuel cells avoid more emissions than wind or solar systems of similar capacity because they operate for many more hours of the day compared to these intermittent resources.
+Product development cycles are long and product quality and efficiency are critical to success. Research and development investments are crucial in this business, as are focused intellectual property strategies and protection of such, as new technologies and solutions could make our solutions less competitive. 
+We continue to invest in exploring new ways of further improving the efficiency and effectiveness of our platforms. Our objective is to continue to improve our competitive position, including innovating in areas such as offering multiple 
+
+25
+
+
+
+
+platform solutions, and methods for producing clean hydrogen, solid oxide, and carbon separation and carbon capture in order to add value for customers looking for clean and renewable energy and to aid in their decarbonization goals.
+​
+​
+Backlog
+Backlog represents definitive agreements executed by the Company and our customers. Project awards are not included in our backlog.
+Backlog as of October 31, 2023 and 2022 consisted of the following (in thousands):
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ 
+----------------------------+---+------+-----------+------+---+----------
+​ | | 2023 | | 2022
+Commercial: | | ​ | | | ​ | 
+Product | ​ | $ | — | ​ | $ | 9,065 
+Service | ​ | | 140,782 | ​ | | 114,040 
+Generation | ​ | | 872,072 | ​ | | 944,041 
+Total Commercial | ​ | $ | 1,012,854 | ​ | $ | 1,067,146
+​ | ​ | ​ | ​ | ​ | ​ | ​ 
+Advanced Technologies: | ​ | | | ​ | | 
+Non-U.S. Government | ​ | $ | 10,745 | ​ | $ | 7,598 
+U.S. Government - Funded | ​ | ​ | 4,263 | ​ | ​ | 14,065 
+U.S. Government - Unfunded | ​ | | 255 | ​ | | 1,190 
+Total Advanced Technologies | ​ | $ | 15,263 | ​ | $ | 22,853 
+​ | ​ | ​ | ​ | ​ | ​ | ​ 
+Total Backlog | ​ | $ | 1,028,117 | ​ | $ | 1,089,999
+
+​
+Service and generation backlog as of October 31, 2023 had a weighted average term of approximately 17 years, with weighting based on dollar backlog and utility service contracts of up to 20 years in duration at inception. Generally, our government funded and privately funded research and development contracts are subject to the risk of termination at the convenience of the contract counterparty. 
+​
+Generation backlog is the largest component of our total commercial backlog, reflecting revenues from projects with PPAs in place and of which we have retained ownership. Under a PPA, the utility or end-user of the power (and other attributes such as capacity and renewable energy credits) commits to purchase power as it is produced for an extended period of time, typically 10-to-20 years. With the project being retained, electricity, capacity and/or renewable energy credits are recognized monthly over the term of the PPA. We report the financial performance of retained project assets as generation revenue and cost of generation revenues.
+Our outstanding backlog is not indicative of amounts to be earned in the upcoming fiscal year. The specific elements of backlog may vary in terms of timing and revenue recognition from less than one year to up to 20 years. 
+​
+We may choose to sell or retain operating project assets on the balance sheet, thus creating variability in timing of revenue recognition. Accordingly, the timing and the nature of our business makes it difficult to predict what portion of our backlog will be filled in the next fiscal year.
+
+
+License and Joint Development Agreements with EMTEC
+EMTEC and FuelCell Energy began working together in 2016 under an initial joint development agreement with a focus on better understanding the fundamental science behind carbonate fuel cells for use in advanced applications and specifically how to increase efficiency in separating and concentrating carbon dioxide from the exhaust of natural gas-fueled power generation.
+In June 2019, we entered into a license agreement with EMTEC to facilitate the further development of our carbon capture platform (the “EMTEC License Agreement”). Pursuant to the EMTEC License Agreement, we granted EMTEC and its affiliates a non-exclusive, worldwide, fully-paid, perpetual, irrevocable, non-transferable license and right to use our patents, data, know-how, improvements, equipment designs, methods, processes and the like to the extent it is useful to research, develop and commercially exploit carbonate fuel cells in applications in which the fuel cells concentrate carbon dioxide from external industrial and power sources and for any other purpose attendant thereto or associated therewith, in 
+
+26
+
+
+
+
+exchange for a $10 million payment. Such right and license is sublicensable to third parties performing work for or with EMTEC or its affiliates but shall not otherwise be sublicensable. 
+The EMTEC License Agreement facilitated the execution of the EMTEC Joint Development Agreement, pursuant to which we have engaged in exclusive research and development efforts with EMTEC to evaluate and develop new and/or improved carbonate fuel cells to reduce carbon dioxide emissions from industrial and power sources, in exchange for (a) payment by EMTEC of (i) an exclusivity and technology access fee of $5.0 million, (ii) up to $45.0 million for research and development efforts (which amount has been increased in recent amendments as described below), and (iii) milestone-based payments of up to $10.0 million, which were to be paid only if certain technological milestones were met (the first technical milestone was met and $5.0 million in milestone payments were made during fiscal year 2022), and (b) certain licenses. 
+Effective as of October 31, 2021, we and EMTEC agreed, among other things, to extend the term of the EMTEC Joint Development Agreement for an additional six months, ending on April 30, 2022. This extension allowed for the continuation of research intended to enable incorporation of design improvements to our fuel cell design in order to support a decision to use the improvements in a future demonstration of the technology for capturing carbon at an ExxonMobil refinery located in Rotterdam, Netherlands (such demonstration, the “Rotterdam Project”) and provided additional time to achieve the first milestone under the EMTEC Joint Development Agreement.
+​
+Effective as of April 30, 2022, we and EMTEC agreed to further extend the term of the EMTEC Joint Development Agreement for an additional eight months, ending on December 31, 2022 and to increase the maximum amount of research costs to be reimbursed by EMTEC from $45.0 million to $50.0 million. This extension to the EMTEC Joint Development Agreement allowed for the continuation of research intended to enable us and EMTEC to: (i) gain an improved understanding of the fuel cell operating envelope for various carbon capture applications; and (ii) complete data collection to support the project gate decision for the Rotterdam Project. In addition, under this second extension, we and EMTEC agreed to conduct a joint market study to (a) define application opportunities, commercialization strategies, and development requirements, (b) identify partners for potential pilot/demonstration projects, and (c) assess fuel cell/stack/module manufacturing scale-up and cost reduction. 
+​
+Effective as of December 1, 2022, we and EMTEC agreed to further extend the term of the EMTEC Joint Development Agreement such that it would end on August 31, 2023 and to further increase the maximum amount of research costs to be reimbursed by EMTEC from $50.0 million to $60.0 million. This extension to the EMTEC Joint Development Agreement (i) allowed for continuation of research intended to enable us and EMTEC to finalize data collection in support of the project gate decision for the Rotterdam Project, (ii) allowed for the continuation of the development, engineering and mechanical derisking of the Generation 2 Technology fuel cell module prototype, and (iii) allowed for studying the manufacturing scale-up and cost reduction of a commercial Generation 2 Technology fuel cell carbon capture facility.
+​
+Effective as of August 31, 2023, we and EMTEC agreed to further extend the term of the EMTEC Joint Development Agreement such that it will end on March 31, 2024 (unless terminated earlier) and to further increase the maximum amount of research costs to be reimbursed by EMTEC from $60.0 million to $67.0 million. This extension to the EMTEC Joint Development Agreement is intended to allow us and EMTEC the opportunity to continue (i) derisking of the Generation 2 Technology fuel cell module demonstration prototype and (ii) the joint marketing and sales efforts to inform development of a new business framework between the parties beyond the current joint development agreement structure. 
+​
+We have successfully demonstrated and completed all required technology tests regarding the efficacy and longevity of our carbonate fuel cells to capture at least 90% of CO2 emissions from an external emissions source with a concentration of 8% or higher CO2. 
+​
+In December 2023, we, in conjunction with Exxon Mobil Corporation, announced that Esso Nederland BV, an affiliate of Exxon Mobil Corporation, plans to build a pilot plant at its Rotterdam Manufacturing Complex to test the carbonate fuel cell technology for carbon capture jointly developed by us and EMTEC under the EMTEC Joint Development Agreement in an industrial environment. We have not entered into any new purchase orders or definitive agreements in connection with plans to construct the pilot plant as of the date of this report. Accordingly, we are unable to predict the impact, if any, of these plans on our future financial results or condition.
+​
+
+27
+
+
+
+
+Regulatory and Legislative Environment
+Distributed generation differs from central generation. As such, it is subject to a separate set of legal standards as well as legislative and regulatory policies. The policies that affect our products are not always the same as those imposed on other companies, or the products of other companies, that produce power, and while some policies may make our products less competitive, others may provide an advantage. Certain utility policies may also pose barriers to our installation or interconnection with the utility grid, such as backup, standby or departing load charges that make installation of our products less economically attractive for our customers. Regulatory and legislative impact can take the form of policy, incentive programs, and defined sustainability initiatives such as Renewable Portfolio Standards (“RPS”).
+United States
+Various states and municipalities in the U.S. have adopted programs for which our products qualify, including programs supporting self-generation, clean air power generation, combined heat and power applications, carbon reduction, grid resiliency/microgrids, energy storage and utility ownership of fuel cell projects.
+​
+Many states in the U.S. have enacted legislation adopting Clean Energy Standards (“CES”) or RPS mechanisms. Under these standards, regulated utilities and other load serving entities are required to procure a specified percentage of their total electricity sales to end-user customers from eligible resources according to a set schedule. CES and RPS, and their implementing regulations, vary significantly from state to state, particularly with respect to the percentage of renewable energy required to achieve the state’s mandate, the definition of eligible clean and renewable energy resources, and the extent to which renewable energy credits (certificates representing the generation of renewable energy) qualify for CES or RPS compliance. Fuel cells using biogas qualify as renewable power generation technology in all of the CES and RPS states in the U.S., and some states specify that fuel cells operating on natural gas are also eligible for these initiatives in recognition of the high efficiency and low pollutants of fuel cells. Many states have been debating legislation or regulations that seek to reduce the consumption of electricity generated through the use of fossil fuels in favor of zero or low-carbon resources. 
+​
+At the federal level, there also has been significant activity during the last five years, in particular, the passage of the Bipartisan Infrastructure Bill of 2021 and the Inflation Reduction Act of 2022. 
+ ​
+The Bipartisan Infrastructure Bill allocated over $8 billion for hydrogen-related activity and research, including a hydrogen “HUBs” initiative to be administered by the DOE. This federal legislation spurred unprecedented activity across the U.S. to organize networks of hydrogen production, distribution, and consumption in an effort to attract federal matching funds available under the Bipartisan Infrastructure Bill. In October 2023, the Biden-Harris administration announced that seven Hydrogen Hub projects were selected for award negotiations with the potential to receive up to an aggregate of $7 billion of funding. 
+​
+The Inflation Reduction Act, or “IRA,” was signed into law on August 16, 2022, marking a major investment by the U.S. federal government into a broad spectrum of renewable energy technologies by recasting existing investment and production tax credits and creating new credits for zero-emission technology. The IRA extended the existing Internal Revenue Code (“IRC”) Section 48 investment tax credit, which includes fuel cell technology, through 2024 and introduces new prevailing wage conditions required to be eligible for the full credit value. Beyond this change, we believe our Company could benefit from changes to the production tax credit pursuant to IRC Section 45Q related to carbon capture and sequestration, the new investment tax credit pursuant to IRC Section 48E for zero emission energy property, which will succeed the existing Section 48 investment tax credit, and the IRC Section 45V production tax credit for hydrogen. This new production credit offers up to $3.00 per kilogram of hydrogen produced if the hydrogen is considered zero carbon and if the hydrogen generation project conforms with prevailing wage and apprenticeship requirements. Such an incentive for zero carbon could result in increased demand for commercial solutions to hydrogen production technology, such as our solid oxide electrolyzer. Many of the modified or new tax credits also include additional credits for using domestically sourced content and for siting projects in specified “energy communities” where fossil fuel production previously has been a significant economic driver. Based on the current guidance made available by the IRS and U.S. Treasury Department, we believe that our Company is well positioned to take advantage of these provisions.
+South Korea
+South Korea introduced the world’s first hydrogen law, the Hydrogen Economy Promotion and Safety Management Act (the “Hydrogen Act”), in 2020. The Hydrogen Act focuses on developing an ecosystem for the hydrogen economy and expands public access to alternative fuel. In 2022, a Clean Hydrogen Portfolio Standard came into effect which mandates a renewable energy supply system using hydrogen under the Hydrogen Act by excluding hydrogen energy and fuel cells 
+
+28
+
+
+
+
+from the scope of the existing RPS scheme. Moreover, the amendment to the Hydrogen Act adopted a grade-based certification system for clean hydrogen and requires operators of hydrogen fuel supply facilities to include a minimum percentage of clean hydrogen in hydrogen that they sell or use.
+
+Europe
+European governments continue to be supportive of hydrogen-based generation and efficient CHP applications. Italy adopted a system to promote energy efficiency with Italian “White Certificates” (Energy Efficiency Certificates) that are tradable certificates, for which fuel cells qualify, to promote energy savings expressed in tons of oil equivalent saved. Germany, the United Kingdom and the Netherlands provide tax incentives, grants and waivers of regulatory fees for clean energy installations. Additionally, large energy-intensive industry sectors and the aviation sector in European Union countries above a certain size qualify for the Emissions Trading Scheme and are subject to a cap-and-trade requirement for carbon emissions.
+In the European Union (“EU”), the Emissions Trading System (“ETS”) has created carbon capture sequestration allowances to be applied to ETS calculations for carbon not released into the atmosphere, and instead placed into a storage location for future use. Similar credits are allowed for entities that capture CO2 emissions to produce precipitated calcium carbonate, in which the used CO2 is chemically bound. The EU is anticipated to develop a standard to be able to classify when CO2 has been “stored”. We believe that these developments, along with legislation recently passed by the EU Parliament leading to the creation of the European Hydrogen Bank funded with 3 billion euros, will provide market support for carbon capture technologies. Additionally, various individual EU member states are investing substantial amounts of public funding into the deployment of hydrogen, such as Germany with the H2Global program where the public corporate vehicle, HintCo, is expected to be funded with 10 billion euros. In parallel to the ongoing public funding of hydrogen, the EU has recently implemented a carbon border adjustment mechanism whereby specific industries will be subject, after a transitional phase started on October 1, 2023 and running to December 31, 2025, to mirror carbon pricing for imports into the EU.
+In response to the hardships and global energy market disruption caused by Russia's invasion of Ukraine, the EU adopted the REPowerEU Plan. REPowerEU is a plan for:
+
+
+● | saving energy,
+--+---------------
+
+
+● | producing clean energy, and
+--+----------------------------
+
+
+● | diversifying the EU’s energy supplies.
+--+---------------------------------------
+
+​
+The REPowerEU Plan is backed by financial and legal measures to build the new energy infrastructure and system that Europe needs. In addition to the construction of a hydrogen backbone by 2030, REPowerEU calls for 6 gigawatts (“GW”) of electrolysis by 2024 and 30 GW by 2030.
+​
+In addition, the EU is finalizing the adoption of the Net-Zero-Industry Act that is intended to serve as a response to the Inflation Reduction Act in the United States. This act will set forth a series of low-carbon technology objectives for 2030 by modifying regulatory, financing and permitting aspects of cleantech industrial products. 
+Africa
+South African legislation requires the transition from 90% coal-generated electricity to a system that is transparent, equitable, and incorporative of renewable energy and alternative sources. The governments of South Africa, France, Germany, the United Kingdom and the U.S., along with the EU, have announced an ambitious, long-term Just Energy Transition Partnership (the “Partnership”) to support South Africa’s decarbonization efforts. The Partnership aims to accelerate the decarbonization of South Africa’s economy, with a focus on the electricity system, to help it achieve the ambitious goals set out in its updated Nationally Determined Contribution emissions goals. This Partnership mobilizes an initial commitment of $8.5 billion for the first phase of financing, through various mechanisms including grants, concessional loans and investments and risk sharing instruments, including to mobilize the private sector.
+​
+Nigeria has reduced subsidies on diesel fuel. This has resulted in significant cost pressure, as approximately 30% of the grid load is served by diesel generation. Therefore, natural gas generation is expected to emerge as a cleaner and more cost-effective option. Furthermore, recent regulatory changes are beginning to allow for distributed generation to directly inject power into distribution grids which we believe will serve to improve the availability and sustainability of power.
+​
+
+29
+
+
+
+
+Government Regulation
+Our Company and our products are subject to various federal, provincial, state and local laws and regulations relating to, among other things, land use, safe working conditions, handling and disposal of hazardous and potentially hazardous substances and emissions of pollutants into the atmosphere. Emissions of SOx and NOx from our power plants are substantially lower than conventional combustion-based generating stations and are far below existing and proposed regulatory limits. The primary emissions from our power plants, assuming no cogeneration application, are humid flue gas that is discharged at temperatures of 700-800° F, water that is discharged at temperatures of 10-20° F above ambient air temperatures, and CO2 in per-kW hour amounts that are, due to the high efficiency of fuel cells, significantly less than conventional fossil fuel central generation power plants. Depending on the jurisdiction, whether our plants require water discharge permits is dependent upon whether the discharge is directed to a storm drain or wastewater system.
+​
+Proprietary Rights and Licensed Technology
+Our intellectual property consists of patents, trade secrets, institutional knowledge and know-how that we believe is a competitive advantage and represents a barrier to entry for potential competitors. We have extensive experience in designing, manufacturing, operating and maintaining fuel cell power plants. This experience cannot be easily or quickly replicated and, combined with our trade secrets, proprietary processes and patents, safeguards our intellectual property rights.
+​
+As of October 31, 2023, we (excluding our subsidiaries) had 139 U.S. patents and 282 patents in other jurisdictions covering our fuel cell technology (in certain cases covering the same technology in multiple jurisdictions), with patents directed to various aspects of our carbonate technology, SOFC technology, PEM fuel cell technology and applications thereof. As of October 31, 2023, we also had 34 patent applications pending in the U.S. and 98 patent applications pending in other jurisdictions. 
+​
+As of October 31, 2023, our subsidiary, Versa Power Systems, Ltd. (“Versa”), had 24 U.S. patents and 86 international patents covering SOFC technology (in certain cases covering the same technology in multiple jurisdictions). As of October 31, 2023, Versa also had 9 pending U.S. patent applications and 26 patent applications pending in other jurisdictions. In addition, as of October 31, 2023, our subsidiary, FuelCell Energy Solutions, GmbH, had license rights to 2 U.S. patents and 7 patents outside the U.S. (in certain cases covering the same technology in multiple jurisdictions) for carbonate fuel cell technology licensed from Fraunhofer IKTS.
+We continue to innovate, and no patent expiration, either individually or in the aggregate, is expected to have any material impact on our current or anticipated operations.
+​
+Certain of our U.S. patents are the result of government-funded research and development programs, including our DOE programs. U.S. patents we own that resulted from government-funded research are subject to the government potentially exercising “march-in” rights. We believe that the likelihood of the U.S. government exercising these rights is remote and would only occur if we ceased our commercialization efforts and there was a compelling national need to use the patents.
+​
+Significant Customers and Information about Geographic Areas
+We contract with a concentrated number of customers for the sale of our products and for research and development. For the years ended October 31, 2023, 2022 and 2021, our top customers, KOSPO, KFC, Connecticut Light and Power, and EMTEC, accounted for an aggregate of 68%, 74% and 61%, respectively, of our total annual consolidated revenue. Revenue percentage by major customer for the last three fiscal years is as follows:
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​
+----------------------------------------------------------------------------------------------------------+---+-------------------------+---+------+---+------+--
+​ | | Years Ended October 31, | 
+​ | | 2023 | | 2022 | | 2021 | 
+Korea Southern Power Company (KOSPO) | | 31 | % | 6 | % | 12 | %
+Korea Fuel Cell Co., Ltd (KFC) | ​ | 16 | % | 46 | % | — | %
+Connecticut Light and Power | | 13 | % | 14 | % | 20 | %
+ExxonMobil Technology and Engineering Company (f/k/a ExxonMobil Research and Engineering Company) (EMTEC) | | 8 | % | 8 | % | 29 | %
+Total | | 68 | % | 74 | % | 61 | %
+
+​
+
+30
+
+
+
+
+See Item 7 – “Management's Discussion and Analysis of Financial Condition and Results of Operations” and Item 8 – “Financial Statements and Supplementary Data” for further information regarding our revenue and revenue recognition policies.
+​
+We have marketing and manufacturing operations both within and outside the United States. We source raw materials and BOP components from a diverse global supply chain. In fiscal year 2023, the foreign country with the greatest concentration risk was South Korea, accounting for 47% of our consolidated net revenues. While we plan to aggressively pursue sales of our products in South Korea as a result of the Settlement Agreement with POSCO Energy and KFC, we are also in the process of diversifying our sales mix from both a customer specific and geographic perspective as part of our overall strategic plan.
+​
+The international nature of our operations subjects us to a number of risks, including fluctuations in exchange rates, adverse changes in foreign laws or regulatory requirements and tariffs, taxes, and other trade restrictions. See Item 1A “Risk Factors” – “We are subject to risks inherent in international operations.” See also Note 14. “Segment Information,” to the consolidated financial statements in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K for information about our net sales by geographic region for the years ended October 31, 2023, 2022 and 2021. See also Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” for other information about our operations and activities in various geographic regions.
+​
+​
+People and Organizational Development
+We are committed to our continued efforts to increase diversity and foster an inclusive work environment that supports the global workforce and the communities we serve. We recruit the best qualified employees regardless of gender, ethnicity or other protected traits and it is our policy to fully comply with all laws (domestic and foreign) applicable to discrimination in the workplace. Our diversity, equity and inclusion principles are also reflected in our employee training and policies.
+​
+As of October 31, 2023, we had 591 full-time and part-time employees, of which 488 were located in the United States, 86 were located in Canada, 10 were located in Germany, and 7 were located in Asia. 
+​
+Of our total employees, 23% are female, up 1% from 2022, and 30% are people of color, up 0.6% from 2022.
+Compensation and Benefits
+​
+As part of our compensation philosophy, we believe that we must offer and maintain market competitive compensation and benefit programs for all of our team members in order to attract and retain superior and diverse talent. In addition to competitive base wages, additional programs include an annual Management Incentive Plan, Long-Term Equity Incentive Plans, and a Company matched 401(k) Plan.
+​
+For plan year 2024, we have kept healthcare costs neutral and provided a greater employer contribution towards the health savings plan while also enhancing our dental and vision plans at no cost to our employees. We have also implemented a wellness program for employees that includes health savings and flexible spending accounts, paid time off, family leave, team member assistance programs and a flexible hybrid work environment.
+​
+Workforce Environmental Health and Safety
+We take workplace jobsite safety and environmental compliance very seriously. Under our robust environmental, health and safety (“EH&S”) program, we strongly encourage the reporting of near misses to identify opportunities for improvement and we are constantly evaluating our EH&S protocols in an effort to keep our facilities and workspaces environmentally friendly and safe for our team members, stakeholders, customers, and visitors. 
+​
+We are committed to EH&S excellence. Our Environmental Management System is certified to ISO 14001:2015, and our Occupational Health & Safety Management System is certified to ISO 45001:2018. Health and safety is both a bottom-up and top-down priority as the Company’s Board of Directors is actively engaged in ongoing review of our polices, protocols and performance.
+​
+Our EH&S core principles are: 
+
+31
+
+
+
+
+
+● | Zero injuries / incidents;
+--+---------------------------
+
+
+● | Compliance with all legal obligations;
+--+---------------------------------------
+
+
+● | Pollution prevention;
+--+----------------------
+
+
+● | Waste reduction; and
+--+---------------------
+
+
+● | Continual improvement.
+--+-----------------------
+
+​
+We are also in the process of performing life cycle analyses on our products, as well as our production and office locations, and developing a roadmap to net zero carbon emissions. 
+​
+Our safety performance is excellent and is demonstrated by experience modification rates below the industry average of 1.0 for the last 7 fiscal years: 2017: 0.65, 2018: 0.62, 2019: 0.65, 2020: 0.59, 2021: 0.68, 2022: 0.088 and 2023: 0.89. We have maintained an “A” rating since 2016 providing “Safety Tier 1” performance with ISNetworld, a database for online contractor safety management designed to streamline companies' and contractors' compliance pre-qualification processes. Because EH&S compliance is a priority for us, we also leverage ISNetworld to qualify contractors that work on our projects. 
+​
+​
+Available Information
+We file annual, quarterly and current reports, proxy statements and other information electronically with the SEC. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports are made available free of charge through the “Investors” section of the Company’s website (http://www.fuelcellenergy.com) as soon as practicable after such material is electronically filed with, or furnished to, the SEC. Material contained on our website is not incorporated by reference in this report. Our executive offices are located at 3 Great Pasture Road, Danbury, CT 06810. The SEC also maintains an Internet website that contains reports and other information regarding issuers that file electronically with the SEC located at http://www.sec.gov.
+
+32
+
+
+
+
+Information about our Executive Officers
+​
+
+NAME | | AGE | | PRINCIPAL OCCUPATION 
+---------------------------------------------------------------------------------+---+-----+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+​ | ​ | ​ | ​ | ​ 
+Jason B. FewPresident, Chief Executive Officer | ​ | 57 | ​ | Mr. Few was appointed President and Chief Executive Officer in August 2019 and has served as a director since 2018. Mr. Few chairs the Executive Committee of the Board of Directors (the “Board”). Mr. Few previously served as the Company’s Chief Commercial Officer from September 2019 to March 2022. Prior to joining FuelCell Energy, Mr. Few served as President of Sustayn Analytics LLC, a cloud-based software waste and recycling optimization company, since 2018, and as the Founder and Senior Managing Partner of BJF Partners LLC, a privately held strategic consulting firm, since 2016. Mr. Few has over 30 years of experience increasing enterprise value for Global Fortune 500 and privately-held technology, telecommunications, technology and energy firms. He has overseen transformational opportunities across the technology and industrial energy sectors, in roles including Founder and Senior Managing Partner of BJF Partners, LLC; President and Chief Executive Officer of Continuum Energy, an energy products and services company, from 2013-2016; various roles including Executive Vice President and Chief Customer Officer of NRG Energy, Inc., an integrated energy company, from 2011 to 2012; President of Reliant Energy, from 2009 to 2012 and Vice President, Smart Energy, a retail electricity provider, from 2008 to 2009. Mr. Few also has served as a Senior Advisor to Verve Industrial Protection, an industrial cybersecurity software company, since 2016.Mr. Few was elected to the board of directors of Enbridge Inc. (NYSE: ENB) effective May 4, 2022, and serves on the Safety & Reliability and Sustainability Committees. Mr. Few also served on the board of directors of Marathon Oil (NYSE: MRO) from April 2019 to May 2022. ​Mr. Few received his Bachelor’s Degree in Computer Systems in Business from Ohio University, and a MBA from Northwestern University’s J.L. Kellogg Graduate School of Management.
+​ | ​ | ​ | ​ | ​ 
+Michael S. BishopExecutive Vice President, Chief Financial Officer and Treasurer | ​ | 55 | ​ | Mr. Bishop was appointed Executive Vice President in June 2019 and has served as the Company’s Chief Financial Officer since June 2011. Mr. Bishop previously served as the Company’s Treasurer from June 2011 to June 2022 and as Senior Vice President of the Company from June 2011 to June 2019. Mr. Bishop was reappointed Treasurer of the Company in August 2023. He has more than 25 years of experience in financial operations and management with public high growth technology companies with a focus on capital raising, project finance, debt/treasury management, investor relations, strategic planning, internal controls, and organizational development. Since joining the Company in 2003, Mr. Bishop has held a succession of financial leadership roles, including Assistant Controller, Corporate Controller and Vice President and Controller. Prior to joining the Company, Mr. Bishop held finance and accounting positions at TranSwitch Corporation, Cyberian Outpost, Inc. and United Technologies, Inc. He is a certified public accountant and began his professional career at McGladrey and Pullen, LLP (now RSM US LLP). Mr. Bishop also served four years in the United States Marine Corps. 
+
+33
+
+
+
+
+
+NAME | | AGE | | PRINCIPAL OCCUPATION 
+------------------------------------------------------------------+---+-----+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+​ | ​ | ​ | ​ | ​ 
+ | | | | Mr. Bishop received a Bachelor of Science in Accounting from Boston University and a MBA from the University of Connecticut. 
+​ | ​ | ​ | ​ | ​ 
+Michael LisowskiExecutive Vice President, Chief Operating Officer | ​ | 54 | ​ | Mr. Lisowski was appointed Executive Vice President and Chief Operating Officer in June 2019. Mr. Lisowski has served as the Company’s Vice President of Global Operations since 2018, and, from 2001 to 2018, held various other positions within the Company, including Vice President of Supply Chain from 2010 to 2018. Mr. Lisowski is a senior global operations leader with 27 years of progressive operations experience in technology-driven businesses. In his position as the Company’s Chief Operating Officer (and in his prior position as the Company’s Vice President of Global Operations), Mr. Lisowski is (and was) responsible for the Supply Chain, Manufacturing, Quality, Project Management, Environmental Health and Safety, and Plant Engineering functions of the Company. Additionally, Mr. Lisowski and his team are responsible for the development and qualification of strategic suppliers for critical direct materials, as well as procurement of capital equipment in support of operations.Mr. Lisowski received his Bachelor’s Degree in Communications and Business Administration at Western New England University and a Master’s Degree in Management, Global Supply Chain Integrations from Rensselaer Polytechnic Institute. 
+​ | ​ | ​ | ​ | ​ 
+Anthony LeoExecutive Vice President, Chief Technology Officer | ​ | 66 | ​ | Mr. Leo was appointed Executive Vice President and Chief Technology Officer in June 2019 and, prior to that, served as Vice President of Applications and Advanced Technologies since 2014. From 1978 to 2014, Mr. Leo has held various other positions with the Company, including Vice President of Application Engineering and Advanced Technology Development, Vice President of Applications and OEM Engineering, and Vice President of Product Engineering. Mr. Leo has held key leadership roles in the Company’s research, development, and commercialization of stationary fuel cell power plants for more than 30 years. In his current position and in his position as the Company’s Vice President of Applications and Advanced Technologies, Mr. Leo is and has been responsible for Applications and Advanced Technology Development. In Mr. Leo’s other positions with the Company, he has been responsible for managing advanced research and development of rechargeable batteries and fuel cells, managing the first large-scale demonstration stationary fuel cell project, and establishing the Product Engineering Group.Mr. Leo received his Bachelor of Science Degree in Chemical Engineering from Rensselaer Polytechnic Institute and has served as Chairman of the American Society of Mechanical Engineers PTC-50 Fuel Cell Performance Test Code committee and as a member on the Department of Energy's Hydrogen and Fuel Cell Technical Advisory Committee.
+
+​
+
+Joshua DolgerExecutive Vice President, General Counsel and Corporate Secretary | ​ | 49 | ​ | Mr. Dolger was appointed Executive Vice President and General Counsel on December 10, 2021 and Corporate Secretary on June 25, 2021. Mr. Dolger previously served as Interim General Counsel from June 25, 2021 to December 10, 2021 and as Senior Counsel from May 17, 2021 to June 25, 2021. In his current positions, Mr. Dolger oversees all the Company’s legal and governmental affairs, as well as provides leadership in all aspects of the Company’s business, including commercial matters, compliance, corporate governance and board activities. Prior to joining the Company,
+-------------------------------------------------------------------------------+---+----+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+34
+
+
+
+
+
+ | | | | Mr. Dolger held a variety of legal positions of increasing responsibility at the headquarters of Terex Corporation, a public company and a global manufacturer of aerial work platforms and materials processing machinery, most recently as Assistant General Counsel from January 2016 to March 2021. Mr. Dolger’s focus included Securities and Exchange Commission work, mergers and acquisitions, corporate governance, commercial contract drafting and negotiation, and implementation of the company’s multi-year strategic supply chain initiative. Prior to joining Terex Corporation, Mr. Dolger was a senior corporate attorney at Pullman & Comley, LLC. Mr. Dolger is a licensed attorney in Connecticut and New York. Mr. Dolger received a Bachelor of Arts Degree from the State University of New York at Albany and Juris Doctor from Pace University School of Law. 
+--------------------------------------------------------------+---+----+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+​ | ​ | ​ | ​ | ​ 
+Mark FeaselExecutive Vice President, Chief Commercial Officer | ​ | 53 | ​ | Mr. Feasel was appointed Executive Vice President and Chief Commercial Officer in April 2022. Mr. Feasel served as President, Smart Grid – North America of Schneider Electric USA (“Schneider Electric”), a multinational energy efficiency and automation provider, from December 2019 to April 2022. Prior to that, he served Schneider Electric as Vice President, Electric Utility Segment & Smart Grid from July 2012 to December 2019, as Vice President, Sales and Marketing from November 2010 through July 2012, and as Director, Sales and Marketing from March 2005 to November 2010. As President, Smart Grid – North America, Mr. Feasel had responsibility for the Electric Utility segment, Smart Grid, and Microgrid for Schneider Electric in North America. Throughout his career at Schneider Electric, he held leadership roles in Energy Management, Power Quality, Utility Solutions, Oil & Gas Solutions, Electrical Distribution Protection and Automation, and Microgrids. Mr. Feasel joined Schneider Electric in 2005 through the company’s acquisition of Power Measurement, Inc., and began his career with the United States Navy serving in the Electrical Division where he was responsible for the operation and maintenance of the systems associated with the nuclear reactor plant on a ballistic missile submarine. Mr. Feasel has also served as an Adjunct Professor at Northwestern University since June 2020, where he teaches Electric Utility Grid Planning and Operations for the Master of Science in Energy and Sustainability Program. Mr. Feasel is a graduate of the University of Toledo. 
+
+​
+​
