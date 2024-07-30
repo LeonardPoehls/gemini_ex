@@ -1,0 +1,76 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Overview
+ 
+We have established partnerships with third party hosting firms, Bitcoin mining facilities for the sole purpose of mining Bitcoin. We require financing to operate the mining of Bitcoin. We ceased Ethereum mining operations in September 2022 when Ethereum switched its consensus protocol to proof of stake. Our facilities and mining platform will be operating with the primary intent of accumulating Bitcoin.
+ 
+During late 2022 and early 2023 we have focused on securing a debt facility. We anticipate our first loan from this facility will be completed in May 2023, although we cannot provide any assurances we will receive any capital under this facility. This debt facility will be used to finance the purchase of BTC mining hardware and hosting contracts which, subject to financing, we anticipate will commence between May 2023 and December 2023.
+ 
+We believe we have a purchase order in place to acquire significant high quality additional machines contingent on our ability to raise the funds to acquire such machines.
+ 
+Subject to receipt of financing, we have secured hosting contracts in the U.S and Egypt for over 540MW of hosting capacity, which will provide us the power supply to operate the 20 Exahash of hardware we have purchased.
+ 
+There are no assurances we will receive adequate financing.
+ 
+We are in the research and development stage of exploring treasury management alternatives to increase earnings of the cryptocurrency we mine and hold. In that regard, we may continue to hold as well as sell Bitcoin in order to fund the purchase of Bitcoin miners and other mining equipment, to pay operational expenses such as hosting company fees and for working capital and other general corporate purposes. We have no holdings of, and have no current plans to hold, any other types of digital assets other than Bitcoin.
+ 
+Digital Asset Mining
+ 
+Historically, we have mined Ethereum. Moving forward, we plan to mine Bitcoin, and may choose to mine other cryptocurrencies, by acquiring miners to solve complex cryptographic algorithms to support the Bitcoin blockchain (in a process known as “solving a block”). In return for solving a block, we have received Ethereum, and when we receive our Bitcoin miners, a Bitcoin. We intend to only mine cryptocurrencies that are not securities. Our policy is to consult counsel prior to attempting to mine any cryptocurrency other than Bitcoin, in order to avoid inadvertently dealing in a cryptocurrency which may be deemed a security. We anticipate that, should we consider mining a cryptocurrency other than Bitcoin we will seek the advice of securities counsel, and the process will include research, review and analysis of the current federal securities laws and regulations regarding digital assets, including judicial interpretations and administrative guidance. However, the processes employed for determining whether particular digital assets are securities within the meaning of U.S. federal securities laws are risk based assessments and are not a legal standard or binding on the SEC or other regulators. See the risk factors below. We recognize that whether a digital asset is a security is a complex legal issue. For that reason, we have no plan in the foreseeable future to mine anything other than Bitcoin and to a lesser extent Ethereum.
+ 
+With respect to holding and selling the cryptocurrency we mine, our policy is to hold what we mine until management determines that market conditions and circumstances deem selling cryptocurrency to be advisable in the furtherance of our capital needs and objectives. This may include, among other factors, a determination that the cryptocurrency is overvalued at a particular price at a given time, that fiat currency is required to fund our operations, or that an excessive quantity of the specific cryptocurrency has accumulated in our digital wallet resulting in a potential security risk. We hold the cryptocurrency we mine in a digital wallet using a DRFQ account, and do not have any agreements with third parties to manage or exchange the cryptocurrency we mine and store.
+ 
+
+
+
+1
+-
+
+ 
+
+Miners measure their capability in terms of processing power, which is known as in the industry as “hashing” power. Hashing power is measured in terms of the number of hashing algorithms solved (or “hashes”) per second, which is the miner’s “hash rate.” Generally speaking, miners with greater hashing power and in turn a higher hash rate relative to other miners attempting to solve a block have a higher chance of solving the block and receiving a cryptocurrency award. However, although newer generations of miners advertise improved energy efficiency, increasing hash rate generally requires greater electric power, which increases the cost of solving a block and, therefore, the relative cost of mining a cryptocurrency. As additional miners competed for the limited supply of blocks, individuals found that they were working for months without finding a block and receiving any reward for their mining efforts. To address this variance, miners started organizing into pools to share mining rewards more evenly on a pro rata basis based on total hashing capacity contributed to the mining pool. As of the date of this report, we do not participate in any pools but may do so when management believes it’s in the Company’s best interests.
+ 
+Our Mining Equipment and Material Agreements
+ 
+To date, our mining hardware was obtained from 2CRSI, a French global tech group that designs and manufactures servers. These servers were used to mine Ethereum until Ethereum switched its consensus protocol to proof of stake. There is an outstanding debt of $1,179,972 on the miners. The miners have been returned to 2CRSI upon termination of the contract and as such the Company is making no further payments against the potential balance. No confirmation has been received from 2CRSI and as such the balance remains outstanding on the Company’s balance sheet in the accompanying financial statements.
+ 
+We signed a revised purchase order with Katena in October 2022. We have paid Katena $1,250,000, of which $125,000 was returned to us as a result of delays in delivery for the supply of mining hardware which we anticipate will be delivered by December 2023.
+ 
+We believe we have 3 purchase orders in place which we believe will secure delivery of significant high quality additional mining hardware between May 2023 and December 2023. We are seeking financing to complete the order. We have not received any financing as of the date of this report and there are no assurances we will receive financing.
+ 
+Hosting Agreements
+ 
+We terminated our hosting agreement with Compute North as Compute North went bankrupt in September 2022.
+ 
+We have secured hosting services in North America and will sign a hosting agreement for 40 MW of capacity which we anticipate to come online in May 2023 subject to receipt of financing.
+ 
+We have also secured hosting services in Egypt and will sign a hosting agreement for 500 MW of capacity which we anticipate to come online between October 2023 and March 2024, subject to receipt of financing.
+
+
+Employees
+ 
+We have two full-time employees and no part-time employees. None of our employees are parties to any collective bargaining arrangement. We believe our relationships with our employees are good.
+
+2
+-
+
+Property
+ 
+Our corporate headquarters are located in Fort Lauderdale, Florida, consisting of approximately 1,000 square feet of office space under a monthly rental agreement. We believe that our existing facilities are suitable and adequate and that we have sufficient capacity to meet our current anticipated needs.
+Our Recent Corporate History
+ 
+Our operating subsidiary, EdgeMode, was incorporated in the State of Wyoming in March 2020. Prior to the closing of the acquisition of Edgemode, we were a shell company with nominal assets and liabilities. Our website address is www.edgemode.io. We have not incorporated by reference into this report the information that can be accessed through our website and you should not consider such information to be part of this report.
+Regulation
+ 
+After a period of regulatory uncertainty, we believe that the Securities and Exchange Commission (“SEC”) will not claim that Bitcoin and Ethereum are securities and therefore will not be subject to their regulation. The SEC has been active in pursuing its regulation of other cryptocurrencies by filing lawsuits and, more recently, administratively against a cryptocurrency that tried to register under the Securities Exchange Act of 1934 (“Exchange Act”). Further, its new Chairman has given several speeches seeking regulatory authority over other cryptocurrencies. Whether Congress will enact new legislation in this area is uncertain. However, enhanced regulation may adversely affect our future mining and other cryptocurrency activities.
+ 
+Blockchain and Bitcoin are increasingly becoming subject to governmental regulation, both in the U.S. and internationally. State and local regulations also may apply to our activities and other activities in which we may participate in the future. Other governmental or semi-governmental regulatory bodies have shown an interest in regulating or investigating companies engaged in the blockchain or cryptocurrency business. For instance, the Cyber-Digital Task Force of the U.S. Department of Justice (the “DOJ”) published a report entitled “Cryptocurrency: An Enforcement Framework” in October 2020. This report provides a comprehensive overview of the possible threats and enforcement challenges the DOJ views as associated with the use and prevalence of cryptocurrency, as well as the regulatory and investigatory means the DOJ has at its disposal to deal with these possible threats and challenges.
+ 
+Presently, we do not believe any U.S. or state regulatory body has taken any action or position adverse to our main cryptocurrency, Bitcoin, with respect to its production, sale, and use as a medium of exchange; however, future changes to existing regulations or entirely new regulations may affect our business in ways it is not presently possible for us to predict with any reasonable degree of reliability.
+ 
+The recent action taken in China was the final step in that country’s evolving regulatory crackdown. As the regulatory and legal environment evolves, we may become subject to new laws, such as further regulation by the SEC and other agencies, which may affect our mining and other activities. For additional discussion regarding our belief about the potential risks existing and future regulation pose to our business, see our “Risk Factors” below.
+ 

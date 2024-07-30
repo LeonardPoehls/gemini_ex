@@ -1,0 +1,241 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+As used in this Form 10-K, the terms “we,” “us,” “our,” and the “Company” refer to DarkPulse, Inc., a Delaware corporation, and its subsidiaries.
+ 
+Corporate Overview 
+ 
+Organization
+ 
+DarkPulse, Inc. (“DarkPulse” or the "Company") is a technology-security company incorporated in 1989 as Klever Marketing, Inc. One of our principal wholly-owned subsidiaries, DarkPulse Technologies Inc. (“DPTI”), originally started as a technology spinout from the University of New Brunswick, Fredericton, Canada. DPTI  is comprised of multiple security platforms: Patented Brillouin Optical Time Domain Analysis (“BOTDA”) Fiber Optic sensor systems and Satellite Communications services.
+ 
+On July 20, 2018, we filed a Certificate of Amendment to our Certificate of Incorporation with the State of Delaware, changing the name of the Company to “DarkPulse, Inc.” We filed a corporate action notification with FINRA, and our ticker symbol was changed to “DPLS.”
+ 
+Our security and monitoring systems will be delivered in applications for critical infrastructure/ key resources such as but not limited to border security, pipelines, the oil and gas industry and mine safety. Current uses of fiber optic distributed sensor technology have been limited to quasi-static, long-term structural health monitoring due to the time required to obtain the data and its poor precision. Our patented BOTDA dark-pulse sensor technology allows for the monitoring of highly dynamic environments due to its greater resolution and accuracy. 
+ 
+Our Operating Units
+ 
+Optilan
+ 
+Founded in 1990, Optilan is an international leading independent security and communications systems integrator. Providing specialist technologies and techniques, Optilan helps to protect businesses and organizations from external threats in the telecommunications, energy, rail, critical network infrastructure, pipeline integrity systems, renewables and security sectors. Headquartered in Warwick, United Kingdom with a 30-year history, Optilan’s customers trust it to keep the integrity of their assets safe and secure, by managing the life cycle delivery risk of Optilan’s solutions. By fostering a collaborative design approach to complex problems, Optilan provides innovative solutions, custom fit to even the most demanding of sites and scale of projects. Importantly, Optilan’s commitment to its safety culture remains unaverred, to ensure that everyone goes home safely every day. Optilan orchestrates business resilience with a suite of end-to-end solutions, combined with connectivity and professional service at a global level. Today's business environment is more dynamic than ever, with continuous change and disruption accepted as the new normal. Optilan complements its tailored, integrated expertise with a curated ecosystem of leading manufacturers, to achieve both high quality and enduring results. Optilan is proud to foster a unique culture full of talented individuals. Optilan’s sector focus ensures that its account teams are fully accredited in their operational areas. Optilan is committed to creating individually tailored solutions, using collaborative techniques and programming tools to deliver the networks of the future. Optilan has provided integrated solutions for leading oil and gas, industrial and energy companies around the world. As an industry leader in deploying communication networks with exceptional reliability, Optilan’s reputation for delivering the highest quality products remains unsurpassed. This spans mobile, broadband, security systems and customer premise works. Optilan’s professionals have the skill to adopt and embed its expertise into existing platforms, processes, and cultures, delivering exceptional value for its clients. Beyond Optilan’s operational scope, Optilan strives to consider the impact of its global footprint and mitigate associated environmental and sustainability risks. These factors combined set Optilan apart and establish why customers continue to trust and invest in Optilan’s services.
+
+1
+-
+
+Remote Intelligence
+ 
+Remote Intelligence (“RI”) provides unmanned aerial drone and unmanned ground crawler (“UGC”) services to a variety of clients in all markets, including, specifically: industrial mapping and ecosystem, search and rescue, and pipeline security. RI started in 2013 with a simple vision, to use the new and developing field of unmanned aerial vehicles to produce higher quality, safer, and more effective products for a variety of markets. RI strives to equip, educate and advance the use of the most advanced unmanned aerial systems and unmanned ground crawlers in the United States and around the world for commercial, government, and domestic use. RI’s top priorities are to find safe and ethical ways to use this new and exciting field of technology to make life better. RI provides holistic intelligence consultation and solutions including full-service methane detection and monitoring and quick, comprehensive site mapping and aerial inspection services. RI specializes in fully integrated, geo-rectified, 3D modeled mapping and artificial intelligence (“AI”) for industrial applications, specializing in the energy and environmental industries, with AI and live streaming capabilities anywhere in the world. RI also provides aerial survey, video inspection services, emergency support services, wildlife and habitat surveys, and comprehensive system design, training, and sales for both the commercial and private sectors. Integrating the latest tech solutions like artificial intelligence, RI is globally-connected with a base of operation in Wellsboro, Pennsylvania.
+ 
+TerraData Unmanned
+ 
+Comprised of a team with more than 30 years cumulative experience in the unmanned industry, TerraData Unmanned (“TerraData”) custom manufactures National Defense Authorization Act (“NDAA”) compliant drones and unmanned ground crawlers to meet the needs of its customers. TerraData has successfully delivered a custom drone platform per a customer’s specifications which exceeds current industry offering by more than 30 minutes. The team has manufactured, and successfully flight tested a Quad Copter drone with 1.5KG payload capabilities that delivers more than 60 minutes of continuous flight. This cutting-edge design is a combination of proprietary software and hardware. The custom platform offers NDAA compliant autopilot, communications links, Technical Standard Orders (“TSO”) certified GPS unit and ground control station. Future designs include integrating Real-Time Kinematic (“RTK”) for mapping, methane detectors, and true terrain following capabilities. There are also improvements scheduled that are intended to further extend the endurance and provide over 4KG of payload capacity, not including batteries. TerraData has also announced the research, development and successful testing of an autonomous crawler soon to be released to the market with methane and multi gas detection capabilities. Working seamlessly with its partners at DarkPulse and its subsidiary companies, TerraData can custom design, build and operate a system to meet our customers' needs 24 hours a day 365 days a year around the globe.
+ 
+Wildlife Specialists
+ 
+Wildlife Specialists (“WS”) was founded in 2007 to provide clients with comprehensive wildlife and environmental assessment, planning, and monitoring services. WS currently maintains two regional offices located in north central and southeastern Pennsylvania and is available to provide services to clients nationwide and around the globe. WS’ staff is made up of well-established professionals who have a wide range of experience in wildlife management, research, and monitoring at the local and statewide levels throughout the United States. In addition, WS has specific expertise in providing the full range of sensitive species and habitat assessments necessary for your development projects. WS’ mission is to provide consulting services that use the latest technology to produce the highest quality results compatible with its clients’ management goals and the appropriate protocols developed by state and federal wildlife management agencies. WS is fully insured to industry standards and committed to the safety of its staff, clients, and the public. WS has maintained safety certification through ISNetWorld and other third-party certifiers. WS is also officially PennDOT, General Services Administration (“GSA”), Small Business, and HUBZone certified.
+ 
+TJM West Electronics
+ 
+TJM West Electronics (“TJM”) is an ISO9001 and AS9100 certified electronics and electro-mechanical assembly operation. TJM operates out of a high tech, 20,000 sq. ft. facility in Tempe, Arizona. TJM’s assembly team is trained to IPC 610 and J-STD-001 standards, Class 2 and 3. TJM has been in business since 1999. TJM’s latest website was developed to be a customer interface for rapid costing, build scheduling, open order status, and complete manufacturing history data records. Registered users can enter build and fabrication parameters for quantities of 2-20 units. TJM’s calculator provides itemized labor, printed circuit board (“PCB”) fabrication cost and delivery. Registered users can also access factory floor for the updated status and delivery date of open orders, a review of configuration, quotes and full quality history database.
+
+2
+-
+
+ 
+
+As a U.S. manufacturer and test of advanced electronics, cables and sub-assemblies, TJM specializes in advanced package and complex confidential architecture (“CCA”) and hardware. Certified to space and flight AS9100D, TJM has over 20 years supplying ultra-high reliability, and fully documented electronic hardware. Per aerospace management standard AS9100D, TJM maintains all material certifications, process and measurement reports electronically as part of a complete quality history record. Manufacturing PCB design services on the most popular platforms including Cadence, Altium, and Mentor, TJM designs output data that integrates seamlessly to its automated manufacturing line. From test development in circuit test (“ICT”) to functional and burn-in, TJM develops a test plan and hardware system to deliver your 100% verified product. Low cost, high reliability manufacturing is the net result of quality planning, optimizing automation technology, operational efficiency, and communication. TJM provides a high value, low-cost domestic solution to replace offshore manufacturing.
+ 
+Acquisitions
+ 
+On August 9, 2021, we entered into a Share Purchase Agreement with Optilan Guernsey Limited and Optilan Holdco 2  Limited, pursuant to which we purchased from the sellers all of the issued and outstanding equity interests of Optilan HoldCo 3 Limited, a private company incorporated in England and Wales (“Optilan”), for £1.00. In connection with the acquisition, the Company acquired $14,828,459 in assets and assumed liabilities totaling $25,179,320. As a result of the transaction, Optilan became a wholly-owned subsidiary of the Company. See Note 4 – BUSINESS ACQUISITIONS to the audited financial statements for the years ended December 31, 2022 and 2021 on page F-20 herein.
+
+
+On August 30, 2021, we closed two separate Membership Interest Purchase Agreements with RI and WS pursuant to which we agreed to pay to the majority stockholder of each of RI and WS an aggregate of 15,000,000 shares of our Common Stock, $500,000 to be paid on the closing date, and an additional $500,000 to be paid 12 weeks from closing date in exchange for 60% ownership of each of RI and WS. As a result of the transactions, RI and WS each became subsidiaries of the Company with the respective non-controlling interests recoded on the consolidated balance sheets.
+
+
+On September 8, 2021, we entered into and closed the Stock Purchase Agreement with TJM and TJM’s stockholders, pursuant to which we agreed to purchase all of the equity interests in TJM in exchange for $450,000, subject to adjustments as defined in the Stock Purchase Agreement. As a result of the transaction, TJM became a wholly-owned subsidiary of the Company.
+ 
+Effective October 1, 2021, we entered into and closed the Membership Purchase Agreement with TerraData and Justin Dee, the sole stockholder of TerraData, pursuant to which we agreed to purchase 60% of the equity interests in TerraData in exchange for 3,725,386 shares of our Common Stock and $400,000, subject to adjustments as defined in the Membership Purchase Agreement, to be paid within 12 weeks of closing. As a result of the transaction, TerraData became a subsidiary of the Company.
+ 
+Global System Dynamics, Inc.
+ 
+On December 14, 2022, we entered into a Business Combination Agreement (the “BCA”) by, between, and among our company, Global System Dynamics, Inc., a Delaware corporation (“GSD”), and Zilla Acquisition Corp, a Delaware corporation and wholly owned subsidiary of GSD (the “Merger Sub”). Pursuant to the terms of the BCA, a business combination between us and GSD will be effected through the merger of Merger Sub with and into DarkPulse, with DarkPulse surviving the merger as a wholly owned subsidiary of GSD (the “Merger”). Our board of directors has (i) approved and declared advisable the BCA, the Merger and the other transactions contemplated thereby and (ii) resolved to recommend approval of the BCA and related transactions by our stockholders. The total consideration to be paid at closing (the “Merger Consideration”) by GSD to DarkPulse security holders will be valued at $116,518,357.65. The Merger Consideration will be payable in shares of GSD Common Stock, valued at $10.00 per share.
+ 
+The transactions contemplated by the BCA, and the other transactions contemplated by the other transaction documents contemplated by the BCA (collectively, the “Proposed Business Combination”) will constitute a “Business Combination.” The Business Combination and the transactions contemplated thereby were unanimously approved by the board of directors of the Company on December 14, 2022.
+ 
+
+
+3
+-
+
+The Business Combination
+ 
+The BCA provides, among other things, that Merger Sub will merge with and into DarkPulse, with DarkPulse as the surviving company in the merger and, after giving effect to such merger, DarkPulse shall be a wholly-owned subsidiary of GSD. GSD will continue to be named “Global System Dynamics, Inc.” and the combined entity will trade under the symbol “DARK.”
+ 
+In accordance with the terms and subject to the conditions of the BCA, at the Effective Time, among other things: (i) each GSD Class A Share and each GSD Class B Share that is issued and outstanding immediately prior to the Merger will become one share of common stock, par value $0.0001 per share, of GSD; (ii) by virtue of the Merger and without any action on the part of any Party or any other Person, each share of DarkPulse Common Stock (other than shares of DarkPulse Common Stock cancelled and extinguished pursuant to Section 2.1(a)(viii) of the BCA) issued and outstanding as of immediately prior to the Effective Time shall be automatically canceled and extinguished and converted into the right to receive that number of GSD Class A Shares equal to the Merger Consideration; provided, however, that any DarkPulse shares that are Restricted Shares shall be converted into restricted GSD Class A Shares, subject to the same vesting, transfer and other restrictions as the applicable Restricted Shares; (iii) by virtue of the Merger and without any action on the part of any Party or any other Person, each share of capital stock of Merger Sub issued and outstanding immediately prior to the Effective Time shall be automatically cancelled and extinguished and converted into one share of common stock, par value $0.0001, of DarkPulse; (vi) Dennis O’Leary, Joseph Catalino, George Pappas, Geoff Mullins, Wayne Bale and John Bartrum shall become the directors of GSD, Dennis O’Leary shall become the Chief Executive Officer of GSD and of the surviving company, and J. Richard Iler shall become the Chief Financial Officer of GSD, each to hold office in accordance with the governing documents of GSD until such director’s or officer’s successor is duly elected or appointed and qualified, or until the earlier of their death, resignation or removal; (v) by virtue of the Merger and without any action on the part of any Party or any other Person, each DarkPulse share held immediately prior to the Effective Time by DarkPulse as treasury stock shall be automatically canceled and extinguished, and no consideration shall be paid with respect thereto.
+ 
+The Business Combination is expected to close in the third calendar quarter of 2023 but in no event later than August 9, 2023 (unless extended), following the receipt of the required approval by the stockholders of DarkPulse and GSD, approval by the Nasdaq Stock Market (“Nasdaq”) of GSD’s initial listing application filed in connection with the Business Combination, and the fulfillment of other customary closing conditions.
+ 
+Representations and Warranties; Covenants
+ 
+The parties to the BCA have agreed to customary representations and warranties for transactions of this type. In addition, the parties to the BCA agreed to be bound by certain customary covenants for transactions of this type, including, among others, covenants with respect to the conduct of the Company and its subsidiaries during the period between execution of the BCA and the Closing. Each of the parties to the BCA has agreed to use its reasonable best efforts to cause all actions and things necessary to consummate and expeditiously implement the Business Combination.
+Conditions to Each Party’s Obligations
+ 
+Under the BCA, the obligations of the parties to consummate the Merger are subject to the satisfaction or waiver of certain customary closing conditions of the respective parties, including, without limitation: (i) the applicable waiting period, if any, under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 and the rules and regulations promulgated thereunder relating to the Business Combination having expired or been terminated and any other required regulatory approvals applicable to the transactions contemplated by the BCA having been obtained and remaining in full force and effect; (ii) all the DarkPulse Preferred Stock being converted to DarkPulse Common Stock prior to the Effective Time; (iii) no order or law issued by any court of competent jurisdiction or other governmental entity or other legal restraint or prohibition preventing the consummation of the transactions contemplated by the Business Combination being in effect; (iv) the registration statement on Form S-4 containing the joint proxy statement/prospectus filed by DarkPulse and GSD relating to the BCA and the Merger (the “Registration Statement”) becoming effective in accordance with the provisions of the Securities Act of 1933, as amended (the “Securities Act”), no stop order being issued by Securities and Exchange Commission (the “SEC”) and remaining in effect with respect to the Registration Statement, and no proceeding seeking such a stop order being threatened or initiated by the SEC and remaining pending; (v) GSD’s initial listing application with Nasdaq in connection with the Business Combination having been approved; (vi) GSD’s Board consisting of the number of directors, and comprising the individuals, determined pursuant to the BCA; (vii) the approval and adoption of the BCA and the transactions contemplated thereby by the requisite vote of the DarkPulse’s stockholders; (viii) the approval and adoption of the BCA and the transactions contemplated thereby by the requisite vote of GSD’s stockholders; (ix) after giving effect to the transactions contemplated (including the PIPE Financing), GSD has at least $5,000,001 of net tangible assets (as determined in accordance with Rule 3a51-1(g)(1) of the Exchange Act of 1934, as amended (the “Exchange Act”)) immediately after the Effective Time; (x) the absence of a DarkPulse Material Adverse Effect since the date of the BCA that is continuing, and (xi) the absence of a GSD Material Adverse Effect since the date of the BCA that is continuing.
+
+4
+-
+
+Termination
+ 
+The BCA may be terminated under certain customary and limited circumstances at any time prior to the Closing, including, without limitation, (i) by the mutual written consent of GSD and DarkPulse; (ii) by GSD, subject to certain exceptions, if any of the representations or warranties made by DarkPulse are not true and correct or if DarkPulse fails to perform any of its covenants or agreements under the BCA (including an obligation to consummate the Closing) such that certain conditions to the obligations of GSD could not be satisfied and the breach (or breaches) of such representations or warranties or failure (or failures) to perform such covenants or agreements is (or are) not cured or cannot be cured within the earlier of (A) 30 days after written notice thereof, and (B) August 9, 2023 (the “Termination Date”); (iii) by DarkPulse, subject to certain exceptions, if any of the representations or warranties made by us are not true and correct or if GSD fails to perform any of GSD’s covenants or agreements under the BCA (including an obligation to consummate the Closing) such that the condition to the obligations of DarkPulse could not be satisfied and the breach (or breaches) of such representations or warranties or failure (or failures) to perform such covenants or agreements is (or are) not cured or cannot be cured within the earlier of (A) 30 days after written notice thereof, and (B) the Termination Date iv) by either GSD or DarkPulse, if the Closing does not occur on or prior to the Termination Date, unless the breach of any covenants or obligations under the BCA by the party seeking to terminate proximately caused the failure to consummate the transactions contemplated by the BCA; (v) by either GSD or DarkPulse, if (A) any governmental entity shall have issued an order or taken any other action permanently enjoining, restraining or otherwise prohibiting the transactions contemplated by the BCA and such order or other action shall have become final and non-appealable; or (B) if the required DarkPulse or GSD stockholder consent is not obtained; (vi) by GSD, if (A) DarkPulse does not deliver, or cause to be delivered to GSD a Transaction Support Agreement duly executed by certain DarkPulse stockholders or (B) the DarkPulse stockholders meeting has been held, has concluded, DarkPulse stockholders have duly voted, and DarkPulse stockholder approval was not obtained; (vii) by GSD should DarkPulse not deposit into the Trust Account in a timely manner the funds necessary to extend the period for us to complete an initial business combination for an additional period of six months from February 9, 2023, in accordance with, and as required pursuant to, the BCA; and (x) by GSD should: (A) Nasdaq not approve the initial listing application for the combined company with Nasdaq in connection with the Business Combination; (B) the combined company not have satisfied all applicable initial listing requirements of Nasdaq; or (C) the common stock of the combined company not have been approved for listing on Nasdaq prior to the Closing Date.
+ 
+In the event of the termination of this BCA, the BCA will become void (and there will be no Liability or obligation on the part of the Parties and their respective Non-Party Affiliates) with the exception of Section 5.3(a), this Section 7.2, Article VIII and Article I (to the extent related to the termination), each of which will survive such termination and remain valid and binding obligations of the Parties.
+ 
+The Stockholder Transaction Support Agreement
+ 
+Concurrently with, or with respect to a certain stockholder holding all of the shares of Series A Preferred Stock of DarkPulse, within a specified time after the signing of the BCA, the “DarkPulse Stockholder” (collectively, the “Supporting Company Stockholder”) shall duly execute and deliver to GSD a transaction support agreement pursuant to which, among other things, such Supporting DarkPulse Stockholder will agree to, support and vote in favor of the BCA, the Ancillary Documents which DarkPulse is or will be a party and the transactions contemplated thereby (including the Merger).
+Our Business
+ 
+We offer a full suite of engineering, installation and security management solutions to industries and governments. Coupled with our patented BOTDA technology, we provide our customers a comprehensive data stream of critical metrics for assessing the health and security of their infrastructure. Our comprehensive system provides for rapid, precise analysis and responsive activities predetermined by the end-user customer. These responses include the use of “smart” AI platformed cameras, facial recognition technologies and multiple drone platforms. Our User Interface (UI) is cloud based which offers end-users access to their systems on any device located anywhere in the world. Additional programming of the UI is being completed within a game engine that will also offer access via Virtual Reality headsets, allowing end-users to virtually inspection their assets.
+
+5
+-
+
+ 
+
+Historically, distributed sensor systems have been too costly, slow and limited in their capabilities to attain widespread use. In addition, Brillouin-based sensors have been plagued with temperature and strain cross-sensitivity, i.e. the inability to distinguish between temperature and strain change along the same fiber. The loss of spatial resolution with an increase in fiber length has also limited the use of distributed sensor systems. Due to these shortcomings, existing technologies are unable to succeed within today’s dynamic environments, and needs for more advanced sensor technologies have remained unsatisfied.
+ 
+By contrast to existing technologies, our BOTDA technology is a distributed-fiber sensing system, based on dark-pulse Brillouin scattering, which reports in real-time on conditions such as temperature, stress, strain corrosion and structural health monitoring of Critical Infrastructure/Key Resources including Bridges, Buildings, Roadways pipelines and mining installations.
+ 
+Our BOTDA technology’s differentiators from and advantages over existing technologies:
+ 
+
+· | Real-time Reporting: Higher data acquisition speeds allowing for structural monitoring of dynamic systems;
+--+-----------------------------------------------------------------------------------------------------------
+· | Cost to Customer: Significantly lower acquisition and operating costs; 
+· | Precision: A greater magnitude of precision and spatial resolution than other systems currently available;
+· | Applications: Wider range of capabilities than other systems currently available; 
+· | Power Consumption: Lower power consumption than existing systems allowing for off-grid installations; 
+· | Integration: Capable of integrating with existing systems; and 
+· | Central station monitoring/cloud based GUI. 
+
+ 
+We believe that these key advantages should allow us not only to enter existing markets, but more importantly, to open new market opportunities with new applications. We intend to leverage new applications to target clients that have been unable to make use of distributed fiber optic technology to date.
+ 
+Revenue
+ 
+The Company’s revenues are generated primarily from the sales of our services, which consist primarily of advanced technology solutions for integrated communications and security systems, as well as habitat management. The Company’s sales of products are primarily generated from our TJM subsidiaries.
+
+6
+-
+
+Our Market
+ 
+Current uses of fiber optic distributed sensor technology have been limited to quasi-static, long-term structural health monitoring due to the time required to obtain the data and its poor precision. Our BOTDA technology allows for the monitoring of highly dynamic environments due to its magnitude of increased resolution and greater accuracy. The resulting high speed, real-time monitoring capabilities of our BOTDA technology should satisfy a broad range of existing and emerging requirements. Use of our BOTDA technology by our customers should result in lower production costs with increased sensing capabilities that can integrate with existing technology and be upgraded cost effectively.
+ 
+Due to the characteristics of the fiber used in fiber optic sensing, the uses of our BOTDA technology are wide ranging. Optical fiber is hard-wearing, which allows it to be used in environments where other technologies fail (for example, at temperatures ranging from -40°C to 300°C and 1000psi). Additionally, our BOTDA sensors allow for live sensing due to the speed at which the analysis takes place.
+ 
+Our management team is continually identifying markets in which our BOTDA technology may be readily applied. Once these markets (as described below) have been addressed, our technology may be adapted and applied to new markets.
+ 
+Structural Monitoring
+ 
+
+· | Buildings and Skyscrapers; 
+--+-------------------------------
+· | Bridges, Tunnels and Dams; and
+· | Roads and Railway tracks. 
+
+Temperature Sensing
+ 
+
+· | Fire Alarm and Environment control; 
+--+------------------------------------------------
+· | Low cost and maintenance; 
+· | Long life span; and 
+· | Ability to withstand harsh working environment.
+
+Security & Defense
+ 
+
+· | National Border Protection; and 
+--+----------------------------------------------------------
+· | Protection of Military and other sensitive installations.
+
+Consulting Services:
+ 
+
+· | Consulting (as stand-alone or presales);
+--+-----------------------------------------
+· | Post sales deployment and Support; and 
+· | Managed services (monitoring, etc.). 
+
+
+7
+-
+
+Additional Potential Markets:
+ 
+
+· | Monitoring of composite structures in aircraft; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+· | Dynamic stress monitoring of runways; 
+· | Dynamic ship hull stress monitoring, especially with a view to double-hull oil tankers; 
+· | Smart grid and power conservation applications based on cooling and/or heat proximity – for instance, computer rooms, cell towers for heat soak;
+· | Monitor low temperatures as part of control systems; 
+· | Monitoring of temperatures in extreme refrigeration environments; 
+· | Avalanche early warning systems; and 
+· | Sea defense monitoring. 
+
+Marketing
+ 
+We utilize our BOTDA technology as the foundation of our ongoing marketing initiatives. Most notably, the greater magnitude of increased capabilities of our BOTDA technology versus existing bright-pulsing technologies. Existing bright-pulse Brillouin-based sensors have historically been plagued with temperature and strain cross-sensitivity, i.e. the inability to distinguish between temperature and strain change along the same fiber. The loss of spatial resolution with an increase in fiber length is also a limiting factor for the use of distributed sensor systems. Because of these shortcomings, existing bright-pulse Brillouin-based technologies are unable to succeed within today’s dynamic environments, which coincides with our BOTDA technology’s increased capabilities over bright-pulse systems. Our marketing initiatives include daily, broad-based social media engagement, management of our website, email campaigns, national television commercials, magazine ads, and other ongoing initiatives designed to increase awareness of our products and services and drive conversion and adoption rates.
+Competition
+ 
+The overall optical sensing market is projected to reach USD $3.47 billion by 2023 from USD $1.13 billion in 2016, at a CAGR of 15.47% between 2017 and 2023.[1] We are active in the optical sensing market, including Oil & Gas pipeline health monitoring, Infrastructure, National Border Security applications, and the mining industry. We believe that fiber sensing applications which incorporate our BOTDA technology may provide significant competitive advantages over structural health monitoring applications offered by the long-term leaders in the field, such as Schlumberger, Hewlett-Packard, and Yokogawa, which collectively account for a significant portion of industry sales. These companies, as well as others, have numerous differences in feature sets and functionality, but all share certain basic attributes: a bright-pulse technology as the core of their systems architecture. An architecture designed using bright-pulsing technology has limited sensing capabilities and resolutions of one meter allowing for mostly long-term quasi-static deployments.
+ 
+However, we utilize our BOTDA technology allowing for multiple applications into those markets unavailable to companies using bright-pulse technology. While many of the companies using bright-pulse technology have attempted to incorporate various sensing techniques into a legacy technology, none have been able to offer the order of magnitude resolutions offered by our patented dark-pulse based BOTDA technology. This magnitude in resolution coupled with our BOTDA technology’s increased data collection speeds allows our technology to be installed into areas of the market that our competitors cannot. Our future financial condition and operating results depend on our ability to provide a high-quality solution as well as increased distribution of the solutions in each of the markets in which we compete or intend to compete within.
+ 
+
+
+__________
+
+
+[1] https://www.marketsandmarkets.com/Market-Reports/optical-sensing-market-197592599.html
+
+
+
+8
+-
+
+ 
+
+The markets for our products and services are highly competitive and we are confronted by aggressive competition. These markets are characterized by frequent product introductions and rapid technological advances. Our financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. Principal competitive factors important to us include price, product features, relative price and performance, product quality and reliability, marketing and distribution capability, service and support and corporate reputation.
+ 
+Intellectual Property
+ 
+Our policy is to protect our technology by, among other things, patents, trade secret protection and copyrights. We have taken security measures to protect our trade secrets and proprietary know-how, to the greatest extent possible. Our means of protecting our proprietary rights may not prove to be adequate and our competitors may independently develop technology or products that are similar to ours or that compete with ours. Trade secret, patent and copyright laws afford only certain protections for our technology and products. The laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to obtain and use information that we regard as proprietary. Third parties may also design around our proprietary rights, which may render our protected technology and products less valuable, if the design around is favorably received in the marketplace.
+ 
+In addition, any of our products or technology covered by patents or other intellectual property rights, could cause us to be subject to various legal actions. Litigation may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of others, or to defend against claims of infringement, invalidity, misappropriation, or other claims.
+ 
+Through DPTI’s April 2017 Intellectual Property agreement with the University, DPTI was sold, transferred, and assigned U.S. Patent Nos. 7,245,790, 8,643,829, and 9,534,965, each of which are related to our BOTDA dark-pulse technology. In addition, Canadian Patent No. 2,502,275 was also assigned.
+ 
+Suppliers
+ 
+We currently rely on a full-time, dedicated, external team of experienced professionals for the coding and maintenance of our products. We believe we have mitigated the associated risks of managing an external team of software and engineering development professionals by incorporating internal management and oversight, as well as appropriate systems, protocols, controls, and procedures and ensuring that we have access to additional qualified professionals to provide like or complementary services.
+Government Regulation
+ 
+Government regulation is not of significant concern for our business nor is government regulation expected to become an impediment to the business in the near- or mid-term as management is currently unaware of any planned or anticipated government regulation that would have a material impact on our business. Our management believes it currently possesses all requisite authority to conduct our business as described in this Prospectus.
+Employees
+ 
+As of June 22, 2023, we had 182 full-time employees and no part-time employees.
+ 
+
+
+9
+-
+

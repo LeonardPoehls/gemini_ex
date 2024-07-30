@@ -1,0 +1,262 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+Overview of Business
+ 
+We have developed a financial technology and social media hybrid platform offering real-time proprietary analytics and news for stock and options traders of all levels combined with a social media element and educational materials. Our web-based platform and native iOS and Android applications (the “Blackbox System”) employ “predictive technology” enhanced by artificial intelligence to find volatility and unusual market activity that may result in the rapid change in the price of a stock or option. We continuously scan the New York Stock Exchange (“NYSE”), NASDAQ, Chicago Board Options Exchange (the “CBOE”) and other options markets, analyzing over 10,000 stocks and over 1,500,000 options contracts multiple times per second. We provide our subscribing members with a fully interactive social media platform that is integrated into our dashboard, enabling our members to exchange information and ideas quickly and efficiently through a common network. We believe that the Blackbox System is a disruptive financial technology platform that uniquely integrates proprietary analytics with a community supported by a broadcast enabled social media system which connects traders of all kinds worldwide on an intuitive and user-friendly platform.
+ 
+Our goal is to provide retail investors with the type of sophisticated trading tools that were previously available only to large institutional hedge funds and high-frequency traders together with an interactive community of traders and investors of all levels at an affordable price. We also strive to provide these trading tools in a user-friendly format that does not require complicated configurations by the user.
+ 
+We employ a subscription-based Software as a Service (“SaaS”) business model and maintain a growing base of members that spans 42 countries. We currently offer monthly subscriptions to our platform for $99 per month and annual subscriptions for $959 per year.
+ 
+
+
+ 2
+
+ 
+
+Our Mission 
+ 
+Our mission is to provide powerful proprietary analytics in a simple and concise format to level the playing field for the average retail investor. We strive to educate our members through our live trading community as well as our scheduled, calendared classes with live instructors. We want every member to feel they are part of a team with the goal of improving financial literacy. We believe that we are the antithesis of the “trading guru” platforms that feature a trading or investing expert that charges for what are often expensive courses. We do not charge for our classes. We do not upsell our members. All education and community programs are free with the subscription to our platform.
+Revenue Model
+ 
+We generate revenue from a software as a service (or SaaS) model whereby members pay either an annual or monthly fee for a subscription to our platform. We do not currently offer more than one level of subscription with varying levels of features. All members have full access to all of the features and educational resources of our platform.
+ 
+Monthly subscriptions are currently priced at $99 and annual subscriptions are currently priced at $959 (a discount of $241). We occasionally offer gift cards and promotional discounts on our subscriptions.
+ 
+Development of the Blackbox System
+ 
+The Blackbox System was launched and made available for use to subscribing customers worldwide in September 2016. The initial product was a web-based platform focused on providing proprietary analytics and broadcast enabled social media for our community of members. In 2022 we launched full-featured native iOS and Android applications. Our product offering is comprised of three key elements: stock and options trading analytics, social media interaction, and educational programs and resources.
+ 
+
+
+Stock and Options Trading Analytics 
+ 
+Our preconfigured dashboard is designed to be simple and easy to navigate and includes real-time proprietary alerts, stock and options scanners, financial news, institutional grade charting, and our proprietary analytics that can be utilized by traders of all levels. Our Blackbox System populates the stock and option data in real time and provides a wide range analytics and tools for traders. We offer many of the standard market tool features used by traders but differentiate our product with an array of unique proprietary features and derived data. These proprietary features are designed to filter out “market noise” and locate, in real-time, specific stocks and options that are likely to become market movers.
+ 
+   3
+
+ 
+
+Standard Features
+ (Including but not limited to)
+ 
+
+● | Real Time NYSE/NASDAQ/OTC Market Data
+--+--------------------------------------
+● | Real Time OPRA Options Trade Data 
+● | Real Time Streaming Market News Feed 
+● | Symbol Specific News 
+● | Options News and Upgrades/Downgrades 
+● | Institutional Grade Charts 
+● | Multi-Chart Capability 
+● | Earnings and Dividend Dates 
+● | Daily Advancers / Decliners Scanner 
+● | User-specific Watch List 
+
+Proprietary Features
+ (Including but not limited to)
+ 
+
+● | Real Time Algorithm Driven Stock & Options Alerts
+--+--------------------------------------------------
+● | User Defined Symbol Specific Alert Criteria 
+● | Options Flow Scanner / Heatmap 
+● | Pre-Configured Pre/Post Market Scanners 
+● | Stock and Option Volume Ratio Scanner 
+● | Volatility Indicator 
+
+ 
+Added in 2022:
+ 
+● | Dark Pool Analysis 
+--+-----------------------------------------------------------
+● | Insider Buying Analysis 
+● | Gamma Exposure 
+● | FINRA Short Interest Analysis 
+● | Net Options Delta and Dollar Flow 
+● | Feature Rich Text- and Audio-based Social Media Components
+
+ 
+In 2022, we added several new proprietary studies to the Blackbox system to help both options and stock traders. These studies encompass advanced data tools with real time data that are easy for traders of all levels to use.
+ 
+Dark Pool Analysis: we added dark pool trades on our charting system that updates in real time. Dark Pools are privately organized financial forums or exchanges for securities trading. Using our system, traders can easily see levels where large institutions or funds are trading. The Dark Pool Volume Profile is an indicator that visually displays a Dark Pool transaction directly on to the chart. The Volume Profile bar is overlayed at the price level at which the Dark Pool transaction is executed. The length of the volume profile is a visual representation of the share size of the dark pool transaction. The Dark Pool Volume Profile will also display historical activity when you change the time frame.
+Insider Buying Analysis: we use the EDGAR portal to access all Form 4’s filed and update our charts where you find insiders buying stocks. This is a powerful tool for traders to easily see where the insiders or management are buying.
+Gamma Exposure (GEX): Gamma is a measure of the rate of change of an options delta and it represents the rate at which an options delta will change as the price of the underlying changes. This proprietary study tracks the Gamma levels of all strike prices in real time by displaying a green/red bar at the strike prices. The day opens with the gamma levels from Open Interest and will adjust accordingly throughout the day as options are bought and sold. Finding the largest levels of Gamma Exposure (GEX) can serve as potential levels of support and/or resistance.
+ 
+   4
+
+ 
+
+FINRA Short Interest Analysis: all the FINRA short interest data for stocks is plotted on our charts to let traders see how the shorting ratio of trades in the dark pools has changed over time.
+Net Options Delta and Dollar Flow: This BlackBox proprietary study shows you the daily Net Options Delta (NOD) on a ticker. The delta of a net options position is the ratio of the change in the value of the position to the change in the price of the underlying asset. In other words, it is a measure of how much the value of the options position will change for a small change in the price of the underlying asset. Every single option trade is calculated in real time and the NOD of the stock is updated. This is further broken down into Put and Call NOD. Options dollar flow is a metric that measures the net flow of money into or out of options contracts. It is calculated by taking the difference between the total premium paid for call options and the total premium paid for put options. Positive dollar flow indicates a bullish sentiment, where in turn a negative dollar flow would indicate a bearish sentiment. This proprietary BlackBox study breaks down the dollar flow into three expiration time frames from near term, monthly and total.
+Brokerage Integrations 
+ 
+We have trading integrations with the online brokerages E*Trade and TradeStation. These integrations allow our members to execute trades through E*Trade or TradeStation directly from the Blackbox platform. Our members that use this integration feature have access to certain custom tools. One of these tools is a “quick-click” feature that loads our system’s stock and options alerts with two simple clicks, greatly reducing the time it takes for order entry. This feature is especially helpful for the order entry of option contracts, as they are detailed, lengthy, and cumbersome to enter. The system has been designed to quickly integrate with new brokers and we intend to expand the number of brokerages with whom we have trading integrations in the future.
+Education 
+ 
+We offer all members full access to our curriculum of classes, orientations, and live market sessions. All of our education programs are free to our members. Our curriculum includes classes for beginner, intermediate, and advanced-level traders. We believe education is vital to increasing the probability of our members long term success in the markets. We have many regularly calendared live webinars, Q&A sessions, as well as recorded classes. In addition to our regularly calendared classes, we often feature ad hoc classes taught by seasoned members of our community. The educators of these classes often specialize in specific market sectors or trading strategies. Classes and webinar events offered to our members include but are not limited to:
+
+Beginner | Intermediate | Advanced 
+--------------------+----------------------------------+-----------------------------------------------
+Trading With Swan | Dark Pool Basics | Options Adjustments 
+Intro to the Market | Technical Analysis 101 | Understanding options for a Bull & Bear Market
+Charting 101 | Blackbox Trading System -Stocks | Options Strategies for Higher Volatility 
+Stock Basics | Blackbox Trading System -Options | Insights for Options Core Concepts 
+ | Understanding Options Flow | Short Term Options Explained 
+ | | Implied & Historical Volatility 
+ | | Options Pricing Explained 
+
+ 
+In addition to our internal curriculum, we have partnered with the Options Industry Council (OIC), a nonprofit organization funded by the Options Clearing Corporation (OCC) with the mission of providing the investing public a better understanding of the options markets. Classes taught by the OIC to our members include but are not limited to:
+ 
+
+● | The Greeks Part I 
+--+-----------------------------
+● | The Greeks Part II 
+● | Implied Volatility 
+● | Short Term Options Explained
+● | Options Pricing Explained 
+
+ 
+   5
+
+ 
+
+One of the most attractive aspects of our education program is that the classes are taught by members of our community. The student members who take these are often familiar with the instructor from following them in live trading channels on our platform. We believe this familiarity often brings an element of authenticity and heightened engagement increasing the success of these educational endeavors as well as adding to the community aspect of our platform.
+ 
+The Blackbox Advantage 
+ 
+A principal component to our platform is the flexibility to provide members intuitive yet powerful technical analytics that scale with user knowledge. Our preconfigured dashboard defaults to a general setting that is designed to be easy for new members to navigate. Within this same dashboard we provide a multitude of toggles and filters for more sophisticated traders to allow them to implement custom features for their more advanced trading strategies. Most importantly, our live community consisting of thousands of traders creates a real-time community curated support system whereby seasoned traders often mentor newer members. We believe this is one of the primary strengths and differentiators of our platform. Although we offer a complete curriculum of scheduled classes weekly, the live interaction amongst our members proves to be invaluable. We believe this is due to the level of excitement created when new members can watch seasoned members of the community making trades in real time and providing an accompanying narrative. In addition to the educational component, the community element of our platform harnesses a powerful dynamic that can be described as “the best of man and machine”. Our powerful algorithm technology scans the NYSE, NASDAQ, CBOE and other options exchanges to find market volatility and anomalies and displays them on a common dashboard shared across the globe. With thousands of eyes on this data, our members can quickly interact and form a consensus on the trading opportunity at hand.
+Our Market Opportunity 
+ 
+The global COVID-19 pandemic of 2020 stimulated significant change for online technologies including financial and trading related companies such as Blackbox. More than 10 million new brokerage accounts were opened by individuals in 2020 — more than ever in one year, according to Devin Ryan, an analyst at JMP Securities. This newfound interest in the market was very positive for us as our user base grew rapidly in the first quarter of 2021. The combination of an influx of new investors as well as the tendency for those new investors to gravitate towards innovative financial technology have been positive long term macro-economic trends for us.
+ 
+It is difficult to quantify the number of people that can be classified as day traders, since the term is somewhat ambiguous, especially since there has been a large influx of self-directed investors in 2020 and 2021. The two types of traders often overlap and separating these demographics can be difficult. Recent data suggest the following size for this growing market:
+ 
+
+● | 20%: One in 5 people in the U.S. invested in stocks, or mutual funds, in the final three months of 2020, up from 15% in the second quarter, a Conference Board survey showed. Harry Robertson, Business Insider, Feb 10, 2021 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | 31 YEARS: The median age of user of Robinhood, one of the original commission-free online brokerages. More young adults are joining. Apex Clearing, which helps facilitate trades for brokerages, told Reuters around 1 million of new accounts it opened last year belonged to Gen Z investors, with an average age of 19. John McCrank, Reuters Jan 29, 2021 
+● | ~$15.5 TRILLION: Total client assets at two of the top retail-focused brokerages. Fidelity Investments had $8.8 trillion in customer assets at the end of the third quarter, up from $8.3 trillion at the end of 2019. Schwab had $6.69 trillion in client assets as of Dec. 31, and 29.6 million brokerage accounts, up 66% and 140%, respectively, from a year earlier. John McCrank, Reuters Jan 29, 2021
+
+ 
+We believe that the market opportunity for the technology that we have developed and targeted towards day traders can be utilized for self-directed investors as well as institutions -a substantially broader market. We intend to develop mobile applications for self-directed investors that provide them with financial information and data that is not commonly provided by retail brokers. Our first product aimed at this initiative will be Stock Nanny (see “New Products” below). We also intend to market our technologies to institutional financial companies for integration into their existing products or for sub-licensing to their customers.
+ 
+   6
+
+ 
+
+Recent Technology and Development Initiatives 
+ 
+We continually upgrade our platform to provide the best user experience and maximum value for our members. Many of the new features or improvements to our existing features are suggested by our members. Much of our platform is community curated and we take pride in collaborating with and implementing the suggestions from our members that use our system every day.
+ 
+Development of Native Applications for iOS and Android
+ 
+We currently have fully-featured native applications for iOS and Android devices which were released in April of 2022. We believe this app has been especially useful for the many new members that joined when they worked from home during the COVID lockdowns and returned to the workplace. We believe that our mobile applications provide our members additional flexibility in their ability to access our platform when away from a desktop computer.
+ 
+Platform Upgrades
+ 
+Since the end of 2021, we have made significant upgrades and changes to our platform. We launched version 2.0 of the application which was a complete rewrite of the application front-end and overhaul of the backend to take advantage of modern technology capabilities that were widely unavailable when the product was initially released. This resulted in much better performance, a smaller resource footprint, and improved reliability and scale. Other development initiatives included the ability to view multiple charts, an enhanced social media capability, and enhanced charting studies, which include additions of new features or indicators such as our Go-NoGo indicator, gamma exposure, net options delta and others.
+ 
+We believe that technological developments to the Blackbox System and platform have been and will continue to be critical to the success of our company. Although we have experienced significant growth and received positive feedback from our members, we believe adding these new technology sets in parallel will be significant drivers of future growth.
+ 
+New Products 
+ 
+We intend to leverage our existing financial technology platform and data resources for the creation of new and unique products to serve our existing subscribers, as well as address a broader market. We currently have a vast array of derived data that we believe will be extremely useful to self-directed investors as well the day traders and swing traders that we currently cater to. We believe the self-directed investor demographic is significantly larger than that of day traders and swing traders and presents an enormous opportunity for our growth.
+Stock Nanny
+ 
+We are currently developing a new product named Stock Nanny in the form of a mobile app for iOS and Android that will provide real-time portfolio alerts for a broad demographic of investors. Many of these alerts are a product of derived data currently generated on the Blackbox platform. This app will be designed to integrate with online brokerage platforms and allow the user to import their current stock positions and stocks on their watchlist into our app. We believe these alerts will be extremely useful for portfolio management, loss mitigation, and other investment strategies. We plan to provide extensive menu options to allow the user to customize this application to their specific needs. This will be a stand-alone product and we plan to target all self-directed retail investors, not just day traders or swing traders allowing the Company to address a much broader segment of the market. We expect to release this product in the second quarter of 2023.
+ 
+   7
+
+ 
+
+Enterprise Products for Professionals
+ 
+We do not currently market to persons or entities deemed by the exchanges as “professional traders” or financial institutions. A professional trader is generally defined by the exchanges as a person that:
+
+● | Is registered or qualified with the Securities and Exchange Commission, the Commodities Futures Trading Commission, any state securities agency, any securities exchange or association, or any commodities or futures contract market or association. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Is engaged as an “investment advisor” as that term is defined in Section 201(11) of the Investment Advisor's Act of 1940 (whether or not registered or qualified under that Act). 
+● | Is employed by a bank or another organization that is exempt from registration under Federal and/or state securities laws to perform functions that would require him or her to be so registered or qualified if he or she were to perform such functions for an organization not so exempt.
+
+ 
+The exchanges charge a substantial premium for their data to users who meet the criteria described above. In addition to the higher rates, the onboarding and subsequent approval process by these exchanges is cumbersome and not easily accomplished solely through an online process. We are currently working with our data provider and the individual exchanges to develop a streamlined digital onboarding process. We believe this will allow us to expand our reach to the “financial professional” market that we do not currently service. We believe our existing platform’s features will be well received by investment professionals once we are able to mitigate regulatory and pricing hurdles. In addition, we are targeting providing access to our products or subsets of our systems to financial institutions. Poor market performance in 2022 presented significant challenges to retail oriented companies in our industry including us. In order to provide different and more stable revenue streams, we believe it is important for us to use our existing technology base as a basis to develop new revenue streams from professional and institutional customers
+ 
+Cryptocurrency Analytics Platform 
+ 
+We have been working on a quotation system and trading integration partnership that will allow our members to trade cryptocurrency through the “Blackbox Cryptos” platform. This new platform will include the same interactive social media component we provide to members of our current Blackbox platform. As a result of the significant disruption in cryptocurrency markets during 2022 including significant declines in the prices of most major cryptocurrencies as well as the widely publicized collapse of FTX amid serious allegations of fraud and wrongdoing by its founder Sam Bankman-Fried, we have postponed completion and introduction of this product pending additional market stabilization.
+Additional Exchanges in Major Markets
+ 
+We plan to expand into other markets and create products similar to our Blackbox System that provide proprietary analytics for people trading on other major exchanges in the world. Exchanges we are exploring include the Indian Stock markets (BSE and NSE), Canadian Securities Exchange (CSE), Toronto Stock Exchange (TSX), Brasilian BOVESPA, Frankfurt Stock Exchange (FWB) and the London Stock Exchange (LSE). We are also exploring expansion into China with focus on the Hong Kong Stock Exchange (HKSE) and the mainland Shenzhen Stock Exchange (SZSE).  We may execute on this strategy by marketing to or partnering with large financial firms in one or more of those respective markets.
+ 
+While all of these exchanges utilize their national language, we believe they use substantially similar technology protocols making it relatively seamless for us to replicate our system in any of these markets. Members of the Company’s management team have prior experience developing trading platforms in multiple markets, including but not limited to the LSE, Tokyo Stock Exchange and Brasilian BOVESPA. We have extensive experience working with global data providers that provide real-time market data for any of these exchanges. Our algorithms are designed to import these feeds and process the raw data necessary to produce our proprietary analytics.
+ 
+   8
+
+ 
+
+Marketing of the Blackbox System
+ 
+We launched our Blackbox System and platform for use in the United States and made it available to subscribers in September 2016. Use of the platform is sold on a monthly or annual subscription basis to individual consumers through our website at https://blackboxstocks.com. We believe our Blackbox System subscriptions are priced competitively with similar web-based trading tools. We primarily use a combination of digital marketing campaigns and customer referral compensation plans in our advertising program. Our digital advertising efforts are comprised of display and video ads, along with banner and text ads across multiple search and social platforms. We also utilize targeted email marketing and a strategic global marketing campaign for brand awareness. We believe that this form of advertising has been and will continue to be effective in attracting subscribers. We continuously monitor and evaluate the effectiveness of specific social media platforms and allocate marketing funds accordingly. We also promote our subscriptions through an established compensated customer referral program. We offer certain subscribers the right to promote the Blackbox System and receive referral fees for subscribers generated from such subscribers’ effort. Generally, we pay referring subscribers $25 for each subscription generated and $25 for each month the subscriber continues their subscription. We incurred $379,353 and $515,580 in customer referral expenditures in each of the years ended December 31, 2022 and 2021, respectively. We expect to continue utilizing the customer referral sales program as it has proven to be an extremely efficient form of advertising. Our advertising and marketing expense was $1,468,702 and $1,250,882 for the years ended December 31, 2022 and 2021, respectively. We intend to continue to deploy a significant amount of marketing funds on both digital campaigns and customer referral programs in the future. In addition, we may also utilize television and radio advertising. In March of 2023, we introduced Blackbox Beat, a weekly show featuring some of our team traders discussing current financial and trading topics of interest to our traders. Blackbox Beat is currently on YouTube and represents a new marketing and branding initiative designed to provide greater exposure to our platform and our people.
+ 
+Our marketing of products targeted toward institutional customers is anticipated to rely less on the current digital marketing that we have historically utilized and is not expected to utilize affiliate marketing strategies.
+ 
+Industry Partners and Relationships
+ 
+We have several arrangements and agreements with financial industry partners that encompass marketing partnerships, educational resources and licenses. We believe our relationship with large well-known brokerage firms enhance our credibility and provide added value to our members. Among these partnerships are marketing agreements with TD Ameritrade, E*TRADE and TastyTrade whereby these firms provide us with a referral fee for new accounts that we bring to them as well as offering our members discounted commissions on options trades. The referral fees are not currently material to our revenue but we believe the that our initial relationship with these firms is significant and provides us with an opportunity to expand these relationships to bring greater value to our members.
+ 
+We have agreements with E*Trade and TradeStation permitting the integration of our platform with their brokerage platforms. These integrations allow our users to trade directly from our platform using their E*Trade or TradeStation account. In addition, TradeStation advertises our platform to 140,000 users through its webinars and in their internal app store. We believe the ability to enable our members to execute trades with third party brokers without having to leave our platform is particularly valuable to options traders who are able to execute more complicated orders without having to re-enter option contract information on another platform. We intend to integrate our platform with other brokers.
+ 
+Industry partnerships such as the one we have with Options Industry Council, a non-profit entity funded by the Options Clearing Corp. also help provide our members with added educational benefits.
+ 
+Data Suppliers
+ 
+We contract with data suppliers and aggregators to provide our subscribers real time access to most major newswires, historical charting data and the real time stock and options data that drive the backend algorithms. We currently maintain servers connected with our stock and options data provider and utilize an Amazon Web Services (AWS) network as a backup. 
+ 
+   9
+
+ 
+
+Intellectual Property
+ 
+We rely on a combination of trademark and copyright laws, trade secrets, confidentiality provisions and other contractual provisions to protect our proprietary rights, which are primarily our brand names, product coding and marks. The Company has not yet registered any trademarks, copyrights or other intellectual property associated with our business.
+Government Regulation and Approvals
+ 
+We offer our subscribing customers a trading tool and not a trading platform, broker dealer or exchange, and therefore we do not believe we are subject to regulatory oversight by the SEC, FINRA or other financial regulatory agencies. We are not aware of any governmental regulations or approvals required for the marketing or use of our Blackbox System or the services provided.
+
+We are subject to a variety of laws and regulations in the United States and abroad that involve matters central to our business. Many of these laws and regulations are still evolving and being tested in courts, and could be interpreted in ways that could harm our business including, but not limited to, privacy, data protection and personal information, rights of publicity, content, intellectual property, advertising, marketing, distribution, data security, data retention and deletion, and other communications, protection of minors, consumer protection, telecommunications, product liability, taxation, economic or other trade prohibitions or sanctions, anti-corruption law compliance and securities law compliance. In particular, we are subject to federal, state and foreign laws regarding privacy and protection of people's data. Foreign data protection, privacy, content and other laws and regulations can impose different obligations or be more restrictive than those in the United States. U.S. federal and state and foreign laws and regulations, which in some cases can be enforced by private parties in addition to government entities, are constantly evolving and can be subject to significant change. As a result, the application, interpretation and enforcement of these laws and regulations are often uncertain, particularly in the new and rapidly evolving industry in which we operate and may be interpreted and applied inconsistently from country to country and inconsistently with our current policies and practices.
+ 
+Competition
+ 
+We operate in a highly competitive environment. Although, we believe that our Blackbox System is the only platform that has successfully merged a comprehensive analytics system or “scanner” and a social media platform within the same “dashboard” allowing members to view the same real-time data in parallel, there are a number of companies that offer one or more features that are similar to or attempt to address the same market as we do. Some of these competitors have financial and other resources that are significantly greater than ours. The greatest amount of competition exists within products that provide trading analytics often referred to as “scanners”. We compete with these entities based on a number of factors including price, ease of use, standard features and proprietary features (if applicable). Ultimately, we believe the primary factor used in evaluating the trading analytics by any platform is the user’s ability to derive actionable information from that platform. This is where we believe our proprietary features differentiate the Blackbox System.
+ 
+In addition to these technical tools, there are also a number of social media platforms that provide forums for traders and investors at little or no cost. The integration of our social media component within our platform creates a community that we believe is significantly superior to stand alone social media sites. Our members are able to interact and discuss ideas while viewing the same dashboard as opposed to having to switch back and forth between applications.
+ 
+The final component to our platform is education. There are numerous standalone investment and trading applications, books, seminars and courses offered at many different price points. These products compete based on price, perceived value, level of sophistication and reputation among other factors. We offer our courses at no additional charge to our subscribers. In addition, we believe that our social media community provides our more experienced traders the opportunity to mentor newer traders which in turn contributes to the community environment we have developed.
+ 
+   10
+
+ 
+
+In spite of these factors that differentiate us, we believe the following companies may be considered competitors due to similar product features and retail price points: Trade Ideas, Flow Algo and Trade Alert. Companies with social media platforms dedicated to financial markets include Stock Twits and Wall Street Bets.
+ 
+Employees
+ 
+As of April 6, 2023, the Company has fourteen full-time employees. We also currently have eighteen contract workers that primarily serve as team traders on our Blackbox System platform or developers.
+ 
+None of our employees are represented by a labor organization, and we are not a party to any collective bargaining agreement. We have not experienced any work stoppages and consider our relations with our employees to be good.
+ 
+We believe that our future success will depend in part on our continued ability to hire, motivate and retain qualified management, sales, marketing, and technical personnel. To date, we have not experienced significant difficulties in attracting or retaining qualified employees. 
+ 
+Corporate Information
+ 
+Our principal executive offices are located at 5430 LBJ Freeway, Suite 1485, Dallas, Texas 75240, and our telephone number is (972) 726-9203. Our website is https://blackboxstocks.com. The information on, or that can be accessed through, our website is not part of this Report on Form 10-K. We have included our website address as an inactive textual reference only.
+Additional Information
+ 
+We file annual reports on Form 10-K and quarterly reports on Form 10-Q with the Securities and Exchange Commission (the “SEC”) on a regular basis, and disclose certain material events in current reports on Form 8-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act are available free of charge on our investor relations section of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission ("SEC"). The SEC also maintains an Internet website that contains reports and other information regarding issuers, such as Blackboxstocks, that can be filed electronically with the SEC. The SEC's Internet website is located at http://www.sec.gov.
+ 

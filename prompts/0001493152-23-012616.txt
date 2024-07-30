@@ -1,0 +1,273 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+InnovaQor, Inc., a Nevada corporation (“InnovaQor” or the “Company”), provides information technology solutions and services to healthcare and laboratory customers in the United States. Our goal is to develop and deliver a technology-based medical professional’s network communication platform to a broad range of healthcare professionals and businesses using a subscription revenue model with added value bolt on services. The Company, through an acquisition that closed on June 25, 2021, has a number of fully developed products and services which it offers through six wholly owned subsidiaries that provide medical support services primarily to clinical laboratories, corporate operations, rural hospitals, physician practices and behavioral health/substance abuse centers.
+ 
+The Company has the following wholly owned subsidiaries, which it purchased on June 25, 2021: Health Technology Solutions, Inc., Medical Mime, Inc., ClinLab, Inc., Advanced Molecular Services Group, Inc. (“AMSG”), Genomas, Inc. and CollabRx, Inc. These subsidiaries provided products and services to 25 and 36 customers in the United States and generated $343,440 and $468,883 (including $191,517 and $237,551 from a related party) in net revenues during the years ended December 31, 2022 and 2021, respectively.
+ 
+Health Technology Solutions, Inc. (“HTS”): HTS provides virtual chief information officer (vCIO), IT managed services and data analytics dashboards to our subsidiaries and outside medical service providers. HTS operates from the corporate offices in West Palm Beach, Florida.
+ 
+Medical Mime, Inc. (“Mime”): Mime was formed on May 9, 2014. It specializes in electronic health records (EHR) software and subscription services for the behavioral health and rehabilitation market segments. It currently serves ten behavioral health/substance abuse facilities.
+ 
+ClinLab, Inc. (“ClinLab”): ClinLab develops and markets laboratory information management systems to mid-size clinical laboratories. It currently services eight clinical laboratories across the country.
+ 
+AMSG owns CollabRx, Inc. (“CollabRx”) and Genomas, Inc. (“Genomas”), each of which is an inactive operation.
+ 
+Genomas operated a diagnostics lab until December 31, 2019, and was focused solely on the pharmacogenomics technology and platform, MedTuning, to interpret diagnostics outcomes and translate these outcomes into easily usable information to indicate the effectiveness of medications for a patient. This solution would require minimum effort to be back in operation. CollabRx owns a technology platform and database for interpreting diagnostics outcomes from cancer patients that could match the result to known treatments and or clinical trials. This solution has been dormant for a number of years and to be viable in the marketplace will require updates to the technology and the database.
+ 
+Each of the subsidiaries is wholly owned by the Company and complements each other, allowing for cross selling of products and services. The Company believes the current solutions will become an added value option to a technology-based medical professional’s network communication platform to a broad range of healthcare professionals and businesses using a subscription revenue model with added value bolt on services the Company plans to develop.
+ 
+In the coming year we plan to develop, acquire, or license and offer a telehealth solution through corporate partnerships in the emerging health technology sector.
+ 
+Cautionary Statement Concerning Forward-Looking Statements
+ 
+This Annual Report on Form 10-K contains forward-looking statements. Statements contained herein that refer to the Company’s estimated or anticipated future results are forward-looking statements that reflect current perspectives of existing trends and information as of the date of this filing. Forward-looking statements generally will be accompanied by words such as “anticipate,” “believe,” “plan,” “could,” “should,” “estimate,” “expect,” “forecast,” “outlook,” “guidance,” “intend” “may,” “might,” “will,” “possible,” “potential,” “predict,” “project,” or other similar words, phrases or expressions. Such forward-looking statements include statements about the Company’s plans, objectives, expectations and intentions. It is important to note that the Company’s goals and expectations are not predictions of actual performance. Actual results may differ materially from the Company’s current expectations depending upon a number of factors affecting the Company’s business. These risks and uncertainties include those set forth under “Risk Factors” beginning on page 11, as well as, among others, business effects, including the effects of industry, economic or political conditions outside of the Company’s control; the inherent uncertainty associated with financial projections; the anticipated size of the markets and demand for the Company’s products and services; the impact of competitive products and pricing; and access to available financing on a timely basis and on reasonable terms. We caution you that the foregoing list of important factors that may affect future results is not exhaustive.
+
+3
+-
+
+ 
+
+When relying on forward-looking statements to make decisions with respect to the Company, investors and others should carefully consider the foregoing factors and other uncertainties and potential events and read the Company’s filings with the Securities and Exchange Commission (the “SEC”) for a discussion of these and other risks and uncertainties. The Company undertakes no obligation to update or revise any forward-looking statement, except as may be required by law. The Company qualifies all forward-looking statements by these cautionary statements.
+ 
+Company History
+ 
+The Company was originally incorporated in the State of Nevada on September 7, 1999, under the name Ancona Mining Corporation. The Company’s name was changed to VisualMED Clinical Solutions Corporation on November 30, 2004, from Ancona Mining Corporation.
+ 
+The Company’s name was changed to InnovaQor, Inc. on September 8, 2021, from VisualMED Clinical Solutions Corporation. VisualMED was a medical information company that used technology to assist physicians and nurses streamline the mass of patient information in a coherent and usable manner. Its clinical information systems were designed for use in hospitals, healthcare delivery organizations and regional and national healthcare authorities. In response to changes in the marketplace, the Company then sought to take its applications originally created for clinicians and make them available to patients and individuals concerned about their health. As part of this process the Company partnered with various consultants to consider the medical applications, develop a marketing strategy and investigate how best to transition its existing applications to upgraded versions, including integrating artificial intelligence for data assessment and outcomes. With the onset of the COVID-19 pandemic, however, it became apparent that this business opportunity would require more capital, management capability and time than what was available to the Company.
+ 
+In late 2020, the majority of shareholders and the Board of Directors charged management of VisualMED to find a new business opportunity for the Company that would allow it to leverage its healthcare, software and IT experience. At the beginning of 2021, the Company initiated measures that would facilitate a new opportunity for the Company. Subsequently, in May 2021, then CEO Gerard Dab entered into an agreement with and engaged the services of Epizon Limited (“Epizon”), a Nassau, Bahamas, based management consulting company specializing in the provision of management services to secure financing and opportunities for growth. Seamus Lagan, the Chief Executive Officer of Rennova Health, Inc. (“Rennova”), the company we ultimately completed a transaction with, is also the managing director of Epizon.
+ 
+The objective of the agreement with Epizon was to help VisualMED find a new opportunity in its core healthcare technology business. The Company needed to find and develop new products that would be more relevant for a changing healthcare marketplace. Epizon was engaged to assist VisualMED with its capital structure, and to look for new business opportunities and/or acquisitions that could result in improved shareholder value. The terms of the agreement with Epizon called for the transfer to Epizon of 1,000 shares of Series A-1 Supermajority Voting Preferred Stock (the “Series A-1 Preferred Stock”), with a stated value of $10.00 each, personally owned by Gerard Dab, on the successful completion of a transaction as defined in the agreement. It was determined that an agreement with Rennova was the most viable opportunity available to VisualMED. The conditions of the Epizon agreement were met and the transfer of shares of Series A-1 Preferred Stock was completed. This transfer resulted in a change of voting control of VisualMED, as the Series A-1 Preferred Stock, in the aggregate, has the right to the number of votes equal to 51% of the votes entitled to be cast at a meeting or to vote by written consent. As the owner of the Series A-1 Preferred Stock, Epizon will be able to exercise control over all matters submitted for stockholder approval.
+ 
+In May 2021, VisualMED entered into an acquisition agreement with Rennova to acquire certain subsidiaries owned by Rennova. This has been accounted for as a reverse acquisition in the accompanying financial statements.
+ 
+On June 25, 2021, VisualMED closed the acquisition agreement with Rennova. These subsidiaries are Health Technology Solutions, Inc., Medical Mime, Inc., ClinLab, Inc., Advanced Molecular Services Group, Inc., Genomas, Inc. and CollabRx, Inc., and combined are referred to herein as HTS and AMSG (the “HTS Group”).
+ 
+Products offered by the acquired entities include vCIO services, IT managed services, healthcare finance and operational business intelligence analytics dashboards, an EHR (electronic health records software), an LIS (laboratory information system), and a lab ordering and reporting software. The CollabRx and Genomas subsidiaries provided actionable data analytics and reporting for oncologists to enhance cancer diagnoses and treatment and PhyzioType Systems for DNA-guided management and prescription of drugs, respectively. These subsidiaries are not currently operating.
+ 
+
+4
+-
+
+ 
+
+The Company operates its subsidiaries under the following structure:
+ 
+
+In consideration for the shares of HTS and AMSG and the elimination of inter-company debt between Rennova and HTS and AMSG, the Company issued 14,000 shares of its Series B-1 Convertible Redeemable Preferred Stock (the “Series B-1 Preferred Stock”) to Rennova. The number of shares of Series B-1 Preferred Stock was subject to a post-closing adjustment which resulted in 950 additional shares of Series B-1 Preferred Stock due Rennova which were issued in September 2021. Each share of Series B-1 Preferred Stock has a stated value of $1,000 and is convertible into that number of shares of the Company’s common stock equal to the product of the stated value divided by 90% of the average closing price of the common stock during the 10 trading days immediately prior to the conversion date. Conversion of the Series B-1 Preferred Stock, however, is subject to the limitation that no conversion can be made to the extent the holder’s beneficial interest (as defined pursuant to the terms of the Series B-1 Preferred Stock) in the common stock of the Company would exceed 4.99%. The shares of Series B-1 Preferred Stock may be redeemed by the Company upon payment of the stated value of the shares plus any accrued declared and unpaid dividends. In addition, prior to the acquisition the Company’s former CEO, Gerard Dab, forgave $300,000 owed to him by the Company in exchange for the issuance of 1,000 shares of Series A-1 Preferred Stock. These shares of Series A-1 Preferred Stock were subsequently transferred to Epizon. Mr. Dab also forgave another $200,000 owed to him from the Company in exchange for 200 shares of Series C-1 Convertible Redeemable Preferred Stock (the “Series C-1 Preferred Stock”) with each share having a stated value of $1,000 and convertible into that number of shares of common stock equal to the product of the stated value divided by 90% of the average closing price of the common stock during the 10 trading days immediately prior to the conversion date. Conversion of the Series C-1 Preferred Stock is also subject to a similar 4.99% beneficial ownership limitation. Shares of the Series B-1 Preferred Stock and Series C-1 Preferred Stock were not convertible prior to the first anniversary of their issuance without the consent of the holders of a majority of the then outstanding shares, if any, of the Series A-1 Preferred Stock. Because these shares of Series B-1 Preferred Stock and Series C-1 Preferred Stock are convertible, at the option of the holder, into a variable number of common shares based solely on a fixed dollar amount (stated value) known at issuance of the shares, they have been recorded as a long-term liability at the date of issuance in accordance with ASC 480, Distinguishing Liabilities from Equity.
+ 
+The following table represents the Company’s issued shares at December 31, 2022:
+ 
+
+Common Shares | 244,953,286
+-----------------------------+------------
+Series A-1 Preference Shares | 1,000 
+Series B-1 Preference Shares | 14,950 
+Series C-1 Preference Shares | 225 
+
+Subsidiaries
+ 
+The Company has six wholly-owned subsidiaries that provide medical support services primarily to clinical laboratories, corporate operations, rural hospitals, physician practices and behavioral health/substance abuse centers.
+ 
+Health Technology Solutions, Inc. (“HTS”): HTS provides vCIO, IT managed services and data analytics dashboards to our subsidiaries and outside medical service providers. HTS operates from the corporate offices in West Palm Beach, Florida.
+ 
+
+5
+-
+
+ 
+
+Medical Mime, Inc. (“Mime”): Mime was formed on May 9, 2014. It specializes in electronic health records (EHR) software and subscription services for the behavioral health and rehabilitation market segments. It currently serves ten behavioral health/substance abuse facilities.
+ 
+ClinLab, Inc. (“ClinLab”): ClinLab develops and markets laboratory information management systems to mid-size clinical laboratories. It currently services eight clinical laboratories across the country.
+ 
+AMSG owns CollabRx, Inc. (“CollabRx”) and Genomas, Inc. (“Genomas”), each of which is an inactive operation. Genomas operated a diagnostics lab until December 31, 2019, and was focused solely on the pharmacogenomics technology and platform, MedTuning, to interpret diagnostics outcomes and translate these outcomes into easily usable information to indicate the effectiveness of medications for a patient. This solution would require minimum effort to be back in operation. CollabRx owns a technology platform and database for interpreting diagnostics outcomes from cancer patients that could match the result to known treatments and or clinical trials. This solution has been dormant for a number of years and to be viable in the marketplace will require updates to the technology and the database.
+ 
+Each of the subsidiaries is wholly owned by the Company and complements each other, allowing for cross selling of products and services. The Company believes the current solutions will become an added value option to a technology-based medical professional’s network communication platform to a broad range of healthcare professionals and businesses using a subscription revenue model with added value bolt on services the Company plans to develop.
+ 
+In the coming year we plan to develop, acquire or license and offer a telehealth solution through partnerships in the emerging health technology sector.
+ 
+Company Information
+ 
+The address of our principal executive offices is 400 S. Australian Avenue, Suite 800, West Palm Beach, Florida 33401 and our telephone number at that location is (561) 421-1900.
+ 
+Our website is www.innovaqor.com. The information contained on, or that may be obtained from, our website is not a part of this Annual Report on Form 10-K. We have included our website address herein solely as an inactive textual reference.
+ 
+Terms of the Acquisition
+ 
+Background
+ 
+On June 25, 2021, the Company completed the acquisition agreement with Rennova, and acquired 100% ownership of certain subsidiaries of Rennova. The acquired businesses are now the main business of the Company.
+ 
+Reasons for the Acquisition
+ 
+The previous business model of the Company had not generated revenue for over five years. The Board of Directors and majority shareholders had determined the Company should pursue other opportunities for acquisition of technology and services that were similar in nature to the existing business of the Company. The Company had limited resources of cash and management and believed that an acquisition that could be completed without cash and that had its own management team would provide the best opportunity for a successful closing. The Company believes that the acquired assets and new management team create a new opportunity for the Company in a sector in which the Company’s solutions and services are in demand and should generate profitable revenue. The Company believes the acquisition brings the following benefits for shareholders:
+ 
+
+● | Enhanced strategic and management focus – The acquisition will provide the Company with a well-established and accomplished management team to more effectively pursue its distinct operating priorities and strategies and enable the management to quickly and efficiently make decisions and concentrate efforts on the unique needs of each business and pursue opportunities for long-term growth and profitability. In this way, the Company’s management will be able to focus exclusively on its IT products and services business and productize its services to third parties. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6
+-
+
+
+● | Direct access to capital markets – The acquisition provides the Company with a variety of existing product lines, some already generating revenue. These constitute a firm basis for supporting the Company’s business expansion. This should also mean that the Company will achieve better access to the capital markets to support a credible expansion plan. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Alignment of incentives with performance objectives – The acquisition will facilitate incentive compensation arrangements for employees more directly tied to the performance of the business, and may enhance employee hiring and retention by, among other things, improving the alignment of management and employee incentives with performance and growth objectives. 
+
+ 
+The Company cannot assure you that, as a result of the acquisition, any of the benefits described above or otherwise will be realized to the extent anticipated or at all and would highlight that the acquisition adds increased risk to the Company with the following;
+ 
+
+● | Increased costs – the Company will assume increased costs related to the business operations and development plan and will see an immediate increase in legal and accounting costs associated with the acquisition and the Company’s becoming fully reporting and compliant with the SEC reporting requirements. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | The Company may experience disruptions to the business of the acquired entities as a result of the acquisition. The acquired entities had enjoyed revenue and financial assistance from related parties under its previous structure. There is no guarantee that these revenues can be retained and the acquired entities will no longer be able to rely on the support and services received prior to acquisition. 
+● | One-time costs of the acquisition may be significant. The Company will incur costs in connection with the acquisition that may include accounting, tax, legal and other professional services costs, recruiting, and relocation costs associated with hiring or reassigning personnel, costs related to establishing a new brand identity in the marketplace and costs to separate information systems. 
+● | Inability to realize anticipated benefits of the acquisition – the Company may not achieve the anticipated benefits of the acquisition for a variety of reasons, including, among others: following the acquisition, the Company may be more susceptible to market fluctuations and other adverse events. 
+
+ 
+The prior Board of Directors concluded that the potential benefits of the acquisition outweighed the risks and concluded that it was in the best interest of the Company and its shareholders to complete the acquisition as described.
+ 
+Business
+ 
+InnovaQor has expertise in the areas of IT involving the design, development, creation, use and maintenance of information systems for the healthcare industry. These applications and systems will continue to improve patient care, lower costs, increase efficiency, reduce errors and improve patient outcomes. In addition, these applications and systems will accelerate and maximize reimbursements for healthcare providers.
+ 
+InnovaQor also recognizes the future in interoperability (sharing data between multiple various health IT systems), telemedicine (the ability to access and interact with health data and practitioners/patients via mobile devices) and the increasing use of blockchain technologies to protect access to medical records.
+ 
+We intend to develop, acquire or license and offer a medical professional’s network communication platform for medical professionals to include a talent search and telehealth solution through corporate partnerships in the emerging health technology sector.
+ 
+Existing products offered by the Company’s subsidiaries are as follows:
+ 
+“M2Select” is a custom built, cloud based, electronic health record which meets the needs of substance abuse treatment and behavioral health providers. M2Select’s specialized clinical workflow provides intuitive prompts for symptoms and enables you to quickly select problems and create master treatment plans with goals, objectives, and interventions. M2Select provides best-in-class patient lifecycle management for Behavioral Health/Substance Abuse (BH/SA) treatment centers. From pre-admission to billing and aftercare, M2Select is an electronic health record and patient management software that seamlessly integrates into the natural workflow of day-to-day operations.
+ 
+“M2Pro” is a custom built, cloud based, electronic health record for ambulatory physician practices that meets meaningful use stage 2 and no further. Its unique dictation services further automate the workflow process for physicians allowing them to focus on their continuum of patient care. This product may also be able to be offered outside of the US market.
+ 
+“ClinLab” is a turnkey client/server lab information system for mid-range laboratories. ClinLab supports interfaces to all major reference labs and the ClinLab team can provide an interface to any system with that capability. ClinLab also features an optional EHR package which enables interfacing with popular EHR systems allowing lab test results to integrate seamlessly into a provider’s EHR for an improved patient record and to fulfill the federal government requirements.
+ 
+
+7
+-
+
+ 
+
+“Qira” is our healthcare business analytics service powered by PowerBI. It is a culmination of healthcare financial and revenue cycle management plus clinical operations oversight needs. It aggregates data from multiple healthcare systems to produce a single source business intelligence tool with executive level daily briefing to deep dive operational management of claims and operational efficiencies. There are many other analytical services available that customize solutions but none that has a proven template for success. Our competitive advantage comes from having created these tools to identify the deficiencies in the real world for the former parent Rennova from its former national laboratory operations to its more recent rural hospitals.
+ 
+“vCIO Services”. Based on the skills and experience inherent within InnovaQor and resulting from work undertaken on behalf of the former parent, Rennova, InnovaQor offers a range of CIO services centered on our ability to link IT systems to business objectives combined with our knowledge of technology trends likely to impact our sector. The CIO services would include (but not be limited to):
+ 
+
+● | Program and Project Management 
+--+----------------------------------------------
+● | Vendor Management 
+● | Business Continuity and Disaster Recovery 
+● | Security Services 
+● | Network Infrastructure Management 
+● | Helpdesk Provision 
+
+ 
+“MedTuning” is the technology and platform owned by Genomas. It utilized proprietary biomarkers, treatment algorithms, and a web-based interactive physician portal delivery system to provide clinical decision support for physicians and personalized drug treatment for patients. Products were DNA-guided to improve the therapeutic benefit of widely used prescription drugs while also reducing the risk of significant side effects for patients.
+ 
+Medical Informatics: Our technology platform, proprietary algorithms and physician interface portal can be extended to a wide range of drug categories.
+ 
+Research and Development: Technology platform applicable to numerous disease states; current pipeline in mental health, pain management, cardiovascular and diabetes.
+ 
+“Advantage” is a proprietary HIPAA compliant software developed to eliminate the need for paper requisitions by providing an easy to use and efficient web-based system that lets customers securely place lab orders, track samples and view test reports in real time from any web-enabled laptop, notepad or smart phone.
+ 
+Brands
+ 
+We intend to trademark both InnovaQor and its products and services, i.e. ClinLab, M2Select, Qira, vCIO and Health Technology Solutions.
+ 
+Sales
+ 
+The Company has the following wholly owned subsidiaries, which it purchased on June 25, 2021: Health Technology Solutions, Inc., Medical Mime, Inc., ClinLab, Inc., Advanced Molecular Services Group, Inc. (“AMSG”), Genomas, Inc. and CollabRx, Inc. These subsidiaries provided products and services to 25 and 36 customers in the United States and generated $343,440 and $468,883 (including $191,517 and $237,551 from a related party) in net revenues during the years ended December 31, 2022 and 2021, respectively.
+ 
+InnovaQor intends to sell its Health Technology Solutions, Medical Mime and ClinLab products and services directly to customers through internal sales and digital marketing. InnovaQor intends to identify strategic partnerships that sell into the sectors it is targeting. InnovaQor intends to promote these products and services to the strategic partnerships’ existing clientele coming to agreement on a recurring revenue based on cash collected for closed sales of these products and services.
+ 
+Competitive Position
+ 
+The healthcare software, IT and vCIO consulting services industry is extremely competitive, highly fragmented, and subject to rapid change. The industry includes a large number of participants with a variety of skills and industry expertise, including other strategy, business operations, technology, technical advisory firms, regional and specialty consulting firms, and the internal professional resources of organizations. We compete with a large number of service and technology providers in all of our segments. Our competitors often vary, depending on the particular practice area. We expect to continue to face competition from new entrants.
+
+8
+-
+
+ 
+
+We believe the principal competitive factors in our market include reputation, the ability to attract and retain top talent, and the capacity to manage engagements effectively to drive high value to clients. There is also competition on price, although to a lesser extent due to the criticality of the issues that many of our services address. Our competitors often have a greater geographic footprint, a broader international presence, and more resources than we do, but we believe that our industry experience and reputation, ability to deliver meaningful client results, and balanced portfolio of services enable us to compete favorably in the consulting marketplace.
+ 
+Our rehab EHR product, Medical Mime, is a main competitor in its sector and our immediate competition is provided by KIPU, BestNotes, Zencharts, Sunwave, and TherapyNotes. Our competitive advantage is a system developed with and for facilities practicing in this sector along with customized reports and forms. Our system offers partially automated implementation and fully automated billing files that restrict billing until all required documentation is available while flagging operational deficiencies.
+ 
+Our LIS, ClinLab, is a small player in its sector and our immediate competitors are LabDaq, Schuyler House and RelayMed. Our competitive advantage is a select feature set and affordability.
+ 
+Our vCIO services are just launching and have the experience of being the internal IT team for the former parent company, Rennova. With a 10-year experience in providing complete services, consulting, project management, software management, vendor management and network engineering, vCIO will specialize in healthcare facilities.
+ 
+Qira is our healthcare business analytics tool powered by PowerBI. It is a culmination of healthcare financial and revenue cycle management plus clinical operations operational oversight needs. It aggregates data from multiple healthcare systems to produce a single source business intelligence tool with executive level daily briefing to deep dive operational management of claims and operational efficiencies. There are many other analytical services available that customize solutions but none that has a proven template for success. Our competitive advantage comes from having created these tools to identify the deficiencies in the real world for the former parent Rennova from its former national laboratory operations to its more recent rural hospitals. This product easily pays for itself as it immediately eliminates the need for accountants’ monthly delivery of numbers that can cost upwards of $25,000 a month.
+ 
+Research and Development
+ 
+The industries and market segments in which we plan to operate and compete are subject to rapid technological developments, evolving industry standards, changes in customer requirements and competitive new products and features. As a result, we believe our success, in part, will depend on our ability to build and enhance our products in a timely and efficient manner and to develop and introduce new products that meet our clients’ needs and help our clients reduce their total cost of operation. To achieve these objectives, we plan to make research and development investments through internal and third-party development activities, third-party licensing agreements and potentially through joint ventures and acquisitions.
+Research and Intellectual Property
+ 
+Our future success and ability to compete will depend on our ability to develop and maintain our intellectual property and proprietary technology and to operate without infringing on the proprietary rights of others. Software products are generally licensed to customers on a non-exclusive basis for internal use in a customer’s organization. We plan to also grant rights in intellectual property that we plan on developing or acquiring to third parties to allow them to market certain of our future products on a non-exclusive or limited-scope exclusive basis for an application of such product or to a specific geographic region.
+ 
+InnovaQor plans to protect its intellectual property in its subsidiaries through a combination of trademarks and copyrights in the coming year. InnovaQor will evaluate the possibility of acquiring or developing patents that are related to healthcare services and products.
+ 
+Our IP strategy encompasses protection on composition of matter and method for DNA markers, marker ensembles, and predictive biostatistical algorithms.
+ 
+
+9
+-
+
+Platform Technology
+ 
+Trademarks and Copyrights
+ 
+U.S. Copyright (Registration Number VA 1-797-692): Personalized Health Portal with design, user interface and algorithm.
+ 
+While we believe our intellectual property will be an asset, and our ability to maintain and protect our intellectual property rights is important to our success, we do not anticipate that our business will be materially dependent on any patent, trademark, license, or other intellectual property right.
+Employees
+ 
+As of March 30, 2023, we have six employees, five of whom are working on maintenance and customer service of our existing products. We expect to grow with a focus on sales and business development eventually expanding our technical team to support the growth. We plan to hire a team of employees and contractors to deliver on the goal of developing and delivering a technology-based communication platform to a broad range of healthcare professionals and businesses using a subscription revenue model with added value bolt on services.
+ 
+Cyclical Nature of the Business
+ 
+We have found that our business is not very cyclical but it does exhibit certain seasonality around holiday periods.
+ 
+Regulatory Matters
+ 
+The healthcare industry is subject to extensive government regulation, most notably the Health Insurance Portability and Accountability Act (HIPAA) and Protected Health Information (PHI). HIPAA helps protect the privacy of patient information by:
+
+● | Providing the ability to transfer and continue health insurance coverage for millions of American workers and their families when they change or lose their jobs; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Reducing health care fraud and abuse; 
+● | Mandating industry-wide standards for health care information on electronic billing and other processes; and 
+● | Requiring the protection and confidential handling of protected health information 
+
+ 
+PHI is a HIPAA Privacy Rule that provides federal protections for personal health information held by covered entities and gives patients an array of rights with respect to that information. At the same time, the Privacy Rule is balanced so that it permits the disclosure of personal health information needed for patient care and other important purposes.
+ 
+Although the standards are challenging, we believe that our products are compliant with HIPAA and PHI regulations. Nonetheless, our Company could be adversely affected if a third party is impacted by HIPAA or PHI related software defects.
+ 
+Emerging Growth Company Status of InnovaQor
+ 
+An emerging growth company (EGC) is any company that meets the following requirements and will lose its emerging growth status should it exceed any of these:
+
+● | The company has less than $1.07 billion or more of total gross revenue in a consecutive 12-month period; 
+--+-------------------------------------------------------------------------------------------------------------------
+● | Is within five years of its original IPO; 
+● | The company cannot have issued more than $1 billion in non-convertible bonds within the last three years; and 
+● | The company does not qualify as a large accelerated filer, meaning having a public float of over $700 million. 
+
+ 
+InnovaQor is an “emerging growth company” as defined in the Jumpstart our Business Startups Act (the “JOBS Act”). As such, InnovaQor will be eligible to take advantage of certain exemptions from various reporting requirements that apply to other public companies that are not emerging growth companies, including compliance with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act and the requirements to hold a non-binding advisory vote on executive compensation and any golden parachute payments not previously approved. If InnovaQor does take advantage of some or all of these exemptions, some investors may find its common stock less attractive. The result may be a less active trading market for the common stock and its stock price may be more volatile.
+ 
+
+10
+--
+
+ 
+
+In addition, Section 107 of the JOBS Act provides that an emerging growth company may take advantage of the extended transition period provided in Section 13(a) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), for complying with new or revised accounting standards, meaning that InnovaQor, as an emerging growth company, can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. It is InnovaQor’s present intention to adopt any applicable accounting standards timely. If at some time InnovaQor delays adoption of a new or revised accounting standard, our financial statements may not be comparable to those of companies that comply with such new or revised accounting standards.
+ 
