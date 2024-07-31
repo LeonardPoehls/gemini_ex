@@ -1,0 +1,182 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+Lantronix, Inc. is a global provider of software as a service (“SaaS”), engineering services, and hardware for Edge Computing, the Internet of Things (“IoT”), and Remote Environment Management (“REM”). Lantronix enables its customers to provide reliable and secure solutions while accelerating their time to market. Lantronix’s products and services dramatically simplify operations through the creation, development, deployment, and management of customer projects at scale while providing quality, reliability and security.
+ 
+Lantronix’s portfolio of services and products address each layer of the IoT Stack including Collect, Connect, Compute, Control and Comprehend, enabling its customers to deploy successful IoT and REM solutions. Lantronix’s services and products deliver a holistic approach, addressing its customers’ needs by integrating a SaaS management platform with custom application development layered on top of external and embedded hardware, enabling intelligent edge computing, secure communications (wired, Wi-Fi, and cellular), location and positional tracking, and environmental sensing and reporting.
+ 
+With three decades of proven experience in creating robust industry and customer specific solutions, Lantronix is an innovator in enabling its customers to build new business models, leverage greater efficiencies and realize the possibilities of the IoT and REM. Lantronix’s solutions are deployed inside millions of machines at data centers, offices, and remote sites serving a wide range of industries, including energy, agriculture, medical, security, manufacturing, distribution, transportation, retail, financial, environmental, infrastructure and government.
+ 
+We were incorporated in California in 1989 and reincorporated in Delaware in 2000.
+ 
+References in this Report to “fiscal 2020” refer to the fiscal year ended June 30, 2020 and references to “fiscal 2019” refer to the fiscal year ended June 30, 2019. 
+ 
+Our Strategy
+ 
+Today, more and more businesses are seeking to streamline their operations by connecting their machines and electronic devices to the Internet, manage them remotely, and create new business models. The growth in the IoT and REM markets are being driven by the growing importance of data, being able to act on that data, and the rapidly falling cost of sensors, connectivity, compute, and storage. While the promise is great, designing and deploying these projects is complex, costly and time-consuming. Our offerings are designed to help companies increase speed and reduce friction for their deployments through reduced complexity, decreased development costs, and increased ease of management for web-scale applications and real-world solutions; thus, driving customer value and success. We plan to address the market opportunity by offering our customers turnkey solutions by leveraging the layers of the IoT Stack, such as Collect, Connect, Compute, Control and Comprehend, through a combination of services, hardware and software solutions, accessible and manageable through our SaaS platform.
+
+
+We are executing a growth strategy that includes continuous innovation complemented by strategic acquisitions to expand our ability to offer complete IoT and REM solutions with the intent of increasing our scale and broadening our scope so that we can increase our value proposition to our customers. This strategy will allow us to address a larger portion of our customers’ operational needs, and engage with customers as a strategic "total solution" partner. We believe this will strengthen our position in the market as our customers come to us for a wider variety of solutions. For example, on July 5, 2019 we acquired Maestro Wireless Solutions Limited and its subsidiaries (together, “Maestro”). This acquisition added to our Connect and Collect solutions by providing additional and complementary cellular connectivity, LPWAN, and telematic technologies and devices to our portfolio. On January 16, 2020 we acquired Intrinsyc Technologies Corporation (“Intrinsyc”). This acquisition provided additional and complementary edge computing with embedded product design and application development capabilities, crucial to the development of intelligent Compute functionality for advanced customer implementations. These two acquisitions allow us to offer more value to our customers and substantially increased the markets that we serve.
+ 
+
+
+
+1
+-
+
+Products and Solutions
+ 
+We organize our products and solutions into three product lines: IoT, REM and Other.
+ 
+IoT
+ 
+IoT Connectivity
+ 
+Our IoT connectivity products typically connect to one or more existing machines or are built into new industrial devices to provide network connectivity. Our products are designed to enhance the value and utility of machines by making the data from the machines available to users, systems and processes or by controlling their properties and features over the network. Our IoT connectivity products may be embedded into new designs or attached to existing machines. These products include wired and wireless connections that enhance the value and utility of modern electronic systems and equipment by providing secure network connectivity, application hosting, protocol conversion, secure access for distributed IoT deployments and many other functions. Many of the products are offered with software tools intended to further accelerate our customer’s time-to-market and increase their value add. Most of our IoT connectivity products are pre-certified in a number of countries thereby significantly reducing our original equipment manufacturer (“OEM”) customers’ regulatory certification costs and accelerating their time to market.
+ 
+IoT Compute
+ 
+Our IoT compute products typically are embedded into a customer product, enabling advanced application functionality at the edge. Our products are designed to deliver advanced functionality and reduce time to market by leveraging our engineering expertise, engineering services, manufacturing experience, and strategic System on Chip (“SoC”) partners. Our compute products are normally embedded into new designs. These products include application processing that delivers compute to meet customer needs for data transformation, computer vision, machine learning, augmented / virtual reality, audio / video aggregation and distribution, custom applications at the edge. Many of the products are offered with software tools intended to further accelerate our customer’s time-to-market and increase their value add. Most of our IoT compute products are pre-certified in a number of countries thereby significantly reducing our OEM customers’ regulatory certification costs and accelerating their time to market.
+ 
+IoT Telematics
+ 
+Our IoT telematics products are typically integrated into an OEM’s or System Integrator’s (“SI”) products. Our smart tracking devices are designed to deliver robust data logging and positional tracking functionality and reliability for supply chain and logistics solutions. Our telematics devices are designed to be flexible in the field and offer a variety of connectivity options to suit the customers’ needs across 2G, 3G, 4G, and LTE cellular networks. These power efficient products are designed to support communications across interfaces and industrial protocols for vehicle, fleet, and asset tracking and management. Many of the products are offered with software tools intended to further accelerate our customer’s time-to-market and increase their value add. Most of our IoT Telematics products are pre-certified in a number of countries thereby significantly reducing our OEM customers’ regulatory certification costs and accelerating their time to market.
+ 
+Engineering Services
+ 
+We leverage our unparalleled engineering expertise and product development best practices to deliver high quality, innovative products, cost-effectively and on time. With over 1,400 projects successfully delivered to leading global brand companies, customers trust Lantronix to deliver timely and quality results, accelerating time to market.
+ 
+Our engineering services flexible business model allows for choosing turnkey product development or team augmentation for accelerating complex areas of product development such as; camera development and tuning, voice control, machine learning, artificial intelligence, computer vision, augmented / virtual reality, mechanical and radio-frequency design, thermal and power optimization, or in any specific area a customer needs assistance.
+ 
+In addition to our production-ready edge computing solutions, we offer experienced multidisciplinary engineering services across complete aspects of IoT product development, including: hardware engineering, software engineering, mechanical engineering, rapid prototyping, and quality assurance.
+ 
+
+
+
+2
+-
+
+ 
+
+Software as a Service
+ 
+Our SaaS platform provides single pane of glass management for IoT deployments. Our platform enables customers to easily deploy, monitor, manage, and automate across their global deployments, all from a single platform login. OEMs and SIs can leverage its multitenancy functionality for supporting a wide customer base while ensuring customer separation. Over the Air (“OTA”) updates make it easy to ensure the latest security patches, firmware, and configurations are deployed and functional.
+ 
+The following product families are included in our IoT product line: EDS, EDS-MD, PremierWave® EN, PremierWave® XC, SGX™, UDS, WiPort®, xDirect®, xPico®, xPico® Wi-Fi, xPress™, XPort®, XPort® Pro, MicroM110, E210, E220, Bolero45, FOX3-2G, FOX3-3G, FOX3-4G, S40, and D2Sphere. In addition, we offer System on Module (“SoM”), Single Board Computer (“SBC”), and Development Kits. We also offer services for mechanical, hardware, and software engineering for camera, audio, and artificial intelligence / machine learning development.
+ 
+REM
+ 
+Today, organizations are managing an ever-increasing number of devices and data on enterprise networks where 24/7 reliability is mission critical. Remote environment management allows for full comprehension and control of an IT deployment, across a range of sensors data (temperature, humidity, light, acceleration, open / close, etc.) providing status and alerting, automation, and remote control of devices and end stations. REM designs may be part of an out of band (“OOB”) or in band network design. OOB is a technique that uses a dedicated management network to access critical infrastructure components to ensure production independent management connectivity. REM allows organizations to effectively monitor, manage, and control their enterprise IT equipment and facilities (environments), either in or out of band, optimizing their IT support resources.
+ 
+Our SaaS platform provides single pane of glass management for REM (and IoT) deployments. Our platform enables customers to easily deploy, monitor, manage, and automate across their global deployments, all from a single platform login, virtually connected as though directly on each device. Our platform eliminates the need to have 24/7 personnel on site, and makes it easy to see and drill into an issue quickly, even in large scale deployments.
+ 
+Our REM product line includes out-of-band management, console management, power management, and IP connected keyboard-video-mouse (commonly referred to as “IPKVM”) products that provide remote access to IT and networking infrastructure deployed in test labs, data centers, branch offices, remote sites, and server rooms.
+ 
+The following product families are included in our REM product line: SLB™, SLC™8000, Spider™, ConsoleFlow, and EMG™ 8500.
+ 
+Other
+ 
+We categorize products that are non-focus or end-of-life as Other. Our Other product line includes non-focus products such as the xPrintServer®. In addition, this product line includes end-of-life versions of our MatchPort®, SLC™, SLP™, xPress Pro, xSenso®, PremierWave® XN, and WiBox product families.
+
+
+
+
+
+
+3
+-
+
+Net Revenue by Product Line
+ 
+We have one operating and reportable business segment. A summary of our net revenue by product line is found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in Part II, Item 7 of this Report, which is incorporated herein by reference. A discussion of factors potentially affecting our net revenue and other operating results is set forth in “Risk Factors” included in Part I, Item 1A of this Report, which is incorporated herein by reference.
+Sales Cycle
+ 
+Our embedded IoT solutions are typically used by OEMs, original design manufacturers (“ODMs”) and contract manufacturers. OEMs design and sell products under their own brand that are either manufactured by the OEM in-house or by third-party contract manufacturers. ODMs design and manufacture products for third parties, which then sell those products under the third parties’ brands. The design cycles using our embedded solutions typically range from nine to 24 months and can generate revenue for the entire life cycle of an end user’s product.
+ 
+Our REM product line and external IoT solutions are typically sold to end users through value added resellers (“VARs”) systems integrators, distributors, online retailers and, to a lesser extent, OEMs. The design cycles for these products generally ranges from three to 18 months and are often project-based.
+ 
+Sales Channels
+ 
+Distributors
+ 
+A majority of our sales are made through distributors. Distributors resell our products to a wide variety of resellers and end customers including OEMs, ODMs, VARs, systems integrators, consumers, online retailers, IT resellers, corporate customers and government entities.
+Resellers
+ 
+Our products are sold by industry-specific system integrators and VARs, who often obtain our products from our distributors. Additionally, our products are sold by direct market resellers such as CDW, ProVantage, and Amazon.com.
+Direct Sales
+ 
+To a lesser extent, we sell products directly to larger OEMs and end users. We also maintain an ecommerce site for direct sales.
+ 
+
+
+
+4
+-
+
+Sales and Marketing
+ 
+We sell our products primarily through an internal sales force, which includes regional sales managers, inside sales personnel and field applications engineers in major regions throughout the world. This team manages our relationships with our partners and end users, identifies and develops new sales opportunities and increases penetration at existing accounts. We implement marketing programs, tools and services, including displaying our products at industry-specific events, to generate sales leads and increase demand for our products.
+Manufacturing
+ 
+Our manufacturing operations are primarily conducted through three third-party contract manufacturers. We currently utilize Plexus, primarily located in Malaysia, Hana Microelectronics, primarily located in Thailand, and Honortone, primarily located in China, as our contract manufacturers for most of our products. In addition, we use eSilicon Corporation to manage Taiwan Semiconductor Manufacturing Company, Ltd., a third-party foundry located in Taiwan, which manufactures our large-scale integration chips. We manufacture certain products with final assembly in the U.S. to meet trade compliance requirements.
+ 
+Our contract manufacturers source raw materials, components and integrated circuits, in accordance with our specifications and forecasts, and perform printed circuit board assembly, final assembly, functional testing and quality control. Our products are manufactured and tested to our specifications with standard and custom components. Many of these components are available from multiple vendors. However, we have several single-sourced supplier relationships, either because alternative sources are not available or because the relationship is advantageous to us.
+ 
+Research and Development
+ 
+Our research and development efforts are focused on the development of hardware and software technology to differentiate our products and enhance our competitive position in the markets we serve. Product research and development is primarily performed in-house and supplemented with outsourced resources.
+Competition
+ 
+Our industry is highly competitive and characterized by rapid technological advances and evolving industry standards. The market can be affected significantly by new product introductions and marketing activities of industry participants. We believe that we compete for customers based on product features, software capabilities, company reputation, brand recognition, technical support, relationships with partners, quality, reliability, product development capabilities, price and availability. A discussion of factors potentially affecting our ability to compete in the markets in which we operate is set forth in “Risk Factors” included in Part I, Item 1A of this Report, which is incorporated herein by reference.
+Intellectual Property Rights
+ 
+We believe that a considerable portion of our value resides in our intellectual property. We have developed proprietary methodologies, tools, processes and software in connection with delivering our products and services. We protect our intellectual property through a combination of patents, copyrights, trademarks, trade secrets, licenses, non-disclosure agreements and contractual provisions. We enter into a non-disclosure and confidentiality agreement with each of our employees, consultants and third parties that have access to our proprietary technology. Pursuant to assignment of inventions agreements, all of our employees and consultants assign to us all intellectual property rights for the relevant inventions created in connection with their employment or contract with us. We currently hold U.S. and international patents covering various aspects of our products, with additional patent applications pending.
+
+5
+-
+
+ 
+
+U.S. and Foreign Government Regulation
+ 
+Many of our products are subject to certain mandatory regulatory approvals in the regions in which our products are deployed. In particular, wireless products must be approved by the relevant government authority prior to these products being offered for sale. In addition, certain jurisdictions have regulations requiring products to use environmentally friendly components. Some of our products employ security technology, which is subject to various U.S. export restrictions.
+ 
+Employees
+ 
+As of August 12, 2020, we had 242 full time employees, none of whom is represented by a labor union. We have not experienced any labor problems resulting in a work stoppage and believe we have good relationships with our employees.
+Customer and Geographic Concentrations
+ 
+We conduct our business globally and manage our sales teams by three geographic regions: the Americas; Europe, Middle East, and Africa (“EMEA”); and Asia Pacific Japan (“APJ”). A discussion of sales to our significant customers and related parties, sales within geographic regions as a percentage of net revenue and sales to significant countries as a percentage of net revenue is set forth in Note 11 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Report, which is incorporated herein by reference. A discussion of factors potentially affecting our customer and geographic concentrations is set forth in “Risk Factors” included in Part I, Item 1A of this Report, which is incorporated herein by reference.
+Available Information
+ 
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements on Schedule 14A and other reports and information that we file or furnish pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”) are available free of charge on our website at www.lantronix.com as soon as reasonably practicable after filing or furnishing such reports with the SEC. The SEC also maintains a website at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically. The contents of our website are not incorporated by reference into this Report. References to our website address in this Report are inactive textual references only.
+Information About Our Executive Officers
+ 
+Executive officers serve at the discretion of our board of directors. There are no family relationships between any of our directors or executive officers. The following table presents the names, ages, and positions held by our executive officers as of the date of this report:
+
+Name | Age | Position 
+-------------------+-----+--------------------------------------
+Paul H. Pickle | 50 | President and Chief Executive Officer
+Jeremy R. Whitaker | 50 | Chief Financial Officer 
+Mohammed F. Hakam | 52 | Vice President of Engineering 
+Roger Holliday | 61 | Vice President of Worldwide Sales 
+
+
+6
+-
+
+ 
+
+PAUL H. PICKLE joined Lantronix as its President and Chief Executive Officer and as a member of its Board of Directors in April 2019. Most recently, Mr. Pickle served as President and Chief Operating Officer of Microsemi Corporation, a leading provider of semiconductor and system solutions, from November 2013 until Microsemi was acquired by Microchip Technology Inc. in May 2018. Prior to his position as President and Chief Operating Officer, he served at Microsemi as Executive Vice President, leading business operations of the company’s Integrated Circuits group, where he played an integral role in the planning, developing, and execution of Microsemi’s leading edge IC solutions for communications, industrial, aerospace, and defense/security markets.
+ 
+JEREMY R. WHITAKER has served as our Chief Financial Officer since September 2011. Mr. Whitaker returned to Lantronix after serving as Vice President, Corporate Controller at Mindspeed from January 2011 to September 2011. Mr. Whitaker previously served as our Vice President of Finance and Accounting from September 2010 to January 2011, where he was responsible for managing all worldwide finance and accounting functions. Mr. Whitaker also served as our Senior Director of Finance and Accounting from February 2006 to September 2010 and our Director of Finance and Accounting from August 2005 to February 2006. Prior to August 2005, Mr. Whitaker held vice president and director level finance and accounting positions with two publicly-traded companies and worked in the assurance practice at Ernst & Young LLP for six years.
+ 
+MOHAMMED F. HAKAM joined Lantronix in August of 2018 and serves as our Vice President of Engineering. Prior to joining Lantronix, Mr. Hakam served as the interim Senior Vice President of International Operations at Viewstream, Inc., a provider of videos and marketing content to technology companies, from September 2016 to July 2018, where he was instrumental in planning and expanding the company’s global media strategy. Before joining Viewstream, Mr. Hakam was founder and Senior Vice President of Engineering and Product Management of SwitchRay Inc., a global provider of communication service platforms for global telecom carriers, from 2012 until its acquisition by 46 Labs in September 2016. He previously spent 20+ years at a number of large companies such as Motorola and Kyocera Wireless in various engineering leadership roles, and has also been the founder of two technology companies (including SwitchRay Inc.) in the networking and telecom segment. Mr. Hakam has been a professor at National University in San Diego, instructing undergraduate and graduate courses in program and project management, international management, six sigma and statistical process control.
+ 
+ROGER HOLLIDAY joined Lantronix in January 2020 and serves as our Vice President of Worldwide Sales. Prior to joining Lantronix, Mr. Holliday served in various positions at Microsemi Corporation since 1999, serving most recently as Executive Vice President and General Manager from 2013 until Microsemi was acquired by Microchip Technology Inc. in May 2018. Prior to his time at Microsemi, Mr. Holliday served in various product marketing, applications and sales management roles at Linfinity Microelectronics until its acquisition by Microsemi in 1999..  
+ 
