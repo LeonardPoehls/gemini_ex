@@ -1,0 +1,337 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+
+Except as otherwise indicated or unless the context otherwise requires, all references to "Black Knight," the "Company," "we," "us" or "our" (1) prior to the Distribution (as defined in the "Distribution of FNF's Ownership Interest and Related Transactions" section below), are to Black Knight Financial Services, Inc. ("BKFS"), a Delaware corporation, and its subsidiaries and (2) after the Distribution, are to Black Knight, Inc., a Delaware corporation, and its subsidiaries.
+Overview
+We are a leading provider of software, data and analytics solutions to the mortgage and consumer loan, real estate and capital market verticals. Our solutions facilitate and automate many of the mission-critical business processes across the homeownership lifecycle, from origination until asset disposition. We believe we differentiate ourselves by the breadth and depth of our comprehensive, integrated solutions and the insight we provide to our clients.
+We have market-leading software solutions combined with comprehensive real estate data and extensive analytic capabilities. Our solutions are utilized by U.S. mortgage originators and servicers, as well as other financial institutions, investors and real estate professionals, to support mortgage lending and servicing operations, analyze portfolios and properties, operate more efficiently, meet regulatory compliance requirements and mitigate risk.
+The U.S. mortgage market has undergone significant change, and market participants have been subjected to more stringent oversight in recent years. Regulators have increasingly focused on better disclosure, improved risk mitigation and enhanced oversight. Lenders large and small have experienced higher costs in order to comply with this higher level of regulation. Despite these new regulatory requirements, the mortgage industry remains a competitive marketplace with numerous large lenders and smaller institutions competing for new loan originations. In order to comply with the increased regulatory requirements and compete more effectively, market participants have continued to outsource mission-critical functions to third party technology providers that can offer comprehensive and integrated solutions, which are also cost-effective, due to their deep domain expertise and economies of scale.
+We believe our comprehensive end-to-end, integrated solutions differentiate us from other software providers and position us particularly well for evolving opportunities. We have served the mortgage and real estate industries for over 50 years and utilize this experience to design and develop solutions that fit our clients' ever-evolving needs. Our proprietary software solutions and data and analytics capabilities reduce manual processes, improve compliance and quality, mitigate risk and deliver significant cost savings to our clients. Our scale allows us to continually and cost-effectively invest in our business in order to meet evolving industry requirements and maintain our position as an industry-standard platform for mortgage market participants.
+The table below summarizes active first and second lien mortgages on our mortgage servicing software solution and the related market data, reflecting our leadership in the mortgage servicing software solutions market as of December 31, 2017 and 2016 (in millions):
+
+ | First lien mortgages | | | Second lien mortgages | | Total first and second lien mortgages
+ | 2017 | | 2016 | | | 2017 | 2016 | | 2017 | | 2016
+Active loans | 31.6 | | | 30.9 | | | 2.0 | | | 1.1 | | | 33.6 | | 32.0 | 
+Market size | 51.2 | | (1) | 50.9 | | (1) | 15.4 | | (2) | 14.8 | | (2) | 66.6 | | 65.7 | 
+Market share | 62 | % | | 61 | % | | 13 | % | | 7 | % | | 50 | % | 49 | %
+
+_______________________________________________________
+Note: Percentages above may not recalculate due to rounding.
+
+(1) | According to the December Black Knight Mortgage Monitor Reports as of December 31, 2017 and 2016 for U.S. first lien mortgages.
+
+
+(2) | According to the November 2017 and February 2017 Equifax National Consumer Credit Trends Reports as of September 30, 2017 and December 31, 2016, respectively, for U.S. second lien mortgages.
+
+Our business is organized into two segments:
+Software Solutions – offers software and hosting solutions that support loan servicing, loan origination and settlement services. The Software Solutions segment was formerly known as the Technology segment.
+Data and Analytics – offers data and analytics solutions to the mortgage, real estate and capital markets verticals. These solutions include property ownership data, lien data, servicing data, automated valuation models, collateral risk scores, prepayment and default models, lead generation, multiple listing service solutions and other data solutions.
+We offer our solutions to a wide range of clients across the mortgage and consumer loan, real estate and capital market verticals. The quality and breadth of our solutions contribute to the long-standing nature of our relationships with our clients, the majority of whom enter into long-term contracts across multiple products that are embedded in their mission critical workflow and decision processes, particularly in the Software Solutions segment. Given the contractual nature of our revenues and stickiness of our client 
+1
+
+relationships, our revenues are highly visible and recurring in nature. Due to our integrated suite of solutions and our scale, we are able to drive significant operating leverage, which we believe enables our clients to operate more efficiently while allowing us to generate strong margins and cash flows.
+Our History
+Our business generally represents a reorganization of the former Technology, Data and Analytics segment of Lender Processing Services, Inc. ("LPS"), a former provider of integrated technology, data and services to the mortgage industry in the United States that Fidelity National Financial, Inc. ("FNF") acquired in January 2014. Our business also includes the businesses of Fidelity National Commerce Velocity, LLC ("Commerce Velocity") and Property Insight, LLC ("Property Insight"), two companies that were contributed to us by FNF. ServiceLink Holdings, LLC ("ServiceLink"), another majority-owned subsidiary of FNF, operates the Transaction Services businesses of the former LPS as well as FNF's legacy ServiceLink businesses. We were a majority-owned subsidiary of FNF prior to the Distribution as described in the "Distribution of FNF's Ownership Interest and Related Transactions" section below.
+Acquisition of LPS by FNF and Internal Reorganization
+On January 2, 2014, FNF acquired LPS (the "Acquisition"), and as a result, LPS became an indirect, wholly-owned subsidiary of FNF.
+Following the Acquisition, on January 3, 2014, a series of transactions were effected (the "Internal Reorganization"), pursuant to which (i) LPS was converted into a limited liability company and renamed Black Knight InfoServ, LLC ("BKIS"); (ii) the former Transaction Services businesses of LPS were transferred by BKIS to Black Knight Holdings, Inc. ("BKHI"), a wholly-owned subsidiary of FNF, and contributed by BKHI to ServiceLink; (iii) Black Knight Financial Services, LLC ("BKFS LLC") acquired all of the membership interests of BKIS; and (iv) all of the outstanding membership interests of Commerce Velocity were contributed by BKHI to BKFS LLC.
+As a result of the Internal Reorganization, BKFS LLC owns substantially all of the former Technology, Data and Analytics segment of LPS and Commerce Velocity. BKFS LLC did not acquire the former Transaction Services segment of LPS.
+Following the Internal Reorganization, BKFS LLC issued, in the aggregate, 35.0% of the membership interests ("Units") of BKFS LLC, to (i) certain affiliates ("THL Affiliates") of Thomas H. Lee Partners, L.P. ("THL"), and (ii) THL Black Knight I Holding Corp. and THL Investors Black Knight I Holding Corp. (together, the "THL Intermediaries"), each of which is an affiliate of THL, formed for the purpose of holding investments in BKFS LLC. As consideration for the Units of BKFS LLC, THL contributed $350.0 million.
+Following the Internal Reorganization and the subsequent issuance of Units to THL, BKFS LLC was majority owned by FNF through its wholly-owned subsidiary, BKHI, and certain affiliates of FNF and BKHI, and minority owned by THL through the THL Affiliates and THL Intermediaries.
+Contribution of Property Insight
+On June 2, 2014, as part of an additional internal reorganization, two wholly-owned subsidiaries of FNF contributed to BKFS LLC their respective interests in Property Insight, which provides information used by title insurance underwriters, title agents and closing attorneys to source and underwrite title insurance for real property sales and transfers. As a result, BKFS LLC is the sole member of Property Insight. In connection with the Property Insight contribution, BKFS LLC issued an additional 6.4 million Units to certain affiliates of BKHI. As a result of this issuance, THL Affiliates' and THL Intermediaries' combined percentage ownership in BKFS LLC was reduced from 35.0% to 32.9%, and FNF's percentage of beneficial ownership of BKFS LLC increased from 65.0% to 67.1%.
+Initial Public Offering
+On May 26, 2015, we completed our initial public offering ("IPO") in which we issued and sold 20,700,000 shares of BKFS Class A common stock at a price of $24.50 per share. In connection with our IPO, we effected several reorganization transactions (the "Offering Reorganization"). See Note 1 to the Notes to Consolidated Financial Statements for a more detailed discussion of the IPO.
+2016 Acquisitions
+On May 16, 2016, we completed our acquisition of eLynx Holdings, Inc. ("eLynx"), a leading lending document and data delivery platform that we now refer to as our eLending business. Our eLending business helps clients in the financial services and real estate industries electronically capture and manage documents and associated data throughout the document lifecycle. We purchased eLynx to augment our origination software business. This acquisition positions us to electronically support the full mortgage origination process.
+2
+
+On June 22, 2016, we completed our acquisition of Motivity Solutions, Inc. ("Motivity"), which provides customized mortgage business intelligence software solutions. Motivity along with our LoanSphere product suite, including the LoanSphere Data Hub, provides clients with deeper insights into their origination and servicing operations and portfolios.
+Recent Developments
+Realignment of Property Insight
+Effective January 1, 2017, Property Insight realigned its commercial relationship with FNF. In connection with the realignment, Property Insight employees responsible for title plant posting and maintenance were transferred to FNF. Under the new commercial arrangement, we continue to own the title plant technology and retain sales responsibility for third parties, other than FNF. As a result of the realignment, we no longer recognize revenues or expenses related to title plant posting and maintenance, but charge FNF a license fee for use of the technology to access and maintain the title plant data. Had the realignment taken place on January 1, 2016, our 2016 revenues and expenses would have been lower by approximately $30 million with essentially no effect to operating income. This transaction did not result in any gain or loss.
+Distribution of FNF's Ownership Interest and Related Transactions
+On September 29, 2017, we completed a tax-free plan whereby FNF distributed all 83.3 million shares of BKFS common stock that it owned to FNF Group shareholders through a series of transactions (the "Distribution"). The Distribution was consummated through four newly-formed corporations, New BKH Corp. ("New BKH"), Black Knight, Inc. (formerly known as Black Knight Holdco Corp.), New BKH Merger Sub, Inc. ("Merger Sub One") and BKFS Merger Sub, Inc. ("Merger Sub Two"), as follows:
+
+• | BKHI, a wholly-owned subsidiary of FNF, contributed all of its 83.3 million shares of BKFS Class B common stock and all of its units of BKFS LLC to New BKH in exchange for 100% of the shares of New BKH common stock;
+
+
+• | Following which BKHI converted into a limited liability company and distributed to FNF all of the shares of New BKH common stock held by BKHI;
+
+
+• | Immediately thereafter, FNF distributed the shares of New BKH common stock to the holders of FNF Group common stock on a pro-rata basis (the "Spin-off");
+
+
+• | Immediately following the Spin-off, Merger Sub One merged with and into New BKH (the "New BKH merger");
+
+
+• | In the New BKH merger, each outstanding share of New BKH common stock (other than shares owned by New BKH) was exchanged for one share of Black Knight, Inc. common stock. New BKH shares owned by New BKH immediately prior to the New BKH merger were canceled for no consideration. As a result of the Spin-Off and the New BKH merger, FNF Group shareholders received 0.3066322 shares of Black Knight, Inc. common stock for each share of FNF Group common stock they held;
+
+
+• | Immediately following the New BKH merger, Merger Sub Two merged with and into Black Knight Financial Services, Inc. (the "BKFS merger");
+
+
+• | In the BKFS merger, each outstanding share of BKFS Class A common stock (other than shares owned by BKFS) was exchanged for one share of Black Knight, Inc. common stock. Shares of BKFS Class A common stock owned by BKFS, otherwise referred to as treasury stock, immediately prior to the BKFS merger were canceled for no consideration; and
+
+
+• | Black Knight, Inc. is the public company following the completion of the Distribution.
+
+Shares of Black Knight, Inc. common stock are listed on the New York Stock Exchange ("NYSE") under the trading symbol “BKI”, and began trading on October 2, 2017. Under the organizational documents of Black Knight, Inc., the rights of the holders of shares of Black Knight, Inc. common stock are substantially the same as the rights of former holders of BKFS Class A common stock.
+On June 8, 2017, Black Knight, Inc., BKFS and certain affiliates of THL entered into an interest exchange agreement (the "THL Interest Exchange"). Immediately following the completion of the Distribution, affiliates of THL contributed to Black Knight, Inc. all of their BKFS Class B common stock and all of their BKFS LLC Units in exchange for a number of shares of Black Knight, Inc. common stock equal to the number of shares of BKFS Class B common stock contributed. Following the completion of the Distribution and the THL Interest Exchange, the shares of BKFS Class B common stock were canceled. 
+Our Corporate Structure
+Prior to the Distribution, BKFS conducted its business through BKFS LLC and its subsidiaries. We had a sole managing member interest in BKFS LLC, which granted us the exclusive authority to manage, control and operate the business and affairs of BKFS LLC and its subsidiaries, pursuant to the terms of its Second Amended and Restated Limited Liability Company Agreement ("LLC Agreement"). Under the terms of the LLC Agreement, we are authorized to manage the business of BKFS LLC, including 
+3
+
+enter into contracts, manage bank accounts, hire employees and agents, incur and pay debts and expenses, merge or consolidate with other entities and pay taxes. We consolidated BKFS LLC in our consolidated financial statements and reported noncontrolling interests related to the Units in BKFS LLC held by BKHI and certain THL Affiliates. Our shareholders indirectly controlled BKFS LLC through our managing member interest.
+FNF, through BKHI, and certain THL Affiliates held Units and a number of shares of BKFS Class B common stock equal to the number of Units held by each such owner.
+Prior to the Distribution, our corporate structure, as described above, was commonly referred to as an "Up-C" structure, which is often used by partnerships and limited liability companies when they undertake an initial public offering. Our Up-C structure allowed the owners of BKFS LLC to realize tax benefits associated with ownership interests in an entity that was treated as a partnership, or "passthrough" entity, for income tax purposes. These benefits included limiting entity level corporate taxes. Because Units were exchangeable for cash from BKFS LLC or, at our option, shares of BKFS Class A common stock, the Up-C structure also provided the owners of BKFS LLC potential liquidity that holders of privately held limited liability companies are not typically afforded. The owners of BKFS LLC also had voting rights in us equal to those of holders of BKFS Class A common stock through their ownership of shares of BKFS Class B common stock. BKFS also held Units and received the same benefits as the other holders of Units on account of its ownership in an entity treated as a partnership, or passthrough entity, for income tax purposes. Meanwhile, holders of BKFS Class A common stock had economic and voting rights similar to those of holders of common stock of non-Up-C structured public companies.
+Generally, we received a pro-rata share of any distributions made by BKFS LLC to its members, which included us, BKHI and certain THL Affiliates. However, pursuant to the LLC Agreement, BKFS LLC was required to make tax distributions to help each of the holders of the Units pay taxes according to such holder's allocable share of taxable income rather than on a pro-rata basis. Additionally, tax distributions were required to be made based upon an assumed tax rate. Funds used by BKFS LLC to satisfy its tax distribution obligations were not available for reinvestment in our business.
+BKFS was a holding company and its sole asset was its interest in BKFS LLC. BKFS, through its sole managing member interest, had 100% of the voting power in BKFS LLC and, through its ownership of Units, had 44.5% of the economic interests in BKFS LLC immediately following the IPO. Investors in BKFS held an indirect interest in BKFS LLC through us.
+Subsequent to the Distribution and related transactions, BKFS LLC is an indirect wholly-owned subsidiary of Black Knight, Inc. and there are no noncontrolling interests in BKFS LLC. In addition, the Up-C structure is no longer in place.
+Our Markets
+The U.S. mortgage market is large, and the loan lifecycle is complex and consists of several stages. The mortgage loan lifecycle includes origination, servicing and default. Mortgages are originated to finance home purchases or refinance existing mortgages. Once a mortgage is originated, it is serviced on a periodic basis by mortgage servicers, which may not be the lenders that originated the mortgage. Furthermore, if a mortgage experiences default, it triggers a set of multifaceted processes with an assortment of potential outcomes depending on a mix of variables.
+Underlying the three major components of the mortgage loan lifecycle are the software, data and analytics support behind each process, which has become increasingly critical to industry participants due to the complexity of regulatory requirements. As the industry has grown in complexity, participants have responded by outsourcing to large scale specialty providers, automating manual processes and seeking end-to-end solutions that support the processes required to manage the entire mortgage loan lifecycle.
+Overview of the Mortgage Servicing Market
+The U.S. mortgage servicing market is comprised of first and second lien mortgage loans. As of December 31, 2017, the first lien mortgage market represents 51.2 million mortgage loans according to the Black Knight Mortgage Monitor Report. As of September 30, 2017, the second lien mortgage market represents 15.4 million mortgage loans according to the November 2017 Equifax National Consumer Credit Trends Report. Even through housing downturns, the mortgage servicing market generally remains stable, as the total number of first lien mortgage loans outstanding tends to stay more constant than mortgage originations. The number of second lien mortgage loans outstanding can vary based on a number of factors including loan-to-value ratios, interest rates and lenders' desire to own such loans.
+While delinquent mortgages typically represent a small portion of the overall loan servicing market, the mortgage default process is long and complex and involves multiple parties, a significant exchange of data and documentation and extensive regulatory requirements. Providers in the default process must be able to meet strict regulatory guidelines, which we believe are best met through the use of technology.
+4
+
+Overview of the Mortgage Origination Market
+The U.S. mortgage origination market consists of both purchase and refinance originations. The mortgage origination process is complex and involves multiple parties, significant data exchange and significant regulatory oversight, which requires scale and substantial industry experience. According to the Mortgage Bankers Association Mortgage Finance Forecast as of January 20, 2018, the U.S. mortgage origination market for purchase and refinance originations by year is estimated as follows (in billions):
+
+ | 2018 | | 2017 | | 2016
+Mortgage Originations: | | | | | 
+Purchase | $ | 1,183.0 | | | $ | 1,110.0 | | $ | 1,052.0
+Refinance | 426.0 | | | 600.0 | | | 999.0
+Total | $ | 1,609.0 | | | $ | 1,710.0 | | $ | 2,051.0
+
+Recent Trends
+The U.S. mortgage market has seen significant change since the financial crisis and is expected to continue to evolve going forward. Key regulatory actions arising from the financial crisis, such as the Dodd-Frank Wall Street Reform and Consumer Protection Act ("Dodd-Frank Act") and the establishment of the Consumer Financial Protection Bureau ("CFPB"), imposed new and evolving standards for market participants. These regulatory changes have spurred lenders and servicers to seek software solutions that help them meet their compliance obligations in the face of a changing regulatory environment while remaining efficient and profitable.
+
+• | Evolving regulation. Most U.S. mortgage market participants have become subject to increased regulatory oversight and regulatory requirements as federal and state governments have enacted various new laws, rules and regulations. One example of such legislation is the Dodd-Frank Act, which contained broad changes for many sectors of the financial services and lending industries and established the CFPB, the federal regulatory agency responsible for regulating consumer financial protection within the United States. It is our experience that mortgage lenders have become more focused on minimizing the risk of non-compliance with these evolving regulations and are looking toward technologies and solutions that help them to comply with the increased regulatory oversight and requirements.
+
+
+• | Lenders increasingly focused on core operations. As a result of greater regulatory scrutiny and the higher cost of doing business, we believe lenders have become more focused on their core operations and customers. We believe lenders are increasingly shifting from in-house technologies to solutions with third-party providers who can provide better technology and services more efficiently. Lenders require these vendors to provide best-in-class technology and deep domain expertise and to assist them in maintaining regulatory compliance.
+
+
+• | Growing role of technology in the U.S. mortgage industry. Banks and other lenders and servicers have become increasingly focused on technology automation and workflow management to operate more efficiently and meet their regulatory guidelines. We believe vendors must be able to support the complexity of the market, display extensive industry knowledge and possess the financial resources to make the necessary investments in technology to support lenders.
+
+
+• | Increased demand for enhanced transparency and analytic insight. As U.S. mortgage market participants work to minimize the risk in lending, servicing and capital markets, they rely on the integration of data and analytics with technologies that enhance the decision-making process. These industry participants rely on large comprehensive third-party databases coupled with enhanced analytics to achieve these goals.
+
+Our Solutions
+Our solutions provide clients with a comprehensive, integrated software and workflow management solution set that is supported by what we believe is industry-leading data and analytics to enhance capabilities and drive efficiencies while assisting our clients to maintain regulatory compliance.
+Software Solutions
+Our Software Solutions segment offers leading software and hosting solutions that facilitate and automate many of the mission-critical business processes across the homeownership lifecycle. These solutions primarily consist of mortgage origination and servicing, processing and workflow management software applications coupled with related support and services.
+Our clients in this segment are primarily mortgage lenders and servicers. We believe they use our software and services to reduce their operating costs, improve their ability to provide superior customer service and enhance the quality and consistency of various aspects of their mortgage operations. We work with our clients to enhance and integrate our software and services in order to assist them in gaining the greatest value from the solutions we provide.
+5
+
+The primary applications and services within our Software Solutions segment are as follows:
+
+• | Servicing Software. Our mortgage servicing platform LoanSphere MSP, is a software as a service application that automates loan servicing, including loan setup and ongoing processing, customer service, accounting and reporting to the secondary mortgage market and investor reporting. MSP serves as a core application and database of record for first and second lien mortgages.
+
+When a bank uses MSP to process its mortgage portfolio, we provide a hosted software solution and system support personnel whose role is to ensure our system remains up and running 24 hours a day, seven days a week, to monitor our programs and interfaces effectively, to make system and application changes as necessary and to assist our clients with their responsibilities to be compliant with applicable laws and regulations.
+We have also developed web-based workflow information systems, which we refer to as LoanSphere Bankruptcy and LoanSphere Foreclosure. These applications can be used for managing and automating a wide range of different workflow processes involving non-performing loans. In addition, we offer LoanSphere Invoicing, which can be used to organize images of paper documents within a particular file, to capture information from imaged documents, to manage invoices and to provide multiple users access to key data needed for various types of monitoring and process management.
+
+• | Origination Software. We offer two solutions that automate and facilitate the origination of mortgage loans in the United States: LoanSphere Empower, which supports retail and wholesale loan originations, and LoanSphere LendingSpace, which supports correspondent loan originations, which are originations that are funded by one lender, who sells the loan to another lender who services the loan or sells it on the secondary market. Our loan origination software solutions are enhanced to assist with the changing regulatory requirements and are used to improve loan quality and store documents and images.
+
+We also offer the LoanSphere Exchange and the Insight suite of solutions. The Exchange is a platform that provides a fully interconnected network of originators, agents, settlement services providers and investors in the United States. This secure and integrated one-to-many platform allows lenders and their service providers to connect and do business electronically. Our Insight suite primarily consists of LoanSphere Closing Insight and LoanSphere Quality Insight. Closing Insight and Quality Insight are solutions integrated with the Exchange and are designed to help lenders meet loan quality and disclosure requirements established by government-sponsored enterprises ("GSEs"), the CFPB and the Federal Housing Finance Agency.
+Our eLending solutions connect the various parties and systems associated with lending transactions enabling lenders, partners and consumers to exchange data quickly and efficiently. Our eLending platform hosts a range of on-demand services that provide electronic document delivery, signature, closings and post-close services accessible to lenders of all sizes.
+We build all of our software platforms to be scalable, secure, flexible, standards-based and web connected for easy use by our clients. Further, we have a history of being able to bring solutions to market quickly due to investments that we have made in integrating our technology and development processes.
+Data and Analytics Solutions
+Our Data and Analytics segment supports and enhances our software solutions and is designed to help lenders and servicers make more informed decisions, improve performance, identify and predict risk and generate more qualified leads. We believe, based on our knowledge of the industry and competitors, that we have aggregated one of the largest residential real estate data sets in the United States that is derived from both proprietary and public data sources. Utilizing this data, subject to any applicable use restrictions, and our deep history and understanding of the mortgage market, we have created detailed real estate data solutions that assist in portfolio management, valuations, property records, lead generation and improved risk analysis for all aspects of origination, servicing, default and capital markets/investing. In addition, we deliver data, analytics and software solutions to customers in the real estate, title insurance, multiple listing service ("MLS") and other verticals that rely on property data-centric solutions to make informed decisions and run their businesses.
+Our primary data and analytics services are as follows:
+
+• | Property, Mortgage Performance Data and MLS. We make our real estate database available to our clients in a standard, normalized format. We provide a rich and diverse data set for title production activities. We also provide tax status data on properties and offer a number of value-added analytic services designed to enable our clients to utilize our data to assess and mitigate risk, determine property values, track market performance and generate leads. We also provide an MLS system to large MLS groups in the U.S. and Canada.
+
+
+• | Mortgage and Real Estate Analytics. We offer a broad range of property valuation services that allow our clients to analyze the value of underlying properties. These include, among others, automated valuation models, collateral risk scores, appraisal review services and valuation reconciliation services. To deliver these services, we utilize proprietary
+
+6
+
+algorithms, detailed real estate statistical analysis and modified physical property inspections. These offerings are designed to reduce risk in origination, servicing and default transactions as well as aid investors in analysis of property and real estate assets. These offerings can be tailored to meet client needs and any regulatory requirements.
+
+• | Enterprise Business Intelligence. We offer technological solutions that help mortgage lenders and servicers better leverage their extensive data assets by collecting, linking and storing loan data from their applications and from industry sources in a central location and delivering visualization and actionable insights into the data to support proactive decision-making at all levels of the enterprise. In addition, we provide near real-time access to information to provide real-time analytics, enabling proactive management of operations through key performance indicators, scorecards, dashboards and on-demand dynamic reporting.
+
+Our Competitive Strengths
+We believe our competitive strengths include the following:
+
+• | Market leadership with comprehensive and integrated solutions. We are a leading provider of comprehensive and integrated solutions. We believe our leadership position is, in part, the result of our unique expertise and insight developed from over 50 years serving the needs of clients in the mortgage industry. We have used this insight to develop an integrated and comprehensive suite of proprietary software, data and analytics solutions to automate many of the mission-critical business processes across the entire homeownership lifecycle. These integrated solutions are designed to reduce manual processes, assist in improving organizational compliance and mitigating risk, and to ultimately deliver significant cost savings to our clients.
+
+
+• | Broad and deep client relationships with significant recurring revenues. We have long-standing, sticky relationships with our largest clients. We frequently enter into long-term contracts with our software solutions clients that contain volume minimums and provide for annual increases. Our products are typically embedded within our clients' mission-critical workflow and decision-making processes across various parts of their organizations.
+
+
+• | Extensive data assets and analytics capabilities. We develop and maintain large, accurate and comprehensive data sets on the mortgage and housing industry that we believe are competitively differentiated. Our unique data sets provide a combination of public and proprietary data in real-time and each of our data records features a large number of attributes. Our data scientists utilize our data sets, subject to any applicable use restrictions, and comprehensive analytical capabilities to create highly customized reports, including models of customer behavior for originators and servicers, portfolio analytics for capital markets and government agencies and proprietary market insights for real estate agencies. Our data and analytics capabilities are also embedded into our software solutions and workflow products, providing our clients with integrated and comprehensive solutions.
+
+
+• | Scalable and cost-effective operating model. We believe we have a highly attractive and scalable operating model derived from our market leadership, hosted software solutions and the large number of clients we serve. Our scalable operating model provides us with significant benefits. Our scale and operating leverage allows us to add incremental clients to our existing platforms with limited incremental cost. As a result, our operating model drives attractive margins and generates significant cash flow. Also, by leveraging our scale and leading market position, we are able to make cost-effective investments in our software solutions to assist with the evolving regulatory and compliance requirements, further increasing our value proposition to clients.
+
+
+• | World class management team with depth of experience and track record of success. Our management team has an average of over 20 years of experience in the banking technology and mortgage processing industries and a proven track record of strong execution capabilities. Following the Acquisition, we have significantly improved our operations and enhanced our go-to-market strategy, further integrated our software solutions, expanded our data and analytics capabilities and introduced several new innovative products. We executed all of these projects while delivering attractive revenues growth and strong profitability.
+
+Our Strategy
+Our comprehensive and integrated software solutions, robust data and analytic capabilities, differentiated business model, broad and deep client relationships and other competitive strengths enable us to pursue multiple growth opportunities. We intend to continue to expand our business and grow through the following key strategies:
+
+• | Further penetration of our solutions with existing clients. We believe our established client base presents a substantial opportunity for growth. We seek to capitalize on the trend of standardization and increased adoption of leading third party solutions and increase the number of solutions provided to our existing client base. We intend to broaden and deepen our client relationships by cross-selling our suite of end-to-end software solutions, as well as our robust data and analytics. By helping our clients understand the full extent of our comprehensive solutions and the value of leveraging the multiple solutions we offer, we believe we can expand our existing relationships by allowing our clients to focus on their core businesses and their customers.
+
+7
+
+
+• | Win new clients in existing markets. We intend to attract new clients by leveraging the value proposition provided by our software and comprehensive solutions offering. In particular, we believe there is a significant opportunity to penetrate the mid-tier mortgage originators and servicers market. We believe these institutions can benefit from our proven solutions suite in order to address complex regulatory requirements and compete more effectively in the evolving mortgage market. We intend to continue to pursue this channel and benefit from the low incremental cost of adding new customers to our scaled technology infrastructure.
+
+
+• | Continue to innovate and introduce new solutions. Our long-term vision is to be the industry-leading provider for participants of the mortgage and consumer loan, real estate and capital markets verticals for their platform, data and analytic needs. We intend to enhance what we believe is a leadership position by continuing to innovate our solutions and refine the insight we provide to our clients. We have a strong track record of introducing and developing new solutions that span the homeownership lifecycle, are tailored to specific industry trends and enhance our clients' core operating functions. By working in partnership with key clients, we have been able to develop and market new and advanced solutions to our client base that meet the evolving demands of the mortgage and consumer loan, real estate and capital market verticals. In addition, we will continue to develop and leverage insights from our large public and proprietary data assets to further improve our customer value proposition.
+
+
+• | Selectively pursue strategic acquisitions. The core focus of our strategy is to grow organically. However, we may selectively evaluate strategic acquisition opportunities that would allow us to expand our footprint, broaden our client base and deepen our product and service offerings. We believe that there are meaningful synergies that result from acquiring small companies that provide best-of-breed single point solutions. Integrating and cross-selling these point solutions into our broader client base and integrating acquisitions into our efficient operating environment would potentially result in revenues and cost synergies.
+
+Our Clients
+We have numerous clients in each category of service that we offer. A significant focus of our marketing efforts is on the top U.S. mortgage originators and servicers; although, we also provide our solutions to a number of other financial institutions, investors, attorneys, trustees and real estate professionals.
+The U.S. mortgage industry is concentrated among the top 25 mortgage institutions and our most significant and long-term relationships tend to follow the industry landscape. We typically provide an extensive number of solutions to each client. Because of the depth of these relationships, we derive a significant portion of our aggregate revenues from our largest clients.
+During the year ended December 31, 2017, Wells Fargo, N.A. accounted for approximately 12% of our consolidated revenues, approximately 14% of our Software Solutions segment revenues and approximately 1% of our Data and Analytics segment revenues.
+During the year ended December 31, 2017, our five largest clients accounted for approximately 35% of our consolidated revenues, approximately 38% of our Software Solutions segment revenues and approximately 17% of our Data and Analytics segment revenues. However, the revenues in each case are spread across a range of services and are subject to multiple separate contracts. Although the diversity of the services we provide to each of these clients reduces the risk that we would lose all of the revenues associated with any of these clients, a significant deterioration in our relationships with or the loss of any one or more of these clients could have a significant effect on our results of operations. See "Risk Factors-We rely on our top clients for a significant portion of our revenues and profits, which makes us susceptible to the same macro-economic and regulatory factors that affect our clients."
+Sales and Marketing
+Our sales and marketing efforts are focused on both generating new clients as well as cross-selling our broad service offerings to existing clients.
+We have teams of experienced sales personnel with subject matter expertise in particular services and in the needs of particular types of clients. A significant portion of our potential clients in each of our business lines is targeted via direct and/or indirect field sales, as well as inbound and outbound telemarketing efforts. Marketing activities include direct marketing, print and electronic advertising, media relations, web-based activities, thought leadership, client meetings and conferences, tradeshow and convention activities and other targeted initiatives.
+Given the broad range of solutions we offer and the concentration and scale of many of our existing clients, we have the opportunity to expand our sales to our existing client base through cross-selling efforts. We have established a core team of account managers that cross-sell the full range of our services to existing and potential clients at the top U.S. mortgage originators and servicers, as well as a number of other financial institutions, investors and real estate professionals. The individuals who participate in this effort spend a significant amount of their time on sales and marketing efforts.
+8
+
+We engage in strategic account reviews, during which our executives share their knowledge of clients and the market in order to determine the best sales approach on a client-by-client basis. As a result, we have created an effective cross-selling culture within our organization.
+Research and Development
+Our research and development activities relate primarily to the design, development and enhancement of our software applications. We expect to continue our practice of investing an appropriate level of resources to maintain, enhance and extend the functionality of our proprietary systems and existing software applications, to develop new and innovative software applications and systems in response to the needs of our clients and to enhance the capabilities surrounding our infrastructure. We work with our clients to determine the appropriate timing and approach to introducing technology or infrastructure changes to our applications and services.
+Patents, Trademarks and Other Intellectual Property
+We rely on a combination of contractual restrictions, internal security practices and copyright and trade secret laws to establish and protect our software, technology, data and expertise. Further, we have developed a number of brands that have accumulated goodwill in the marketplace, and we rely on the above to protect our rights in that area. We intend to continue our policy of taking all measures we deem necessary to protect our copyright, trade secret and trademark rights.
+Competition
+A number of the businesses in which we engage are highly competitive. Competitive factors in processing businesses include the quality of the technology-based application or service, application features and functions, ease of delivery and integration, ability of the provider to maintain, enhance and support the applications or services and pricing. We believe that our integrated software solutions and economies of scale in the mortgage processing business provide us with a competitive advantage in each of these categories. Based on our knowledge of the industry and competitors, we also believe that no single competitor offers the depth and breadth of solutions we are able to offer.
+Software Solutions. With respect to our Software Solutions segment, we compete with our customers' internal technology departments and other providers of similar systems, such as Ellie Mae, Inc., Fiserv, Inc., Fidelity National Information Services, Inc., or FIS, and Mortgage Cadence. Competitive factors include the quality of the technology-based application or service, application features and functions, ease of delivery and integration, ability of the provider to maintain, enhance and support the applications or services, and pricing. We believe that our integrated software solutions and economies of scale in the mortgage processing business provide us with a competitive advantage in each of these categories.
+Data and Analytics. In our Data and Analytics segment, we primarily compete with CoreLogic, Inc., First American Financial Corporation, in-house capabilities and certain niche providers. We compete based on the breadth and depth of our data, the exclusive nature of some of our key data sets and the capabilities to create highly customized reports. We believe that the quality of the data we offer is distinguished by the broad range of our data sources, including non-public sources, the volume of records we maintain, our ability to integrate our data and analytics with our software solutions and the ability to leverage our market leading position in the mortgage origination and servicing industries.
+Government Regulation
+Various aspects of our businesses are subject to federal and state regulations. Our failure to comply with any applicable laws and regulations could result in restrictions on our ability to provide certain services, as well as the possible imposition of civil fines and criminal penalties.
+As a provider of electronic data processing to financial institutions, such as banks and credit unions, we are subject to regulatory oversight and examination by the Federal Financial Institutions Examination Council ("FFIEC"), an interagency body of the Federal Reserve Board ("FRB"), the CFPB, the Office of the Comptroller of the Currency ("OCC"), the Federal Deposit Insurance Corporation ("FDIC") and various other federal and state regulatory authorities. We also may be subject to possible review by state agencies that regulate banks in each state in which we conduct our electronic processing activities.
+Our financial institution clients are required to comply with various privacy regulations imposed under state and federal law, including the Gramm-Leach-Bliley Act. These regulations place restrictions on the use of non-public personal information. All financial institutions must disclose detailed privacy policies to their customers and offer them the opportunity to direct the financial institution not to share information with third parties. The regulations, however, permit financial institutions to share information with non-affiliated parties who perform services for the financial institutions. As a provider of services to financial institutions, we are required to comply with the same privacy regulations and are generally bound by the same limitations on disclosure of the information received from our clients as those that apply to the financial institutions themselves.
+The financial crisis resulted in increased scrutiny of all parties involved in the mortgage industry by governmental authorities with the most recent focus being on those involved in the foreclosure process. This scrutiny has included federal and state 
+9
+
+governmental review of all aspects of the mortgage lending business, including an increased legislative and regulatory focus on consumer protection practices. The Dodd-Frank Act is one example of such legislation. It is difficult to predict the final form that regulations or other rule-makings to implement the various requirements of the Dodd-Frank Act may take, what additional legislative or regulatory changes may be approved in the future, or whether those changes may require us to change our business practices, incur increased costs of compliance or adversely affect our results of operations.
+Information Security
+We are highly dependent on information technology networks and systems to securely process, transmit and store electronic information. Attacks on information technology systems continue to grow in frequency, complexity and sophistication. Such attacks have become a point of focus for individuals, businesses and governmental entities. These attacks can create system disruptions, shutdowns or unauthorized disclosure of confidential information, including non-public personal information, consumer data and proprietary business information.
+We remain focused on making strategic investments in information security to protect our clients and our information systems. This includes both capital expenditures and operating expenses on hardware, software, personnel and consulting services. We also participate in industry and governmental initiatives to improve information security for our clients.
+Employees
+As of December 31, 2017, we had approximately 4,430 employees and approximately 210 independent contractors. None of our workforce currently is unionized. We have not experienced any work stoppages, and we consider our relations with employees to be good.
+Financial Information by Segment
+In addition to our two reporting segments, we have a corporate organization that consists primarily of general and administrative expenses that are not included in the other segments. For financial information by reporting segment, see Note 17 to the Notes to Consolidated Financial Statements.
+Statement Regarding Forward-Looking Information
+ The statements contained in this Form 10-K or in our other documents or in oral presentations or other statements made by our management that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding our expectations, hopes, intentions or strategies regarding the future. These statements relate to, among other things, future financial and operating results of Black Knight. In many cases, you can identify forward-looking statements by terminology such as "may," "will," "should," "expect," "plan," "anticipate," "believe," "estimate," "predict," "potential" or "continue," or the negative of these terms and other comparable terminology. Actual results could differ materially from those anticipated in these statements as a result of a number of factors, including, but not limited to the following:
+
+• | security breaches against our information systems;
+
+
+• | changes to our relationships with our top clients, whom we rely on for a significant portion of our revenues and profit;
+
+
+• | limitation of our growth due to the time and expense associated with switching from competitors' software and services;
+
+
+• | providing credits or refunds for prepaid amounts or contract terminations in connection with our service level commitments;
+
+
+• | our ability to offer high-quality technical support services;
+
+
+• | our ability to comply with or changes in laws, rules and regulations that affect our and our customers' businesses;
+
+
+• | consolidation in our end client market;
+
+
+• | regulatory developments with respect to use of consumer data and public records;
+
+
+• | efforts by the government to reform or address the mortgage market and current economic environment;
+
+
+• | our clients' relationships with government-sponsored enterprises;
+
+
+• | our ability to adapt our solutions to technological changes or evolving industry standards;
+
+
+• | our ability to compete effectively;
+
+
+• | increase in the availability of free or relatively inexpensive information;
+
+
+• | our ability to protect our proprietary software and information rights;
+
+
+• | infringement on the proprietary rights of others by our applications or services;
+
+
+• | our ability to successfully consummate and integrate acquisitions;
+
+
+• | our reliance on third parties;
+
+
+• | our dependence on our ability to access data from external sources;
+
+
+• | our international operations and third-party service providers;
+
+
+• | our ability to develop widespread brand awareness cost-effectively;
+
+
+• | system failures, damage or interruption with respect to our software solutions;
+
+
+• | delays or difficulty in developing or implementing new, enhanced or existing mortgage processing or software solutions;
+
+10
+
+
+• | change in the strength of the economy and housing market generally;
+
+
+• | our existing indebtedness and any additional significant debt we incur;
+
+
+• | the adequacy of our risk management policies and procedures;
+
+
+• | our ability to achieve our growth strategies;
+
+
+• | litigation, investigations or other actions against us;
+
+
+• | the market price of our common stock may be volatile;
+
+
+• | future sales of our common stock in the public market;
+
+
+• | industry or securities analysts could publish unfavorable or inaccurate information about us;
+
+
+• | our charter and bylaws and provisions of Delaware law may discourage or prevent strategic transactions;
+
+
+• | our intention not to pay dividends on our common stock for the foreseeable future;
+
+
+• | if the Distribution is treated as a taxable transaction due to our acts or failure to act, we may have a significant indemnity obligation to FNF, which is not limited in amount or subject to any cap;
+
+
+• | the possibility that we will forgo certain transactions in order to avoid the risk of incurring significant tax-related liabilities; and
+
+
+• | restrictions on our ability to pursue potential business opportunities under a non-competition agreement with FNF that we entered in connection with the Distribution.
+
+See "Risk Factors" for a further description of these and other factors. For the reasons described above, we caution you against relying on any forward-looking statements, which should also be read in conjunction with the other cautionary statements that are included elsewhere in this Annual Report on Form 10-K. Any forward-looking statement made by us in this Annual Report on Form 10-K speaks only as of the date on which we make it. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We are not under any obligation (and expressly disclaim any such obligation) to update or alter our forward-looking statements, whether as a result of new information, future events or otherwise. You should carefully consider the possibility that actual results may differ materially from our forward-looking statements.
+Additional Information
+Our website address is www.blackknightinc.com. We make available free of charge on or through our website our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission ("SEC"). However, the information found on our website is not part of this or any other report.

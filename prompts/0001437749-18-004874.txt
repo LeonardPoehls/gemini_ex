@@ -1,0 +1,229 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | BUSINESS.
+--------+----------
+
+Introduction 
+ 
+DSP Group®, Inc. (NASDAQ: DSPG) is a leading global provider of wireless and audio chipset solutions for converged communications. Delivering semiconductor system solutions with software and hardware reference designs, DSP Group enables original equipment manufacturers (OEMs), original design manufacturers (ODMs), consumer electronics (CE) manufacturers and service providers to cost-effectively develop new revenue-generating products with fast time to market. At the forefront of semiconductor innovation and operational excellence for over three decades, DSP Group provides a broad portfolio of wireless chipsets integrating industry leading standards, including DECT/CAT-iq, ULE, Wi-Fi, PSTN, HDClear™, video and VoIP technologies. DSP Group is a leader in high performance low-power integrated circuits (ICs) for audio and voice signal processing applications. We enable converged voice, audio, video and data connectivity across diverse mobile, consumer and enterprise products – from mobile phones, IoT and wearable devices, connected multimedia screens and home automation & security to cordless phones, VoIP systems and home gateways. Leveraging industry-leading experience and expertise, DSP Group partners with leading CE manufacturers and service providers to reshape the future of converged communications at home, office and mobile on the go devices.
+ 
+We were incorporated in California in 1987 and reincorporated in Delaware in 1994. We completed our initial public offering in February 1994.
+ 
+Industry Environment and Our Business
+ 
+Our focus on the design of highly-integrated, mixed-signal devices that combine signal processing, complex RF (radio frequency), analog and digital functions enables us to address the complex challenges of integrating various technologies, platforms and processes posed by emerging trends in the industry. Our IC products are customizable, achieve high functionality and performance at reduced power consumption, especially for Internet of Things (IoT) and home automation devices, mobile and wearable products, cordless and IP telephony that require very low power consumption, and can be manufactured in high volumes using cost-effective process technologies. Our systems architecture provides an open design environment for ODMs to design and market their own end products with maximum differentiation.
+ 
+Our expertise and investment in software development, including Board Support Package (BSP) and drivers layer, telephony, communication stack and application layers in Real-time Operating System (RTOS) and Full Featured Operating System (FFOS) frameworks, enable our customers’ fast time to market with cost- and performance-optimized solutions.
+ 
+With our in-house and acquired innovations and intellectual property, we are able to bring additional value to our existing market verticals and address new market verticals, including markets for IoT, office phones, mobile and wearable devices and consumer and computing devices, thus expanding our market opportunities, including the exciting new voice user interface. 
+ 
+In recognition of the trend towards wireless residential and business connectivity, we developed and are offering leading wireless voice and data transmission solutions for various connectivity applications, including mobile handsets. Since 1999, we have developed and acquired various technologies, including Direct Sequence Spread Spectrum (DSSS), Frequency Hopping Spread Spectrum (FHSS), Orthogonal Frequency Digital Modulation (OFDM), Digital Narrow Band, Complementary Metal Oxide Semiconductor (CMOS), Gallium Arsenide (GaAs) technology, and Silicon Germanium (SiGe) RF chips for 900MHz, 2.4GHz and 5.8GHz Industry Scientific and Medical (ISM) bands, European DECT (1.9GHz), DECT 6.0 (1.8GHz), Korean DECT (1.7GHz), Bluetooth (2.4GHz), Wi-Fi (802.11, 2.4GHz/5GHz), BiCMOS (Bipolar CMOS) and deep sub-micron CMOS technologies. 
+ 
+ -3-
+
+
+
+Moreover, we expanded our DECT solutions beyond cordless telephony to address the IoT market via an ultra low energy flavor of DECT called DECT ULE or ULE. ULE offers numerous technological benefits due to its licensed and interference-free, frequency bands, longer range, RF robustness, propagation through multiple walls, voice and visual support, while using very low power consumption.
+ 
+During the past few years, we expanded into chips and phones for office and business applications, and are quickly becoming a market leader in this growing segment. Today, DSP Group offers comprehensive systems-on-a-chip (SoC) and solution for VoIP, home, SoHo and office IP phones. VoIP is a technology that enables users to make HD voice calls via a broadband Internet connection rather than an analog phone line. Through successful penetration with tier one customers we achieved over 30% growth in 2017 in this segment.
+ 
+Furthermore, with mobile and IoT devices playing an increasingly significant role in peoples’ lives, in February 2013, we unveiled our HDClear solution, a comprehensive noise suppression and voice quality enhancement product for mobile and IoT devices for always-on devices. The market trend is for mobile and IoT devices to use voice user interface. HDClear capitalizes on this trend by incorporating voice command, voice activation, proprietary noise cancellation, acoustic echo cancellation, and beam forming algorithms, thereby dramatically improving user experience and delivering unparalleled voice quality and speech recognition. Our HDClear solution is both high performance and ultra-low power. This HDClear product family was developed through the acquisition of BoneTone Communications Ltd. (“BoneTone”) and the addition of their innovative intelligent noise cancellation algorithms to our low power SoC. In 2015, we secured our first design win for HDClear with a tier one mobile customer and started mass production shipments during the fourth quarter of 2015. In 2016, we shipped our HDClear hardware and software solution in mass production to a tier one mobile customer for one of its flagship mobile phones. We ended 2017 shipping our HDClear solution to two flag ship mobile phones and eight different OEMs for non-mobile phone applications.
+ 
+Committed to advancing technology across the CE and telecommunications markets, DSP Group is actively involved in prominent industry associations, including the DECT Forum, the European Telecommunications Standards Institute, ULE Alliance and the Wi-Fi Alliance. We also participate in the 3GPP and MIPI alliance. DSP Group is further deeply involved in all stages of defining DECT CAT-iq and ULE standards and is building full eco-systems to support these solutions. We are an active member of the Home Gateway Initiative (HGI), and support the specification activities of CableLabs, which is contributing to the evolution and implementation of CAT-iq in various markets and applications. Such industry involvements enable us to define standards and keep abreast of the latest innovations and requirements. We also maintain close relationships with many world-leading telecommunication service providers, thereby providing us with insight into future plans across the industry. 
+ 
+Target Markets and DSP Group Products
+ 
+In response to market trends, we are concentrating our development efforts on new products and opportunities to leverage our strong technology base and customer relationships to address evolving market opportunities and take advantage of the current market trends in our domain. We focus our efforts on four product areas: (i) SmartVoice products which consist of products targeting mobile, IoT speakers and wearable device markets that incorporate our HDClear technology, as well as other third party advanced voice processing, always on and sensor hub functionality; (ii) office products consisting of VoIP SoC products for Enterprise, SMB and SoHo; (iii)  SmartHome products consisting of ULE ICs targeting the growing markets of IoT, smart home devices and home gateways; and (iv) cordless phones which consist of largely DECT SoCs for cordless telephony. 
+ 
+Below is a discussion of our business segments and the products within each segment.
+ 
+ -4-
+
+
+
+Home Segment - Products Targeted at SmartHome Products that are Inclusive of Home Gateways and Products for Home Automation (IoT) Markets and Cordless Telephony
+ 
+Our DECT and 2.4 GHz technologies are targeted at three broad categories of products: (a) gateways, both home gateways and fixed mobile convergence, (b) home automation & IoT applications, and (c) digital cordless telephony.
+ 
+As a market leader in DECT and next-generation CAT-iq cordless technology, we offer a wide range of cost-effective, highly integrated SoC solutions. Delivering high-quality audio with notably low power consumption, our field-proven chipset solutions are ideal for highly integrated digital cordless telephony, DECT-enabled gateways and home automation and security. Our chipsets provide a total integrated digital solution and include all required digital baseband, analog interface and RF functionality.
+ 
+Our Home chipset solutions enable worldwide coverage, supporting all RF bands and cordless protocols, such as:
+ 
+
+● | 1.7GHz -1.9GHz DECT – used in Europe, U.S. (DECT6.0), Korea, Japan and Latin America; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | 2.4GHz – used in Japan, China, India and the U.S.; the dominant protocols for this RF band is our proprietary EDCT (Enhanced Digital Cordless Technology) and WDCT (Wireless Digital Cordless Technology) protocols.
+
+ 
+This chipset portfolio combines wireless communications technology with a range of telephony features, audio and voice-processing algorithms to provide the industry a low cost and small footprint solution. Enhanced with our hardware and software packages, these chipsets are highly versatile and enable the development of an array of cordless telephony solutions, DECT home gateways and smart-home applications and devices at a lower effort and faster time to market than alternative silicon offerings.
+ 
+This portfolio supports cordless phones, cordless headsets, remote controls, home DECT-enabled gateways, fixed-mobile convergence solutions and home security and automation devices.
+ 
+Our home chipset solutions are available in three chipset families:
+ 
+
+● | The DCE family is a highly integrated, low-power ROM-based chipset solution, delivering enhanced audio and extended range for entry-level applications. The chipset is used to develop fully integrated cordless telephone systems, digital voice recorders (DVRs), digital baby monitors, and other low-to-mid-range audio applications. Including the industry’s most advanced digital cordless solutions, the DCE family maintains multi-line, multi-handset and digital answering machine capabilities, while supporting various RF protocols such as DECT (1.7GHz-1.9GHz), FHSS DECT 2.4GHz, EDCT 2.4GHz and 5.8GHz. Integration of the TeakLite™ RISC DSP core into the DE56, DCE58 and DCE59 baseband chip enables software implementation of a variety of voice coders, and provides a flexible platform for developing a wide range of solutions. With its DSP-based architecture, the chipset enables cost-effective incorporation of the most advanced audio and telephony features.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The DCX family is a low-power, Flash and ROM-based chipset solution targeting mid-to-high-range cordless applications. Built on an open platform with powerful ARM9™ core processing capabilities, the cost-effective DCX family delivers unsurpassed telephony coverage and HD voice features. Combining state-of-the-art RF and ARM9 baseband functions in a single package with a rich set of telephony features and advanced audio-processing capabilities, the DCX provides the best cost-performance solution for mid-to-high-range DECT/DECT6.0/CAT-iq and WDCT cordless applications, home gateway applications, fixed mobile convergence applications and ULE gateways and devices. Supporting all RF bands and comprised of Flash-based chips and a full set of ROM-based products with various memory configurations, the DCX chipset family offers a total integrated solution that includes a digital baseband controller, analog interface, RF transceiver and power amplifier.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ -5-
+
+
+
+
+● | The DHX family is a low-power chipset solution for home automation and security. Equipped with audio capabilities and a powerful ARM926™ processor, it implements hibernation features to deliver advanced ULE. Miniature size DHX91 module DHAN-S shortens a customer’s time to market and ensures superior performance of DHX91 RF. The ULE base utilizes existing and proven cordless SoCs, functioning as a standalone ULE over the top box (DVF99) and embedded module for home gateways (DCX81).
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In 2016, we also began to sell our DHAN-S module for the IoT market. This product offers application developers a turnkey radio solution for DECT ULE nodes, whether battery or AC-powered. This module is built around our DHX91 chipset. The module can serve as a wireless connectivity channel for an application running on an external MCU or a standalone solution using the DHX91’s internal ARM926 processor.
+ 
+We achieved significant milestones in 2016 and 2017 by incorporating DHX91, a ULE SoC; in end customer products for home automation and security applications. Our customers’ end products integrating DHX91 went through various field trials and officially launched in the market in 2014. In 2015 and 2016, Panasonic Communications Ltd. (“Panasonic”), Sercomm Corporation, Eurotronic Technology GmbH and several other leading CE brands launched ULE based products that utilizes DECT/ULE for sensors, actuators, voice and video cameras. Moreover, during 2017, Deutsche Telecom launched home automation and control services and products based on our DECT and ULE solutions.
+ 
+Office Segment - Products Targeted at the Office Market 
+ 
+As a leading silicon vendor for enterprise voice, we offer a comprehensive portfolio of solutions for VoIP terminals. Our DVF SoCs family is a comprehensive solution for developing affordable, scalable and green VoIP home and office products. DVF facilitates rapid introduction of embedded features into residential devices such as cordless IP and instant messaging (IM) phones. DVF enables development of low-power enterprise IP, analog terminal adapters (ATAs) and home VoIP phones that offer superb acoustic echo cancellation, high-quality HD voice, multi-line capabilities, and an enhanced user interface (UI). Built on an open platform with multi-ARM processors running on Linux OS, DVF includes IPfonePro™, an extensive SDK for IP phones and ATAs.
+ 
+During 2010, we launched a new VoIP chipset based on the VegaFireBird SoC and our RF products combining ARM9 and VoIP processing baseband functions in a single package with a rich set of telephony features targeting Corded IP phones for home and office, Analog Terminal Adaptors and Cordless IP Phones. These products support multi line and multi HD voice channels, superior audio processing capabilities including acoustic echo cancellation and superior full duplex speakerphone technologies.
+ 
+In 2012, we taped-out a new VoIP SoC DVF99xx, which commercially launched in January 2013. Built with two ARM926EJ-S™ cores, this new VoIP SoC provides combined processing speed of 1.1 GHz, and is designed to support IP phone processing needs - from basic single-line IP phones to high-end multi-line gigabit Ethernet IP phones with large color display and advanced GUI. The DVF99 also integrates multiple hardware accelerators, including a hardware security engine which enables a new class of secure IP phones, an LCD controller, a 2D graphics engine, a high-speed USB 2.0 port, DDR3/DDR2 memory and minimal power consumption. This product was designed to meet the needs of the enterprise IP telephony market.
+ 
+DVF101, the latest member of the DVF family, which taped out during 2016, provides outstanding cost/performance value for high-end IP phones. Designed specifically to meet Tier 1 requirements, DVF101 fully complements existing solutions, including DVF99 VoIP processors for mid to high-end IP phones. DVF101 is an ideal solution for high-end voice terminals, with high-resolution color display, rich 3D graphical user interface, full HD-voice and Super Wideband Acoustical Echo Cancellation, as well as fully secured communication.
+ 
+ -6-
+
+
+
+Revenues from our VoIP segment continued its strong growth trajectory in 2017. A third tier one customer successfully launched a series of phones based on our DVF99. In addition, we secured additional design wins with our existing tier one customers for higher end products which are expected to go into production in the 2018 and 2019 timeframe, thereby contributing to further progress in this growing segment.
+ 
+SmartVoice - Products Targeted at Mobile Telephony, Consumer Electronics and Wearable Device Markets 
+ 
+Our SmartVoice product portfolio is enhanced with technology for intelligent voice enhancement and noise elimination. This technology supports two solutions: HDClear and HDMobileSurround™ which are offered as part of the HDClear product line.The current market trend is for mobile and IoT devices to use voice user interface. Our HDClear high performance and low power solutions continue to garner important design wins with our numerous enabling technologies such as voice command, voice activation, proprietary noise cancellation, acoustic echo cancellation and beam forming algorithms, all of which dramatically improve user experience and deliver unparalleled voice quality and speech recognition.
+ 
+HDClear-based solutions offer mobile IoT voice quality and intelligibility, while completely removing background noise. Delivering clearer voice calls made from noisy environments, HDClear also maximizes accuracy of Automatic Speech Recognition (ASR) applications in noisy environments by leveraging robust and powerful noise cancellation algorithms. HDClear more effectively isolates voice from ambient noise, thereby drastically lowering Word Error Rate (WER) and dramatically improves the user experience for speech-enabled applications like virtual assistants, voice search, speakerphone conference calls and speech-to-text on mobile and wearable devices, tablets and other consumer devices.
+ 
+In 2012, we taped-out the DBMD2 chip, which we believe is one of the most efficient voice enhancement processors in the market. It is measures just 2.5 x 2.5mm. Offered with a 36-pin FCCSP and 0.4mm ball pitch, DBMD2 embeds a programmable 32-bit DSP, incorporates advanced connectivity options, including four TDM/I2S ports and SLIMbus, and is equipped with a comprehensive software framework that enables rapid development and fast time-to-market, thereby overcoming the challenges of portable design, real estate and power consumption. DBMD2’s low power enables an always-on voice feature for mobile devices. Always-on is a low power decisive natural voice interface for mobile and wearable devices. An average user accesses his/her device tens or hundreds of times per day by physically pressing a screen or a button. A truly always-on technology enables the user to skip this step by using natural voice to access the device even while the device is in standby mode. DBMD2 enables mobile OEMs to offload voice and audio tasks from mobile device CPUs, in addition to running HDClear to enhance ASR accuracy. OEMs can leverage DBMD2’s open and flexible architecture to differentiate their products to run their own voice/audio enhancement software for pre- and post-processing.
+ 
+In 2015, we started commercial shipments of DBMD2 for a wearable device with a leading OEM.
+ 
+In 2015, we also taped-out a new DBMD4, a chip targeted for ultra-low-power, always-on voice and audio applications. DBMD4 incorporates a suite of voice enhancement algorithms, including noise suppression that significantly improves user experience and accuracy of speech-driven applications, particularly in high noise environments. Offered with a 25-WLCSP and 0.35mm ball pitch, DBMD4 embeds a TeakLite-III DSP core, incorporates advanced connectivity options, including I2S, UART, SPI, I2C ports and SLIMbus, and is equipped with a comprehensive software framework that enables rapid development and fast time-to-market, thereby overcoming the challenges of portable design, real estate and power consumption.
+ 
+In 2016, we went into production with our design win for our DBMD4 chip with a tier one OEM mobile customer. This has led to significant year over year revenue growth in our SmartVoice segment. In the second half of 2016, we announced two additional design wins for our HDClear in non-smartphone applications that will go into production in the second half of 2017. 
+ 
+ -7-
+
+
+
+In January 2017, we unveiled our new audio and voice enhancement SoC, the DBMD5. This new audio SoC is built to drive clearer human machine voice interactions in multi microphone equipped devices. We are currently working on our next generation voice enhancement SoC which we expect to introduce in 2018.
+ 
+Customers
+ 
+We are a flexible customer-centric company that proactively partners with our broad base of customers and service providers. As a reliable long-term industry supplier, We maintain a proven track record of operational excellence and successful on-time delivery. With over 10 offices across Asia, Europe and North America, we deliver outstanding local service and support worldwide. We sell our products primarily through distributors and directly to OEMs and ODMs who incorporate our products into consumer products for the worldwide residential wireless communications market and enterprise products for the worldwide office communications market. In 2017, we continued expanding our customer base, and in some cases, increased our share of business with existing customers. Our blue-chip customer base features leading international CE manufacturers, including the world’s top consumer brands, which have deployed our chipset solutions at prominent tier-one telecom operators across the globe, and include: Aprotech, ADB, AEG, Alcatel, Atcom, AT&T, Arris, Atcom, Atlink, Arcadyan, Askey, Audiocodes, Avaya, Ayecom, Baycom, Belgacom, Binatone, British Telecom, Brother, CCT Tech, Cetis, CIG, Cisco, Climax, Comcast, Crow, Cybertan, Grandstream, Deutsche Telekom, Doro, DNI, DTS, DX Antenna, Eclogic, Escene, Eurotronic, Fanvil, Flextronics, Fujitsu, France Telecom, Freebox, Gibson (formerly Philips), Gaoxinqi, Gemtek, Goertek, Foxconn, Grandstream, Huawei, Iflytek, Infinite, Innomedia, Intelbras, Invoxia, JXE, Kaonmedia, Kocom, Korea Telecom, KPN, LG Electronics, Libre, Logitech, Meitu, Mitac, Mitrastar, Motorola, Moimstone, Netgear, NTT, Ooma, Panasonic, Pegatron, Pioneer, Plantronics, Proximus, Sagemcom, Samsung, Sanyo, SAXA, Sercomm, SGW, Sharp, Siemens (Gigaset), SK Telecom, Sony, Spracht, Sumitomo, Sunrise, Swissvoice, Swisscom, TCL, Tecom, Telecom Italia, Telefonica, Telstra, Technicolor, Telefield (RCA), Tinno, T&W, Uniden, Unihan, Urmet, Uwin, Turkcell, Turkish Telecom, Verisure, Verizon, VTech, Vodafone, Wistron, WNC, WONDALINK, Xingtel, Yamaha, Yealink, Yeastar and ZTE.
+International Sales and Operations
+ 
+Export sales accounted for 96% of our total revenues for 2017 and 97% of our total revenues for both 2016 and 2015. As most of our sales to foreign entities are denominated in U.S. dollars, we are subject to risks of conducting business internationally. See Note 16 of the attached Notes to Consolidated Financial Statements for the year ended December 31, 2017, for a summary of the geographic breakdown of our revenues and location of our long-lived assets.
+ 
+Moreover, a portion of our expenses in Israel is paid in the Israeli currency (New Israeli Shekel (NIS)). Our primary expenses paid in NIS are employee salaries and lease payments on our Israeli facilities. As a result, an increase in the value of Israeli currency in comparison to the U.S. dollar could increase the cost of our technology development, research and development expenses and general and administrative expenses. From time to time, we use derivative instruments to minimize the effects of currency fluctuations, but our hedging positions may be partial, may not exist at all in the future or may not succeed in minimizing our foreign currency fluctuation risks.
+ 
+In addition, a portion of our expenses in Europe is paid in Euro. Our primary expenses paid in Euro are employee salaries and lease and operational payments on our European facilities. As a result, an increase in the value of the Euro in comparison to the U.S. dollar also could increase the cost of our technology development, research and development expenses and general and administrative expenses.
+ 
+Sales, Marketing and Distribution
+ 
+We market and distribute our products through our direct sales and marketing offices, as well as through a network of distributors. Our sales and marketing team has global reach through our sales offices in Hong Kong, China; Nierenberg, Germany; Los Altos, California; Tokyo, Japan; Herzliya Pituach, Israel, Edinburgh, Scotland; Shanghai and Shenzhen, China and South Korea. In territories where we do not have sales offices, we operate solely through a network of distributors and representatives. 
+ 
+ -8-
+
+
+
+The following table represents our sales as a percentage of our total revenues through our main distributors Tomen Electronics, Ltd. And Ascend Technology Inc., for the years ended December 31, 2017, 2016 and 2015:
+ 
+
+ | Year ended December 31, | 
+Major Distributors | 2017 | | 2016 | | 2015
+Tomen Electronics Corporation (“Tomen Electronics”) (1) | | 12% | | 12% | | 16%
+Ascend Technology Inc. (“Ascend Technology”) | | 23% | | 16% | | 15%
+
+
+(1) | Panasonic Communications Co., Ltd. has continually accounted for a majority of the sales of Tomen Electronics for 2017, 2016 and 2015.
+----+---------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We also derive a significant amount of revenues from a limited number of customers. The following table represents our sales as a percentage of our total revenues from our main customers for the years ended December 31, 2017, 2016 and 2015:
+ 
+
+ | Year ended December 31, | 
+Major Customers | 2017 | | 2016 | | 2015
+Vtech Holdings Ltd. (“Vtech”) | | 27% | | 29% | | 31%
+Panasonic Communications Ltd. (“Panasonic”) | | 10% | | 10% | | 13%
+Guo Wei Electronics Ltd. (“Guo Wei”) | | * | | 9% | | 12%
+Samsung Electronics Ltd. (“Samsung”) | | * | | 12% | | - 
+
+ 
+*Less than 10%.
+ 
+Furthermore, as our products are generally incorporated into consumer products sold by our OEM customers, our revenues may be affected by seasonal buying patterns of consumer products sold by our OEM customers.
+ 
+Manufacturing and Design Methodology 
+ 
+We are ISO9001:2015 certified. This certification is applicable for the design, development, testing and supply of our system-on-chip solutions. We also have well established methodologies and working procedures that are also regularly audited. 
+ 
+We contract product wafer fabrication services mostly from TSMC. A majority of our integrated circuit products at this time are manufactured by TSMC. We intend to continue to use independent foundries to manufacture our products. Our reliance on independent foundries involves a number of risks, including the foundries’ ability to achieve acceptable manufacturing yields at competitive costs and their allocation of sufficient capacity to us to meet our needs. While we currently believe we have adequate capacity to support our current sales levels, we may encounter capacity issues in the future. In the event of a worldwide shortage in foundry capacity, we may not be able to obtain a sufficient allocation of foundry capacity to meet our product needs. Shortage or lack of capacity at the foundries we use to manufacture our products may lead to increased operating costs and lower gross margins. In addition, such a shortage could lengthen our products’ manufacturing cycle and cause a delay in the shipment of our products to our customers. Unforeseen difficulties with our independent foundries could harm our business, financial condition and results of operations.
+ 
+ -9-
+
+
+
+We use independent subcontractors located in Asia, to assemble and test certain of our products. We develop detailed testing procedures and specifications for each product and require each subcontractor to use these procedures and specifications before shipping us the finished products. We test and/or assemble our products at Amkor, ASE, Giga Solutions, KYEC and SPIL.
+ 
+Furthermore, some of our products require an external component in the finished product, which is supplied by a third party, to provide flash memory. 
+ 
+Competition
+ 
+The principal competitive factors in the cordless telephony market include price, performance, system integration level, range, voice quality, customer support and the timing of product introductions by us and our competitors. We believe that we are well positioned from a competitive position. Our principal competitors in the cordless market include Lantiq (acquired by Intel) and Dialog Semiconductors. Similar principal competitive factors affect the VoIP market. We also believe that we are competitive with respect to most of these factors. Our principal competitors in the VoIP market include Broadcom (Broadcom was acquired by Avago Technologies), Dialog Semiconductors, Lantiq, Texas Instruments and new Taiwanese IC vendors.
+ 
+Similar principal competitive factors affect the Home Automation (DECT ULE) market. An additional competitive factor relating to this market is that we are a newcomer in this market, and this market already has a number of dominant, well-established companies with significant existing market shares. We also believe that we are competitive with respect to most of these factors. Our principal competitors are developers of different wireless home automation technologies, including Analog, Z-wave and Zigbee. Among those, the major competitors for digital home connectivity are Microchip Technology, NXP, Texas Instruments, Sigma Designs (connectivity business in the process of being acquired by Silicon Labs) and Silicon Labs. 
+ 
+Similar principal competitive factors affect the smart audio and noise reduction market. Competitors in this market include Audience (acquired by Knowles Corporation), Cirrus Logic, Conexant (recently acquired by Synaptics) and developers of noise cancellation software running on mobile phones such as NXP and ForteMedia. In addition, there could be a growing trend of our potential and existing customers moving to in-house designs which would make our technologies and products obsolete. 
+ 
+Research and Development
+ 
+Timely development and introduction of new products are essential to maintain our competitive position. We currently conduct most of our product development at our facilities. At December 31, 2017, we had a staff of 200 research and development personnel, of which 135 were located in Israel. We also employ independent contractors to assist with certain product development and testing activities. We spent $36.7 million in 2017, $34.9 million in 2016 and $35.5 million in 2015 on research and development activities.
+ 
+Due to various new developments in the home residential market, including the rapid deployment of new communication access methods and the rise of alternative technologies in lieu of fixed-line telephony, over the past several years, consistent with our strategy, we have expanded our product lines and developed products and services targeted at wider markets, including office enterprise market and the intensively competitive mobile device market. We will need to continue to invest in research and development, and our research and development expenses may increase in the future, including the addition of new research and development personnel, to keep pace with new and rapidly changing trends in our industry.
+ 
+ -10-
+
+
+
+Licenses, Patents and Trademarks 
+ 
+As of December 31, 2017, we have been granted a total of 138 patents and 44 patents are pending.
+ 
+We actively pursue foreign patent protection in countries of interest to us. Our policy is to apply for patents or for other appropriate statutory protection when we develop valuable new or improved technology. The status of any patent involves complex legal and factual questions, and the breadth of claims allowed is uncertain. Accordingly, we cannot assure that any patent application filed by us will result in a patent being issued, or that our patents, and any patents that may be issued in the future, will afford adequate protection against competitors with similar technology; nor can we provide assurance that patents issued to us will not be infringed or designed around by others. In addition, the laws of certain countries in which our products are or may be developed, manufactured or sold, including China, Hong Kong, Japan, Korea and Taiwan, may not protect our products and intellectual property rights to the same extent as the laws of the United States.
+ 
+We attempt to protect our trade secrets and other proprietary information through agreements with our customers, suppliers, employees and consultants, and through other security measures. Although we intend to protect our rights vigorously, we cannot assure that these measures will be successful.
+ 
+While no material claims involving patent or other intellectual property rights have been brought against us to date, we cannot provide assurance that third parties will not assert claims against us or our customers with respect to existing or future products, or that we will not need to assert claims against third parties to protect our proprietary technology. In addition, patent infringement claims are increasingly being asserted by patent holding companies (so-called patent “trolls”), which do not use technology and whose sole business is to enforce patents against companies, such as us, for monetary gain. Because such patent holding companies do not provide services or use technology, the assertion of our own patents by way of counter-claim may be ineffective. We have received claims that our products infringe upon the proprietary rights of such patent holding companies. In addition, third parties have asserted and may in the future assert intellectual property infringement claims against our customers, which we have agreed in certain circumstances to indemnify and defend against such claims. If litigation becomes necessary to determine the validity of any third party claims or to protect our proprietary technology, it could result in significant expense to us and could divert the efforts of our technical and management personnel, whether or not the claim has any merit and notwithstanding that the litigation is determined in our favor. In the event of an adverse result in any litigation, we could be required to expend significant resources to develop non-infringing technology or to obtain licenses to the technology that is the subject of the litigation. We cannot provide assurance that we would be successful in developing non-infringing technology or that any licenses would be available on commercially reasonable terms.
+ 
+While our ability to compete may be affected by our ability to protect our intellectual property, we believe that because of the rapid pace of technological change in our industry, our technical expertise and ability to innovate on a timely basis and in a cost-effective manner will be more important in maintaining our competitive position than the protection of our intellectual property. In addition, we believe that due to rapid technological changes in residential telephony, computer telephony and personal computer markets, patents and trade secret protection are important but must be supported by other factors, including expanding the knowledge, ability and experience of our personnel, new product introductions and frequent product enhancements. Although we continue to implement protective measures and intend to defend our intellectual property rights vigorously, we cannot assure that these measures will be successful.
+ 
+ -11-
+
+
+
+Backlog
+ 
+At December 31, 2017, our backlog was approximately $20.6 million, compared to approximately $23.4 million and $17.2 million at December 31, 2016 and 2015, respectively. We include in our backlog all accepted product purchase orders with respect to which a delivery schedule has been specified for product shipment within one year. Our business is characterized by short-term order and shipment schedules. Product orders in our current backlog are subject to change, sometimes on short notice, due to changes in delivery schedules or cancellation by a purchaser. Accordingly, although useful for scheduling production, backlog as of any particular date may not be a reliable measure of our sales for any future period.
+Employees
+ 
+At December 31, 2017, we had 328 employees, including 200 in research and development, 65 in sales and marketing, and 63 in corporate, administration and manufacturing coordination. Competition for personnel in the semiconductor industry in general is intense. We believe that our future prospects will depend, in part, on our ability to continue to attract and retain highly-skilled technical, marketing and management personnel, who are in demand. In particular, there is a limited supply of RF chip designers and highly-qualified engineers with digital signal processing, machine learning and artificial intelligence experience. We believe that our relations with our employees are good.
+Web Site Access to Company’s Reports
+ 
+Our Internet Web Site address is www.dspg.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available free of charge through our Web site as soon as reasonably practicable after they are electronically filed with, or furnished to, the Securities and Exchange Commission. We will also provide the reports in electronic or paper form free of charge upon request.
+ 
+Our website and the information contained therein or connected thereto are not intended to be incorporated into this Annual Report on Form 10-K.
+ 

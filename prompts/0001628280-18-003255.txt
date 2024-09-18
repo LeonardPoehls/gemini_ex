@@ -1,0 +1,124 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Overview
+
+INAP is a provider of high-performance data center services including colocation, managed hosting, cloud, and network services. INAP partners with its clients, who range from the Fortune 500 to emerging start-ups, to create secure, scalable and reliable information technology (“IT”) infrastructure solutions that meet the client’s unique business requirements.
+INAP is diversified in 21 major metropolitan areas where data centers and customers are concentrated, including Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, Miami, New York/New Jersey, Northern Virginia, Oakland, Phoenix, Seattle and Silicon Valley metropolitan markets in the United States, and Montreal in Canada. Outside of North America, INAP also has a global presence in: Amsterdam, Frankfurt, London metropolitan markets in Europe, Hong Kong, Singapore, Sydney, Tokyo and Osaka metropolitan markets in the Asia Pacific region. INAP’s facilities are in 12 of the top 15 metropolitan markets in the U.S. and in the number 2 market in Canada. INAP has over 1 million gross square feet under lease, with over 500,000 square feet of data center space dedicated to our customer's needs.
+In addition, INAP global network services manages connectivity through 97 Points of Presence (“POP”) around the world. Our network is capable of High performance IP, low latency, and high-touch telecom services enabling our data center customers to connect with the Internet. 
+We incorporated in Washington in 1996 and reincorporated in Delaware in 2001. Our common stock trades on the Nasdaq Global Market under the symbol “INAP.”
+Our Business
+
+The IT infrastructure services market comprises a range of offerings that have emerged in response to shifting business and technology drivers. INAP competes specifically in the markets for colocation, hosting and Infrastructure-as-a-Service ("IaaS") solutions.
+Our Competitive Strengths
+Strong Global Presence in Key Metropolitan Areas. Our portfolio contains data centers in 21 major metropolitan areas across nine countries. Our data center portfolio is geographically diversified so that no one metropolitan area represents more than 15% of revenue. Our properties contain a total of over 1 million gross square feet under lease, with over 500,000 square feet of data center space.
+Partners with Customers to Create Solutions. INAP provides tailored solutions for customers, with an emphasis on optimal execution, low latency and scalable colocation, managed services and hosting, cloud and high- performance network services. Customers have seamless access to secure and instantaneous connectivity from colocation or hosting environments to public or private cloud providers. INAP backs its services with customer service level commitments to help ensure the solutions work as designed. 
+ 1
+
+Targeted, Scalable Solutions. Unlike REITs or in-house data centers or unwieldy wholesale solutions, INAP’s scalable colocation allows customers to purchase the space and power they need without getting tied into over-sized contracts or massive capex deployments. In addition, modular colocation design provides customers the ability to get up and running quickly. Most REITs provide only a big box approach where customers are offered minimum service levels and must use their own labor in the event of service interruptions. 
+Diverse Customer Base. As of December 31, 2017, INAP had approximately 7,000 customers across various industries, including healthcare, advertising technology, financial, technology infrastructure, gaming and software. Our customer base is not concentrated in any particular industry; in each of the past three years, no single customer accounted for 10% or more of our revenues. 
+Our Industry
+
+INAP competes in the large and fast-growing market for IT infrastructure services (outsourced data center, compute resources, storage and network services). Three complementary trends are driving demand for Internet infrastructure services: the growth of the digital economy, the outsourcing of IT and the growth of cloud computing.
+The Growth of the Digital Economy
+
+The digital economy continues to impact existing business models with a new generation of networked applications. Widespread adoption of mobile Internet devices combined with rising expectations around the performance and availability of both consumer and business applications places increasing pressure on enterprises to deliver a seamless end-user experience on any device at any time at any location. Simultaneously, Software-as-a-Service models have changed data usage patterns with information traditionally maintained on individual machines and back-office servers now being streamed across the Internet. These applications require predictable performance and data security. Finally, the growth of big data analytics is giving rise to a new breed of “fast data” applications that collect and analyze massive amounts of data in real time to drive immediate business decisions – for example, real-time ad bidding platforms and personalized e-commerce portals.
+The Outsourcing of IT
+
+While more capacity is being outsourced to public cloud data centers, a growing number of enterprises are also turning to colocation and hosting providers to manage their IT infrastructure. As distributed applications, security concerns and compliance issues are placing new burdens on the traditional IT model and driving new costs and complexity, IT organizations are increasingly turning to infrastructure outsourcing to free up valuable internal resources to focus on their core businesses, improve service levels and lower the overall cost of their IT operations. The macro-economic trends over the past several years have led to a reduction of operating and capital budgets. Companies are forced to balance this growing complexity with a cost-cutting culture and staff resource limitations that require they do more with less.
+
+The Growth of Cloud Computing
+
+Cloud computing has yet to make its full impact, and the extent and the form of that impact on enterprise and commercial data centers is still developing. It will take several years to be determined, but we expect demand for on-premises capacity to be offset by the ability to more easily migrate workloads to cloud providers such as INAP.
+
+The emergence of public cloud IaaS offerings has accelerated digital innovation by lowering the barrier to entry for new business creation. IaaS offerings allow new enterprises to procure and pay for infrastructure on an as-needed basis while minimizing upfront operating expenses, reducing complexity and increasing agility.
+
+Although most organizations initially rely on cloud services for non-mission critical workloads, such as testing and development, growing adoption and the maturation of cloud platforms have increased confidence in migrating key business applications to the cloud. This, in turn, has led to a new generation of applications that are being architected from the ground up, to run on standardized public cloud infrastructure.
+Our Segments
+
+Effective January 1, 2017, we changed our organizational structure in an effort to create more effective and efficient operations and to improve customer and product focus. In that regard, we revised the information that our chief executive officer, who is also our Chief Operating Decision Maker (“CODM”), regularly reviews for purposes of allocating resources and assessing performance. As a result, beginning January 1, 2017, we now report our financial performance based on our new reportable segments INAP COLO and INAP CLOUD. These segments are comprised of strategic businesses that are defined by the service offerings they provide. Each segment is 
+ 2
+
+managed as an operation with well-established strategic directions and performance requirements. Each segment is led by a separate General Manager who reports directly to the Company’s CODM.
+The CODM evaluates segment performance using business unit contribution which is defined as business unit revenues less direct costs of sales and services, customer support, and sales and marketing, exclusive of depreciation and amortization.
+We have reclassified prior period amounts to conform to the current presentation.
+INAP COLO
+
+Our INAP Colo segment consists of colocation, managed services and hosting, and network services.
+
+Colocation
+
+Colocation involves providing physical space within data centers and associated services such as power, interconnection, environmental controls, monitoring and security while allowing our customers to deploy and manage their servers, storage and other equipment in our secure data centers. We design the data center infrastructure, procure the capital equipment, deploy the infrastructure and are responsible for the operation and maintenance of the facility. 
+Data Center Locations
+INAP offers services in 21 metropolitan markets worldwide, with 56 data centers. The number of locations is provided for each market.
+
+North America | Europe | Asia Pacific 
+Atlanta (3) | Los Angeles (4) | Oakland | Amsterdam (4) | Hong Kong (2)
+Boston (2) | Miami | Phoenix (2) | Frankfurt | Japan (4) 
+Chicago (4) | Montreal (3) | Seattle (2) | London (2) | Singapore (3)
+Dallas (4) | New York/New Jersey (5) | Silicon Valley (6) | | Sydney 
+Houston | Northern Virginia/ DC (1) | | | 
+
+POP Locations
+INAP has 97 POPs in the following metropolitan markets worldwide, and for each location the number of POPs is provided. 
+
+North America | Europe | Asia Pacific 
+Atlanta (4) | Los Angeles (9) | Philadelphia (2) | Amsterdam (4) | Hong Kong (2)
+Boston (3) | Miami (2) | Phoenix (5) | Frankfurt (2) | Japan (4) 
+Chicago (6) | Montreal (3) | Sacramento | London (3) | Singapore (6)
+Dallas (4) | New York/New Jersey (10) | Seattle (3) | Paris | Sydney 
+Denver (2) | Northern Virginia/DC (7) | Silicon Valley (10) | | 
+Houston | Oakland | Toronto | | 
+
+IP Connectivity
+
+IP connectivity includes our patented Performance IP™ service, content delivery network services, IP routing hardware and software platform. By intelligently routing traffic with redundant, high-speed connections over multiple, major Internet backbones, our IP connectivity provides high-performance and highly-reliable delivery of content, applications and communications to end users globally. We deliver our IP connectivity through 97 POPs around the world.
+ 3
+
+Managed Services and Hosting
+
+Managed Services and Hosting consists of leasing dedicated servers as well as storage and network equipment along with other associated hardware to our customers.  We configure and administer the hardware and operating system, provide technical support, patch management, monitoring and updates.  We offer managed hosting around the globe, including North America, Europe and the Asia-Pacific region.
+INAP CLOUD
+
+Cloud services involve providing compute resources and storage services on demand via an integrated platform that includes our automated bare metal solutions. We offer our next generation cloud platforms in our high density colocation facilities and utilize the INAP performance IP for low latency connectivity. 
+Cloud and Hosting Services
+
+Our cloud and hosting services segment consists of hosted Infrastructure-as-a-Service as a cloud platform or via managed hosting. For both Infrastructure-as-a-Service options, we provision and maintain the hardware, data center infrastructure and interconnection, while allowing our customers to own and manage their software applications and content.
+Cloud
+
+Cloud services involve providing compute and storage services via an integrated platform that includes servers, storage and network. Our Cloud offering provides customers with the ability to manage equally virtual and physical servers through an industry standard toolset and application program inerface ("API") interfaces. We deliver our cloud services in five locations across North America, Europe and the Asia-Pacific region.
+Managed Services and Hosting
+
+Managed hosting involves providing a single tenant infrastructure environment consisting of servers, storage and network. We deliver this customizable infrastructure platform based on enterprise-class technology to support complex application and compliance requirements for our customers. We deliver our managed hosting services in 11 locations across North America, Europe and the Asia-Pacific region.
+
+Additional information regarding our segments, including our financial results for the previous three fiscal years, can be found in Note 11 to the accompanying consolidated financial statements.
+Financial Information about Geographic Areas
+
+For each of the three years ended December 31, 2017, we derived more than 15% of our total revenues from operations outside the United States. Additional information regarding our geographic areas, including our financial results for the previous three fiscal years, can be found in note 11 to the accompanying consolidated financial statements.
+Research and Development
+
+Research and development costs are included in general and administrative costs and are expensed as incurred. These costs primarily relate to our development and enhancement of IP routing technology, hosting and cloud technologies and network engineering costs associated with changes to the functionality of our services. Research and development costs were $1.5 million, $1.1 million, and $2.2 million during the years ended December 31, 2017, 2016, and 2015, respectively. These costs do not include $5.2 million, $6.3 million, and $6.5 million of internal-use and available for sale software costs capitalized during the years ended December 31, 2017, 2016, and 2015, respectively.
+Competition
+
+The market for Internet infrastructure services is intensely competitive, remains highly fragmented and is characterized by rapid innovation, price sensitivity and consolidation. We believe that the principal factors of competition for service providers in our target markets include breadth of product offering, product features and performance, level of customer service and technical support, price and brand recognition. We believe that we can compete on the basis of these factors to varying degrees. Our current and potential competition primarily consists of:
+ 4
+
+
+• | Colocation providers, including CyrusOne, Equinix, CoreSite, QTS Realty Trust, ZColo and Cyxtera.
+
+
+• | Managed services and hosting providers, including: Rackspace, IBM Cloud, QTS, and CenturyLink, Inc. 
+
+
+• | Cloud providers, including IBM Cloud, OVH.com, Amazon Web Services, Microsoft Azure, and Google Cloud.
+
+Intellectual Property
+
+Our success and ability to compete depend in part on our ability to develop and maintain the proprietary aspects of our IT infrastructure services and operate without infringing on the proprietary rights of others. We rely on a combination of patent, trademark, trade secret and contractual restrictions to protect our proprietary technology. As of December 31, 2017, we had 23 patents (18 issued in the United States and 5 issued internationally) that extend to various dates between 2018 and 2034, and 14 registered trademarks in the United States. Although we believe the protection afforded by our patents, trademarks and trade secrets has value, the rapidly changing technology in our industry and uncertainties in the legal process make our future success dependent primarily on the innovative skills, technological expertise and management abilities of our employees rather than on the protection afforded by patent, trademark and trade secret laws. We seek to limit disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us.
+Employees
+As of December 31, 2017, we had approximately 503 employees. None of our employees are represented by a labor union, and we have not experienced any work stoppages. We generally believe our labor relations to be good.
+Available Information
+
+The Securities and Exchange Commission (“SEC”) maintains a website that contains reports, proxy and information statements, and other information regarding issuers, including the Company, that file electronically with the SEC. The public can obtain any documents that the Company files with the SEC at http://www.sec.gov. The Company files annual reports, quarterly reports, proxy statements and other documents with the SEC under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The public may read and copy any materials that the Company files with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+
+The Company also makes available free of charge through its website (www.INAP.com) the Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and, if applicable, amendments to those reports filed or furnished pursuant to the Exchange Act as soon as reasonably practicable after the Company electronically files such material with, or furnishes it to, the SEC. References to our website addressed in this Form 10-K are provided as a convenience and do not constitute, and should not be viewed as, an incorporation by reference of the information contained on, or available through, the website. Therefore, such information should not be considered part of this Form 10-K. 

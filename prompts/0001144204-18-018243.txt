@@ -1,0 +1,308 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business Description
+
+Overview
+--------
+
+ 
+Pareteum Corporation (NYSE American: TEUM) is a rapidly growing Cloud Communications Platform company with a mission - “to connect every person and every thing”™. With estimates of up to 30 billion devices to be managed and connected the total available market is astoundingly large.
+ 
+Service Providers, Brand Marketing Companies, Enterprise and Internet of Things providers use Pareteum to energize their growth and profitability through cloud communication services and complete turnkey solutions featuring relevant content, applications, and connectivity worldwide. To achieve this, Pareteum has developed patent pending software platforms which are connected to 45 Mobile networks in 65 counties using multiple different communications channels including mobile telephony, data, SMS, VOIP, OTT services – all over the world. Pareteum integrates all these disparate communications methods and services and brings them to life for customers and application developers, allowing communications to become value-added. This is a major strategic target for many industries, from legacy telecommunications providers to the disruptive technology and data enterprises of today and the future.
+ 
+The vast majority of our platform is comprised of our own development software, which provides our customers with a great deal of flexibility in how they use our products now and in the future and allows us to be market driven in our future.  Various patents we have applied for and been granted form the basis of work processes critical to our platform solution.  Our platform services partners (technologies integrated into our cloud) include: HPE, IBM, Sonus, Oracle, Microsoft, NetNumber, Affirmed and other world class technology providers. 
+ 
+Pareteum is a mission focused company empowering every person and every “thing” to be globally connected – ANY DEVICE, ANY NETWORK, ANYWHERE™. The Pareteum Cloud Communications Platform targets large and growing sectors from IoT (Internet of Things), Mobile Virtual Network Operators (MVNO), Smart Cities, and Application developer markets - each in need of mobile platforms, management and connectivity. These sectors need Communications-as-a-Service (CaaS), which Pareteum delivers. Our solutions have received industry acclaim. We are the recipients of:
+ 
+Winner of IoT Evolution’s 2017’s IoT Excellence Award 
+ 
+
+Winner of 2018’s Internet Telephony Product of the Year from TMC
+ 
+
+
+4
+-
+
+ 
+
+Winner of 2017’s Communications Solutions Product of the Year Award from TMC
+ 
+
+These accolades reflect that our Company is recognized as one of the world’s most Innovative and Excellent Cloud Communications Solutions, IoT and Internet Telephony enabling software and communications platform services providers that has no costly and capex intensive proprietary telco infrastructure.
+ 
+At Pareteum, our mission is to create an easily accessible open mobility system for the world. We believe that open software and interfaces for mobility and applications will create more innovation, economic freedom, and opportunity equality worldwide, just like the internet did for information.
+ 
+
+The Pareteum Ecosystem
+----------------------
+
+ 
+Our value proposition intersects with numerous applications and industries. It is our strong belief that no other company in the Communications-as-a-Service market offers similarly broad value in such a comprehensive way. An easily accessible open mobility system for the world is difficult to get started because it requires a “network effect”. The network effect is an observable condition that yields increased value to the “new easily accessible open mobility system for the world”, and all users of the system as more users come on board. The essence of this point is that every communication – a transaction – requires both a sender and recipient who are willing to access and use the new system. We aim to provide the marketplace exchange on which these transactions take place, and will attract new users.
+ 
+To overcome the difficulty of achieving the “network effect”, our strategy is to begin attracting new users into the mobility and digital applications space, via our initial use case (managed services platforms). Our customer deployed managed services platform does not require a network effect for success. This has been partially accomplished by deploying Managed Services for our anchor customers. This has begun the creation a critical mass of subscribers required for the network effect to develop. This network effect will be perfected by further deployments into new segments and geographies with our Global Mobility Cloud Services and our Applications Exchange and Development Platform.
+ 
+The Pareteum Ecosystem consists of three complementary platform suites: (1) the Managed Services Platform, (2) the Global Cloud Services Platform and (3) the Application Exchange & Developer Platform:
+ 
+Managed Services Platform
+ 
+Ø | Dynamic, fully-managed platform designed for Mobile Virtual Network Enabler (MVNE), large Mobile Network Operators (MNO) and virtual operators (MVNO) and Communication Service Providers (CSPs).
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Ø | Provides Integrated Operational and Billing Management platform (B/OSS) enabling real-time account (SIM) management, policy (service and rules) management and charging (pricing, rating, billing).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Ø | Strong authentication solution using multiple security factors.
+--+----------------------------------------------------------------
+
+Global Cloud Services Platform
+ 
+Ø | Cloud based platform for Communications Service Providers, IoT providers and Enterprises.
+--+------------------------------------------------------------------------------------------
+
+
+Ø | Delivers seamless operations and services that enable new capability and applications.
+--+---------------------------------------------------------------------------------------
+
+
+Ø | Increasingly automated and self-service solutions, services including Billing, Rating, and CRM.
+--+------------------------------------------------------------------------------------------------
+
+Application Exchange and Developer Platform
+ 
+Ø | Customers can easily integrate with our solutions through a robust set of APIs.
+--+--------------------------------------------------------------------------------
+
+
+Ø | Allows integration across any channel, for both new systems and legacy infrastructure.
+--+---------------------------------------------------------------------------------------
+
+
+Innovative Use Cases
+--------------------
+
+ 
+Many sectors, from traditional network operators to disruptive technology and data-driven companies have found many innovative use cases for our platforms. Beyond simply enabling communications between people and devices, the platforms of Pareteum enable:
+ 
+
+Ø | Smart homes, including smart appliances, smart energy meters, wearables etc.
+--+-----------------------------------------------------------------------------
+
+
+Ø | Connected cars
+--+---------------
+
+
+Ø | Smart cities
+--+-------------
+
+
+Ø | Smart logistics and supply chains
+--+----------------------------------
+
+
+Ø | Smart healthcare applications
+--+------------------------------
+
+
+Ø | Smart defense
+--+--------------
+
+
+5
+-
+
+
+Business Model
+--------------
+
+ 
+At Pareteum, our mission is to create an easily accessible open mobility system for the world. We believe that open software and interfaces for communications services will create more innovation, economic freedom, and opportunity equality worldwide, just like the internet did for information.
+ 
+However, an easily accessible open mobility system for the world is challenging to scale because it requires a “network effect”. The network effect is the principle that a service yields increased value as it grows. The essence of this point is that our business and our services will grow in value as we grow and scale. We aim to achieve that growth by providing the marketplace exchange on which these communications and transactions take place, and in doing so we attract new users and more customers.
+ 
+To achieve our desired and rapid growth, we are using our managed services solutions as a launching pad from which to grow our Global Cloud Services Platform and Application Exchange & Developer Platform. This process is already well underway, including with our anchor customers, Vodafone and Zain.
+ 
+
+Go-to-Market and Growth Strategy
+--------------------------------
+
+ 
+Pareteum is in fast-growth mode, which will be achieved through a combination of organic growth as well as targeted and accretive Mergers & Acquisitions.
+ 
+Pareteum continues to win new long-term contractual business at an unprecedented pace. We expect this pace to increase throughout the coming year and beyond. We see many new opportunities, including those that leverage our support of emerging technologies, which is at the heart of our identity management and payment systems integration plans.
+ 
+Our focus is on selling and implementing new communications services and IoT opportunities as fast as possible, as the world of connected devices and people continues to rise on a daily basis.
+ 
+We will measure our growth in the numbers of ‘Connections’ that we on-board to our platforms, be they SIM cards, handsets, devices, vehicles etc.
+ 
+Our go-to-market strategy uses a four-phase approach:
+ 
+
+Phase 1: | We continue to attract new subscribers across all verticals to all our platforms through direct sales, existing channel partnerships and new initiatives such as referral programs. 
+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Phase 2: | We will continue to on-board new communication services providers, force multiplying our own growth, largely through business development and direct sales in each of our four defined sales regions (North America, Latin America, Europe, Middle East, Africa, and Asia-Pac). 
+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Phase 3: | We will drive adoption through a twin approach. First, we will be on-boarding more Connections which are already active on our Managed Services and Global Cloud Platforms, as our initial user base. Second, we will be drawing in new customers and end-users to the Application Exchange & Developer Platform. These will be people with the greatest pain point, who are underserved by the current mobility networks and applications (including in developing markets).
+---------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Phase 4: | At this stage, our strategic Application Exchange & Developer Platform customers will have their own go-to-market strategy, creating shared value, ranging from traditional consumer strategies to sophisticated B2B and B2B2C strategies, driving and expanding our ecosystem to new heights. We also anticipate maturity in Blockchain deployments and smart-contracts creating new use-cases and revenue channels. 
+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The phases described above are already being implemented, in parallel as far as possible, for the fastest most sustainable growth and this highlights our strategy for accelerating the world’s shift to an open mobility and application network. When we’re successful, it will accelerate the pace of innovation in the world, create more economic freedom, and provide better mobility services to billions of underserved people.
+ 
+
+Employees & Leadership Team
+---------------------------
+
+ 
+As of December 31, 2017, the Company had 62 full-time employees worldwide.
+ 
+
+6
+-
+
+ 
+
+Pareteum is led by its Executive Chairman and Principal Executive Officer, Robert H. Turner, and CEO, Victor Bozzo, working closely with Ted O’Donnell (CFO), and the Company has significantly strengthened its leadership team with the addition of Rob Mumby (Chief Revenue Officer), Ali Davachi (COO/CTO) and Denis McCarthy (SVP Corporate Development).
+ 
+The leadership team has many decades of combined experience in fast-growing telecoms, software and technology markets.
+ 
+
+Research & Development
+----------------------
+
+ 
+Pareteum’s research and development function ensures that its communications platforms grow in line with customer needs and technological advancement, and remain resilient, reliable and secure. We have announced innovation in e-commerce, machine learning and predictive analytics, and mobile gaming all supported by our growing Pareteum application exchange, or TEAX, development community. The Pareteum blockchain-enabler platform is focused on delivering enabling technology to all of its customers and partners. The blockchain-enabler platform will change how our customers leverage blockchain technology, and will include support for smart-contracts and cryptocurrencies. Enabling our Communication-as-a-Service platform with identity management, transaction settlements and payment solutions greatly expands the opportunity for our customers and revenue streams for the Company. Product development expenses for the year ended December 31, 2017 were $1,479,587 compared to $3,543,590 for the year ended December 31, 2016. See our technical whitepaper on blockchain-enablement here:
+ https://www.pareteum.com/blockchain-whitepaper/.
+ 
+
+Intellectual Property
+---------------------
+
+ 
+Pareteum relies on a combination of patents, copyright, trademark and trade secret laws in the United States, Europe and elsewhere. The Company protects its brand and reputation through the exploitation of a number of registered and unregistered trademarks and service marks. Pareteum has two granted patents for inventions embedded in its communications platforms.
+ 
+The Pre-Authentication Login System grant number GB2541449 was granted in the United Kingdom on January 17, 2018 and expires on August 20, 2035.
+ 
+The SIM-free HLR Migration has patents in 2 jurisdictions. In the United Kingdom grant number GB2517814 was granted on September 16, 2015 and expires on April 4, 2034. In Hong Kong grant number HK1204418 was granted on April 22, 2016 and expires on April 4, 2034.
+ 
+Pareteum further protects its intellectual property rights by requiring all its employees and independent contractors involved in the development of intellectual property to assign those rights to the Company, to the greatest extent permitted by applicable law.
+ 
+
+Sales & Marketing
+-----------------
+
+ 
+Pareteum has begun to publish and market self service capabilities which will allow new customers to deploy our system capabilities such as adding mobility to their online applications in a seamless way, quickly all through published API’s from our community portals.
+ 
+
+Customers
+---------
+
+ 
+Pareteum manages a rigorous methodology from sale to revenue through its management of customer post-sale implementation and service delivery.
+ 
+A team of customer advocates is assigned to each new contract and a multi-step process of handoff from sales to service is handled by this distinct team which is made up of experienced staff around the globe and supported by back office professionals throughout the United States, United Kingdom, Europe, Middle East, Africa and Latin, America.
+ 
+The Company is dependent on one significant customer for our business and the loss of this customer could have an adverse effect on our business, results of operations and financial conditions. For the year ended December 31, 2017, we had one significant customer which accounted for 88% of our revenue.
+    
+Competitive Differentiation
+---------------------------
+
+ 
+The Communications-as-a-Service (CaaS) market is moving quickly. The Company believes that the key competitive differentiators in the near-term will be:
+ 
+
+§ | Scale and international reach of connectivity
+--+----------------------------------------------
+
+
+§ | Comprehensiveness of Platform offerings
+--+----------------------------------------
+
+
+§ | Ease of deployment and implementation
+--+--------------------------------------
+
+
+§ | Scalability and reliability of service
+--+---------------------------------------
+
+
+7
+-
+
+ 
+
+Pareteum considers itself well placed to be judged on those criteria. The Company is confident that its network of global and international connectivity partners will enable it to access markets that currently under-served and compete equally with larger competitors in mature markets. In addition, Pareteum is confident that few other players have the breadth of value-added services to complement the core connectivity platforms.
+ 
+Our competitors fall into three broad categories:
+ 
+
+§ | Traditional telecom/infrastructure vendors.
+--+--------------------------------------------
+
+
+§ | Large software solution and SaaS vendors - offering a suite of specialized software components, solutions and APIs.
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+§ | Niche solution providers, providing narrowly focused BSS/OSS and prepaid solutions.
+--+------------------------------------------------------------------------------------
+
+ 
+Some of our competitors have greater financial, technical and sales and marketing resources, as well as greater brand and market awareness, and consequently may be able to react more quickly to competitive pressures. As we execute on our growth strategies, and enter new markets, or disrupt markets and replace incumbents, we expect competition to become more intense.
+ 
+One key tenet in our competitive strategy, however, is to actually lower the competitive barriers to market for new players (customers) to create new mobility and communications applications and businesses. We intend to disrupt existing markets and have the advantage of quick time-to-market for those newly enabled business models and opportunities. These include, for example:
+ 
+
+§ | Uniquely tailored data services such as unlimited social media, messaging apps or streaming music services.
+--+------------------------------------------------------------------------------------------------------------
+
+
+§ | Global roaming connectivity without local infrastructure: e.g. business executives using a multi-SIM worldwide phone.
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+§ | Creation of personal, branded, mobile services.
+--+------------------------------------------------
+
+
+§ | One-stop shop for bundles of IoT and M2M services: through plug-ins to multiple vertical applications and specialized platforms.
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+Regulatory
+----------
+
+ 
+Pareteum is subject to a number of U.S. federal and state and foreign laws and regulations that involve matters central to our business. These laws and regulations may involve privacy, data protection, intellectual property, telecommunications, trade and export sanctions or other subjects. Many of the laws and regulations to which we are subject are still evolving and may be tested or varied in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the new and rapidly evolving markets in which we operate. Because applicable international laws and regulations have continued to develop and evolve rapidly, it is possible that we or our products or our platform may not be, or may not have been, compliant with each such applicable law or regulation.
+ 
+
+Corporate Information
+---------------------
+
+ 
+Pareteum Corporation, a Delaware corporation, was originally formed in 2001 as Elephant Talk Communications Corp. as a result of a merger between Staruni Corporation (USA, 1962) and Elephant Talk Limited (Hong Kong, 1994).
+ 
+In December 2011, the Company moved its listing from the OTCBB to the NYSE MKT (now known as the NYSE American) and its stock began trading at that time under the ticker symbol “ETAK”.
+ 
+Following approval at the Company’s 2016 annual shareholder meeting, the Company was rebranded and formally renamed to Pareteum Corporation and on November 3, 2016, the Company started trading on the Exchange under the current ticker symbol “TEUM”.
+ 
+Pareteum currently has offices in New York, Madrid, Barcelona, Bahrain and the Netherlands.
+ 
+Pareteum®, the Pareteum logo and other trademarks or service marks of Pareteum appearing in this Annual Report on Form 10-K are the property of Pareteum Corporation or its subsidiaries. Trade names, trademarks and service marks of other companies appearing in this Annual Report on Form 10-K are the property of their respective holders.
+ 
+
+8
+-
+

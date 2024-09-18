@@ -1,0 +1,310 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+General
+American Capital Senior Floating, Ltd. (which is referred to as “ACSF”, the “Company”, “we”, “us” and “our”), a Maryland corporation organized in February 2013 that commenced operations on October 15, 2013, is an externally managed, diversified closed-end investment management company. We have elected to be treated as a business development company (“BDC”) under the Investment Company Act of 1940, as amended, and the rules and regulations promulgated thereunder (the “1940 Act”). In addition, for U.S. federal income tax purposes, we have elected to be taxed as a regulated investment company (“RIC”), as defined in Subchapter M of the Internal Revenue Code of 1986, as amended (the “Code”). We are an “emerging growth company,” as defined in the Jumpstart Our Business Startups Act of 2012 (“JOBS Act”), and intend to take advantage of the exemption for emerging growth companies allowing us to temporarily forgo the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act of 2002. We do not intend to take advantage of other disclosure or reporting exemptions for emerging growth companies under the JOBS Act.
+In January 2014, we completed an initial public offering (“IPO”) of approximately 10.0 million shares of common stock at the public offering price of $15.00 per share for gross proceeds of $150.0 million. Since our IPO until January 3, 2017, we had been managed by American Capital ACSF Management, LLC (our “Prior Manager”), an indirect subsidiary of American Capital Asset Management, LLC (“ACAM”), which was a wholly owned portfolio company of American Capital, Ltd. (“American Capital”). On January 3, 2017, Ares Capital Corporation (NASDAQ: ARCC) (“Ares Capital”) completed its acquisition of American Capital (the “Acquisition”). In connection with the Acquisition, ACAM merged with and into Ivy Hill Asset Management, L.P. (“IHAM” or our “Manager”), a wholly owned portfolio company of Ares Capital, with IHAM being the surviving entity in such merger. Our Prior Manager terminated its business and registration as an investment adviser upon the closing of the Acquisition and is now a wholly owned subsidiary of IHAM.
+Our investment objective is to provide attractive, risk-adjusted returns over the long term primarily through current income while seeking to preserve our capital. Our Manager actively manages our leveraged portfolio composed primarily of diversified investments in first lien and second lien floating rate loans principally to large-market U.S.-based companies (collectively, “Senior Floating Rate Loans” or “SFRLs”), which are commonly referred to as leveraged loans. Standard and Poor’s (“S&P”), an independent international financial data and investment services company and provider of global equity indexes, defines large-market loans as loans to issuers with earnings before interest, taxes, depreciation and amortization (“EBITDA”) of greater than $50 million. We also invest in debt and equity tranches of collateralized loan obligations (“CLOs”), which are securitized vehicles collateralized primarily by SFRLs. In addition, we may selectively invest in loans issued by middle market companies, mezzanine and unitranche loans and high yield bonds. We may also from time to time hold or invest in other equity investments and other debt or equity securities generally arising from a restructuring of SFRL positions previously held by us. Under normal market conditions, we will invest at least 80% of our assets in SFRLs. 
+As of December 31, 2017, our portfolio totaled $229.2 million at fair value and our net asset value (“NAV”) was $130.9 million. Our portfolio was composed of 129 portfolio companies totaling $185.3 million at fair value, 25 CLO equity investments totaling $43.8 million at fair value and one investment in common equity/warrants totaling $0.1 million at fair value, each as of December 31, 2017. During our fiscal year ended December 31, 2017, we invested $154.6 million and investments sold or repaid totaled $171.8 million.
+Our Manager
+As described above, our investment adviser is IHAM, a wholly owned portfolio company of Ares Capital. IHAM is a SEC-registered investment adviser, comprised of an experienced team of investment professionals focused on investing in and managing primarily middle market senior secured assets through structured investment vehicles and managed accounts. As of December 31, 2017, IHAM had total assets under management of approximately $4.1 billion across 21 vehicles. Ares Capital is externally managed by its investment adviser, Ares Capital Management LLC, a subsidiary of Ares Management, L.P. (NYSE: ARES) (“Ares Management”), a publicly traded, leading global alternative asset manager. Ares Capital’s administrator, Ares Operations LLC (“Ares Operations”), a subsidiary of Ares Management, provides certain administrative and other services necessary for Ares Capital and IHAM to operate, including for IHAM to manage ACSF.
+We are externally managed by our Manager and do not have any employees. Our Manager is responsible for administering our business activities and day-to-day operations pursuant to the Management Agreement (as defined below), subject to the 
+3
+
+supervision and oversight of our Board of Directors (our “Board”). Most of the services necessary for creating our investment portfolio and making our investment decisions are provided by investment professionals employed by our Manager or certain of its affiliates. Further, pursuant to the Management Agreement, our Manager has agreed to provide us with certain administrative services. Our Manager provides such services to us via its administrative services agreement with Ares Operations, pursuant to which our Manager has access to their employees, providing such services as operations, finance, compliance, legal, capital markets, accounting, treasury, investor relations and information technology. See “—Management Agreement” below. 
+Investment Focus
+Our investment focus is primarily on SFRLs and CLOs and, under normal market conditions, we will have at least 80% of our assets in SFRLs. As a BDC, we are restricted from holding more than 30% of our assets in nonqualified investments, as defined by Section 55(a) of the 1940 Act. Investments in debt and equity tranches of CLOs are generally deemed nonqualified assets for BDC compliance purposes and therefore we are limited as to the amount of CLO investments we hold at any given time in our portfolio. 
+Senior Floating Rate Loans 
+SFRLs are loans generally issued by U.S.-based middle market and large market private and public companies. Issuers typically use SFRLs to refinance existing debt, finance acquisitions or leveraged buyouts, to pay dividends and for other general corporate purposes.
+Investors typically classify the loan market by issuer size. S&P defines large-market loans as loans to companies with EBITDA of greater than $50 million and middle-market loans as loans to companies with EBITDA of less than $50 million. 
+SFRLs pay interest based on a floating rate typically calculated as a spread over the London Interbank Offered Rate (“LIBOR”) or another market index. Interest rates are periodically reset to reflect changes in market index rates. As a result of the recent low interest rate environment, many SFRLs include provisions defining a minimum market index rate, also referred to as an interest rate floor. Spreads are typically expressed in basis points and are defined at origination and may be adjusted over the life of a loan to account for changes in a borrower’s credit profile according to predefined credit covenants. Market spreads vary according to market dynamics. SFRLs are generally structured as minimally-amortizing loans with quarterly interest payments and are typically collateralized by a company’s assets.
+SFRLs may be structured with various lien priorities, such as first lien and second lien, on underlying collateral. Principal payments are generally applied based on lien position with second lien loans generally paid after payments to first lien loans or other loans with seniority in priority of payments. As a result, second lien loans are generally riskier and therefore have a higher spread compared to first lien loans. The market for second lien loans is significantly smaller and less liquid than the market for first lien loans.
+SFRLs are generally rated “Ba1” or lower by Moody’s Investor Services, “BB+” or lower by S&P or “BB+” or lower by Fitch Ratings, Inc. (collectively, “below investment grade”). 
+SFRLs are typically arranged by a syndicate of investment or commercial banks, who syndicate loans to third-party investors (“the primary market”). After being placed into the primary market, investors may seek to buy and sell SFRL positions to other investors in over-the-counter transactions (the “secondary market”). We invest in SFRLs through both the primary and secondary markets.
+Our Manager seeks to concentrate our investment activities in SFRLs to those issued by companies with free cash flow generation, defensible market positions and attractive market dynamics. Our Manager and its affiliates have significant experience underwriting and managing investments across a number of industries and seek to create a diversified portfolio of investments across various industries in which they have direct expertise. 
+4
+
+Listed below are the top ten industries using the S&P industry classifications in which our SFRLs were invested as of December 31, 2017 and 2016, represented as a percentage of our consolidated investment portfolio at fair value, excluding CLO equity investments:
+
+Industry | 2017 | Industry(1) | 2016 
+Electronics/Electric | 16.7% | Electronics/Electric | 17.8%
+Health Care | 13.6% | Business Equipment and Services | 11.4%
+Business Equipment and Services | 8.6% | Health Care | 11.0%
+Aerospace and Defense | 7.0% | Diversified Insurance | 6.9% 
+Technology | 4.7% | Aerospace and Defense | 4.6% 
+Clothing/Textiles | 4.2% | Retailers (except food and drug) | 3.4% 
+Oil and Gas | 3.6% | Containers and Glass Products | 3.4% 
+Food/Drug Retailers | 3.0% | Food Products | 3.3% 
+Utilities | 2.7% | Clothing/Textiles | 3.2% 
+Chemical/Plastics | 2.6% | Industrial Equipment | 2.9% 
+
+(1) Certain S&P industry classifications as of December 31, 2016 were reclassified to conform to current period presentation
+Collateralized Loan Obligations
+A CLO is a special purpose vehicle that is formed to finance a pool of loans that meet predefined investment criteria. It is typically a managed vehicle that may trade and reinvest the loans and generally raises capital by issuing both debt and equity securities. Typically, a CLO will issue various classes, or “tranches,” of debt broadly categorized as senior and subordinate debt tranches as well as an equity tranche.
+CLO securities receive cash flows generated by underlying collateral according to a defined payment waterfall. Principal and interest payments to CLO debt tranches are typically paid sequentially, with senior debt tranches receiving cash flows prior to subordinate debt tranches. The risk and return to CLO debt tranches vary depending upon each tranche’s right to collect cash flows generated by the underlying collateral. CLO debt tranches are generally rated, with ratings ranging from the highest investment grade to below investment grade, with coupons commensurate with the risk of each tranche. CLO debt tranches are also generally structured with covenants which, if violated, divert cash flows to the senior tranches prior to making any interest or principal payments to subordinate debt tranches or equity tranches.
+Unlike debt securities issued by CLOs, CLO equity securities are not rated and do not have contractually stated payment schedules. At origination, the weighted average interest rate of all CLO debt tranches is generally lower than the weighted average interest earned by a CLO’s underlying collateral, resulting in an interest rate spread. CLO equity securities receive residual cash flows, or the interest spread, generated by the underlying collateral after obligated payments for CLO debt securities and other expenses of the CLO have been made. CLO equity tranches typically comprise approximately 10% of total capital raised by a CLO.
+CLOs are generally structured as managed entities, with a collateral manager assigned to manage the underlying CLO collateral within predefined investment criteria. CLOs are typically structured with a reinvestment period, during which prepayments and the sale of underlying collateral may be reinvested. Collateral managers are responsible for reinvesting proceeds for a CLO during the reinvestment period. By continuously reinvesting proceeds during the reinvestment period, the effective leverage on CLO equity securities is generally maintained during the reinvestment period.
+A result of the typical CLO structure is that CLO equity tranches can generate front-end loaded cash flows. CLO equity cash flows are also highly dependent on the credit performance of their underlying collateral pool. If loans within the collateral pool default, the reduced amount of performing collateral leads to lower cash flows available for distribution through CLO waterfalls, resulting in lower residual cash flows available for equity tranches. Residual cash flows are also impacted by changes in portfolio spreads for CLO collateral. Declines in spreads on newly issued collateral during the reinvestment period result in lower residual cash flows available for equity tranches.
+Our Manager focuses predominantly on CLOs collateralized primarily by SFRLs. Under normal market conditions, we expect to limit these investments to no more than 20% of the fair value of our portfolio. 
+5
+
+Current Market Conditions
+Economic and market conditions can impact our business and our investments in multiple ways, including the financial condition of the portfolio companies in which we invest, our investment returns, our funding costs, our access to the capital markets and our access to credit. The leveraged loan market has grown substantially in recent years with the amount of total leveraged loans outstanding exceeding $1 trillion as of December 31, 2017. Growth has largely been a function of the resilient performance of the asset class across multiple credit cycles coupled with the changing regulatory and investor landscape and the attractive floating rate nature of the assets. Despite uncertainties regarding economic and market conditions, the new issue loan pipeline in the leveraged loan market remains active, with first lien and second lien transactions that support leveraged buyouts, strategic acquisitions, plant expansions, recapitalizations and refinancings for mid to large-sized borrowers. 
+During the year ended December 31, 2017, leveraged loan market volumes were strong with total new-issue volume of $645 billion, exceeding the previous record of $607 billion in 2013. As M&A and leveraged buyout volume waned toward the end of the year, repricing activity picked up again in the fourth quarter, totaling $539 billion for the year. The average bid of the S&P/LSTA All-Loans Index ended the fourth quarter at 98.05 up from 97.98 in September 2017, but down slightly from 98.08 at year end of 2016. U.S. CLO new issuance, which excludes refinancings and resets, was $118 billion from 212 deals for the year ended December 31, 2017, marking the second-largest new issue year in the post-crisis era and up from $72 billion in 2016. See “Risk Factors — Risks Relating to Economic Conditions - Global economic, political and market conditions may materially and adversely affect our business, results of operations and financial condition, including our revenue growth and profitability” for additional information.
+Portfolio Valuation
+We value our investments on a quarterly basis, or more frequently if required, in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and the 1940 Act. See “Note 6 — Investments” in this Annual Report on Form 10-K.
+Employees
+We do not have any employees. We are managed by our Manager pursuant to the Management Agreement between our Manager and us. 
+Investment Committee
+Our Manager has established an investment committee consisting of Steven Alexander, Kevin Braddish, Ryan Cascade, Shelly Cleary, Mitch Goldstein, David Sachs, Stephanie Setyadi and Michael Smith. Among other things, the Investment Committee is responsible for (i) determining the composition of our investment portfolio and (ii) evaluating and ultimately approving each investment decision that we make.
+Underwriting Process
+Our Manager's investment philosophy and portfolio construction generally involve deliberate company-specific research and analysis and an assessment of the overall macroeconomic environment and financial markets. Our Manager's investment process emphasizes due diligence on companies, with a focus on principal protection, relative value and adherence to portfolio guidelines. 
+Analysts conduct research in order to gain an understanding of the security, issuer and industry dynamics. This includes analyzing a company’s business model, management team and industry positioning, with a focus on strong franchises with leading and defensible market share, margins and free cash flow. Particular attention is paid to the nature and tenure of a company’s relationships with both customers and suppliers and management’s ability to operate the business over the course of an industry cycle. In addition to management teams with significant industry experience and long standing track records, our Manager favors companies in which management’s incentives are properly aligned with those of investors. 
+The process through which our Manager makes an investment decision generally involves research into the target company, its industry, its growth prospects and its ability to withstand adverse conditions. As part of the research process, our Manager's analysts may participate in a management meeting, speak with third party industry experts (suppliers, customers, competitors, etc.) and other sell-side and buy-side research analysts to formulate an investment thesis. Cash flow projection models 
+6
+
+are typically built and sensitized based upon a variety of scenarios to evaluate the target company’s liquidity and financial flexibility, as well as its ability to generate consistent free cash flow and service its debt. 
+Structural analysis is also a key component of our Manager's credit research process through which the analysts seek to ensure adequate coverage and downside protection. Analysts pay close attention to an issuer’s collateral (if applicable) and enterprise value as well as the investment's position within a capital structure in order to determine repayment priority and recovery value in a downside or stress-tested scenario. In addition, the analyst team reviews the legal terms of the debt instrument under consideration. 
+Our Manager’s investment philosophy in conjunction with its due diligence process forces it to think critically about factors that drive credit performance. Each credit investment is subject to approval by the Investment Committee which includes senior members across our Manager and Ares Management. The ability to draw from this extensive knowledge base provides a level of experience, oversight and expertise that our Manager believes gives it a compelling competitive advantage. 
+Additionally, our Manager benefits from the broader Ares Management platform, which as of December 31, 2017, had approximately $106 billion of assets under management and over 1,000 employees, including approximately 395 investment professionals. In particular, our Manager is able to leverage the deal flow, research and credit expertise of the Ares Credit Group, which as of December 31, 2017, had approximately $72 billion of assets under management, including $17 billion of assets under management in its broadly syndicated loan strategy and approximately $5 billion of structured credit assets under management invested across multiple actively managed strategies.
+Portfolio Management
+Our Manager believes strong performance is driven by both insightful credit selection and vigilant risk management. As such, in order to maximize returns for stockholders, it employs robust portfolio and risk management processes. Such processes include monitoring market conditions, loan prices and the performance of our investments. As a result of such portfolio and risk management processes, our Manager may change the portfolio composition as it deems appropriate. Our Manager’s investment professionals benefit from having invested through multiple industry and credit cycles and thus have the experience to recognize credit-specific events, both positive and negative (depending on the strategy), as well as sector rotation opportunities.
+Our Manager performs a review and reevaluation of our investments on at least a quarterly basis. As part of this process, our Manager typically reviews the investment thesis for each position, as well as the financial performance, other credit issues, trading levels and relative value of our positions to similar securities in the market. That analysis provides the basis for, and updates to, our Manager’s investment decisions for each portfolio position. Positions that are significantly underperforming or trading at depressed levels will be placed on a watch list and monitored more frequently.
+Our Manager’s portfolio management process typically extends beyond the quarterly review processes. The senior investment team often receives real-time updates on portfolio company earnings, significant announcements and secondary trading price levels from the team of credit analysts and traders.
+Management Agreement 
+Prior to January 3, 2017 we were managed by our Prior Manager, an indirect wholly owned subsidiary of American Capital, pursuant to a management agreement dated January 15, 2014 between us and our Prior Manager (the “Prior Management Agreement”). On January 3, 2017, we entered into an interim management agreement with IHAM pursuant to Rule 15a-4 adopted under the 1940 Act (the “Interim Management Agreement”). The Prior Management Agreement was automatically terminated in accordance with its terms on January 3, 2017 as a result of its deemed “assignment” under the 1940 Act, following the acquisition of American Capital by Ares Capital on January 3, 2017. On May 19, 2017, a new management agreement with IHAM was approved by our stockholders (the “Management Agreement”), and we entered the Management Agreement with our Manager.
+The Management Agreement provides that our Manager will be compensated for serving as ACSF’s investment adviser at the same rate as in the Prior Management Agreement: an annual rate of 0.80% of our total consolidated assets, excluding cash and cash equivalents and net unrealized appreciation or depreciation, each as determined under GAAP at the end of the most recently completed fiscal quarter. There is no incentive compensation paid to our Manager. For the year ended December 31, 2017, we incurred a total management fee of $2.1 million under the Management Agreement and the Interim Management Agreement. For the years ended December 31, 2016 and 2015, we incurred a management fee of $2.0 million and $2.2 million, respectively, under the Prior Management Agreement.
+7
+
+Pursuant to the Prior Management Agreement, our Prior Manager agreed to be responsible for certain of our operating expenses in excess of 0.75% of our consolidated net assets, less net unrealized appreciation or depreciation, each as determined under GAAP at the end of the most recently completed fiscal quarter for the first 24 months following the date of our IPO in January 2014 (the “Prior Expense Cap”). The Prior Expense Cap was voluntarily extended by our Prior Manager until the termination of the Prior Management Agreement, and thus the Prior Expense Cap expired on January 3, 2017.
+Beginning in the first quarter of 2017, our Manager voluntarily agreed to be responsible for certain of our 2017 quarterly other operating expenses in excess of a certain percentage of our consolidated net assets, less net unrealized appreciation or depreciation, each as determined under GAAP (individually, for each such quarter, a “Voluntary Expense Cap” and collectively, the “Voluntary Expense Caps”). The first quarter 2017 Voluntary Expense Cap was calculated based on an annual rate of 0.75% of our consolidated net assets less net unrealized gain or loss as of March 31, 2017. The second quarter 2017 Voluntary Expense Cap and third quarter 2017 Voluntary Expense Cap were calculated based on an annual rate of 1.00% of our consolidated net assets less net unrealized gain or loss as of June 30, 2017 and September 30, 2017, respectively. The fourth quarter 2017 Voluntary Expense Cap was calculated based on an annual rate of 1.25% of our consolidated net assets less unrealized gain or loss as of December 31, 2017. Our Manager has not agreed to be responsible for any of our operating expenses beyond December 31, 2017.
+ For the year ended December 31, 2017, our Manager was responsible for $0.7 million of our operating expenses as a result of the applicable Voluntary Expense Caps. For the years ended December 31, 2016 and 2015, our Prior Manager was responsible for $1.3 million and $0.9 million, respectively, of operating expenses as a result of the Prior Expense Cap.
+
+In addition, our Manager has entered into an administrative services agreement with Ares Operations pursuant to which our Manager will be provided with personnel, services and resources necessary for our Manager to perform its obligations under the Management Agreement including the provision of certain additional administrative services. See “Risk Factors — Risks Related to Our Relationship with our Manager and Ares Management” for additional information.
+Additionally, ACSF Funding I, LLC, a wholly owned special purpose financing vehicle (“ACSF Funding”), has entered into an investment advisory agreement, dated January 3, 2017, with our Manager to manage its assets. No additional compensation is payable to our Manager under such agreement. See “Note 7 — Debt” in this Annual Report on Form 10-K.
+Expenses
+We do not have any employees and do not pay our officers any cash or non-cash equity compensation. We pay, or reimburse our Manager and its affiliates, for expenses related to our operations incurred on our behalf, but excluding employment-related expenses of our Manager’s employees and any employees of Ares Management or its affiliates who provide services to us pursuant to the Management Agreement or to our Manager pursuant to the administrative services agreement with Ares Operations. In accordance with the terms of our Prior Management Agreement, our Prior Manager voluntarily agreed to limit the amount of operating expenses subject to reimbursement by us to the amount of the Prior Expense Cap. The Management Agreement does not provide for such a limitation; however, our Manager voluntarily agreed to limit the amount of operating expenses subject to reimbursement by us to the amount of the Expense Cap. See “—Management Agreement” above for more information. The costs and expenses required to be paid by us include, but are not limited to:
+
+• | certain costs incurred in connection with capital raising activities;
+
+
+• | transaction costs incident to the acquisition, disposition, financing, hedging and ownership of our investments;
+
+
+• | diligence costs incurred for prospective investments;
+
+
+• | expenses incurred in contracting with third-parties;
+
+
+• | external legal, auditing, accounting, consulting, investor relations, portfolio valuation, brokerage and administrative fees and expenses;
+
+
+• | the compensation and expenses of our independent directors and the cost of liability insurance to indemnify our directors and officers and the officers and employees of our Manager and its affiliates who provide services to us;
+
+
+• | the costs associated with our establishment and maintenance of any indebtedness (including interest expense, commitment fees, accounting fees, legal fees, closing costs, rating agency fees and similar expenses);
+
+
+• | expenses relating to the payment of distributions to stockholders;
+
+
+• | costs incurred by our Board and personnel of our Manager or its affiliates for travel on our behalf;
+
+8
+
+
+• | expenses relating to communications to holders of our securities and in complying with the continuous reporting and other requirements of the U.S. Securities and Exchange Commission (“SEC”) and other governmental bodies;
+
+
+• | tax and license fees applicable to us and our subsidiaries, including external fees for tax and regulatory compliance;
+
+
+• | insurance costs incurred by us and our subsidiaries;
+
+
+• | transfer agent, custodial, trustee, third-party loan administration and exchange listing fees;
+
+
+• | the costs of printing and mailing proxies and reports to our stockholders;
+
+
+• | the costs of establishing and maintaining our website;
+
+
+• | all costs of organizing, modifying or dissolving our company or any subsidiary and costs in preparation of entering into or exiting any business activity;
+
+
+• | our pro rata portion of costs associated with any computer software, hardware or information technology services that are used by us or our Manager on our behalf;
+
+
+• | our pro rata portion of the costs and expenses incurred with respect to market information systems and publications, research publications and materials used by us or our Manager on our behalf;
+
+
+• | settlement, clearing, trustee, prime brokerage and custodial fees and expenses relating to us;
+
+
+• | the costs of maintaining compliance with all federal, state and local rules and regulations or any other regulatory agency (as such costs relate to us), all taxes and license fees and all insurance costs incurred on behalf of us;
+
+
+• | the costs of administering our equity incentive plans, if any; and
+
+
+• | our pro rata portion of rent (including disaster recovery facility costs and expenses), telephone, utilities, office furniture, equipment, machinery and other office, internal and overhead expenses of our Manager and its affiliates required for our operations.
+
+Pursuant to the Management Agreement and the Interim Management Agreement, for the year ended December 31, 2017, we incurred $0.1 million of rent and overhead expenses that were reimbursable to our Manager. Pursuant to our Prior Management Agreement, we were responsible for reimbursing our Prior Manager, American Capital and its affiliates, for certain expenses incurred on our behalf. For the years ended December 31, 2016 and 2015, we incurred $0.8 million and $0.9 million, respectively, of such expenses that were reimbursable to our Prior Manager.
+Competitive Advantages
+We believe we have competitive advantages over other operators in the leveraged loan market and other BDCs that allow us to deliver attractive risk-adjusted returns to our stockholders. Our advantages include the following characteristics:
+Established Platform
+IHAM’s senior investment professionals and Investment Committee members have, on average, over 20 years of experience investing across the loan market and in multiple credit cycles. As of December 31, 2017, IHAM managed approximately $4.1 billion of investments across multiple CLOs and other managed accounts. As of December 31, 2017, there are 13 investment professionals employed by IHAM who are dedicated to underwriting SFRLs and CLO investments, among other things. 
+Ares Management Relationship
+IHAM leverages its relationship with Ares Management, which was built upon the fundamental principle that each investment group benefits from being part of the larger whole. We believe Ares Management’s current investment platform provides a competitive advantage in terms of access to extensive financial sponsor and intermediary relationships, which provide valuable insight and access to transactions and information. Ares Management’s asset management platform also provides timely information about industry and market trends and deal flow that benefits IHAM’s investment and due diligence process and enhance its ability to assess shifts in relative value and risk. Additionally, given Ares Management is one of the most active participants in the broadly syndicated and leveraged loan and CLO market, we benefit from both extensive and direct access to the primary and secondary markets.
+9
+
+Actively Managed Granular Portfolio
+Our portfolio is granular with the maximum loan obligor exposure as of December 31, 2017 of 1.4% and an average position size of 0.6% of the portfolio, at fair value. Due to the size and liquidity available in the loan market, our Manager is able to actively manage our portfolio and respond to changes in credit quality or market tones to seek to ensure the portfolio is optimized for the benefit of our stockholders. During the year ended December 31, 2017, our portfolio turnover ratio was 64.7%.
+Consistent Investment Philosophy and Process 
+IHAM's investment process, portfolio construction and portfolio management combine a value-oriented approach based on fundamental research and comprehensive due diligence designed to identify the most attractive risk adjusted return opportunities within our investable universe. 
+IHAM seeks to create value by focusing its efforts in three main areas:
+
+• | Seeking an information advantage: IHAM believes that by integrating fundamental research, public and proprietary data, and information gleaned across the Ares Management platform, it has the opportunity to uncover or develop an information advantage about our investments, thereby capturing value or identifying downside risks; 
+
+
+• | Conducting rigorous, bottom-up research and analysis and mitigating downside risks: IHAM’s investment process includes the integration of Ares Management’s fundamental credit research and insights and involves daily judgments about risk and value within the loan markets based on these insights. IHAM’s investment process is designed specifically to permit the team to conduct extensive, rigorous analysis on each investment it considers. Thus IHAM believes it adds value in terms of risk and long-term performance by avoiding certain credit securities and specifically selecting those that have both fundamental quality and structural integrity; and 
+
+
+• | Diversification: IHAM believes strongly in the benefits of diversification. Within a SFRL and CLO-focused strategy, diversification involves managing position sizes and having a diversification of credit strategies within the underlying loan portfolios, CLO managers, and structural features that IHAM believes will allow for differentiated performance across different market and economic conditions.
+
+Portfolio Management
+IHAM manages our portfolio through a well-defined underwriting and portfolio management process that leverages the established platform of IHAM. We believe this reduces the downside risk to our stockholders and provides a scalable framework for investing in the future.
+Extensive Industry Focus
+IHAM seeks to focus its investing activities in industries in which the Ares Management investment professionals have had extensive investment experience. IHAM organizes its investment professionals into industry groups, giving them added expertise in their field, and provides access to research in approximately 60 industries through Ares Management. As of December 31, 2017, Ares Management oversaw a portfolio of investments in over 1,480 companies, approximately 505 structured assets and approximately 170 properties across approximately 60 industries. We benefit from these relationships, information and identification of potential trends in making investments.
+Competition
+Our primary competitors include other BDCs, CLO investors, other credit focused investment funds, commercial and investment banks, commercial financing companies, insurance companies and, to the extent they provide an alternative form of financing, hedge funds. Many of our competitors are substantially larger and may have greater financial, technical and marketing resources than we do. For example, we believe some competitors may have access to funding sources that are not available to us. In addition, some of our competitors may have higher risk tolerances or different risk assessments, which could allow them to consider a wider variety of investments and establish more relationships than we can. Furthermore, many of our competitors are not subject to the regulatory restrictions that the 1940 Act imposes on us as a BDC or the requirements we must satisfy to maintain our qualification as a RIC. For additional information concerning the competitive risks we face, see “Risk Factors — Risks Related to Our Business and Structure - We operate in a highly competitive market for investment opportunities”.
+10
+
+REGULATION
+Business Development Company Requirements
+We are an externally managed, diversified closed-end management investment company that has elected to be treated as a RIC under the Code. We have elected to be regulated as a BDC under the 1940 Act. The 1940 Act contains prohibitions and restrictions relating to transactions between BDCs and their affiliates (including any investment advisers), principal underwriters and affiliates of those affiliates or underwriters and requires that a majority of our directors be persons other than “interested persons,” as that term is defined in the 1940 Act, referred to herein as “independent directors.” In addition, the 1940 Act provides that we may not change the nature of our business so as to cease to be, or to withdraw our election as, a BDC unless approved by a majority of our outstanding voting securities. We may invest up to 100% of our assets in securities acquired directly from issuers in privately negotiated transactions. With respect to such securities, we may, for the purpose of public resale, be deemed an “underwriter” as that term is defined in the Securities Act of 1933, as amended (the “Securities Act”). Our intention is to not write (sell) or buy put or call options to manage risks associated with the publicly traded securities of our portfolio companies, except that we may enter into hedging transactions to manage the risks associated with interest rate currency or foreign exchange rate fluctuations.
+
+However, we may purchase or otherwise receive warrants to purchase the common stock of our portfolio companies in connection with acquisition financing or other investments. Similarly, in connection with an acquisition, we may acquire rights to require the issuers of acquired securities or their affiliates to repurchase them under certain circumstances. We also do not intend to acquire securities issued by any investment company that exceed the limits imposed by the 1940 Act. Under these limits, we generally cannot acquire more than 3% of the total outstanding voting stock of any registered investment company, invest more than 5% of the value of our total assets in the securities of one investment company or invest, in the aggregate, more than 10% of the value of our total assets in the securities of more than one investment company. With regard to that portion of our portfolio invested in securities issued by investment companies, it should be noted that such investments might subject our stockholders to additional expenses. None of these policies is fundamental and may be changed without stockholder approval.
+We are also required to provide and maintain a bond issued by a reputable fidelity insurance company to protect us against larceny and embezzlement. Furthermore, as a BDC, we are prohibited from protecting any director or officer against any liability to us or our stockholders arising from willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of such person’s office. 
+Qualifying Assets
+As a BDC, we may not acquire any asset other than certain qualifying assets described in the 1940 Act, unless, at the time the acquisition is made, the value of such qualifying assets represent at least 70% of the value of our total assets. The principal categories of qualifying assets relevant to our business include the following:
+
+• | securities purchased in transactions not involving any public offering from:
+
+
+(a) | an issuer that (i) is organized and has its principal place of business in the United States, (ii) is neither an investment company other than a wholly owned small business investment company nor an entity that would be an investment company but for certain statutory exemptions, and (iii) does not have any class of securities listed on a national securities exchange with a market capitalization in excess of $250 million; or
+
+
+(b) | an issuer that satisfies the criteria set forth in clauses (a) (i) and (ii) above but not clause (a)(iii), so long as, at the time of purchase, we own at least 50% of (i) the greatest amount of equity securities of the issuer, including securities convertible into such securities and (ii) the greatest amount of certain debt securities of such issuer, held by us at any point in time during the period when such issuer was an eligible portfolio company, except that options, warrants, and similar securities which have by their terms expired and debt securities which have been converted, or repaid or prepaid in the ordinary course of business or incident to a public offering of securities of such issuer, shall not be considered to have been held by us, and we are one of the 20 largest holders of record of such issuer’s outstanding voting securities;
+
+
+• | securities of an issuer described in clauses (a)(i) and (ii) above with respect to which we control (alone or together as a part of a group), we in fact exercise a controlling influence over such issuer’s management or policies and a person affiliated with us is on the issuer’s board of directors;
+
+
+• | securities received in exchange for or distributed with respect to securities described above, or pursuant to the exercise of options, warrants or rights relating to such securities; and
+
+11
+
+
+• | cash, cash items, U.S. government securities, or high quality debt securities maturing in one year or less from the time of investment.
+
+Managerial Assistance to Portfolio Companies
+In order to count portfolio securities as qualifying assets for the purpose of the 70% test, we must either control the issuer of the securities or must offer to make available to the issuer of the securities significant managerial assistance; except that, where we purchase such securities in conjunction with one or more other persons acting together, one of the other persons in the group may make available such managerial assistance. This assistance could involve monitoring the operations of our portfolio companies, participating in board and management meetings, consulting and advising officers of portfolio companies and providing other organizational and financial guidance. We may receive fees for these services and will reimburse our Manager for its allocated costs in providing such assistance, subject to the review and approval by our Board, including our independent directors.
+Temporary Investments
+Pending investment in other types of qualifying assets described in the 1940 Act, we may invest our funds in cash items, government securities, agency paper or high quality debt securities maturing in one year or less from the time of investment in such high quality debt investments. We refer to such assets and cash herein as temporary investments.
+Leverage
+We have, and intend to utilize, leverage on our investment portfolio. Our leverage may vary periodically depending on market conditions, our portfolio composition and our Manager’s assessment of risks and returns. We may finance our assets, subject to market conditions, through a combination of financing arrangements, including, but not limited to, warehouse facilities, securitizations and term financing facilities. The 1940 Act permits us, as a BDC, to issue senior securities in amounts such that our asset coverage is at least 200% after each issuance of senior securities. Asset coverage is defined in the 1940 Act as the ratio which the value of the total assets, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness. Such indebtedness may also be incurred for the purpose of effecting share repurchases. As a result, we are exposed to the risks of leverage. As permitted by the 1940 Act, we may, in addition, borrow amounts up to 5% of our total assets for temporary purposes.
+Under the 1940 Act, if a BDC has any senior debt securities outstanding that were publicly issued, the BDC must make provision to prohibit the declaration of any dividend (except a dividend payable in the stock of the BDC) if its asset coverage is below 200% at the time of the distribution after deducting the amount of such dividend.
+Issuance of Stock
+As a BDC, we are generally not able to issue and sell our common stock at a price below our NAV per share, exclusive of any distributing commission or discount, except (i) with the prior approval of a majority of our stockholders, (ii) in connection with a rights offering to our existing stockholders or (iii) under such other circumstances as the SEC may permit.
+Code of Ethics
+We and our Manager have each adopted the Code of Ethics that applies to our officers and directors and the officers and employees of our Manager, Ares Operations and its affiliates who provide services to us. Among other matters, our Code of Ethics is designed to deter wrongdoing and to promote honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships; full, fair, accurate, timely and understandable disclosure in our SEC reports and other public communications; compliance with applicable governmental laws, rules and regulations; prompt internal reporting of violations of the code to appropriate persons identified in the code; and accountability for adherence to the code. Our Code of Ethics also establishes procedures for personal investments and restricts certain personal securities transactions pursuant to Rule 17j-1 under the 1940 Act. Personnel subject to the Code of Ethics may invest in securities for their personal investment accounts, including securities that may be purchased or held by us, so long as such investments are made in accordance with the Code of Ethics’ requirements. The Code of Ethics is available, free of charge, on our website at www.ACSF.com or www.AmericanCapitalSeniorFloating.com. A copy of our Code of Ethics can also be obtained free of charge by writing to: American Capital Senior Floating, Ltd., 245 Park Avenue, 42nd Floor, New York, NY 10167 or by calling us collect at (212) 750-7300.
+12
+
+Proxy Voting Policies and Procedures
+Our investments do not generally entitle us to voting rights in our portfolio companies. We have delegated our proxy voting responsibility to our Manager for portfolio companies in which we may have voting rights. Our Manager has adopted proxy voting policies and procedures, which will be reviewed periodically by our Manager and our disinterested directors, and accordingly, are subject to change.
+As an investment adviser registered under the Advisers Act, our Manager has a fiduciary duty to act solely in the best interests of its clients. As part of this duty, our Manager recognizes that it must vote client securities in a timely manner free of conflicts of interest and in the best interests of its clients. Our Manager’s policies and procedures for voting proxies are intended to comply with Section 206 of, and Rule 206(4)-6 under, the Advisers Act.
+Our Manager’s Policy
+Under our Manager’s proxy voting policies and procedures, officers of our Manager will consult with each other and our senior investment team in determining how to vote, taking into account our and our stockholders’ interests, any potential conflicts of interest and any voting guidelines of our Manager. Our Manager will consult with legal counsel to identify potential conflicts of interest. Where a potential conflict of interest exists, our Manager may, if it so elects, resolve it by following the recommendation of a disinterested third-party, by seeking the direction of our disinterested directors or, in extreme cases, by abstaining from voting. While our Manager may retain an outside service to provide voting recommendations and to assist in analyzing votes, our Manager will not delegate its voting authority to any third-party.
+An officer of our Manager will keep a written record of how all such proxies are voted. Our Manager will retain records of (i) proxy voting policies and procedures, (ii) all proxy statements received (or it may rely on proxy statements filed on the SEC’s EDGAR system in lieu thereof), (iii) all votes cast, (iv) investor requests for voting information and (v) any specific documents prepared or received in connection with a decision on a proxy vote. If it uses an outside service, our Manager may rely on such service to maintain copies of proxy statements and records, so long as such service will provide a copy of such documents promptly upon request. You may obtain information regarding how we voted proxies, free of charge, by making a written request for proxy voting information to: American Capital Senior Floating, Ltd., 245 Park Avenue, 42nd Floor, New York, NY 10167 or by calling us collect at (212) 750-7300.
+Sarbanes-Oxley Act of 2002 
+The Sarbanes-Oxley Act imposes a wide variety of regulatory requirements on publicly held companies and their insiders. Many of these requirements affect us. For example:
+
+• | pursuant to Rule 13a-14 of the Securities Exchange Act of 1934 (the “Exchange Act”), our Chief Executive Officer and Chief Financial Officer must certify the accuracy of the financial statements contained in our periodic reports;
+
+
+• | pursuant to Item 307 of Regulation S-K, our periodic reports must disclose our conclusions about the effectiveness of our disclosure controls and procedures;
+
+
+• | pursuant to Rule 13a-15 of the Exchange Act, beginning with our fiscal year ending December 31, 2015, our management must prepare an annual report regarding its assessment of our internal control over financial reporting, which must be audited by our independent registered public accounting firm beginning with the first fiscal year in which we do not qualify as an emerging growth company; and
+
+
+• | pursuant to Item 308 of Regulation S-K and Rule 13a-15 of the Exchange Act, our periodic reports must disclose whether there were significant changes in our internal controls over financial reporting or in other factors that could significantly affect these controls subsequent to the date of their evaluation, including any corrective actions with regard to significant deficiencies and material weaknesses.
+
+The Sarbanes-Oxley Act requires us to review our current policies and procedures to determine whether we comply with the Sarbanes-Oxley Act and the regulations promulgated thereunder. We will continue to monitor our compliance with all regulations that are adopted under the Sarbanes-Oxley Act and will take actions necessary to ensure that we are in compliance with that act.
+13
+
+JOBS Act 
+We are an “emerging growth company,” as defined in the JOBS Act until the earliest of:
+
+• | the last day of our fiscal year ending December 31, 2019;
+
+
+• | the last day of the fiscal year in which our total annual gross revenues first exceed $1 billion;
+
+
+• | the date on which we have, during the prior three-year period, issued more than $1 billion in non-convertible debt; and
+
+
+• | the last day of a fiscal year in which we (1) have an aggregate worldwide market value of our common stock held by non-affiliates of $700 million or more, computed at the end of each fiscal year as of the last business day of our most recently completed second fiscal quarter and (2) have been an Exchange Act reporting company for at least one year (and filed at least one annual report under the Exchange Act).
+
+Under the JOBS Act, we are exempt from the provisions of Section 404(b) of the Sarbanes-Oxley Act, which would require that our independent registered public accounting firm provide an attestation report on the effectiveness of our internal control over financial reporting. This may increase the risk that material weaknesses or other deficiencies in our internal control over financial reporting go undetected.
+Under the JOBS Act, emerging growth companies are permitted to cover only two years of financial information in the Management’s Discussion and Analysis of Financial Condition and Results of Operations disclosures. In addition, for the presentation of “selected financial data,” which ordinarily covers five years, an emerging growth company may omit selected financial data for any period prior to the earliest audited period presented in its initial registration statement. Because we are not taking advantage of this relief under the JOBS Act, such relief has not impacted the disclosures we make in this Annual Report on Form 10-K.
+Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards until such time as those standards apply to private companies. We have made an irrevocable election not to take advantage of this exemption from new or revised accounting standards. We will therefore be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies.
+Taxation as a RIC
+We have elected to be treated as a RIC for U.S. federal income tax purposes. As a RIC, we generally will not have to pay corporate-level U.S. federal income taxes on any ordinary income or capital gains that we timely distribute to our stockholders as dividends. To qualify as a RIC, we must, among other things, meet certain source-of-income and asset diversification requirements, as described below. In addition, to be relieved of U.S. federal income taxes on income and gains distributed to our stockholders, we must distribute to our stockholders, for each taxable year, at least 90% of our “investment company taxable income,” which is generally our net ordinary income plus the excess of realized net short-term capital gains over realized net long-term capital losses (the “Annual Distribution Requirement”).
+If we qualify as a RIC and meet the Annual Distribution Requirement, then we will not be subject to U.S. federal income tax on the portion of our investment company taxable income and net capital gains, defined as net long-term capital gains in excess of net short-term capital losses, we distribute to stockholders. We will be subject to U.S. federal income tax at regular corporate rates on any investment company taxable income or net capital gain not distributed (or deemed distributed) to our stockholders. 
+We will be subject to a nondeductible U.S. federal excise tax of 4% on our undistributed “ordinary income” and “capital gain net income” (each as defined below) unless for each calendar year we distribute (including through “deemed distributions” as described below) an amount equal to or greater than the sum of (a) 98% of our “ordinary income” (generally, our taxable income excluding net short-term and net long-term capital gains or losses for the calendar year), (b) 98.2% of our “capital gain net income” (including both net short-term and net long-term capital gains over capital losses) realized, subject to certain modifications, for the 12-month period ending October 31 of such calendar year, and (c) any income recognized, but not distributed, in the preceding years. For this purpose, however, any ordinary income or capital gain net income retained by us that is subject to corporate income tax for the tax year ending in the calendar year will be considered to have been distributed by year end. See “Risk Factors — Risks Related to Our Business and Structure — We may be subject to additional corporate-level income taxes if we fail to maintain our status as a RIC” for additional information.
+14
+
+Privacy Principles
+We endeavor to maintain the privacy of our recordholders and safeguard their non-public personal information. The following information is provided to help our recordholders understand what personal information we collect, how we protect that information and why, in certain cases, we may share information with select other parties.
+Generally, we will not receive any non-public personal information about recordholders of our common stock, although certain of our recordholders’ non-public information may become available to us. The non-public personal information that we may receive falls into the following categories:
+
+• | information we receive from recordholders, whether we receive it orally, in writing or electronically. This includes recordholders’ communications to us concerning their investment;
+
+
+• | information about recordholders’ transactions and history with us; and
+
+
+• | other general information that we may obtain about recordholders, such as demographic and contact information such as address.
+
+We do not disclose non-public personal information about recordholders, except:
+
+• | to our affiliates (such as our Manager) and their employees for everyday business purposes;
+
+
+• | to our service providers (such as our accountants, attorneys, custodians, transfer agent, underwriters and proxy solicitors) and their employees, as is necessary to service recordholder accounts or otherwise provide the applicable service;
+
+
+• | to comply with court orders, subpoenas, lawful discovery requests or other legal or regulatory requirements; or
+
+
+• | as allowed or required by applicable law or regulation.
+
+When we share non-public recordholder personal information referred to above, the information is made available for limited business purposes and under controlled circumstances designed to protect our recordholders’ privacy. We do not permit use of recordholder information for any non-business or marketing purpose, nor do we permit third parties to rent, sell, trade or otherwise release or disclose information to any other party.
+Our service providers, such as our Manager and transfer agent, are required to maintain physical, electronic, and procedural safeguards to protect recordholder non-public personal information, to prevent unauthorized access or use and to dispose of such information when it is no longer required.
+Personnel of affiliates may access recordholder information only for business purposes. The degree of access is based on the sensitivity of the information and on personnel need for the information to service a recordholder’s account or comply with legal requirements.
+If a recordholder ceases to be a recordholder, we will adhere to the privacy policies and practices as described above. We may choose to modify our privacy policies at any time. Before we do so, we will notify recordholders and provide a description of our privacy policy.
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets, we reserve the right to transfer non-public personal information of holders of our securities to the new party in control or the party acquiring assets.
+Information Available
+Our address is 245 Park Avenue, 42nd Floor, New York, NY 10167. Our phone number is (212) 750-7300, and our internet address is www.ACSF.com. We make available, free of charge on our website, our proxy statement, Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports as soon as reasonably practicable after we electronically file such material with, or furnish it to the SEC. Information contained on our website is not incorporated by reference into this Annual Report on Form 10-K and you should not consider information contained on our website to be part of this Annual Report on Form 10-K or any other report we file with the SEC. 
+The SEC also maintains a website that contains reports, proxy and information statements and other information we file with the SEC at www.sec.gov. The public may read and copy these reports, proxy and information statements at the SEC’s Public 
+15
+
+Reference Room in Washington, D.C. Copies of these reports, proxy and information statements and other information may also be obtained, after paying a duplicating fee, by electronic request at the following email address: publicinfo@sec.gov, or by writing the SEC’s Public Reference Section, 100 F Street, N.E., Washington, D.C. 20549. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330.
+16
+

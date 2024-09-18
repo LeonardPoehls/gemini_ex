@@ -1,0 +1,398 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.   BUSINESS 
+OVERVIEW 
+ We are a biopharmaceutical company engaged in the research and development of innovative therapeutics to treat cancers and rare diseases. Our mission is to discover, develop and commercialize novel small molecule drugs in areas of high unmet need that will dramatically extend and improve the lives of our patients. These product candidates target biological pathways implicated in a wide range of cancers and certain non-oncology indications. Our discovery and development efforts are guided, when possible, by an understanding of the role of biomarkers, which are indicators of a particular biological condition or process and may predict the clinical benefit of our compounds in defined patient populations. Our clinical-stage pipeline consists of five product candidates, all of which are in targeted patient populations, making ArQule a leader among companies our size in precision medicine. 
+ ArQule has a long history of kinase drug discovery and development, having discovered and introduced ten kinase inhibitors into clinical trials. Our drug discovery efforts have been informed by our historical expertise in chemistry, our work in rational drug design and by our insight into kinase binding and regulation. We have applied this knowledge to produce significant chemical matter for a number of kinase targets and to build an extensive library of proprietary compounds with the potential to target multiple kinases in oncology and other therapeutic areas, such as rare diseases. We may bring further preclinical programs forward and interrogate our library against new targets beyond kinases either directly or with collaborators. 
+ Our proprietary pipeline of product candidates is directed toward molecular targets and biological processes with demonstrated roles in the development of both human cancers and rare, non-oncology diseases. All of these programs are being developed in targeted, biomarker-defined patient populations. By seeking out subgroups of patients that are most likely to respond to our drugs, we intend to identify small, often orphan, indications that allow for focused and efficient development. At the same time, in addition to pursuing these potentially fast-to-market strategies, we also pursue development in other indications that could allow us to expand the utility of the drugs if approved. The pipeline includes the following wholly-owned compounds: 
+ •
+
+ ARQ 531, an orally bioavailable, potent and reversible inhibitor of both wild type and C481S-mutant BTK, in Phase 1 for B-cell malignancies refractory to other therapeutic options; 
+ ​
+ •
+
+ Miransertib (ARQ 092), a selective inhibitor of AKT, a serine/threonine kinase, in Phase 1/2 in rare Overgrowth Diseases and in Phase 1 in the rare disease, Proteus syndrome, in partnership with the National Institutes of Health (NIH); also in Phase 1b in oncology in combination with the hormonal therapy, anastrozole;
+ ​
+ •
+
+ Derazantinib (ARQ 087), a multi-kinase inhibitor designed to preferentially inhibit the FGFR family of kinases, in a registrational trial in intrahepatic cholangiocarcinoma (iCCA) in patients with FGFR2 fusions; 
+ ​
+ •
+
+ ARQ 751, a next-generation inhibitor of AKT, in Phase 1 for solid tumors harboring the AKT1 or PI3K mutation; and 
+ ​
+ •
+
+ ARQ 761, a ß-lapachone analog being evaluated as a promoter of NQO1-mediated programmed cancer cell death, in Phase 1/2 in multiple oncology indications in partnership with The University of Texas Southwest Medical Center. 
+ ​
+ Tivantinib (ARQ 197), an orally administered, small molecule inhibitor of the c-Met receptor tyrosine kinase and its biological pathway is no longer being developed. We licensed commercial rights to tivantinib for human cancer indications to Daiichi Sankyo Co., Ltd. (“Daiichi Sankyo”) in the U.S., Europe, South America and the rest of the world, excluding Japan and certain other Asian countries, where we licensed commercial rights to Kyowa Hakko Kirin Co., Ltd. (“Kyowa Hakko Kirin”).
+
+ 4
+
+ TABLE OF CONTENTS​
+  OUR STRATEGY 
+ Our strategy is to build a commercial-stage biotechnology company that uses precision medicine to develop small molecule drugs in biomarker-defined patient populations where such drugs are likely to have the greatest clinical benefit. Specifically, we intend to accomplish this through the following activities:
+ •
+
+ Advance proprietary pipeline programs to achieve rapid proof of principal and approval. Derazantinib (formerly, ARQ 087) is in a potential fast-to-market, registrational trial in approximately 100 patients with iCCA with FGFR2 fusions; ARQ 531 is in a Phase 1a trial and will be advanced into a Phase 1b study where it will have the opportunity to show rapid proof of principle in the biomarker­defined C481S-mutant BTK patient population; and miransertib (formerly, ARQ 092) is in a Phase lb trial in combination with the aromatase inhibitor, anastrozole, in patients with the AKT1 mutation that could quickly lead to a late-stage development strategy.
+ ​
+ •
+
+ Pursue precision medicine. We pursue precision medicine approaches with our proprietary pipeline to define patient populations with the highest likelihood of benefitting from our therapies based on our insights into functional biomarkers, with the goal of achieving greater speed, efficiency and enhanced outcomes in the development process. All of our drug candidates are being developed in clinical trials with biomarker-defined populations. 
+ ​
+ •
+
+ Expand into rare diseases. We have expanded beyond oncology into rare disease indications by utilizing our oncology expertise in targets that are common to both disease settings. In all instances, we pursue a biomarker-defined precision medicine strategy in areas of high unmet need that also provide the opportunity for accelerated development. We launched a Phase 1/2 trial in PIK3CA-Related Overgrowth Spectrum (PROS) in Q2 of 2017 and intend to launch a registrational program in Proteus syndrome with the NIH in 2018. 
+ ​
+ •
+
+ Continue to expand diagnostic expertise through collaborations. We have extensive experience partnering with diagnostic companies for clinical trials in many parts of the world. In early clinical testing, we often utilize existing diagnostic technology to identify patient subsets with the highest likelihood of clinical benefit. In later-stage clinical development, particularly in registrational trials such as our trial in iCCA with derazantinib, we collaborate with experienced diagnostic partners to support our clinical and commercial precision medicine strategy.
+ ​
+ •
+
+ Benefit from the resources and strength of collaborators. We pursue alliances for our programs with pharmaceutical and biotechnology companies, as well as research institutions and independent investigators, to finance operations, offset spending, balance risk, and gain expertise.
+ ​
+ •
+
+ Focus on cancer, a market with large unmet need. Cancer is the second most common cause of death in the U.S. According to the American Cancer Society, in 2017 approximately 601,000 cancer-related deaths were projected to occur and more than 1.7 million new cases of cancer were projected to be diagnosed in the U.S. Demographic trends and improved screening are expected to increase the rate of cancer diagnoses, as approximately 87 percent of cancers occur in the over-50-year-old population. We launched two new trials in oncology in 2017, a registrational trial with our FGFR inhibitor, derazantinib (ARQ 087) in iCCA, and a Phase 1a/b study with our BTK inhibitor, ARQ 531, in B-cell malignancies.
+ ​
+
+​
+  5
+
+ TABLE OF CONTENTS​
+  GOALS FOR PIPELINE DEVELOPMENT
+ The chart below summarizes the current stage of our proprietary pipeline of product candidates and our goals for the next stage of each candidate’s development.
+ 
+OUR PRODUCT CANDIDATES
+ BTK Program: ARQ 531 
+ Overview 
+ ARQ 531 is an investigational, orally bioavailable, potent and reversible inhibitor of both wild type and C481S-mutant Bruton’s tyrosine kinase (BTK). BTK is a key component of the B-cell receptor (BCR) signaling pathway and has emerged as a critical target in the treatment of B-cell malignancies. The leading approved BTK inhibitor, ibrutinib, improves survival in chronic lymphocytic leukemia (CLL) compared to standard chemotherapy or immune therapy. However, in a subset of patients, somatic mutation (C481S) of the BTK binding site results in acquired resistance to ibrutinib therapy and in poor clinical outcomes for these patients. 
+ ARQ 531 has demonstrated promising activity in both in vitro and in vivo models. These data suggest that ARQ 531 could be effective against both C481S-mutant BTK and in other indications where ibrutinib is not highly effective. The Company intends to pursue an expedited development strategy in patients with the C481S mutation and also explore other indications in B-cell malignancies where ARQ 531 shows greatest promise. The company filed an IND application in Q1 2017 and began dosing a Phase 1a/b clinical trial for ARQ 531 in Q3 2017. 
+ Background on BTK Inhibitors 
+ B-cell malignancies, like CLL, diffuse large B-cell lymphoma (DLBCL) and mantle cell lymphoma (MCL) are driven by BTK. The leading BTK inhibitor, ibrutinib, is irreversible and makes a covalent bond with the C481 residue of the targeted protein. Although ibrutinib has demonstrated excellent responses in patients with elevated BCR signaling, clinical resistance has been observed, and the BTK C481S-mutation that prevents covalent binding of ibrutinib to BTK is emerging as a predominant mechanism of resistance. 
+
+ 6
+
+ TABLE OF CONTENTS
+  Currently it is estimated that approximately 20% of patients treated with ibrutinib become refractory, or resistant, to ibrutinib, and this incidence rate is expected to grow as more patients are prescribed ibrutinib and patient time on therapy increases. The BTK-C481S mutation is the most prevalent resistance mechanism for patients who become refractory to ibrutinib, representing approximately 85% of refractory cases in CLL. Currently there is no approved targeted therapy for ibrutinib refractory patients with the C481S mutation. 
+ ARQ 531 is a highly optimized, small molecule, reversible inhibitor of C481S-mutant BTK and wild type BTK. As a reversible inhibitor, ARQ 531 does not require interaction with the C481 residue, a binding site essential for irreversible ibrutinib binding to BTK, thus potentially positioning ARQ 531 as a targeted therapy for CLL, DLBCL and MCL patients harboring C481S-mutant BTK who have developed resistance to irreversible BTK inhibitors. ARQ 531 has also demonstrated strong signs of preclinical activity in wild type BTK models, including the highly predictive TCL1 mouse model conducted by our collaborators at The Ohio State University. These and other data suggest additional development opportunities for ARQ 531. 
+ Key Characteristics of ARQ 531 
+ •
+
+ Oral, reversible inhibitor of both wild type and C481S-mutant BTK 
+ ​
+ •
+
+ Potently inhibits activation of the C481S mutant with long residence time 
+ ​
+ •
+
+ Showed remarkable efficacy in in vivo TCL1 mouse model, improving survival to a greater extent than ibrutinib 
+ ​
+ •
+
+ Good ADME profile and excellent oral bioavailability in several species 
+ ​
+ •
+
+ Composition of matter patent protection through December 2035 
+ ​
+ Preclinical Development of ARQ 531 
+ The first preclinical data on ARQ 531 were presented at the Pan Pacific Lymphoma Conference and the American Society of Hematology Conference in 2016. 
+ At the Pan Pacific Lymphoma Conference data from the TMD8 xenograft mouse model demonstrated strong in vivo target and pathway inhibition of BTK by ARQ 531 with sustained tumor growth inhibition. ARQ 531 also demonstrated biochemical inhibition of both wild type and C481S-mutant BTK at nanomolar levels and potent cellular inhibition in C481S-mutant BTK cells that are resistant to ibrutinib. Data presented also demonstrated a distinct kinase selectivity profile of ARQ 531 with inhibitory activity against key oncogenic targets related to ibrutinib resistance. Additionally, the data showed that the compound potently suppressed cell proliferation of hematological malignancies in vitro, with B-cell receptor signaling inhibition. ARQ 531 also demonstrated strong in vivo target and pathway inhibition of pBTK with potent and durable growth suppression. 
+ At the 2016 American Society of Hematology Annual Meeting in a poster presented by our collaborator, The Ohio State University, multi-targeted inhibition of cytokine, chemokine, and BCR pathways by ARQ 531 decreased activation, migration, and viability of CLL cells. Additional data presented showed that unlike ibrutinib, ARQ 531 inhibits activation of C481S-mutated BTK variants and maintains cytotoxicity in ibrutinib resistant clones. The molecule was also shown to demonstrate remarkable efficacy in an in vivo TCL1 mouse model, improving survival to a greater extent than ibrutinib and restoring granulocyte production. Our collaborator concluded these data warrant advancing ARQ 531 into clinical trials. 
+ Clinical Development of ARQ 531 
+ We filed a U.S. IND application for ARQ 531 in Q1 of 2017 and commenced a Phase 1a/b trial in Q3 2017 to study the safety of ARQ 531, look for signs of activity in a number of indications, including in CLL patients harboring the BTK-C481S mutation, and to identify a therapeutic dose. We are currently dosing patients in the Phase  1a portion of the trial and intend to advance ARQ 531 into a Phase 1b basket study of approximately 80 – 100 patients, including those with the C481S mutation and other B-cell 
+
+ 7
+
+ TABLE OF CONTENTS
+  malignancies where ARQ 531 is expected to show promise in late 2018 or early 2019. For later stage clinical testing, we initially plan to pursue a fast-to-market strategy in patients with the C481S mutation. In addition, because ARQ 531 potently inhibits wild type BTK and other kinases relevant to B-cell malignancies, we expect to evaluate ARQ 531 in other indications where ibrutinib is not highly effective and where ARQ 531 could be superior. 
+ AKT Program: Miransertib (ARQ 092) and ARQ 751 
+ Overview 
+ Miransertib (ARQ 092) and next generation AKT inhibitor, ARQ 751, are oral, potent and selective inhibitors of the AKT serine/threonine kinase. AKT1, AKT2 and AKT3 are key signaling protein kinases of the PI3K/AKT/mTOR pathway that are involved in processes associated with cancer such as cell proliferation, migration, survival and protein synthesis. Activation of this pathway is common in many cancers, suggesting that AKT kinases are compelling targets for the treatment of oncology indications. 
+ Dysregulation of AKT is also a driver of certain rare proliferative disorders. For example, the E17K mutation of AKT1 causes Proteus syndrome, a rare non-cancerous segmental overgrowth disorder, and the analogous PIK3CA-Related Overgrowth Spectrum (PROS) is caused by genetic alterations in the PI3K pathway. Miransertib and ARQ 751 have been shown preclinically and clinically to inhibit AKT and PI3K cell signaling and therefore may provide the potential for much-needed treatment options for patients with these diseases. 
+ Background on AKT inhibitors 
+ There are currently no approved AKT inhibitors for the treatment of cancers or rare overgrowth diseases, although there are a number of drug candidates in various stages of clinical testing in oncology. Miransertib and ARQ 751 are investigational, allosteric inhibitors of AKT1, 2 and 3. Both molecules are derived from a proprietary chemical class with distinct ADME and pharmacokinetic (PK) properties. Because ARQ 092 and ARQ 751 do not bind AKT at the ATP binding site, they are differentiated from ATP-competitive inhibitors of AKT, and we believe may provide greater selectivity and possibly fewer toxicities. 
+ Key Characteristics of Miransertib 
+ •
+
+ Potent, selective, allosteric pan-AKT inhibitor 
+ ​
+ •
+
+ Clinical effect observed in a number of oncology patients showing RECIST responses 
+ ​
+ •
+
+ Knock down of AKT signaling observed in patients at low doses, presenting attractive profile for treatment of rare diseases 
+ ​
+ •
+
+ Manageable safety profile at higher doses in oncology 
+ ​
+ •
+
+ Good drug-like properties 
+ ​
+ Preclinical Development of Miransertib 
+ Preclinical studies of miransertib showed high potency against AKT1, 2 and 3, with nanomolar inhibition of downstream proteins. Cancer cells that harbor the E17K-AKT1 mutation, H1047R-PIK3CA mutation or are PTEN-null are the most sensitive to miransertib. Good tumor growth inhibition was observed in human tumor xenograft mouse models or PDX models of endometrial cancer and breast cancer harboring these mutations. In other preclinical studies, miransertib demonstrated combinability with standard of care in multiple cancer types, including in combination with trametinib for endometrial cancer, and in combination with paclitaxel or trastuzumab for breast cancer. 
+Clinical Development of Miransertib – Non-oncology (Rare Diseases) 
+ We are collaborating with the National Institutes of Health (NIH) on the clinical development of miransertib for treatment of patients with Proteus syndrome. Proteus syndrome is driven by the E17K-AKT1 mutation, and data from the NIH’s Phase 1 trial with miransertib confirmed biological 
+
+ 8
+
+ TABLE OF CONTENTS
+  activity in 5 out of 6 patients treated where the protocol defined decrease in AKT signaling of greater than 50% at the starting dose of 10 mg was observed. Having achieved in vitro and in vivo proof of concept, and in order to accelerate the development process, we initiated an ArQule-sponsored trial in Q2 2017 in patients with Overgrowth Diseases, including patients with Proteus syndrome, called PROS (PIK3CA-Related Overgrowth Spectrum) that we believe are sensitive to miransertib. 
+ In our Phase 1/2 study in PROS, we are treating patients with extensive disease with the objective of identifying an effective dose as well as relevant potential endpoints for the next stage of clinical testing. In addition, we are providing, in selected cases, miransertib on a named patient basis. Based on requests received to date, these named patients are often younger, have rapidly progressing disease and are in significant need of potential treatment options.
+ In addition, we plan to initiate with the NIH a registrational program with miransertib in patients with Proteus Syndrome in 2018.
+ Rare Pediatric Disease Designation
+ In Q4 2017 we received rare pediatric disease designation from the FDA in connection with Proteus syndrome. The designation provides the opportunity for us to apply for a rare pediatric disease priority review voucher. The FDA awards priority review vouchers to sponsors of rare pediatric disease product applications that meet specified criteria. Under this program, a sponsor like ArQule who may receive approval for a drug in a rare pediatric disease may qualify for a voucher that can be redeemed to receive priority review of a subsequent marketing application for a different product. If received, the pediatric voucher confers a valuable benefit to companies working in areas where the commercial opportunity is not as great as in other diseases.
+Clinical Development of Miransertib – Oncology 
+ Miransertib is being tested in two Phase 1 clinical trials for oncology indications. The first trial evaluates the safety, tolerability, PK and pharmacodynamics (PD) of miransertib patients with advanced solid tumors and recurrent malignant lymphomas to define a RP2D. The study is active and recruitment has been completed. In this study, miransertib demonstrated a manageable safety profile and showed single agent activity, achieving partial responses in a number of tumors harboring AKT1 or PI3K mutations. A  Phase 1b trial evaluating miransertib in combination with the aromatase inhibitor, anastrozole, in patients with advanced endometrial cancer is currently ongoing. 
+ARQ 751 
+ Key Characteristics of ARQ 751 
+ •
+
+ Highly potent and selective allosteric pan-AKT inhibitor 
+ ​
+ •
+
+ Differentiated toxicology profile from miransertib suggests improved therapeutic index 
+ ​
+ •
+
+ Differentiated pharmacokinetic profile from miransertib may lead to more favorable dosing characteristics 
+ ​
+ •
+
+ Prolonged growth inhibition in several tumor xenograft mouse models 
+ ​
+ •
+
+ Good drug-like properties 
+ ​
+ Development of ARQ 751 
+ ARQ 751 is our next generation AKT inhibitor. It is a highly potent pan-AKT inhibitor. Its profile is similar to miransertib but shows a 5 to15 fold increase in potency across binding, biochemical and cellular assays. ARQ 751 is differentiated at the ADME and PK levels, as it has lower volume of distribution and does not accumulate in tissues, making dosing ARQ 751 more precise. In GLP-toxicity studies in rats and monkeys, ARQ 751 had fewer and less severe rashes, a toxicity common to all AKT inhibitors in development.
+
+ 9
+
+ TABLE OF CONTENTS
+  ARQ 751 is currently being tested in a Phase 1 clinical trial for oncology indications. The ongoing trial is a dose escalation study of ARQ 751 in patients with advanced solid tumors with AKT1, 2 and 3 genetic alterations, activating PI3K mutations or PTEN-null to define a RP2D. 
+ FGFR Program: Derazantinib (ARQ 087) 
+ Overview 
+ Derazantinib (ARQ 087) is an investigational, oral, multi-kinase inhibitor designed to preferentially inhibit the FGFR family of kinases with demonstrated activity in FGFR2 genetic alterations, including fusions. Fibroblast growth factors and their receptors tightly regulate key cellular behaviors, such as proliferation, cell differentiation, cell migration, cell survival and angiogenesis. FGFR dysregulation has been identified as a driver in a number of cancers, including iCCA, cholangiocarcinoma, bladder, endometrial, breast, gastric, lung and ovarian. Current scientific literature suggests FGFR dysregulation exists in anywhere from 5% to 40% of these cancers. 
+ Derazantinib has demonstrated in vivo inhibition of tumor growth and downstream signaling in tumors whose growth is driven by FGFR targets. Additionally, derazantinib has demonstrated favorable clinical data in a biomarker driven Phase 1/2 trial in iCCA targeting patients with FGFR2 fusions. Both the FDA and European Medicines Agency (EMA) have granted us orphan drug designation for this disease. We initiated a registrational, biomarker-driven trial in this indication in Q3 2017. 
+ Background on FGFR Inhibitors 
+ Increased understanding of tumor biology has led to the identification of tumor drivers like epidermal growth factor receptor, vascular endothelial growth factor and FGFR whose inhibition by targeted agents has shown antitumor activity and in some cases led to approval of drugs such as Tarceva™ and Nexavar™. The FGFR family consists of four genes encoding tyrosine kinase receptors (FGFR1, FGFR2, FGFR3, and FGFR4). 
+ In human cancers, FGFRs have been found to be dysregulated by multiple mechanisms, including aberrant expression, mutations, chromosomal rearrangements, and amplifications. derazantinib is a potent FGFR inhibitor that shows strong anti-proliferative activity in cell lines harboring FGFR2 alterations. In clinical testing the molecule has demonstrated activity in cancerous tumors harboring FGFR2 fusions in iCCA and bladder cancers. Given the high unmet need and activity observed to date in our Phase 1/2 clinical trial, we have selected iCCA as our first indication in a registrational trial. 
+ About iCCA 
+ iCCA is a rare type of bile duct cancer that originates from the intrahepatic biliary ductal system and forms an intrahepatic mass. The disease is often diagnosed late because it presents as asymptomatic. There are currently no approved therapies for iCCA, but treatment is based on the patient’s stage of the cancer when diagnosed and include resection, chemoradiation and systemic chemotherapy. 
+ We are pursuing a precision medicine approach to iCCA because molecular characterization of iCCA by next generation sequencing (NGS) and fluorescence in situ hybridization (FISH) have enabled identification of genetic alterations that can potentially be treated by targeted therapies like derazantinib. Scientific studies suggest that 10% to 20% of the iCCA population has a FGFR2 fusion. 
+ Key Characteristics of Derazantinib 
+ •
+
+ Multi-kinase inhibitor that potently inhibits FGFR1, 2 and 3 with demonstrated clinical activity 
+ ​
+ •
+
+ Positive response rate observed in biomarker-defined iCCA population with FGFR2 fusions 
+ ​
+ •
+
+ Safety profile differentiated from other FGFR inhibitors 
+ ​
+ •
+
+ Consistent drug exposure with once-a-day dosing regimen 
+ ​
+ •
+
+ Drug profile allows for combinability 
+ ​
+
+​
+  10
+
+ TABLE OF CONTENTS​
+  Preclinical Development of Derazantinib 
+ The first preclinical data on derazantinib was presented at a scientific congress in 2013, and in 2016 a more comprehensive drug profile was published in the journal, PLOS ONE. The data demonstrate potent in vitro and in vivo activity in FGFR2 driven models. Additionally, the data show derazantinib inhibits the active and inactive forms of FGFR1 and FGFR2 and has strong anti-proliferative activity in cell lines driven by FGFR2, inducing G1 cell cycle arrest and cell death in FGFR2 amplified cell lines. Further preclinical studies have demonstrated that biochemically, derazantinib potently inhibits FGFR1, FGFR2, mutant FGFR2 (N549H), and FGFR3 kinases, with IC50 values in the low nanomolar range in biochemical assays. Cell proliferation studies demonstrated that derazantinib has anti-proliferative activity in different cell lines with higher activity in those cells driven by FGFR dysregulation, including amplifications, fusions, and mutations. 
+Clinical Development of Derazantinib 
+ ArQule began a Phase 1a trial with derazantinib for the treatment of advanced solid tumors in December 2012. The primary objective of the Phase 1 trial was to determine safety, tolerability and recommended Phase 2 dose (RP2D). In the Phase 1a study derazantinib showed a manageable safety profile in subjects with advanced solid tumors. The RP2D has been defined as 300 mg once-a-day. 
+ The Phase 1a trial enrolled 12 iCCA patients including five with FGFR2 fusions, six without FGFR2 fusions and one unknown mutation. Of the five iCCA patients with FGFR2 fusions, two reported partial responses as a best response with tumor shrinkage of over 30%, and three reported stable disease as a best response. Of the six iCCA patients without FGFR2 fusions, all progressed while on therapy. 
+ Based on clinical data derived from the Phase 1a trial, we decided to initiate a Phase 1b trial for ARQ 087 in solid tumors with FGFR2 fusions and in parallel, we initiated the Phase 2 portion of the trial to enroll second-line iCCA patients with FGFR2 fusions. 
+ In total 29 iCCA second-line patients with FGFR2 fusions were enrolled in the Phase 1a and Phase 2 portions of the trial. We observed six partial responses out of 29 evaluable patients representing a 21% response rate. A retrospective analysis of the current literature suggests a response rate of approximately 7.7% to chemotherapy in the second-line iCCA population. Additionally, a 83% disease control rate and median time on treatment of over 26 weeks were observed in the trial, and the drug has demonstrated a manageable side effect profile. 
+ The Company initiated a registrational, biomarker-driven trial in second-line iCCA patients with FGFR2 fusions in Q4 2017. The trial is designed to be single-arm, response rate driven and will enroll approximately 100 patients in the U.S. and EU. If the trial is successful, the Company will seek conditional approval of derazantinib with the FDA.
+ NQO1 Program: Cancer 
+ We are collaborating with the University of Texas Southwestern Medical Center on the clinical development of ARQ 761, an intravenously administered analogue of ß-lapachone, a naturally occurring substance. ARQ 761 is a pro-drug of ARQ 501, which has demonstrated in vitro activity against a wide range of solid tumors. Phase 1a testing with ARQ 761 identified anti-cancer activity as measured by tumor responses that occurred exclusively in a portion of the patient population with high levels of NQO1, the mechanistic target of the compound. Consequently, Phase 1b expansion cohorts for ARQ 761 will focus on patients whose tumors have high levels of NQO1. In 2015, a Phase 1b/2 trial was initiated with ARQ 761 in pancreatic cancer. 
+CORPORATE PARTNERSHIPS 
+ Daiichi Sankyo Co., Ltd. 
+ As previously reported, on December 18, 2008, we entered into a license, co-development and co-commercialization agreement with Daiichi Sankyo to conduct research, clinical trials and the commercialization of tivantinib in human cancer indications in the U.S., Europe, South America and the 
+
+ 11
+
+ TABLE OF CONTENTS​
+  rest of the world, excluding Japan, China (including Hong Kong), South Korea and Taiwan, where Kyowa Hakko Kirin has exclusive rights for development and commercialization. On February 17, 2017, we and Daiichi Sankyo announced that the MET-IV-HCC trial did not meet its primary end point of improving OS. As a result, Daiichi Sankyo and we have discontinued development of tivantinib. 
+Kyowa Hakko Kirin Co., Ltd 
+ As previously reported, on April 27, 2007, we entered into an exclusive license agreement with Kyowa Hakko Kirin to develop and commercialize tivantinib in Japan and parts of Asia. Revenue for this agreement was recognized using the contingency-adjusted performance model with an estimated development period through December 31, 2016. On March 27, 2017, we reported that Kyowa Hakko Kirin announced top-line results of the JET-HCC Phase 3 trial of tivantinib in Japan, and that the trial did not meet its primary endpoint of improving PFS. As a result, Kyowa Hakko Kirin has discontinued development of tivantinib in the Asian territory. 
+Roivant Sciences 
+ In February 2018 Roivant Sciences Ltd. and ArQule, Inc. announced the initiation of a collaboration to pursue the development of derazantinib, a pan-FGFR (fibroblast growth factor receptor) inhibitor, in Greater China. As part of the collaboration, ArQule has granted a Roivant subsidiary (Sinovant) an exclusive license to develop and commercialize derazantinib in the People’s Republic of China, Hong Kong, Macau, and Taiwan. Deal terms include an upfront payment to ArQule of $3 million and an additional $2.5 million development milestone within the first year. ArQule is also eligible for an additional $82 million in regulatory and sales milestones. Upon commercialization, ArQule will receive double digit royalties in the low teens from Sinovant on net sales of derazantinib in the Greater China territory. 
+PATENTS AND PROPRIETARY RIGHTS 
+ We rely principally on patent and trade secret protection for our intellectual property, both in the U.S. and other countries. While many patent applications have been filed in the U.S., the European Union (“E.U.”) and other foreign countries with respect to our drug candidates, many of these have not yet been issued or allowed. The patent positions of companies in the biotechnology industry and the pharmaceutical industry are highly uncertain and involve complex legal and factual questions. Therefore, we cannot predict the breadth of claims, if any, that may be allowed under any of our patent applications, or the enforceability of any of our issued patents. 
+ Patents extend for varying periods according to the date of patent filing or grant and the legal term of patents in the various countries where patent protection is obtained. The actual protection afforded by a patent, which can vary from country to country, depends on the type of patent, the scope of its coverage and the availability of legal remedies in the country. 
+ As and when needed to support our current or future research and development programs, we may from time to time obtain rights under patents and other intellectual property owned by other parties through permanent or limited duration licenses or assignments of relevant intellectual property. These may include exclusive and nonexclusive licenses from medical and academic institutions and industry sources as well as generally available commercial licenses. For our current clinical and research programs, we are not a party to any material intellectual property agreement under which we could lose access to a technology necessary to continue research and development of our products if we failed to fulfill our obligations thereunder. We anticipate that we will continue to seek intellectual property rights from external sources where the applicable technology complements our research and development efforts. 
+ With respect to our AKT and FGFR programs, we have issued patents and pending patent applications in the U.S., the E.U. and other foreign jurisdictions. For our AKT program, we have four issued patents in the U.S. covering the composition of matter for our lead AKT compounds. The expiration dates of these patents range from December 2031 to June 2032. We also have granted patents in the E.U., Australia, the People’s Republic of China, Hong Kong, Israel, Japan, South Korea, Mexico, Malaysia, Macau, New Zealand, the Philippines, the Republic of Singapore, Russia, Taiwan and South Africa. We understand that these patents will expire between December 2030 and June 2032. Furthermore, we have 
+
+ 12
+
+ TABLE OF CONTENTS​
+  three issued patents in the U.S. relating to the synthesis and polymorphs of our lead AKT compounds. The expiration dates of these patents range from March 2035 to April 2035. For our FGFR program, we have one issued patent in the U.S. covering the composition of matter for our lead FGFR compounds. This patent will be adjusted beyond its normal expiration date of December 2029 to January 2031. We also have granted patents in the E.U., Australia, the People’s Republic of China, Israel, Japan, South Korea, Taiwan, the Philippines, Mexico, Macau and South Africa. We understand that these patents will expire in December 2029. Furthermore, our discovery of small molecule kinase inhibitors has led us to file numerous composition of matter patent applications in various countries. 
+ ARQ 761 is being investigated as a potential NQO1 inhibitor. We have an issued patent in the U.S. covering the composition of matter of this compound, pharmaceutical compositions containing this compound, and the therapeutic uses of this compound in the treatment of cancer. The U.S. Patent and Trademark Office has determined that the term of the patent will be adjusted beyond its normal expiration date of April 2028 to December 2028. We also have issued patents in the E.U., Australia, the People’s Republic of China, Canada, Hong Kong, Mexico and Taiwan covering the composition of matter of this compound. We understand that these patents will expire in April 2028. 
+ For our BTK program, we have issued patents and pending patent applications in the U.S. and other foreign jurisdictions. We have one issued patent in the U.S. covering the composition of matter of ARQ 531 and pharmaceutical composition comprising ARQ 531. The expiration date of the patent is December 23, 2035. We have also filed patent applications in the U.S. and foreign jurisdictions covering other analogs of ARQ 531. If these applications are issued as patents, they will expire in August 2037. 
+ For Tivantinib, we have maintained all issued patents covering composition of matter, pharmaceutical composition, methods of use, formulation, manufacturing, combination with other anticancer agents in the U.S. and other foreign territories. 
+ COMPETITION 
+ The pharmaceutical and biotechnology industries are highly competitive and characterized by rapid and continuous technological innovation. We face intense competition from organizations such as large pharmaceutical companies, biotechnology companies and academic and research organizations. The major pharmaceutical and biotechnology organizations competing with us have greater capital resources, larger overall research and development staff and facilities and considerably more experience in drug development and commercialization. Consequently, we face competition on several fronts, including: 
+ •
+
+ for collaborators and investors; 
+ ​
+ •
+
+ for recruitment and retention of highly qualified scientific and management personnel; 
+ ​
+ •
+
+ for qualified subjects for our clinical studies of our drug candidates, which may result in longer and more costly clinical trials; 
+ ​
+ •
+
+ with competitors’ drugs that may result in effective, commercially successful treatments for the same cancers we target; and 
+ ​
+ •
+
+ for partners to co-develop and advance our drug candidates through all stages of development. 
+ ​
+ In the area of small molecule anti-cancer therapeutics, we have identified a number of companies that have clinical development programs and focused research and development in small molecule approaches to cancer, including: AbbVie Inc., Amgen, Inc., Ariad Pharmaceuticals, Inc., Astellas Pharma, Inc., Array BioPharma Inc., AstraZeneca PLC, Celgene Corporation, Curis, Inc., Exelixis, Inc., Eli Lilly and Company, FORMA Therapeutics, Gilead Sciences, Inc., GlaxoSmithKline plc, Incyte Corporation, Infinity Pharmaceuticals, Inc., Johnson and Johnson, Merck, Merck KGaA, Novartis AG, Pfizer, Inc., Principia Biopharma, Inc., the Roche Group, Sunesis Pharmaceuticals, Inc., Takeda Pharmaceuticals Co. Ltd., and many others. 
+ With respect to ARQ 087, we are aware of a number of companies that are or may be pursuing a number of different approaches to FGFR inhibition, including Ariad Pharmaceuticals, Astra Zeneca, Bayer, BioClin Therapeutics, Debiopharm Group, Boehringer Ingelheim International GmbH, Eisai Co. Ltd., Five Prime Therapeutics, Incyte, Johnson & Johnson, Novartis, Pfizer, Principia Biopharma, Servier 
+
+ 13
+
+ TABLE OF CONTENTS​
+  and Taiho Oncology. With respect to iCCA, our lead indication for ARQ 087, we are aware of a number of companies with products under development, including Agios Pharmaceuticals, Inc., Bayer Healthcare Pharmaceutical, Bristol Meyers Squibb, Cellact Pharma Gmbh, Concordia Healthcare, Dainippon Sumitomo Pharma Co., Ltd., Delcath Systems, Inc., Exelixis, Novartis, Oncotherapy Services, Inc. and Spectrum Pharmaceuticals, Inc. 
+ Regarding ARQ 092, we are aware of a number of companies that are or may be pursuing different approaches to AKT inhibition, including Astra Zeneca, Bayer, Eli Lilly, Merck, Novartis, Rexahn Pharmaceuticals, Inc. and Roche. Moreover, numerous companies have pursued and are pursuing inhibitors of PI3K and mTOR, two kinases in the PI3K-AKT-mTOR pathway; these drugs include Idelalisib, an approved PI3K inhibitor, and Everolimus, Temsirolimus and Rapamycin, approved mTOR inhibitors. 
+ With respect to ARQ 531, we are aware of a number of companies that are or may be pursuing different approaches to C481S-mutant BTK inhibition, including Aptose Biosciences Inc., LOXO Oncology, Roche and Sunesis Pharmaceuticals. Moreover, numerous companies are also pursuing inhibitors of wild-type BTK, including AbbVie with its drug, IMBRUVICA™, and Astra Zeneca with its drug, CALQUENCE™. Other companies with BTK inhibitors currently in development include Astra Zeneca, BeiGene, Co. Ltd., Merck KGaA , Eli Lilly, Gilead, GlaxoSmithKline, Principia Biopharma and others. Other approved drugs that may compete to treat ibrutinib refractory patients, including patients with C481S-mutant BTK, include AbbVie’s Bcl-2 inhibitor, VENCLEXTA™. 
+ There can be no assurance that our competitors will not develop more effective or more affordable products or technology or achieve earlier product development and commercialization than ArQule, thus rendering our technologies and/or products obsolete, uncompetitive or uneconomical. 
+ GOVERNMENT REGULATION
+ Virtually all pharmaceutical and biotechnology products that we or our collaborators develop will require regulatory approval by governmental agencies prior to commercialization. The nature and the extent to which these regulations apply vary depending on the nature of the products. In particular, human pharmaceutical products are subject to rigorous preclinical and clinical testing and other approval procedures by the FDA or the applicable regulatory authorities in countries other than the U.S. Various federal and, in some cases, state statutes and regulations also govern or influence the manufacturing, safety, labeling, storage, record keeping and marketing of these products. The process of obtaining these approvals and the subsequent compliance with appropriate statutes and regulations are time consuming and require substantial resources, and the outcome of these regulatory activities is uncertain.
+Preclinical and Clinical Studies 
+ Generally, in order to gain marketing authorization, a company first must conduct preclinical studies in the laboratory and in animal models to gain preliminary information on a compound’s activity and to identify potential safety problems. Preclinical studies must be conducted in accordance with applicable regulations of the relevant regulatory authority (e.g. FDA in the U.S., European Medicines Agency (“EMA”) in E.U.). The results of these studies are submitted as a part of an IND application with the FDA or a Clinical Trial Application (“CTA”) application with the appropriate regulatory authority outside of the U.S. The regulatory agency involved must review the data in the application before human clinical trials of an investigational drug can commence. If the regulatory authority does not object, a drug developer can begin clinical trials after expiration of a specified statutory period following submission of the application. Notwithstanding that the regulatory authority did not object during the applicable post-submission review period, the regulatory authority may at any time re-evaluate the adequacy of the application and require additional information about any aspect of the IND or CTA application and corresponding clinical trial, e.g. preclinical testing, drug formulation and manufacture, dosing regimens and drug administration or potential safety risks.
+ In order to eventually commercialize any products, we or our collaborator will be required to initiate and oversee clinical studies under an IND or CTA to demonstrate the safety and efficacy that are necessary to obtain marketing approval. Clinical trials are normally done in three phases and generally take
+
+ 14
+
+ TABLE OF CONTENTS
+  several years, but may take longer to complete. Furthermore, a regulatory authority may suspend clinical trials at any time if it believes that the subjects participating in trials are being exposed to unacceptable risks or if the regulatory authority finds deficiencies in the conduct of the trials or other problems with our product under development.
+ In addition, information about and results from any clinical studies we conduct may be subject to public disclosure (on www.clinicaltrials.gov). A rule that went into effect on January 18, 2017 broadens the clinical trial submission requirements to apply to results of information for unapproved drugs, regardless of whether FDA approval is being sought, unless a waiver is granted. Prior to enactment of the rule, disclosure of results for trials of unapproved drugs could be delayed until FDA approval, but the new rule generally limits the allowable delay period for such results.
+ Companion Diagnostic Development and Approval 
+ In addition to these requirements, with some clinical candidates for which there is a valid predictive biomarker, a diagnostic test known as a companion diagnostic (“CDx”) may need to be developed and cleared or approved in parallel with the drug in order to identify patients who are likely to respond favorably to the drug. In the U.S., such companion diagnostics are regulated as medical devices, and marketing authorization is usually based on approval of a Premarket Approval (“PMA”) application which establishes the predictive value of the test in the context of a registration trial of the drug; this application is submitted in the U.S. to FDA’s Center for Devices and Radiological Health. Approval of a PMA for a companion diagnostic for a clinical candidate is not guaranteed, and requires a determination by FDA that the PMA contains sufficient valid scientific evidence to assure that the diagnostic is safe and effective for its intended use. In the European Economic Area (“EAA”) approval is achieved by obtaining a “CE mark” by submitting a Declaration of Conformity under the Medical Device Directive.
+Marketing Approval Process 
+ After completion of clinical trials of a new product, regulatory marketing approval must be obtained. If the product is classified as a new pharmaceutical, we or our collaborators will be required to file a New Drug Application (“NDA”) or Marketing Authorization Application (“MAA”), and receive approval before commercial marketing of the drug. The marketing application contains, among other things, the results of the non-clinical and clinical testing of the drug. Marketing applications submitted to any regulatory authority can take several  years to obtain approval and the regulatory authority is not obligated to grant approval at all. A regulatory agency can condition marketing approval on the conduct of costly post-marketing follow-up studies or can place restrictions on the sale or marketing of the drug in order to manage risks.
+ In the U.S., once the FDA receives an NDA submission, the agency has 60  days to determine whether to receive the application for filing. Once accepted for filing, FDA conducts an in depth review in accordance with performance goals timelines to which the agency has agreed. Most NDAs are generally reviewed within ten to twelve months, unless the application qualifies for and the sponsor obtains a priority review designation, in which case the review period is generally six to eight months. These review periods can be extended by three months in order for FDA to consider additional information. Various programs are available that are intended to facilitate the development of and/or expedite the review of new drugs intended to address unmet medical need in the treatment of serious or life-threatening conditions provided certain specified conditions are met. Such programs include priority review designation, fast track designation, breakthrough therapy designation, and the accelerated approval program.
+ In making an approval determination for an NDA, FDA may elect to convene an advisory committee to provide independent advice and recommendations to FDA related to approval of the application. Approval of an NDA may also be conditioned upon the manufacturing facility at which the drug will be manufactured successfully completing an FDA pre-approval inspection (PAI). In addition, once NDA-approval is obtained, if certain changes are made to a drug, including to its manufacturing or its labeling, the changes could require prior FDA approval through an NDA supplement, and, depending on the specific change, could require the submission of new clinical data.
+ Upon approval, a new drug may be eligible for one or more periods of exclusivity that can delay the submission or approval of certain marketing applications. In the U.S. the Federal Food, Drug, and 
+
+ 15
+
+ TABLE OF CONTENTS
+  Cosmetic Act (“FDCA”) as amended by the Hatch-Waxman Act, provides a 5-year period of non-patent market exclusivity to the first sponsor to obtain approval of a new chemical entity (referred to as “NCE exclusivity”). During a drug’s 5-year NCE exclusivity period, FDA may not accept for review an abbreviated new drug application (“ANDA”) or a section 505(b)(2) application submitted by another company that references the protected application unless the sponsor of the new drug has a right of reference to the data required for approval. An exception exists when an ANDA or 505(b)(2) application contains a patent invalidity or non-infringement certification, in which case FDA may accept the application for review after 4 years rather than after 5 years. For drugs that do not qualify for NCE exclusivity, the Hatch-Waxman Act also provides for a 3-year exclusivity period for NDAs, including 505(b)(2) NDAs, and supplements to NDAs where approval of the NDA requires new clinical investigations conducted or sponsored by the applicant that are deemed by FDA to be essential to approval of the application (e.g., approval for a new indication). Such 3-year exclusivity bars FDA from approving any ANDA or 505(b)(2) application that relies on the information supporting the approval of the drug or the change to the drug for which information was submitted and exclusivity granted.
+ Neither Hatch-Waxman 5-year NCE exclusivity or 3-year exclusivity blocks the submission or approval of a full NDA that does not reference or rely on a previously approved application even if the drug that is the subject of the new NDA is considered to be the same chemical entity as the previously approved drug with unexpired 5 or 3-year exclusivity. In contrast, a type of exclusivity that blocks approval of subsequent applications irrespective of referencing is orphan drug exclusivity. Under the FDCA, as amended by the Orphan Drug Act of 1983, FDA may grant orphan drug designation to drugs intended to treat a rare disease or condition, which is defined generally as a disease or condition that affects fewer than 200,000 individuals in the United States. If an orphan-designated drug is the first such drug to obtain market approval for its orphan designated indication, the drug may receive a 7-year period of orphan drug exclusivity. Orphan drug exclusivity blocks the approval of any marketing application for a drug that is considered the same drug as the orphan-protected drug for the same orphan-protected indication. If a subsequent drug is considered the same drug as a protected orphan drug, in order for the sponsor of the subsequent drug to be able to obtain marketing approval for the same protected orphan indication during that exclusivity period, the sponsor must demonstrate that its drug is clinically superior to the previously approved drug with unexpired orphan exclusivity. If a previously approved same drug does not have unexpired orphan exclusivity, while the sponsor of a subsequent orphan-designated same drug in that scenario would not be required to demonstrate superiority over the previously approved drug in order to obtain marketing approval, a demonstration of superiority would be required in order for the subsequent drug to qualify for its own period of 7-year orphan exclusivity.
+ Our proprietary pipeline of product candidates is being developed in targeted, biomarker-defined patient populations. By seeking out subgroups of patients that are most likely to respond to our drugs, we intend to identify small, often orphan, indications that allow for focused and efficient development. In particular, our product candidate derazantinib has been granted orphan designation for iCCA and miransertib has received such designation for Proteus syndrome. Consequently, if derazantinib or miransertib is the first such drug to obtain marketing approval for iCCA or Proteus syndrome, respectively, then it could qualify for a 7-year period of orphan drug exclusivity. If, however, another sponsor’s product that is considered the same drug as either derazantinib or miransertib is first to market and obtains orphan exclusivity for the applicable indication, the exclusivity could block the approval of derazantinib or miransertib, as the case may be, absent a demonstration of clinical superiority.
+ Fast Track Designation and Accelerated Approval
+ The FDA is required to facilitate the development, and expedite the review, of drugs that are intended for the treatment of a serious or life-threatening disease or condition for which there is no effective treatment and which demonstrate the potential to address unmet medical needs for the condition. Under the Fast Track program, the sponsor of a new drug candidate may request that the FDA designate the drug candidate for a specific indication as a Fast Track drug concurrent with, or after, the filing of the IND for the drug candidate. The FDA must determine if the drug candidate qualifies for Fast Track Designation within 60 days of receipt of the sponsor’s request.
+ Under the Fast Track program and the FDA’s Accelerated Approval regulations, the FDA may approve a drug for a serious or life-threatening illness that provides meaningful therapeutic benefit to patients over 
+
+ 16
+
+ TABLE OF CONTENTS
+  existing treatments based upon a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments.
+ In clinical trials, a surrogate endpoint is a measurement of laboratory or clinical signs of a disease or condition that substitutes for a direct measurement of how a patient feels, functions, or survives. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. A drug candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including the completion of post-approval clinical trials, often referred to as Phase 4 trials, to confirm the effect on the clinical endpoint. Failure to conduct required post-approval studies, or confirm a clinical benefit during post-marketing studies, will allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to priority review by the FDA.
+ If a submission is granted Fast Track Designation, the sponsor may engage in more frequent interactions with the FDA, and the FDA may review sections of the NDA before the application is complete. This rolling review is available if the applicant provides, and the FDA approves, a schedule for the submission of the remaining information and the applicant pays applicable user fees. However, the FDA’s time period goal for reviewing an application does not begin until the last section of the NDA is submitted. Additionally, Fast Track Designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process.
+ Breakthrough Therapy Designation
+ The FDA is also required to expedite the development and review of the application for approval of drugs that are intended to treat a serious or life-threatening disease or condition where preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints. Under the Breakthrough Therapy program, the sponsor of a new drug candidate may request that the FDA designate the drug candidate for a specific indication as a breakthrough therapy concurrent with, or after, the filing of the IND for the drug candidate. The FDA must determine if the drug candidate qualifies for Breakthrough Therapy designation within 60 days of receipt of the sponsor’s request.
+Rare Pediatric Disease Priority Review Voucher Program
+ Under the Rare Pediatric Disease Priority Review Voucher program, the FDA may award a priority review voucher to the sponsor of an approved NDA for a product that treats or prevents a rare pediatric disease. The voucher entitles the sponsor to priority review of one subsequent marketing application. A voucher may be awarded only for an approved rare pediatric disease product application. A rare pediatric disease product application is an NDA for a product that treats or prevents a serious or life-threatening disease in which the serious or life-threatening manifestations primarily affect individuals aged from birth to 18 years. In general, the disease must affect fewer than 200,000 such individuals in the U.S. In addition, certain other conditions must be met, including the following: the NDA must be deemed eligible for priority review, the NDA must not seek approval for a different adult indication (i.e., for a different disease/​condition), the product must not contain an active ingredient that has been previously approved by the FDA, and the NDA must rely on clinical data derived from studies examining a pediatric population such that the approved product can be adequately labeled for the pediatric population. Before NDA approval, the FDA may designate a product in development as a product for a rare pediatric disease, but such designation is not required to receive a voucher.
+ To receive a rare pediatric disease priority review voucher, a sponsor must notify the FDA, upon submission of the NDA, of its intent to request a voucher. If the FDA determines that the NDA is a rare pediatric disease product application, and if the NDA is approved, the FDA will award the sponsor of the NDA a voucher upon approval of the NDA. The FDA may revoke a rare pediatric disease priority review voucher if the product for which it was awarded is not marketed in the U.S. within 365 days of the product’s approval. The voucher, which is transferable to another sponsor, may be submitted with a subsequent NDA 
+
+ 17
+
+ TABLE OF CONTENTS​
+  and entitles the holder to priority review of the accompanying NDA. The sponsor submitting the priority review voucher must notify the FDA of its intent to submit the voucher with the NDA at least 90 days prior to submission of the NDA and must pay a priority review user fee in addition to any other required user fee.
+Postmarketing and Other Requirements 
+ Even if regulatory clearances are obtained, a marketed product is subject to continual review and ongoing regulatory obligations. If and when a regulatory authority approves any of our or our collaborators’ products under development, the manufacture and marketing of these products will be subject to continuing regulation, including compliance with current Good Manufacturing Practices (“cGMP”), adverse event reporting requirements and prohibitions on promoting a product for unapproved uses or making false or misleading statements or omissions with respect to a drug in advertising or promotion. Later discovery of previously unknown problems or failure to comply with the applicable regulatory requirements may result in restrictions on the marketing of a product or withdrawal of the product from the market as well as possible civil or criminal sanctions. Various federal and, in some cases, state statutes and regulations also govern or influence the manufacturing, safety, labeling, storage, record keeping and marketing of pharmaceutical products.
+ For marketing outside the U.S., we or our partners will be subject to foreign regulatory requirements governing human clinical trials, marketing approval and post-marketing activities for pharmaceutical products and biologics. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary widely from country to country.
+ Other Healthcare Laws 
+ In developing and commercializing our drug product candidates, we may also be subject to various other federal and state laws, including fraud and abuse laws and privacy laws. Laws to which we could be subject include, but are not limited to the following:
+ •
+
+ the federal Anti-Kickback Statute, which prohibits, among other things, persons from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, to induce, or in return for, the purchase or recommendation of an item or service reimbursable under a federal healthcare program, such as the Medicare and Medicaid programs;
+ ​
+ •
+
+ federal civil and criminal false claims laws and civil monetary penalty laws, which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment from Medicare, Medicaid, or other third party payers that are false or fraudulent;
+ ​
+ •
+
+ federal transparency laws, including the federal Physician Payment Sunshine Act, that requires drug manufacturers to disclose payments and other transfers of value provided to physicians and teaching hospitals;
+ ​
+ •
+
+ the federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, which created new federal criminal statutes that prohibit knowingly and willfully executing a scheme to defraud any healthcare benefit program and making false statements relating to healthcare matters;
+ ​
+ •
+
+ provisions of HIPAA, as amended by the Health Information Technology and Clinical Health Act and its implementing regulations, which imposes certain requirements relating to the privacy, security and transmission of individually identifiable health information;
+ ​
+ •
+
+ state law equivalents of each of the above federal laws; and
+ ​
+ •
+
+ state price transparency laws.
+ ​
+ EMPLOYEES 
+ As of December 31, 2017, we employed 32 people in Burlington, Massachusetts. Of that total, 18 are engaged in research and development and 14 in general and administration, and 9 hold PhDs, 4 hold MDs and 6 hold Masters Degrees in the sciences. 
+
+ 18
+
+ TABLE OF CONTENTS​​
+  CERTAIN OTHER INFORMATION 
+ We file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”). You may read and copy any document we file at the SEC’s Public Reference Room at 100 F Street, N.E., Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. The SEC maintains a website at http://www.sec.gov that contains reports, proxy and information statements and other information concerning filers. We also maintain a web site at http://www.arqule.com that provides additional information about our company and links to documents we file with the SEC. The contents of our website are not incorporated into this report. The Company’s Corporate Governance Principles; the charters of the Audit Committee, the Compensation, Nominating and Governance Committee, and the Science Committee; and the Code of Conduct are also available on the Company’s website. 
+EXECUTIVE OFFICERS 
+ Set forth below is certain information regarding our current executive officers, including their respective ages as of February 1, 2018. 
+ 
+NAME | ​ | ​ | AGE | ​ | ​ | POSITION | ​
+-------------------+---+---+-----+---+---+----------------------------------------+--
+Paolo Pucci | ​ | ​ | 56 | ​ | ​ | Chief Executive Officer and a Director | ​
+Peter S. Lawrence | ​ | ​ | 54 | ​ | ​ | President and Chief Operating Officer | ​
+Robert J. Weiskopf | ​ | ​ | 67 | ​ | ​ | Chief Financial Officer and Treasurer | ​
+Dr. Brian Schwartz | ​ | ​ | 56 | ​ | ​ | Chief Medical Officer | ​
+
+Paolo Pucci 
+Chief Executive Officer 
+ Mr. Pucci joined ArQule as Chief Executive Officer and a member of the Board in June 2008 from Bayer A.G., where he served as Senior Vice President and President in charge of the Bayer-Schering Pharmaceuticals Global Oncology/Specialized Therapeutics Business Units. Previously, Mr. Pucci was senior vice president of Bayer Pharmaceuticals Global Specialty Business Unit, President of U.S. Pharmaceutical Operations and a member of the Bayer Pharmaceuticals Global Management Committee. At Bayer, Mr. Pucci was involved in a broad range of activities related to Nexavar® (sorafenib), an oral multiple kinase inhibitor used to treat liver and kidney cancers. These activities included clinical development, regulatory review, corporate alliance management, product launch and marketing. Mr. Pucci joined Bayer as head of its Italian Pharmaceutical operations in 2001. Prior to Bayer, Mr. Pucci held positions of increasing responsibility with Eli Lilly, culminating with his appointment as Managing Director, Eli Lilly Sweden AB. At Lilly, his responsibilities included operations, sales, marketing and strategic planning. In November 2011, Mr. Pucci was appointed to the Board of Directors of Dyax Corp where he served as an independent director, member of the audit committee and chairman of the governance and nomination committee until the acquisition of Dyax by Shire in January 2016. In April 2013, he was appointed to the Board of Directors of Algeta ASA, an oncology company based in Oslo, Norway, where he served as an independent director and member of the audit committee until the acquisition of Algeta by Bayer A.G. He has also been a Director of NewLinks Genetics Corp., since November 2015. During September 2016, Mr. Pucci was elected to the Board of Directors of West Pharmaceutical Services, Inc., an international manufacturer of packing components and delivery systems for injectable drugs and healthcare products. Mr. Pucci holds an M.B.A from the University of Chicago, and is a graduate of the Università Degli Studi Di Napoli in Naples, Italy. He is also a chartered “Dottore Commercialista” in Italy. 
+Peter S. Lawrence 
+President and Chief Operating Officer 
+ Mr. Lawrence joined ArQule as Executive Vice President and Chief Business Officer in April 2006. He was named Chief Operating Officer in October 2007 and President in April 2008. Previously he was at Pod Venture Partners, an international venture capital firm which he co-founded in 2001 and where he most recently served as general partner. He helped drive the strategic growth of that firm, including deal sourcing 
+
+ 19
+
+ TABLE OF CONTENTS​
+  and structuring, syndication and business expansion activities. Previously, Mr. Lawrence was an attorney and partner at Mintz, Levin, Cohn, Ferris Glovsky and Popeo, P.C., from 1991 to 2001. At Mintz Levin, he served as external corporate counsel to public and private companies, managed a transactional legal practice and provided strategic guidance to clients through periods of rapid growth and transformative corporate events. His public financing experiences include the initial public offering and numerous financings for America Online Inc. (AOL), as well as public financings for Biogen, Human Genome Sciences, Hybridon and many other companies. He worked on numerous mergers and acquisitions, including Roche/Compuchem, AOL/Time Warner, Steinway Piano, DEC/Intel, and Mitotix/GPC Biotech. Mr. Lawrence worked at Gaston & Snow from 1989 to 1991 in the firm’s Corporate Law Department. He holds a Bachelor’s degree from Amherst College and a J.D. from Boston University School of Law. 
+Robert J. Weiskopf 
+Chief Financial Officer and Treasurer 
+ Mr. Weiskopf joined ArQule in February 2007 as Vice President of Finance, Corporate Controller, and Treasurer and was promoted to Chief Financial Officer and Treasurer in May 2015. Prior to that, Mr. Weiskopf was Chief Financial Officer of Aware Inc. from 2004 until 2006 and Director of Finance at Lightbridge, Inc. from 2000 to 2004. He held a number of financial management positions of increasing responsibility at Digital/Compaq Computer Corporation for 19 years and began his career working at Ernst & Young LLP for five years. Mr. Weiskopf was also a part-time instructor in the Boston University M.B.A. program. Mr. Weiskopf is a Certified Public Accountant and holds a B.S.B.A. magna cum laude and M.S.B.A. in accounting from the University of Massachusetts at Amherst. 
+Brian Schwartz, M.D. 
+Chief Medical Officer 
+ Dr. Schwartz joined ArQule in July 2008 from Ziopharm Oncology, Inc., where as Senior Vice President, clinical and regulatory affairs, and Chief Medical Officer he built and led clinical, regulatory, and quality assurance departments responsible for the development of new cancer drugs. Prior to Ziopharm, Dr. Schwartz held a number of positions at Bayer Healthcare. His experience in oncology has encompassed the clinical development of novel cytostatic, cytotoxic and immunological agents. At Bayer, Dr. Schwartz was a key physician responsible for the global clinical development of Nexavar® (sorafenib) and led the clinical team through a successful Phase 3 trial in renal cell cancer, leading to FDA approval. He has extensive regulatory experience working with the FDA’s Oncology Division, the European Medicines Agency (EMA), and numerous other health authorities. Dr. Schwartz has also been responsible for U.S. clinical and regulatory activities, including Phase 4 studies and interactions with the National Cancer Institute and other oncology cooperative groups. Dr. Schwartz received his medical degree from the University of Pretoria, South Africa, practiced medicine, and worked at the University of Toronto prior to his career in industry. 

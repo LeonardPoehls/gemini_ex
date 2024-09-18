@@ -1,0 +1,99 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+
+Overview
+iPass (Nasdaq: IPAS) is a leading provider of global mobile connectivity, offering simple, secure, always-on Wi-Fi access on any mobile device. Built on a software-as-a-service ("SaaS") platform, the iPass cloud-based service keeps its customers connected by providing unlimited Wi-Fi connectivity on unlimited devices. iPass is the world’s largest Wi-Fi network, with more than 64 million hotspots globally, at airports, hotels, train stations, convention centers, outdoor venues, inflight, and more. Using patented technology, the iPass SmartConnectTM platform takes the guesswork out of Wi-Fi, automatically connecting customers to the best hotspot for their needs.  Customers simply download the iPass application ("app") to experience UNLIMITED, EVERYWHERE and INVISIBLE Wi-Fi.
+Business Highlights
+Strategic iPass Assets
+We believe iPass has a unique set of global mobile connectivity assets that provide us with competitive advantages. We see our three core assets as follows:
+Our Technology Platform: Our app is an intelligent cloud-based service manager that securely connects users and devices to our global Wi-Fi footprint. The app is built on the backbone of years of iPass’ intellectual property and is developed from our own Software Development Kit ("SDK") that allows partners and customers to integrate the same technological advancements into their own applications. Benefits of the technology include:
+•iPass SmartConnectTM which is evolving mobile connectivity expectations from “best efforts” to a truly intelligent always-best-connected experience, solving for problems like false positives, network outages, and low connection success rates.
+•Last-Mile VPN security to protect user data, even at free Wi-Fi hotspots.
+•Veri-FiTM big data aggregation and analysis intelligence to rate hotspots on critical quality of service criteria, optimize network performance attributes, and provide intelligent data to a variety of partner use cases.
+•Hotspot discovery and curation to keep our network growing both organically and commercially in the places our users need to use. 
+Our Back-end Infrastructure: We have a global authentication fabric of integrated servers, cloud-based virtualized assets, and software that is interconnected with major commercial networks around the globe. This infrastructure allows us to provide secure, highly-available and seamless four-party global authentication, clearing and settlement of Wi-Fi users for our partners and customers. This infrastructure makes the over 64 million hotspots we aggregate look and feel like iPass hotspots; there is no need to enter personal data, watch commercials, or spend any nonproductive time logging into these locations; the platform just connects. Between our physical colocation facilities and our growing virtualization of cloud-based infrastructure assets, we have the ability to process millions of data records per day to drive the performance of our aggregated network and the evolving use cases of our big data analyses. The architecture is built on a telecom-based transaction, reporting, and clearing back-end that would be time consuming and expensive to replicate.
+Our Wi-Fi Network: We have a Wi-Fi network footprint and supply chain that consists of over 64 million hotspots globally, including major airports, convention centers, planes, trains, train stations, hotels, restaurants, retail, and small business locations. In addition, with our embedded curation feature, we continue to identify and provide access to millions more free access hotspots in virtually every country in the world, providing more connectivity options for our SmartConnectTM users. 
+The combination of the above assets allows us to drive three distinct but interconnected monetization streams in the future; technology integration through our SDK, big data intelligence, and our mobile connectivity solutions. 
+Business Portfolio and Go-to-Market Strategy 
+4
+
+We have a single reportable operating segment, Mobile Connectivity Services. Our Mobile Connectivity Services offer a standard cloud-based solution allowing our customers and their users access to our global Wi-Fi network to stay connected to the people and information that matters most. We categorize our services in two broad go-to-market approaches:
+Enterprise (Business to Business or B2B):  Representing almost 80% of total revenue, this go-to-market strategy focuses on providing mobile connectivity solutions to enterprises, from large to small. With an easy-to-download app, a user on a variety of platforms (Windows, Mac, iOS, Android) can quickly access our hosted service and connect to our over 64 million Wi-Fi hotspots around the globe. While we continue to have existing customers that procure our services under a variety of pay-as-you go or flat rate pricing plans ("Other Pricing Plans"), in 2015 we introduced our UNLIMITED pricing. Under UNLIMITED, for a set price per subscriber per month, our customers have access to our entire network of hotspots without the worries of throttling usage or running up large overage expenses. 
+Strategic Partnerships (Business to Business to Consumer or B2B2C): At 20% of total revenue, this strategy is executed through business development deals intended to open channel distributions for our product to reach the consumer market. While the channel customer may use a combination of our platform, technology infrastructure, or network, each deal is negotiated independently based on specific customer needs. Strategic Partnerships include global Original Equipment Manufacturers ("OEMs"), loyalty programs like credit card companies, software product and service providers, and communication companies. With the advent of our SDK and big data generated from iPass SmartConnectTM, we envision additional monetization streams in the future with our strategic partners.
+Our Corporate Strategy
+We intend to leverage our unique set of assets across our go-to-market strategies to drive growth in new customer acquisition, subscribed users, devices accessing our services, and big data analytics. To achieve this strategy, we have developed our product and service delivery across three main value creation initiatives. 
+UNLIMITED - Wi-Fi without boundaries
+For a flat monthly per user rate, users have UNLIMITED access to our global network. Using our iPass SmartConnectTM technology and big data intelligence, we maximize the user experience while effectively optimizing our network cost structure.
+EVERYWHERE - World’s largest Wi-Fi network
+Users have access to EVERYWHERE in our global network. We continue to add strategic partners, bolstering our footprint in planes, trains, hotels, airports, restaurants, and cafes. And with our business development activities and B2B2C channel expansion, our services are proliferating on user devices around the globe.
+INVISIBLE - Wi-Fi as easy as cellular
+Our platform is an artificial intelligence network sniffer, finding, categorizing, rating, and optimizing networks and connections. It provides last mile VPN tunnel security and is designed to maximize connection success rates. For customers looking to leverage our intellectual property and platform functionality into their customized products, we launched our SDK in the first quarter of 2016. INVISIBLE also incorporates the iPass big data initiative, branded as Veri-Fi, to aggregate, analyze, and provide intelligent insight on a variety of potential use case applications.
+Geographic Revenue
+iPass revenue is derived from the following geographical locations:
+
+ | For the Year Ended December 31,
+ | 2017 | | 2016 | | 2015
+United States | 47 | % | | 41 | % | 35 | %
+Europe, Middle East and Africa | 45 | % | | 49 | % | 48 | %
+Asia Pacific | 5 | % | | 9 | % | 15 | %
+Rest of the world | 3 | % | | 1 | % | 2 | %
+
+One customer, a channel reseller, accounted for 11% of total revenues from operations for the year ended December 31, 2017 and 10% of total revenue from operations for the years ended December 31, 2016, and 2015, respectively.
+5
+
+For further financial information on the geographic information, refer to the information contained in Note 14, “Segment and Geographic Information,” in the Notes to the Consolidated Financial Statements included in Item 15. For risks attendant to foreign operations, see the risk entitled “Because a meaningful portion of our business is international, we encounter additional risks, which may impact our revenues and profitability” in “Item 1A. Risk Factors” of this Form 10-K.
+Over 95% of our long-lived assets were located in the United States at December 31, 2017 and 2016.
+Seasonality
+We generally experience seasonality in our business due to decreased business travel during the summer, particularly in Europe, and during the year-end holiday season which results in lower usage of our network services. Seasonal trends or other factors, such as bad weather, may cause fluctuations in our business results.
+Network Service Providers 
+We have contractual relationships with numerous telecommunications carriers, Internet service providers and other network service providers that enable us to offer our network services around the world. We pay network service providers for access to their network on a usage, session or subscription basis. Most of these contracts have a one or two-year term, after which either party can terminate or renegotiate the contract with notice. The contracts we have entered into with providers can be exclusive or non-exclusive and may contain minimum commitments for the purchase of network access.
+Sales and Marketing
+Our sales organization is structured into regional account teams, which include sales management, sales engineers and customer success teams. We sell our services directly through our global sales force and indirectly through our reseller and strategic partners. We have sales and marketing offices in the United States, United Kingdom, Germany, France, Singapore and Netherlands. As of December 31, 2017, our sales organization comprised 45 individuals: 24 in North America, 16 in Europe, Middle East and Africa (“EMEA”) and 5 in Asia Pacific. Our sales and marketing expenses were $10.2 million, $11.2 million, and $10.3 million in 2017, 2016, and 2015, respectively.
+Our reseller, wholesale, and strategic partners typically sign a one to two-year agreement with us through which we appoint them primarily as a non-exclusive reseller of our services. Their reseller responsibilities vary and may include actively marketing and selling our services, deploying and supporting customer accounts, and implementing and managing billing for their customers. Our current sales structure allows us to offer our services without incurring the full cost of customer acquisition (sales and marketing) or customer post-sales support. Our reseller, wholesale, and strategic partners typically sell complementary hardware, software, and services, and bundle our services with their core offerings. They may also have a base of existing customers to whom they can efficiently sell our portfolio of services. In many cases our salespeople do support our reseller, wholesale, and strategic partners with closing new business, and our post-sales team may work with them to ensure successful implementation of our services. However, the enterprise or consumer remains the customer of our reseller, wholesale, and strategic partners and has no direct financial relationship with us.
+We focus our marketing efforts on establishing a strong corporate reputation in the market, creating awareness and preference for our services and their benefits, educating potential customers, generating new sales opportunities, generating end-user awareness and demand within existing customer accounts and enabling our sales force and channel partners to effectively sell and deploy our service offerings. We conduct a variety of marketing programs that may include advertising, promotions, public relations, analyst relations, telemarketing, direct marketing, web and e-mail marketing, collateral and sales tools creation, seminars, events and trade shows, training, co-operative channel marketing, Internet marketing and promotions.
+Competition
+The market for global mobile connectivity is fragmented with a variety of competitors, both direct and indirect, including telecom operators, cloud-based platform operators, cable companies, and smaller Internet service providers. We partner with many point Wi-Fi providers to drive incremental users to their connectivity resources, helping to further monetize their assets via our roaming customer base. Our unique technology infrastructure and global partnerships with Wi-Fi networks creates a scale and user experience that we believe is hard to replicate by any single competitor, and creates an important differentiating factor for us. However, since we do not own our Wi-Fi network, our competitors who own their Wi-Fi networks can offer lower Wi-Fi pricing than we can offer in specific markets, can bundle Wi-Fi network access with other services, and can use these additional service offerings to drive increased brand awareness.
+We believe the principal competitive factors in our industry include the following: 
+
+• | Global roaming coverage;
+
+
+• | Perception of technology benefits;
+
+6
+
+
+• | Ease of use and reliability of service;
+
+
+• | Price, both of Wi-Fi connectivity, and of alternative connectivity options such as 3G/4G;
+
+
+• | Brand awareness;
+
+
+• | Perceived benefit of connectivity by customers and strategic partners;
+
+
+• | Access to data to differentiate services and drive additional value propositions;
+
+
+• | Security concerns; and
+
+
+• | Bundled connectivity services.
+
+See "Item 1A – Risk Factors" for additional details regarding competitive factors that could adversely impact our business, financial condition, or results of operations.
+Research and Development
+We are committed to continuous enhancement of our underlying technology and to innovate and incorporate new technologies and features into our services and network architecture. Our research and development efforts are focused on improving and enhancing our platform and service offerings, including developing an SDK for our partners to easily integrate our technology into their applications.
+As of December 31, 2017, our research and development organization consisted of 60 employees, approximately 18 in North America and 42 in India. Our research and development expenses were $8.0 million, $7.3 million, and $10.0 million in 2017, 2016, and 2015, respectively.
+Intellectual Property 
+We believe our technology and platform contains valuable intellectual property. We rely on a combination of trademark, copyright, trade secret laws, patents and disclosure restrictions to protect these intellectual property rights. We license third-party technologies that are incorporated in our services. We also enter into confidentiality and proprietary rights agreements with our employees, consultants and other third parties and control access to software, documentation and other proprietary information. We have a patent portfolio, related to our mobile connectivity services, consisting of 26 U.S. patents and twelve international patents. Our patents expire between 2017 and 2036. We currently have two U.S. patent applications pending, and four international patent applications pending (in the same subject areas as the U.S. patent applications). iPass, the iPass logo, iPass SmartConnect, and Veri-Fi are registered trademarks. We have also applied for or registered company trademarks in the U.S. and numerous other countries.
+Employees
+As of December 31, 2017, we had 158 employees of which 70 were located in North America, 64 in Asia Pacific, and 24 in EMEA.
+Available Information
+We use our website, www.ipass.com, as a routine channel for distribution of important information, including news releases, annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities and Exchange Act, as amended, as soon as reasonably practicable after they are electronically filed with, or furnished to the U.S. Securities and Exchange Commission (“SEC”). These postings and filings are available on our website free of charge. The content on any website referred to in this Form 10-K is not incorporated by reference into this Form 10-K.
+Corporate Formation
+We were incorporated in California in July 1996 and reincorporated in Delaware in June 2000.

@@ -1,0 +1,246 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS 
+ References herein to the Company or Syntel refer to Syntel, Inc. and its subsidiaries worldwide on a consolidated basis. 
+ FORWARD-LOOKING STATEMENTS 
+ Certain statements and information set forth in this report on Form 10-K, including the allowance for doubtful accounts, contingencies and litigation, potential tax liabilities, interest rate or foreign currency risks, and projections regarding the Companys liquidity and capital resources could be construed as forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements include statements containing words such as could, expects, may, anticipates, believes, estimates, plans, and similar expressions. In addition, the Company or persons acting on its behalf may, from time to time, publish other forward-looking statements. Such forward-looking statements are based on managements current estimates, assumptions and projections and are subject to risks and uncertainties that could cause actual results to differ materially from those discussed in the forward-looking statements, including, without limitation, the risks and uncertainties detailed in Item 1A, Risk Factors, of this Form 10-K.
+Other factors not currently anticipated may also materially and adversely affect the Companys results of operations, cash flows, financial position and prospects. There can be no assurance that future results will meet expectations. While the Company believes that the forward-looking statements in this Annual Report on Form 10-K are reasonable, you should not place undue reliance on any forward-looking statement. In addition, these statements speak only as of the date made. The Company does not undertake, and expressly disclaims any obligation to update or alter any statements, whether as a result of new information, future events or otherwise, except as required by applicable law. 
+ OVERVIEW 
+ Syntel, incorporated under Michigan law on April 15, 1980, is a global provider of digital transformation, information technology (IT) and knowledge process outsourcing (KPO) services to Global 2000 companies. 
+ The Companys reportable business segments are as follows: 
+ 
+
+ | Banking and Financial Services
+--+-------------------------------
+
+
+ | Healthcare and Life Sciences
+--+-----------------------------
+
+
+ | Insurance
+--+----------
+
+
+ | Manufacturing
+--+--------------
+
+
+ | Retail, Logistics and Telecom
+--+------------------------------
+
+ In each of our business segments, Syntel helps customers adapt to market change by providing a broad array of technology-based, industry-specific solutions. These solutions leverage Syntels strong understanding of the underlying trends and market forces in our chosen industry segments. These solutions are complemented by strong capabilities in Digital Modernization, Social, Mobile, Analytics and Cloud (SMAC) technologies, Business Intelligence (BI), Knowledge Process Outsourcing (KPO), application services, testing, Enterprise Resource Planning (ERP), IT Infrastructure Management Services (IMS), and business and technology consulting. 
+ 
+1 
+ 
+Banking and Financial Services 
+ Our Banking and Financial Services segment serves financial institutions throughout the world. Our clients include companies providing banking, capital markets, cards and payments, investments and transaction processing services to third parties. Our clients engage us to help make their operations as effective, productive and cost-efficient as possible, and to support new capabilities. We assist these clients in such areas as: payment solutions, retail banking, wholesale banking, consumer lending, risk management, investment banking, reconciliation, fraud analysis, mobile banking, and compliance and securities services. The demand for our services in the banking and financial services sector is being driven by changing global regulatory requirements, customer interest in newer technology areas and related services such as digital modernization, and an ongoing focus on cost reduction and operational efficiencies. 
+Healthcare and Life Sciences 
+ Our Healthcare and Life Sciences segment serves healthcare payers, providers and pharmaceutical and medical device providers, among others. The healthcare industry is constantly seeking to improve the quality of care while managing the cost of care in order to make healthcare affordable to a larger population. Our healthcare practice focuses on providing a broad range of services and solutions to the industry across the consumer lifecycle, which includes regulatory requirements, integrated care, stakeholder engagement and wider use of electronic health records, among others. We also partner with clients to modernize their systems and processes to enable them to deal with the increasing consumer orientation of healthcare, such as adoption of mobile and analytics solutions to improve access to health information and decision making by end consumers. 
+ In the life sciences category, we partner with leading pharmaceutical, biotech, and medical device companies, as well as providers of generics, animal health and consumer health products. Our life sciences solutions help transform many of the business processes in the life sciences value chain (research, clinical development, manufacturing and supply chain, and sales and marketing) as well as regulatory and administrative functions. 
+ Insurance 
+ Syntel serves the needs of global property and casualty insurers, insurance brokers, personal, commercial, life and retirement insurance service providers. These customers turn to us for assistance in improving the efficiency and effectiveness of their operations and in achieving business transformation. We focus on aspects of our clients systems and operations, such as policy administration, claims processing and compliance reporting. We also serve the growing trend among insurers to improve their sales and marketing processes by deepening direct customer relationships and strengthening interactions with networks of independent and captive insurance agents. This is often accomplished through the use of digital front-end technologies like web enablement, social media and mobility, and supported by modernization of applications, product implementations and infrastructure elements, along with cloud enablement. Additionally, many insurers seek to improve business effectiveness by reducing expense ratios. Syntel helps our customers achieve this by managed services and IT and process automation with our industry leading SyntBots® automation platform. 
+ 
+2 
+ 
+Manufacturing 
+ We provide technology services and business consulting in a range of sub-sectors including industrial products, aerospace and automotive manufacturing, as well as to processors of raw materials and natural resources. Demand for our services in this segment is being driven by trends that, among others, include the increasing globalization of sourcing and the desire of clients to further penetrate emerging markets, leading to longer and more complex supply chains. Some of our solutions for industrial and manufacturing clients include warranty management, dealer system integration, Product Lifecycle Management (PLM), Supply Chain Management (SCM), sales and operations planning, and mobility. Digitization, including connectivity leveraging the Internet of Things, Analytics based decision support and Mobility are some of the emerging trends on which we are working with our clients.     
+Retail, Logistics and Telecom 
+ Syntels Retail, Logistics and Telecom (RLT) Business unit is the fastest growing and second-largest business unit and leverages its comprehensive understanding of the business and technology needs of these industries. Aligned to Syntels Corporate Offering strategy, the RLT business unit offers legacy elimination and digital modernization solutions to its clientele. Our industry solutions for our clients include SCM, merchandising, sales and operations planning, point of sale (POS) solutions, omnichannel enablement and integration, web content management solutions, sales force and cloud foundry enablement, among others. Syntels RLT offerings are designed to provide effective operations and enhanced customer experiences. 
+INDUSTRY 
+ Digital technologies are becoming ubiquitous in our personal and professional lives. Every industry is facing disruption from Born Digital competitors who are leveraging technology to disrupt existing business models. 
+ Global 2000 companies are facing the urgent need to evolve into digital enterprises. They must simultaneously address two challenges  to implement digital technology and business models to compete with disruptive competitors and modernize their technology infrastructure and systems to seamlessly integrate into the digital ecosystem. 
+ Syntels message to its clients is Evolve the Core and Go Digital to achieve more. Syntel helps Global 2000 companies manage and modernize their existing IT systems and knowledge processes and delivers digital solutions to transform their business for the Digital Age. 
+ 
+
+ | Core Services: Optimize the management of Run the Business services, through outsourcing of their information technology (IT) and business / knowledge processes. The primary driver for outsourcing is greater efficiency through standardized processes, reliability and scalability, resulting in lower total cost of ownership.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3 
+ 
+
+ | Digital Services: Invest in transformational Change the Business digital programs to drive new customer acquisition, revenue growth, speed to market and business agility.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Demand for core IT services is driven by companies seeking to outsource not just specific projects for the design, development and integration of new technology systems, but also ongoing management, maintenance and enhancement of existing technology systems and infrastructure. Traditional application and infrastructure management services have evolved into integrated IT Operations services (IT Ops) through the use of intelligent automation. Service providers best positioned to benefit from the demand for Core Services have access to a pool of skilled professionals, a proven ability to manage large-scale IT and KPO programs, robust methodologies for managing transition, projects and risk, low-cost offshore software development facilities, and operational scalability to meet customer growth requirements. Providers with strong expertise in automation solutions can create competitive advantage by providing greater efficiency and lower risk. 
+ Digital Services include the implementation and management of new technology solutions in Big Data analytics, customer experience, process digitization and connected devices using Internet of Things (IoT). Demand for Digital Services is driven by skills in new and emerging technologies, an understanding of the complexities of a rapidly-changing technology landscape and knowledge of digital business models and their impact on different industries. Companies are increasingly adopting a Product Engineering approach for developing new applications, leveraging cloud based development platforms, Agile development methodology and integrated software development and testing (DevOps). 
+ Demand for Knowledge Process Outsourcing (KPO) services is driven by enterprises looking beyond IT outsourcing to drive cost efficiency by outsourcing business and knowledge processes. KPO services can deliver greater efficiency and improved service levels for the client. Companies are increasingly adopting automation technologies to drive greater efficiency levels in business process operations.     
+ Global delivery of services is an integral element of the business strategy of any Global 2000 corporation. Services globalization enables companies to access a global pool of skilled talent and capabilities to drive greater competiveness. A well-executed global services model delivers higher quality, lower cost, faster turnaround, and responsive and customized service. 
+ Syntels customer-centric approach delivers tangible value to clients through a flexible model that combines technology skills, intellectual property and business domain expertise to develop innovative solutions to solve unique business problems. Our organization is focused on and aligned to help customers strike the right balance between investing in new initiatives and optimizing and modernizing existing ones. Syntels Customer for Life philosophy emphasizes flexibility, customer responsiveness, value focus and a tradition of delivery excellence. 
+ During 2017, the Company provided services to 136 customers, primarily in the U.S. and Europe. Syntel has been chosen as a preferred vendor by many of its customers and has been recognized for its quality and responsiveness. The Company seeks to develop long-term relationships with 
+ 
+4 
+ 
+ its customers in order to become a trusted business partner and expand its presence with current customers. Additionally, the Company believes that its domain expertise, breadth of services and strong alignment with client culture and business imperatives are important decision factors in Syntel being chosen as a preferred vendor. The Companys investment in developing the SyntBots intelligent automation platform enables it to deliver higher levels of efficiency and quality to client engagements. 
+ The Company has an integrated sales and marketing approach that leverages a dedicated sales team to identify and acquire new accounts and work with engagement teams to expand and cross-sell within existing accounts. The sales and engagement teams efforts are complemented by teams who cover the analyst, advisory and product alliance channels. 
+ The Company believes that human resources are its most valuable asset and invests significantly in programs to recruit, train and retain technology and operations professionals. The Company recruits through a global recruiting network and maintains a broad package of employee support programs. Syntel believes that its management structure and human resources organization is designed to maximize the Companys ability to efficiently expand its professional staff in response to customer needs. The Company launched a global workforce transformation program called Syntel X.0 to prepare its workforce for the future. This comprehensive program realigns learning and development, career planning and performance measurement to meet the dynamic requirements of the Digital Age. 
+ As of December 31, 2017, Syntels worldwide billable headcount consisted of 17,307 professionals providing professional services to Syntels customers. 
+ The information set forth under Note 16, Geographic Information, to the Consolidated Financial Statements in the separate financial section of this Annual Report on Form 10-K is incorporated herein by reference. 
+ COMPETITIVE ADVANTAGE 
+ Over the past 37 years, Syntel has been able to align its services, client value proposition and its business model to stay ahead of the curve and remain relevant and valuable to its clients. Syntels competitive advantage is underpinned by the following core competencies: 
+ Customers for Life: The Company recognizes that its best source for new business opportunities comes from existing customers and believes that superior customer service is a differentiating factor  as evidenced by Syntels high rate of repeat business. At the beginning of a customer engagement, Syntels services are based on technical and domain expertise and experience. Over time, Syntel develops an in-depth knowledge of the customers business processes, applications, processes and industry, enabling Syntel to identify and implement new higher-value services for that customer. 
+ Industry Domain: Syntels mission statement is We create new opportunities for our clients by harnessing our talent, passion and innovation. The Company is focused on developing a strong understanding of its clients businesses to drive new opportunities to improve their business performance. Syntel has developed methodologies, toolsets and proprietary knowledge applicable to specific industries. Syntel combines deep industry knowledge with an understanding of its clients needs and technologies to provide high-value, high-quality services that are 
+ 
+5 
+ 
+ strongly linked to their underlying business. For the year ended December 31, 2017, the Companys percentage of revenue by industry segment was 45%, 18%, 18%, 15% and 4% for banking and financial services, retail, logistics and telecom, healthcare and life sciences, insurance and manufacturing, respectively. 
+ Depth and Breadth of Technology Service Offerings: The Company provides a comprehensive range of technology services, including IT Ops (application and infrastructure management), Product Engineering (application development, and testing), Legacy Modernization (application modernization, data modernization and cloud migration) and Digital (customer experience, process digitization, data and insights and IoT). This broad technology expertise and experience enables the Company to partner closely with its customers to solve a wide variety of business problems through the power of technology. 
+ Intellectual Property: Over its 37-year history, Syntel has developed proven methodologies and practices, innovative accelerators, tools and utilities, reusable software assets, and technical expertise for the development, management and transformation of its customers information systems and business processes. The Company believes this intellectual property enhances its ability to understand customer needs, design customized solutions and provide high quality services faster and cost-effectively. 
+ The Company strives to continually enhance its knowledge base by creating competencies in emerging technical fields such as automation, artificial intelligence, Big Data analytics, cloud computing, mobile and embedded technologies, open source platforms, and social media. Syntels intelligent automation platform SyntBots® is gaining traction among clients and analysts. 
+ Through these efforts, the Company delivers additional value to its clients, drives an expanded scope of work for existing customers, and creates greater efficiency in its own service delivery. 
+ In order to protect the Companys intellectual property rights, the Company relies upon a combination of non-disclosure and other contractual arrangements as well as trade secret, patent, copyright and trademark laws. The Company enters into confidentiality agreements with its employees, consultants, clients and potential clients, which limit access to and distribution of the Companys proprietary information. 
+ Commitment to Client Success: Syntel aligns its objectives with those of its clients by committing to outcome-based delivery models such as fixed-price, fixed-time frame engagements. The Company also believes its ability to take ownership for its clients successes is an important competitive differentiator in the marketplace. The Company leverages its domain expertise, skilled technical resources and proprietary tools and methodologies to meet and exceed customer expectations on these engagements. 
+ Global Delivery: Syntel performs its services on-site at customer locations, off-site at the Companys U.S. and European locations, and offshore at the Companys locations in Asia. By linking each of its service locations together through a dedicated data and voice network, Syntel provides a seamless service capability to its customers around the world, largely unconstrained by geographies, time zones and cultures. Syntels Global Delivery Model gives the Company the flexibility to deliver to each customer a unique mix of onsite, offsite, nearshore and offshore services to meet varying customer needs for direct interaction with Syntel personnel, access to technical and process expertise, resource availability and cost-effective delivery. 
+ 
+6 
+ 
+Benefits to clients include responsive delivery based on an in-depth understanding of client-specific processes and needs, quick turnaround, access to the most knowledgeable personnel and best practices, resource depth, 24-hour support seven days a week, scalability, and cost-effectiveness. Syntel has Global Development Centers in Pune, Mumbai, Gurugram (previously known as Gurgaon) and Chennai, India; Glasgow, Scotland; Krakow, Poland; and Manila, Philippines. The Company has offsite development facilities in Phoenix, Arizona; Memphis, Tennessee; Nashville, Tennessee, and a support center in Cary, North Carolina to support the Companys Global Delivery Model. 
+ BUSINESS STRATEGY 
+ The Company strives to become a strategic partner with its customers to manage the lifecycle of their technology, business and knowledge process operations. Syntels strategy is based on the following levers: 
+ Focus on wallet share expansion in current customers (Top 50) and selectively add new customers: Syntels emphasis on customer service and long-term relationships has enabled the Company to generate recurring revenues from existing customers. The Company has intensified its efforts to become a preferred supplier for all its top 50 accounts. The Company also seeks to expand its customer base within its chosen industries through sales and marketing efforts. The Company is also increasing its marketing efforts in other parts of the world, particularly in Europe. 
+ Leverage Global Delivery Model: The ability to deliver a seamless service capability virtually anywhere in the world from local and offshore facilities gives Syntel an effective ability to meet customer needs for technical and process expertise, best practice solutions, resource availability, scalability, responsive turnaround and cost-effective delivery. The Company has invested in expanding its offshore delivery footprint beyond India, and has established centers in Manila, Philippines and Krakow, Poland. A significant proportion of the Companys services are delivered from offshore delivery locations. Measured by billable headcount, the percentage of services delivered from offshore centers was approximately 76% and 76% as of December 31, 2017 and December 31, 2016, respectively. 
+ Selectively pursue partnership opportunities: The Company has entered into partnership alliances with numerous software product companies. These alliances combine the partners software capabilities with Syntels extensive implementation and delivery capabilities to drive value delivery to clients. Before entering into a partnership alliance, the Company considers a number of criteria, including: the technology employed, the industry served, the projected product lifecycle, the size of the potential market, the products integration requirements, and the reputation of the potential partner. 
+ Attract and retain highly skilled professionals: The Company believes that employees are its most valuable asset, and that its success depends in large part upon the ability to attract, develop, motivate, retain and effectively utilize highly skilled professionals. Over the years, the Company has developed a worldwide recruiting network, logistical expertise to relocate its personnel, and programs for human resource retention and development. 
+ 
+7 
+ 
+The Company believes that its management structure and human resources organization is designed to maximize the Companys ability to efficiently expand its professional staff in response to customer needs. The Company believes that its investments in creating world-class campus facilities have positively impacted its ability to attract and retain high quality talent. 
+ Additionally, the Companys Syntel X.0 program is designed to ensure that Syntels workforce stays up-to-date and equipped with the right skills, competencies and knowledge to meet changing customer requirements and continue delivering high-value technology and business solutions in the Digital Age. 
+ Focus on services powered by intelligent automation: Syntel has invested heavily in a comprehensive intelligent automation platform, SyntBots, which underpins the delivery of IT and process outsourcing services. Syntels IT Ops, Legacy Modernization, Product Engineering, Digital One and KPO services leverage the SyntBots platforms tools, components and accelerators, which enables the Company to deliver higher efficiency, improved quality, lower risk and greater value to clients. 
+ SERVICE OFFERINGS 
+ Syntels focus on customer service is evidenced by the high level of repeat business from existing customers, and the performance and quality awards its customers have bestowed on Syntel. During 2017, approximately 99% of Syntels revenue came from clients the Company has worked with for at least one year. Syntel has earned recognition for its quality and innovation from a host of clients in a variety of industries. Syntel is also an ISO 9001:2015 and ISO 27001:2013 certified company and has been issued a SOC 1 Type II report as per the Statement of Standard for Attestation Engagement No. 18 (SSAE18) and SOC 2 Type II report performed under AT Section 101, Attest Engagements (AICPA), Professional Standards. 
+ Syntel provides a comprehensive range of services to its customers, including IT Ops, Product Engineering, Legacy Modernization, Digital One® and KPO services. 
+ IT Operations Management (IT Ops): Drive availability, scalability and business agility 
+ Syntel provides end-to-end, integrated application and infrastructure management services to its clients. The ideal delivery method for these services is a managed services model, where Syntel assumes responsibility for managing the system and delivering agreed-upon service levels for availability, performance and problem resolution. The Companys SyntBots® intelligent automation platform delivers robust, reusable automation capabilities that enhance the productivity and quality of its IT Operations Management services. 
+ Product Engineering: Enable innovation at speed 
+ Enterprises are adopting a product engineering approach for building new software applications. Syntel enables clients to build and test applications using traditional and cloud-based development platforms. 
+ 
+8 
+ 
+ Syntel uses a Scaled Distributed Agile development methodology along with continuous testing and integration (DevOps) frameworks and toolsets to deliver new applications faster and more efficiently. The Companys SyntBots intelligent automation platform provides reusable tools and accelerators to improve productivity and quality in the development and testing cycle. 
+ Legacy Modernization: Digital-ready IT 
+ Global enterprises are often saddled with technical debt accumulated over the course of decades, which comprises older systems built on different technologies and architectures. Technical debt is one of the most significant obstacles that prevents enterprises from providing a seamless digital customer experience. Syntel has a comprehensive suite of services to help clients modernize their legacy systems to seamlessly interoperate with the digital ecosystem. 
+ Syntels legacy modernization services cover all three layers of the technology stack: applications, data and infrastructure. Syntels legacy modernization services include software analysis, language conversion, reverse engineering, database migration, code optimization, cloud onboarding and migration, ecosystem migration, testing and management. Syntels intelligent automation platform, SyntBots, provides tools and accelerators for faster speed to market, improved quality, greater efficiency and lower risk for modernization programs. 
+ Digital One: Deliver outstanding customer experience 
+ Syntels Digital One services enable clients to deliver outstanding customer experience across all digital channels. The Companys digital services include consulting, implementation and management of solutions for customer experience, data and insights, process digitization and smart connected devices. Syntels services cover a wide array of technologies across enterprise architecture, data warehousing, business intelligence, enterprise application integration (EAI), mobility, big data, analytics and Internet of Things (IoT). 
+ Knowledge Process Outsourcing 
+ Syntels KPO services provide high-value outsourced solutions for knowledge and business processes. Syntels proven process expertise combined with process automation capabilities using the SyntBots automation platform enables the Company to deliver greater efficiency and value to clients. 
+ Syntels Global Delivery Organization (GDO) is responsible for seamless delivery of IT services to all its clients. GDO enables greater efficiency, agility and client satisfaction through integrated and automation-enabled delivery of application and infrastructure services using a factory model. It enables the Company to respond to client needs for ongoing service and flexibility, and provides the ability to quickly and cost-effectively ramp up engagements to meet timing and resource demands for mission-critical applications. 
+ Syntel aligns its service delivery model to every customer organizations IT strategy and preferred delivery model. For example, if the customers business requires fast delivery of a mission-critical application update, Syntel will combine on-site professionals with knowledge of the customers business processes and applications with its global infrastructure to deliver around-the-clock resources. If the customers primary goal is cost 
+ 
+9 
+ 
+ reduction, Syntel may increase the portion of work performed at its offshore Global Development Centers to significantly lower costs. The Company believes that its ability to provide flexible service delivery and access to resources permits responsiveness to customer needs and is an important factor that differentiates its services in the marketplace. 
+ The Company believes its approach to providing these services and its commitment to improved business outcomes results in a long-term collaborative relationship with customers. 
+ CUSTOMERS 
+ Syntel provides its services to a broad range of Global 2000 corporations in the banking and financial services, healthcare and life sciences, insurance, manufacturing, retail, logistics and telecom industries. 
+ During 2017, the Company provided services to 136 customers, principally in the U.S. and Europe. The Company also serves a number of customers in Asia, many of whom are subsidiaries or affiliates of U.S. customers. 
+ For the years ended December 31, 2017, 2016 and 2015, the Companys top ten customers accounted for approximately 69%, 73% and 74% of the Companys total revenues, respectively. The Companys three largest customers in 2017 contributed approximately 16%, 15% and 14%, respectively, of the total revenues. The Companys largest customer for the years ended December 31, 2017, 2016 and 2015 was American Express, accounting for approximately 16%, 22% and 21% of the total consolidated revenues for the years ended December 31, 2017, 2016 and 2015, respectively. The Companys second-largest customer, State Street Bank, contributed approximately 15%, 14% and 15% of total consolidated revenues for the years ended December 31, 2017, 2016 and 2015, respectively. Finally, the Companys third-largest customer, Federal Express Corporation, contributed approximately 14%, 12%, and 12% of total consolidated revenues for the years ended December 31, 2017, 2016 and 2015, respectively. 
+ SALES AND MARKETING 
+ The Company markets and sells services directly through a professional sales and account management team operating from the Companys offices in key markets across North America and Europe. 
+ The sales and account management team is aligned by industry vertical and is equipped to sell the entire range of Syntel services to existing and prospective clients. The sales team is supported by domain and technical subject matter experts from the client solutions, practice, pre-sales and delivery teams. 
+ The sales cycle involves multiple stages including marketing activities to generate leads, collateral and capability presentations, responding to RFIs (Requests for Information) and RFPs (Requests for Proposal), technical solution development, presenting proposals to clients, hosting site visits for clients and commercial and contractual negotiations. 
+ The sales team collaborates with Syntels client solutions, pre-sales, practice, delivery, finance, marketing, human resources and legal teams to develop a technical solution and commercial value proposition that meets client requirements. Senior Syntel leaders from Sales, Business Unit and Corporate functions are involved and engaged with client management throughout the sales process. 
+ 
+10 
+ 
+The sales cycle for IT engagements can range from six to twelve months and depends on the nature of the services required and contracted for, as well as the scope, size and complexity of the engagement. 
+ The sales cycle for KPO engagements can range from six to eighteen months from initial contact to execution of an agreement, and varies by type and scope of services, account size and complexity of the engagement. 
+ The Companys marketing initiatives cover traditional and digital channels to connect and engage with customers and prospects. Digital channels include Syntels corporate website, online advertising, social media outreach and online events such as webinars. Offline channels include direct marketing campaigns, sponsoring and exhibiting at conferences and tradeshows, hosting client-focused events, public relations activities and maintaining strong relationships with industry trade groups, industry analysts and sourcing advisory firms. 
+ HUMAN RESOURCES 
+ The Company believes that its human resources are its most valuable asset. As of December 31, 2017, the Company globally had 22,114 full-time employees including a billable headcount of 17,307 providing a wide range of IT and KPO services to Syntels customers. 
+ The Company has implemented a management structure and human resources organization intended to maximize the Companys ability to efficiently expand its professional staff to meet customer demands. The Company believes that it has the capability to meet its anticipated future staffing needs for IT and KPO professionals through its established recruiting, talent management and training programs. 
+ Talent Acquisition: The Company has developed a robust recruiting methodology over the years, with campus hiring as the primary focus in key global regions. The Company has also significantly expanded its global recruiting team, with recruiters in the U.S., Europe, the Philippines, and at offices across India working to recruit candidates with the right mix of skills and experience to support its global customer base. 
+Talent Management: 
+ The Company seeks to provide meaningful development and advancement opportunities to its employees, which the Company believes leads to improved employee retention and better customer service.
+ Syntel X.0 is the Companys key workforce transformation initiative, which aims to foster a learning culture powered by agility, inspired leadership, and empowered people. 
+ In addition, Syntels talent management program STEP (Syntel Talent Engagement Program) is focused on amplifying the agility of our employees and helping them evolve with and stay ahead of changing market needs and requirements. The primary objectives of this program is to focus on employee potential, nurture employee talent and identify future leaders from within the Companys ranks. 
+ 
+11 
+ 
+As part of its retention strategy, the Company provides a competitive compensation and benefits package on par with industry standards. 
+ Training: 
+ In line with Syntel X.0, Syntels entire training framework is powered by an exhaustive learning engine, which is mapped to an industry standard content library that provides on-demand learning opportunities to Syntel employees. 
+ Syntels training team leverages proven methodologies and practices with the objective of developing a consistent and reliable talent pool of qualified IT and KPO professionals. Syntel periodically introduces new and relevant training programs to enhance the skills and abilities of its employees in one of the Companys four core training areas: Technical, Functional, Industry Domain, and Management.
+ 
+
+ | Technical training programs encompass the core technology skills, programming languages, software packages, and development methodologies used for executing projects.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Functional training is primarily focused on instructing employees how to properly execute processes involved in the Companys KPO engagements.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Industry domain training is intended to provide employees with deep knowledge of the fundamental principles of a customers underlying business.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Management training covers a range of topics that include project management, leadership development, and behavioral skills.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+ Training is delivered in instructor-led, eLearning and video learning modes, in stand-alone as well as blended learning formats. 
+ COMPETITION 
+ The IT and KPO services industry is competitive, fragmented and subject to rapid changes. The Company competes for business with a variety of other firms, including system integrators, application software companies, professional services companies and contract programming companies. 
+ Syntel competes with IT services companies that utilize a similar integrated on-site/offshore business model, such as Tata Consultancy Services, Cognizant Technology Solutions, Infosys Technologies and Wipro Technologies, as well as large global IT service providers like Accenture and IBM Global Services. 
+ Competition also arises from geographies such as Eastern Europe and the Philippines, as well as from smaller local companies in the various geographic markets in which Syntel operates. 
+ In KPO services, the Company primarily competes with other offshore KPO vendors including Genpact, HCL, Wipro Technologies, WNS, and with offshore captive units established by client organizations. 
+ AVAILABLE INFORMATION 
+ Syntel makes available free of charge, through its website, its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after they are electronically filed with or furnished to the SEC. The URL for Syntels web site is www.syntelinc.com. 
+ 
+12 
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT 
+ The executive officers of the Registrant, their ages, and the position or office held by each, are as follows: 
+ 
+
+NAME | AGE | POSITION 
+Bharat Desai | 65 | Co-Chairman and Director 
+Prashant Ranade | 65 | Co-Chairman and Director 
+Rakesh Khanna | 55 | Chief Executive Officer, President and Director 
+Anil Agrawal | 41 | Chief Financial Officer and Chief Information Security Officer 
+Daniel M. Moore | 63 | Chief Administrative Officer, General Counsel and Secretary 
+Rahul Aggarwal | 48 | Vice President, Insurance Business Unit Head 
+Ben Andradi | 57 | Vice President, Head  Europe Sales 
+Sameer Arora | 47 | Vice President, Chief Marketing Officer 
+Sanjay Garg | 51 | Vice President, Chief Executive Officer, State Street Syntel Services Private Limited
+Anil Jain | 59 | Senior Vice President, Head  Sales NAO 
+Chetan Manjarekar | 52 | Senior Vice President, Digital One Head 
+Sujay Puthran | 46 | Vice President, Global Head  Human Resources & Administration 
+V. S. Raj | 54 | Senior Vice President, Banking and Financial Services Business Unit Head 
+
+ 
+13 
+ 
+
+Raja Ray | 55 | Senior Vice President, RCT, Logistics and Travel Business Unit Head
+Murlidhar Reddy | 48 | Senior Vice President, Healthcare Business Unit Head 
+Narendar Reddy | 53 | Vice President, Life Sciences Business Unit Head 
+Avinash Salelkar | 55 | Vice President, Manufacturing Business Unit Head 
+Ramakumar Singampalli | 50 | Senior Vice President, Chief Delivery Officer 
+
+ Bharat Desai is a co-founder of the Company and serves as its Co-Chairman of the Board and as a director. He served as the Companys Chief Executive Officer from the Companys formation through February 2009 and has been the Chairman of the Companys Board of Directors since February 1999 and Co-Chairman since November 2016. 
+ Prashant Ranade was appointed Co-Chairman in November 2016. He served as Executive Vice Chairman from April 2014 to October 2016 and Chief Executive Officer and President of the Company from February 2010 to April 2014. He has served as a director of the Company since June 2007. 
+ Rakesh Khanna was appointed Chief Executive Officer and President of the Company in July 2017. He previously served the Company as Interim Chief Executive Officer from November 2016 to July 2017 and as Chief Operating Officer from January 2012 to October 2016. He has served as a director of the Company since July 2017. 
+ Anil Agrawal was appointed Chief Financial Officer and Chief Information Security Officer in October 2016. Mr. Agrawal served as Acting Chief Financial Officer and Chief Information Security Officer from December 2015 to October 2016 and has been with the Company since April 2001 serving in various positions in the finance and operations departments including most recently as Head of Corporate Financial Planning and Analytics. 
+ Daniel M. Moore has served the Company as Chief Administrative Officer, General Counsel and Secretary since August 1998. 
+ Rahul Aggarwal was appointed Vice President, Insurance Business Unit Head in December 2016. Mr. Aggarwal has been with the Company since February 2008 and served as MSO Location Head from June 2014 to November 2016 and Head for Infrastructure Services from January 2013 to May 2014. 
+ Ben Andradi was appointed Vice President, Head  Europe Sales in March 2015. Mr. Andradi has been with the Company since June 2009 and was responsible for the Banking and Financial Services and Insurance business units in Europe through March 2015. 
+ 
+14 
+ 
+Sameer Arora was appointed Vice President, Chief Marketing Officer in November 2016. Mr. Arora previously served with Syntel as Vice President  Emerging Technologies & Innovation from January 2016 to October 2016, Vice President & Head  Digital One from June 2014 to December 2015, and Vice President & Head Marketing from December 2010 to May 2014. 
+ Sanjay Garg was appointed Vice President, Chief Executive Officer State Street Syntel Services Private Limited in July 2013. Mr. Garg has been with the Company since May 2011 serving in various other KPO service delivery capacities. 
+Anil Jain was appointed Senior Vice President  Head Sales NAO in December 2016. Mr. Jain previously served the Company as Senior Vice President, Insurance Business Unit Head from February 2006 to November 2016. 
+ Chetan Manjarekar was appointed Senior Vice President, Digital One Head in January 2016. Mr. Manjarekar previously served with Syntel as Senior Vice President, HeadEnterprise Solutions Group from June 2014 to December 2015 and Vice President, Head Strategic Offerings Group from December 2006 to May 2014. 
+ Sujay Puthran was appointed Vice President, Global Head  Human Resources and Administration in December 2016. Prior to that Mr. Puthran served the Company as HeadHR Operations from December 2009 to December 2016. 
+V. S. Raj was appointed Senior Vice President, Banking and Financial Services Business Unit Head in November 2012. Mr. Raj served as Chief Executive Officer of State Street Syntel Services Private Limited from October 2008 to June 2013. 
+ Raja Ray was appointed Senior Vice President, RCT, Logistics and Travel Business Unit Head in December 2016. Mr. Ray was Senior Vice President, Retail, CPG, and Telecom Business Unit Head from January 2015 to November 2016 and he was Senior Vice President, Retail, Logistics and Telecom Business Unit Head from February 2011 to December 2014. 
+ Murlidhar Reddy was appointed Senior Vice President, Healthcare Business Unit Head in July 2016. Prior to that, he served as Senior Vice President, Healthcare and Life Sciences Business Unit Head from October 2011 to June 2016. 
+ Narendar Reddy was appointed Vice President, Life Sciences Business Unit Head in July 2016. Prior to that, Mr. Reddy served the Company as Vice President  Healthcare and Life Sciences Sales for North America from April 2012 to July 2016. 
+ Avinash Salelkar was appointed Vice President, Manufacturing Business Unit Head in February 2011. 
+ Ramakumar Singampalli was appointed Senior Vice President  Chief Delivery Officer in December 2016. Mr. Singampalli previously served the Company as Senior Vice President, MSO Head from June 2014 to December 2016. Prior to that, he headed corporate strategy as Vice President, Strategic Initiatives from May 2010 to June 2014. 
+ 
+15 
+ 

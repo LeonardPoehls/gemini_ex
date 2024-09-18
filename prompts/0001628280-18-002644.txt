@@ -1,0 +1,225 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Overview
+We are a cloud-based technology platform and distributor of affordable individual and family health insurance plans (“IFP”) which include short-term medical (“STM”) insurance plans, and guaranteed-issue and underwritten health benefit insurance plans ("HBIP"), previously referred to as hospital indemnity plans. Through our technology platform, we also offer supplemental products which include a variety of additional insurance and non-insurance products that are frequently purchased as supplements to IFPs. We work in concert with carriers to help them develop products for our target markets. We are not an insurer and do not process or pay claims. The health insurance products we help develop are underwritten by third-party insurance carriers with whom we have no affiliation apart from our contractual relationships. We assume no underwriting, insurance or reimbursement risk.
+We help design and structure IFPs and supplemental products in concert with insurance carriers and discount benefit providers. We market products to individuals through our internal distribution network, and we also use an external distribution network consisting of independently owned and operated licensed-agent call centers to market to individuals. For both our internal distribution network and our external distribution network, we collect money and manage the member's non-claims related experience for the IFPs and supplemental products.
+STM plans feature a streamlined underwriting process offering immediate coverage options. STM plans generally offer qualifying individuals insurance benefits for fixed short-term durations. STM plans provide up to three months of health insurance coverage with a wide range of deductible and copay levels. In 2016, the Internal Revenue Service, the Employee Benefits Security Administration, and the U.S Department of Health and Human Services, collectively “HHS,” published Internal Revenue Bulletin 2016-47, which provided that, effective January 1, 2017, all STM plans submitted before April 1, 2017 must terminate no later than December 31, 2017, and effective April 1, 2017, new limits were set on STM duration to periods of less than three months but allowing for re-applications with the same or different health insurance carrier. 
+On February 20, 2018, the Departments of Health and Human Services, Labor, and Treasury, proposed a new rule that would change the way that short-term, limited duration insurance coverage (or short-term plans) is regulated. The proposed rule was developed in response to President Trump's executive order from October 2017 that directed the federal government to expand access to short-term plans, association health plans, and health reimbursement arrangements. 
+The new rule would extend the maximum duration of these plans from three months to "less than 12 months" (which could be as long as 364 days). The new rule also includes updated notice requirements. The proposed rule specifies that these new requirements would go into effect 60 days after publication of the final rule in the Federal Register. Comments from stakeholders regarding the proposed rule will be accepted until late April 2018. The Departments of Health and Human Services, Labor, and Treasury, will then need to consider these comments, draft a final rule, undergo inter-agency review, and then obtain approval by the Office for Management and Budget before releasing the final rule.
+HBIPs are insurance products which include both guaranteed-issue and underwritten plans that pay fixed cash benefits, and additional benefits for certain plans, for covered procedures and services for individuals under the age of 65. These highly customizable products are generally on an open-provider network without copayments or deductibles and do not have defined policy term lengths.
+We provide numerous low-cost supplemental insurance and discount benefit products, including pharmacy benefit cards, dental plans, vision plans, cancer/critical illness plans, deductible and gap protection plans, and life insurance policies that are frequently purchased as supplements to IFPs. These are typically monthly programs with automatic renewal that are not affected by the changes to rules relating to the maximum duration or renewal of STM products.
+We manage member relations via email, through our online member portal, which is available 24 hours a day, seven days a week, and via telephone. Our online enrollment process allows us to aggregate and analyze consumer data and purchasing habits to track market trends and drive product innovation.
+Our scalable, proprietary, and web-based technology platform provides members immediate access to the products we sell through our internal and third-party distribution channels. Members can tailor product selections to meet their personal insurance and budget needs, buy policies and print policy documents and identification cards in real-time. Our technology platform uses abbreviated online applications, some with health questionnaires, to provide an immediate "accept or reject" decision using rules and criteria determined by the carriers for the products we offer. Once an application is accepted, individuals can use our automated 
+4
+
+payment system to complete the enrollment process and obtain instant electronic access to their policy fulfillment documents, including the insurance policy, benefits schedule and identification cards. We receive credit card and Automated Clearing House (“ACH”) payments directly from members at the time of sale. Our technology platform provides scalability and, on a per-policy-basis, reduces the costs associated with marketing, selling, and administering policies.
+Our sales of IFP and supplemental products focus on the under-penetrated segment of the U.S. population who are uninsured or underinsured. These respective classes include individuals not covered by employer-sponsored insurance plans, such as the self-employed, small business owners and their employees, individuals who are unable to afford the rising cost of IMM premiums, underserved “gap populations” that require insurance due to changes caused by life events, such as new graduates, divorcees, early retirees, military discharges, the unemployed, part-time and seasonal employees and potential members seeking health insurance between the open enrollment periods created under the Patient Protection and Affordable Care Act (“PPACA”).
+As the managing general underwriter and/or broker of IFP and supplemental products, we receive all amounts due in connection with the plans we sell and administer on behalf of the service providers. We refer to these total collections as "premium equivalents," which typically represent a combination of premiums, fees for discount benefit plans, enrollment fees, and third-party commissions and referral fees. From premium equivalents, we remit risk premiums to carriers and amounts earned by discount benefit plan providers, who we refer to as third-party obligors, as such carriers and third-party obligors are the ultimate parties responsible for providing the insurance coverage or discount benefits to the member. Our revenues consist of the net balance of the premium equivalents.
+We collect premium equivalents upon the initial sale of the plan and then monthly upon each subsequent periodic payment under such plan. We receive most premium equivalents through online credit card or ACH processing. As a result, we have limited accounts receivable. We generally remit the risk premium to the applicable carriers and the amounts earned by third-party obligors on a monthly basis based on their respective compensation arrangements.
+We also provide consumers with access to health insurance information search and comparison technology through our website, HealthPocket.com. This website allows consumers to easily and clearly compare and rank health insurance plans available for an individual, family or small business, empowering consumers to make health plan decisions and reduce their out-of-pocket costs.
+In 2015, we launched a direct-to-consumer insurance website that allows consumers to research health insurance trends, comparison shop, and purchase IFP under the AgileHealthInsurance® brand. AgileHealthInsurance.com (“Agile”) is one of the few internet sites dedicated to helping consumers understand the benefits of Term Health Insurance and HBIP. We use the term “Term Health Insurance” to refer to fixed-term health insurance products of less than one year in duration, such as STM plans. These IFP plans are the culmination of extensive research on health insurance needs in the PPACA era, and we believe consumers will be able to find affordable prices for these plans on Agile. Agile utilizes what we believe is a best-in-class plan comparison and online enrollment tool for STM and HBIP.
+
+Health Insurance Industry and Market Opportunity
+
+In recent years there have been major proposed changes to health insurance laws. Some of these proposals were implemented under PPACA and the Health Care and Education Reconciliation Act of 2010 (“HCERA”), which we collectively refer to as “Healthcare Reform.” These reforms imposed requirements on a broad segment of the population, including a mandate that most individuals carry health insurance or face tax penalties (the “Individual Mandate Penalty”); tax credits and subsidies for the policy premium costs of IMM plans for qualifying individuals; the establishment of a mandatory set of ten Essential Health Benefits for IMM plans; a mandate that certain employers offer most of their employees group health insurance coverage or face tax penalties; prohibitions against insurance companies that offer IMM insurance plans using pre-existing health conditions as a reason to deny an application for health insurance; and medical loss ratio (“MLR”) requirements that require each health insurance carrier to spend a certain percentage of its IMM premium revenue on reimbursement for clinical services and activities that improve healthcare quality. Among other things, these changes resulted in a dramatic increase in the unsubsidized average premium for IMM plans as compared to the pre-reform IMM market. We benefit from the exemption of STM (i.e., those with durations less than three months) from the MLR requirements and pre-existing condition prohibitions but are disadvantaged by the tax penalties, to which those insured under STM plans remain subject through December 31, 2018.
+
+The implementation of Healthcare Reform has, among other things, increased the average premium for IMM plans, caused carriers to narrow networks under IMM plans and restricted the availability (except in limited circumstances) to open enrollment periods. Our IFP plans’ affordable premium prices, wide acceptance among healthcare providers and year-round availability provide consumer value not available under PPACA health plans. In addition, Healthcare Reform mandates MLR thresholds that require that IMM carriers use 80% to 85% of all premiums collected to pay claims. This has significantly reduced agent commission 
+5
+
+rates on IMM policies, forcing many agents to abandon the traditional face-to-face IMM sales model. Since 2014, IMM carriers are also subject to a pre-existing condition mandate requiring them to accept all members regardless of their pre-existing conditions and to cover all ten Essential Health Benefits. These required coverages further increases the cost of IMM coverage. Unlike IMM plans, our IFP products are not subject to narrow networks and are exempt from the minimum MLR thresholds, “must-carry” pre-existing conditions requirements, and Essential Health Benefits requirements under Healthcare Reform, allowing us to offer more attractive commission rates to our distributors while providing products with average premium cost significantly more affordable than unsubsidized PPACA health plans. We believe these dynamics in the health insurance industry present an opportunity to increase our market share in the individual health insurance market.
+In addition, Healthcare Reform also required the establishment of health insurance exchanges (“Exchanges”) where individuals can select and purchase health insurance plans. We believe that our STM products are an attractive option to non-subsidized on- and off- Exchange health insurance policies.
+
+Since the 2016 Presidential election, there have been several changes made to Health Insurance laws and regulations. President Trump signed Executive Order 13765, an “Executive Order Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal”, on January 20, 2017 (the “Executive Order”), which includes a requirement for Insurance Commissioners and others to “encourage the development of a free and open market in interstate commerce for the offering of healthcare services and health insurance, with the goal of achieving and preserving maximum options for patients and consumers.” Following the issuance of this Executive Order, for the 2017 filing season, the IRS did not require filers to indicate whether they had PPACA compliant health insurance coverage; however, the IRS reversed its position for the 2018 filing season, and has stated that it will not accept any electronically filed tax returns for fiscal year 2017 where the taxpayer does not report full-year health insurance coverage, claim a coverage exemption, or report a shared responsibility payment. Additional reforms to PPACA were implemented under the Tax Cut and Jobs Act of 2017 (“Tax Act”) passed on December 22, 2017. Among other changes under the Tax Act, beginning in 2019, the government will no longer attempt to collect any Individual Mandate Penalty from individuals and families who do not obtain health insurance coverage, although the Healthcare Reform requirement for individuals to carry health insurance remains in effect.
+
+These ongoing changes in the health insurance industry have expanded and reshaped our target market and we believe the market will continue to evolve. We intend to pursue opportunities to help meet consumers’ needs for affordable health insurance. We believe that our technology platform, product focus and industry expertise will allow us to gain an increasing share of this growing market.
+
+Our Strategy
+
+Our objective is to continue to expand our business and increase our presence in the affordable, web-based health insurance solutions market. Our principal strategies to meet this objective are:
+
+• | Drive Continuous Product Innovation. We constantly strive to diversify our product portfolio to provide consumers with more choices for their health insurance needs. In addition to our long-standing relationships with insurance carriers, we continue to develop relationships with new carriers to improve and increase our product mix to help consumers find the right insurance coverage at the right price points while providing new revenue streams to the Company. The expected changes to PPACA are likely to lead to additional opportunities for consumers to obtain health insurance coverage better suited to their needs.
+
+
+• | Enhance the Consumer Experience. We have invested significant resources and strive to be market leaders in our member service and compliance areas, utilizing new technology and additional personnel.
+
+
+• | Online sales experience via AgileHealthInsurance.com. In 2015, we launched a direct-to-consumer insurance website that allows consumers to research health insurance trends, comparison shop, and purchase IFP under the AgileHealthInsurance® brand. AgileHealthInsurance.com is one of the few internet sites dedicated to helping consumers understand the benefits of Term Health Insurance. We will continue to expand our direct to consumer web presence with continued focus on its profitability.
+
+
+• | Strengthen and Grow Traditional Distribution Channels. The extensive traditional distribution network we access includes independently owned and operated licensed-agent call centers to sell insurance products. We offer a compensation structure to our distributors that we believe motivates distributors to work with us. By continuing to offer highly competitive commission rates and advance commission arrangements, we believe we will continue to attract new distributors as the insurance marketplace continues to evolve, and we intend to continue to grow our relationships with traditional distributors.
+
+6
+
+
+• | Strategic acquisitions and other transactions. We may acquire, or invest in, companies, products or technologies that complement our current products, enhance our market coverage, technical capabilities or production capacity, or offer growth opportunities.
+
+Our Competitive Strengths
+
+Proprietary, Web-Based, Direct-to-Consumer Technology Platforms
+Since we began operations in 2008, we have invested significant financial and human resources in building a unique and scalable proprietary, web-based technology platform. Our technology represents a distinct competitive advantage as it reduces the need for customer care agents, the time associated with quoting, billing, underwriting, fulfillment, sale and marketing and provides significant operating leverage as we add members and product offerings. We have acquired the intellectual property rights to certain software-based technologies as further explained below.
+Automated Real-Time Integrated E System (“A.R.I.E.S.”)
+
+A.R.I.E.S. is our proprietary product, distribution, and customer management platform. We believe A.R.I.E.S represents a distinct competitive advantage as it reduces the need for customer care agents and provides significant operating leverage as we add members and product offerings. The A.R.I.E.S. platform processes and combines data that is used in insurance plan and product design, sales and distribution of our products and product bundles, member services, business and regulatory compliance, and general reporting. Key elements of A.R.I.E.S. include:
+
+• | Quote-Buy-Print. Individuals access our technology platform through our distributors and can quote products and buy and print their policy documents and identification cards anytime, anyplace.
+
+
+• | Automated Underwriting. The entire underwriting process is handled by A.R.I.E.S. through the use of health questionnaires approved by the insurance carriers. Because our IFP products are largely targeted to individuals who do not have significant pre-existing conditions and our HBIP are guaranteed-issue, we do not have a traditional underwriting department. Underwriting for IFP products is an immediate accept or reject decision based on a prospective member’s answers to an abbreviated online health-related questionnaire.
+
+
+• | Multiple Value-Added Products. Consumers are able to complement our IFP offerings with supplemental products such as pharmacy benefit cards, dental plans, vision plans and cancer/critical illness plans. Our technology platform makes it possible for us to instantly offer these bundled products to fit member needs.
+
+
+• | Turn-Key Solution. Our technology platform is a turnkey solution, allowing distributors to tailor their offering to meet member needs and can be customized to enhance the experience of an affinity group or employer.
+
+
+• | Payment. Through our online platform, we receive credit card and ACH payments directly from members at the time of sale and automatically process recurring payments.
+
+
+• | Member Services. Members have the ability to log-in and change payment information and print new identification cards, all without the need of a customer service representative.
+
+
+• | Verification and Compliance. We have incorporated eSign technology from Adobe Sign, part of Adobe Inc., on our platform to streamline compliance by providing real-time verification to our members’ mobile devices. This technology has allowed us to further automate our compliance program, enhancing quality while minimizing overhead.
+
+
+• | Integration with AgileHealthInsurance®. Our A.R.I.E.S. platform integrates directly with our direct to consumer AgileHealthInsurance.com platform.
+
+Established Long-Standing Insurance Carrier Relationships
+
+One of our core strengths is long-standing relationships with some of the leading insurance carriers in the United States. This enables us to offer a broad range of IFP and supplemental products on our technology platform. We have entered into written contracts with each of these carriers pursuant to which we sell the carriers’ health plans and supplemental products in exchange for the payment of commissions that vary by carrier and by plan. These contracts are typically non-exclusive and terminable by either party on notice or at the expiration of the term.
+7
+
+
+Our management team has developed close relationships with the senior management teams of many of our insurance carriers. We believe that the nature of our relationships with our insurance carriers, combined with our product knowledge and technology platform, allow us to provide value-added products to our members. Our relationships with highly rated insurance carriers include Federal Insurance Company ("CHUBB"), AXIS Insurance Company, Everest Reinsurance Company, Standard Life and Accident Insurance Company, and Nationwide Mutual Insurance among others. We also continue to develop relationships with new carriers to help us expand our product portfolio.
+
+Long-Term Relationships with Licensed Insurance Distributors
+
+Our product expertise, our relationships with multiple insurance carriers, our focus on compliance, and our scalable technology platforms make us a partner of choice for our distributors. We have extensive knowledge of the individual health insurance products that we help design and fulfill, which allows us to assist our distributors in placing business. Our management team has built a broad distribution network and continuously adds new third-party licensed independent distributors.
+Seasoned Management Team
+
+Our management team has substantial experience and long-standing relationships developed over long periods in the insurance and online insurance marketing industries. Our management team draws on its broad industry experience to identify opportunities to expand our business and collaborate with insurance carriers and distributors to help develop products and respond to market trends.
+Our Product Offerings
+
+Our differentiated product offerings allow us to build leading positions in our target markets for insurance and related products. The key products we provide include:
+
+• | Short-Term Medical Plans. STM plans provide up to three months of health insurance coverage with a wide range of deductible and copay levels. In 2016, HHS published Internal Revenue Bulletin 2016-47, which provided that, effective January 1, 2017, all STM plans submitted before April 1, 2017 must terminate no later than December 31, 2017, and effective April 1, 2017, new limits are set on STM duration to periods of less than three months but allowing for re-applications with the same or different health insurance carrier.
+
+Because the STM plans we offer do not cover pre-existing and often chronic health conditions, and since STM plans have a limited duration, these policies have been designed with generally lower member premiums as compared to IMM insurance.
+
+• | Health Benefit Insurance Plans. Our HBIP typically provide individuals with a daily cash benefit for hospital treatment and doctor office visits as well as accidental injury and death or dismemberment benefits.
+
+
+• | Supplemental Products. We provide numerous supplemental insurance and discount benefit products, including pharmacy benefit cards, dental plans, vision plans and cancer/critical illness plans, deductible and gap protection plans, and life insurance policies that are frequently purchased as supplements to IFP.
+
+Sales and Marketing
+
+Our sales and marketing initiatives primarily consist of hiring experienced sales professionals to strengthen our relationships with existing and potential third-party distributors, implementing marketing campaigns, attending industry-sponsored events, and direct-to-consumer via the internet. We utilize our owned call center and independent third-party distributors and independent brokers to market our products to potential members.
+
+We derive a significant portion of our AgileHealthInsurance® website traffic through contractual marketing relationships with online businesses. These marketing relationships include online advertisers, content providers and insurance lead aggregators. We also attract website traffic from consumers who search for health insurance through internet search engines. A critical factor in attracting consumers to our website is whether we are prominently displayed in response to internet searches broadly relating to health insurance topics. As part of this marketing strategy, we employ both algorithmic listings and paid advertisements to attract consumers to our website.
+
+8
+
+Seasonality
+
+The marketing of IFP and supplemental plans is subject to seasonal fluctuations that we believe have been largely impacted by Healthcare Reform. Beginning in 2013, under Healthcare Reform, open enrollment periods were created. During these periods, individuals can enroll in individual insurance programs. During the times that these open enrollment periods are closed, we have the capability to sell our IFP products as health insurance to consumers who are ineligible for plans under PPACA. During the five open enrollment periods to date, we experienced significant fluctuations in sales. Other seasonality trends may develop and the existing seasonality and consumer behavior that we have experienced to date may change as legislative changes to Healthcare Reform continue and our markets change.
+Competition
+
+The market for selling insurance products is highly competitive and the sale of health insurance over the internet is rapidly evolving. We compete with individuals and entities that offer and sell health insurance products utilizing traditional distribution channels, as well as the internet. Our current and potential competitors include:
+
+Traditional local insurance agents. There are thousands of local insurance agents across the United States who sell health insurance products in their communities. We believe that the vast majority of these local agents offer health insurance without significantly utilizing the internet or technology other than simple desktop applications such as word processing and spreadsheet programs. Some traditional insurance agents, however, utilize general agents that offer online quoting services and other tools to obtain quotes from multiple carriers and prepare electronic benefit proposals to share with their potential members. These general agents typically offer their services only for the small and mid-sized group markets (not the individual and family markets) and operate in only a limited geographic region. Additionally, some local agents use the internet to acquire new consumer referrals from companies that have expertise in internet marketing. These “lead aggregator” companies utilize keyword search, primarily paid keyword search listings on various online search engines and other forms of internet advertising, to drive internet traffic to the lead aggregator’s website. The lead aggregator then collects and sells consumer information to agents and, to a lesser extent, to carriers, both of whom endeavor to close the referrals through traditional offline sales methods.
+
+Health insurance carriers’ “direct-to-member” sales. Some carriers directly market and sell their plans and products to consumers through call centers and their own websites. Although we offer health insurance plans and products for many of these carriers, they also can compete with us by offering their products directly to consumers. Most of these carriers have brand recognition, extensive marketing budgets and significant financial resources to influence consumer preferences for searching and buying health insurance online. 
+
+Online agents. There are a number of agents that operate websites and provide a limited online shopping experience for consumers interested in purchasing health insurance (e.g., online quoting of health insurance product prices). Some online agents also sell non-health insurance products such as auto insurance, life insurance and home insurance.
+
+Exchanges. Government and privately-administered Exchanges have been established under Healthcare Reform where individuals can select and purchase health insurance plans.
+
+National insurance brokers. Although insurance brokers have traditionally not focused on the affordable IFP market, they may enter our markets and could compete with us. These large agencies have existing relationships with many of our carrier companies, are licensed nationwide and have large customer bases and significant financial, technical and marketing resources to compete in our markets. Some of these large agencies and financial services companies have worked with us in order to offer our services to their customer and member bases.
+
+We believe the principal factors that determine our competitive advantage in the online distribution of health insurance include the following:
+
+• | affordable, value added healthcare, supplemental, and related products;
+
+
+• | proprietary, web-based technology platform;
+
+
+• | strength of carrier relationships and depth of technology integration with carriers;
+
+
+• | data-driven product design;
+
+
+• | highly automated compliance program;
+
+9
+
+
+• | strength of distribution relationships; and
+
+
+• | proven capabilities measured in years of delivering sales and creating and using reliable technology.
+
+ Intellectual Property
+
+Our success depends, in part, on our ability to protect our intellectual property and proprietary technology, and to operate our business without infringing or violating the intellectual property or proprietary rights of others. We rely on a combination of copyrights, trademarks, domain names, trade secrets, intellectual property licenses and other contractual rights (including confidentiality and non-disclosure agreements), including our proprietary technology. However, these intellectual property rights may not prevent others from creating a competitive online platform or otherwise competing with us.
+
+For more information see Item 1A. Risk Factors—“We rely on third-party vendors to develop, host, maintain, service and enhance our technology platform” and Item 1A. Risk Factors—“Our failure to obtain, maintain and enforce the intellectual property rights on which our business depends could have a material adverse effect on our business, financial condition and results of operations.”
+
+Healthcare Laws and Regulations
+
+Our business is subject to extensive, complex and rapidly changing federal and state laws and regulations. Various federal and state agencies have discretion to issue regulations and interpret and enforce healthcare laws. While we believe we comply in all material respects with applicable healthcare laws and regulations, these regulations can vary significantly from jurisdiction to jurisdiction, and interpretation of existing laws and regulations may change. Federal and state legislatures also may enact various legislative proposals that could materially impact certain aspects of our business. The following are summaries of key federal and state laws and regulations that impact our operations:
+Healthcare Reform
+
+In March 2010, Healthcare Reform was signed into law. Healthcare Reform contains provisions that have changed and will continue to change the health insurance industry in substantial ways. For example, Healthcare Reform includes a mandate requiring individuals to be insured or face tax penalties; a mandate that employers with over 50 employees offer their employees group health insurance coverage or face tax penalties; prohibitions against insurance companies that offer IMM plans using pre-existing health conditions as a reason to deny an application for health insurance; MLR requirements that require each health insurance carrier to spend a certain percentage of their premium revenue on reimbursement for clinical services and activities that improve healthcare quality; establishment of Exchanges to facilitate access to, and the purchase of, health insurance; and subsidies and cost-sharing credits to make health insurance more affordable for those below certain income levels.
+
+Healthcare Reform amended various provisions in many federal laws, including the Internal Revenue Code, the Employee Retirement Income Security Act of 1974 and the Public Health Services Act. Healthcare Reform is being implemented by the Department of Health and Human Services, the Department of Labor and the Department of Treasury. Many of the PPACA regulations became effective on or before January 1, 2014. Through these regulations, the federal government and its implementing agencies may regulate or otherwise impose restrictions upon all types of health insurance including the IFP products that we sell. Although the Supreme Court of the United States upheld Healthcare Reform’s mandate requiring individuals to purchase health insurance in 2012, the Tax Act has eliminated the Individual Mandate Penalty for individuals who do not purchase such health insurance beginning in 2019, and there is additional uncertainty about whether other parts of Healthcare Reform or PPACA regulations will remain in effect or be further amended, with the possibility of future litigation with respect to certain provisions as well as legislative efforts to repeal and defund portions of Healthcare Reform or Healthcare Reform in its entirety. We cannot predict the outcome of any future legislation or litigation related to Healthcare Reform. As described under “Item 1. Business—Health Insurance Industry and Market Opportunity,” Healthcare Reform has resulted in profound changes to the individual health insurance market and our business, and we expect these changes to continue.
+
+10
+
+Internal Revenue Bulletin: 2016-47
+
+On June 10, 2016, the Internal Revenue Service, the Employee Benefits Security Administration, and the U.S Department of Health and Human Services, collectively “HHS,” proposed rule 2016-13583, that impacts STM insurance. On October 31, 2016, HHS published the rule substantially as proposed despite opposition from significant stakeholders during the open comment period. The rule limits STM duration to periods of less than three months but allows for re-applications with the same or different health insurance carrier. The rule also requires notification of non-compliance with the minimum essential coverage standards set forth in the Affordable Care Act. The rule went into effect on January 1, 2017. On October 12, 2017, President Trump signed an Executive Order promoting healthcare choice and competition across the United States which calls for expanded availability of short-term, limited-duration insurance, such as STM, to consider allowing such insurance to cover longer periods and be renewed by the consumer.
+
+Anti-Kickback Laws
+
+In the United States, there are federal and state anti-kickback laws that generally prohibit the payment or receipt of kickbacks, bribes or other remuneration given with the intent to induce the referral of patients or other health-care program related business. The federal Anti-Kickback Statute makes it unlawful for individuals or entities to knowingly and willfully offer, pay, solicit, or receive any remuneration, directly or indirectly, to induce or reward referrals of items or services reimbursable by a federal healthcare program. Where remuneration is paid purposefully to induce or reward referrals of items or services payable by a federal healthcare program, the Anti-Kickback Statue is violated. For purposes of the Anti-Kickback Statute, “remuneration” includes the transfer of anything of value, directly or indirectly, overtly or covertly, in cash or in kind. There are also state law corollaries to the federal Anti-Kickback Statute. Penalties for violations include criminal penalties and civil sanctions such as fines, imprisonment, and possible exclusion from federal healthcare programs.
+
+Federal Civil False Claims Act and State False Claims Laws
+
+The federal civil False Claims Act imposes liability on any person or entity who, among other things, knowingly presents, or causes to be presented, a false or fraudulent claim for payment by a federal healthcare program. The “qui tam” or “whistleblower” provisions of the False Claims Act allow a private individual to bring actions on behalf of the federal government alleging that the defendant has submitted a false claim to the federal government, and to share in any monetary recovery. There are also state law corollaries to the federal False Claims Act. Our future activities relating to the manner in which we sell and market our services may be subject to scrutiny under these laws.
+HIPAA, Privacy Laws and Data Security Regulations
+
+By processing data on behalf of our clients and members, we are subject to specific compliance obligations under privacy and data security-related laws, including the Health Insurance Portability and Accountability Act (“HIPAA”), the Health Information Technology for Economic and Clinical Health Act (the “HITECH Act”), and related state laws. We are also subject to federal and state security breach notification laws, as well as state laws regulating the processing of protected personal information, including laws governing the collection, use and disclosure of social security numbers and related identifiers.
+
+The regulations that implement HIPAA and the HITECH Act establish uniform standards governing the conduct of certain electronic healthcare transactions and protecting the security and privacy of individually identifiable health information maintained or transmitted by healthcare providers, health plans, and healthcare clearinghouses, all of which are referred to as “covered entities,” and their “business associates” (which includeds anyone who performs a service on behalf of a covered entity involving the use or disclosure of protected health information and is not a member of the covered entity’s workforce). Our carrier companies’ and our clients’ health plans generally will be covered entities, and as their business associate, we may asked to contractually comply with certain aspects of these standards by entering into requisite business associate agreements with the covered entities. Under the HIPAA implementing regulations, business associates and covered entities can each be held individually responsible for privacy and data security breaches.
+
+HIPAA Health Care Offense Standards
+
+HIPAA created a class of federal crimes known as the “Federal health care offenses,” including healthcare fraud and false statements relating to healthcare matters. HIPAA prohibits, among other things, executing a scheme to defraud any healthcare benefit program, or concealing a material fact or making a materially false statement in connection with the payment for healthcare benefits, items or services. Entities that are found to have aided or abetted in a violation of HIPAA's Federal health care offense provsions are deemed by statute to have committed the offense and are punishable as a principal.
+
+11
+
+State Privacy Laws
+In addition to federal regulations issued under HIPAA, some states have enacted privacy and security statutes or regulations, or State Privacy Laws, that govern the use and disclosure of a person’s medical information or records and, in some cases, are more stringent than those issued under HIPAA. These State Privacy Laws include regulation of health insurance providers and agents, regulation of organizations that perform certain administrative functions such as utilization review or third-party administration, issuance of notices of privacy practices, and reporting and providing access to law enforcement authorities. In those cases, it may be necessary to modify our operations and procedures to comply with these more stringent State Privacy Laws. If we fail to comply with applicable State Privacy Laws, we could be subject to additional sanctions.
+Consumer Protection Laws
+
+Federal and state consumer protection laws are being increasingly enforced by the United States Federal Trade Commission (“FTC”), the Federal Communications Commission (“FCC”), and the various states’ attorneys general to regulate the collection, use, storage and disclosure of personal or patient information, through websites or otherwise, and to regulate the presentation of web site content and to regulate direct marketing, including telemarketing and telephonic communication. Courts may also adopt the standards for fair information practices promulgated by the FTC, concerning consumer notice, choice, security and access.
+
+As part of the payment-related aspects of our business, we may also undertake security-related obligations arising out of the USA Patriot Act, Gramm-Leach-Bliley Act and the Payment Card Industry guidelines applicable to card systems. These requirements generally require safeguards for the protection of personal and other payment related information.
+
+State Insurance Laws
+
+Some of the states in which we operate have laws prohibiting unlicensed persons or business entities, including corporations, from making certain direct and indirect payments or fee-splitting arrangements with licensed insurance agents and brokers. Possible sanctions for violation of these restrictions include loss of license and civil penalties. These statutes vary from state to state, are often vague, and have seldom been interpreted by the courts or regulatory agencies.
+
+State insurance laws also require us to maintain any combination of insurance agency, broker, and third-party administrator licenses in each state in which we transact health insurance business and adhere to sales, documentation and administration practices specific to that state. Where there is any ambiguity or uncertainty in statutes as to whether we require a particular type of license in a state, we seek to obtain that license. In addition, each of our employees who solicits, negotiates, sells or transacts health insurance business for us must maintain an individual insurance agent or broker license in one or more states. Because we transact business in the majority of states, compliance with health insurance-related laws, rules and regulations is difficult and imposes significant costs on our business.
+
+In certain states, some of our products may only be available as a group association plan. In these states members must enroll in group programs or associations in order to access certain of our insurance products, benefits and services. We have entered into relationships with such associations in order to provide individuals access to our products. For example, we have an agreement with Med-Sense Guaranteed Association (“Med-Sense”), a non-profit association that provides membership benefits to individuals and gives members access to certain of our products. Under the agreement, we primarily market membership in the association and collect certain fees and dues on its behalf. In return, we have sole access to its membership list, Med-Sense exclusively endorses the insurance products that we offer and we receive compensation for our services. Our agreement with Med-Sense is automatically renewable for one-year terms, unless terminated on 120 days written notice by either party. The agreement is also terminable on 15 days’ written notice by either party under certain circumstances, such as in the case of a breach.
+
+Employees
+
+As of December 31, 2017, we had 199 employees, of which 196 were full-time employees. As of December 31, 2016, we had 174 employees, of which 172 were full-time employees. We have not experienced any work stoppages and consider our employee relations to be good. None of our employees are represented by a labor union.
+
+12
+

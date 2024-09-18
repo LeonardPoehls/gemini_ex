@@ -1,0 +1,109 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+PART I 
+--------
+Item 1. | Business | 3 
+Item 1A. | Risk Factors | 6 
+Item 1B. | Unresolved Staff Comments | 10
+Item 2. | Properties | 10
+Item 3. | Legal Proceedings | 10
+Item 4. | Mine Safety Disclosures | 10
+
+ITEM 1. BUSINESS
+General
+ 
+MobileSmith, Inc. (referred to herein as, “MobileSmith,” the “Company,” “us,” “we,” or “our”) was incorporated in Delaware in August 1993 and became a public company through a self-registration in February 2005. The Company’s common stock trades on the OTC Market (OTC.QB) under the symbol “MOST”.
+Principal Products and Services
+ 
+
+ We develop and market healthcare industry solutions designed to improve delivery of healthcare by means of mobile technology.  Our software-as-a-service (“SaaS”) platform and related services provide a catalog of vetted mobile app tools that can be rapidly customized and implemented by healthcare organizations with goals of addressing many key pain points of the industry, including preventable readmissions, adherence to treatment plans, management of chronic conditions. Our flagship product is the MobileSmith® Platform (the “Platform”).    The Platform is an innovative hosted set of tools that enables organizations to rapidly create, deploy, and manage custom, native smartphone and tablet apps specific to healthcare industry deliverable across iOS and Android mobile platforms without writing a single line of code. Platform related services often include data integration, training and integration of third party services. We also provide consulting services, which include assistance with design and implementation of mobile strategy, implementation of mobile marketing strategy and development of mobile apps.  Revenue from such services is included in the Professional Services and Other Revenue line of our Statement of Operations.  Delivery of Professional Services requires allocation of a portion of our research and development efforts into Cost of Revenue. 
+ 
+   The Platform has applications outside of healthcare and has been successfully deployed in retail and real estate operations.
+ 
+Mode of Operations
+ 
+In our business model the customers acquire access to the Platform through user subscription agreements and are able to obtain control of mobile app production. We often refer to our business model as platform-as-a-service ("PaaS"), because we not only offer cloud software to create mobile apps, we offer infrastructure to host the newly created mobile apps, back-office tools to manage those apps, cloud tools to connect customers data or ability to incorporate existing third party software code into customer apps.  Out Platform is a truly comprehensive offering and thus more accurately described by the PaaS model.  In the industry and this report terms SaaS and PaaS may be used interchangeably as common reference to cloud computing model. 
+ 
+Our business model allows for creation and management of any desired number of apps by our customers for a monthly subscription fee. The on-demand PaaS model developed using multi-tenant architecture enables end users to visit a website and use the PaaS applications, all via a web browser, with no installation, no special information technology knowledge and no maintenance. The PaaS application is transformed into a service that can be used anytime and anywhere by the end user. Multi-tenant PaaS applications also permit us to add needed functionality to our applications in one location for the benefit of all end users. This capability allows us to provide upgrades universally.
+ 
+
+  
+3
+
+ 
+
+Target Market and Sales Channels
+ 
+During 2017 we completed a strategic shift and focused our business activities and research and development primarily on healthcare industry in the United States.  Although our Platform was designed with broad use in mind, our customer base started to increasingly gravitate towards healthcare clients and hospitals and once we developed industry expertise, validated use cases that demonstrate return on investment from use of mobile apps in healthcare, we solidified our focus on the healthcare industry.
+ 
+We identified several trends in healthcare that are affecting use of mobile technology in healthcare market:
+ 
+   ●
+  Increased pressures on healthcare industry to provide consumer-focused services, as evidenced by entry of non-traditional healthcare players, like retail pharmacies into offering primary healthcare nation wide;
+
+   ●
+  Tech-savvy Generation X and Millennial consumers are becoming primary healthcare consumers and are demanding ease of use and transparency in healthcare and expect mobile access to healthcare services, information and interaction with the healthcare provider via mobile device;
+
+   ●
+  Increasing pressure from both government regulation and the traditional private payers to reduce costs by compensating healthcare providers based on value and outcome delivered.
+
+
+We believe that the do-it-yourself model for creation and management of apps will become a cost effective solution for healthcare clients who have an ever increasing need to interact with their customers and employees through mobile devices. Single apps may reach their limits of usability very quickly, if made complex. The Platform provides the subscriber with the capacity to create multiple, customized non-template apps with designated functionalities and specific designs without incurring additional costs.
+ 
+
+Principal Customers
+ 
+In 2016 we had a major retail customer that accounted for approximately 15% of our 2016 revenue.  The same customer accounted for approximately 7% of 2017 revenue.  In 2017 we had a major healthcare customer in federal government space that accounted for 46% of our 2017 revenue.  The revenue from this major government customer had been deferred  in compliance with United States Generally Accepted Accounting Principles ("US GAAP") revenue recognition requirements for sale of software products and services and was recognized during 2017, when such requirements were met.  Contracts with both the major retail and major government customers ended as of December 31, 2017.  Our future revenues will be negatively impacted by loss of these two major customers. 
+Research and Development
+ 
+In 2017 we continued to enhance the Platform with various functionalities sought by current and target customers.  We continuously monitor such demand, rapidly develop the functionalities and make them available to all our customers, current and future.
+ 
+
+ During 2017, our Blueprints feature (Blueprint is a  fully customizable pre-built app targeting specific healthcare related business function or health condition)  proved successful, so we focused on Platform enhancements to optimize its use:
+  
+   ●
+ We completed a “clone app” feature that allows any app or app Blueprint to be easily copied, stored, or modified to be shared across any customer account.  We will continue to enhance this feature until our platform can offer a crowd-sourced app block functionality;
+
+   ●
+ We added a new wayfinding app block that allows any healthcare company to plug in a mapping platform and provide a Google maps blue dot style navigation through their hospital complexes;
+
+   ●
+ We added a set of services offerings to help our customers quickly customize and deploy our Blueprints.
+
+ 
+ Based on a detailed competitive assessment, we started a process of modernizing our Platform to take advantage of the latest iOS and Android capabilities: we released support for Android’s Material Design Language, as well as support for Android 8 (Oreo) and iOS 11.  We expect to complete this project to support VIPER architecture that allows pluggable custom code blocks in 2018.
+ 
+ Our research and development team has begun a fundamental redesign of the Platform architecture to take advantage of new technologies from Amazon Web Service to provide highly scalable multi-tenant functionality. 
+ 
+We incurred research and development expenses of approximately $1.67 million and $1.7 million in 2017 and 2016, respectively.
+   
+4
+
+ 
+
+ Competition
+ 
+ We occupy a unique position among a larger number of rapid app development platforms on the market, becauses we provide a no-code platform that allows for full customization of developed apps and includes ability to quickly add reusable custom native code or hybrid HTML 5 code targeting industry specific features, complex user interfaces, and workflows into a single seamless app user experience.  Our competitors tend to focus on only one rapid app development style (no code, hybrid, or low code) which limits their ability to either leverage non-programmers, or their ability to quickly provide custom functionality.
+   
+ Investment in building our expertise in healthcare industry adds to our competitive advantage.
+
+Intellectual Property
+ 
+During 2014, we stopped pursuing the majority of our patent applications as we determined that the cost of pursuing them is greater than the potential protection provided by them.  Since then we have been granted one patent associated with our Platform.
+ 
+We also have several trademarks registered with the U.S. Patent and Trademark Office. These trademarks cover certain names that identify specifics of the Platform user interface.
+ 
+ Employees
+ 
+As of December 31, 2017, we had 32 full time employees and no part-time employees. None of our employees are subject to collective bargaining agreements.
+ 
+ Available Information
+ 
+Our corporate information is accessible through our main web portal at www.MobileSmith.com. We are not including the information contained on our website as a part of, or incorporating it by reference into, this Annual Report on Form 10-K. Although we endeavor to keep our website current and accurate, there can be no guarantees that the information on our website is up to date or correct. We make available, free of charge, access to all reports filed with the U.S. Securities and Exchange Commission (the “SEC”), including our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K, and amendments to these reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The Company’s reports filed with, or furnished to, the SEC are also available on the SEC’s website www.sec.gov.
+ 
+  
+5
+
+ 
+ 

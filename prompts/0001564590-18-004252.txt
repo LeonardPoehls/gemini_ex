@@ -1,0 +1,170 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Our Business 
+OVERVIEW
+ At Engility Holdings, Inc. our 8,700 employees share a single goal: to relentlessly support our customers in improving global stability, security and safety. We offer a broad range of highly technical services, leveraging our strengths in systems engineering, cybersecurity, high performance computing, enterprise modernization, and training and mission operations to solve our customers’ most difficult challenges. 
+ Engility was formed as a result of its spin-off from L3 Technologies (formerly, L-3 Communications Holdings, Inc.) (L3) in July 2012.  Engility has provided mission critical services to the U.S. government for more than 60 years. During the past five years, we completed two transformative acquisitions – Dynamics Research Corporation (DRC) in 2014 and TASC, Inc. (TASC) in 2015. These acquisitions enabled us to diversify our customer base and capabilities, add substantial scale to our business and increase our addressable market.
+ During 2017, we streamlined our operating structure around three business groups – Intelligence Solutions, Space and Mission Systems and Defense and Security – to improve customer intimacy, enhance employee collaboration, and drive efficiencies throughout the organization so we could further invest in growth-related activities. These groups serve a broad range of customers, including the U.S. Department of Defense (DoD), U.S. Department of Justice (DoJ), U.S. Department of State (DoS), Federal Aviation Administration (FAA), Department of Homeland Security (DHS), and space-related and intelligence community agencies, including the Central Intelligence Agency (CIA), the National Security Agency (NSA), the National Geospatial-Intelligence Agency (NGA), Defense Intelligence Agency (DIA), the National Reconnaissance Office (NRO), National Aeronautical and Space Administration (NASA) and U.S. Air Force Space Command (AFSPC).
+ Our Strategy
+
+Our business strategy is anchored by three key objectives: (i) deliver sustained organic revenue growth, (ii) attract, retain and develop the best talent in our industry and (iii) strengthen our balance sheet by deploying our significant cash flows to pay down debt. 
+
+1
+
+ 
+ABOUT ENGILITY
+
+Deliver Sustained Organic Revenue Growth
+ We seek to deliver sustained organic revenue growth by: 
+  
+• | Delivering Differentiated Solutions. We strive to deliver innovative solutions to solve our nation’s toughest challenges, with focus on growth areas such as cybersecurity, enterprise modernization and mission operations support. For example, in October 2017, we launched Synthetic AnalystTM, Engility’s artificial intelligence solution that augments, automates and accelerates how human analysts operationalize Big Data for more swift and precise mission execution. This technology was developed for our Intelligence Solutions customers, but has applicability across our Space and Defense customers as well. In addition, in May 2017, we introduced Cloud ASCEND™, a methodology for enterprise cloud architecture, migration and optimization. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Strengthening Trusted Relationships with our Customers. A strong customer reputation is critical to both expanding our current customer base and penetrating new and adjacent markets. Our exceptional program performance is evidenced by our high contract award fee and customer satisfaction scores, as well as our significant number of sole source contract awards. In 2017, sole source contract awards accounted for approximately 52% of our total awards, which reflects the trust and confidence we have built with our customers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expanding the use of GWAC and IDIQ Contract Vehicles. In 2017, we increased our focus on winning additional task orders under our substantial portfolio of government-wide acquisition contract (GWAC) and indefinite delivery, indefinite quantity (IDIQ) vehicles.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expanding into High Growth Markets. During 2017, we expanded our presence in certain locations that have strategic importance to our customers. These new locations included an office in Augusta, Georgia, to expand our presence with the Army Cyber Command, and an additional office in Houston, Texas to better support the NASA Johnson Space Center.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Attract and Retain the Best Talent in Our Industry
+ We seek to attract the best talent in our industry by:
+  
+• | Investing in Talent. Our success depends on the strength of our employees. Over the last 18 months, we made substantial progress on our human capital initiatives, attracting new leadership to several key functions within our organization. We also have invested in our employees through enhancements to our benefits, training and development programs. These initiatives have led to an increase in employee engagement and new hire referral rates, and lowered our attrition rate.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Forming Partnerships. We established key partnerships in 2017 to enhance our recruiting efforts in our primary markets. As an example, we partnered with the Astronaut Scholarship Foundation to enhance recruiting efforts in the growing space community. We also entered into a partnership with the Center for Cyber Safety and Education to offer cyber certification scholarships to military veterans. This scholarship will help us recruit veterans with clearances and highly sought-after cyber skills.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Strengthen the Balance Sheet 
+ We are undertaking the following initiatives to strengthen our balance sheet:
+  
+• | Effectively Managing our Debt. After refinancing our outstanding debt in 2016, we repriced our floating-rate debt twice in the first nine months of 2017. As a result of these initiatives, we are realizing approximately $30 million in annualized cash interest savings at December 31, 2017 debt levels. We also took action to hedge a material portion of our floating rate debt from 2018 through 2020 given the anticipated rise in interest rates.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Generating Strong Operating Cash Flow. In 2017, we used our strong cash flow generated by our operations and refinancing activities and significant tax attributes to repay approximately $110 million of our outstanding indebtedness.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+2
+
+ 
+ABOUT ENGILITY
+
+Our Capabilities
+
+We support our customers with a wide range of specialized technological and mission expertise. Our portfolio of offerings are assembled around capabilities that our customers demand and require. 
+ Systems Engineering and Integration (SE&I). We provide engineering and integration solutions that support our customers throughout the acquisition and sustainment lifecycle of their programs. Our SE&I service offerings include engineering and technology lifecycle support, information assurance, modeling and simulation, and architecture analysis and modernization.
+ Cybersecurity. The U.S. government has identified cyber security as a top priority—from the DoD’s need to harden weapon systems from attacks to the Department of Homeland Security’s mission of protecting our country’s critical infrastructure. We modernize and develop new systems with cyber resiliency at its core with offerings that include vulnerability assessments and penetration testing, independent test and evaluation, cybersecurity systems engineering, cyber quick reaction range capability, and cyber hunting.
+ High Performance Computing. Our legacy of high performance computing (HPC) stretches back a quarter of a century. We collaborate with scientists, technologists and decision-makers across the Federal government, industry and academia to apply complex science to real-world challenges. Our HPC capabilities include architecture and infrastructure design, data management and analytics, integration and testing, and systems operation, optimization and sustainment.
+ Enterprise Modernization. Engility’s enterprise services and systems optimize operations, increase cost efficiencies and improve mission effectiveness. Our offerings include architecture analysis and modernization, I.T. services and solutions, including our recently developed Cloud ASCEND™ solution, and agile software development and integration.
+ Mission and Operations Support. With Engility’s expertise in mission strategy, tactics and technical execution, we provide solutions that give our customers flexibility, efficiency and effectiveness in accomplishing their critical missions, including in the following areas: artificial intelligence, our Synthetic Analyst™ solution, space launch and space flight, law enforcement, intelligence analysis, air traffic management, engineering and fabrication, and communication data exchange through our Joint Range Extender (JRE) system.
+ Readiness and Training. From curriculum design and development to training implementation and evaluation, we help domestic and international clients prepare to meet the challenges of increasingly complex environments and missions. Our readiness and training solutions include training development, learning and knowledge management and QuickRange™, our turn-key, modular shooting range.
+
+3
+
+ 
+ABOUT ENGILITY
+
+Our Customers
+
+We have strong and long-standing relationships with the U.S. government customers we serve, both domestically and abroad. We have long-standing customer relationships and our team members have built a reputation of trust and reliability. To best service these customers, in 2017, we consolidated our operations into three groups – Intelligence Solutions, Space and Mission Systems and Defense and Security.  
+Intelligence Solutions
+ Drawing upon 40 years of experience and a team with significant mission and technical expertise, the Intelligence Solutions Group (ISG) provides leading-edge solutions and capabilities to the intelligence community. Significant activities include:
+
+• | We have highly technical intelligence analysts that support our customer’s missions.
+--+-------------------------------------------------------------------------------------
+
+
+• | We developed Synthetic Analyst™, a new kind of artificial intelligence (AI) that can cost-effectively increase government productivity by automating, augmenting and accelerating mission decisions.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our team partnered with NGA to design the Innovative GEOINT App Provider Program to provide the NGA unprecedented access to Silicon Valley and non-traditional commercial vendors.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Space and Mission Systems
+ Our Space and Mission Systems Group (SMSG) brings responsive, sophisticated aerospace and systems engineering expertise and tools—tested through 50 years of service to our nation’s space enterprise and mission operations. Key work performed by SMSG includes:
+
+• | Delivering systems engineering and integration expertise to the U.S. Air Force Space and Missile Systems Center to ensure Global Positioning Systems (GPS) quality, functionality and cybersecurity.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enhancing high performance computing codes to help NOAA, FDA, and the DoD improve the performance and effectiveness of complex aeronautical, cyber, biological, and weather/climate simulations.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Providing technical and engineering services to the U.S. Federal Aviation Administration’s efforts to modernize the country’s air traffic management system.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+ABOUT ENGILITY
+
+Defense and Security 
+ With more than 55 years of experience, Engility is a trusted and committed partner of the U.S. Department of Defense, including every service branch of the U.S. military. Our Defense and Security Group (DSG) works closely with the DoD to optimize the warfighter mission readiness and increase operating tempo. Key engagements include:
+
+• | Developing the first U.S. Air Force Cyber Vulnerability Assessment/Hunt capability to seek, identify and understand adversaries within the defender’s network.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Delivering Navy synthetic fleet training for units to develop operator-level proficiency and validation of tactics, techniques and procedures prior to real-world operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Providing technical expertise to the Army Research Laboratory to perform advanced research in robotics to support and protect the warfighters.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Competition
+ We serve a broad range of customers within the government services market and compete against a range of companies that specialize in certain segments of the market as well as others that cut across a broader range of customers. Those competitors that are most like Engility in terms of their breadth of market coverage include services-focused companies such as Booz Allen Hamilton Holding Corporation, CACI International Inc., CSRA Inc., Leidos Holdings, Inc., ManTech International Corporation, Science Applications International Corporation (SAIC), and Vencore; operating units of large multi-segment defense contractors and industry conglomerates including AECOM Technology Corporation, BAE Systems, Inc., General Dynamics Corporation, KBR, Inc., Jacobs Engineering Group Inc., Northrop Grumman Corporation and Raytheon Company as well as many other large and small entities depending on the expertise requirements of government customers.
+Our Employees
+ Our employees are our most valuable resource. We are in continuous competition for highly-skilled professionals in virtually all of our business areas. The success and growth of our business is significantly correlated with our ability to recruit, train, promote and retain high quality people at all levels of the organization. As of December 31, 2017, we employed approximately 8,700 individuals globally and operated in 44 countries, with approximately 14% of our employees located outside of the United States. We are led by an experienced executive team, which is composed of industry, U.S. military and government veterans.
+Our Contracts
+ As of December 31, 2017, we had over 2,000 active contracts and task orders that require our presence in 44 countries. We have access to task orders on a large number of U.S. GWACs and IDIQ contract vehicles. We also have strong teaming relationships with our industry peers, which allow us access to numerous other contract vehicles. For the year ended December 31, 2017, our ten largest contracts represented approximately 28% of our consolidated revenue and no single contract accounted for more than 7% of our consolidated revenue. We generated approximately 83% of our revenue as a prime contractor in fiscal year 2017.
+ Generally, our contract types are cost reimbursable or fixed price, of which the latter includes time and materials pricing. On a cost-type contract, we are paid our allowable direct and indirect incurred costs up to a contractually defined ceiling plus a fee that can be fixed or variable. On a fixed-price contract, we agree to perform a contract’s statement of work for a contractually defined sales price. On time-and-material type contracts, we are paid for direct labor, commonly in hours, performed at contractually defined fixed-price rates and materials with direct and indirect cost. 
+
+5
+
+ 
+ABOUT ENGILITY
+
+ 
+The graphs below provide our contract mix as a percentage of total revenue as of December 31, 2017, both by contract type and prime contract versus subcontract.
+
+Backlog
+ We define total backlog as the value of firm orders received from customers, less the cumulative amount of revenue recognized on such orders and customer deobligations. Total backlog includes both funded backlog (firm orders for which funding is contractually obligated by the customer) and unfunded backlog (firm orders for which funding is not currently contractually obligated by the customer) including unexercised options on multi-year contracts. Total backlog includes potential orders under single award IDIQ contracts, however, it excludes potential orders under multiple award IDIQ contracts. 
+ Additional information regarding funded and total backlog can be found in Part II, Item 7 of this Form 10-K.
+ 
+Regulatory Matters
+ We serve as a prime contractor or major subcontractor for numerous U.S. government programs. As a result, we are subject to extensive regulations and requirements of the U.S. government agencies and entities which govern these programs, including with respect to the award, administration and performance of contracts under such programs. 
+ U.S. government contracts generally are subject to the Federal Acquisition Regulation (FAR), which sets forth policies, procedures and requirements for the acquisition of goods and services by the U.S. government, agency-specific regulations that implement or supplement FAR, such as the DoD’s Defense Federal Acquisition Regulation Supplement, and other applicable laws and regulations. These regulations impose a broad range of requirements, many of which are unique to government contracting, including various procurement, import and export, security, contract pricing and cost, contract termination and adjustment, and audit requirements. In addition, government contractors are also subject to routine audits and investigations by U.S. government agencies such as the Defense Contract Audit Agency (DCAA). We are also involved in U.S. government programs which are classified by the U.S. government and cannot be specifically described in this Annual Report.  Although virtually all of our revenues come from the U.S. government, a material amount of our work on behalf of the U.S. government is conducted internationally. As a result, our international operations are subject to a number of additional government laws, regulations and policies, both U.S. and foreign, including the International Traffic in Arms Regulations (ITAR) and the Foreign Corrupt Practices Act (FCPA), and their comparable foreign law equivalents.
+
+6
+
+ 
+ABOUT ENGILITY
+
+Additional Information
+ On February 26, 2015, we completed the acquisition of TASC, a leading professional services provider to the national security and public safety markets. Our common stock trades on the New York Stock Exchange (NYSE) under the symbol “EGL.”
+ As a condition to the merger agreement in connection with the acquisition of TASC, we entered into a Stockholders Agreement, dated February 26, 2015 and amended as of February 28, 2018, with Birch Partners, LP (Birch), and for the limited purposes set forth therein, certain investment funds affiliated with Kohlberg Kravis Roberts & Co. L.P. (KKR) and certain investment funds affiliated with General Atlantic LLC (GA) (the Stockholders Agreement). The Stockholders Agreement establishes certain rights, restrictions and obligations of Birch, KKR and GA and sets forth certain governance and other arrangements relating to Engility, including the right of Birch to designate (i) four directors for nomination to our board of directors for so long as each of KKR and GA (including their respective affiliates) beneficially own at least 50% of the shares of our common stock it owned as of the date of the Stockholders Agreement or (ii) two directors for nomination to our board of directors for so long as each of KKR and GA (including their respective affiliates) beneficially own at least 25% (but less than 50%) of the shares of our common stock it owned as of the date of the Stockholders Agreement.
+ Our principal executive offices are located at 4803 Stonecroft Blvd., Chantilly, Virginia 20151. Our telephone number is    703-633-8300. Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports will be made available free of charge through the Investor Relations section of our website (http://www.engility.com) as soon as practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (SEC). Material contained on our website is not incorporated by reference into this report.
+ The public may also read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports, proxy and information statements and other information regarding issuers, including us, that file electronically with the SEC located at http://www.sec.gov.
+ As used in this report, references to “Engility Holdings,” “Engility,” “the Company,” “we,” “us” or “our” refer to Engility Holdings, Inc., a Delaware corporation incorporated in 2012, and its subsidiaries, for all periods prior to the closing of the TASC acquisition, and (ii) to successor Engility Holdings, Inc., a Delaware corporation, incorporated in 2014 under the name New East Holdings, Inc. (New Engility), and its subsidiaries for all periods following the TASC acquisition.
+ 
+
+
+
+7
+
+ 
+RISK FACTORS
+

@@ -1,0 +1,153 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.    Business
+Recent Development
+On January 29, 2018, we entered into an agreement and plan of merger (the “Merger Agreement”) with SAP America, Inc., a Delaware corporation (“SAP”) and Emerson One Acquisition Corp., a Delaware corporation and a wholly-owned subsidiary of SAP (“Merger Sub”).
+Pursuant to the terms of the Merger Agreement, and subject to the conditions thereof, Merger Sub will merge with and into Callidus Software Inc. and we will become a wholly-owned subsidiary of SAP (the “Merger”). If the Merger is completed, our stockholders will be entitled to receive $36.00 in cash for each share of our common stock owned by them as of the date of the Merger.
+The consummation of the Merger is subject to certain conditions, including (i) adoption of the Merger Agreement by holders of a majority of our outstanding common stock entitled to vote thereon, (ii) the accuracy of our, SAP’s and Merger Sub’s respective representations and warranties, subject to specified materiality qualifications, (iii) the expiration or termination of any waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, as well as any similar filings and clearances under certain foreign antitrust laws (the “Regulatory Approvals”), (iv) the absence of a Company Material Adverse Effect (as defined in the Merger Agreement), and (v) other customary conditions.
+The special meeting of our stockholders to vote on adoption of the Merger Agreement will be held on March 29, 2018. If our stockholders adopt the Merger Agreement at the special meeting and all Regulatory Approvals are received prior to such time, Callidus and SAP currently anticipate that all other conditions set forth in the Merger Agreement will either be satisfied or waived, and closing of the transactions contemplated by the Merger Agreement will occur, within three International Business Days (as defined in the Merger Agreement) after the special meeting. For additional information related to the Merger and the Merger Agreement, please refer to our Current Report on Form 8-K filed with the Securities and Exchange Commission (“SEC”) on January 30, 2018, and the Definitive Proxy Statement on Schedule 14A filed with the SEC on February 22, 2018. The foregoing description of the Merger Agreement is qualified in its entirety by reference to the full text of the Merger Agreement, which is incorporated by reference as Exhibit 2.1 to this Annual Report on Form 10-K. Upon completion of the Merger, shares of our common stock will cease trading on The Nasdaq Stock Market.
+Overview
+CallidusCloud® is a global leader in cloud-based sales, marketing, learning and customer experience solutions. CallidusCloud enables our customers to sell more, faster with its Lead to Money suite of solutions that, among other things, identifies leads, trains personnel, implements territory and quota plans, enables sales forces, automates configuration pricing 
+and quoting, manages contracts, streamlines sales compensation, captures customer feedback and provides rich predictive analytics for competitive advantage. Over 6,400 leading organizations, across all industries, rely on CallidusCloud to optimize the Lead to Money process to close more deals for more money in record time.
+Lead to Money is designed to help companies respond to the changing role of sales and marketing in the redefined buying cycle. In the last decade, the ubiquity of social networks, mobile devices and e-commerce has transformed the traditional sales cycle into a buyer-led digital economy. Buyers are researching and evaluating companies online and are completing a significant portion of their purchases digitally. In order to successfully compete in the evolving digital market and turn leads into money, sales, marketing, learning and customer experience teams must leverage software solutions that enhance productivity, improve collaboration and drive sales conversion.
+We provide a suite of Software-as-a-Service ("SaaS") solutions which generate revenue from cloud subscriptions, services and term licenses. Our SaaS customers typically purchase annual subscriptions, but occasionally will purchase multi-year subscriptions.
+We were incorporated in Delaware in 1996. Our principal executive office is located in Dublin, California and our principal website address is www.calliduscloud.com. The information on our website is not incorporated herein by reference and is not part of this Annual Report on Form 10-K.
+Our Lead to Money Solutions
+Our Lead to Money suite and technology solutions are detailed below.
+Sales Performance Management Cloud
+
+• | Commissions streamlines the design and management of incentive compensation programs and commission payments. It drives sales performance while reducing errors in sales force payouts and preventing shadow accounting by sales professionals. This leads to more selling time and higher cross-sell and up-sell revenue. It also includes modules for Management by Objectives ("MBO") programs, channel and producer onboarding, reporting, and basic workflows.
+
+
+• | Territory and Quota is designed to optimize, assign, and manage sales territories based on opportunity, workload, account information, and geography. Sales managers gain alignment between potential and sales capacity by enabling them to set sales quotas using a self-service collaboration platform for quota allocation. It also includes team-based distribution and real-time visibility into quota attainment.
+
+
+• | SalesMotivate is a gamification platform for sales that uses points, badges, and leaderboards to drive behavior and improve sales performance. SalesMotivate breaks down complex tasks into smaller easier-to-manage objectives, with clear communication of goals and instant recognition of achievements to drive enhanced completion.
+
+Sales Execution Cloud
+
+• | Configure Price Quote ("CPQ") guides sales representatives through the quoting process, highlights opportunities for cross-selling and up-selling, while ensuring the optimum configuration for the maximum deal size. CPQ eliminates errors, manages margins, and generates appealing and insightful proposals in minutes, all from any device.
+
+
+• | Contract Lifecycle Management ("CLM") streamlines the creation, negotiation, and storage of contracts to accelerate the final stage of the sales cycle. CLM provides customers a centralized repository for all contract data, improving the tracking of key milestone dates, renewal alerts, and internal compliance requirements to protect the bottom-line. Integration with e-signature solutions allows users to complete the contracting process in an entirely digital platform, saving time in the process.
+
+
+• | Datahug is a sales forecasting and pipeline management tool. It provides powerful insights into sales forecasts that predict the likelihood of success in a sales cycle, as well as offering rich visualizations to show what has changed in the forecast in real time. The platform also enables managers to coach their teams on the best next steps in a deal to improve close rates and speed up sales cycles.
+
+
+• | Revsym is a revenue and commissions recognition and expense solution built for Topic 606 and IFRS 15. It enables accurate, timely, and automated rule-based revenue recognition and commission expense management, while
+
+increasing a finance organization’s productivity and reducing cost. We are integrating RevSym into CPQ and CLM to enable customers to optimize their revenue and commissions processes to streamline compliance under Topic 606 and IFRS 15. 
+Customer Engagement Cloud
+
+• | Marketing Automation ("LeadRocket") empowers customers to generate high-quality sales leads by capturing intelligence about buyers' behaviors and engaging them across multiple channels. LeadRocket tracks buyers through their journey identifying which are ready to buy, and which should continue to be nurtured before being engaged by the sales force.
+
+
+• | Voice of the Customer ("Clicktools") is a business to business “Voice of the Customer” solution that helps companies better understand and serve their customers and deliver an enhanced customer experience. Clicktools provides self-service tools to collect, centralize, and act on customer feedback across all channels including surveys, forms, and call scripts. Customer Relationship Management (“CRM”) integration enables the synchronization of results with critical customer data.
+
+
+• | ServiceMotivate is a gamification tool for customer service representatives that leverages the power of real-time transparent feedback, recognition, and friendly competition, to motivate customer service agent performance.
+
+Sales Enablement and Learning Cloud 
+
+• | Enablement provides employees, sales and channel partners with relevant sales content at each step of the sales cycle in a centralized solution. The content can be shared with customers through deal portals, providing customers with a richer buying experience. Enablement provides the sales force with analytics to accelerate sales cycles and helps marketing personnel to capture field insights to enhance the content, messaging, and tools being produced for the sales force.
+
+
+• | Litmos Learning Management System ("Learning") is a powerful, mobile-friendly platform for training. Administrators can package content into rich, interactive courses and deploy them to learners. Automatically generated reports provide management with important insight into the success of the training programs and how learners are engaging with the content to optimize how companies train their staff, partners, and customers.
+
+
+• | Litmos Heroes is an expanding library of 2,500 packaged courses and videos that cover compliance, sales, finance, marketing, leadership and customer success. The collection can be consumed on any device and is designed to be highly engaging and deploys in a micro-learning style.
+
+
+• | Coaching enables customers to set targeted coaching plans tailored to the individual sales professional. Coaching provides managers a complete view of key performance indicators from multiple data sources across the enterprise, as well as skills evaluations observed in the field. The mobile interface makes it easy to capture detailed feedback and development actions needed to optimize the performance of the individual sales professionals.
+
+Technology Cloud
+
+• | OrientDB is a multi-model, open source NoSQL Database Management System (“DBMS”) that includes support for graph databases, as well as support for key value, reactive, object-oriented and geospatial models, all combined into one scalable, high-performance operational database.
+
+
+• | Thunderbridge Advanced Analytics is designed to allow users to explore sales performance data with visualizations and simple drag and drop configurations to discover deep insights, identify costly errors, and recognize new opportunities.
+
+
+• | Thunderbridge Augmented Intelligence ("AI3") is a platform that employs artificial intelligence along with machine learning and human insight to help sales make decisions that result in larger deals, faster close rates, and increased profitability. This platform uses Lead to Money data to build a recommendation engine for sales. 
+
+
+• | Workflow is a process automation solution that can be configured to optimize critical business processes and drive collaboration. Example workflows include commission plan and payment approvals, hiring and onboarding flows, deal collaboration and partner deal registration.
+
+
+• | Connect Enterprise is a SaaS to SaaS rapid data integration tool. Connect Enterprise provides out-of-the-box connectors between several known external CRM, Enterprise Resource Planning (“ERP”), and Human Resource (“HR”) systems and CallidusCloud products such as Commissions and Litmos. It uses simple and intuitive user interface (“UI”) based data mapping that allows the user to set up data transfers using drop down menus.
+
+Vertical Solutions
+
+• | Producer Pro is designed to provide a flexible central repository for producer data that can be tailored to customers. It is designed to help customers with large channels to manage their producer hierarchies, licenses, appointments, education, correspondence, and book of business in order to optimize the effectiveness of channel programs.
+
+
+• | Telco Dealer Pro is designed specifically for customers in the telecommunications industry. It is a solution for managing the direct sales channel that provides a unified and connected process for training, incentives, and on-boarding of agents and dealers. It provides customers with a single source of truth to manage their agents and dealers from demographic data to customer account information.
+
+
+• | Incentive Compensation Management ("ICM") is a Commissions-based product designed specifically for customers in the insurance industry. It delivers automation in incentive and bonus plan configuration, plan payout, and producer management. It is a highly configurable solution that can be rapidly deployed, is easy to use, and optimizes the management of producer incentives, bonuses, and commission programs.
+
+
+• | DS Pro is an enterprise-grade cloud solution for managing real-time volumes, genealogy and awards for Direct Sellers. It includes tools to design and manage incentive plans, calculate volumes, and pay Direct Sellers. It also provides management of global genealogies, and reporting and analytics to track spend, amortization, and accruals.
+
+Services
+We provide a broad range of services to our customers, including professional services, business process outsourcing services, maintenance and technical support services, and education services.
+Professional Services. We provide integration and configuration services to our customers. Professional services typically include the identification and sourcing of legacy data, configuration of business rules, set up of pre-defined reports and custom reports, and the ability to interface our hosted application with other applications used by our customers. Configuration and other professional services related to our software can be performed by us, our customers or third-party implementation providers. We also provide services to our implementation partners to aid them in certain projects and training programs. In addition, we provide strategic and expert services to help our customers optimize incentive compensation business processes and management capability.
+Business Process Outsourcing Services. We provide a suite of value-added business outsourcing solutions designed to drive specific customer outcomes. Each solution includes clearly defined engagement plans, rapid deployment methods, and a proven track record of delivering value to customers. Business Process Outsourcing Services include Sales Operations Management to manage day-to-day operations and maintain the sales effectiveness system; Sales Performance Manager to design and deploy the right territory, quota, incentive plan, and coaching strategy to drive specific financial targets; Sales Performance Intelligence to analyze capacity, coverage, and incentive effectiveness; and Sales Performance Optimization to benchmark and tune the Sales Performance Manager system.
+Maintenance and Technical Support Services. We have maintenance and technical support services from our centers in the United States and India and Serbia. We offer standard and premium support, which are generally provided on an annual basis. Our standard and premium support services include online access through our website to our customer support community, along with online chat, telephone, and e-mail support. We also offer all product enhancements and new releases. For premium support, we offer customers access to our support team 24 hours a day, 7 days a week, as well as direct access to our support specialists, and enhanced service level agreements.
+
+Education Services. We offer a comprehensive set of performance-oriented, role-based training courses for our customers, partners, and employees. Our education services include self-service web-based training, classroom training, virtual training with off-site instructors, on-site training, and customized training. Our certification is available for professionals who demonstrate the ability to implement our suite of products and promotes our standards of service.
+Customers
+We ended 2017 with over 6,400 customers. Our customers are diverse in size and type across a wide variety of industries, with a focus on telecommunications, insurance, banking, and technology markets. In 2017, 2016 and 2015, no single customer accounted for more than 10% of our revenue.
+Sales and Marketing
+We sell and market our software primarily through a direct sales force and in conjunction with our external partners. In the United States, we have sales and service offices in Dublin, California; Atlanta, Georgia; Birmingham, Alabama; Milwaukee, Wisconsin; New York, New York; Meridian, Idaho; and Vancouver, Washington. Outside the United States, we have sales and service offices in Australia, Canada, Germany, Hong Kong, India, Ireland, Japan, Malaysia, Mexico, Netherlands, Serbia, Singapore, and the United Kingdom. 
+
+Sales. Our Enterprise direct sales force, which consists of account executives, technical pre-sales engineers and field management, is responsible for the sale of our products to global enterprises across multiple industries. Our Enterprise sales force is organized along selected vertical industries and geographically to focus on market access. We also have an inside sales division that sells our learning, marketing and customer experience solutions to businesses of all sizes across all industries.
+Marketing. Our marketing activities include product and customer marketing functions as well as marketing communications. The function of our product marketing is to define new product requirements, manage product life cycles, and generate content for sales collateral and marketing programs. The function of our customer marketing is to provide customer references and reviews and work with customers to produce case studies and testimonials. The function of our marketing communications is to focus on both primary demand generation efforts to increase awareness of sales effectiveness, product solutions and secondary demand generation efforts to drive sales leads for our solutions. This is done through multiple channels, including advertising, web casts, industry events, conferences, email marketing, digital marketing, web marketing and telemarketing. In addition, our corporate website is optimized to drive prospects to our Lead to Money solutions.
+Alliances and Partnerships
+We actively promote and maintain strategic relationships with systems integrators, consulting organizations, independent software vendors, value-added resellers, and technology providers. These relationships provide both customer referrals and co-marketing opportunities, which have contributed to the expansion of our customer base. We have established alliances with partners such as Accenture, Canidium, Cognizant Technology Solutions, Deloitte Consulting, OpenSymmetry, PricewaterhouseCoopers, and Tata Consulting Services to service our customers nationally and internationally. We have also expanded our relationship with technology partners such as Docusign, Microsoft, NetSuite, Salesforce and SAP that collaborate with us in selling our solutions.
+Competition
+Our principal competition comes from Oracle, International Business Machines ("IBM") and the internally-developed software solutions deployed at potential customers. We also compete with other software and consulting companies, which typically focus on specific industries or sectors, including:
+
+• | Sales: Apttus, IBM, Pros, SAVO Group and Xactly Corporation
+
+•Marketing: Marketo, Oracle and Hubspot
+•Learning: Adobe Systems, Cornerstone On-demand, SABA Software and SumTotal Systems
+•Customer Experience: Allegiance, Qualtrics and Medallia
+We believe that the principal competitive factors in our market are:
+•ability to offer a broad suite of solutions across the Lead to Money cycle;
+•industry-specific domain expertise;
+•scalability and flexibility of solutions;
+•quality of customer service;
+•total cost of ownership; and
+•ease of use.
+We believe that we compete effectively with other established enterprise software companies due to our broad suite of solutions beyond core commission management, established market leadership, domain expertise, and our highly scalable architecture. Furthermore, we believe we have developed the domain expertise necessary to meet the dynamic requirements of our customers' complex and growing sales performance and sales effectiveness programs.
+
+We believe that our products offer customers a more cost-effective and more extensive alternative to their internally-developed solutions, which are generally expensive, inflexible and difficult to maintain, particularly for companies with increasingly complex sales performance programs and sales channels. We also believe that our suite of SaaS-based solutions for the spectrum of Lead to Money functions has advantages over multiple single-point solutions, including cost-effectiveness, ease of implementation and ease of use.
+With respect to our offerings in specific industry verticals, we believe that we have developed breadth and depth of functionality demanded by those specific markets, and we have differentiated our products by adding features that are specific to each target market and that scale to growing business needs.
+Intellectual Property
+Our ability to compete successfully depends in part on our ability to develop and maintain the proprietary aspects of our technology and operate without infringing upon the proprietary rights of others. While we rely on a combination of patents, trademarks, copyrights, service marks, trade secrets, confidentiality procedures, contractual provisions and other similar measures to protect our proprietary information and intellectual property, we also believe that factors such as the technological and creative skills of our personnel, new product developments, product enhancements, and reliable product support are essential to establishing and maintaining a technology leadership position.
+Our customer agreements include restrictions intended to protect and defend our intellectual property rights. We also require our employees, contractors and many others with whom we have business relationships to sign confidentiality agreements.
+Some of our products include licensed third-party software, but we believe that such software is commercially available and that there are other commercially available substitutes that can be integrated with our products on reasonable terms. We also believe that in some cases, we could develop substitute technology to replace third-party software if the third-party licenses were no longer available on reasonable terms.
+While our patents are an important part of our success, our business as a whole is not materially dependent on any one patent or on a combination of any or all of our patents.
+Employees
+
+As of December 31, 2017, we had approximately 1,300 employees. None of our employees are represented by a labor union.
+Segment and Geographic Information
+We operate in one reportable segment, which is the development, marketing and sale of enterprise software and related services. See Note 13, Segment, Geographic and Customer Information, to our consolidated financial statements.
+Executive Officers
+The following table sets forth information about our executive officers as of December 31, 2017:
+
+Name | Age | Position | Executive Officer Since
+Leslie J. Stretch | 56 | President, Chief Executive Officer | 2005 
+Roxanne Oulman | 46 | Executive Vice President, Chief Financial Officer | 2016 
+Jimmy Duan | 55 | Executive Vice President, Chief Technology Officer | 2008 
+
+
+Leslie J. Stretch has served as our President and CEO since 2007 and has served as a director on our Board of Directors since 2008. Mr. Stretch was our Senior Vice President, Global Sales, Marketing and On-Demand Business in 2007, and before that he served as our Senior Vice President, Worldwide Sales from 2006 to 2007 and Vice President, Worldwide Sales from 2005 to 2006. Mr. Stretch currently serves on the board of directors of QAD Inc., a provider of enterprise software and services for global manufacturers, and the advisory council of Warburg Pincus LLC, a private equity firm. Prior to joining Callidus, Mr. Stretch served as Interim Chief Executive Officer for The Hamsard Group, plc., a software solutions and services provider, in the United Kingdom. Previously, Mr. Stretch served in a variety of roles at Sun Microsystems, Inc. a computer networking company, most recently as Senior Vice President of Global Channel Sales. Prior to joining Sun Microsystems, Inc. (since acquired by Oracle Corporation), Mr. Stretch served in a variety of roles at Oracle Corporation, UK, an enterprise software provider. Mr. Stretch holds a B.A. in Economics and Economic History from the University of Strathclyde and a Postgraduate Diploma in Computer Systems Engineering from the University of Edinburgh.
+
+Roxanne Oulman has served as our Chief Financial Officer since November 2016. Since joining Callidus in 2013, Ms. Oulman has served in a variety of executive management roles, including Senior Vice President of Finance and Accounting. From 2011 to 2013, Ms. Oulman served as an Interim Chief Financial Officer at Thoratec Corporation, a biomedical device company, and from 2004 to 2011 she held several other financial leadership positions at Thoratec Corporation. From 1999 to 2004, Ms. Oulman was a General Manager and Western Regional Controller at Zomax, Inc., a logistics and supply chain company. Ms. Oulman has a Bachelor’s of Science in Accounting from Minnesota State University, Mankato and a Masters of Business Administration from University of the Pacific—Eberhardt School of Business.
+Jimmy Duan, Ph.D. has served as our Chief Technology Officer since 2013. Since joining Callidus in 2008, Dr. Duan has served in a variety of executive management roles, including Senior Vice President of Commissions Business and International Sales. From 2006 to 2008, Dr. Duan served as Vice President of Client Services at Xactly Corporation, a software company, where he was responsible for defining and setting up SaaS operations and managing customer success. Earlier in his career, Dr. Duan held professional services management positions at Quovera and Talus Solutions (acquired by Manugistics) and consulted with multi-national organizations in financial services, telecommunications, transportation and high-tech manufacturing. Dr. Duan holds a Ph.D. in industrial and systems engineering from Virginia Polytechnic Institute and State University (Virginia Tech). Dr. Duan holds a B.S. in Mining Engineering, from Central South University, China.
+Available Information
+
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and other periodic reports are available free of charge on our website (www.calliduscloud.com) as soon as reasonably practicable after we have electronically filed such materials with, or furnished such materials to the Securities and Exchange Commission. They are also available at www.sec.gov.

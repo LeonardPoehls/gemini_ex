@@ -1,0 +1,299 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Our Purpose
+Our purpose is to help people lead healthier, happier lives by connecting the world to wellness. 
+This purpose defines our growth strategy and priorities. Our primary objective is growing a transaction-enabled wellness marketplace by adding high quality wellness businesses to our platform, deepening relationships with the existing businesses we serve and rapidly increasing consumer awareness, adoption and engagement. 
+Overview
+We are the leading provider of cloud-based business management software for the wellness services industry and a rapidly growing marketplace for wellness services. As of December 31, 2017, our customers employed over 372,000 wellness practitioners serving approximately 41 million consumers in more than 100 countries. Our integrated software and payments platform helps wellness business owners run, market and build their businesses, while engaging consumers by aggregating available classes and appointments, and enabling rapid discovery, booking and payment. Together, our cloud-based business and consumer software platform comprise a two-sided marketplace, enabling market innovations such as targeted introductory offers and dynamic pricing that simultaneously increases consumer engagement and wellness business capacity utilization. 
+We were founded in 2001 with a mission to leverage technology to improve the wellness of the world by addressing the vast and growing demand for wellness services by providing innovative business management software and consumer booking tools. We started as a hybrid desktop-web solution focused on yoga, Pilates and indoor cycling businesses. In 2005, we released MINDBODY Online, our software-as-a-service, or SaaS, platform, and began to scale our business into adjacent fitness categories, increasing our total addressable market and fueling growth in consumer online bookings.  In 2009, we released MINDBODY Finder, enabling available classes and appointments to be aggregated for consumer search, and an open web services application programming interface, or API, that enabled other developers to build solutions on our platform. In 2013, we launched our MINDBODY Express mobile application for businesses and our MINDBODY Connect application for consumers, establishing our transaction-enabled wellness marketplace. In 2015, we redesigned MINDBODY Connect and re-released it as “The MINDBODY App,” following which we saw a substantial inflection in consumer discovery, bookings and purchases. Over the course of our history, we have consistently made significant investments in our platform to enable increased business penetration and consumer adoption of our two-sided marketplace. 
+ Through our integrated cloud-based business management software and payments platform, we enable our customers to easily manage class and appointment schedules, staff members, client information, online bookings, inventory, payroll and retail sales - all in a cost-effective manner. We also offer advanced marketing and client retention capabilities to help businesses acquire and retain their clients, and analytics capabilities to help them strengthen their businesses and manage future growth. At the same time, we connect consumers with local businesses through the MINDBODY app, which powers a mobile interface that allows consumers to discover, evaluate, book and pay for wellness services, whether they are near their homes or traveling. The MINDBODY app also provides these consumers a unified account that allows them to: access and manage multiple wellness services with one sign-in; see their aggregated schedule and histories with multiple wellness businesses; store multiple credit cards for instant payment; read authentic consumer reviews written by people who actually attended the classes or services; find targeted introductory offers to introduce them to new wellness activities; and view and book offers for dynamically-priced classes to increase their opportunities to engage in wellness. All of this functionality is designed to encourage consumers to more actively participate in wellness and help our customers fill their classes and ultimately be more successful.
+The MINDBODY Solution
+Our integrated cloud-based business management software and payments platform is specifically designed to engage both wellness services businesses and consumers through a powerful two-sided marketplace. We offer business management solutions that power our customers’ transactions and interactions with consumers, connecting them with millions of people who are seeking these types of services and creating a seamless relationship between practitioners and the clients they serve. We target boutique fitness, salon, spa and integrative health businesses within the wellness services industry.
+3
+
+Integrated Software and Payments Platform
+Our platform is continuously evolving to help our customers simplify and enhance the way they run their businesses; attract, engage and retain more consumers; increase their revenues; and focus more on what they love to do - improving people’s lives.  We have developed this platform with powerful functionality that addresses key aspects of operating a wellness services business, including:
+
+• | Scheduling and Online Booking. Our customers can give their clients the opportunity to book and pay for their next visit wherever and whenever it is most convenient, whether through the MINDBODY app, our customers’ own website or branded mobile app built by MINDBODY, integrated search engines and social media sites such as Google, Facebook, Bing and Yahoo. We offer robust features that enable many different types of scheduling that wellness businesses encounter, including: 
+
+
+◦ | Appointments. One-on-one appointments typically require preparation time before the appointment as well as off-boarding time after the appointment. Our software can manage practitioner availability as well as gaps between appointments in a time-efficient manner. 
+
+
+◦ | Open classes. Open classes offer reserved or drop-in attendance on a first-come, first-served basis. Our software can transact at different price points, send automatic check-in and cancellation confirmations and manage waitlists to optimize capacity utilization. 
+
+
+◦ | Enrollments and workshops. Enrollments and workshops are pre-registered events or series of classes with the same group of attendees. Our software offers the ability to set separate pricing outside of pre-paid packages and track absences, make-ups and various payment plans. 
+
+
+◦ | Arrivals. Many gyms allow their members to use their facilities and equipment without attending a class. Our software tracks these open-gym arrivals, allowing consumers to check-in to a gym without having a scheduled class to attend. 
+
+
+◦ | Resource scheduling. To effectively manage their day-to-day business, wellness service providers need to manage and allocate their equipment and facilities. Our software can easily track, manage and allocate equipment and facilities for the classes and services these businesses provide. 
+
+
+• | Performance Tracking. With FitMetrix performance tracking solutions, our customers can integrate in-studio leaderboards and workout machines, like treadmills and indoor bikes, with wearables that track heart rate and calorie burn. In addition, fitness businesses can identify in their MINDBODY software which machines are enhanced with this integration, making it possible for a client to reserve a specific machine while booking a class. As a result, FitMetrix-enabled studios provide consumers with a highly immersive experience where they can gain valuable insights into the quantifiable results of their workouts.
+
+
+• | Staff Management. With our staff and resource scheduling software features, customers can keep their entire staff schedule in one place and enable staff to easily access and maintain their changing availabilities via MINDBODY for Business, our business-facing application. Our customers can also track staff substitutions, hourly and service-based payroll and commissions, all of which can be easily linked and exported to any of several popular payroll service formats, including ADP, Paychex and Exact Payroll Services. 
+
+
+• | Client Relationship Management. With our client relationship management features, our customers have all of their clients’ information in one place and can take advantage of powerful relationship management and engagement marketing tools. Customers can securely store their clients’ personal information in a unique profile and manage account, visit and purchase history for more effective service. Our platform also helps our customers target new consumers, keep in touch with loyal clients and offer variable, targeted promotions and discounts. 
+
+
+• | Integrated Payment Processing. We offer our customers integrated payment processing solutions with our software at competitive rates. Our integrated payments capability grows our customers’ revenue by allowing for convenient and secure storage of client card information, enabling seamless online booking and payment from all consumer interfaces, as well as recurring auto-payments for monthly memberships. Additionally, the integration between point-of-sale and payment processing saves customers time by linking payments authorizations and settlements to sales records, thereby eliminating the need for time-consuming and error-prone manual reconciliations. Our payments platform provides instant authorization and nightly settlement of credit card, debit card and ACH transactions. Once a sale is complete, staff can void, edit or return the sale. All client payment information is protected behind Payment Card Industry, or PCI, Level I Data Security Standards. 
+
+4
+
+
+• | Retail Point-of-Sale. Our point-of-sale capabilities help customers earn more revenue and create a seamless omni-channel purchase experience for their clients, allowing them to sell products and services, contracts and memberships, packages, workshops and store-branded gift cards from every web and mobile interface we offer. Our point-of-sale feature tracks product inventory levels and automatically issues purchase orders when product levels reach a re-order point. 
+
+
+• | Purchase Tracking. Customers can sell products and services as well as memberships, monthly contracts and packages that combine products and services at their place of business and online. Customers can securely store client billing information to facilitate quicker transactions. Payments for classes or appointments can be applied before or after client check-in, and before or after the session is complete. Our point-of-sale functionality allows the assignment of staff commissions to appropriate parties. 
+
+
+• | Inventory. Customers can set inventory re-order points, automatically generate purchase orders and easily log arriving inventory. As a result, customers can more efficiently manage availability, calculate gross margin and monitor inventory shrinkage, among other benefits. 
+
+
+• | Hardware Integration. Our integration with the wireless Poynt Smart Terminal allows customers’ staff and clients a seamless, mobile payment experience, including pin-pad debit, chip-reading EMV, contactless payments, Google Wallet and Apple Pay. The Poynt Smart Terminal is loaded with MINDBODY for Business, so every transaction is fast, convenient and can be processed away from the front desk. Additionally, we offer point-of-sale hardware, such as cash drawers, receipt printers and barcode scanners, smartphone and table credit or debit card readers, as well as branded key chain tags and gift cards that our customers may desire. 
+
+
+• | Analytics and Reporting. We track key information that helps customers achieve their business goals, including revenue growth, contribution margin of classes, client retention rates, referral sources, return on investment for client retention campaigns and practitioner performance based on client loyalty and reviews by class or type of service. Our platform also generates reports that help our customers allocate their resources, set budgets and measure their performance against goals. Customers are empowered to identify trends and opportunities for improvement in their businesses by leveraging analytics and marketing tools to pull a variety of reports, including, among others, sales forecasts, best-selling products and services, cancellations and no-shows, staff sales commissions, client retention rates, client account balances and many more. 
+
+
+• | Branded web. Our branded web solution gives our customers the ability to embed their MINDBODY class and appointment schedules within their web and social sites, creating a seamless and branded online experience for their clients. 
+
+
+• | Mobile. Our platform enables our customers to manage their operations anytime and anywhere via a number of mobile devices and operating systems, including Mac, iOS, Android and Windows. 
+
+
+◦ | MINDBODY for Business. Our business-facing mobile app enhances our core offering by enabling our customers to easily run their business, book clients and sell products and services while on the go. 
+
+
+◦ | Branded Mobile App. Our branded mobile app offering enables our customers to have their own consumer-facing app to create a unique branded experience for their clients. 
+
+
+◦ | MINDBODY App. Our consumer app offering enables our customers to manage consumer and client interactions, including surfacing inventory, sending appointment reminders and providing updates to clients. 
+
+
+◦ | MINDBODY Class Check-In. The MINDBODY Class Check-In app helps our customers create a better consumer experience at the front desk. Clients can check themselves into class, freeing up front desk staff to help others and making it possible for instructors to start classes faster. 
+
+
+• | Social Integration. Our platform integrates with popular social networks like Facebook and Twitter. For example, our platform allows our customers to publish schedules on their Facebook page, enabling consumers to directly book appointments and classes via Facebook. 
+
+
+• | Client Acquisition Dashboard. Our customers can attribute new consumers to various acquisition channels. For example, customers can track conversion of new consumers into clients by tracking the aggregate value of their subsequent purchases, which clients purchased specific introductory offers, and the reviews generated about their business in the MINDBODY app. 
+
+5
+
+
+• | Integration with Other Cloud-based Partners. We have built an open and extensible platform with an application programming interface, or API, that offers developers access to our inventory of classes, payments and scheduling capabilities. Approved developers can pull information from and post data to our platform and use that capability to create a variety of unique applications with custom interfaces. Our platform can be integrated with other cloud-based software that our customers may be using for critical business management tasks to extend the capabilities of our platform within a variety of focus areas such as automation, marketing, accounting, mobile and social. 
+
+
+• | Security and Compliance. We have consistently passed our Level I Payment Card Industry Data Security Standard, or PCI DSS, audits. In addition, because we, in certain instances, collect, access, use, maintain and/or transmit protected health information in connection with providing services to customers who are subject to the requirements of the Health Insurance Portability and Accountability Act of 1996, or HIPAA, we have certified to the Health Information Trust Alliance Common Security Framework, or the HITRUST CSF, and consistently passed our HITRUST CSF audits. Our platform is engineered to provide high reliability and availability. We continually monitor our infrastructure for any sign of failure or pending failure and we take preemptive action to minimize or prevent downtime. We maintain the reliability of our service by utilizing redundant network infrastructure, clusters that tolerate failure of individual nodes and deploying high availability server pairs. We also implement various disaster recovery measures, including full replication of hardware and data in our geographically distinct data centers, to minimize data loss in the event of a data center disaster. 
+
+The MINDBODY App  
+The MINDBODY app is our consumer-facing mobile application that consumers can use to manage their wellness activities and relationships with multiple MINDBODY customers, using a unified account with a single login and multiple stored cards.  Consumers can discover local wellness services using a geo-located map function, view class and appointment descriptions, schedules and real-time availability, read practitioner biographies and user reviews written by consumers who have actually attended the class or received the service, and then book and pay for their desired services in a few taps from their mobile devices.  Through the app, consumers can also receive appointment reminders and check-in to classes before they arrive, receive real-time updates regarding changes in class schedules, and access their account profile to review their class visit and payment history. 
+Introductory Offers and Dynamic Pricing. The MINDBODY app helps customers actively promote their businesses by surfacing targeted introductory offers and dynamically-priced classes to targeted consumers, helping to increase consumer demand for wellness services while increasing customers’ revenue and improving their profitability. Introductory offers are targeted via a proprietary recommendation engine that considers a user’s prior history, preferences and geo-location. Dynamically-priced offerings are developed and targeted by a proprietary algorithm that can offer the class to the consumer above or below our customer's standard drop-in rate, based on factors like time until class, relative demand, historical trends and other proprietary methods. 
+The MINDBODY Network
+The MINDBODY Network is a fee-based marketing platform that connects our customers with local consumers via the MINDBODY app and third-party partner applications or websites. Customers who opt in to the MINDBODY Network receive greater exposure through additional promotion of their intro offers or deals on various screens throughout the MINDBODY app, as well as featured placement on third-party partner apps and/or websites including Google and Bing. 
+MINDBODY API Platform and Partner Ecosystem
+We have enabled a rich partner ecosystem that extends the value of our software and payments platform in powerful ways.  Our partners have built applications that supplement our capabilities in areas such as marketing automation, accounting, loyalty, mobile and social interactions.  Several of these partners have created significant consumer-facing businesses that rely on our unique inventory of classes, scheduling and payments capabilities.  All of this is enabled by our APIs, to which we grant access to approved developers and partners.  We also integrate with partners that provide email marketing, customer survey, events management and other functionality to augment the capabilities of our platform for the benefit of our customers.
+6
+
+Software Subscription Packages
+Because each of our customers is unique and at a different stage of their respective professional journeys, our software subscriptions are provided on a tiered pricing model based upon different software functionality packages.  Each of these packages has been carefully crafted to meet our customers' differing needs and levels of complexity, giving them appropriate functionality to optimize their business.
+Customer and Consumer Services and Support
+We believe that many wellness services business owners are not technical experts and that they bear an enormous responsibility to successfully run their businesses day in and day out. Therefore, we provide end-to-end customer support, including full data conversion and import from prior systems, live onboarding and 24/7 technical support via telephone, email, in-software chat and screen sharing; in-software self-service tools; advanced professional services; and educational events. In addition, we also have a dedicated support team that is focused on ensuring that the millions of registered MINDBODY app users are having the best possible experience.
+
+• | Customer Onboarding. We typically onboard new customers with live training sessions delivered via telephone and web conference. These trainings are supplemented by self-service setup checklists, online help materials and webinars. 
+
+
+• | Customer Success. To identify opportunities for greater adoption of our products and services and to further help our customers be more successful on our platform, we engage with them to better understand their business goals and objectives; provide targeted education about relevant features, products and services as well as business best practices; and develop a recommended success plan with periodic outreach to check in on their progress. 
+
+
+• | Ongoing Customer Support. Inclusive with our base subscription fees, we offer 24/7 customer service and support via phone, chat, emails and self-help knowledge centers. All customer service and support is provided by our in-house personnel who are invested in MINDBODY’s core values and closely connected to our Product, Technology and Experience team. 
+
+7
+
+
+• | Professional Services. Our premium support services enable customers to access dedicated, advanced product and business operations support from software and business experts. This service is usually chosen by our higher-end small businesses and multi-location chains or franchises. 
+
+
+• | MINDBODY University. MINDBODY University is a multi-day advanced customer education event held multiple times per year in various destination locations around the world (e.g., London, New York, San Diego and Sydney). This high-impact business conference teaches advanced software skills and best business practices that help customers increase revenues and improve their bottom line. In addition, all customers have unlimited, online access to recorded business management material derived from our MINDBODY University courses at no additional cost. 
+
+
+• | BOLD Conference. We provide our customers with a three-day annual user conference where they can learn best business practices and participate in networking opportunities designed to help fuel their business growth and success. Program sessions typically include key topics needed to thrive within the competitive wellness services industry market — from the latest trends in consumer marketing and social media, to selling strategies and strategic business partnerships — taught by MINDBODY team members, industry experts and fellow MINDBODY customers. 
+
+
+• | Consumer Support. We provide consumer support through live in-app and online chat, email, and self-service support articles.
+
+Key Benefits to MINDBODY’s Constituents
+MINDBODY connects the world to wellness by connecting wellness practitioners with millions of consumers who are seeking these types of services. We have created a two-sided marketplace that benefits both customers and consumers by powering and enabling interactions that drive healthier businesses and healthier lifestyles.
+Benefits to consumers:
+
+• | Increased Discovery and Engagement. Our platform aggregates nearly 5 million transaction-enabled wellness class spots and wellness services per day, together with millions of class ratings and hundreds of thousands of consumer reviews written by consumers who have actually participated in a class or used a service. This creates a convenient “one-stop-shop” experience that is much easier and less time consuming for consumers than browsing through numerous disparate websites and making phone calls to schedule a class or service. The MINDBODY app further aggregates compelling introductory offers for first time visitors that encourages consumers to try new things. These benefits increase the consumer’s likelihood to repeat wellness experiences more frequently, which we believe enhances their health and happiness. 
+
+
+• | Broadened Access to Wellness. Our growing suite of web and mobile interfaces, as well as our consumer partnerships, surface transaction-enabled class and appointment inventory, enticing more people to adopt wellness practices. We also believe that our ability to allow consumers to more easily manage their wellness routine and consume more wellness services on a regular basis increases their engagement in wellness activities and encourages them to live a more active and full life. 
+
+
+• | Cost Savings and Increased Availability. We believe that dynamic pricing will enable price-sensitive consumers, such as those who are more flexible with their time or are willing to book further in advance, to find a class they can easily afford. Conversely, less price-sensitive consumers, such as busy professionals or travelers, will be more likely to find a popular experience for which they are willing and able to pay a premium. 
+
+
+• | Ability to Track Personal Health Data with Each Wellness Activity. New technologies, including third-party wearable fitness trackers and mobile apps within the health and fitness category enable consumers to track various aspects of their health and fitness. As part of this trend, the MINDBODY app offers consumers the ability to track their personal health data and to monitor the effectiveness of their wellness activities. With the MINDBODY app, consumers can access their wellness activity history, such as class attendance frequency and class duration, as well as personal activity data tracked by integrated wearable devices. 
+
+Benefits to customers and wellness practitioners:
+
+• | Increased Growth in Client Base and Revenue. We help our customers increase their client base by taking advantage of a free business listing on the MINDBODY app, allowing them to attract a larger pool of consumers. Customers who choose to opt in to the fee-based MINDBODY Network receive greater exposure through additional promotion of their introductory offers or deals on various screens throughout the app, as well as featured placement on third-party partner apps and/or websites. Customers can also opt in to fee-based dynamic pricing, which allows them to dynamically price their inventory based on demand factors such as class times, day of the week, popularity and more. 
+
+8
+
+This helps them sell under-utilized inventory and fill their classes, while maximizing revenue by charging more for classes with the highest demand. Moreover, by having the ability to send reminders, promotions and special offers via email, text, push or in-app notifications to clients based on a record of their past interactions, customers can increase their client engagement and loyalty.  We also help customers sell their products and services through a variety of channels: an online store, their website, social sites, or the MINDBODY Network thus helping them to increase their revenue opportunities.
+
+• | Mobility. The MINDBODY app and our branded mobile apps give consumers fast and convenient access to wellness services in their local communities. The business app and class check-in app help customers manage their business and classes on the go. Customers can also utilize these mobile apps to enhance their consumer experience, offering in-app membership contract and liability waivers as well as push notifications. 
+
+
+• | Simplified Operations. Our business management software and payments platform allows customers and practitioners to streamline and simplify their operations. MINDBODY automates a large number of time-consuming workflows, thus reducing the administrative effort and time customers and their employees need to invest in business operations. 
+
+
+• | Greater Focus on Clients. By simplifying the operations of wellness businesses, we enable customers and practitioners to focus on their clients. In addition, our analytical tools provide critical insights that help customers focus on optimizing their business and achieving their goals. 
+
+Competition
+The market for business management software and payments solutions for wellness businesses, as well as wellness booking services for consumers, is highly competitive, fragmented and rapidly evolving due to technological innovations.  We believe our competitors fall into the following primary categories:
+
+• | On-premise software providers and small cloud-based providers that typically focus on a specific vertical within the wellness services industry;
+
+
+• | Cloud-based software providers that offer generic scheduling tools with minimal customization by vertical;
+
+
+• | Payments services providers that offer basic scheduling tools; and
+
+
+• | Consumer apps and websites that offer wellness inventory at a discount or for a monthly subscription fee.
+
+In addition, for some small to medium-sized organizations, we compete with basic productivity tools that these organizations have adapted for scheduling and business management uses, including desktop applications (e.g., Microsoft Office, Google Docs) and pen and paper for tracking and management purposes. 
+The principal competitive factors in our market include:
+
+• | Industry expertise
+
+
+• | Depth of product functionality and ease of use
+
+
+• | Brand recognition and reputation
+
+
+• | Ability to drive consumer demand via a large and rapidly growing consumer network
+
+
+• | 24/7 customer service
+
+
+• | Price
+
+
+• | Product extensibility via APIs
+
+
+• | Partnerships and integrations with major consumer brands
+
+
+• | Integration with mobile devices
+
+
+• | Payment processing integration
+
+
+• | Marketing capabilities and analytics
+
+
+• | Strong company culture
+
+
+• | Security and reliability
+
+
+• | Global presence
+
+9
+
+We believe that we compete favorably on the factors described above.  However, some of our competitors have greater financial, technical and other resources, greater name recognition and larger sales and marketing budget; therefore, we may not always compare favorably with respect to some or all of the factors above.
+Our Technology
+We have developed our proprietary technology platform over the last decade, with a focus on delivering industry-leading breadth and flexibility of functionality.  Our platform is built API-first with a service-oriented multi-tenant architecture, making it fully extensible to our business and consumer web and mobile applications, as well as complementary technology partner integrations.  Maintaining the integrity and security of our technology platform is mission critical to our business and our customers’ success.
+
+• | Reliable. Our platform is engineered to provide high reliability and availability. Our agreements with customers typically provide for limited service level commitments. In certain circumstances, our customers may be eligible for credits if we are unable to meet these service level commitments. Our infrastructure is hosted in two dual redundant Tier 4 (the highest rating available) data centers separately located in North America. Our network operations center provides 24/7 monitoring of hundreds of sensors on all systems, including global synthetic and real user monitoring, to ensure we have complete visibility into our platform and are able to instantly respond to any potential service issue. 
+
+
+• | Secure. Our platform hosts a large quantity of customer data and processes a large volume of business-to-consumer transactions. We therefore maintain a comprehensive security program designed to help safeguard the confidentiality, integrity and availability of our customers’ data, which includes both organizational and technical control measures. Our platform includes a host of third-party encryption, malware prevention, firewall and intrusion detection, data loss detection and patch management technologies to protect and maintain all systems. We routinely test and review our security program. In addition, we regularly obtain third-party security audits of our technical operations and procedures covering data security including the PCI-DSS, as well as Statement on Standards for Attestation Engagements No. 16, or SSAE 18, and Service Organizations Controls 2, or SOC 2, Type 1 and Type 2 Attestations. 
+
+
+• | Scalable. We have developed a robust and scalable platform that processes millions of queries per day. By leveraging best-in-breed technology components, server virtualization and a service-oriented architecture, we believe we can seamlessly scale our compute and storage capacity. 
+
+
+• | Dynamic Cloud-Based Architecture. Our software platform is powered by a dynamic cloud-based architecture that allows our customers to manage their operations as efficiently as possible, while requiring low upfront investment and no maintenance. This architecture allows for automatic software updates and rapid launch of new product features while also allowing our platform to easily scale with customers as their businesses grow. 
+
+Our Customers
+We have a diverse customer base with approximately 59,000 subscribers located in over 100 countries and territories across a variety of industries within the wellness services industry.  No single customer, API partner, or technology partner represented more than 10% of our total revenue in any of fiscal 2017, 2016 or 2015. As of December 31, 2017 and 2016, one trade receivable represented 17% and 15% of our total accounts receivable balance, respectively.  
+Our Culture and Employees
+Our company and employees share an exceptional corporate culture that is built upon a detailed set of core values that are reinforced throughout the Company through new hire orientation, monthly corporate wellness initiatives and annual performance appraisals.  Our employees thrive in a nurturing environment that is driven by innovation, passion for health and wellness and dedication towards excellent customer experience.  
+As of December 31, 2017, we had 1,426 employees.  None of our employees is represented by a labor organization or is a party to any collective bargaining arrangement.  We have never had a work stoppage, and we consider our relationship with our employees to be good.
+10
+
+Sales and Marketing
+We deploy a direct sales approach driven by an outbound tele-sales team located primarily in San Luis Obispo, California with several regional offices throughout the United States, and locations in the United Kingdom and Australia.  Our sales team qualifies and manages prospective and current customers, aiming to initiate, retain and expand their use of our platform over time.  Our sales team partners with sales engineers to provide consultation and product demonstration to prospects to accelerate the onboarding of new customers. 
+Our marketing efforts are focused on generating awareness of our platform and consumer app, creating sales leads, establishing and promoting our brand, and cultivating a community of successful and vocal customers and consumers.  We utilize both online and offline marketing initiatives, including search engine and email marketing, online display and print advertising, participation in trade shows, events and conferences, permission marketing, social media and media outreach, mass media and strategic partnerships and endorsements.
+Our sales prospecting, lead qualification and lead development functions are performed by sales development representatives and lead acquisition specialists. Our sales and marketing headcount as of December 31, 2017 was 471.  Our sales and marketing expenses were $71.8 million, $56.5 million and $46.3 million for the years ended December 31, 2017, 2016 and 2015, respectively.
+Research and Development
+Our research and development organization is responsible for the ideation, research, design, development and testing of all aspects of our platform.  To create a roadmap that meets the needs of our customers, we emphasize collaboration during the development process.  Customers provide direct input through dialog with our customer support, product management and user experience teams, as well as our community forum and feature utilization data.  We deploy new features, functionality and technologies for our platform through monthly software releases or updates to minimize disruption and deliver continuous improvement.
+As of December 31, 2017, we had 243 employees in our research and development organization, which is based primarily in San Luis Obispo, California.  Our research and development expenses were $35.8 million, $30.3 million and $23.1 million, for the years ended December 31, 2017, 2016 and 2015, respectively.
+Intellectual Property
+We rely on a combination of trade secret, copyright and trademark laws, a variety of contractual arrangements, such as license agreements, assignment agreements, confidentiality and non-disclosure agreements and confidentiality procedures and technical measures to gain rights to and protect the intellectual property used in our business.
+We have also developed a patent program and a strategy to identify, apply for, and secure patents for innovative aspects of our platform and technology.  We have eight U.S. patent applications pending.  We also have four pending patent applications in jurisdictions outside of the United States.  We intend to pursue additional patent protection to the extent we believe it would be beneficial and cost-effective.
+We actively pursue registration of our trademarks, logos, service marks and domain names in the United States and in other key jurisdictions.  We are the registered holder of a variety of U.S. and international domain names that include the term MINDBODY and similar variations.  We use several trademarks or registered trademarks for our products and services, including “MINDBODY,” and several logos and images, such as the Enso logo, as well as the slogans “LOVE YOUR BUSINESS,” “BOOK YOUR BEST DAY. EVERY DAY.” and “CONNECTING THE WORLD TO WELLNESS.”
+We also rely on certain intellectual property rights that we license from third parties, including under certain open source licenses.  Though such third-party technologies may not continue to be available to us on commercially reasonable terms, we believe that alternative technologies would be available to us, if needed.
+Our policy is to require employees and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf and agreeing to protect our confidential information.  All of our key employees have done so.  In addition, we generally enter into confidentiality agreements or have confidentiality provisions in our agreements with our vendors and customers.  We also control and monitor access to, and distribution of, our software, documentation and other proprietary information.
+Despite our precautions, it may be possible for unauthorized third parties to copy our products and use information that we regard as proprietary to create products and services that compete with ours.
+11
+
+Some license provisions protecting against unauthorized use, copying, transfer and disclosures of our products may be unenforceable under the laws of certain jurisdictions and foreign countries.  In addition, the laws of some countries do not protect proprietary rights to as great of an extent as the laws of the United States, and many foreign countries do not enforce these laws as diligently as government agencies and private parties in the United States.  To the extent that we expand our international activities, our exposure to unauthorized copying and use of our products and misappropriation of our proprietary information may increase.
+We expect that software and other solutions in our industry may be increasingly subject to third-party infringement claims as the number of competitors grows and the functionality of products in different industry segments overlap.
+Seasonality
+We believe there are significant seasonal factors that may cause us to record higher revenue in some quarters compared with others.  We believe this variability is largely due to our focus on the wellness services industry, as many of our customers experience an increase in demand for their services in the first quarter of each year due to consumers becoming more motivated to pursue health and fitness goals in the new year. However, this seasonality may not be fully evident in our historical business performance because of our significant growth. If our revenue growth rate slows, we expect that the seasonality in our business may become more pronounced and may cause our operating results to fluctuate in the future. In addition, as we attempt to expand the number of our customers and consumers, we may see changes to this pattern of seasonality. 
+Segments
+We have one operating and reporting segment consisting of various products and services that are all related to our integrated cloud-based business management software and payments platform for the wellness services industry. For our revenue, net loss and total assets, see our Consolidated Financial Statements included in Part IV, Item 15 of this Annual Report on Form 10-K.
+Geographic Information
+Financial information about geographic areas is set forth in Note 12 of the Notes to Consolidated Financial Statements included in Part IV, Item 15 of this Annual Report on Form 10-K. For a discussion of the risks attendant to foreign operations, see the information in Part 1, Item 1A: “Risk Factors” under the caption “Our international sales and operations subject us to additional risks that can adversely affect our business, operating results and financial condition.”
+Government Regulation
+As a service provider to our customers, we must comply with a number of federal, state and international laws and regulations regarding security, data protection and the privacy and protection of consumer data that affect companies conducting business on the Internet. In addition, in connection with providing online scheduling services for certain customers, we may be subject to specific compliance obligations under HIPAA and similar state laws that govern the collection, use, protection and disclosure of personally identifiable information.  HIPAA imposes specific requirements regarding data privacy and security on covered entities (providers, health plans and health care clearinghouses); business associates (entities that may perform services for covered entities, pursuant to which they may access personal information); and business associates’ subcontractors, including us.   There may be civil and criminal penalties, as well as contractual ramifications, for violating HIPAA. 
+12
+
+Corporate Information
+We were organized as a California limited liability company in February 2001 and converted into a California corporation in October 2004. We were reincorporated in Delaware in March 2015. Our principal executive offices are located at 4051 Broad Street, Suite 220, San Luis Obispo, California 93401, and our telephone number is (877) 755-4279. Our website address is https://www.mindbodyonline.com, and our investor relations website is http://investors.mindbodyonline.com.  Information contained on, or that can be accessed through, our website, does not constitute part of and is not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our website are intended to be inactive textual references only.
+Unless expressly indicated or the context requires otherwise, the terms “MINDBODY,” “company,” “we,” “us,” and “our” in this Annual Report on Form 10-K refer to MINDBODY, Inc., a Delaware corporation, and, where appropriate, its wholly owned subsidiaries. The Enso design logo, “MINDBODY,” as well as the slogans “LOVE YOUR BUSINESS,” “BOOK YOUR BEST DAY. EVERY DAY.” and “CONNECTING THE WORLD TO WELLNESS” are trademarks or registered trademarks of MINDBODY.  Other trademarks and trade names referred to in this Annual Report on Form 10-K are the property of their respective owners. Except as set forth above and solely for convenience, the trademarks and tradenames in this Annual Report on Form 10-K are referred to without the ® and ™ symbols, but such references should not be construed as any indicator that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto.
+Available Information
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act. The public may obtain these filings at the Securities and Exchange Commission’s, or SEC, Public Reference Room at 100 F Street, NE, Washington, DC 20549 or by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website at www.sec.gov that contains reports, proxy and information statements and other information that we file with the SEC electronically. We make available on our website, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations page of our website located at investors.mindbodyonline.com. Press releases and corporate governance information, including our board committee charters, code of business conduct and ethics and corporate governance guidelines, are also available on the investor relations page of our website.  
+Executive Officers of MINDBODY
+The following table provides information regarding our executive officers as of February 22, 2018:
+
+
+Name | Age | Position 
+Richard Stollmeyer | 52 | Chief Executive Officer and Chairman of the Board of Directors
+Michael Mansbach | 50 | President 
+Brett White | 55 | Chief Financial Officer and Chief Operating Officer 
+Kimberly Lytikainen | 51 | Chief Legal Officer, Secretary and Compliance Officer 
+Kunal Mittal | 39 | Chief Technology Officer 
+Mark Baker | 51 | Chief Revenue Officer 
+
+
+Richard Stollmeyer. Mr. Stollmeyer is a founder and has served as our chief executive officer and as chairman of our board of directors since October 2004. He also served as our president from October 2004 to June 2017. Mr. Stollmeyer holds a B.S. degree in Political Science and Russian Language, with a concentration in International Relations, from the United States Naval Academy.
+13
+
+Michael Mansbach. Mr. Mansbach has served as our president since June 2017. From November 2015 to February 2017, Mr. Mansbach served as president of Blue Jeans Network, Inc., a cloud-based video communications company. From September 2014 to September 2015, Mr. Mansbach served as the chief executive officer of PunchTab, Inc., an engagement and insights platform. From November 2004 to April 2014, Mr. Mansbach served in various senior management roles with the software-as-a-service division of Citrix Systems, Inc., a provider of business mobility and security software, including as vice president, customer care from November 2013 to April 2014; vice president and general manager, global sales and client services from December 2007 to November 2013; and vice president, enterprise marketing and business development from November 2004 to December 2007. Mr. Mansbach received his B.A. degree in French Language and Literature from the University of California, Los Angeles, and his M.A. degree in International Economics, European Area Studies, from the Paul H. Nitze School of Advanced International Studies at The Johns Hopkins University.
+Brett White. Mr. White has served as our chief financial officer since July 2013 and our chief operating officer since July 2016. From January 2008 to July 2013, Mr. White served as chief financial officer at Meru Networks, Inc., a provider of Wi-Fi solutions. From November 2005 to December 2007, Mr. White served as chief financial officer at Fortinet, Inc., a provider of network security solutions. Mr. White holds a B.A. degree in Business Economics from the University of California, Santa Barbara.
+Kimberly Lytikainen. Ms. Lytikainen has served as our chief legal officer since January 2017, our corporate secretary since March 2015, and our compliance officer since June 2015. Ms. Lytikainen previously served as our general counsel from July 2014 through December 2016. From June 2013 to July 2014, Ms. Lytikainen served as associate general counsel at Pivotal Software, Inc., a provider of computer software and services. From April 2006 to June 2013, Ms. Lytikainen served as vice president, assistant general counsel at NVIDIA Corporation, a visual computing company. Ms. Lytikainen holds a B.A. degree in Political Science and Government from Florida State University, and a J.D. degree from Loyola Law School, Loyola Marymount University.
+Kunal Mittal. Mr. Mittal has served as our chief technology officer since June 2016. From November 2015 to May 2016, Mr. Mittal served as our senior vice president of technology. From July 2008 to November 2015, Mr. Mittal served as executive director of enterprise technologies at Sony Pictures Entertainment Inc., a global entertainment company. Mr. Mittal holds a B.S. degree in Computer Science from Beloit College and an M.S. degree in Software Engineering from Walden University.
+Mark Baker. Mr. Baker has served as our chief revenue officer since February 2018. From January 2017 to January 2018, he served as the executive vice president of global sales at Symphony Talent, LLC, a recruitment marketing SaaS platform company. From July 2014 to April 2016, Mr. Baker served as senior vice president, global sales, at Urban Airship, Inc., a SaaS mobile marketing platform company. From April 2010 to May 2014, Mr. Baker served in senior management roles with the Citrix Online division of Citrix Systems, Inc., a provider of business mobility and security software, providing SaaS-based collaboration and support solutions, including as vice president and general manager of sales and service - Americas from April 2010 to June 2013, and as vice president of global sales, SaaS division from June 2013 to May 2014. Mr. Baker holds a B.S. degree in Business, with an emphasis in Marketing, from Portland State University. 
