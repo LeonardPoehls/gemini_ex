@@ -1,0 +1,254 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Number | | Page
+---------+---------------------------+-----
+PART I 
+Item 1. | BUSINESS | 4 
+Item 1A. | RISK FACTORS | 13 
+Item 1B | UNRESOLVED STAFF COMMENTS | 26 
+Item 2 | PROPERTIES | 26 
+Item 3 | LEGAL PROCEEDINGS | 26 
+Item 4 | MINE SAFETY DISCLOSURES | 26 
+
+Item 1. Business
+ 
+Airborne Wireless Network (the “Company,” “we,” “us,” or “our”) was formed as a Nevada corporation on January 5, 2011 under the name “Ample-Tee” to engage in the business of promoting, marketing, selling and distributing hard to find ergonomic products for the physically disabled.
+ 
+On October 20, 2015, our current President, Treasurer and Secretary, J. Edwards Daniels, acquired control of the Company by purchasing from Lawrence Chenard, our former president, 84,400,000 shares of our common stock for a purchase price of $250,000 (80,000,000 of which shares were delivered by Mr. Daniels to the Company for cancellation without consideration in August 2016). At the time of this acquisition, the Company was a “shell company” within the meaning of the rules of the Securities and Exchange Commission (the “SEC”).
+ 
+On May 19, 2016, we changed our name to “Airborne Wireless Network” to better align our name with our intention to develop and deliver next generation global connectivity.
+ 
+On August 3, 2016, we acquired from Apcentive, Inc. (“Apcentive”) all of Apcentive’s right, title and interest in and to U.S. Patent No. 6,285,878 B1 and all related support materials, continuations, amendments, updates and contemplated updates and amendments and the trademark “Infinitus Super Highway.” In exchange for that patent and trademark, we issued to Apcentive a number of shares of our common stock and agreed to pay Apcentive a future royalty equal to 1.5% of the net cash we receive from the promotion, marketing, sale, licensing, distribution and other exploitation of that patent.
+ 
+On January 4, 2017, we filed a Form 8-K with the SEC stating that by virtue of our continuing efforts to implement our business plan and the nature of our assets, we believed that we are no longer a “shell company.”
+ 
+Our principal executive office is located at 4115 Guardian Street, Suite C, in Simi Valley, California 93063 and our telephone number is (805) 583-4302. Our fiscal year end is August 31.
+ 
+Overview
+ 
+We are an early stage company with the principal business strategy of developing, marketing and licensing a fully meshed, high-speed broadband airborne wireless network by linking aircraft in flight. We call this network the “Infinitus Super Highway.” To our knowledge, no fully meshed commercial broadband airborne network exists in the world today.
+ 
+We expect that Infinitus will provide a broadband wireless communication infrastructure by using and modifying existing, small, lightweight, low-power relay station equipment and antennae that will be installed onboard aircraft. Each equipped aircraft would have a broadband wireless communication link to one or more neighboring aircraft and/or ground stations. These aircraft would form a chain of seamless airborne repeaters or routers providing broadband wireless communication gateways along the entire flight path, essentially creating a digital superhighway in the sky. If a link was interrupted, the signal would be redirected to the next participating aircraft or ground station in the chain -- in other words, there would be multiple, simultaneous data connections and thus the system would not rely on a single link.
+ 
+We intend to act as a wholesale carrier, licensing our bandwidth to, among others, data service providers (such as major telecommunications companies and other Internet service providers) that provide broadband services to end users, to government agencies and to companies that desire a more robust private broadband network. We do not plan to license or sell Infinitus directly to consumers. We anticipate that Infinitus will enable our future customers to minimize their infrastructure development time and costs, and increase the reliability of their broadband communications systems.
+ 
+
+
+4
+
+ 
+If we can successfully complete the development of Infinitus, Infinitus could provide high-speed broadband internet service to (i) supplement or replace the current broadband networks, (ii) serve currently underserved markets, such as maritime, rural and remote locations, (iii) government agencies, incuding those that provide emergency or disaster relief services, (iv) companies seeking a more secure, reliable private data network, (v) customers onboard aircraft in flight seeking improved internet access and connectivity and (vi) owners and operators of private jets and small aircraft owners, which in turn, can provide additional aircraft for the Infinitus network. Infinitus could also provide a wireless broadband network that is not vulnerable or susceptible to single points of failure (as is the case with current networks).
+ 
+Infinitus will be based principally on a United States patent that we acquired in August 2016. The patent gives the holder the exclusive right in the United States and countries honoring United States patents to create a fully meshed, high-speed broadband wireless network by linking commercial aircraft in flight. We also filed a patent application on July 25, 2017 seeking exclusive rights to our method of synchronizing laser links between aircraft in flight, which we believe, if obtained, will be instrumental in making Infinitus operate successfully.
+ 
+We are currently in the process of completing the development of Infinitus, and have not licensed Infinitus to anyone or generated any revenue from external customers during the last three fiscal years. During the fiscal years ended August 31, 2017, 2016 and 2015, we recorded net losses of $(36,912,959), $(168,323) and $(164), respectively. Our total assets as of August 31, 2017 and 2016 were valued at $528,326 and $9,976, respectively.
+ 
+We have a three-pronged plan to commercialize Infinitus, which is described more fully below.
+ 
+Current Limitations on the Current Broadband Wireless Network
+ 
+As the proliferation of mobile devices and tablets has grown, so too has the dependency on such devices, and the need -- or rather demand -- for more bandwidth. Regardless of application; telecommunication, internet, airborne, maritime or remote, with current technology, we believe that there is not enough available bandwidth to adequately support that growth.
+ 
+Limited satellite bandwidth, combined with the inherent air-to-ground connectivity challenges of current solutions, underscores the challenges to meet the current and growing demand. Add the significant limitations of current technology, especially when it involves trans-oceanic journeys, we believe that the need for new, comprehensive solutions becomes apparent.
+ 
+Much of the air traveling public is familiar with traditional airborne services, as many airlines offer “Wi-Fi” services. The integrity of those services depends on a single link, either accessing a cellular-tower, or a satellite. This limits customer usage to non-real time services, as such technology suffers from “single points of failure” and there simply is not enough bandwidth for current demands, let alone for the future. Accordingly, service is often interrupted and slow, due to an infrastructure not designed to handle the demand for data traffic. The reason for slow data-rates is that data is “stored and forwarded,” meaning onboard equipment holds the data until the next link is available.
+ 
+Our Proposed Solution — Infinitus
+ 
+Infinitus will use aircraft in flight to create a fully meshed broadband airborne wireless network. Each aircraft equipped with Infinitus would have a broadband wireless communication link to one or more neighboring aircraft and/or ground stations. As such, if a link is ever interrupted, the signal would be redirected to the next participating aircraft or ground station in the chain. In other words, multiple, simultaneous data connections would exist at all times and the system would not rely on a single link, as is the case with existing technology.
+
+5
+
+ 
+Because Infinitus would typically be used at mid-level altitudes (20,000 to 40,000 feet), we believe that it will have inherent advantages over satellites. We believe that such altitudes will provide us with the primary advantage of being able to reuse operating spectrum. Nature limits the range of signals based upon the curvature of the earth, allowing the same frequencies to be reused beyond the horizon.
+ 
+We believe that our ability to assign operating frequencies dynamically and the ease and cost-effective ways in which we will be able to service and/or upgrade our equipment (unlike high altitude solutions), could provide us a steady, leading role in the expanding broadband wireless industry.
+ 
+When new and more efficient data-transmission technologies emerge, we believe that upgrading Infinitus would be as easy as replacing a single module. Satellite technology, on the other hand, in most cases, has already been surpassed by the time a satellite is launched, due to the typical two-year period between the design of a satellite and its subsequent launch. Additionally, satellites cannot generally be upgraded or serviced once launched.
+ 
+Development and Testing
+ 
+We are currently in the development and testing phase of our plan.
+ 
+In May 2017, we conducted our first airborne test of the system, using two Boeing 767 aircraft and a temporary mobile mast system to emulate a ground station (“Proof of Concept flight test”). During the Proof of Concept flight test, FAA and electromagnetic field interference (EMI) tests were completed successfully. The Proof of Concept flight test also successfully demonstrated, on a micro scale, the ability of aircraft equipped with Infinitus to act as airborne repeaters or routers to send and receive broadband signals from one aircraft to another. The tests also successfully demonstrated aircraft-to-ground communication; ground-to-aircraft communication; and aircraft-to-aircraft-to-ground-and-back communication.
+ 
+We will need to complete the software development and the design and development of the customized hardware to enable Infinitus.
+ 
+We intend to conduct a two-plane test utilizing two Cessnas (or equivalent planes) installed with Infinitus technology incorporating the laser underlying the Company’s patent application filed on July 25, 2017 which seeks exclusive rights to our method of synchronizing laser links between aircraft in flight. The intent of the “Cessna proof of test” is to interrupt the laser link as often as practical. The test is being designed to prove that “self-synchronizing” and “self-restoring” airborne laser-links are feasible and practical. 
+ 
+In this regard, we engaged iNTELLICOM Technologies in 2017 to help us manage the development and coordination of our Radio Frequency (“RF”) equipment, ranging from test-equipment/test protocols, to modem selection/modification, RF and antenna gear. iNTELLICOM is presently working with the Company and its primary software and laser developers to prepare for the next milestones.
+ 
+Also, in this regard, we engaged Thinking Different Technologies B.V. (“TDT”) in June 2017 under a Software Development Agreement to help us complete development of the software for Infinitus. TDT is a Netherlands software developer and engineering development company that engages in research, development, prototyping and patenting of numerous cutting-edge technologies, including chaos non-linear telecommunication and radio technology, anti-inertia phenomenon and economy of fuel in automotive and aviation industries, among others.
+ 
+We have also engaged Mynaric AG, formerly known as ViaLight Communications GmbH (“Mynaric”), in 2017 pursuant to a Design and Manufacturing Services Agreement to work to integrate Mynaric’s innovative laser technology into our patent application which seeks exclusive rights to our method of synchronizing laser links between aircraft in flight to be incorporated into our Infinitus Super Highway.
+ 
+In addition, we plan to engage a highly experienced antenna designer to develop and produce the customized airborne antennae that will need to be installed on all aircraft to enable Infinitus. In addition, we plan to engage a FAA-certified OEM manufacturer to design, develop and produce the storage module, or line replacement unit, that will be used to house the software and which will be installed on the aircraft.
+ 
+
+
+6
+
+ 
+In addition, we plan to engage consultants to assist us with development and implementation of domestic and international regulatory changes necessary to support Infinitus; the acquisition of spectrum rights for Infinitus and/or its implementation partners; negotiating and obtaining the referred spectrum band(s) for Infinitus to operate effectively, the minimum amount of spectrum required to support Infinitus, the potential for sharing with other co-frequency services; the potential for operations on a secondary versus primary basis; the potential for partners to secure spectrum rights on behalf of the Company; the potential for staged national/regional roll-out versus global implementation; and the potential for national licensing via spectrum auctions.
+ 
+We presently anticipate that we will be able to conduct the Cessna proof of test and a larger airborne test involving up to 20 commercial aircraft during the 2018 calendar year, assuming that sufficient progress has been made in the relevant software and hardware development and that we are able to obtain additional funding. If successful, we would be able to complete hardware and software development in order to launch Infinitus.
+ 
+Creating the Fully Meshed Broadband Wireless Network--Contracting with Commercial Airlines and Traditional Data Transfer Providers
+ 
+In order to commercialize Infinitus, our equipment will have to be installed on a sufficient number of aircraft so that a fully meshed broadband airborne wireless network will be available 24 hours a day and 7 days a week in the geographic territories we initially intend to cover. In that regard, we plan to initially enter into agreements with commercial airlines (passenger and cargo) that will allow us to install our equipment on their aircraft. We believe commercial airlines will be amenable to such agreements because they will receive a portion of the revenue from the usage of the equipment and/or Infinitus will enhance their overall customer service by providing better Internet access and connectivity to their customers onboard aircraft in-flight. We may simultaneously or subsequently enter into agreements with owners and operators of private jets and small aircraft owners, which in turn, can provide additional aircraft for the Infinitus network.
+ 
+Our initial market will be the continental United States. For the United States, we currently estimate that our Infinitus network would require a minimum of approximately 30 equipped aircraft to establish a coast-to-coast connection. We believe we will need to have our equipment installed on approximately 500 to 600 aircraft to achieve redundancy and obtain an industry acceptable 90%-plus standard connectivity rate. Our goal will be to have Infinitus installed on at least 2,500 aircraft, which we believe will result in approximately 600 aircraft airborne at any particular time to try and achieve an industry standard of 99.9% or better connectivity rate, which is the current rate of broadband/bandwidth provided by current telecommunications/ISP providers. These models and network features are being refined during our development phase and will require additional modeling that will, in turn, be verified and ratified through the testing and development phases.
+ 
+In furtherance of this objective, on January 9, 2017, we entered into a Marketing Memorandum of Understanding with Air Lease Corporation, a leading aircraft leasing company principally engaged in purchasing and leasing commercial aircraft to its airline customers worldwide, as our marketing agent to arrange for airlines to install our equipment on their aircraft. Air Lease Corporation has more than 200 aircraft presently leased to over 80 customers worldwide. Under the terms of the agreement, Air Lease Corporation agreed to market Infinitus to airlines within the continental U.S. upon successful completion of our Proof of Concept flight test, while also assisting us in obtaining the necessary FAA and airframe manufacturer approvals. In consideration of the services to be provided by Air Lease Corporation, we agreed to provide 2% of the net profits which are earned from the use of Infinitus, which will be paid monthly in arrears for the entire life of Infinitus. In addition, we issued to Air Lease Corporation shares of common stock representing 10% of our common stock outstanding on January 10, 2017, and we agreed that on January 15, 2018 we would grant to Air Lease a five-year option to purchase an additional 6% of the shares of common stock outstanding on that date, exercisable at prices determined by applying discounts to the trading price of the Company’s common stock on the grant date. The agreement with Air Lease Corporation provides full ratchet anti-dilution protection to Air Lease Corporation. As a result, each time we issue additional shares of common stock or shares of another class or series of capital stock, we will issue to Air Lease Corporation without further consideration additional shares of our common stock or other class or series of capital stock so that Air Lease Corporation will continue to own 10% of the outstanding shares of common stock and each other class or series of capital stock. Similarly, each time we issue additional shares of common stock or shares of another class or series of capital stock that would dilute the 6% of shares for which Air Lease Corporation holds an option to purchase, we will issue to Air Lease Corporation without further consideration additional options to Air Lease Corporation for the purchase of additional shares of our common stock or other class or series of capital stock so that the number of shares that Air Lease Corporation can purchase continues to equal 6%.
+ 
+
+
+7
+
+ 
+As noted, we successfully completed our Proof of Concept flight test in May 2017. Air Lease Corporation has accordingly commenced its marketing efforts to airlines within the continental U.S.
+ 
+In addition to installing our equipment on commercial aircraft, we also need to establish the ground-based system infrastructure that will allow users to access the network. In that regard, we plan to enter into agreements with traditional data transfer companies, such as fiber-based network solution providers, with which we can partner to support the ground-based system infrastructure required to fully enable Infinitus. We believe that these providers will be amenable to such agreements because they will enjoy significantly increased data traffic and associated revenues, as well as additional trade recognition, as a part of enabling Infinitus.
+ 
+In this regard, on December 12, 2016, we entered into a Memorandum of Understanding with Electric Lightwave Holdings, Inc., a fiber-based network services provider in the western United States, pursuant to which the parties agreed to explore the possibility of entering into an agreement whereby Electric Lightwave Holdings would support Infinitus with its 12,500 mile fiber optics cable and data center network, including an undersea cable link to the Hawaiian Islands. The agreement contemplated by the Memorandum of Understanding would also provide us access to strategic real estate within the western United States on which we will construct our ground stations. Since our entry into the Memorandum of Understanding, Zayo Group Holdings, Inc. acquired Electric Lightwave Holdings. The Memorandum of Understanding with Electric Lightwave Holdings, Inc. is non-binding and there is no assurance that we will enter into a definitive agreement.
+ 
+We ultimately intend to also expand into the international and maritime markets. For the international market, we will build upon the relationships we have fostered to date with our strategic partners to gain access to international commercial airlines. We believe that these airlines will also be amenable to entering into agreements allowing us to install our equipment on their aircraft for the same reason that airlines serving the United States would agree to such installation.
+ 
+For the maritime market, we will seek to contract with shipping and cruise ship companies, as well as operators of water platform oil drilling rigs. They will install our equipment on their ships and drilling rigs, which would serve as signal boosters that amplify and relay any broadband wireless signal when line of sight may be lost between planes and/or ground stations. We believe that such shipping and cruise ship companies and drilling rig operators would be amenable to entering into agreements allowing us to install our equipment on their ships and/or drilling rigs because it will enable cell phone and Internet service on those ships and drilling rigs, while also enabling real-time tracking functionality.
+ 
+Licensing Infinitus to Customers
+ 
+Once Infinitus is in place, we intend to act as a wholesaler of broadband wireless bandwidth.
+ 
+As noted, our intended customers fall into three broad categories:
+ 
+
+· | Data service providers, such as larger telecommunications carriers and ISPs (including those that provide in-cabin connectivity, such as GoGo, rural service providers, maritime access providers, and in the future, possibly, drone network access/safety, drone control beyond the horizon, private business jet network access;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Government agencies such as the FAA, the Department of Defense, the Transportation Security Administration or emergency or disaster relief agencies/providers; and 
+· | Large private companies seeking to either establish their own private networks, or improve their existing private networks, by utilizing Infinitus. 
+
+
+8
+
+ 
+Marketing to the aforementioned customers will be on a direct basis, although we anticipate that many of our customers will be derived from introductions and industry relations. Once Infinitus has been established, we expect to be approached by additional service providers as we would be offering solutions which may not be available with current technologies.
+ 
+Manufacturing, Equipment and Installation
+ 
+The equipment to be installed on each aircraft includes a radome, customized antennae and several line replaceable units, which will house the Infinitus software.
+ 
+Although all components will be manufactured by third parties who are experts in their respective fields, such manufacturing would be done on an original equipment manufacturer’s basis, to our specifications. We would be the owner of the design of such components and responsible ultimately for the quality of each component and, except when required by the FAA rules, responsible for compliance with the applicable FAA Parts Manufacturing Authority. See “—Licenses and Regulation.” To ensure that we remain compliant with our Parts Manufacturing Approvals, we will maintain manufacturing oversight; this will include establishing and maintaining a product management facility controlled by us where we will oversee final assembly of the equipment.
+ 
+We plan to hire a team of employees who will train to become specialists in installing the relevant equipment on aircraft, and who will in turn train employees of one or more third-party service providers with whom we plan to contract. In addition, airlines with which we intend to work may prefer to have their own employees or a third-party service provider of their choice install our equipment directly. We expect to have our team train any such third-party service provider on how to install our equipment correctly.
+ 
+Competition
+ 
+We believe that if we are successful, the proprietary nature of Infinitus will enable us to create a unique broadband network which currently is not available in the marketplace.
+ 
+There are a number of possibly competing systems that rely on launching large numbers of small satellites. Potential competitors include, but are not limited to:
+ 
+
+· | Inmarsat PLC and its satellites. Inmarsat is a leader in the providing of satellite-based communication services to the maritime industry; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Traditional communications and broadcast satellites. Currently, traditional satellites (despite their many disadvantages and huge environmental impact), are the major solution provider to solving the world’s ever-growing need for communications and connectivity;
+· | Facebook, Inc., which is attempting to create a network in the sky utilizing drones with wingspans the size of Boeing 737/757 aircraft; and 
+· | Google, Inc., which is attempting to create a network in the sky utilizing drones or balloons. 
+
+ 
+To our knowledge, the closest approach to Infinitus is Facebook’s proposed use of drones to provide network coverage. This approach resembles Infinitus, with two major differences. First, we believe that the use of large, unmanned drones (with wingspans the size of a Boeing 737/757 aircraft) flying overhead, solely depending on solar power, may not to be the safest method for providing this service. Second, we have a U.S. patent, which is recognized by many of the world’s nations, and protects Infinitus from competitors seeking to utilize our technology, although our patent expires during 2018. We do not believe that our competitors own similar patents in those countries that recognize U.S. patents, nor do they have a license to use our patent, and, therefore, their use of technology similar to Infinitus could infringe on our intellectual property.
+ 
+
+
+9
+
+Research and Development
+ 
+Research and development expenses were $1,086,599, $0 and $0 for the fiscal years ended August 31, 2017, 2016 and 2015, respectively. Most of these funds have been spent on the development and testing of Infinitus. We expect to continue to spend substantial amounts of our available cash on the development and testing of Infinitus in the near future.
+Employees
+ 
+As of November 9, 2017, we had seven full-time employees and eight total employees. Additionally, we utilize the services of consultants to assist with the development of our business. We consider our relationship with our employees to be good. 
+ 
+We anticipate that human resource planning will be a part of an ongoing process that will include regular evaluation of our operations. We intend to hire additional employees at such time as we determine it is appropriate.
+ 
+Licenses and Regulation
+ 
+Federal Aviation Administration
+ 
+The FAA prescribes standards and certification requirements for the manufacturing of aircraft and aircraft components, and certifies and rates repair stations to perform aircraft maintenance, and preventive maintenance and alterations, including the installation and maintenance of aircraft components. Each type of aircraft operated in the United States pursuant to an FAA-issued standard airworthiness certificate must possess an FAA Type Certificate, which constitutes approval of the design of the aircraft type based on applicable airworthiness standards. When a party other than the holder of the FAA Type Certificate develops a major modification to an aircraft already type-certificated, that party must obtain an FAA-issued Supplemental Type Certificates (“STCs”) approving the design of the modified aircraft type. As our equipment would constitute a major modification, we will need to obtain an STC for each aircraft type operated by each airline on whose aircraft our equipment will be installed. Separate STCs typically are required for different configurations of the same aircraft type, such as when they are configured differently for different airlines.
+ 
+After obtaining an STC, a manufacturer desiring to manufacture components to be used in the modification covered by the STC must apply to the FAA for a Parts Manufacturing Approvals ("PMA"), which permits the holder to manufacture and sell components manufactured in conformity with the PMA and its approved design and data package. In general, each initial PMA is an approval of a manufacturing or modification facility’s production quality control system. PMA supplements are obtained to authorize the manufacture of a particular part in accordance with the requirements of the pertinent FAA regulations which are included in its production quality control system. We plan to routinely apply for such PMAs and supplements. We plan to utilize qualified and approved suppliers. We also plan to be the sole owner of the design, and be responsible for the quality, of each component in accordance with the applicable PMA.
+ 
+Our business will depend on our continuing access to, or use of, applicable FAA certifications, authorizations and other approvals, and our employment of, or access to, FAA-certified individual engineering and other professionals. In this regard, on October 18, 2016, we entered into a Consulting Agreement with Aero Certification and Engineering LLC (“Aero”), pursuant to which we engaged Aero to support us in our development of data and analysis to support FAA Civil Certification of Infinitus.
+ 
+In accordance with these certifications, authorizations and other approvals, the FAA will require that we maintain, review and document our quality assurance processes. The FAA may also visit our facilities at any time as part of our agreement for certification as a manufacturing facility to ensure that our facilities, procedures and quality control systems meet the requirements for the FAA approvals we hold. In addition, we will be responsible for informing the FAA of significant changes to our organization and operations, product failures or defects, and any changes to our operational facilities or FAA-approved quality control systems. Other FAA requirements include training procedures and drug and alcohol screening for safety-sensitive employees working at our facilities.
+ 
+
+
+10
+
+Foreign Aviation Regulation
+ 
+According to our understanding of international aviation convention, we believe that the airworthiness of FAA-certified Infinitus equipment installed on U.S.-registered aircraft should be recognized by civil aviation authorities (“CAAs”) worldwide. As a result, we do not expect to require further airworthiness certification formalities in countries outside of the United States for U.S.-registered aircraft that already have an STC issued by the FAA covering Infinitus equipment. For aircraft registered with a CAA other than the United States, the installation of Infinitus equipment would require airworthiness certification from an airworthiness certification body. Typically, the CAA of the country in which the aircraft is registered is responsible for ensuring the airworthiness of any aircraft modifications under its authority.
+ 
+The FAA holds bilateral agreements with a number of certification authorities around the globe. Bilateral agreements facilitate the reciprocal airworthiness certification of civil aeronautical products that are imported/exported between two signatory countries. A Bilateral Airworthiness Agreement (“BAA”) or Bilateral Aviation Safety Agreement (“BASA”) with Implementation Procedures for Airworthiness (“IPA”) provides for airworthiness technical cooperation between the FAA and its counterpart civil aviation authorities. Pursuant to a BAA or BASA, the CAA of the aircraft’s country of registration generally validates STCs issued by the FAA and then issues a Validation Supplemental Type Certificate (“VSTC”). For countries with which the FAA does not have a BAA or BASA, we must apply for certification approval with the CAA of the country in which the aircraft is registered. In order to obtain the necessary certification approval, Infinitus would be required to comply with the airworthiness regulations of the country in which the aircraft is registered. Failure to comply with all foreign airworthiness and aviation regulatory requirements at the commencement of each airline partner’s service in any country in which such partner registers aircraft when there are no applicable bilateral agreements could lead to significant additional costs related to certification and could impact the timing of our ability to provide our service on our airline partners’ fleets.
+ 
+Federal Communications Commission
+ 
+The Federal Communications Commission ("FCC") is responsible for managing and licensing the electromagnetic spectrum for broadband wireless communications in the United States.
+ 
+We will need an FCC license to use a portion of this spectrum for Infinitus. Although we are reasonably certain that we will receive this license from the FCC; we can provide no assurance when we will receive such a license or if we will receive it at all. Further, once received, any breach of the terms of the license or other license, or any violation of the Communications Act or the FCC’s rules, could result in the revocation, suspension, cancellation or reduction in the term of a license or the imposition of fines. From time to time, the FCC may monitor or audit compliance with the Communications Act and the FCC’s rules or with our licenses, or may do so if a third party were to bring a claim of breach or noncompliance. In addition, the Communications Act, from which the FCC obtains its authority, may be amended in the future in a manner that could be adverse to us. The FCC is currently conducting rulemaking proceedings to consider the service rules for certain aeronautical services and recently granted a petition and issued a notice of proposed rulemaking in connection with a request to designate certain spectrum. The timetable and ultimate outcome of such rulemaking processes are unknown, and we are unable to determine whether they would have an effect on our business.
+Regulatory Status
+ 
+The FAA has issued us a project number, ST16664LA-T, for our initial STC application. Upon approval of our STC application, we will be certified to install our broadband and transceiver system on Boeing 757-200 aircraft. We intend to seek certification for most of the world’s common commercial aircraft types, including the Boeing 737 and Airbus A320/21 series aircraft. Similar certificates would need to be approved for each additional aircraft type. We completed our Proof of Concept flight test on two Boeing 767-300ER aircraft and a temporary mobile mast station that emulated a ground station. This test was successfully completed on May 31, 2017 under a FAA-approved experimental operating certificate and a FCC special temporary authorization number 0378-EX-ST-2017X. Prior to our Proof of Concept flight test, we successfully completed ground demonstrations on two static 757-200 aircraft. We anticipate that this testing will ultimately result in our obtaining a STC, though we do not currently hold one and there can be no assurance that we will be granted one in a timely manner, or at all.
+
+11
+
+ 
+In addition to the STCs, we will need a PMA from the FAA to become an approved manufacturer of our system. All of our outside vendors in our component supply chain will also need to obtain a PMA.
+ 
+Additionally, we are seeking approval from the FAA for certification on a non-interference basis of Infinitus regarding onboard critical aircraft operating components. We are initially seeking a STC approval on a non-interfering basis and thus we anticipate the FAA issuing this certification; however, there can be no assurance that we are issued this certification in a timely manner, or at all.
+ 
+In March 2017, we filed with the FCC an application for an experimental operating certificate, file number 0378-EX-ST-2017X, to begin air-to-air and air-to-ground meshed network system evaluations. That license was granted in May 2017 and allowed us to begin ground and flight radio frequency transmission testing of Infinitus. We are in ongoing discussions with the FCC to obtain final FCC approvals.
+ 
+Patents, Proprietary Rights and Know–How
+ 
+Our intellectual property consists of (i) U.S. patent No. 6,285,878 B1, which is for a new use for the already existing fleets of commercial aircraft designed to replace low orbit communication satellites, and (ii) an application for the trademark “Infinitus Super Highway,” which is pending at the U.S. Patent & Trademark Office (U.S. Serial No. 87670983). The expiration date for our patent is September 4, 2018. The patent gives us the exclusive right in the United States and countries honoring United States patents to create a high-speed broadband wireless network by linking commercial aircraft in flight. We have also filed a patent application on July 25, 2017 seeking exclusive rights to our method of synchronizing laser links between aircraft in flight, which we believe will be instrumental in making Infinitus operate successfully. For more information regarding our intellectual property, please see the IP-related risks in the section titled “Risk Factors” in this annual report.
+ 
+Geographic Information 
+ 
+We have not generated any revenue from any customers since our inception. The following tables list revenue and property and equipment, net by geographic area: 
+ 
+
+ | Year Ended August 31, | 
+---------------------+-----------------------+--
+ | 2017 | | 2016 | 
+Revenue: | | | | 
+United States | $ | - | | $ | -
+Rest of the world(1) | | - | | | -
+Total revenue | $ | - | | $ | -
+
+ ________
+ 
+
+(1) | No individual country exceeded 10% of our total revenue for any period presented.
+----+----------------------------------------------------------------------------------
+
+
+ | As of August 31, | 
+----------------------------------+------------------+-------
+ | 2017 | | 2016 | 
+Property and equipment, net: | | | | 
+United States | $ | 25,348 | | $ | -
+Rest of the world | | - | | | -
+Total property and equipment, net | $ | 25,348 | | $ | -
+
+Securities Exchange Act Reports
+ 
+Our Internet address is www.airbornewirelessnetwork.com (this uniform resource locator, or URL, is an inactive textual reference only and is not intended to incorporate the Company’s website into this Annual Report on Form 10-K). We make available free of charge on our Internet website our annual reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K and any amendments to those reports filed or furnished under Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) as soon as reasonably practicable after we file such material with, or furnish it to, the SEC.
+ 
+
+
+12
+

@@ -1,0 +1,121 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+ 
+In this report, unless the context requires otherwise, references to the "Company", "View Systems", "we", "us" and "our" are to View Systems, Inc.
+ 
+CORPORATE HISTORY
+ 
+View Systems was incorporated in Florida on January 25, 1989, as Beneficial Investment Group, Inc. and became active in September 1998 when we began development of our digital video product line and changed the company's name to View Systems, Inc. Starting in 1999 we expanded our business operations through a series of acquisitions of technologies we use in our digital video recorder technology products and in our concealed weapons technology.
+ 
+On July 25, 2003, View Systems incorporated View Systems, Inc. as a wholly owned Nevada corporation for the sole purpose of changing the domicile of the company from Florida to Nevada. On July 31, 2003, articles of merger were filed with the states of Florida and Nevada to complete the domicile change.  In 2016 we domiciled to Colorado.
+ 
+OUR BUSINESS
+ 
+View Systems, Inc. develops, produces and markets computer software and hardware systems for security and surveillance applications. In 1998 digital video recorder technology was our first developed product and we enhanced this product line by developing interfaces with other various technologies, such as facial recognition, access control cards and control devices such as magnetic locks, alarms and other common security devices. In 2003 we sold this product to various commercial entities including schools, restaurants, night clubs, car washers and car dealers (license plate recognition was incorporated into these types of installations), ranches and gas stations. In these installations we integrated the digital video recorded technology with other electronic devices, and we gained knowledge of the security needs of a wide range of businesses.
+ 
+We expanded our product line in 2002 to include a concealed weapons detection system we call ViewScan. We have penetrated four major market segments for this product: correctional facilities, judicial facilities, probation offices and federal facilities in the Mid-Atlantic States, the West Coast and the South. In 2003 we added a hazardous material first response wireless video transmitting system to our product line we refer to as Visual First Responder. The markets for these units are first responder units for agencies such as the National Guard, Coast Guard, Army, state law enforcement agencies, and fire departments. Both of these technologies were licensed from the U.S. Department of Energy's Idaho National Engineering Laboratory ("INEL"). Until 2005 we assembled all of our products in-house, but we currently contract with third party manufacturers to manufacture some components of our products.
+ 
+ 3
+ 
+Historically, we have relied upon exclusive technology licensing agreements with federal departments to license and distribute the ViewScan technology. In anticipation of the expiration of federal licenses, we developed propriety components and made sufficient engineering design changes to the ViewScan product to lower production costs and to accommodate the price points required by competitive pressures. By redesigning the ViewScan, we offset the impact of the expiration of our license agreements and continued to capitalize on the competitive advantage we had in the markets we had entered.
+ 
+Letter of Intent
+ 
+On January 29, 2015, we entered into that certain letter of intent (the "Letter of Intent") with Potomac River Group, LLC ("PRG"), regarding the acquisition by PRG of substantially all of the assets and certain specified liabilities of our business (the "Transaction").  The Board of Directors of the company decided that the Transaction was not in the best interests of View Systems and consequently declined the Transaction.
+ 
+In January 14, 2016 we entered into an agreement to acquire a company called YM Advantage, Inc. After considerable study the Board of Directors of View Systems decided that the acquisition was not in the best interests of the company.  The experience and data gathered about the market that YM Advantage was attempting to be in led us to believe that the erectile dysfunction (ED) market was very profitable.  Our board of directors has two doctors who investigated the ED market broadly. They determined it could be highly profitable to own a clinic that offered products to the ED market. We embarked on an effort that is establishing one clinic to test their suppositions. If successful, the company would then embark on a path that would establish multiple ED clinics.  On May 18, 2016 we filed an 8K dissolving our agreement to acquire YM Advantage.
+ 
+Our plan is to maintain our current course of security business and simultaneously add this new additional ED business to our line of products.
+ 
+Proxy Statement and Shareholder Vote
+ 
+In December 2016 we asked a majority of our shareholders to vote for authorization to makes changes to the Series A class of preferred shares and received approval from both 100% and a majority of common shareholders to make changes including an increase in authorized of preferred shares and a change in the ration of conversion of preferred to common.
+PRODUCTS AND SERVICES
+ 
+We have three main products, namely the concealed weapons detection system, the visual first responder system and the ViewMaxx digital video system. We no longer install the ViewMaxx product due to eroding margins created in the market place by sever international price competition. We no longer manufacture the "first responder" system for the same reason.   Our current principal products and services include:
+ViewScan Concealed Weapons Detection System
+ 
+ViewScan, which is also sold under the name "Secure Scan", is a walk-through concealed weapons detector, which uses data sensing technology to accurately pinpoint the location, size and number of concealed weapons. A master processing board controls this walk-through portal and a personal computer based which receives magnetic and video information and combines it in a manner that allows the suspected location of the weapon to be stored electronically and referenced. Because ViewScan does not produce a graphic anatomical display of a scanned person, the Company does not believe that ViewScan is susceptible to privacy concerns raised about certain personnel scanners produced by other companies.
+ 
+ 4
+ 
+ViewScan products are distributed in three basic configurations; stand-alone units, portable units and integrated door systems.
+ 
+While electromagnetic induction systems of the type described above have been used for decades as concealed weapons detection systems, they are not without their problems. For example, such electromagnetic induction systems are generally sensitive to the overall size, i.e., surface area of the object, including its mass. Consequently, small, compact, but massive objects, such as a small pistol, may not produce a "signature" that is significantly larger than the signature produced by a light weight object of the same or greater size, such as a cell phone or compact camera. Another problem associated with electromagnetic induction systems is related to the fact that electromagnetic systems are sensitive to electrically conductive objects, regardless of whether they are magnetic or non-magnetic. That is, electromagnetic systems tend to detect non-magnetic objects, such as pocket change, just as easily as magnetic objects, such as weapons. Consequently, electromagnetic systems tend to be prone to false alarms. In many circumstances, such false alarms need to be resolved by scanning the suspect with a hand-held detector in order to confirm or deny the presence of a dangerous weapon.
+ 
+ViewScan is designed to overcome the traditional shortcomings of electromagnetic induction scanners. The ViewScan portal uses an array of advanced magnetic sensors, each with internal digital signal processors. The sensors communicate with the control unit's software which spatially places identified magnetic anomalies and visually places the location of the potential threat object with a red dot that is superimposed over a real time snapshot image of the person walking through the portal. Along with the snapshot, a graph displays the sensor data which automatically scales the signal strength of the individual sensors and cross-references them to the video image. All of this information is brought together on a video screen that displays the image of the person, the location of the weapon(s) and the size of the weapon(s), depending on the intensity of the magnetic signature. The visual image allows the operator to determine what the object is without the need to conduct a personal search to locate the object and look at it.
+ 
+The ViewScan system operates faster than ordinary metal detectors and can scan as high as 1,200 persons per hour. Since the ViewScan technology does not use transmitters to produce electromagnetic induction, it does not pose a problem for pacemakers. The ViewScan self calibrates and does not need operator intervention or special calibration tools.
+ 
+In 2004 we introduced the ViewScan product to the venue and stadium market. In February 2005 we tested the ViewScan at the pre-game venues of the Super Bowl football game in Jacksonville, Florida. During that installation, the portal scanned up to 3,000 to 4,000 people and at various times throughput ranged from approximately 600 to 1,200 persons per hour.
+ 
+During 2005 we contracted with the University of Northern Florida to design new sensor boards for the ViewScan product which has allowed us to reduce the installed sensor cost by a factor of four. The new lower costs allow us to offer price points to the market which compete directly with traditional metal detectors.
+ 
+In February 2006 we demonstrated a ViewScan product with a precision optical biometric fingerprint terminal. As expected, the demand for biometric interfaces has increased significantly. In addition to verifying that an individual is not carrying guns, knives and sometimes cameras, the units can perform multi-modal double and triple identity checks, including: fingerprint, facial, iris, driver's license and employee identification card verification.
+ 
+Today we sell these units for an average retail price of approximately $9,000 with a one year extended warranty. We feel the new reduced price points and enhanced interface abilities will allow us to be more competitive, along with the advantages of three to four times the throughput rate, non-contact imaging and permanent visual storage, and a log of all individuals scanned. We have been making additional cost reductions through economies of scale and larger scale integration by taking advantage of ongoing computer component improvements.
+ 
+3D Facial Recognition Technology - Animetrics Inc.
+ 
+On August 9, 2012, we entered into a partnership with Animetrics Inc. ("Animetrics"), a leading developer of advanced 3D facial recognition and identity management solutions (the "Animetrics Agreement"). We no longer are selling into the facial recognition market.  The Animetric's product and competing products had their margins eroded to the level where our re-selling or bundling activities were unprofitable. 
+ 
+ 5
+ 
+OUR REMAINING MARKET
+ 
+Our family of products offers government and law enforcement agencies, commercial security professionals, private businesses and residential consumers an enhanced surveillance and detection capacity.
+ 
+Our ViewScan portable products and technology can be used where there is a temporary requirement for real-time weapons detection devices in areas where a permanent installation is cost prohibitive or impractical.
+ 
+A primary market for our ViewScan portal is federal and state government courthouses, county and municipal buildings, and correctional facilities. We have installed our ViewScan weapons detection products in a variety of courthouse, federal government and correctional facility situations including the Security and Exchange Commission.
+ 
+ MANUFACTURING
+ 
+We assemble the ViewScan portal internally at our facilities in Baltimore, Maryland. Our third party manufacturers create several of the hardware components in our systems and we assemble our systems by combining other commercially available hardware and software together with our proprietary software. We hold licenses for software components that are integrated into our proprietary software and installed in our systems. We believe that we can continue to obtain components for our systems at reasonable prices from a variety of sources. Although we have developed certain proprietary hardware components for use in our products and purchased some components from single source suppliers, we believe similar components can be obtained from alternative suppliers without significant delay.
+SALES AND DISTRIBUTION
+ 
+We use mailings and telephone calls to contact potential representatives in a geographical area with the intent to arrange a demonstration of our products to these persons. We attend region specific trade shows such as sheriff's conventions, court administrators meetings, civil support team, and state police shows. Then we demonstrate or give trial offers in the area until a sale is completed. Once we have completed a sale in a specific market area, then we attempt to expand that market by contacting correctional facilities, courthouses and other municipal buildings. We ship our products to the customer and each product has an unconditional 30 day warranty, during which time the product can be returned for a complete refund.
+ 
+We have ongoing reseller arrangements with small and medium-sized domestic and international resellers. Our reseller agreements grant a non-exclusive right to the reseller to purchase our products at a discount from the list price and then sell them to others. These agreements are generally for a term of one year and automatically renew for successive one-year terms unless terminated by notice or in the event of breach.
+ 
+In 2010 we also have experienced international interest from security related resellers and system integrators. Previously, we had chosen not to pursue international markets, but we secured sales in Bangladesh.
+ 
+MAJOR CUSTOMERS
+ 
+On October 9, 2012, we were selected for installation of its enhanced and new ViewScan VS-1000 weapons detection and access control product for installation in seventeen Detroit Public Schools.
+COMPETITION
+ 
+The markets for our products are extremely competitive. Competitors include a broad range of companies that develop and market products for the identification and video surveillance markets. In the weapons detection market, we compete with Ranger Security Scanners, Inc. and Garrett Electronics, Inc. in the United States, and an Italian company, CEIA SpA, which has the most sophisticated electromagnetic induction product.  CIEA apparently believes we have good ideas as they have copied various methods and enhancements from our products.
+ 
+ 6
+ 
+TRADEMARK, LICENSES AND INTELLECTUAL PROPERTY
+ 
+Certain features of our products and documentation are proprietary, and we rely on a combination of patent, contract, copyright, trademark and trade secret laws and other measures to protect our proprietary information. We limit access to, and distribution of, our software, documentation and other proprietary information. As part of our confidentiality procedures, we generally enter into confidentiality and invention assignment agreements with our employees and mutual non-disclosure agreements with our manufacturing representatives, dealers and systems integrators. Notwithstanding such actions, a court considering these provisions may determine not to enforce such provisions or only partially enforce such provisions.
+ 
+The ViewScan concealed weapons detection technology involves sensing technology and data acquisition/analysis software subsystems that have patents pending or issued to the U.S. Department of Energy. We have not renewed our license, with the INEL to commercialize, manufacture and market the concealed weapons detection technology. View Systems has not filed for patents and has found that the expense and difficulty of patenting this product would be financially prohibitive.
+ 
+Governmental ownership of the patents is advantageous to us; however, the costs have outweighed the benefits. We have not received improvements, the promised funding or active support from our government licensors. We have, however, paid money and spent time to advance the technologies. We have obtained software-licensing agreements for software operating systems components, fingerprint identification capabilities to possibly integrate into our proprietary software, and commercially available operating systems software to integrate into our proprietary product software.
+ 
+Because the software and firmware (software imbedded in hardware) are in a state of continuous development, we have not filed applications to register the copyrights for these items. However, under law, copyright vests upon creation of our software and firmware. Registration is not a prerequisite for the acquisition of copyright rights. We take steps to insure that notices are placed on these items to indicate that they are copyright protected. The copyright protection for our software extends for the 20-year statutory period from the date of first "publication," distribution of copies to the general public, or from the date of creation, whichever occurs first.
+ 
+We provide software to end-users under non-exclusive "shrink-wrap" licenses, which are automatic licenses executed once the package is opened. This type of license has a perpetual term and is generally nontransferable. Although we do not generally make source code available to end-users, we may, from time to time, enter into source code escrow agreements with certain customers. We have also obtained licenses for certain software from third parties for incorporation into our products.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+We outsource improvements or changes when requested by customers and warranted financially. For the years ended December 31, 2015 and December 31, 2014, we have spent approximately $16 and $3,626, respectively, on research and development.  In 2015 we spent approximately $21,000 on sensor development and filed a provisional patent for an enhanced ViewScan as a result.
+  7
+ 
+REGULATORY ENVIRONMENT
+ 
+We are not subject to government approval or regulation in the manufacture of our products or the components in our products. However, our products are subject to certain government restrictions on sales to "unfriendly" countries and countries designated as adversarial, which may limit our sales to the international market. In addition, our resellers and end users may be subject to numerous regulations that stem from surveillance activities. We also benefit from the recent "made in America" trade laws where non-United States manufactures must secure waivers in order to sell security and surveillance products to United States domestic end-users.
+ 
+
+Cost and effect of compliance with environmental laws
+ 
+The Company has not determined any recognizable cost related to compliance with environmental laws.
+ 
+EMPLOYEES
+ 
+As of the date of this Annual Report, we employ approximately four persons, including one sales executive and three office personnel, which includes one customer service engineer. Two persons are part-time and we also contract with two independent contractors who devote a majority of their work to a variety of our projects. Our employees are not presently covered by any collective bargaining agreement. Our relations with our employees are good, and we have not experienced any work stoppages by our employees.

@@ -1,0 +1,249 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+
+General
+Rockwell Collins, Inc. (the Company or Rockwell Collins) designs, produces and supports cabin interior, communications and aviation systems and products for commercial and military customers and provides information management services through voice and data communication networks and solutions worldwide. The integrated system solutions and products we provide to our served markets are oriented around a set of core competencies: communications, navigation, automated flight control, displays/surveillance, bespoke interior products, simulation and training, integrated electronics and information management systems. We also provide a wide range of services and support to our customers through a worldwide network of service centers, including equipment repair and overhaul, service parts, field service engineering, training, technical information services and aftermarket used equipment sales. The structure of our business allows us to leverage these core competencies across markets and applications to bring high value solutions to customers. We operate in multiple countries and are headquartered in Cedar Rapids, Iowa.
+Our Company's heritage is rooted in the Collins Radio Company, established in 1933. Rockwell Collins, Inc., the parent company, is incorporated in Delaware. As used herein, the terms "we", "us", "our", "Rockwell Collins" or the "Company" include subsidiaries and predecessors unless the context indicates otherwise.
+Whenever reference is made in any Item of this Annual Report on Form 10-K to information in our Proxy Statement for the Annual Meeting of Shareowners to be held on February 1, 2018 (2018 Proxy Statement), such information shall be deemed to be incorporated herein by such reference.
+All date references contained herein relate to our fiscal year ending on the Friday closest to September 30 unless otherwise stated. For ease of presentation, September 30 is utilized consistently throughout this report to represent the fiscal year end date. Fiscal years 2017, 2016 and 2015 were 52-week fiscal years.
+Proposed Acquisition by United Technologies Corporation
+On September 4, 2017, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with United Technologies Corporation, a Delaware corporation (“UTC”), and Riveter Merger Sub Corp., a Delaware corporation and a wholly owned subsidiary of UTC (“Merger Sub”). Upon the terms and subject to the conditions set forth in the Merger Agreement, at the closing, Merger Sub will merge with and into Rockwell Collins, with Rockwell Collins surviving as a wholly owned subsidiary of UTC (the “UTC Merger”).
+Pursuant to the Merger Agreement, at the effective time of the UTC Merger (the “Effective Time”), each share of Rockwell Collins common stock, par value $0.01 per share, issued and outstanding immediately prior to the Effective Time (other than (1) shares held by Rockwell Collins as treasury stock, UTC, or any subsidiaries of Rockwell Collins or UTC and (2) shares held by a holder who has properly exercised and perfected (and not effectively withdrawn or lost) such holder’s demand for appraisal rights under Section 262 of the General Corporation Law of the State of Delaware, which in each case will be treated as described in the Merger Agreement) will be converted into the right to receive (1) $93.33 in cash, without interest, plus (2) a fraction of a share of UTC common stock having a value equal to the quotient obtained by dividing $46.67 by the average of the volume-weighted average prices per share of UTC common stock on the New York Stock Exchange for each of the 20 consecutive trading days ending with the trading day immediately prior to the closing date (the “UTC stock price”), subject to a two-way collar mechanism described below (together, the “Merger Consideration”), less any applicable withholding taxes. 
+The fraction of a share of UTC common stock into which each such share of Rockwell Collins common stock will be converted is referred to as the exchange ratio. The exchange ratio will depend upon the UTC stock price. If the UTC stock price is greater than $107.01 but less than $124.37, the exchange ratio will be equal to the quotient of (i) $46.67 divided by (ii) the UTC stock price, which, in each case, will result in the stock consideration having a value equal to $46.67. If the UTC stock price is less than or equal to $107.01 or greater than or equal to $124.37, a two-way collar mechanism will apply, pursuant to which (i) if the UTC stock price is greater than or equal to $124.37, the exchange ratio will be fixed at 0.37525 and the value of the stock consideration will be more than $46.67, and (ii) if the UTC stock price is less than or equal to $107.01, the exchange ratio will be fixed at 0.43613 and the value of the stock consideration will be less than $46.67.
+The completion of the UTC Merger is subject to customary conditions, including, without limitation, (1) the approval of the UTC Merger by Rockwell Collins shareowners, (2) the expiration or termination of the applicable waiting period under the 
+ 1
+
+Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (3) the receipt of other required regulatory approvals, (4) the absence of any order or law that has the effect of enjoining or otherwise prohibiting the completion of the UTC Merger or resulting in the occurrence of certain conditions specified in the Merger Agreement, (5) the absence of a material adverse effect on Rockwell Collins and UTC and (6) the approval for listing of the shares of common stock of UTC forming part of the Merger Consideration on the New York Stock Exchange and the effectiveness of a registration statement on Form S-4 with respect to such common stock. The completion of the UTC Merger is not subject to the approval of UTC’s shareowners or the receipt of financing by UTC.
+The Company and UTC have made customary representations and warranties in the Merger Agreement. The Merger Agreement also contains customary covenants and agreements, including covenants and agreements relating to (a) the conduct of each of the Company’s and UTC’s respective businesses between the date of the signing of the Merger Agreement and the consummation of the UTC Merger, and (b) the efforts of the parties to cause the UTC Merger to be completed.
+The Merger Agreement includes termination provisions for both Rockwell Collins and UTC. The Merger Agreement provides that the Company may be required to pay UTC a termination fee equal to $695 million if the Merger Agreement is terminated by the Company under certain circumstances described in the Merger Agreement.
+Financial Information About Our Operating Segments
+Financial information with respect to our operating segments, including product line disclosures, revenues, operating earnings and total assets, is contained under the caption Segment Financial Results in Management's Discussion and Analysis of Financial Condition and Results of Operations in Item 7 below and in Note 21 of the Notes to Consolidated Financial Statements in Item 8 below.
+Access to the Company's Reports and Governance Information
+We maintain an internet website at www.rockwellcollins.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form  10-Q, Current Reports on Form 8-K and amendments to such reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on this site as soon as reasonably practicable after the reports are filed with or furnished to the Securities and Exchange Commission (SEC). All reports we file with the SEC are also available free of charge via EDGAR through the SEC website at www.sec.gov. We also post corporate governance information (including our corporate governance guidelines and Board committee charters) and other information related to our Company on our internet website where it is available free of charge. We will provide, without charge, upon written request, copies of our SEC reports and corporate governance information. Our internet website and the information contained therein or connected thereto are not incorporated into this Annual Report on Form 10-K.
+Description of Business by Segment
+We serve a worldwide customer base through our Interior Systems, Commercial Systems, Government Systems and Information Management Services operating segments. These four segments are described in detail below.
+Interior Systems
+On April 13, 2017, we acquired B/E Aerospace and formed the new Interior Systems business segment. Our Interior Systems business manufactures cabin interior products for commercial aircraft and business aviation customers. We sell our products and provide our services directly to virtually all of the world’s major airlines and aerospace manufacturers. We have achieved a leading global market position in each of our major product categories, which include:
+
+• | commercial aircraft seats, including an extensive line of super first class, first class, business class, economy class and regional aircraft seats
+
+
+• | a full line of aircraft food and beverage preparation and storage equipment, including coffee and espresso makers, water boilers, beverage containers, refrigerators, freezers, chillers and a line of microwave, high efficiency convection and steam ovens
+
+
+• | modular lavatory systems, wastewater management systems and galley systems
+
+
+• | both chemical and gaseous aircraft oxygen storage, distribution and delivery systems, protective breathing equipment and a broad range of lighting products
+
+ 2
+
+
+• | business jet and general aviation interior products, including an extensive line of executive aircraft and helicopter seats, direct and indirect overhead lighting systems, exterior lighting systems, passenger and crew oxygen systems, air valve systems and high-end aircraft monuments
+
+Interior Systems sales are categorized by product type into interior products and services and aircraft seating.
+Interior products and services includes a portfolio of interior structure products (galley structures, food and beverage preparation equipment, water and waste systems), integrated engineering services, oxygen and passenger service equipment, cabin lighting systems, de-icing equipment and aftermarket services. These products and services are marketed and sold to original equipment manufacturers (OEMs) as well as airliner customers. Additionally, interior products and services manufactures customized fully integrated thermal and power management solutions for participants in the defense industry, OEMs and the airlines. 
+Aircraft seating includes a portfolio of innovative and bespoke seating products for applications on all classes of commercial, business aviation, executive and helicopter platforms for line fit and retrofit programs. These products are marketed and sold directly to OEMs, airlines and completion centers across the globe. 
+Commercial Systems 
+Our Commercial Systems segment supplies aviation electronics systems, products and services to customers located throughout the world. The customer base is comprised of OEMs of commercial air transport, business and regional aircraft, commercial airlines and business aircraft operators. Our systems and products are used in both OEM applications as well as in retrofit and upgrade applications designed to increase the efficiency and enhance the value of existing aircraft.
+Our commercial aviation electronics systems, products and services include:
+
+• | integrated avionics systems, such as Pro Line Fusion®, which provide advanced avionics capabilities to meet the challenges of operating in the next generation global airspace. Pro Line Fusion® capabilities include: touch control primary flight displays, advanced flight and performance management, flight guidance and information management
+
+
+• | integrated cabin electronics solutions, including cabin management systems with touch-screen controls, wireless connectivity equipment, high definition video and audio, and entertainment and information content such as Airshow moving maps
+
+
+• | communications systems and products, such as data link, high frequency (HF), very high frequency (VHF) and satellite communications systems
+
+
+• | navigation systems and products, including landing sensors to enable fully automatic landings, radio navigation and geophysical sensors, as well as flight management systems
+
+
+• | situational awareness and surveillance systems and products, such as synthetic and enhanced vision systems, surface surveillance and guidance solutions, head-up guidance systems, weather radar and collision avoidance systems
+
+
+• | integrated flight controls including fly-by-wire, advanced flight guidance with auto-land capability, pilot controls, and primary and secondary electro-mechanical actuation
+
+
+• | simulation and training systems, including full-flight simulators for crew training, visual system products, training systems and engineering services
+
+
+• | maintenance, repair, parts, after-sales support services and aftermarket used equipment
+
+Commercial Systems sales are categorized into air transport aviation electronics and business and regional aviation electronics. Product category sales are delineated based upon the difference in the underlying customer base, size of aircraft and markets served.
+Air transport aviation electronics include avionics, cabin systems and flight control systems for large commercial transport aircraft platforms. We design these items as sub-systems and work with OEMs to integrate with other suppliers' products into the flight deck and broader aircraft systems. Our products offered for OEM applications in the air transport category are 
+ 3
+
+marketed directly to aircraft OEMs and airline operators, while our products offered for aftermarket applications are primarily marketed to airline operators.
+Business and regional aviation electronics include integrated avionics, cabin management and flight control systems for application on regional and business aircraft platforms. We develop integrated avionics, cabin and flight control solutions for business and regional aircraft OEMs and support them with integration into other aircraft systems. Products offered for OEM applications in the business and regional aircraft category are marketed directly to the aircraft OEMs. Products offered for aftermarket applications are primarily marketed through distributors for business aviation and directly to regional airline operators.
+Government Systems
+Our Government Systems segment provides a broad range of electronic products, systems and services to customers including the U.S. Department of Defense, various ministries of defense, other government agencies and defense contractors around the world. Our defense electronic solutions are designed to meet a wide range of customer requirements, but tend to share certain characteristics including design for rugged environments and use in size, weight and power constrained applications. These applications also typically have stringent product integrity and certification requirements with a high degree of customer oversight. These products, systems and services support airborne, precision weapon, ground and maritime applications on new equipment as well as in retrofit and upgrade applications designed to extend the service life and enhance the capability of existing aircraft, vehicle and weapon platforms.
+Our defense-related systems, products and services include:
+
+• | communications systems and products designed to enable the transmission of information across the communications spectrum
+
+
+• | navigation products and systems, including radio navigation products, global positioning system (GPS) equipment and multi-mode receivers
+
+
+• | avionics systems for aircraft flight decks, including cockpit display products (multipurpose flat panel head-down displays, wide field of view head-up and helmet-mounted displays), flight controls, information/data processing and communications, navigation, safety and surveillance systems
+
+
+• | precision targeting, electronic warfare and range and training systems
+
+
+• | simulation and training systems, including visual system products, training systems and services
+
+
+• | space wheels for satellite stabilization
+
+
+• | maintenance, repair, parts, after-sales support services and aftermarket used equipment
+
+Government Systems sales are categorized into avionics and communication and navigation products. Product category sales are delineated based upon underlying product technologies.
+Avionics consists of electronic solutions for a broad range of airborne platforms including fixed wing aircraft and military and civil rotary wing aircraft, unmanned aerial systems (UASs) and the associated aircrew and maintenance training devices and services. We provide complete avionics solutions, including cockpit avionics, mission system applications and system integration, and also provide individual avionics products to platform integrators. We serve various roles within these markets including system and sub-systems integrator as well as provider of various electronic products. For the UAS market we provide cost effective, high performance integrated flight control, navigation, communication and sensor capabilities. Simulation and training solutions are provided for both fixed and rotary wing aircraft.
+Communication and navigation products include full spectrum communication solutions for voice and data connectivity for government and military use in the air, on the ground and at sea. These communication products support military user requirements for high availability, highly secure, jam resistant wireless communication. Products include radio communication, data links, electronic warfare and networked communication systems. The navigation products are primarily comprised of global positioning system based products used for precision navigation and targeting applications. These applications include airborne, vehicular, maritime, soldier navigation devices, precision targeting subsystems, precision-guided weapons products, range and training systems and a variety of embedded GPS applications.
+ 4
+
+Information Management Services 
+Our Information Management Services segment provides communications services, systems integration and security solutions across the aviation, airport, rail and nuclear security markets to customers located around the world. The customer base includes commercial airlines, business aircraft operators, the U.S. Federal Aviation Administration (FAA), airport and critical infrastructure operators and major passenger and freight railroads.
+Our information management services include:
+
+• | voice and data communication services, such as air-to-ground GLOBALinkSM and ground-to-ground AviNet® services, which enable satellite, VHF and HF transmissions between the cockpit, air traffic control, airline operation centers, reservation systems and other third parties ensuring safety and efficiency for commercial airlines and other related entities in the aviation ecosystem
+
+
+• | global, high throughput cabin connectivity solutions enabling airlines to provide an enhanced experience for their passengers and improved operational efficiency for crews
+
+
+• | robust connectivity management services that ensure interoperability between smart aircraft and legacy airline systems, allowing airlines to increase efficiency, reduce costs and enhance operations
+
+
+• | cybersecurity as a service to protect the integrity of our customers’ information systems across a wide variety of domains including aviation, airports, rail and critical infrastructure
+
+
+• | around the clock global flight support services for business aircraft operators, under the ARINCDirectSM brand, including flight planning and datalink, international trip support, cabin connectivity solutions and flight operations management software 
+
+
+• | airport communications and information systems designed to ease congestion and improve airport efficiency via airline agent and self-service check-in, airport operations, baggage management, boarding and access control solutions
+
+
+• | train dispatching and information systems including solutions to support positive train control as mandated by the 2008 Railroad Safety Improvement Act
+
+
+• | mission critical security command and control systems for nuclear power facilities with functions such as intrusion detection, access control, video and credential management and vehicle identification
+
+Customers, Sales and Marketing
+We serve a broad range of customers worldwide, including the U.S. Department of Defense, U.S. Coast Guard, civil agencies, airports, defense contractors, foreign ministries of defense, manufacturers of commercial helicopters, manufacturers of commercial air transport, airframe manufacturers, defense manufacturers, business and regional aircraft, commercial airlines, aerospace OEMs, fractional and other business jet operators, the FAA, critical infrastructure operators and major passenger and freight railroads. We market our systems, products and services directly to our customers through an internal marketing and sales force. In addition, we utilize a worldwide dealer network to distribute our products and international sales representatives to assist with international sales and marketing. In 2017, various branches of the U.S. Government, both directly and indirectly through subcontracts, accounted for 25 percent of our total sales. 
+
+Our largest customers have substantial bargaining power with respect to price and other commercial terms. Although we believe that we generally enjoy good relations with our customers, the loss of all or a substantial portion of our sales to any of our large volume customers for any reason, including the loss of contracts, bankruptcy, reduced or delayed customer requirements, strikes or other work stoppages affecting production by these customers, could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
+ 5
+
+Competition
+We operate in a highly competitive environment. Principal competitive factors include total cost of ownership, product and system performance, network coverage, quality, service, warranty and indemnification terms, technology, design engineering capabilities, new product innovation and timely delivery. We compete worldwide with a number of U.S. and non-U.S. companies in each of our businesses. Many of these competitors are also our suppliers or customers. Principal competitors include BAE Systems Aerospace, Inc.; CAE Inc.; Diehl Aerosystems Holding GmBH; Elbit Systems Ltd.; Esterline Technologies Corp.; FlightSafety International; Garmin International Inc.; General Dynamics Corporation; General Electric Co.; Groupe Zodiac Aerospace S.A.; Harris Corp.; Honeywell International, Inc.; Jamco America, Inc.; L3 Communications, Inc.; Northrop Grumman Corp.; Raytheon Co.; Recaro Aircraft Seating GmbH & Co. KG; Satcom Direct, Inc.; SITA; Thales S.A.; The Boeing Company; and Thompson Aero Seating Ltd. Several of our competitors are significantly larger than we are in terms of resources and market share and can offer a broader range of products. We believe that our systems, products and services are well positioned to compete in our served markets.
+Industry consolidation has from time to time had a major impact on the competitive environment in which we operate. Our competitors periodically undertake mergers, alliances and realignments that contribute to a dynamic competitive landscape. We have contributed to this changing landscape in the past three years by completing a significant acquisition (B/E Aerospace, Inc.), four smaller acquisitions and several strategic alliances to improve our competitive position and expand our market reach. 
+Raw Materials, Supplies and Working Capital
+We believe we have adequate sources for the supply of raw materials and components for our manufacturing and service needs with suppliers located around the world. Electronic components and other raw materials used in the manufacturing of our products are generally available from several suppliers. We continue to work with our supply base for raw materials and components to ensure an adequate source of supply, utilizing strategic alliances, dual sourcing, identification of substitute or alternate parts that meet performance requirements and life-time buys. These life-time buys involve purchases of multiple years of supply in order to meet production and service requirements over the life span of a product. Although historically we have not experienced any significant difficulties in obtaining an adequate supply of raw materials and components necessary for our manufacturing operations or service needs, the loss of a significant supplier or the inability of a supplier to meet performance and quality specifications or delivery schedules could have a material adverse effect on our business, financial condition, results of operations and cash flows.
+Our investment in inventory is a significant part of our working capital, and historically we have maintained sufficient inventory to meet our customers' requirements on a timely basis. This investment includes production stock, work-in-process, pre-production engineering costs, finished goods, spare parts and goods on consignment. Our accounts receivable also constitute a significant part of our working capital. Accounts receivable includes unbilled receivables which are primarily related to sales recorded under the percentage-of-completion method of accounting in accordance with applicable contract terms that have not been billed to customers. The critical accounting policies involving pre-production engineering costs and long-term contracts are discussed under the caption Management's Discussion and Analysis of Financial Condition and Results of Operations in Item 7 below. Additional information relating to accounts receivable and inventory is contained in Notes 2, 5 and 6 of the Notes to Consolidated Financial Statements in Item 8 below.
+Backlog
+The following table summarizes our backlog:
+
+ | September 30
+(in billions) | 2017 | | 2016
+Interior Systems | $ | 3.8 | | | $ | — 
+Commercial Systems | 2.2 | | | 2.2 | 
+Government Systems: | | | 
+Funded orders | 2.5 | | | 2.5 | 
+Unfunded orders | 0.8 | | | 0.7 | 
+Information Management Services | 0.3 | | | 0.3 | 
+Total backlog | $ | 9.6 | | | $ | 5.7
+
+ 6
+
+Our backlog represents the aggregate of the sales price of orders received from customers, but not recognized as revenue, and excludes unexercised options. Although we believe that the orders included in backlog are firm, most of our backlog orders can be modified or terminated by the customer. Our backlog at September 30, 2017 includes approximately $4.8 billion of orders that are expected to be filled after 2018.
+Joint Ventures
+Joint ventures, strategic alliances, strategic investments and other cooperative arrangements are part of our business strategies to broaden the market for our products and develop new technologies. 
+We have a 50 percent ownership interest in each of the following:
+
+• | ACCEL (Tianjin) Flight Simulation Co., Ltd, a joint venture with Haite Group, for the joint development and production of commercial flight simulators in China
+
+
+• | ADARI Aviation Technology Limited, a joint venture with Aviation Data Communication Corporation Co., LTD, operates remote ground stations around China and develops certain content delivery management software
+
+
+• | AVIC Leihua Rockwell Collins Avionics Company, a joint venture with China Leihua Electronic Technology Research Institute, a subsidiary of the Aviation Industry Corporation of China (AVIC), which provides integrated surveillance system products for the C919 aircraft in China
+
+
+• | Data Link Solutions LLC, a joint venture with BAE Systems, plc, for joint pursuit of the worldwide military data link market
+
+
+• | ESA Vision Systems LLC, a joint venture with Elbit Systems, Ltd., for joint pursuit of helmet-mounted cueing systems for the worldwide military fixed wing aircraft market
+
+
+• | Quest Flight Training Limited, a joint venture with Quadrant Group, plc, which provides aircrew training services primarily for the United Kingdom Ministry of Defence
+
+
+• | Rockwell Collins CETC Avionics Co., Ltd. a joint venture with CETC Avionics Co., Ltd. to develop and deliver products for the C919 program
+
+Acquisitions and Dispositions
+We regularly consider various business opportunities, including strategic acquisitions and alliances, licenses and marketing arrangements. We review the prospects of our existing businesses to determine whether any of them should be modified, sold or otherwise discontinued.
+We completed five acquisitions in the past three years to augment our growth plans. These acquisitions were:
+
+• | in April 2017, we acquired B/E Aerospace, which provides aircraft cabin interior products and services
+
+
+• | in December 2016, we acquired Pulse.aero, a company specializing in self-bag drop technologies used by airlines and airports
+
+
+• | in February 2016, we acquired the Matrix series projector product line from Christie Digital Systems, a global visual, audio and collaboration solutions company
+
+
+• | in August 2015, we acquired International Communications Group, Inc. (ICG), which provides satellite-based global voice and data communication products and services for the aviation industry
+
+
+• | in March 2015, we acquired Pacific Avionics Pty. Limited (Pacific Avionics), which provides technologies used for wireless information distribution
+
+ 7
+
+We completed one material divestiture in the past three years as part of our strategy to reshape our business and focus on opportunities in addressed markets for our core products and solutions. In March 2015, we divested our Aerospace Systems Engineering and Support business (ASES), which provided military aircraft integration and modifications, maintenance, logistics and support.
+Additional information relating to our acquisitions, dispositions and joint ventures is contained in Notes 3, 4 and 8 of the Notes to Consolidated Financial Statements in Item 8 below.
+Research and Development
+We have significant research, development, engineering and product design capabilities. At September 30, 2017, we employed approximately 7,700 engineers.
+Our research and development (R&D) investment is as follows:
+
+(in millions) | 2017 | | 2016 | | 2015
+Customer-funded (1) | $ | 746 | | | $ | 621 | | $ | 578
+Company-funded | 327 | | | 224 | | | 272
+Total research and development expense | 1,073 | | | 845 | | | 850
+Increase in pre-production engineering costs, net | 35 | | | 128 | | | 136
+Total research and development investment (2) | $ | 1,108 | | | $ | 973 | | $ | 986
+
+(1) Customer-funded R&D includes activities relating to the development of new products and the improvement of existing products for which we are reimbursed by our customers. Customer-funded R&D also includes amortization of pre-production engineering costs as disclosed in Note 6 of the Notes to Consolidated Financial Statements in Item 8 below. 
+(2) Total R&D investment consists of company- and customer-funded R&D expenditures as well as the net increase in pre-production engineering costs capitalized within inventory. As disclosed in Note 6 of the Notes to Consolidated Financial Statements in Item 8 below, pre-production engineering costs capitalized within inventory were $1.175 billion and $1.140 billion at September 30, 2017 and 2016, respectively. A description of the critical accounting policies involving pre-production engineering is included under the caption Management's Discussion and Analysis of Financial Condition and Results of Operations in Item 7 below. 
+Intellectual Property
+Our intellectual property rights include valuable patents, trademarks, copyrights, trade secrets, inventions and other proprietary rights. We own numerous U.S. and foreign patents and have numerous pending patent applications, including patents and patent applications purchased in our acquisitions. We also license certain patents relating to our manufacturing and other activities. While in the aggregate we consider our patents and licenses important to the operation of our business, we do not consider any individual patent or license to be of such importance that the loss or termination of any one patent or license would materially affect us.
+Rockwell Automation, Inc. (Rockwell) owns the "Rockwell" name. In connection with our spin-off from Rockwell in 2001, we were granted the exclusive right to continue to use the Rockwell Collins name for use in our business other than in connection with the Rockwell Automation business or industrial automation products. This exclusive right would terminate following certain change of control events, including the completion of the UTC Merger, as described in our distribution agreement with Rockwell.
+Employees
+As of September 30, 2017, we had approximately 29,000 employees and approximately 69 percent of them were located in the U.S. Approximately 11 percent of our employees located within the U.S. and 8 percent of our employees located outside of the U.S. are covered by collective bargaining agreements. Many of our employees located outside of the U.S. who are not covered by a collective bargaining agreement are represented by workers' councils or statutory labor unions. The collective bargaining agreements for most of our employees covered by collective bargaining agreements are set to expire in 2018.
+ 8
+
+Cyclicality and Seasonality
+The markets in which we sell our products are, to varying degrees, cyclical and have experienced periodic upswings and downturns. For example, markets for our commercial aerospace products have experienced downturns during periods of slowdowns in the commercial airline industry and during periods of weak conditions in the economy in general, as demand for new aircraft generally declines during these periods. We believe that we are currently benefiting from robust backlogs in commercial air transportation and increasing content as next generation aircraft enter into service. While we believe our Government Systems business is well positioned, it is also subject to some cyclicality, primarily as a result of U.S. Government defense budget cycles. Additional information related to the defense budget environment can be found under the caption Risk Factors in Item 1A below.
+Our business tends to be seasonal with our fourth quarter usually producing relatively higher sales and cash flow and our first quarter usually producing relatively lower sales and cash flow. A large part of this seasonality variance is attributable to our Government Systems business and relates to the U.S. Government procurement cycle.
+Regulatory Matters
+As a defense contractor, our contract costs are audited and reviewed on a continual basis by the Defense Contract Management Agency and the Defense Contract Audit Agency. Audits and investigations are conducted from time to time to determine if our performance and administration of our U.S. Government contracts are compliant with applicable contractual requirements and procurement regulations and other applicable federal statutes and regulations. Under present U.S. Government procurement regulations, if indicted or adjudged in violation of procurement or other federal civil laws, a contractor, such as us, could be subject to fines, penalties, repayments or other damages. U.S. Government regulations also provide that certain findings against a contractor may lead to suspension or debarment from eligibility for awards of new U.S. Government contracts for up to three years. In addition, we are subject to various non-U.S. governmental contracting requirements.
+The sale, installation and operation of our products in commercial aviation applications is subject to continued compliance with applicable regulatory requirements and future changes to those requirements. In the U.S., our commercial aviation products are required to comply with FAA regulations governing production and quality systems, airworthiness and installation approvals, repair procedures and continuing operational safety. Some of our products, such as radio frequency transmitters and receivers, must also comply with Federal Communications Commission (FCC) regulations governing authorization and operational approval of telecommunications equipment. Our communication services offered in the Information Management Services business are also subject to certain FCC regulations.
+Internationally, similar requirements exist for communication services, airworthiness, installation and operational approvals. These requirements are administered by the national aviation authorities of each country and, in the case of Europe, coordinated by the European Joint Aviation Authorities. Many countries also impose specific telecommunications equipment requirements, administered through their national aviation authorities or telecommunications authorities. In Europe, approval to import products also requires compliance with European Commission directives, such as those associated with electrical safety, electro-magnetic compatibility, use of metric units of measurement and restrictions on the use of lead.
+Products already in service may also become subject to mandatory changes for continued regulatory compliance as a result of any identified safety issue, which can arise from an aircraft accident, incident or service difficulty report.
+Our products and technical data are controlled for export and import under various regulatory agencies. Audits and investigations by these agencies are a regular occurrence to ensure compliance with applicable federal statutes and regulations. Violations, including as a successor to an acquired business, can result in fines and penalties assessed against the Company as well as individuals, and the most egregious acts may result in a complete loss of export privileges.
+Various anti-bribery and anti-corruption laws, as well as data privacy laws, are applicable to our business operations throughout the world. 
+Although we do not have any significant regulatory action pending against us, any such action could have a material adverse impact on our business, financial condition, results of operations and cash flows.
+ 9
+
+Environmental Matters
+Federal, state and local requirements relating to the discharge of substances into the environment, the disposal of hazardous waste and other activities affecting the environment have had and will continue to have an impact on our manufacturing operations. To date, compliance with environmental requirements and resolution of environmental claims have been accomplished without material effect on our liquidity and capital resources, competitive position or financial condition. We believe that our expenditures for environmental capital investment and remediation necessary to comply with present regulations governing environmental protection and other expenditures for the resolution of environmental claims will not have a material adverse effect on our business or financial condition. Additional information on environmental matters is contained in Note 18 of the Notes to Consolidated Financial Statements in Item 8 below.
+Geographic Information
+Our principal markets outside the U.S. are in France, Canada, China, the United Kingdom, the United Arab Emirates, Germany, Japan, Qatar, Brazil, South Korea, Taiwan, Russia, Singapore, Italy, Australia and Hong Kong. In addition to normal business risks, operations outside the U.S. are subject to other risks, including political, economic and social environments, governmental laws and regulations and currency revaluations and fluctuations.
+Selected financial information by major geographic area for each of the three years in the period ended September 30, 2017, 2016 and 2015 is contained in Note 21 of the Notes to Consolidated Financial Statements in Item 8 below.

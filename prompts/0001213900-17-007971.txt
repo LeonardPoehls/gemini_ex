@@ -1,0 +1,1015 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. BUSINESS
+Business History
+ 
+We were originally incorporated under the laws of the State of Delaware on November 3, 2010 with an initial business plan to import consumer electronics, home appliances and plastic housewares. In March 2013, we filed an amended and restated certificate of incorporation to change our name to “YAPPN Corp.” and increase our authorized capital stock to 200,000,000 shares of common stock, par value $0.0001 per share and 50,000,000 shares of preferred stock, par value $0.0001 per share. Further, in March 2013, our Board of Directors declared a stock dividend, whereby an additional 14 shares of our common stock was issued for each one share of common stock outstanding to each holder of record on March 25, 2013. All per share information in this report reflect the effect of such stock dividend. On December 22, 2014, our shareholders approved the increase of authorized and issued shares of common stock to 400,000,000 shares of common stock.
+ 
+On March 28, 2013, we purchased a prospective social media platform and related group of assets known as Yappn (“Yappn”) from Intertainment Media, Inc. (“IMI”), a corporation organized under the laws of Canada, for 7,000,000 shares of our common stock, pursuant to an asset purchase agreement (the “Purchase Agreement” and the transaction, the “Asset Purchase”) by and among IMI, us, and our newly formed wholly owned subsidiary, Yappn Acquisition Sub., Inc., a Delaware corporation (“Yappn Sub”). Mr. David Lucatch, our prior Chief Executive Officer was the Chief Executive Officer of IMI at that time. Included in the purchased assets was a services agreement (the “Services Agreement”) dated March 21, 2013 and later amended in October 2013 by and among IMI and its wholly owned subsidiaries Ortsbo Inc., a corporation organized under the laws of Canada (“Ortsbo Canada”), and Ortsbo USA, Inc., a Delaware corporation (“Ortsbo USA” and, collectively with Ortsbo Canada, “Ortsbo”). On July 6, 2015, we entered into a definitive agreement to acquire all of the intellectual property assets of Ortsbo (see below).
+ 
+On July 15, 2015 IMI and Yappn entered into a definitive agreement to acquire all of the intellectual property assets of Ortsbo and the amended services agreement was terminated.
+ 
+The purchased assets include US Patent No. 8,983,850 B2, US Patent No. 8,917,631 B2, US Patent No. 9,053,097 B2, and other intellectual property including eCommerce and Customer Care know-how for a total purchase price of approximately $17 Million, which was paid by the assumption of approximately $1 Million in debt and the obligation to issue $16 Million worth of our restricted common shares (32 Million shares at $0.50 per share).
+ 
+Intertainment Media received Toronto Stock Venture Exchange final approval on September 14, 2015 to proceed with the transaction. On September 15, 2015, the acquisition of Ortsbo Intellectual property by our company was closed.
+ 
+Our principal executive offices are located at 1001 Avenue of the Americas, 11th Floor, New York, NY 10018 and our telephone number is (888) 859-4441. Our website is http://www.yappn.com (Our website is expressly not incorporated into this filing).
+ 
+ 1
+
+ 
+
+Our Business
+ 
+Yappn delivers real-time language translation products which enable vendors and consumers to communicate freely with one another, each in their own preferred languages.
+ 
+Being able to conduct business in multiple languages is essential. According to Common Sense Advisory (an independent Massachusetts-based market research company specializing in the areas of translation, localization, interpreting, internationalization, globalization, marketing, international strategy, market intelligence, web content, and procurement), Global eCommerce sales continue to increase at a rate of 15 percent per year and more than 72 percent of consumers say they are more likely to purchase online if the experience is in their preferred language.
+ 
+Breaking down language barriers creates business opportunities and promotes efficiency and effectiveness within organizations. While internet challenges have largely been solved, resolving language barriers remains a costly issue for every company wishing to access global markets.
+ 
+Through its proprietary innovative language solutions, we believe Yappn has altered the translation paradigm by offering a completely customizable set of tools to engage consumers in up to 67 languages. Yappn’s technology gives people, brands and organizations the power to be social, conduct commerce, and communicate freely without a language barrier.
+ 
+Generic machine translation, which can be found from providers like Google TranslateTM or Microsoft BingTM, employ a “word-for-word” approach. Unfortunately, the translated result does not always reflect the essence of the original text and may not make sense. Context (cultural, political and ethnic), syntax and meaning are typically not captured through generic machine translation methods.
+ 
+Yappn provides far more than simple word-for-word translation. Yappn can translate the words as well as the context and syntax, thereby ensuring that what is written in one language is translated into another in an accurate, meaningful, and relevant way. This capability is Yappn’s key differentiator.
+ 
+Yappn has the ability to detect the online or mobile user’s preferred language and can translate the communication into the user’s language in real-time. Yappn provides very “high fidelity” and accurate translation, without the necessity of direct human translation or intervention, with an added option to customize translation settings, making the results simple, elegant, and cost effective.
+ 
+Yappn offers products for eCommerce, customer care, enhanced messaging collaboration (such as intranets, gaming or social platforms), online marketing, and custom translation solutions to a variety of verticals including entertainment, retail, and marketing.
+ 
+Continued expansion of our business rollout will require additional debt or equity financing and there can be no assurance that additional financing can be obtained on acceptable terms. We are in the early stage of commercialization and management believes that we have insufficient revenues to cover our operating costs. As such, we have incurred an operating loss since inception. This and other factors raise substantial doubt about our ability to continue as a going concern. Our continuation as a going concern is dependent on our ability to meet our obligations, to obtain additional financing as may be required and ultimately to attain profitability. Our independent auditors have included an explanatory paragraph in their audit report on our financial statements for the fiscal year ended May 31, 2017 regarding concerns about our ability to continue as a going concern. Footnote 2 to the Notes to this Form 10-K Report also discusses concerns about our ability to continue as a going concern. Our financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+ 
+Our Strategy
+ 
+Our management believes that Yappn approaches the challenge of real-time language translation in a unique way. The result is enhanced translations based on the context of the content or discussion, thereby significantly improving the translation result.
+ 
+To accomplish this, Yappn leverages the power of multiple generic machine translation (MT) providers, recognizing that many of these commodity services specialize and produce substantially better results in some languages over others. This aggregated generic machine translation is then passed through Yappn’s proprietary algorithms and enhancement processes which, in turn, provide the optimal translation for the language requested. Yappn then applies yet another overlay of refinement through ‘lexicons’. Lexicons are essentially custom dictionaries designed to improve the translation by contextualizing the result and making it relevant to the specific commercial requirement. Lexicons can be industry or brand specific or both.
+ 
+An illustrative example of how Yappn’s lexicons work is reflected in its ability to distinguish between a car transmission versus a radio transmission. Similarly, the system understands that the word “travel” means something different in basketball than it does when planning a trip. Companies use various words in unique ways and Yappn’s lexicons continuously evolve, improve and store these subtle nuances, and then apply them to the final output to provide an enhanced and more optimal translation.
+ 
+ 2
+
+ 
+
+Yappn is not a generic machine translation provider but an enhancement to create better, customized results. Additionally, Yappn is not a Language Service Provider (LSP) simply returning a document in another language; instead Yappn provides tools and solutions to better utilize translation in the course of business.
+ 
+Yappn’s tools and solutions are built with industry leading technology and hosted on the Microsoft Azure® cloud-based platform which provides Yappn with global reach, dependable presence and dynamic scalability.
+ 
+To be certain that translation is highly accurate, Yappn’s services team initially works with the customer to develop an appropriate database of lexicon additions which can be further improved after deployment using Yappn’s professional services or custom tools. The lexicon can be enhanced on an on-going basis by the customer’s staff as-needed when additions and revisions are required or by Yappn via our services team.
+ 
+Yappn can enable an auto update feature that can be used on demand or as a persistent connection that senses updates to the translation source then has each addition either automatically changed or optionally human verified for fidelity, followed by an update to the customer’s lexicon. For example, when a product description is updated; the machine translation will instantly display the change in the store.
+ 
+The Yappn application suite is designed to provide a competitive advantage to commercial enterprises and power social users to communicate more effectively without a language barrier, fostering and driving a competitive edge in a global marketplace.
+ 
+Offering an “a la carte” menu of tools to engage consumers, Yappn helps clients improve their customer’s experiences and therefore increase customer satisfaction. 
+ 
+eCommerce Platform Integration: Dynamic translation encompassing the entire eCommerce experience, from online marketing to sales and customer care
+ 
+
+● | eCommerce website 
+--+-------------------------
+● | Vendor input manager 
+● | Chat 
+● | Multilingual search 
+
+Customer Care: Real-time translation of chat-based customer care
+ 
+
+● | Customer care integration 
+--+------------------------------
+
+Enhanced Messaging: Real-time translation support for messaging platforms
+ 
+
+● | Intranet 
+--+---------------------------
+● | Social sharing & messaging
+● | Business messaging 
+● | Gaming messaging 
+
+Marketing: Online marketing, engagement and socialization
+ 
+
+● | Social Wall 
+--+-------------------------------------------------------
+● | Global tweets 
+● | Twitter chats 
+● | Multilingual live captioning & flash social events 
+
+Custom Translation Solutions: Solutions for unique translation requirements
+ 
+
+● | Dynamic website translations 
+--+---------------------------------
+● | Software localization 
+● | Video closed captioning 
+● | Virtual trade shows 
+
+ 
+ 3
+
+ 
+
+eCommerce Platform Integration
+ 
+Our technology is, we believe, a game changing solution, providing a set of stand-alone commercial tools for brands to easily implement cost effective globalization solutions that support the entire sales cycle, inclusive of the eCommerce website, shopping cart checkout, marketing, sales and support. Management contends that no longer is a company constrained to whom they can sell to because of language.
+ 
+The Yappn eCommerce experience is more than a simple translation of a store. eCommerce applications exist today to translate a copy of a store to another language. However, creating a separate instance of a store in another language is problematic as it can cause several business issues that are difficult to rectify; for example, inventory reconciliation and amalgamated sales reporting would be left to the vendor to handle manually. The Yappn solution of enabling a single store that is presented in the customer’s language of choice is a better business solution as we believe it will negate these issues.
+ 
+We have made the integration of these services into a store quite simple. We use standardized web technologies to connect a secondary database of the translations of the text, metadata and keywords on the site. The benefit of the database connection is the ability to call accompanying data such as imagery, (e.g. replacing an English ad with a Spanish ad) and the ability to manage translation without coding expertise. This integration also allows Yappn to access the text components of a secure third party checkout screen, thereby reducing cart abandonment, which we contend is unique to our services.
+ 
+Security and privacy is maintained via a variety of solutions such as SSL encryption and the exception of customer/user identification and private information from machine translation services.
+ 
+Customer Care Platform Integration 
+ 
+Yappn Customer Care allows customers to chat in their language of choice so our clients don’t have to provide multilingual staff for the purposes of customer care.
+ 
+Chat continues to become the preferred means for companies to communicate with their customers. Chat is replacing voice and e-mail, providing a window of opportunity for companies to better serve their customers and to do so more cost effectively.
+ 
+Using the Yappn system’s multilingual translation API in conjunction with the client’s existing chat portal, a Customer Service Representative (CSR) can converse with customers in the customer’s language of choice with Yappn’s technology bridging the language gap between the two individuals.
+ 
+This allows the CSR to think and type in their native language thereby providing better and more accurate service while reducing customer care costs. Employing multilingual CSR staff is expensive and unnecessary with the use of Yappn’s customer care solution.
+ 
+Enhanced Messaging Platform Integration
+ 
+Our proprietary and easily integrated Enhanced Messaging Solution allows for real time communication between languages in a myriad of platforms for social, business and gaming messaging. The translation is contextualized to provide superior translation results.
+ 
+Much of the communication that transpires on messaging platforms is conducted in a single language. This is not always by choice but instead, is driven by the limitations of the platforms themselves.
+ 
+Companies that communicate internally but have staff, partners and customers with different languages can communicate more effectively, we believe, when the barrier of language is removed.
+ 
+Our management contends that our technology can securely integrate into existing chat platforms through a simple API connection to our Microsoft Azure® cloud platform, reducing existing workflow disruptions which would require changes to a client work environment.
+ 
+ 4
+
+ 
+
+Marketing Platform Integration 
+ 
+We have created several tools to support online marketing customized for a global audience.
+ 
+Social Wall: a fully branded and customized page, which includes the aggregation of a company’s major social media accounts and #hashtags automatically displayed in any of the up to 67 languages. This allows followers to interact with all their social media accounts, in their language and on the company’s website, giving the company back control of its marketing initiatives. Essentially, a company can present a variety of social media sources on a single page in the language of a customer’s choice, regardless of the original language the social media content was written in.
+ 
+Multilingual Chat: provides companies, brands, organizations and consumers with the ability to have topical discussions in almost any language. Each user sees the chat experience in their preferred language and communicates to others in that language, allowing every user to have a native experience in their individual language. The chat can be embedded to facilitate commenting on blogs, special event discussions with brand ambassadors or as a standalone program, providing a place to discuss the company’s brand.
+ 
+Live and Global Events: a tool to promote a company’s brand which embeds our interface directly onto the company’s website where the company can direct their consumers to attend a live Q&A while promoting the company’s brand on social media. The technology allows the company to filter and reply to questions posted on Twitter™ and display them in an easy to read format on the company’s website, creating a captive audience to market to. Yappn’s easy-to-use backend even allows the company to reply to the attendees in their native language while automatically displaying the entire event in a user’s individual language.
+ 
+Video Captioning: If video promotion is an element of a company’s marketing strategy, allowing a global audience to watch and understand these videos is a natural complement to the presentation. Yappn’s translation system provides simple and accurate video sub-titling in up to 67 languages, on a live or pre-recorded video, without disruption to the company’s current broadcast process.
+ 
+Custom Translation Solutions 
+ 
+Our company, we believe, is a consistent agile developer of tools and solutions to address the three important elements of conducting business: online marketing, sales and customer care. We are, however, keenly aware that technologies and trends are evolving almost as fast as we are. For this reason, Yappn publishes its technology via a secured API to enable today’s entrepreneurs to enhance their innovations with language capabilities. This secure credential-enabled connection is available in a SaaS or by way of pay per use models and can be tested in sandbox environments. Each installation comes with full support from our development teams.
+Competition 
+ 
+Our business relating to and arising from the development of our assets is characterized by innovation, rapid change, patented, proprietary and disruptive technologies. We may face significant competition, including from companies that provide translation and tools to facilitate the sharing of information that enable marketers to display advertising and that provide users with multilingual real-time translation of eCommerce, events and proprietary social media and chat platforms. These may include:
+
+● | Companies that offer full-featured products that provide a similar range of communications and related capabilities that we provide. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Companies that provide web and mobile-based information and entertainment products and services that are designed to engage users. 
+● | Companies that offer eCommerce solutions with built in language support. 
+● | Traditional and online businesses that offer corporate sponsorship opportunities and provide media for marketers to reach their audiences and/or develop tools and systems for managing and optimizing advertising campaigns. 
+
+ 
+Competitors, in some cases, may have access to significantly more resources than Yappn.
+ 
+We anticipate that we will compete to attract, engage and retain clients and users, to attract and retain marketers, to attract and retain corporate sponsorship opportunities, and to attract and retain highly talented individuals, especially software engineers, designers and product managers. As we introduce new features to the Yappn platform, as the platform evolves or as other companies introduce new platforms and new features to their existing platforms, we may become subject to additional competition. We believe that our ability to quickly adapt to a changing marketplace and our experienced management team will enable us to compete effectively in the market.
+ 
+ 5
+
+ 
+
+Intellectual Property 
+ 
+We own (i) the yappn.com domain name (which website is expressly not incorporated into this filing) and (ii) the Yappn name and all trademarks, service marks, trade dress and copyrights associated with the Yappn name, logo and graphic art. We may prepare several patent filings in the future. Upon payment of the applicable fees pursuant to the Services Agreement described above, we became the exclusive owner of copyright in the literary works or other works of authorship delivered by Ortsbo to us as part of the Services provided under the Services Agreement (the “Deliverables”). All such rights shall not be subject to rescission upon termination of the Services Agreement. Also, as set forth in the Services Agreement, we shall grant to Ortsbo (i) a non-exclusive (subject to certain limitations) license to use the Deliverables for the sole purpose of developing its technology, (ii) a non-exclusive license to use, solely in connection with the provision of the Services, any intellectual property owned or developed by us or on our behalf and necessary to enable Ortsbo to provide the Services, and (iii) a license to use intellectual property obtained by us from third parties and necessary to enable Ortsbo to provide the Services. All such licenses shall expire upon termination of the Services Agreement.
+ 
+On April 28, 2014, we purchased a copy of the source code for the Ortsbo property and all the rights associated with it.
+ 
+On July 16, 2015, we entered into a definitive agreement to acquire all of the intellectual property assets of Ortsbo which closed on September 15, 2015. The purchased assets include US No. 8,983,850 B2, US Patent No. 8,917,631 B2, US Patent No. 9,053,097 B2, and other intellectual property including eCommerce and Customer Care know-how (Proprietary lexicons and linguistic databases that integrate into our language services platform). Upon completion of the transaction on September 15, 2015 the amended Services Agreement was terminated. 
+ 
+We continue to engage in activities to maintain and further build differentiated technologies that increase our intellectual properties.
+ 
+Government Regulation 
+ 
+We are subject to a number of U.S. federal and state, and foreign laws and regulations that affect companies conducting business on the Internet, many of which are still evolving and being tested in courts, and could be interpreted in ways that could harm our business. These may involve user privacy, rights of publicity, data protection, content, intellectual property, distribution, electronic contracts and other communications, competition, protection of minors, consumer protection, taxation and online payment services. In particular, we are subject to federal, state, and foreign laws regarding privacy and protection of user data. Foreign data protection, privacy, and other laws and regulations are often more restrictive than those in the United States. U.S. federal and state and foreign laws and regulations are constantly evolving and can be subject to significant change. In addition, the application and interpretation of these laws and regulations are often uncertain, particularly in the new and rapidly-evolving industry in which we operate. There are also a number of legislative proposals pending before the U.S. Congress, various state legislative bodies, and foreign governments concerning data protection which could affect us. For example, a revision to the 1995 European Union Data Protection Directive is currently being considered by legislative bodies that may include more stringent operational requirements for data processors and significant penalties for non-compliance. We are also monitoring the consequences on our industry as a result of the new administration commencing January 20, 2017 including the legislation on the open Internet and the March 2017 repeal of broadband privacy rules.
+Legal Proceedings 
+ 
+None.
+ 
+Registration Statement 
+ 
+On October 3, 2016, the Company filed a Registration Statement on Form S-1 (File No.333-213947) (the “Registration Statement”) with the Securities and Exchange Commission for up to 14,840,964 shares of our Company’s $0.0001 par value per share common stock (the "Common Stock") issuable to certain selling stockholders that are issued and outstanding upon conversion of promissory notes, related past due accrued interest and penalties and/or common stock purchase warrants currently held by those selling stockholders, specifically (i) 8,227,821 shares of Common Stock issued and outstanding (ii) 907,200 shares of Common Stock issuable to them upon exercise of promissory notes (iii) 273,272 shares of Common Stock issuable underlying past due accrued interest and penalties and (iv) 5,432,671 shares of Common Stock issuable to them upon exercise of common stock purchase warrants. The common stock purchase warrants have an exercise price varying from $0.25 to $2.20 per share (subject to adjustment). The Registration Statement covering the above noted shares was declared effective under the Securities Act of 1933 on January 24, 2017.
+ 
+ 6
+
+ 
+
+
+ | | Page
+------------+------------------------------------------------------------------------------------------------------------+-----
+ | PART I | 
+Item 1. | Consolidated Financial Statements | 
+ | Report of Independent Registered Public Accounting Firm | F-2 
+ | Consolidated Balance Sheets as of May 31, 2017 and 2016 | F-3 
+ | Consolidated Statements of Operations and Comprehensive Loss for the years ended May 31, 2017 and 2016 | F-4 
+ | Consolidated Statements of Stockholders’ Deficit for the years ended May 31, 2017 and 2016 | F-5 
+ | Consolidated Statements of Cash Flows for the years ended May 31, 2017 and 2016 | F-6 
+ | Notes to the Consolidated Financial Statements | F-7 
+
+
+F-1
+---
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ 
+To the Board of Directors and Stockholders of Yappn Corp.,
+ 
+We have audited the accompanying consolidated balance sheets of Yappn Corp. (the "Company") as of May 31, 2017 and 2016, and the related consolidated statements of operations and comprehensive loss, stockholders' deficit, and cash flows for the years then ended. Yappn Corp.’s management is responsible for these consolidated financial statements. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.
+ 
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of Yappn Corp.’s internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion.
+ 
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Yappn Corp. as of May 31, 2017 and 2016, and the results of its operations and its cash flows for the years then ended in conformity with accounting principles generally accepted in the United States of America.
+ 
+The accompanying consolidated financial statements have been prepared assuming the Company will continue as a going concern. As discussed in Note 2 to the consolidated financial statements, the Company's experience of negative cash flows from operations and its dependency upon future financing raise substantial doubt about its ability to continue as a going concern. Management’s plans regarding these matters are also described in Note 2. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+
+
+Chartered Professional Accountants Licensed Public Accountants 
+
+
+Mississauga, Ontario July 27, 2017 
+-----------------------------------
+
+
+F-2
+---
+
+YAPPN CORP.
+ CONSOLIDATED BALANCE SHEETS
+ 
+
+ | Note | As of May 31, 2017 | | | As of May 31, 2016 | 
+--------------------------------------------------------------------------------------------------------------------------------------+------+--------------------+-------------+---+--------------------+--
+Assets | | | | | | 
+Current assets: | | | | | | 
+Cash | | $ | 441,168 | | | $ | 448,575 | 
+Accounts receivable | 3 | | 8,078 | | | | 29,244 | 
+Note receivable | 3 | | - | | | | 1,123,289 | 
+Prepaid expenses | | | 61,528 | | | | 113,262 | 
+Total current assets | | | 510,774 | | | | 1,714,370 | 
+Equipment, net | | | 8,978 | | | | 14,632 | 
+Intangible assets | 4 | | 3,609,055 | | | | 4,676,221 | 
+Total Assets | | $ | 4,128,807 | | | $ | 6,405,223 | 
+Liabilities and Stockholders' Deficit | | | | | | | | 
+Current liabilities: | | | | | | | | 
+Accounts payable | | $ | 379,796 | | | $ | 533,030 | 
+Accrued expenses | | | 173,453 | | | | 430,754 | 
+Short term accrued interest | | | 168,700 | | | | 409,280 | 
+Accrued development and related expenses - related party | 12 | | - | | | | 16,654 | 
+Short term loans | 5 | | 88,011 | | | | 284,451 | 
+Convertible promissory notes and debentures | 7 | | 355,000 | | | | 2,454,824 | 
+Total current liabilities | | | 1,164,960 | | | | 4,128,993 | 
+Other liabilities: | | | | | | | | 
+Long term accrued interest | 6,8 | | 1,469,776 | | | | 577,231 | 
+Long term loans | 8 | | 2,226,348 | | | | - | 
+Long term secured debentures | 6 | | 4,550,388 | | | | 4,550,388 | 
+Convertible secured debentures | 8 | | 615,585 | | | | 375,279 | 
+Total Liabilities | | | 10,027,057 | | | | 9,631,891 | 
+Stockholders' Deficit | | | | | | | | 
+Preferred stock, par value $.0001 per share, 50,000,000 shares authorized: | | | | | | | | 
+Series 'A' Convertible, 10,000,000 shares authorized; nil shares issued and outstanding | 10 | | - | | | | - | 
+Common stock, par value $.0001 per share, 400,000,000 shares authorized 49,277,248 issued and outstanding (May 31, 2016 – 30,081,163) | 9 | | 17,019 | | | | 15,100 | 
+Common stock, par value $.0001 per share, 1,300,818 shares subscribed not issued (May 31, 2016 – 20,308,890) | 9 | | 180,793 | | | | 3,068,945 | 
+Additional paid-in capital | | | 21,864,694 | | | | 15,353,712 | 
+Deficit | | | (27,960,756 | ) | | | (21,664,425 | )
+Total Stockholders' Deficit | | | (5,898,250 | ) | | | (3,226,668 | )
+Total Liabilities And Stockholders' Deficit | | $ | 4,128,807 | | | $ | 6,405,223 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+F-3
+---
+
+YAPPN CORP.
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+ 
+
+ | | For the year ended May 31 | 
+---------------------------------------------------------------------------------------------+------+---------------------------+-----------
+ | Note | 2017 | | | 2016 | 
+Revenues | | $ | 356,409 | | | $ | 981,960 | 
+Cost of revenue | | | 144,480 | | | | 173,254 | 
+Gross profit | | | 211,929 | | | | 808,706 | 
+Operating expenses: | | | | | | | | 
+Marketing | | | 17,829 | | | | 236,083 | 
+Research and development expenses | 12 | | 650,287 | | | | 407,547 | 
+General and administrative expenses | 12 | | 1,501,355 | | | | 1,637,039 | 
+Professional fees | | | 176,573 | | | | 477,883 | 
+Consulting | | | 232,370 | | | | 1,392,165 | 
+Depreciation | | | 7,863 | | | | 409 | 
+Amortization | 4 | | 1,063,074 | | | | 747,830 | 
+Stock-based compensation | 11 | | 1,355,318 | | | | 1,164,887 | 
+Total operating expenses | | | 5,004,669 | | | | 6,063,843 | 
+Loss from operations | | | (4,792,740 | ) | | | (5,255,137 | )
+Other expense (income): | | | | | | | | 
+Interest expense | | | 1,078,536 | | | | 894,467 | 
+Financing expense on issuance of convertible promissory notes and common stock | | | - | | | | 632,250 | 
+Change in fair value of convertible debentures and notes | | | 527,829 | | | | (209,995 | )
+Prepayment fees on variable conversion rate notes | | | - | | | | 306,140 | 
+Miscellaneous expense | | | 48,026 | | | | 23,574 | 
+Gain on debt settlement | 3 | | (1,119,089 | ) | | | - | 
+Impairment on note receivable | 3 | | 968,289 | | | | - | 
+Total other expense | | | 1,503,591 | | | | 1,646,436 | 
+Net loss before income taxes | | | (6,296,331 | ) | | | (6,901,573 | )
+Provision for income taxes | 13 | | - | | | | - | 
+Net loss and comprehensive loss for the year | | $ | (6,296,331 | ) | | $ | (6,901,573 | )
+Net loss per weighted-average shares of common stock – basic and diluted | | $ | (0.16 | ) | | $ | (0.32 | )
+Weighted-average number of shares of common stock issued and outstanding – basic and diluted | | | 38,724,476 | | | | 21,299,698 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+F-4
+---
+
+YAPPN CORP.
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' DEFICIT
+ For the years ended May 31, 2017 and 2016
+ 
+
+ | Common | | Additional | | | | 
+-----------------------------------------------------------------+--------------------+------------+------------+--------+-------------------+--------------------+--
+ | Shares Outstanding | | Amount | | Subscribed Shares | Subscribed Amounts | | Paid-in Capital | | | Accumulated Deficit | | Total
+Balance – May 31, 2015 | | 13,422,814 | | 13,423 | | 99,344 | | | 124,567 | | | 7,981,579 | | (14,762,852 | ) | (6,643,283 | )
+Stock-based compensation | | - | | - | | - | | | - | | | 1,164,887 | | - | | 1,164,887 | 
+Stock issued on exercise of warrants | | 11,667 | | 12 | | - | | | - | | | (12 | ) | - | | - | 
+Issuance of common stock for purchase technology | | 12,998,682 | | 1,300 | | - | | | - | | | 1,805,308 | | - | | 1,806,608 | 
+Stock to be issued for purchase of technology | | - | | - | | 18,988,318 | | | 2,639,071 | | | - | | - | | 2,639,071 | 
+Issuance of warrants classified as equity | | - | | - | | - | | | - | | | 1,279,846 | | - | | 1,279,846 | 
+Warrants associated with a secured convertible debenture | | - | | - | | - | | | - | | | 1,700,052 | | - | | 1,700,052 | 
+Common stock associated with common stock and warrants financing | | 3,648,000 | | 365 | | - | | | - | | | 568,561 | | - | | 568,926 | 
+Warrants associated with common stock and warrant financing | | - | | - | | - | | | - | | | 343,074 | | - | | 343,074 | 
+Stock to be issued on conversion of debt | | - | | - | | 1,221,228 | | | 305,307 | | | - | | - | | 305,307 | 
+Beneficial conversion feature | | - | | - | | - | | | - | | | 510,417 | | - | | 510,417 | 
+Net loss for the year ended May 31, 2016 | | - | | - | | - | | | - | | | - | | (6,901,573 | ) | (6,901,573 | )
+Balance – May 31, 2016 | | 30,081,163 | | 15,100 | | 20,308,890 | | | 3,068,945 | | | 15,353,712 | | (21,664,425 | ) | (3,226,668 | )
+Stock-based compensation | | - | | - | | - | | | - | | | 1,305,318 | | - | | 1,305,318 | 
+Issuance of warrants classified as equity | | - | | - | | - | | | - | | | 89,287 | | - | | 89,287 | 
+Common stock associated with common stock and warrants financing | | 1,780,000 | | 178 | | - | | | - | | | 253,456 | | - | | 253,634 | 
+Warrants associated with common stock and warrants financing | | - | | - | | - | | | - | | | 191,366 | | - | | 191,366 | 
+Stock issued on conversion of debt | | 8,227,822 | | 823 | | - | | | - | | | 2,064,007 | | - | | 2,064,830 | 
+Stock to be issued for debenture conversion | | - | | - | | (1,221,228 | ) | | (305,307 | ) | | - | | - | | (305,307 | )
+Stock to be issued under prior obligation | | 113,329 | | 11 | | (99,344 | ) | | (124,567 | ) | | 120,177 | | - | | (4,379 | )
+Stock issued to settle prior obligation | | 120,000 | | 12 | | - | | | - | | | 29,988 | | - | | 30,000 | 
+Previous stock obligations now issuable in warrants | | - | | - | | (1,579,162 | ) | | (219,478 | ) | | 219,478 | | - | | - | 
+Previous stock obligations settled through issuance of warrants | | - | | - | | (16,108,338 | ) | | (2,238,800 | ) | | 2,238,800 | | - | | - | 
+Stock issued on exercise of warrants | | 8,954,934 | | 895 | | - | | | - | | | (895) | | - | | - | 
+Net loss for the year ended May 31, 2017 | | - | | - | | - | | | - | | | - | | (6,296,331 | ) | (6,296,331 | )
+Balance – May 31, 2017 | | 49,277,248 | | 17,019 | | 1,300,818 | | | 180,793 | | | 21,864,694 | | (27,960,756 | ) | (5,898,250 | )
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+F-5
+---
+
+  YAPPN CORP.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+
+ | For the year ended May 31, 2017 | | | For the year ended May 31, 2016 | 
+--------------------------------------------------------------------------------+---------------------------------+------------+---+----------------------------------+--
+Cash Flows From Operating Activities: | | | | | 
+Net loss and comprehensive loss | $ | (6,296,331 | ) | | $ | (6,901,573 | )
+Adjustments to reconcile net loss to cash used in operating activities: | | | | | | | 
+Depreciation | | 7,863 | | | | 409 | 
+Amortization | | 1,063,074 | | | | 747,830 | 
+Stock-based compensation | | 1,355,318 | | | | 1,164,887 | 
+Change in fair value of convertible debentures and notes | | 527,829 | | | | (209,995 | )
+Financing expense on issuance of convertible promissory notes, and common stock | | - | | | | 632,250 | 
+Debenture issuance for consulting services | | - | | | | 200,000 | 
+Warrants issued for consulting services | | - | | | | 721,200 | 
+Impairment of note receivable | | 968,289 | | | | - | 
+Gain on debt settlement | | (1,119,089 | ) | | | - | 
+Unrealized foreign exchange and miscellaneous write-offs | | 49,290 | | | | 63,847 | 
+Changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable | | 21,166 | | | | 1,414,765 | 
+Note receivable | | - | | | | (1,123,289 | )
+Prepaid expenses | | 51,734 | | | | (107,194 | )
+Accounts payable and accrued expenses | | 772,836 | | | | 1,066,719 | 
+Accrued development and related expense - related party | | (16,654 | ) | | | (452,112 | )
+Deferred revenue | | - | | | | (12,500 | )
+Net Cash Used In Operating Activities | | (2,614,675 | ) | | | (2,794,756 | )
+Cash Flows From/(Used in) Investing Activities: | | | | | | | 
+Expenditure on patents | | (34,097 | ) | | | (21,506 | )
+Capital expenditures | | (2,211 | ) | | | (13,785 | )
+Proceeds from note receivable | | 155,000 | | | | - | 
+Net Cash From/(Used in) Investing Activities | | 118,692 | | | | (35,291 | )
+Cash Flows From Financing Activities: | | | | | | | 
+Proceeds from convertible promissory notes and debentures | | - | | | | 90,750 | 
+Repayment of convertible promissory notes and debentures | | - | | | | (883,564 | )
+Proceeds from line of credit, net | | - | | | | (1,092,025 | )
+Proceeds from secured debentures | | - | | | | 2,096,652 | 
+Proceeds from secured convertible debentures | | - | | | | 2,210,468 | 
+Repayments of short term loans | | (32,772 | ) | | | (175,155 | )
+Proceeds from short term loans | | - | | | | 100,000 | 
+Proceeds from long term loans | | 2,226,348 | | | | - | 
+Proceeds from common stock private placement | | 295,000 | | | | 912,000 | 
+Net Cash Provided by Financing Activities | | 2,488,576 | | | | 3,259,126 | 
+Net (decrease)/increase in cash | | (7,407 | ) | | | 429,079 | 
+Cash, beginning of year | | 448,575 | | | | 19,496 | 
+Cash, end of year | $ | 441,168 | | | $ | 448,575 | 
+Supplemental Disclosure of Cash Flow Information | | | | | | | 
+Non Cash Investing and Financing Activities Information: | | | | | | | 
+Common stock issued on exercise of warrants | $ | 1,337,392 | | | $ | 37,100 | 
+Conversion of short term loan | $ | 100,000 | | | $ | - | 
+Conversion of short term loan and line of credit into secured debentures | $ | - | | | $ | 589,773 | 
+Common stock issued for acquisition of technology | $ | - | | | $ | 1,806,608 | 
+Common stock to be issued for acquisition of technology | $ | - | | | $ | 2,639,071 | 
+Common stock issued for fiscal 2016 private placement | $ | - | | | $ | 568,561 | 
+Common stock issued for fiscal 2017 private placement | $ | 253,456 | | | $ | - | 
+Common stock to be issued for conversion of debt | $ | - | | | $ | 305,307 | 
+Common stock issued for conversion of debt | $ | 2,064,007 | | | $ | - | 
+Common stock issued for prior S1 obligation | $ | 124,567 | | | $ | - | 
+Private placement of units in settlement of payables | $ | 50,000 | | | $ | - | 
+Cash paid during the year for interest | $ | 15,000 | | | $ | 77,941 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+F-6
+---
+
+YAPPN CORP.
+ Notes to Consolidated Financial Statements
+ May 31, 2017
+ 
+All references to “dollars”, “$” or “US$” are to United States dollars and all references to “Canadian” are to Canadian dollars. United States dollar equivalents of Canadian dollar figures are based on the exchange rate as reported by the Bank of Canada on the applicable date.
+1. Summary of Significant Accounting Policies
+ 
+Basis of Presentation and Organization
+ 
+Yappn Corp., formerly “Plesk Corp.”, (the “Company”) was incorporated under the laws of the State of Delaware on November 3, 2010. The business plan of the Company is to provide effective unique and proprietary tools and services that create dynamic solutions that enhance language translation quality. The Company has offices in the United States and Canada. In March 2013, the Company acquired a concept and technology license from Intertainment Media Inc., a Canadian company. On September 15, 2015, the Company closed the acquisition of Ortsbo Inc.’s (a subsidiary of Intertainment Media Inc.) intellectual property to allow the Company full ownership of the acquired technology as opposed to having a license to use this technology. The accompanying consolidated financial statements of the Company were prepared from the accounts of the Company under the accrual basis of accounting.
+Principles of Consolidation
+ 
+The consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries, Yappn Acquisition Corp. and Yappn Canada, Inc. All inter-company balances and transactions have been eliminated on consolidation.
+Cash and Cash Equivalents
+ 
+For purposes of reporting within the consolidated statement of cash flows, the Company considers all cash on hand, cash accounts not subject to withdrawal restrictions or penalties, and all highly liquid debt instruments purchased with a maturity of three months or less to be cash and cash equivalents.
+Intangible Assets
+ 
+Intangible assets consist of acquired technology, and patents, acquired from a related party and were accordingly recorded at the cost as recorded in the records of the related party at the time of acquisition (Note 4). The Company amortizes acquired technology over its estimated useful life, considered to be 5 years, on a straight-line basis. Patents are amortized commencing at the receipt of approval from the applicable jurisdiction as an issued patent or from the date of acquisition of issued patents. Should the patent process be unsuccessful, the entire amount relating to the pending patent is expensed in the period this is determined. The Company continually evaluates the remaining estimated useful life of its intangible assets to determine whether events and circumstances warrant a revision to the remaining period of amortization.
+Intangible Asset Impairment
+ 
+The Company reviews its long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amounts of the assets may not be recoverable through undiscounted future cash flows. If impairment exists based on expected future undiscounted cash flows, a loss is recognized in income. The amount of the impairment loss is the excess of the carrying amount of the impaired asset over the fair value of the asset, typically based on discounted future cash flows. The Company has assessed its long-lived assets and has determined that there was no impairment in their carrying amounts at May 31, 2017.
+
+F-7
+---
+
+Revenue Recognition
+ 
+The Company recognizes revenues when completion of services has occurred provided there is persuasive evidence of an agreement, acceptance has been approved by its customers, the fee is fixed or determinable based on the completion of stated terms and conditions and collection of any related receivable is reasonably assured. All of the Company’s current revenues are classified as services. Services are billed on a time and materials basis and are recognized as revenue as services are rendered at the time of billing which is typically a bi-weekly or monthly basis. 
+Cost of Revenue 
+ 
+The cost of revenue consists primarily of expenses associated with the delivery and distribution of services. These include expenses related to the operation of data centers, salaries, benefits and customer project based costs for certain personnel in the Company’s operations.
+Marketing, Advertising and Promotion Costs
+ 
+Advertising and marketing costs are expensed as incurred and totaled $17,829 and $236,083 for the years ended May 31, 2017 and May 31, 2016.
+ 
+Loss per Common Share
+ 
+Basic loss per common share is computed by dividing the net loss attributable to the common stockholders by the weighted average number of shares of common stock outstanding during the period. Fully diluted loss per share is computed similar to basic loss per share except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potential common shares had been issued and if the additional common shares were dilutive. As of May 31, 2017, the Company had outstanding warrants to purchase an additional 47,846,633 shares of common stock (Note 10) at a per share exercise price ranging from $0.01 to $2.20, 13,205,000 stock options (Note 11) with an exercise price of $0.25 to $1.00, and convertible notes and debentures that are convertible into 9,146,872 shares of common stock at the option of the holder based on the value of the debt host at the time of conversion with exercise prices ranging from $0.25 to $1.50. All of these issuances have a dilutive effect on earnings per share when the exercise price is lower than Yappn’s quoted market price and when the Company has net income for the period.
+Income Taxes
+ 
+Deferred tax assets and liabilities are determined based on the differences between the financial reporting and tax bases of assets and liabilities using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. A valuation allowance is established when necessary to reduce deferred tax assets to the amounts expected to be realized.
+ 
+The Company accounts for income taxes under the provisions of ASC 740, “Accounting for Income Tax”. It prescribes a recognition threshold and measurement attributes for the consolidated financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. As a result, the Company has applied a more-likely-than-not recognition threshold for all tax uncertainties. The guidance only allows the recognition of those tax benefits that have a greater than 50% likelihood of being sustained upon examination by the various taxing authorities. The Company is subject to taxation in the United States and Canada. All of the Company’s tax years since inception remain subject to examination by Federal, Provincial, and State jurisdictions.
+ 
+The Company classifies penalties and interest related to unrecognized tax benefits as income tax expense in the consolidated statements of operations and comprehensive loss. There have been no penalties or interest related to unrecognized tax benefits reflected in the consolidated statements of operations and comprehensive loss for the years ended May 31, 2017 and May 31, 2016.
+ 
+Fair Value of Financial Instruments
+ 
+The Company estimates the fair value of financial instruments using the available market information and valuation methods. Considerable judgment is required in estimating fair value. Accordingly, the estimates of fair value may not be indicative of the amounts the Company could realize in a current market exchange.
+
+F-8
+---
+
+ 
+
+The Company follows FASB (“Paragraph 820-10-35-37”) to measure the fair value of its financial instruments. US GAAP establishes a fair value hierarchy which prioritizes the inputs to valuation techniques used to measure fair value into three (3) broad levels. The fair value hierarchy gives the highest priority to quoted prices (unadjusted) in active markets for identical assets or liabilities and the lowest priority to unobservable inputs. The three (3) levels of fair value hierarchy are described below:
+ 
+Level 1 - Quoted prices in active markets for identical assets or liabilities;
+ 
+Level 2 - Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities; and
+ 
+Level 3 - Unobservable inputs that are supported by little or no market activity and that are financial instruments whose values are determined using pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires significant judgment or estimation.
+ 
+If the inputs used to measure the financial assets and liabilities fall within more than one level described above, the categorization is based on the lowest level input that is significant to the fair value measurement of the instrument. The convertible promissory notes and debentures (Note 7) are classified as Level 2 financial liabilities.
+ 
+As of May 31, 2017 and May 31, 2016, the carrying value of cash, accounts receivable, note receivable, accounts payable, accrued expenses, short term loans, accrued development and related expenses, and accrued interest approximated fair value due to the short-term nature of these instruments.
+ 
+Fair Value of Derivative Instruments, and Warrants 
+ 
+The Company issued five year common stock purchase warrants as part of subscription agreements that included convertible promissory notes, debentures and line of credit, some of which had price protection provisions that expired after twelve months. Upon expiration of the price protection, the instruments were treated as equity instruments.
+ 
+In the event the Company has exceeded its authorized number of common stock issuable on a diluted basis, the Company applies the earliest issuance date sequencing approach to determine which derivatives recorded in additional paid in capital, require reclassification to financial liabilities. Under the earliest issuance date sequencing approach, the financial instruments recorded in equity that have stock issuable in common stock (excluding stock options) earlier than the date of the breach of the authorized stock limit continue to be classified as a component of additional paid in capital. All derivatives that are issuable into common stock (other than stock options) issued subsequent to the breach of the authorized stock limit on a diluted basis, are recorded as financial liabilities. Upon a rectification of the breach of the authorized stock limit, those instruments that would otherwise be recorded as component of additional paid in capital, will be reclassified to additional paid in capital.
+ 
+When applicable, the instruments are measured at fair value using a binomial lattice valuation methodology and are included in the consolidated balance sheets as financial liabilities. Both unrealized and realized gains and losses related to these liabilities are recorded based on the changes in the fair values and are reflected as a change in fair value on the consolidated statements of operations and comprehensive loss.
+ 
+Fair Value of Convertible Debentures with Attached Common Stock Purchase Warrants
+ 
+The Company has issued secured convertible debentures that are convertible into common stock along with common stock purchase warrants as part of the subscription agreements. The Company allocates value between the debt, common stock purchase warrants, and a beneficial conversion feature, if applicable. The Company determines a fair value for each component being the debt and common stock purchase warrants and then uses the relative fair value method to allocate value to these components. The present value method was used to determine the fair values of the debt and the binomial tree option pricing model was used to determine the fair value of the common stock purchase warrants. A convertible debenture instrument includes a beneficial conversion feature when the effective conversion price is less than the Company’s market price of common stock on the commitment date. The difference between the fair value and face value of the debentures is accreted up to face value over the term to maturity using the effective interest method. Any unrealized and realized gains and losses related to the convertible promissory notes and debentures are recorded based on the changes in the fair values and are reflected as change in fair value of convertible debentures and notes on the consolidated statements of operations and comprehensive loss.
+
+F-9
+---
+
+Estimates
+
+The consolidated financial statements are prepared on the basis of accounting principles generally accepted in the United States. The preparation of consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities as of the date of the consolidated financial statements.
+ 
+The Company’s significant estimates include useful life of intangible assets, impairment of intangible assets, fair value of financial instruments including the underlying assumptions to estimate the fair value of secured convertible promissory notes and debentures and the valuation allowance of deferred tax assets.
+ 
+Management regularly reviews its estimates utilizing currently available information, changes in facts and circumstances, historical experience and reasonable assumptions. After such reviews, if deemed appropriate, those estimates are adjusted accordingly.
+ 
+These significant accounting estimates bear the risk of change due to the fact that there are uncertainties attached to those estimates and certain estimates are difficult to measure or value.
+ 
+Reclassifications
+ 
+Certain amounts in the prior year presented have been reclassified to conform to the current year classification. These reclassifications have no effect on the previously reported net loss.
+Recent Accounting Pronouncements
+ 
+In May 2014, the FASB issued Accounting Standards Update No. 2014-09 which was amended in August 2015 by Update No 2015-14: Revenue from Contracts with Customers. The standard outlines a five-step model for revenue recognition with the core principle being that a company should recognize revenue when it transfers control of goods or services to customers at an amount that reflects the consideration to which it expects to be entitled in exchange for those goods or services. Companies can choose to apply the standard using either the full retrospective approach or a modified retrospective approach. Under the modified approach, financial statements will be prepared for the year of adoption using the new standard but prior periods presented will not be adjusted. Instead, companies will recognize a cumulative catch-up adjustment to the opening balance of retained earnings. This new guidance is effective for annual reporting periods beginning after December 15, 2017, including interim periods within that reporting period. The Company has not yet made a determination as to the method of application (full retrospective or modified retrospective). It is too early to assess whether the impact of the adoption of this new guidance will have a material impact on the Company's results of operations or financial position.
+ 
+On August 27, 2014 the FASB issued a new financial accounting standard on going concern, Update 2014-15, “Presentation of Financial Statements – Going Concern (subtopic 205-40): Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern.” The standard provides guidance about management’s responsibility to evaluate whether there is substantial doubt about the organization’s ability to continue as a going concern. The amendments in this update apply to all companies. They become effective in the annual period ending after December 15, 2016, with early application permitted. As a result of the adoption of this new standard there were no changes required to the Company’s Going Concern disclosures
+ 
+In November 2014, the FASB issued Accounting Standard Update (“ASU”) 2014-16, “Determining Whether the Host Contract in a Hybrid Financial Instrument Issued in the Form of a Share Is More Akin to Debt or to Equity.” The ASU clarifies how current guidance should be interpreted in evaluating the economic characteristics and risks of a host contract in a hybrid financial instrument that is issued in the form of a share. Specifically, the amendments clarify that an entity should consider all relevant terms and features, including the embedded derivatives feature being evaluated for bifurcation, in evaluating the nature of a host contract. The ASU is effective for fiscal years beginning after December 15, 2015 and interim periods beginning after December 15, 2016. As a result of the adoption of this new standard there were no changes required in the Company’s financial statements related to Hybrid Financial instruments.
+ 
+There are various other updates recently issued, most of which represented technical corrections to the accounting literature or application to specific industries and are not expected to a have a material impact on the Company’s financial position, results of operations or cash flows.
+ 
+
+F-10
+----
+
+2. Going Concern
+ 
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. The Company has experienced negative cash flows from operations since inception and has incurred a deficit of $27,960,756 through May 31, 2017.
+ 
+As of May 31, 2017, the Company had a working capital deficit of $654,186. During the year ended May 31, 2017, net cash used in operating activities was $2,614,675. The Company expects to have similar cash needs for the next twelve months. At the present time, the Company does not have sufficient funds to fund operations over the next twelve months.
+ 
+Implementation of the Company business plan will require additional debt or equity financing and there can be no assurance that additional financing can be obtained on acceptable terms. The Company has realized limited revenues to cover its operating costs. As such, the Company has incurred an operating loss since inception. This and other factors raise substantial doubt about its ability to continue as a going concern. The Company’s continuation as a going concern is dependent on its ability to meet its obligations, to obtain additional financing as may be required, and ultimately to attain profitability. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+ 
+Management plans to meet its operating cash flow requirements from financing activities until the future operating activities become sufficient to support the business to enable the Company to continue as a going concern. The Company continues to work on generating operating cash flows from the commercialization of its business. Until those cash flows are sufficient the Company will pursue other financing when deemed necessary.
+ 
+The Company is pursuing a number of different financing opportunities in order to execute its business plan. These include, secured convertible debt arrangements and common share equity financings. During the year ended May 31, 2017, the Company raised $2,488,576 net of repayments primarily from Directors, expected to be subscribed into long term secured convertible debentures. 
+ 
+There can be no assurance that the raising of future equity or debt will be successful or that the Company’s anticipated financing will be available in the future, at terms satisfactory to the Company. Failure to achieve financing at satisfactory terms and sufficient amounts could have a materially adverse effect on the Company’s ability to continue as a going concern. If the Company cannot successfully raise additional capital and implement its strategic development plan, its liquidity, financial condition and business prospects will be materially and adversely affected, and the Company may have to cease operations.
+ 
+3. Concentration of Credit Risk and Note Receivable
+ 
+All of the Company’s revenues are attributed to a small number of customers. Three customers comprised 83% of the Company’s revenue for the year ended May 31, 2017. Our former largest customer comprises 0% of the revenue recorded for the year ended May 31, 2017 and had comprised 83% of the revenue for the year ended May 31, 2016. One client (the “Client”) comprised 25% of revenue recorded for the year ended May 31, 2017. Due to the long period without payment, the Company determined the revenue recognition criteria starting at the beginning of the Company’s second quarter of fiscal 2016 for Digital Widget Factory (Belize) (“DWF”) was not met.
+ 
+Effective February 29, 2016, Digital Widget Factory (Belize) (“DWF”) sold the technology platform, partially developed by Yappn, in conjunction with DWF’s principals, to the Client in exchange for common shares of that client. As part of the transaction, DWF received ownership and rights to 24 million common shares of that Client for a large minority shareholder position of the Client (the “Client Transaction”). During the fourth quarter of fiscal 2016, the Company executed a promissory note from DWF for the outstanding value of the billings of $2,125,000. The promissory note was secured by DWF’s Client stock holdings in the amount of 2,250,000 restricted common shares, which at the market value at the time of execution significantly exceeded the value of the promissory note. The note receivable included monthly payments of differing amounts with the final payment scheduled by November 30, 2016. Additionally, the Company received stock options for the purchase of shares of common stock of the Client from DWF which expired on November 30, 2016.
+ 
+
+F-11
+----
+
+ 
+
+The Company has not received any payments from DWF during the second, third, and fourth quarter of fiscal 2017, and the promissory note final payment date was contracted to be fully paid by November 30, 2016. During the second quarter of fiscal 2017, as at November 30, 2016, management recorded a full impairment on the remaining $968,289 recorded in its consolidated financial statements.
+ 
+In early 2017, a dispute arose between the Client and DWF over the terms in the asset purchase agreement. The parties agreed to unwind the original transaction. DWF regained title to the assets developed by Yappn and DWF in addition to the additional enhancements while under the Client’s control. The Client’s publicly traded stock was cease traded by the regulators (although subsequently resumed trading) and the original security of the Client shares between DWF and the Client securing the DWF note receivable was, at that time, unmarketable.
+ 
+On February 28, 2017, management reached a resolution with DWF stakeholders. Yappn agreed to reduce its stake in the DWF assets to $800,000 which will be in the form of a new investment in DWF with the specific terms to be determined. This reduced position in DWF’s assets is in exchange for DWF stakeholders forgiving all unsecured debentures, secured debenture, term debt, and related interest that were obligations of Yappn. More specifically, the Company settled $305,000 of unsecured convertible debentures and accrued interest of $91,408, $250,000 of unsecured convertible debentures and accrued interest of $43,613, $65,228 of unsecured term loans and related interest of $16,512 (Note 5), and $200,000 of secured convertible debentures and accrued interest of $20,000 issued to a consultant (Note 8). In addition to the above, the Company has negotiated its release from various past consulting obligations. The Series A, B, and D common stock purchase warrants were repriced to $0.25 from $1.00, $2.00, and $2.20 respectively and extended an additional one year to expire in 2020.
+ 
+Due to the uncertainty of ultimate collectability, the Company will not record any value for the $800,000 investment in DWF until cash collection is reasonably assured or a liquid market with quoted market prices exist to allow realization from a sale of the investment. 
+ 
+4. Intangible Assets
+ 
+On September 15, 2015, the Company finalized its purchase of intellectual property assets of Ortsbo, Inc. (“Ortsbo”) pursuant to an Asset Purchase Agreement executed and closed on July 15, 2015. With this closing, the Company had an obligation to issue 31,987,000 shares of common stock of Yappn to Ortsbo or its designees. Yappn also assumed $975,388 of debt as part of the transaction. This assumed debt was immediately subscribed as part of the secured debenture in Yappn (Note 6). The fair value for the agreed upon consideration for the acquisition of intellectual property from Ortsbo was $16,968,888, however, due to the common control of Ortsbo and the Company, the value of the intangible assets acquired from Ortsbo was recorded at the carrying value in the financial records of Ortsbo. This value was $5,421,067 on September 15, 2015.
+ 
+During the second quarter of fiscal 2016, from the share issuance obligations from the purchase of the Ortsbo intellectual property assets, 12,998,682 shares were issued comprising 8,312,500 to Ortsbo and 4,686,182 to the former debt and minority shareholders of Ortsbo, which were valued at $1,806,608 leaving 18,988,318 shares to be issued. During the fourth quarter of fiscal 2017, as a result of an agreement between Winterberry Investments Inc. and its investors, the Company issued 16,320,903 common stock purchase warrants (with an exercise price of $0.01 per common share) with an additional 1,600,000 common stock purchase warrants to be issued in settlement of the previous obligation of 17,687,500 shares to be issued to Winterberry Investments Inc. As at the filing date, the 1,300,818 shares at a value of $180,793 remain reserved but not issued and subject to issuance based on the instructions from the recipients.
+ 
+
+Intangible Assets | Technology | | | Pending Patents | | | Issued Patents | | Total | 
+--------------------------------------------+------------+------------+---+-----------------+---+---------+----------------+---+--------+--
+Balance on Acquisition - September 15, 2015 | $ | 5,278,773 | | | $ | 142,294 | | $ | - | | $ | 5,421,067 | 
+Additions | | - | | | | 21,522 | | | - | | | 21,522 | 
+Amortization | | (747,830 | ) | | | - | | | - | | | (747,830 | )
+Disposal | | - | | | | (18,538 | ) | | - | | | (18,538 | )
+Balance, May 31, 2016 | $ | 4,530,943 | | | $ | 145,278 | | $ | - | | $ | 4,676,221 | 
+Additions | | - | | | | 34,097 | | | - | | | 34,097 | 
+Reclassification | | - | | | | (61,879 | ) | | 61,879 | | | - | 
+Amortization | | (1,055,760 | ) | | | - | | | (7,314 | ) | | (1,063,074 | )
+Disposal | | - | | | | (38,189 | ) | | - | | | (38,189 | )
+Balance, May 31, 2017 | $ | 3,475,183 | | | $ | 79,307 | | $ | 54,565 | | $ | 3,609,055 | 
+
+
+F-12
+----
+
+5. Short Term Loans
+ 
+The Company has a past due term loan originated on April 1, 2014 with an interest rate of 1% per month. The Company repaid $15,483 (Canadian $20,000) during the first quarter of fiscal 2017. As at May 31, 2017, the loan had a value of $88,011 ($118,815 Canadian). 
+ 
+The Company had a past due term loan originated on January 7, 2014 with an interest rate of 1% per month. The Company repaid $13,899 (Canadian $18,125) during the first quarter of fiscal 2017. During the third quarter, the balance of the loan was settled with the debt holder as part of the DWF settlement (Note 3), leaving a value of $nil as at May 31, 2017.
+ 
+During the fourth quarter of fiscal 2016, the Company received $100,000 from a director as an intended subscription in anticipation of a third closing of a private placement of units consisting of one common stock at $0.25 per share and one common stock purchase warrant with an exercise price of $0.25 per share. The Company completed this closing on August 31, 2016 and the loan was applied against the private placement (Note 9).
+ 
+The following is a summary of Short Term Loans:
+ 
+
+Principal amounts | April 1, 2014 Term Loan | | | January 7, 2014 Term Loan | | | Other Loans | | Total | 
+------------------------------------+-------------------------+---------+---+---------------------------+---+---------+--------------+---+------------+--
+Fair value at May 31, 2015 | $ | 152,545 | | | $ | 82,817 | | $ | 556,566 | | $ | 791,928 | 
+Borrowing during the first quarter | | - | | | | - | | | 328,265 | | | 328,265 | 
+Borrowing during the second quarter | | - | | | | - | | | 1,201,000 | | | 1,201,000 | 
+Borrowing during the third quarter | | - | | | | - | | | 170,468 | | | 170,468 | 
+Borrowing during the fourth quarter | | - | | | | - | | | 100,000 | | | 100,000 | 
+Fair value adjustments | | (9,446 | ) | | | (4,251 | ) | | (19,726 | ) | | (33,423 | )
+Conversions | | - | | | | - | | | (1,832,768 | ) | | (1,832,768 | )
+Repayments | | (37,214 | ) | | | - | | | (403,805 | ) | | (441,019 | )
+Fair value at May 31, 2016 | $ | 105,885 | | | $ | 78,566 | | $ | 100,000 | | $ | 284,451 | 
+Fair value adjustments | | (2,391 | ) | | | (760 | ) | | - | | | (3,151 | )
+Conversions | | - | | | | - | | | (100,000 | ) | | (100,000 | )
+Repayments | | (15,483 | ) | | | (13,899 | ) | | - | | | (29,382 | )
+Settlement | | - | | | | (63,907 | ) | | - | | | (63,907 | )
+Fair value at May 31, 2017 | $ | 88,011 | | | $ | - | | $ | - | | $ | 88,011 | 
+
+6. Non-Convertible Secured Debentures
+ 
+During fiscal 2016, Yappn closed a financing of secured debentures (secured by general security of the Company’s assets) in the amount of $4,550,388. The secured debentures carry an annual interest rate of 12% payable at maturity. Maturity was initially the earlier of the date proceeds are available from a public offering or December 31, 2015. During the third quarter of fiscal 2016, the holders of the Secured Debentures (the “Holders”) agreed to extend the maturity date of the Secured Debentures from December 31, 2015 to July 15, 2020 and were provided with the right to amend the Secured Debenture such that a Holder shall have the right to require the Company to satisfy the outstanding obligations underlying the Secured Debenture; provided, however, that at least two thirds (66.67%) of the Holders of the principal amount of secured debentures consent to a put of their Secured Debentures to the Company. The secured debentures balance as at May 31, 2017, was $4,550,388 (Note 12). Interest expense for the year ended May 31, 2017 was $546,045 ($467,206 for the year ended May 31, 2016) and the corresponding accrual is classified as long term interest since there is no requirement to pay interest until the maturity date of the secured debentures.
+
+F-13
+----
+
+7. Unsecured Convertible Promissory Notes and Debentures
+ 
+Convertible Debentures with Series A and B Warrants 
+ 
+On January 29, 2014, February 27, 2014, and April 1, 2014, the Company issued 395, 305, and 469 Units for $395,000, $305,000, and $469,000 respectively. The Units consist of (i) one unsecured 6% convertible promissory note, $100 par value, convertible into shares of the Company’s common stock; (ii) a common stock purchase warrant entitling the holder thereof to purchase 1,000 shares of common stock (individually “Series A Warrant”) at an exercise price of $1.50; and, (iii) a common stock purchase warrant entitling the holder thereof to purchase 1,000 shares of common stock (individually “Series B Warrant”) at an exercise price of $2.00 (Note 10). The purchase price for each Unit was $1,000 and resulted in a funding total of $1,069,000 in cash and the retirement of $100,000 debt obligation to a private investor.
+ 
+The notes matured 24 months from the issuance date and have an interest rate of 6% per annum payable in arrears on the earlier of a default date or the maturity date. The notes may be converted at any time after the original issuance date at the election of their holders to convert all or part of the outstanding and unpaid principal amount and accrued interest at a conversion price of $1.00 per share. Any amount of principal or interest which is not paid when due, shall bear interest at the rate of 16% per annum from the date it is due. Both the Series A and Series B warrants have a five year life.
+ 
+The convertible debentures due on January 29, 2016, February 27, 2016, and April 1, 2016 respectively were not repaid or converted into common shares of the Company by the maturity dates. Management made offers to the remaining debenture holders with either extension terms or conversion into common shares as the Company did not have the ability to repay these debtholders in cash. In fiscal 2016, $260,000 in principal value of debenture holders took the offer for additional investment and repricing of both common stock purchase warrants. During the year ended May 31, 2017, $299,000 in principal value of debenture holders converted to common stock at a rate of $0.25 per share with only the Series A Warrants repriced (Notes 9 and 10). The holders of $299,000 in principal converted had the right to an additional issuance of shares if the Company closed a financing below $0.25 per common share for a six month period to a floor of $0.20 per common share which has expired as at May 31, 2017. In addition, on September 21, 2016, a debenture holder with a principal value of $100,000 agreed to extend the outstanding debenture to May 31, 2017 with no penalty interest from default date to May 31, 2017 in exchange for both Series A and B Warrants repriced to $0.35. The Company accounted for the extension as a debt modification as opposed to a debt extinguishment. On February 28, 2017, a debenture holder with $305,000 in principal forgave their debenture and accrued interest in exchange for amending terms for Series A and B Warrants to $0.25 from $1.50 and $2.00 each respectively as well as an extension of one year to the terms of the common stock purchase warrants in conjunction with the settlement of DWF (Note 3). Interest expense for the year ended May 31, 2017 was $99,214 ($101,881 for the year ended May 31, 2016).
+ 
+Convertible Debentures with Series C or Series D Warrants
+ 
+During late fiscal 2014, and early fiscal 2015 the Company authorized and issued 1,050 Units for $1,050,000 to private investors, and 475 Units for $475,000 to seven independent accredited investors respectively. The 475 Units were issued in exchange for $300,000 in cash and release of $90,777 (then Canadian $100,000) in the loan originated on January 7, 2014 and $50,000 in settlement of trade payables. The Units consist of (i) one unsecured 6% convertible debenture, $100 par value, convertible into shares of the Company’s common stock at a conversion price of $1.50 per share; and (ii) a common stock purchase warrant entitling the holder thereof to purchase 700,000 shares of common stock (“Series C Warrant”) and 316,666 shares of common stock (“Series D Warrant”) at a purchase price of $2.20 per share that expires in 5 years (Note 10).
+ 
+The debentures matured 24 months from the issuance date and have an interest rate of 6% (with certain other penalties on overdue interest when debt is past due) per annum payable in arrears on the earlier of a default date or the maturity date. The debentures may be converted at any time after the original issuance date at the election of their holders, who may convert all or part of the outstanding and unpaid principal amount and accrued interest at a conversion price of $1.50 per share. The common stock purchase warrants may be exercised in whole or in part.
+ 
+During the year ended May 31, 2017, $1,225,000 in principal value of debenture holders converted their outstanding debentures and accrued interest into common stock of the Company as well as received amendments to their common stock purchase warrants price of $0.25 (Notes 9 and 10). The holders of the $1,225,000 in principal converted had the right to an additional issuance of shares if the Company closed a financing below $0.25 per common share for a six month period to a floor of $0.20 per common share which has expired as at May 31, 2017. All remaining term and conditions are unchanged. On February 28, 2017, two debenture holders with $250,000 in principal forgave their debentures and accrued interest in exchange for amending terms for Series D warrants to $0.25 from $2.20 as well as an extension of one year to the terms of the common stock purchase warrants in conjunction with settlement of DWF (Note 3). Interest expense for the year ended May 31, 2017 was $42,127 ($91,731 for the year ended May 31, 2016).
+ 
+
+F-14
+----
+
+ 
+
+The following is a summary of the unsecured convertible promissory notes and debentures as of May 31, 2017:
+ 
+
+Principal amounts: | Convertible Promissory Notes and Debentures | | Conversions | | | DWF Settlement | | Total Outstanding Principal | 
+-------------------------------+---------------------------------------------+-----------+-------------+---+------------+----------------+---+-----------------------------+--
+Total Borrowings | | | | | | | | | 
+Borrowing on January 29, 2014 | $ | 395,000 | | $ | (260,000 | ) | | - | | $ | 135,000 | 
+Borrowing on February 27, 2014 | | 305,000 | | | - | | | (305,000 | ) | | - | 
+Borrowing on April 1, 2014 | | 469,000 | | | (299,000 | ) | | - | | | 170,000 | 
+Borrowing on April 23, 2014 | | 50,000 | | | (50,000 | ) | | - | | | - | 
+Borrowing on May 31, 2014 | | 1,000,000 | | | (1,000,000 | ) | | - | | | - | 
+Borrowing on June 27, 2014 | | 250,000 | | | - | | | (250,000 | ) | | - | 
+Borrowing on September 2, 2014 | | 125,000 | | | (125,000 | ) | | - | | | - | 
+Borrowing on October 6, 2014 | | 50,000 | | | (50,000 | ) | | - | | | - | 
+Borrowing on October 27, 2014 | | 50,000 | | | - | | | - | | | 50,000 | 
+Total | $ | 2,694,000 | | $ | (1,784,000 | ) | $ | (555,000 | ) | $ | 355,000 | 
+Balance at May 31, 2015 | | | | | | | | | | $ | 1,945,833 | 
+Fair value adjustment | | | | | | | | | | | 768,991 | 
+Conversions | | | | | | | | | | | (260,000 | )
+Balance at May 31, 2016 | | | | | | | | | | $ | 2,454,824 | 
+Fair value adjustment | | | | | | | | | | | (20,824 | )
+Conversions | | | | | | | | | | | (1,524,000 | )
+Settlement | | | | | | | | | | | (555,000 | )
+Balance at May 31, 2017 | | | | | | | | | | $ | 355,000 | 
+
+8. Convertible Secured Debentures
+ 
+On December 30, 2015, the Company completed a convertible secured debenture (secured by general security of the Company’s assets) and common stock purchase warrant financing of $2,040,000 ($1,075,000 from directors of the Company) (Note 12) through the offering of units by way of private placement, with each unit consisting of (i) a 12% secured convertible debenture with a maturity date of five years from issuance convertible at $0.25 per common stock and (ii) ten (10) five year common stock purchase warrants, vesting in 1/3 increments with 1/3 vested in one year, 1/3 to be vested in two years and 1/3 to be vested in three years and having an exercise price of $0.01 per share (Note 10). The units were sold at $1.00 per unit. 
+ 
+Values were allocated for this private placement between the debt, common stock purchase warrants and the beneficial conversion feature. The valuation approach involved determining a fair value for the debt and common stock purchase warrants and then using the relative fair value method to allocate value to these components. Based on relative fair values, the present value method was used to determine the fair values of the debt and the binomial tree option pricing model was used to determine the fair value of the common stock purchase warrants. The value of the interest and principal payments of the debentures resulted in a value of $459,020 for the debentures and the binomial model resulted in a value for common stock purchase warrants for $1,580,980. The assumptions used for the binomial model are: Volatility 177%, expected life of five years, risk free interest rate of 1.80%, and dividend rate of 0%. Additionally, this convertible secured debenture instrument includes a beneficial conversion feature as the effective conversion price is less than the Company’s market price of common stock on the commitment date. The value of this beneficial conversion feature is $459,020. The resulting fair value of the debt is $nil, with $1,580,980 allocated to common stock purchase warrants (Note 10) and $459,020 to the beneficial conversion feature, both which are recorded as components of additional paid in capital.
+ 
+On May 1, 2016, the Company closed a secured convertible debenture and common stock purchase warrant financing through conversion of a short term loan of $170,468 from a director of the Company (secured by general security of the Company’s assets) that was otherwise payable on demand in cash. The offering of units was by way of private placement, with each unit consisting of (i) a 12% secured convertible debenture with a maturity date of five years from issuance convertible at $0.25 per common stock and (ii) ten (10) five year common stock purchase warrants, vesting in 1/3 increments with 1/3 vested immediately, 1/3 to be vested in one year and 1/3 to be vested in two years and having an exercise price of $0.01 per share (Note 10). The units were sold at $1.00 per unit.
+ 
+
+F-15
+----
+
+ 
+
+Values were allocated for this private placement between debt, common stock purchase warrants, and the beneficial conversion feature similar to the secured debenture and common stock purchase warrant financing of $2,040,000 closed in the third quarter of fiscal 2016 (see above). The value of the interest and principal payments of the debentures resulted in a value of $51,396 for the debentures and the binomial model resulted in a value for common stock purchase warrants for $119,072. The assumptions used for the binomial model are: Volatility 180%, expected life of five years, risk free interest rate of 1.28% and dividend rate of 0%. Additionally, this convertible secured debenture instrument includes a beneficial conversion feature as the effective conversion price is less than the Company’s market price of common stock on the commitment date. The value of this beneficial conversion feature is $51,396. The resulting fair value of the debt is $nil, with $119,072 allocated to common stock purchase warrants (Note 10) and $51,396 to the beneficial conversion feature, both which are recorded as components of additional paid in capital.
+ 
+The difference between the fair value and face value of the debentures is to be accreted up to face value over the term to maturity using the effective interest method. The carrying value of the debenture liability as at May 31, 2017 is $578,708 for the December 30, 2015 closing and $36,877 for the May 1, 2016 closing.
+ 
+The following table summarizes the fair values of the components of the convertible secured debentures, including the debt, common stock purchase warrants and the beneficial conversion feature.
+  
+
+Accounting allocation of initial proceeds: | December 30, 2015 | | | May 1, 2016 | | | Total
+------------------------------------------------------------+-------------------+------------+---+--------------+---+----------+------
+Gross proceeds | $ | 2,040,000 | | | $ | 170,468 | | $ | 2,210,468 | 
+Fair value of the convertible secured debt | | - | | | | - | | | - | 
+Fair value of common stock purchase warrants (Note 10) | | (1,580,980 | ) | | | (119,072 | ) | | (1,700,052 | )
+Beneficial conversion feature | | (459,020 | ) | | | (51,396 | ) | | (510,416 | )
+Change in fair value (from commitment date) | | 170,932 | | | | 4,347 | | | 175,279 | 
+Convertible secured debenture at fair value at May 31, 2016 | $ | 170,932 | | | $ | 4,347 | | $ | 175,279 | 
+Change in fair value | | 407,776 | | | | 32,530 | | | 440,306 | 
+Convertible secured debenture at fair value at May 31, 2017 | $ | 578,708 | | | $ | 36,877 | | $ | 615,585 | 
+
+ 
+On May 1, 2016, the Company completed a secured convertible debenture financing with a consultant in settlement of $200,000 in obligations with similar terms as the above private placement with no warrant financing, through the offering of units by way of private placement, with each unit consisting of (i) a 12% secured convertible debenture with a maturity date of five years from issuance convertible at $0.25 per common. The $200,000 debenture was accounted for as a single debt instrument. On February 28, 2017, the Company reached an agreement with the consultant (as a DWF stakeholder) to settle the outstanding debenture and accrued interest in exchange for Yappn’s revised position in DWF (Note 3).
+ 
+Interest expense for the year ended May 31, 2017 was $283,256 ($136,275 for the year ended May 31, 2016) and the corresponding accrual is classified as long term interest since there is no requirement to pay interest until the maturity date of the secured debentures.
+ 
+During the second, third, and fourth quarter of fiscal 2017, Company received $2,226,348 in bridge financing (Note 12). These loans are classified as a long term loans which are to be subscribed into a convertible secured debenture with an expected term of 5 years to maturity. The Company expects additional participation, although not guaranteed at which time a final closing will be completed with the final agreed to terms for this financing. Interest expense for the year ended May 31, 2017 was $100,242 ($nil for the year ended May 31, 2016) and the corresponding accrual is classified as long term interest. While terms are not finalized for this financing, there is no cash payment on interest expected for at least twelve months.
+
+
+9. Common Stock
+ 
+On August 31, 2015, the Company issued 11,667 shares of common stock in the form of a cashless exercise common stock purchase warrants with a previous allocation to equity of $37,100 in full settlement of common stock purchase warrants issued to a variable note holder that was extinguished in fiscal 2016.  
+ 
+On September 15, 2015, the Company closed an agreement with Ortsbo to acquire all of its intellectual property assets. The purchased assets include US Patent No. 8,983,850 B2, US Patent No. 8,917,631 B2, US Patent No. 9,053,097 B2 and other intellectual property including eCommerce and Customer Care know-how (Note 4).
+ 
+During the fourth quarter of fiscal 2017, as a result of an agreement between Winterberry Investments Inc. and its investors, the Company issued 16,320,903 common stock purchase warrants (with an exercise price of $0.01 per common share) with an additional 1,600,000 common stock purchase warrants to be issued in settlement of the previous obligation of 17,687,500 shares to be issued to Winterberry Investments Inc. As at the filing date, the 1,300,818 shares at a value of $180,793 remain reserved but not issued (Note 4) and subject to issuance based on the instructions from the recipients.
+ 
+On April 18, 2016, the Company issued 1,008,000 shares of common stock for $252,000 cash received against the first tranche of a private placement of units, at a purchase price of $0.25 per unit, consisting of one common stock and one common stock purchase warrant with an exercise price of $0.25 per share and expiry of five years from the date of issuance (Note10). These common stock purchase warrants will vest in increments of thirds with the first 1/3 vested on April 17, 2017, second increment of 1/3 on April 17, 2018, and last 1/3 on April 17, 2019. The Company completed a relative fair value calculation to allocate the proceeds between common stock and common stock purchase warrants for $157,046 and $94,854 respectively. The assumptions used for valuation were: Volatility 180%, expected life of five years, risk free interest rate of 1.24%, and dividend rate of 0%. 
+ 
+
+F-16
+----
+
+ 
+
+On May 17, 2016, the Company issued 2,640,000 shares of common stock for $660,000 cash received against the second tranche of a private placement of units, at a purchase price of $0.25 per unit, consisting of one common stock and one common stock purchase warrant with an exercise price of $0.25 per share and expiry of five years from the date of issuance (Note 10). 1,200,000 of the shares from the second tranche for $300,000 were issued to two members of the Board of Directors (Note 12). These common stock purchase warrants will vest in increments of thirds with the first 1/3 vested on May 16, 2017, second increment of 1/3 on May 16, 2018, and last 1/3 on May 16, 2019. The Company completed a relative fair value calculation to allocate the proceeds between common stock and common stock purchase warrants for $411,515 and $248,221 respectively. The assumptions used for valuation were: Volatility 179%, expected life of five years, risk free interest rate of 1.29%, and dividend rate of 0%. 
+ 
+On June 13, 2016, principal and interest totaling $305,307 was converted into 1,221,228 of common shares as part of the conversion of convertible debt as described in Note 7. The common shares to be issued were recorded as an obligation as at May 17, 2016, however the issuance did not occur until June 13, 2016. 
+ 
+On August 31, 2016, the Company issued 1,000,000 shares of common stock for $200,000 cash received and settlement of $50,000 in prior obligations against the third tranche of a private placement of units, at a purchase price of $0.25 per unit, consisting of one common stock and one common stock purchase warrant with an exercise price of $0.25 per share and expiry of five years from the date of issuance (Note 10). All of the shares from the third tranche were issued to four members of the Board of Directors (Note 12). These common stock purchase warrants will vest in increments of thirds with the first 1/3 being vested on August 31, 2017, second increment of 1/3 on August 31, 2018, and last 1/3 on August 31, 2019. The Company completed a relative fair value calculation to allocate the proceeds between common stock and common stock purchase warrants for $141,307 and $108,693 respectively. The assumptions used for valuation were: Volatility 191%, expected life of five years, risk free interest rate of 1.19%, and dividend rate of 0%. 
+ 
+On August 31, 2016, principal and interest totaling $1,496,931 was converted into 5,956,226 common shares as part of the conversion of convertible debt as described in Note 7.
+ 
+On September 23, 2016, the Company issued 780,000 shares of common stock for $195,000 cash received against the fourth tranche of a private placement of units, at a purchase price of $0.25 per unit, each unit consisting of one share of common stock and one common stock purchase warrant with an exercise price of $0.25 per share and expiry of five years from the date of issuance (Note 10). 80,000 of the shares from the fourth tranche for $20,000 were issued to a member of the Advisory Board (Note 12). These common stock purchase warrants will vest in increments of thirds with the first 1/3 being vested on September 23, 2017, second increment of 1/3 on September 23, 2018, and last 1/3 on September 23, 2019. The Company completed a relative fair value calculation to allocate the proceeds between common stock and common stock purchase warrants for $112,327 and $82,673 respectively. The assumptions used for valuation were: Volatility 200%, expected life of five years, risk free interest rate of 1.16%, and dividend rate of 0%. 
+ 
+On September 23, 2016 principal and interest totaling $262,592 was converted into 1,050,368 of common shares as part of the conversion of convertible debt as described in Note 7. 
+ 
+On September 30, 2016, the Company issued 120,000 shares of common stock as settlement against prior accounts payables with a fair value of $30,000. 
+ 
+On November 15, 2016, the Company issued 88,844 shares of common stock in association with the timing of filing its Registration Statement as part of the contractual rights of certain existing convertible debenture holders. 
+ 
+The Company had an obligation to issue 17,687,500 shares of common stock for the purchase of Ortsbo intellectual property assets to a related party. The value of this equity obligation as part of the acquisition consideration was recorded at that time in the amount of $2,458,278. The obligation to issue the common stock was settled through the issuance of 16,320,903 warrants and 1,600,000 warrants to be issued. With the settlement of the obligation to issue common shares by way of an issuance of warrants, the aforementioned $2,458,278 value was moved from subscribed amounts to additional paid in capital within the statement of stockholders’ deficit. On April 28, 2017, 9,749,616 warrants were exercised and 8,954,934 shares of common stock issued under the cashless exercise provision.
+
+
+Registration Statement
+ 
+On October 3, 2016, the Company filed a Registration Statement on Form S-1 (File No. 333-213947) (the “Registration Statement”) with the Securities and Exchange Commission for up to 14,840,964 shares of our Company’s $0.0001 par value per share common stock (the "Common Stock") issuable to certain selling stockholders that are issued and outstanding upon conversion of promissory notes, related past due accrued interest and penalties and/or common stock purchase warrants currently held by those selling stockholders, specifically (i) 8,227,821 shares of Common Stock issued and outstanding (ii) 907,200 shares of Common Stock issuable to them upon exercise of promissory notes (iii) 273,272 shares of Common Stock issuable underlying past due accrued interest and penalties and (iv) 5,432,671 shares of Common Stock issuable to them upon exercise of common stock purchase warrants. The common stock purchase warrants have an exercise price varying from $0.25 to $2.20 per share (subject to adjustment). The Registration Statement covering the above noted shares was declared effective under the Securities Act of 1933 on January 24, 2017.
+10. Preferred Stock and Warrants
+ 
+Series A Preferred Stock and attached common stock purchase warrants
+ 
+The Company has an authorized limit of 50,000,000 shares of preferred stock, par value $0.0001 with none issued and outstanding as at May 31, 2017 and May 31, 2016.
+ 
+
+F-17
+----
+
+Warrants
+ 
+The following is a summary of common stock purchase warrants issued, exercised and expired through May 31, 2017:
+ 
+
+ | Shares Issuable Under Warrants | | | Equity Value | | Exercise Price | | Expiration
+---------------------------------------------------------------------------------------+--------------------------------+------------+---+--------------+------------+----------------+---+-----------
+Issued on March 28, 2013 | | 401,000 | | | 917,087 | | $ | 1.00 | March 28, 2018 
+Issued on May 31, 2013 | | 370,000 | | | 543,530 | | $ | 0.54 | May 31, 2018 
+Issued on June 7, 2013 | | 165,000 | | | 211,365 | | $ | 0.54 | June 7, 2018 
+Issued on November 15, 2013 | | 12,000 | | | 3,744 | | $ | 1.00 | November 15, 2018 
+Issued Series A warrants on January 29, 2014 | | 135,000 | | | 135,989 | | $ | 1.00 | January 29, 2019 
+Issued Series A warrants on January 29, 2014 - Repriced | | 260,000 | | | 268,770 | | $ | 0.25 | January 29, 2019 
+Issued Series B warrants on January 29, 2014 | | 135,000 | | | - | | $ | 2.00 | January 29, 2019 
+Issued Series B warrants on January 29, 2014 - Repriced | | 260,000 | | | 9,022 | | $ | 0.25 | January 29, 2019 
+Issued Series A warrants on February 27, 2014 - Repriced | | 305,000 | | | 228,344 | | $ | 0.25 | February 27, 2019 
+Issued Series B warrants on February 27, 2014 - Repriced | | 305,000 | | | 4,728 | | $ | 0.25 | February 27, 2019 
+Issued Series A warrants on April 1, 2014 | | 70,000 | | | 147,294 | | $ | 1.00 | April 1, 2019 
+Issued Series A warrants on April 1, 2014 - Repriced | | 299,000 | | | 97,442 | | $ | 0.25 | April 1, 2019 
+Issued Series A warrants on April 1, 2014 - Repriced | | 100,000 | | | 2,490 | | $ | 0.35 | April 1, 2019 
+Issued Series B warrants on April 1, 2014 | | 369,000 | | | - | | $ | 2.00 | April 1, 2019 
+Issued Series B warrants on April 1, 2014 - Repriced | | 100,000 | | | 3,140 | | $ | 0.35 | April 1, 2019 
+Issued to Lender – Line of Credit | | 800,000 | | | 1,495,200 | | $ | 1.00 | April 7, 2019 
+Issued Series C warrants on April 23, 2014 - Repriced | | 33,333 | | | 10,642 | | $ | 0.25 | April 23, 2019 
+Issued Series C warrants on May 30, 2014 - Repriced | | 666,667 | | | 214,212 | | $ | 0.25 | May 30, 2019 
+Issued Series D warrants on June 27, 2014 - Repriced | | 166,667 | | | 2,384 | | $ | 0.25 | June 27, 2019 
+Issued Series D warrants on September 2, 2014 - Repriced | | 83,333 | | | 41,593 | | $ | 0.25 | September 2, 2019 
+Issued Series D warrants on October 6, 2014 - Repriced | | 33,333 | | | 16,607 | | $ | 0.25 | October 6, 2019 
+Issued Series D warrants on October 27, 2014 | | 33,333 | | | 15,667 | | $ | 2.20 | October 27, 2019 
+Issued warrants – consultants | | 330,000 | | | 165,330 | | $ | 1.50 | May 30, 2019 
+Issued warrants on February 4, 2015 Typenex Co-Investments, LLC | | 70,000 | | | - | | $ | 1.00 | February 4, 2020 
+Issued warrants – consultant on May 31, 2015 | | 5,000 | | | 990 | | $ | 1.00 | May 31, 2017 
+Issued warrants – consultant on May 31, 2015 | | 15,000 | | | 2,970 | | $ | 1.50 | May 31, 2017 
+Issued warrants to advisory board on September 28, 2015 - Repriced | | 300,000 | | | 233,490 | | $ | 0.25 | August 31, 2020 
+Issued to Lender – Line of Credit on November 5, 2015 | | 1,700,000 | | | 519,520 | | $ | 1.00 | April 7, 2019 
+Issued warrants to consultant on November 5, 2015 | | 100,000 | | | 23,240 | | $ | 1.00 | October 16, 2017 
+Issued warrants on December 30, 2015 | | 20,400,000 | | | 1,580,980 | | $ | 0.01 | December 29, 2020 
+Issued warrants to advisory board on March 21, 2016 | | 1,750,000 | | | 232,530 | | $ | 0.25 | March 21, 2021 
+Issued warrants to consultant on May 1, 2016 | | 4,000,000 | | | 721,200 | | $ | 0.25 | May 1, 2021 
+Issued warrants on May 1, 2016 | | 1,704,680 | | | 119,072 | | $ | 0.01 | May 1, 2021 
+Issued warrants for private placement on April 18, 2016 | | 1,008,000 | | | 94,854 | | $ | 0.25 | April 18, 2021 
+Issued warrants for private placement on May 17, 2016 | | 2,640,000 | | | 248,221 | | $ | 0.25 | May 17, 2021 
+Exercised Warrants Typenex Co-Investments, LLC | | (70,000 | ) | | - | | $ | 1.00 | - 
+Total – as of May 31, 2016 | | 39,055,346 | | | 8,311,647 | | | | 
+Issued warrants to consultant on July 6, 2016 | | 90,000 | | | 22,500 | | $ | 0.25 | July 6, 2018 
+Issued warrants to advisory board member on August 25, 2016 | | 250,000 | | | 22,593 | | $ | 0.25 | August 25, 2021 
+Issued warrants for private placement on August 31, 2016 | | 1,000,000 | | | 108,693 | | $ | 0.25 | August 31, 2021 
+Issued warrants for private placement on September 23, 2016 | | 780,000 | | | 82,673 | | $ | 0.25 | September 23, 2021
+Issued warrants to consultant on November 10, 2016 | | 100,000 | | | 8,440 | | $ | 0.25 | November 10, 2020 
+Issued warrants in satisfaction of obligation to issue common shares on April 27, 2017 | | 9,749,616 | | | 1,337,392 | | $ | 0.01 | April 27, 2022 
+Issued warrants in satisfaction of obligation to issue common shares on April 28, 2017 | | 869,447 | | | 119,265 | | $ | 0.01 | April 28, 2022 
+Issued warrants in satisfaction of obligation to issue common shares on May 31, 2017 | | 5,701,840 | | | 782,143 | | $ | 0.01 | May 31, 2022 
+Exercised Warrants | | (9,749,616 | ) | | (1,337,392 | ) | $ | 0.01 | - 
+Total – as of May 31, 2017 | | 47,846,633 | | | 9,457,954 | | | | 
+
+
+F-18
+----
+
+ 
+
+As at May 31, 2017, vested and exercisable common stock purchase warrants have a weighted average price of approximately $0.27 (May 31, 2016 - $0.87) and have a weighted-average remaining contractual term of 1.91 years (May 31, 2016 – 0.71 years). It is expected the 21,798,453 unvested common stock purchase warrants will ultimately vest. The unvested common stock purchase warrants have a weighted average exercise price of $0.09 (May 31, 2016 - $0.07) per share and a weighted average remaining term of 1.70 years (May 31, 2016 – 3.62 years). 
+ 
+Warrants vesting terms and repricing related to Convertible Debentures, Secured Converted Debentures, and Common Stock Private Placement are described in Notes 7, 8, and Note 9. All common stock purchase warrants not described in other notes to the consolidated financial statements vested immediately upon issuance. Common stock purchase warrants issued to consultants and the Advisory Board in fiscal 2016 and 2017 are described below.
+ 
+The Company issued 300,000 common stock purchase warrants on September 28, 2015 to new advisors in advance of their appointment to the Board of Directors at an exercise price of $1.00 with expiry of five years from September 1, 2015. These were expensed as stock based compensation. The common stock purchase warrants exercise price was repriced on March 21, 2016 to $0.25 and a nominal expense was recorded. The assumptions used for initial and repricing valuation are: Volatility 178-180%, expected life of five years, risk free interest rate of 1.38%-1.42%, and dividend rate of 0%.
+ 
+The Company issued 1,700,000 common stock purchase warrants to the issuer of Company’s previous secured line of credit holder included in financing expense in contemplation of taking a pari passu security position and allowing Winterberry to act as collateral agent for the secured debenture financing. These common stock purchase warrants were issued November 5, 2015 have an exercise price of $1.00 with expiry date of April 7, 2019. The assumptions used for valuation were: Volatility 178%, expected life of five years, risk free interest rate of 1.65%, and dividend rate of 0%.
+ 
+The Company issued common stock purchase warrants to a consultant in the amount of 100,000 included in financing expense on November 5, 2015 at an exercise price of $1.00 with expiry date of October 16, 2017. The assumptions used for valuation were: Volatility 178%, expected life of approximately two years, risk free interest rate of 0.85%, and dividend rate of 0%.
+ 
+The Company issued 1,750,000 common stock purchase warrants on March 21, 2016 to the new Advisory Board at an exercise price of $0.25 with expiry date of March 21, 2021. These were expensed as stock based compensation. These common stock purchase warrants will vest in increments of 1/3 with the first 1/3 being vested on March 21, 2017, second increment of 1/3 on March 21, 2018, and last 1/3 on March 21, 2019. The assumptions used for valuation were: Volatility 180%, expected life of five years, risk free interest rate of 1.38%, and dividend rate of 0%.
+ 
+On May 1, 2016 the Company issued 4,000,000 common stock purchase warrants to an entity, Imagination 7 Ventures, LLC controlled by the former CEO at an exercise price of $0.25 included in consulting expense with an expiry of May 1, 2021. These common stock purchase warrants will vest in increments of 1/3 with the first 1/3 being vested on May 1, 2016, second increment of 1/3 on April 30, 2017, and last 1/3 on April 30, 2018. The assumptions used for valuation were: Volatility 180%, expected life of five years, risk free interest rate of 1.28%, and dividend rate of 0%.
+ 
+The Company issued 250,000 common stock purchase warrants on August 25, 2016 to a new Advisory Board member at an exercise price of $0.25 with expiry date of August 25, 2021. These were expensed as stock based compensation. These common stock purchase warrants will vest in increments of 1/3 with the first 1/3 being vested on August 25, 2017, second increment of 1/3 on August 25, 2018, and last 1/3 on August 25, 2019. The assumptions used for valuation were: Volatility 191%, expected life of five years, risk free interest rate of 1.13%, and dividend rate of 0%.
+ 
+The Company issued common stock purchase warrants to a consultant in the amount of 100,000 included in consulting expense on November 10, 2016 at an exercise price of $0.25 with expiry date of November 10, 2020. The assumptions used for valuation were: Volatility 215%, expected life of approximately four years, risk free interest rate of 1.17%, and dividend rate of 0%.
+ 
+During the fourth quarter of fiscal 2017, as a result of an agreement between Winterberry Investments Inc. and its investors, the Company issued 16,320,903 common stock purchase warrants (with an exercise price of $0.01 per common share) with an additional 1,600,000 common stock purchase warrants to be issued in settlement of the obligation to issue 17,687,500 shares from the purchase of the Ortsbo intellectual property assets. These common stock purchase warrants have an expiry date of 5 years from the date of issuance and vest immediately. During the fourth quarter of fiscal 2017, the Company issued 8,954,934 shares of common stock as a result of a cashless exercise of 9,749,616 issued common stock purchase warrants.
+ 
+
+F-19
+----
+
+11. Employee Benefit and Incentive Plans
+ 
+On August 14, 2014, the Board of Directors approved the adoption of the 2014 Stock Option Plan, which was ratified by the shareholders on December 22, 2014. On August 21, 2015, the Company amended its 2014 Stock Option Plan to increase the number of shares reserved pursuant to the 2014 Stock Option Plan to 25,000,000.
+ 
+The following table outlines the options granted and related disclosures:
+ 
+
+ | Stock Options | | | Weighted- Average Exercise Price | 
+------------------------------------------------+---------------+------------+---+-----------------------------------+--
+Outstanding at May 31, 2015 | | 1,804,500 | | | $ | 1.00
+Granted in fiscal 2016 | | 8,775,000 | | | | 0.25
+Exercised | | - | | | | - 
+Cancelled, forfeited or expired | | (189,500 | ) | | | 1.00
+Outstanding at May 31, 2016 | | 10,390,000 | | | $ | 0.28
+Granted in fiscal 2017 | | 3,200,000 | | | | 0.25
+Exercised | | - | | | | - 
+Cancelled, forfeited or expired | | (385,000 | ) | | | 1.00
+Outstanding at May 31, 2017 | | 13,205,000 | | | $ | 0.25
+Options exercisable at May 31, 2017 | | 6,430,000 | | | $ | 0.25
+Fair value of options vested as at May 31, 2017 | $ | 2,333,927 | | | $ | N/A 
+
+ 
+As at May 31, 2017, vested and exercisable options do not have any intrinsic value and have a weighted-average remaining contractual term of 3.60 years. It is expected the 6,775,000 unvested options will ultimately vest. These options have a weighted average exercise price of $0.25 per share and a weighted average remaining term of 3.96 years. The aggregate intrinsic value of options represents the total pre-tax intrinsic value, the difference between our closing stock price as at May 31, 2017 and the option’s exercise price, for all options that are in the money. This value was $nil as at May 31, 2017.
+ 
+As at May 31, 2017, there is $1,293,208 of unearned stock based compensation cost related to stock options granted that have not yet vested (6,775,000 options). This cost is expected to be recognized over a remaining weighted average vesting period of 1.28 years.
+ 
+8,750,000 and 3,200,000 of the stock options granted on March 21, 2016 and August 25, 2016 respectively vest 1/4 immediately, 1/4 after one year, 1/4 after two years, and 1/4 after three years. The remaining 25,000 options issued on March 21, 2016 have immediate vesting terms.
+ 
+The estimated fair value of options granted is measured using the binomial model using the following assumptions:
+ 
+
+ | Fiscal 2016 | | | Fiscal 2017 | 
+-----------------------------------------------+--------------+-----------+---+-------------+--
+Total number of shares issued under options | | 8,775,000 | | | | 3,200,000 | 
+Stock price | $ | 0.20 | | | $ | 0.20 | 
+Exercise price | $ | 0.25 | | | $ | 0.25 | 
+Time to expiration – days (5 year options) | | 1,826 | | | | 1,826 | 
+Risk free interest rate (5 year options) | | 1.38 | % | | | 1.13 | %
+Forfeiture rate (all options) | | 0 | % | | | 0 | %
+Estimated volatility (all options) | | 180 | % | | | 191 | %
+Weighted-average fair value of options granted | | 0.25 | | | | 0.25 | 
+Dividend | | - | | | | - | 
+
+
+
+The assumptions used in the stock based compensation binomial models are consistent with the methodology used in valuing the Company’s other derivatives from debt and warrant financings. Due to a lack of history regarding the exercise of options, the Company has assumed the expected life of the options is the contractual life of the options.
+ 
+
+F-20
+----
+
+12. Related Party Balances and Transactions
+ 
+Services provided by Intertainment Media Inc. personnel in the prior fiscal year were invoiced on a per hour basis at a market rate per hour as determined by the type of activity and the skill set provided. Costs incurred by Intertainment Media Inc. on behalf of the Company for third party purchases are invoiced at cost. There were no services provided by Intertainment Media Inc. to Yappn for the year ended May 31, 2017. For the year ended May 31, 2016, related party fees incurred and paid for general development and managerial services performed by Intertainment Media Inc. and its subsidiary totaled $146,982. $92,589 is related to managerial services and $54,393 related to development. As of May 31, 2016, the related party liability balance totaled $16,654. As at May 31, 2017, there is no obligation to Intertainment Media Inc. 
+ 
+On September 15, 2015, the Company finalized its purchase of intellectual property assets of Ortsbo Inc. (“Ortsbo”) pursuant to an Asset Purchase Agreement executed and closed on July 15, 2015. With this closing, the Company had an obligation to issue 31,987,000 shares of common stock of Yappn to Ortsbo or its designees. Yappn also assumed $975,388 of debt as part of the transaction. This assumed debt was immediately subscribed as part of the secured debenture in Yappn (Note 6). The fair value for the agreed upon consideration for the acquisition of intellectual property from Ortsbo was $16,968,888, however, due to the common control of Ortsbo and the Company, the value of the intangible assets acquired from Ortsbo was recorded at the carrying value in the financial records of Ortsbo. This value was $5,421,067 on September 15, 2015 (Note 4). 
+ 
+During the second quarter of fiscal 2016, from the share issuance obligations from the purchase of the Ortsbo intellectual property assets, 12,998,682 shares were issued comprising 8,312,500 to Ortsbo and 4,686,182 to the former debt and minority shareholders of Ortsbo, which were valued at $1,806,608 leaving 18,988,318 shares to be issued. During the fourth quarter of fiscal 2017, as a result of an agreement between Winterberry Investments Inc. and its investors, the Company issued 16,320,903 common stock purchase warrants (with an exercise price of $0.01 per common share) with an additional 1,600,000 common stock purchase warrants to be issued in settlement of the previous obligation of 17,687,500 shares to be issued to Winterberry Investments Inc. As at the filing date, the 1,300,818 shares at a value of $180,793 remain reserved but not issued and subject to issuance based on the instructions from the recipients.
+ 
+Directors subscribed for $1,783,526 of $4,550,388 from the secured debenture private placement that closed in September 2015 at which time they were not directors (Note 6). Significant investments made by directors include Luis Vasquez Senties (a current member of the Board of Directors) subscribed for $500,000 from the secured debenture offering that closed in September 2015, David Berry (a current member of the Board of Directors) subscribed for $733,526 from the secured debenture offering that closed in September 2015, and Winterberry Investments Inc. (an entity controlled by David Berry, a current member of the Board of Directors) subscribed for $500,000 from the secured debenture offering that closed in September 2015. 
+ 
+Directors also subscribed for $1,075,000 of the $2,040,000 convertible secured debentures issued on December 30, 2015 (Note 8). Significant investments made by directors include Luis Vasquez Senties (a current member of the Board of Directors) who subscribed for $500,000 from the secured debenture offering that closed in December 2015, and David Berry (a current member of the Board of Directors) through a related entity which he does not control which subscribed for $500,000 from the secured debenture offering that closed in December 2015.
+ 
+David Berry (a current member of the Board of Directors) through a related entity in which he does not control advanced $170,468 to the Company on an anticipated second closing of the same convertible secured debenture financing that closed on December 30, 2015 (Note 8). This $170,468 closing occurred on May 1, 2016.
+ 
+The Company issued 300,000 common stock purchase warrants on September 28, 2015 to advisors prior to their appointment as members of the Board of Directors at an exercise price of $1.00 with expiry of five years from September 1, 2015. $227,100 was expensed as stock based compensation. These common stock purchase warrants were repriced to $0.25 on March 21, 2016 and are revalued at $233,490. The additional $6,390 was also expensed to stock based compensation.
+ 
+The Company issued 1,750,000 common stock purchase warrants on March 21, 2016 to members of the Company’s Advisory Board at an exercise price of $0.25 with expiry date of March 21, 2021. The common stock purchase warrants were valued at $349,825 and stock based compensation is recognized over a graded vesting schedule as described in Note 10.
+ 
+The Company issued 250,000 common stock purchase warrants on August 25, 2016 to a recently appointed Advisory Board member at an exercise price of $0.25 with expiry date of August 25, 2021. The common stock purchase warrants were valued at $48,075 and stock based compensation is recognized over a graded vesting schedule as described in Note 10.
+ 
+On May 1, 2016, the Company completed a secured debenture financing with a consultant, whose principal is the former CEO of the Company, for $200,000 with no warrant financing, through the offering of units by way of private placement, with each unit consisted of a 12% secured convertible debenture with a maturity date of five years from issuance convertible at $0.25 per common. This closing was a conversion of $200,000 in consulting expense. The Company also issued 4,000,000 common stock purchase warrants, valued at $721,200, at an exercise price of $0.25 included in consulting expense, with an expiry of May 1, 2021. This consultant was also granted a $100,000 signing bonus payable in cash.
+ 
+All obligations prior to May 1, 2016 due directly or indirectly to the former CEO of Yappn including $294,906 in cash obligations as an employee and $18,200 as a consultant, have been forgiven. All obligations being forgiven were recorded as general and administrative expenses within fiscal 2016 and were reversed out from general and administrative expenses.
+ 
+
+F-21
+----
+
+ 
+
+1,200,000 of the shares from the 2nd tranche of common stock private placement at $0.25 per unit totaling $300,000 in cash proceeds were issued to members of the Board of Directors. Significant investments made by Directors include Luis Vasquez Senties (a current member of the Board of Directors) who advanced $200,000 to the Company (Note 9). 
+ 
+1,000,000 of the shares from the 3rd tranche of common stock private placement at $0.25 per unit totaling $250,000 in cash proceeds and compensation for consulting work were issued to members of the Board of Directors. Significant investments made by Directors include Winterberry Investments Inc. (an entity controlled by David Berry, a current member of the Board of Directors) who advanced $100,000 to the Company (Note 9).
+ 
+80,000 of the shares from the 4th tranche of common stock private placement at $0.25 per unit totaling $20,000 in cash proceeds were issued to a member of the advisory board (Note 9).
+ 
+On March 21, 2016, the Board of Directors passed a resolution for a contingent common stock award in line with the metrics used in the CEO’s targets for additional bonus compensation. The award would see the members of the Board of Directors as well as the Advisory Board receive common shares for the Company reaching revenue milestones. Per the resolution, 500,000 common shares for each member of the Board of Directors and 250,000 for each Advisory Board member would be issued when the following milestones are met: (i) $3.5 million in new revenue generated and realized within 12 months of the start date of the CEO which was February 22, 2016 and minimum of 5 new recurring revenue contracts being signed within 12 months of the start date; or (ii) $5 million of new revenue generated and realized within 24 months of the start date and minimum of 5 new recurring revenue contracts being signed within 12 months of the start date. As of February 22, 2017 (the 12 months since the CEO start date of February 22, 2016), milestone (i) was not met.
+ 
+On August 25, 2016 a recently appointed Advisory Board member received the same contingent common stock award of 250,000 common shares as described above for the March 21, 2016 award to Advisory Board members. 
+ 
+During the second, third, and fourth quarter of fiscal 2017, Company received $2,226,348 in bridge financing from three directors. These loans are classified as long term loans which are to be subscribed into a convertible secured debenture with an expected term of 5 years to maturity. The Company expects additional participation, although not guaranteed, at which time a final closing will be completed with the final agreed to terms for this financing. 
+ 
+13. Income Taxes
+ 
+The provision for income taxes for the years ended May 31, 2017 and 2016 consisted of the following:
+ 
+
+ | May 31, 2017 | | | May 31, 2016 | 
+------------------------------+--------------+----------+---+--------------+--
+Current | $ | - | | | $ | - | 
+Deferred | | 969,732 | | | | (6,473,887 | )
+Change in valuation allowance | | (969,732 | ) | | | 6,473,887 | 
+ | $ | - | | | $ | - | 
+
+ 
+The Company’s income tax rate computed at the statutory federal rate of 35% (2016 – 35%) differs from its effective tax rate primarily due to permanent items, state taxes and the change in the deferred tax asset valuation allowance.
+ 
+
+ | May 31, 2017 | | | May 31, 2016
+------------------------------+--------------+--------+---+-------------
+Income tax at statutory rate | | 35.00 | % | | 35.00 | %
+Permanent differences | | (10.50 | ) | | (8.00 | )
+Change in valuation allowance | | (24.50 | ) | | (27.00 | )
+Total | | 0.00 | % | | 0.00 | %
+
+
+F-22
+----
+
+ 
+
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. In assessing the realizability of deferred tax assets, management evaluates whether it is more likely than not that some portion or all of its deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on Management’s evaluation, the net deferred tax asset was offset by a full valuation allowance. The Company’s deferred tax asset valuation allowance will be reversed if and when the Company generates sufficient taxable income in the future to utilize the tax benefits of the related deferred tax assets.
+ 
+The tax effects of temporary differences that give rise to the Company’s deferred tax asset as of May 31, 2017 and May 31, 2016 are as follows:
+ 
+
+ | May 31, 2017 | | | May 31, 2016 | 
+--------------------------+----------------------+-------------+---+----------------------+--
+Net operating losses | $ | 6,038,787 | | | $ | 5,116,331 | 
+Intangible Assets | | 3,999,543 | | | | 4,193,378 | 
+Less: valuation allowance | | (10,038,330 | ) | | | (9,309,709 | )
+Net deferred tax asset | $ | - | | | $ | - | 
+
+ 
+As of May 31, 2017 and May 31, 2016 the Company had a net operating losses carry-forward of approximately $18,353,871 and $14,618,084 respectively, which may be used to offset future taxable income and begins to expire in 2033. 
+
+
+
+F-23
+----
+
+PART IV
+ 

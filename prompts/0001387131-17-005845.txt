@@ -1,0 +1,206 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1
+BUSINESS
+ 
+GENERAL AND HISTORICAL
+ 
+Company Overview
+ 
+We are a clinical stage pharmaceutical company developing novel therapies for ophthalmic diseases. Our lead clinical asset, topical Squalamine (also known as squalamine lactate ophthalmic solution, 0.2%, or OHR-102), is a novel therapeutic product which could provide a non-invasive therapy to improve vision outcomes beyond that achieved with current standard of care. We are evaluating Squalamine in combination with Lucentis® injections for the treatment of wet-AMD. This is based on the data from a Phase 2 clinical trial in wet-AMD where a positive and clinically meaningful vision benefit was seen with Squalamine combination therapy in classic containing choroidal neovascularization (classic CNV) as well as those subjects with occult neovascularization (occult CNV) less than 10mm2. We also have a sustained release platform technology which we acquired in May 2014.
+Corporate and Historical Information
+ 
+We are a Delaware corporation that was organized on August 4, 2009, as successor to BBM Holdings, Inc. (formerly Prime Resource, Inc., which was organized March 29, 2002 as a Utah corporation) pursuant to a reincorporation merger. On August 4, 2009, we reincorporated in Delaware as Ohr Pharmaceutical, Inc.
+ On May 30, 2014, we completed the ophthalmology assets acquisition (the “SKS Acquisition”) of the privately held SKS Ocular LLC and its affiliate, SKS Ocular 1 LLC (“SKS”). Under the terms of the acquisition agreement, in exchange for substantially all the assets of SKS, Ohr made an upfront payment of $3.5 million in cash and issued 1,194,862 shares of Ohr common stock to SKS. In addition, SKS is eligible to receive up to an aggregate of 1,493,577 additional shares of Ohr common stock in three contingent milestone payments, each milestone resulting in the issuance of 497,859 shares of Ohr common stock. Milestone 1 required Ohr to demonstrate a consistent long-term release of a therapeutic agent above threshold therapeutic levels in the targeted ocular tissues of an animal model. Ohr met this milestone in December 2015. Milestone 2 required the completion of a pharmacodynamic study in an animal model showing clinically relevant efficacy from a drug substance released from SKS microparticles within 24 months of the date of the closing of the SKS Acquisition. Ohr achieved the study results in May 2016, and the Board reviewed and approved Milestone 2 in July 2016. Milestone 3 requires, among other things, the approval of an Investigational New Drug Application (“IND”) within three years of the date of the closing of the SKS Acquisition. We did not achieve Milestone 3.
+ Simultaneous with the SKS Acquisition, Ohr completed a holding company reorganization in which Ohr merged with a wholly-owned subsidiary and a new parent corporation succeeded Ohr as a public holding company under the same name. The business operations of Ohr did not change as a result of the reorganization. The new holding company retained the name “Ohr Pharmaceutical, Inc.” Outstanding shares of the capital stock of the former Ohr Pharmaceutical, Inc. were automatically converted, on a share for share basis, into identical shares of common stock of the new holding company.
+ 
+
+1
+-
+
+PRODUCT PIPELINE
+ 
+(a)     SQUALAMINE LACTATE OPHTHALMIC SOLUTION 0.2%
+ Squalamine Lactate Ophthalmic Solution 0.2% (“Squalamine”, also known as OHR-102)
+ Squalamine lactate is a small molecule anti-angiogenic drug with a novel intracellular mechanism of action. The drug acts against the development of aberrant neovascularization by inhibiting multiple protein growth factors of angiogenesis, including vascular endothelial growth factor (“VEGF”), platelet-derived growth factor (“PDGF”) and basic fibroblast growth factor (“bFGF”). Scientific evidence has shown PDGF to be an additional target for the treatment of wet-AMD and bFGF levels have been shown to be elevated in retinal vein occlusion and wet-AMD patients.
+ Ohr formulated squalamine lactate as a topical solution for ophthalmic indications and optimized the formulation for enhanced uptake into the back of the eye, and to potentially provide increased comfort in an elderly patient population. The Company is advancing its clinical wet-AMD program with this topical formulation. Unlike other combination therapy approaches being evaluated in clinical studies, Squalamine does not require direct injection into the eye.
+ 
+We believe that Squalamine used in combination with an anti-VEGF agent may provide several potential advantages over other combination therapy approaches currently being investigated in clinical studies including: 
+ 
+
+● | Potential use in combination with as-needed (PRN) anti-VEGF injections or treat-and-extend regimens as well as monthly, bi-monthly, and quarterly anti-VEGF injection regimens. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Adaptable for use in combination with future longer acting anti-VEGF agents. 
+--+---------------------------------------------------------------------------------
+
+
+● | Inhibition of multiple growth factor pathways of angiogenesis. 
+--+-------------------------------------------------------------------
+
+
+● | Cost efficiency of manufacturing a small molecule when compared to large molecule proteins and antibodies. 
+--+---------------------------------------------------------------------------------------------------------------
+
+ 
+The Company has conducted a preclinical program which consisted of pharmacology, pharmacokinetic, and toxicology studies which support the ongoing clinical development of Squalamine.
+ 
+ Completed Phase 2 Trial in wet-AMD: the IMPACT Study (formerly OHR-002)
+ 
+We commenced a clinical study, Study OHR-002 (or IMPACT Study), which began enrolling patients in late 2012. The IMPACT Study was a multi-center, randomized, double masked, placebo controlled Phase 2 study to evaluate the efficacy and safety of Squalamine combination therapy for the treatment of wet-AMD. The study enrolled treatment naïve wet-AMD patients at more than 20 clinical sites in the U.S. who were randomly assigned to treatment with Squalamine lactate ophthalmic solution 0.2% (“Squalamine”), or placebo eye drops for a nine month period, along with Lucentis® injections, as necessary, following an initial baseline Lucentis® injection. Full enrollment was completed in April 2014. In March 2015, we completed the IMPACT Study and announced topline results. The final data from the IMPACT Study was presented at multiple scientific conferences and forums in 2015 and 2016. In a prespecified analysis, data from the IMPACT study demonstrated that, in the intent-to-treat (ITT-LOCF) population with lesions containing classic choroidal neovascularization (“classic CNV”) (Squalamine combination treatment n=38, Lucentis® monotherapy n=32), 42% of the patients receiving Squalamine achieved a ≥3 line gain at nine months, as compared to 28% in the Lucentis® monotherapy group. In patients with classic CNV (ITT-LOCF), mean gains in visual acuity were +10.5 letters for the Squalamine combination arm and +5.4 letters with Lucentis® monotherapy, a clinically meaningful benefit of +5.1 letters. The positive effect on visual acuity in classic CNV was seen early in the course of treatment and continued to increase through the end of the study. Less of a visual acuity benefit was seen in the overall population (all lesion types). The mean number of injections between the treatment arms, the primary endpoint of the study, was not meaningfully different.
+ 
+
+
+2
+-
+
+
+Further analyses were conducted to determine the patient population most likely to benefit from combination treatment. Patients with lesions containing classic CNV are a heterogeneous population and, within the enrollment criteria of our study, could have encompassed small classic lesions with no occult component as well as lesions up to 12 disc areas (~30mm2) in size made up almost entirely of occult CNV. These diverse lesions would both fall under the same category of “classic containing lesion” even though they would be expected to respond differently to treatment. Correlation analyses determined that the occult CNV size at baseline, regardless of whether there was a classic CNV component present, directly correlated with improved visual acuity outcomes in the Squalamine combination group (p=<0.0001), which was not seen in the Lucentis® monotherapy group. This suggests that the occult CNV size was a more important predictor of success for combination therapy than the presence of classic CNV, and a cutoff less than 10mm2 of occult size at baseline was determined to be the optimal size to include in future clinical studies. In those patients with occult CNV less than 10mm2 in area (n=94 of 128 completing the phase 2 study), 40% of those treated with Squalamine combination therapy achieved a gain of 3 or more lines of vision, compared with 26% of patients in the Lucentis® monotherapy arm, a 54% additional benefit. In addition, mean gains in visual acuity compared to baseline were +11.0 letters for the Squalamine combination arm and +5.7 letters with Lucentis® monotherapy, a clinically meaningful benefit of +5.3 letters (exploratory p-value, p=.033). Subjects with occult CNV <10mm2 achieved a final mean visual acuity outcome of 71.7 letters with Squalamine combination therapy compared to 67.4 letters with Lucentis® monotherapy. The final mean visual acuity outcomes in the combination therapy group translates to approximately 20/40 vision (snellen equivalent), an important level of visual function. Importantly, this group of patients represents a larger proportion of the subjects enrolled in the IMPACT study than the classic containing group.
+ 
+Ongoing Squalamine Program in Wet-AMD (the MAKO Study)
+ 
+The results of the Phase 2 clinical trial supported conducting additional clinical trials for Squalamine with enrollment criteria for a targeted population, based on the complete analysis of the Phase 2 clinical trial. We reached an agreement on a SPA with the FDA on the design of a Phase 3 program in March 2016, initiated a clinical trial and began enrolling this optimized patient population in April 2016. In February 2017, the Company announced the pause of new enrollment in its ongoing clinical trial evaluating Squalamine for the treatment of wet-AMD. At the time, more than 200 patients had been enrolled. The study remained double masked and no interim or futility analyses were conducted. 
+ 
+In April 2017, the Company amended the ongoing clinical trial from the original agreed upon design to enable efficacy analyses at an earlier date and with less patients than originally anticipated. The study remained a multi-center, randomized, double masked, placebo controlled clinical trial. Subjects enrolled in the study received their assigned study treatment of monthly Lucentis® and either Squalamine or placebo twice daily, and underwent scheduled visits and assessments through nine months. The Data Safety Monitoring Committee (DSMC) has confirmed that there were no safety concerns and recommended the enrolled patients continue to completion of the nine month study. The primary endpoint is an assessment of visual acuity at nine months. We expect to receive and report topline data from the study in early calendar 2018.
+ 
+OHR–1501 Study
+ 
+OHR-1501 was designed as an exploratory, double-masked, randomized, placebo-controlled study designed to assess safety and efficacy of treatment with squalamine lactate ophthalmic solution in combination with monthly anti-VEGF (both Lucentis® and Eylea®) injections in patients with wet-AMD. The study has not enrolled any subjects and we do not expect to enroll any subjects in the near term as resources have been reallocated.
+Completed Trial in Proliferative Diabetic Retinopathy (“PDR”) - Study 003
+ 
+Study 003 was an open-label monotherapy investigator sponsored trial (“IST”) evaluating Squalamine in five patients with PDR. Patients enrolled in the study received Squalamine for a six month treatment period and were then followed for an additional two months. The endpoints included regression of neovascularization, anatomical measurements, visual acuity, and safety parameters. The principal investigator of Study 003 presented a case report from the first patient to complete the protocol in February 2014. In this case report, the oral presentation discussed the case of a treatment naïve patient diagnosed with PDR. The data demonstrated that topical application of Squalamine in a monotherapy regimen, twice daily and then four times daily, was associated with regression of retinal neovascularization within two months. The retinal neovascularization remained regressed throughout the six months of four times daily Squalamine therapy. One month after cessation of treatment, the abnormal blood vessels returned in this patient’s retina in the absence of Squalamine treatment, and continued to grow through the second month, the latest time point measured. Final data may be disseminated by the investigator, at his discretion, in a scientific publication.  
+
+3
+-
+
+Completed Trial in Branch and Central Retinal Vein Occlusion - Study 004
+ 
+Study 004 was an IST evaluating squalamine lactate ophthalmic solution, 0.2%, in 20 patients with branch and central retinal vein occlusion. All patients in the study received Squalamine for 10 weeks, with injections of Lucentis® at weeks two and six, and a data readout at week 10. At week 10, the patients entered into the extension phase and were randomized 1:1 to either continue or discontinue taking Squalamine through week 38 (“extension phase”). During the extension phase, the patients received Lucentis® injections on a PRN basis as determined by fluid based OCT criteria. The principal investigator presented the 10 week data from the study in August 2014. The data demonstrated that, at week 10 (1) the mean gain in visual acuity was 20.3 letters for all 20 patients using the combination therapy, (2) the mean visual acuity for all 20 patients at was 20/32, (3) the average central foveal thickness for all 20 patients was reduced to 270u, and (4) only one of 20 patients qualified for an injection of Lucentis®, indicating dryness of the retina and a 95% macular deturgescence rate.
+ 
+In July 2015, final data was presented demonstrating that at week 38, (1) the mean gain in visual acuity from baseline for patients randomized (at week 10) to treatment with Squalamine + Lucentis® PRN was +27.8 letters compared with +23.3 for patients randomized to treatment with Lucentis® plus PRN alone (control group), a clinically meaningful difference of +4.5 letters, (2) 80% of patients in the Squalamine + Lucentis® treated group had a gain in visual acuity, compared with 50% of patients treated with Lucentis® alone, and (3) none of the patients in the Squalamine + Lucentis® treated group lost any vision as compared to 50% of the patients receiving Lucentis® alone. After the initial combination therapy phase, the mean gain in visual acuity from week 10 to week 38 was +7.4 letters for patients who continued treatment with Squalamine + Lucentis® PRN compared with +3.1 letters in those receiving Lucentis® PRN alone. The Study was published by the investigator in the Ophthalmic Surgery, Lasers, and Imaging Retina (OSLI) journal in October 2016.
+ 
+(b)     SKS SUSTAINED RELEASE OCULAR DRUG DELIVERY PLATFORM TECHNOLOGY
+ 
+The SKS sustained release technology was designed to develop best-in-class drug formulations for ocular disease. The technology employs micro fabrication techniques to create nano, micro and macroparticle drug formulations that can provide sustained and predictable release of a therapeutic drug over a 3-6 month period. The versatility of this delivery technology makes it well suited to potentially deliver hydrophilic or hydrophobic small molecules, as well as proteins with complex structures.
+ 
+In February 2017, the Company suspended activities at its lab facility in San Diego, CA where research regarding the SKS sustained release technology had been conducted. However, the Company continues to explore applications of its sustained release technology and potential avenues to monetize it.
+ 
+(c)     CEP PRODUCT AND ANIMAL MODEL FOR DRY-AMD
+ 
+As part of the SKS Acquisition, we acquired the exclusive rights to an animal model for dry-AMD whereby mice are immunized with a carboxyethylpyrrole (“CEP”) which is bound to mouse serum albumin (“MSA”) as well as the rights to produce and use CEP for research and clinical applications. CEP is produced following the oxidation of docosahexaenoic acid, which is abundant in the photoreceptor outer segments that are phagocytosed by the retinal pigment epithelium (“RPE”). A number of CEP-adducted proteins have been identified in proteomic studies examining the composition of drusen and other subretinal deposits found in the eyes of patients with dry-AMD. Studies have shown that immunization of CEP-MSA can lead to an ophthalmic phenotype very similar to dry-AMD, including deposition of complement in the RPE, thickening of the Bruch’s membrane, upregulation of inflammatory cytokines, and immune cell influx into the eye. Upon immunization with CEP, a marked decrease in contrast sensitivity which precedes a loss of visual acuity, was observed, similar to what occurs in many patients with dry AMD. A collaborator of the Company is currently conducting research on the CEP target to understand its role in undisclosed ocular diseases and potential for use as a diagnostic agent. The Company has not yet monetized this technology.
+(d)     NON-OPHTHALMOLOGY ASSETS
+ 
+Ohr also owns various other compounds in earlier stages of development, including the PTP1b inhibitor Trodusquemine and related analogs. See “Corporate Strategy” concerning the Trodusquemine joint venture.
+
+4
+-
+
+Competitive Factors
+ 
+Competition in General
+ 
+Competition in the area of biomedical and pharmaceutical research and development is intense and significantly depends on scientific and technological factors. These factors include the availability of patent and other protection for technology and products, the ability to commercialize technological developments and the ability to obtain regulatory approval for testing, manufacturing and marketing. Our competitors include major pharmaceutical and specialized biotechnology companies, many of which have financial, technical and marketing resources significantly greater than ours. In addition, many biotechnology companies have formed collaborations with large, established companies to support research, development and commercialization of products that may be competitive with ours. Academic institutions, governmental agencies and other public and private research organizations are also conducting research activities and seeking patent protection and may commercialize products on their own or through joint ventures. We are aware of certain other products manufactured or under development by competitors that are used for the treatment of the health conditions that we have targeted for product development. We can provide no assurance that developments by others will not render our technology obsolete, noncompetitive or harm our development strategy, that we will be able to keep pace with new technological developments or that our technology will be able to supplant established products and methodologies in the therapeutic areas that are targeted by us. The foregoing factors could have a material adverse effect on our business, prospects, financial condition and results of operations. These companies, as well as academic institutions, governmental agencies and private research organizations, also compete with us in recruiting and retaining highly qualified scientific personnel and consultants.
+ 
+We will encounter competition from existing firms that offer competitive solutions in ocular diseases. These competitive companies could develop products that are superior to, or have greater market acceptance, than the products being developed by us. We will have to compete against other biotechnology and pharmaceutical companies with greater market recognition and greater financial, marketing and other resources.
+ 
+Wet-AMD Market
+ 
+Age-related macular degeneration (“AMD”) is a medical condition which usually affects older adults and generally results in a loss of vision. AMD occurs in “dry” (non-exudative) and “wet” (exudative) forms. Wet-AMD is the advanced form of macular degeneration that involves the formation of abnormal and leaky blood vessels in the back of the eye behind the retina, through a process known as choroidal neovascularization (“CNV”). The wet form accounts for approximately 15 percent of all AMD cases, yet is responsible for 90 percent of severe vision loss associated with AMD. According to the National Eye Institute (NEI), the prevalence of wet-AMD among adults 40 years or older in the U.S. is estimated at 1.75 million people. In addition, more than 200,000 new cases are diagnosed annually in the U.S.
+ 
+Competitive Landscape in Wet-AMD
+ 
+The current FDA approved market leaders for the treatment of wet-AMD are VEGF inhibitors, including Lucentis®, Eylea® and (off-label) Avastin®. In 2016, annual revenue (worldwide) was more than $8 billion for Lucentis® and Eylea® combined, despite significant off-label use of Avastin® (estimated to be 45-60% of the overall market). Lucentis®, Eylea®, and Avastin® are administered via frequent intravitreal injections directly into the eye. We are developing Squalamine for use in combination with Lucentis® and other anti-VEGF agents to improve visual function beyond that achieved with anti-VEGF therapy alone. There is no assurance that we will receive FDA approval for Squalamine for the treatment of wet-AMD, and if we receive it, there is no assurance we will be able to penetrate the market as a treatment in a significant percentage of patients.
+ 
+There are various other companies with drugs in Phase 1, 2, and 3 trials for the treatment of wet-AMD. We cannot assure that none of them will get to market before us or that Squalamine will be a better treatment. Programs currently in Phase 2 or Phase 3 trials include, but are not limited to: 
+ 
+
+● | Abicipar Pegol, a VEGF targeting DARPin molecule being developed by Allergan; 
+--+------------------------------------------------------------------------------------
+● | RTH258, an anti-VEGF agent being developed by Novartis; 
+● | X-82, an oral tyrosine kinase inhibitor being developed by Tyrogenex; 
+● | ALG-1001, an integrin targeting peptide being developed by Allegro Ophthalmics; 
+● | Zimura®, a C-3 inhibitor being developed by Ophthotech; 
+● | RG7716, a bispecific antibody to both VEGF-A and Ang2 being developed by Roche; 
+
+
+5
+-
+
+
+● | OPT-302, an inhibitor of VEGF-C and VEGF-D being developed by Opthea; and 
+--+-------------------------------------------------------------------------------
+● | PAN-90806, a selective inhibitor of VEGF being developed by Panoptica Inc. 
+
+ 
+All of these products in clinical development, with the exception of X-82 and PAN-90806, use an intravitreal route of administration much like the current standards of care. We believe that Squalamine has potential competitive advantages through its intracellular mechanism of action, multiple growth factor inhibition, and non invasive delivery. We also believe we have reduced the risk in our clinical program by utilizing our exploratory Phase 2 trial to identify and enroll a patient population in the MAKO study that we believe has the greatest potential for visual acuity benefits with combination therapy. However, clinical trial data from other clinical programs may negatively impact our ability to garner future financing or business collaborations, combinations or transactions with other pharmaceutical and biotechnology companies.
+ 
+Competitive Landscape in Sustained Release Drug Delivery
+ 
+There are a number of companies developing various forms of sustained release drug delivery platforms for ophthalmic applications. These include, but are not limited to:
+ 
+
+● | GreyBug with a biodegradable polymer microsphere/nanoparticle matrix system; 
+--+---------------------------------------------------------------------------------------------------------
+● | Aerie Pharmaceuticals with the PRINT® technology system for microparticle and nanoparticle formulations;
+● | Kala Pharmaceuticals with a mucus-penetrating particle (MPP) technology; and 
+● | Ocular Therapeutix with a proprietary hydrogel technology. 
+
+ 
+Some of these programs are in a more advanced clinical stage than us. Each of these may prove to be effective means to deliver drugs in a sustained manner and we cannot assure that none of them will get to market before us or that our technology will be a better drug delivery approach.
+ 
+Corporate Strategy
+ 
+We are in an ongoing business development process to seek and implement strategic alternatives with respect to Squalamine, based on the visual acuity benefit of Squalamine combination therapy seen in the Phase 2 study, including licenses, business collaborations or transactions with other pharmaceutical companies. Several third parties with whom we have been in discussions have expressed interest in a potential transaction for the Squalamine program. There can be no assurance, however, that any such discussions will result in an agreement.
+ 
+As part of the Company’s core ophthalmology strategy, on February 26, 2014, we entered into a Joint Venture Agreement and related agreements with Cold Spring Harbor Laboratory (“CSHL”) pursuant to which a joint venture, DepYmed Inc. (“DepYmed”), was formed to further preclinical and clinical development of Ohr’s Trodusquemine and analogues as PTP1B inhibitors for oncology and other undisclosed indications. DepYmed licenses research from CSHL and intellectual property from us. Ohr is a passive joint venturer in DepYmed.
+ 
+Patents and Other Proprietary Rights
+ 
+Patents and other proprietary rights are important to our business. It is our policy to seek patent protection for our assets, and also to rely upon trade secrets, know-how and licensing opportunities to develop and maintain our competitive position.
+ 
+We generally seek worldwide patent protection for our products and have foreign patent rights corresponding to most of our U.S. patents. We currently own or have exclusively licensed several issued U.S. patents and non-US patents and have additional U.S. and non U.S. pending patent applications. U.S. patents and U.S. patent applications 7981876, 8716270, 7728157, 20130281420 and 20150342874 cover the Squalamine formulations, composition of matter, combination therapy with other agents, methods of manufacture, and uses. Additional patent applications covering Squalamine have been filed.
+ 
+Under an agreement with Akina, Inc (“Akina”), we license patents, with an estimated expiration date of May 28, 2029, relating to nano/micro/macro particle fabrication technology for sustained release of molecules. The worldwide, exclusive, sub-licensable license was granted to SKS (now Ohr) for use in developing ocular products. Under the agreement with Akina, the parties will collaborate on at least three nano/micro particulate products and SKS (now Ohr) agreed to use commercially reasonable efforts to either develop the licensed technology by means of a partnership with a third party or by the filing of an investigational new drug application. Additional patent applications have been filed that expand on this platform technology and that are specific to our active development programs using the sustained release technology.
+ 
+
+
+6
+-
+
+Pursuant to the terms of the Uruguay Round Agreements Act, the term of a U.S. patent is 20 years and is measured from the effective date that the patent application was filed rather than the prior calculation of term which was 17 years from the date that the patent issued. Patent term may be extended beyond the 20-year period by patent term adjustment when the U.S. Patent Office fails to examine the patent application in a timely manner before issuance of the patent. We take advantage of patent term adjustment whenever available and expect to seek patent term extensions following marketing approval. Under the Drug Price Competition and Patent Term Restoration Act of 1984 (the “Hatch-Waxman Act”) and the Generic Animal Drug and Patent Term Restoration Act of 1988 (the “GADPTR Act”), a patent that claims a product, use or method of manufacture covering a drug may be extended for up to five years to compensate the patent holder for a portion of the time required for FDA review. Our issued U.S. patents expire between 2017 and 2029, excluding any extensions available under the Hatch-Waxman Act and the GADPTR Act.
+ 
+While we file and prosecute patent applications to protect our inventions, our pending patent applications might not result in the issuance of patents or our issued patents might not provide competitive advantages. Also, our patent protection might not prevent others from developing competitive products using related or other technology.
+ 
+In addition to seeking intellectual property protection via patents and licenses, we also rely upon trade secrets, know-how and continuing technological innovation, which we seek to protect, in part, by confidentiality agreements with employees, consultants, suppliers and licensees.
+ 
+The scope, enforceability and effective term of issued patents can be highly uncertain and often involve complex legal and factual questions. No consistent policy has emerged regarding the breadth of claims in pharmaceutical patents, so that even issued patents might later be modified or revoked by the relevant patent authorities or courts. Moreover, the issuance of a patent in one country does not assure the issuance of a patent with a similar claim scope in another country, and claim interpretation and infringement laws vary among countries, so we are unable to predict the extent of patent protection in any country. The patents we obtain and the unpatented proprietary technology we hold might not afford us significant commercial protection. Additional information regarding risks associated with our patents and other proprietary rights that affect our business is contained under the heading “Intellectual property litigation is increasingly common and increasingly expensive and may result in restrictions on our business and substantial costs, even if we prevail” and under the heading “Risk Factors”.
+ 
+There are no contested proceedings and/or third-party claims over any of our patents or patent applications.
+ 
+NUMBER OF PERSONS EMPLOYED
+ 
+At September 30, 2017, we had 4 full-time employees. In addition, we use numerous high level scientific, administrative, operations, and financial consultants, as well as Contract Research Organizations, on an as needed basis, to provide a cost efficient alternative to a large infrastructure build out to support our ongoing preclinical and clinical development programs. The Company anticipates hiring additional staff during fiscal 2018 to support the Phase 3 program for Squalamine and continued development of the sustained release platform programs.
+GOVERNMENT COMPLIANCE
+ 
+The Drug Development Process
+ 
+Regulation by government authorities in the United States and foreign countries is a significant factor in the research, development, manufacture, and marketing of our product candidates. All of our product candidates will require regulatory approval before they can be commercialized. In particular, human therapeutic products are subject to rigorous preclinical and clinical trials and other premarket approval requirements by the FDA and foreign authorities. Many aspects of the structure and substance of the FDA and foreign pharmaceutical regulatory practices have been reformed during recent years, and continued reform is under consideration in a number of jurisdictions. The ultimate outcome and impact of such reforms and potential reforms cannot be predicted.
+ 
+The activities required before a product candidate may be marketed in the United States begin with preclinical tests. Preclinical tests include laboratory evaluations and animal studies to assess the potential safety and efficacy of the product candidate and its formulations. The results of these studies must be submitted to the FDA as part of an IND, which must be reviewed by the FDA before proposed clinical testing can begin. Typically, clinical testing involves a three-phase process. In Phase 1, trials are conducted with a small number of subjects to determine the early safety profile of the product candidate. In Phase 2, clinical trials are conducted with subjects afflicted with a specific disease or disorder to provide enough data to evaluate the preliminary safety, tolerability, and efficacy of the product candidate. In Phase 3, large-scale clinical trials are conducted with patients afflicted with the specific disease or disorder in order to provide enough data to understand the efficacy and safety profile of the product candidate, as required by the FDA. The results of the preclinical and clinical testing of a therapeutic product candidate are then submitted to the FDA in the form of an NDA for evaluation to determine whether the product candidate may be approved for commercial sale. In responding to an NDA, the FDA may grant marketing approval, request additional information, or deny the application.
+ 
+
+
+7
+-
+
+Any approval required by the FDA for any of our product candidates may not be obtained on a timely basis, or at all. The designation of a clinical trial as being of a particular phase is not necessarily indicative that such a trial will be sufficient to satisfy the parameters of a particular phase, and a clinical trial may contain elements of more than one phase notwithstanding the designation of the trial as being of a particular phase. The results of preclinical studies or early stage clinical trials may not predict long-term safety or efficacy of our compounds when they are tested or used more broadly in humans.
+ 
+Approval of a product candidate by comparable regulatory authorities in foreign countries is generally required prior to commencement of marketing of the product in those countries. The approval procedure varies among countries and may involve additional testing, and the time required to obtain such approval may differ from that required for FDA approval.
+ 
+Other Regulations
+ 
+Various federal, state and local laws, regulations, and recommendations relating to safe working conditions, laboratory practices, the experimental use of animals, the environment and the purchase, storage, movement, import, export, use, and disposal of hazardous or potentially hazardous substances, including radioactive compounds and infectious disease agents, used in connection with our research are applicable to our activities. They include, among others, the U.S. Atomic Energy Act, the Clean Air Act, the Clean Water Act, the Occupational Safety and Health Act, the National Environmental Policy Act, the Toxic Substances Control Act, and Resources Conservation and Recovery Act, national restrictions on technology transfer, import, export, and customs regulations, and other present and possible future local, state, or federal regulation. The compliance with these and other laws, regulations and recommendations can be time consuming and involve substantial costs. In addition, the extent of governmental regulation which might result from future legislation or administrative action cannot be accurately predicted and may have a material adverse effect on our business, financial condition, results of operations and prospects.
+AVAILABLE INFORMATION
+ 
+The Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments thereto, are filed with the SEC. The Company is subject to the informational requirements of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and files or furnishes reports, proxy statements and other information with the SEC. Such reports and other information filed by the Company with the SEC are available free of charge on the Company’s website at http://ir.ohrpharmaceutical.com/all-sec-filings, as soon as reasonably practicable after we have electronically filed with, or furnished to, the SEC. The public may read and copy any materials filed by the Company with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of these websites are not incorporated into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
