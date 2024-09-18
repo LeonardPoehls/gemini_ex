@@ -1,0 +1,286 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.    BUSINESS
+Forward-Looking Statements
+This Annual Report on Form 10-K, including the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7, contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements may be identified by the use of forward-looking words such as “believe,” “may,” “will,” “estimate,” “continue,” “anticipate,” “intend,” “could,” “would,” “project,” “plan,” “expect,” “target,” “contemplate,” “predict,” “potential,” “ensure,” or the negative or plural of these words or similar expressions. These forward-looking statements include, but are not limited to, statements concerning the following:
+
+• | our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses, ability to generate cash flow, mix of revenue streams, and ability to maintain future profitability;
+
+
+• | anticipated trends, growth rates and challenges in our business and in the markets in which we operate;
+
+
+• | the effects of increased competition in our market;
+
+
+• | the impact and effectiveness of the 2016 Realignment Plan;
+
+
+• | the execution of our new business initiatives and changes in go-to-market strategies, product roadmap and development;
+
+
+• | our ability to sell our products, successfully enter new markets and manage our international expansion;
+
+
+• | our ability to timely and effectively acquire or develop new products that meet the needs and expectations of our market;
+
+
+• | our ability to increase adoption of our platform by our customers’ internal and external users;
+
+
+• | our ability to grow our external community business;
+
+
+• | our ability to protect our users’ information and adequately address security and privacy concerns;
+
+
+• | our ability to maintain an adequate rate of growth;
+
+
+• | our future expenses;
+
+
+• | our ability to effectively manage our growth;
+
+
+• | our ability to maintain, protect and enhance our brand and intellectual property;
+
+
+• | the attraction and retention of qualified employees and key personnel; and
+
+
+• | other risk factors included under "Risk Factors" in this Annual Report on Form 10-K.
+
+These forward-looking statements are subject to risks, uncertainties and assumptions that are difficult to predict. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. Please refer to Item 1A. Risk Factors in this Annual Report on Form 10-K for a discussion of reasons why our actual results may differ materially from our forward-looking statements. While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our expectations change.
+Overview
+We incorporated in Delaware in February 2001, and our mission is to empower people and organizations to connect, communicate and collaborate in order to improve the way work gets done. We believe that our products drive top line revenue growth and cost savings by unleashing creativity, driving innovation and improving productivity through increased involvement and collaboration within the enterprise, and through engagement with employees, customers and partners.
+We provide products that we believe improve business results by enabling a more productive and effective workforce through enhanced communications and collaboration both inside and outside the enterprise. Organizations deploy our products to improve the level of engagement, the quality of interaction and the overall relationship they have with their employees, customers and partners. Our traditional enterprise software product offerings, based on the Jive platform (the "Jive Platform"), are provided to customers as cloud-based, hosted or on-premise solutions. Our products are primarily offered on a subscription basis and can be used for internal or external communities. We generate revenues from product subscription license fees as well as from professional service fees for strategic consulting, configuration, implementation and training.
+Our software has been recognized as a leading platform by industry analysts. In 2016, Jive was ranked as a leader in The Forrester Wave: Enterprise Collaboration, Q4 2016 report, which analyzed the state of the market for collaboration software and evaluated nine of the most significant vendors. 
+2
+
+We sell our products primarily through a direct sales force, both domestically and internationally. As of December 31, 2016, we had 981 customers.
+2016 Highlights and Recent Developments
+In February 2016, Jive delivered an updated release of its “interactive intranet” employee community product and its external community products, including a redesign of our product portfolio and new optimized processes to engage employees, customers and partners. 
+Also, in February 2016, we introduced Jive WorkHub offerings representing packaged solutions focused on distinct verticals and lines of business including, the healthcare vertical, employee engagement and customer engagement. These out-of-the-box packages were developed to provide an easy way for customers to quickly adopt solutions built to meet their specific needs.
+In May 2016, the Company introduced the 2016 Realignment Plan intended to create a path to profitability for the Company and to re-balance staffing levels to better align them with the evolving needs of our business. 
+In October 2016, Jive entered into a lease with Water Tower Fee Owner, LLC for approximately 12,500 square feet of office space in Campbell, California with occupancy beginning in March 2017. In October, the Company separately entered into an amendment to its office lease with TTC Partners, LLC for the Company’s existing corporate headquarters in Palo Alto, California that provides for an early termination of such lease in March 2017. 
+In November 2016, Jive made the strategic decision to transition its cloud infrastructure to Amazon Web Services. The transition of our cloud infrastructure is intended to be completed by the end of 2017 and is anticipated to drive greater customer value by accelerating delivery of new cloud functionality. 
+In December 2016, Jive received sponsorship from an existing customer for the Federal Risk and Authorization Program, or FedRAMP, “in process” certification program.
+Jive Platform Offerings
+As we have described above, we deliver products that allow companies to connect, communicate and collaborate more effectively with employees, customers and partners. Our products provide the innovation, creativity and ease of use found in consumer applications combined with the security, flexibility and scalability necessary for enterprise deployment. The Jive Platform product offerings are delivered in two key configurations, Jive Internal (Jive-n) for employee networks, and Jive External (Jive-x) as a platform for customer and partner communities. These products can be expanded by adding optional modules, as well as connectors and integrations into existing enterprise systems and applications. Our Jive Platform products can also be extended to integrate cloud and customer-built applications through published application programming interfaces (“APIs”) and software development kits ("SDKs").
+Business Benefits
+
+• | Improve corporate communication and strategic alignment. Our products help our customers to improve and accelerate company communication and alignment. They increase the flow of ideas, recommend the most relevant content and deliver a comprehensive set of analytics that measure business impact.
+
+
+• | Improve employee productivity. Our centralized collaboration products and proprietary recommendation engine leverages relationships, expertise and areas of interest to efficiently connect employees with one another, simplify the process of finding people and information and substantially reduce duplicate tasks. Employees can also collaborate more effectively through sharing and commenting using our platform and leveraging our integrations with legacy business applications.
+
+
+• | Retain Corporate Memory. Our products assist our customers in preventing loss of institutional knowledge by allowing customers to retain and search critical communications and content developed over time. Our collaboration solutions can serve as a valuable repository for customer corporate memory.
+
+
+• | Enhance revenue opportunities. Our products help our customers to create and manage external communities, which can promote engagement, increase brand awareness, attract new customers, inspire new product ideas and deliver referrals to sales teams. Internal communities can also make our customers’ sales representatives more efficient by quickly connecting them with relevant information and expertise within the enterprise.
+
+3
+
+
+• | Lower operational costs. Our products help our customers reduce operating costs via communication efficiencies and improved knowledge management. Internally, our solution can replace or supplement aging intranets to reduce information discovery time for end-users, reduce ramp time for new hires and increase employee efficiency. Externally, our solution enables our customers to provide more effective and efficient support communities while significantly reducing customer support infrastructure expenses, including call centers.
+
+
+• | Increase customer retention. We enable enterprises to strengthen connections to their customers by establishing communities to support and enable their end-users to interact with each other. This support and interaction allows our customers to more quickly and effectively process end-user queries and feedback.
+
+Core Platform Capabilities and Features
+The Jive Platform includes the following capabilities and features:
+
+
+• | Comprehensive communication environment. Our platform enables corporate news, blogging, micro-blogging, discussions, content creation and direct messaging and aggregates these familiar methods of social communications into both streams and a social inbox to allow users to find relevant information quickly and easily.
+
+
+• | Content and collaboration. Our platform includes wikis, document sharing, an easy-to-use rich text editor and full-fidelity rendering of Microsoft Office and Adobe documents with inline commenting, allowing users to collaborate in real-time. Our platform enhances collaboration by allowing users to control access to content at the individual, group or document level.
+
+
+• | Engaging social features. Our platform provides a streamlined and intuitive user interface and enables commenting, sharing Web bookmarks, “liking,” reviews and rating capabilities designed to capture the attention of a user and drive interaction and adoption.
+
+
+• | Social networking capability. Our platform enables rich social profiles, visual enterprise directories, connections and expertise identification. Users can easily find, follow and access both people and data through structured spaces, including public and private social groups and projects. This provides users with continuous access to relevant and critical information. Our platform also integrates with social media companies, such as Twitter and Facebook, providing users with more sharing capabilities. 
+
+
+• | Reputation and recognition. Our platform provides a variety of mechanisms for users to be recognized for their contributions to the community and to proactively build their reputations, including community status leaderboards, user achievement badges, user rewards, and trending people and content.
+
+
+• | Search. Our platform includes advanced search capabilities to locate relevant people, content and groups using information captured in the enterprise work graph, such as users’ unique skills or profile information.
+
+
+• | External groups. Our platform enables an enterprise to expand its operating ecosystem, bringing discussions and questions in external communities back into the enterprise and allows internal users to create an external group for secure, private and ad-hoc collaboration with non-employees.
+
+
+• | Security. Our platform allows customers to control access to specific content and groups. In addition, it is designed to take advantage of and integrate with existing security and authentication systems.
+
+
+• | Connections and integrations with enterprise systems. Our platform can integrate with numerous enterprise systems, such as email and productivity applications, cloud office applications, storage applications, support and ticketing tools, as customer relationship management, enterprise resource planning, software configuration management or product lifecycle management systems, via our APIs and SDKs.
+
+
+• | Readily deployable and configurable. Our platform was developed to facilitate easy deployment with familiar interfaces. We offer our customers the ability to configure our solutions to deliver the specific functionality and user experience they want for their end-users along with the ability to modify the look and feel of our solutions to conform to their branding or other requirements.
+
+Recommendations
+The Jive recommendation engine is an innovative user interface that makes it easy to track, consume, manage and filter critical business information, communications and actions. A key component is a highly tuned enterprise activity stream that enables users to rapidly access, discover and interact with conversations, content and decisions. Our noise filtering capability addresses the challenges of information overload, helping users focus on mission critical and timely information. Additionally, the recommendation engine draws on real-time intelligence derived from the enterprise work graph to predict and recommend content, people and groups to users, based upon employee roles, positions and previous communications.
+4
+
+Integration and Extension
+The Jive Platform is a communication and collaboration hub, bringing together information and conversations from many different systems. In addition to the many integrations included with the Jive Platform, Jive provides extensive capabilities for integrating our platform with other systems. Jive provides rich developer APIs and tools that enable bi-directional exchange of content, conversation, streams and data between Jive and other systems. Many third-party developers have created commercial integrations that are available in the Jive Add-ons directory. Further, the APIs and developer tools are available for in-house IT teams to integrate and extend our platform based on company-specific requirements.
+Jive Anywhere
+Jive Anywhere enables users to import any content from a web browser into the Jive Platform. This feature automatically connects conversation, content and context within a user’s Jive network with any website or web application. Jive Anywhere helps users avoid complicated point-to-point integrations between their collaborative platform and other enterprise systems and websites by making it easy to discuss and share content with one click.
+Product Modules and Advanced Features
+Jive offers additional functionality in modules and advanced features built to integrate with the Jive Platform products.
+Enterprise Integrations. Jive provides several pre-built integrations with common content management applications, communication systems and systems of record, including the following:
+
+
+• | Microsoft Outlook. Enables users to interact with our platform from the familiar interface of Microsoft Outlook. Users can see activity streams and social profiles, comment on documents and blog posts and create status updates and discussions, from within Microsoft Outlook. Users can also turn email threads into discussions and post email attachments directly to our platform. Users can use the search feature to include people, emails, appointments and attachments from Microsoft Outlook, as well as documents and discussions from the Jive Platform.
+
+
+• | Microsoft Office. Users can collaborate on Microsoft Office documents, including simultaneously co-authoring across different Microsoft Office versions, publishing content directly to our platform and participating in document discussions directly within Microsoft Word, PowerPoint or Excel.
+
+
+• | Jive StreamOnce. Jive StreamOnce automatically feeds information into Jive from a wide range of sources such as email, activity streams, social media and content apps, consolidating streams in one place. Users can see and respond to these streams directly from the Jive Platform.
+
+
+• | Content management systems. Content management systems, such as Microsoft SharePoint, can be integrated into our platform so that content can be shared across our platform and these systems. Users can search our platform and content management systems simultaneously and can access our social capabilities from within these systems.
+
+
+• | Enterprise IM. Enterprise instant messaging systems can be integrated into our platform.
+
+
+• | Jabber and Webex. Through Jive’s partnership with Cisco, users can obtain product integrations between Jive and Cisco’s Jabber and WebEx communication products.
+
+Gamification. We include game mechanics as a standard feature. Our Gamification Modules expand on these core features to deliver a more personalized experience. Gamification makes it easier to create custom missions and competitions to kickstart user participation and drive user behavior, such as encouraging sales reps to complete training or customer service agents to answer customer questions in a timely fashion.
+Analytics. Jive Analytics provides detailed, easy-to-read metrics and reports for community managers, business leaders and individual users.
+External Groups. Users can collaborate with their entire extended team, including those outside the firewall. Security and permissions controls let users specify who sees what, without exposing confidential information to people outside the company or outside the relationship.
+Encryption at Rest. Jive Encryption at Rest provides a hardware-based security solution that’s non-disruptive, comprehensive and easy to use. The single-source solution increases overall compliance with industry and government regulations without compromising storage efficiency.
+5
+
+Enhanced Disaster Recovery. In the event of an extended interruption in hosting services, Jive makes every reasonable effort to restore customers’ instances as soon as possible. For customers with more stringent compliance requirements or for whom Jive is simply mission critical, we offer Enhanced Disaster Recovery services that include documented plans, recovery point and time objectives, as well as specific service level agreements (SLAs) if needed. 
+Ideation. Our Ideation module involves employees, customers and partners in the process of capturing, refining and prioritizing innovative ideas. Once an idea is submitted, users can vote it up or down, and discuss ways to improve the idea. Those managing the ideation process can categorize ideas to keep participants informed of progress.
+Jive Resonata. For our Jive-x Platform, Jive Resonata analyzes the activity in a Jive-x customer community and reveals the sentiments, behaviors and motivations that drive participation and satisfaction. It identifies a community’s champions and detractors, tracks trends and spots emerging problems.
+Mobile. For our Jive-n Platform, Jive offers its mobile Jive Daily service allowing customers’ employees to stay connected and engaged with the ability to access their interactive intranet on-the-go from their mobile device.
+Records Retention. Records Retention helps customers meet legal and compliance requirements in regulated industries. With Records Retention, customers can integrate the Jive product with their own retention and e-discovery systems. 
+Video. The Jive Platform includes the ability to embed videos in different content types and to create a secure video storage, management and streaming service as part of an internal or external community.
+Professional Services and Customer Support
+Our professional services team provides a range of offerings including strategy consulting, project management, technical expertise, and education and training. Our team can lead the design, implementation and launch of the Jive Platform and seeks to ensure that our solution meets the design and implementation parameters established by our customers with clear, measurable business benefits. We also provide post-launch support and on-going assistance to encourage and facilitate adoption within the enterprise.
+We offer training services to our customers and partners. We offer training either in-person or over the web and online educational classes. We also provide a variety of training videos and quick start guides that are available online. Our education offerings are targeted at training partners, users, community managers and system administrators.
+Our global customer support organization provides both proactive and customer-initiated support. Assistance is available by email, telephone and through our online Jive community, called JiveWorks, built on our social business platform. Customers can track the status and relevant information relating to their queries in real-time and have access to a wide range of information sharing utilities that facilitate access to both internal and external community feedback.
+Our support team is staffed with experienced support specialists and engineers who have experience with the software systems with which our products integrate. We engage in regular training and certification processes as new products and technologies are introduced.
+Our basic deployment includes “Silver Level” support. Our customers may contract for increased levels of support (“Gold Level” or “Platinum Level”), which provide for higher required service levels for reduced response times, as well as additional support services.
+Technology and Operations
+Our product portfolio brings the Jive experience to a broad set of platforms and applications and is designed to bring powerful communication capabilities and valuable context to users, regardless of where or how they are working. Our platform can be accessed from mobile phones, tablets and desktop computers; as a browser, Microsoft Office or SharePoint plugin; and through a rich set of REST, JavaScript and Objective C APIs. System integrators, third-party vendors and customers leverage our APIs to extend, customize and integrate with our platform.
+6
+
+Our core application is written primarily in Java and is designed to run on both public and private cloud deployments. It runs on the Linux operating system and is compatible with Microsoft SQL Server, MySQL, Oracle and PostgreSQL. In our public cloud, we are developing and porting an increasing portion of our features to multi-tenant architectures. Through connectivity to our cloud, private cloud deployments can also access such functionality, which includes activity streams and mobile. The Jive Platform integrates with existing enterprise systems and can be extended with new functionality through the utilization of a broad set of APIs. These APIs facilitate the building of custom integrations to our platform.
+In our cloud, hosted and on-premise offerings, our customers can customize our platform to meet their enterprise requirements for branding and security, through customer-specific domain names, SSL encryption and other mechanisms.
+We host our cloud and hosted communities for hundreds of our customers and millions of end-users. We work with large data center vendors to provide the international foundation of our social business platform. Our enterprise-class hardware platforms provide high levels of performance, flexibility and security. We currently utilize multiple data center facilities located in North America and Europe. Each facility utilizes multiple network providers, as well as services to help ensure security, reliability, redundancy and performance. We maintain and operate additional facilities in geographically diverse locations for offsite backup storage and disaster recovery.
+We recently made the decision to transition our cloud offering infrastructure to Amazon Web Services (AWS) and expect to substantially complete the transition of our cloud customers to AWS by the end of 2017. Data for customers with cloud offerings will be hosted either in AWS data centers in United States or in Europe.
+Our architecture and security teams are based in our Palo Alto, California office, which will be moving to our new Campbell, California facility in the first quarter of 2017, and in Portland, Oregon, with our network operations center and deployment teams based in Portland, Oregon and the United Kingdom.
+Sales and Marketing
+We sell our platform primarily through our global direct sales organization. Our direct sales team is comprised of inside sales and field sales personnel who are organized by prospect company size and geographic regions, including the North America, Europe and Asia Pacific. We also work with channel partners, including resellers, implementation partners, leading global outsourcing vendors and system integrators domestically and internationally. As of December 31, 2016, we had 156 employees in sales and marketing and we had more than 60 Jive Alliance Partners, which create referrals and resell our platform worldwide.
+We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs. Our marketing programs target company executives both inside and outside of information technology organizations, senior business leaders and other technology professionals. Our principal marketing programs include:
+
+• | use of our website to provide product and company information, as well as learning opportunities for potential customers;
+
+
+• | regional field marketing events for customers and prospects;
+
+
+• | in house and contracted sales development teams who prospect for new leads and respond to incoming leads to convert them into new sales opportunities;
+
+
+• | participation in, and sponsorship of, user conferences, trade shows and industry events;
+
+
+• | customer programs, including user meetings and our online customer community;
+
+
+• | online marketing activities, including direct email, online web advertising, blogs and webinars;
+
+
+• | public relations and social networking initiatives;
+
+
+• | cooperative marketing efforts with partners, including joint press announcements, joint trade show activities, channel marketing campaigns and joint seminars; and
+
+
+• | sponsorships and participation in marketing programs in the broader Jive ecosystem.
+
+In addition, we host a periodic user conference, called JiveWorld, where current and potential customers participate in a variety of programs designed to help drive business results through the use of our platform. This conference features a variety of prominent keynote and customer speakers, panelists and presentations focused on businesses of all sizes, across a wide range of industries and lines of business. Attendees also gain insight into our recent product releases and enhancements and participate in interactive sessions that give them the opportunity to express opinions on new features and functionality.
+7
+
+Customers
+We generally sell our platform and related services through our global sales organization directly to businesses, government agencies and other enterprises. As of December 31, 2016, we had 981 Jive Platform customers in diverse industries, including consulting services, education, financial services, healthcare, life sciences, manufacturing, retail, telecommunications and technology. No individual customer represented more than 10% of our total revenues in 2016, 2015 or 2014.
+The following table sets forth a representative list of a selection of our largest customers by industry category:
+
+Financial Services | Healthcare | Retail 
+The Bank of New York Mellon | Aetna | Adeo Services 
+Credit Suisse | Humana | GAP 
+Fidelity | Spectrum Health | lululemon athletica 
+Liberty Mutual | Swedish Partners Medical Group | NBC Universal Media 
+Societe Generale | United Health Group | Starwood Hotels and Resorts
+Technology | Telecommunications | 
+Adobe | Alcatel-Lucent | 
+Cisco | Motorola Solutions | 
+EMC Corporation | Sprint | 
+Hitachi Data Systems | T-Mobile | 
+McAfee | Verizon | 
+
+Research and Development
+We base a meaningful amount of our product development on the needs of our customers. We work closely with our user community to continually improve and enhance our platform through organic development and the acquisition of new products and features. We emphasize collaboration with customers throughout all areas of our organization in the development process. Our online Jive community, known as JiveWorks, is a collaborative workspace for customers to suggest and comment on new features and functionality. This input is utilized in many of our development plans and provides valuable customer insight that we use to establish the priorities of our engineering team. We also incorporate feedback from our employees, all of whom use our products and test alpha versions before each major release.
+We also focus our research and development efforts on rapidly delivering new products and upgrades of our existing products to our customers. We leverage open source technology wherever appropriate and contribute many of the improvements we make back to the open source community. We maintain healthy code and adhere to sound engineering practices to ensure a fast pace of development. We have teams dedicated to developing and testing innovative new products and users' experiences, advancing our core architecture and improving the speed and completeness of our automated continuous integration pipeline.
+As of December 31, 2016, we had 173 employees in research and development.
+Competition
+The overall market for social business platform solutions is rapidly evolving, highly competitive, and subject to changing technology, shifting customer needs and frequent introductions of new products and services. We currently compete with large, well-established multi-solution enterprise software vendors, such as Microsoft, IBM and salesforce.com, inc., enterprise software application providers which are adding social features to their existing applications and platforms, such as Facebook, and smaller specialized software vendors. Facebook recently launched Workplace by Facebook to provide an enterprise version of its social network service. Additionally, in December 2016, Microsoft Corporation acquired LinkedIn, Inc., in an effort to combine Microsoft's existing products and services with LinkedIn's professional networking capabilities. In January 2017, Slack introduced Slack Enterprise Grid, a new version of its collaboration application designed specifically for large-scale enterprises. Our primary competition for internal communities currently comes from established enterprise software companies that have greater name recognition, larger customer bases, much longer operating histories and significantly greater financial, technical, sales, marketing and other resources than we have and are able to provide comprehensive business solutions that are broader in scope than the solution we offer. Additionally, we compete with smaller companies who may be able to adapt better to changing conditions in the market.
+8
+
+We expect that the competitive landscape will change as the market for social business platforms consolidates and matures.
+We believe the principal competitive factors in our market include the following:
+
+• | total cost of ownership;
+
+
+• | breadth and depth of product functionality;
+
+
+• | brand awareness and reputation;
+
+
+• | ease of deployment and use of solutions;
+
+
+• | level of customization, configurability, security, scalability and reliability of solutions;
+
+
+• | ability to innovate and respond to customer needs rapidly;
+
+
+• | perceived return on investment through the use of social technologies;
+
+
+• | size of customer base and level of user adoption; and
+
+
+• | ability to integrate with legacy enterprise infrastructures and third-party applications.
+
+We believe that we compete favorably on the basis of these factors. Notwithstanding the fact that some of our competitors offer the basic versions of their products for free or as low-cost additions to other software suites, we have demonstrated that customers are willing to pay for the business value that our platform delivers. Our ability to remain competitive will depend, to a great extent, upon our ongoing performance in the areas of product development and customer support.
+Intellectual Property
+We protect our intellectual property rights by relying on federal, state and common law rights, as well as contractual restrictions. We control access to our proprietary technology by entering into confidentiality and invention assignment agreements with our employees, contractors and consultants, and confidentiality agreements with third parties. We also rely on a combination of trade secret, copyright, trademark, trade dress and domain name reservations to protect our intellectual property. We have continued to seek patent protections for our technology and processes. We pursue the registration of our domain names and trademarks and service marks in the United States and in certain locations outside the United States. As of December 31, 2016, we had nine patent applications pending and 10 patents registered.
+Circumstances outside our control could pose a threat to our intellectual property rights. For example, effective intellectual property protection may not be available in the United States or other countries in which our products and solutions are distributed. Also, protecting our intellectual property rights is costly and time-consuming and the efforts we have taken to protect our proprietary rights may not be sufficient or effective. Any impairment of our intellectual property rights could harm our business or our ability to compete and harm our operating results.
+Employees
+As of December 31, 2016, we had 595 regular full-time employees, including 44 in hosting, 73 in support, 56 in professional services, 173 in research and development, 156 in sales and marketing and 93 in general and administrative roles. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relations with our employees to be good.
+Segments
+We sell a single platform, have one business activity and there are no segment managers who are held accountable for operations, operating results or plans for levels or components below the consolidated unit level. Accordingly, we have determined that we operate in a single reporting segment, software sales and services.
+Geographic Information
+See Note 13 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Form 10-K.
+Seasonality
+See Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, for information regarding seasonality.
+9
+
+Backlog
+See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Key Metrics” for information regarding our backlog.
+Available Information
+We file annual, quarterly and other reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”) under the Securities Exchange Act of 1934, as amended (“Exchange Act”). We also make available, free of charge on our website at www.jivesoftware.com, our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after they are filed electronically with the SEC. You can inspect and copy our reports, proxy statements and other information filed with the SEC at the offices of the SEC’s Public Reference Room located at 100 F Street, NE, Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the operation of Public Reference Rooms. The SEC also maintains an Internet website at http://www.sec.gov/ where you can obtain most of our SEC filings. You can also obtain paper copies of these reports, without charge, by contacting Investor Relations at (669) 282-4000.

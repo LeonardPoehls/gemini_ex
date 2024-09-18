@@ -1,0 +1,325 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+Introduction
+ 
+SpectraScience was incorporated in the State of Minnesota on May 4, 1983 as GV Medical, Inc. In October 1992, GV Medical changed its name to SpectraScience, Inc. The Company focuses on developing its WavSTAT ® Optical Biopsy System (“WavSTAT”). The WavSTAT employs a non-significant risk technology that optically illuminates tissue in real-time to distinguish between normal and pre-cancerous or cancerous tissue.
+ 
+Our principal executive offices are located at 11568 Sorrento Valley Rd., Suite 11, San Diego, CA 92121. You can reach us by telephone at (858) 847-0200; by fax at (858) 847-0880; or by email at info@spectrascience.com. Our website address is www.spectrascience.com. The information contained on our web site is not deemed to be a part of this document.
+ 
+Acquisition of Luma Imaging Corporation Assets
+ 
+On November 6, 2007, the Company acquired 100% of the shares of LUMA Imaging Corporation (“LUMA”) from LUMA’s shareholders in consideration for 11.2 million restricted shares of SpectraScience common stock.
+ 
+LUMA had developed and received approval from the U.S. Food and Drug Administration (the “FDA”) for an optical, non-invasive diagnostic imaging system that was proven to more effectively detect cervical cancer precursors than using conventional means alone (i.e. colposcopy). During the fiscal year ended December 31, 2010, the Company wrote off the remaining fair value of LUMA inventory in order to focus on the continued development and marketing of the WavSTAT. The Company retained the intellectual property of LUMA for use in the development of future generations of the WavSTAT System, in particular as it relates to the development of optical detection technology. The intellectual property consisted of a total of approximately 30 issued U.S. patents, certain foreign patents and 28 additional patent applications.
+ 
+Products and Markets
+ 
+SpectraScience has developed a technology platform to instantly determine if tissue is normal, pre-cancerous or cancerous, without the need for a physical biopsy. The Company received FDA approval to market its proprietary and patented WavSTAT3 optical biopsy system capable of determining instantaneously whether colon tissue is normal, pre-cancerous or cancerous without physically removing tissue from the body and without waiting days for pathology results. The Company’s current improved colon diagnostic product, the WavSTAT4, will require future FDA approval in order to be sold in the United States. The WavSTAT4 has a CE mark, is approved for sale, and is in the process of being marketed, in the European Union. The Company plans to develop an esophageal diagnosis application and to explore additional applications for the detection of pre-cancerous and cancerous tissue in various tissues of the body.
+
+3
+-
+
+
+The WavSTAT4 Optical Biopsy System operates by using cool, safe UV laser light to optically illuminate and analyze tissue, enabling the physician to make an instant diagnosis during endoscopy when screening for cancer and, if warranted, to begin immediate treatment during the same procedure. The WavSTAT4 uses laser-induced auto-fluorescence to obtain spectral information from tissue at the suspected site. The system is classified as a non-significant risk device which transmits low-level UV laser light energy through an optical fiber to the tissue via the working channel of an endoscope. The tissue in contact with the optical fiber absorbs the light and the resulting tissue auto-fluorescence spectra is collected by the same optical fiber and returned to a detector within the WavSTAT4 console for processing. The system analyzes the spectral data and displays the results graphically for the user as normal tissue (green light), suspected pre-cancerous tissue, or cancerous tissue (red light). Data are recorded and saved redundantly in both flash memory and on a hard drive within the system. The WavSTAT4 has been tested at leading medical centers with results demonstrating statistically significant improvement in physician accuracy in the ability to detect pre-cancerous and cancerous tissue during endoscopy.
+ 
+The WavSTAT Optical Biopsy System was specifically designed to serve as a technology platform to facilitate multiple medical applications for cancer diagnosis. We see additional opportunities for this core technology in esophageal cancer and in several other large as-yet-unexplored markets which include lung, skin, stomach, prostate and bladder cancer diagnosis. The Company is currently exploring these additional applications of its platform for these markets, and is analyzing feasibility of the use of its technology and the revenue opportunity for each market.
+ 
+Colorectal Cancer
+ 
+The American Cancer Society reports colorectal cancer as the third most common cancer diagnosed in the U.S. with approximately 140,000 new cases annually. With an estimated 50,000 deaths annually, colorectal cancer is second only to lung cancer as the leading cause of cancer death in the United States. Candidates for colorectal cancer screening include all persons, with or without symptoms, over the age of 50 (or an estimated 80-90 million people in the U.S.) with the screening market expected to increase 20% over the next ten years. Demographic trends in Europe are very similar.
+ 
+Colorectal cancer is primarily diagnosed through the discovery and histo-pathologic analysis of polyps. Colon polyps are small masses of tissue found in the lining of the colon that may be either benign or malignant. The most commonly performed and generally accepted colorectal cancer screening procedure to detect polyps is an endoscopy of the colon, known as a colonoscopy. According to the American Society for Gastrointestinal Endoscopy guidelines for colorectal cancer screening, large polyps (greater than 1 centimeter) are generally removed as a matter of course and sent to pathology for evaluation. On the other hand, the guidelines further state that small polyps (less than 1 centimeter which account for approximately 85% of all polyps) require, “individualized treatment on a case by case basis”. The clinical utility of the WavSTAT4 occurs when the physician must decide the best course of treatment for small polyps. When small polyps are found, it is left to the physician’s discretion based primarily on visual assessment, whether to remove the polyp, place the patient under surveillance, or to perform a physical biopsy. If a biopsy is performed and cancer or pre-cancer is documented by pathology, the polyp must then be removed. Historically in this context, approximately 70% of the physical biopsies taken are determined to be benign. The WavSTAT4 can significantly reduce the procedure cost and attendant complication rates by immediately classifying these polyps as benign without the need for removal and subsequent pathology. The WavSTAT4 was specifically designed to be used during colonoscopy to aid and improve the physician’s ability to identify small polyps as normal, pre-cancerous or cancerous tissue in real time.
+ 
+
+4
+-
+
+
+Relative to colorectal cancer, five-year survival rates as reported by the American Cancer Society are as follows:
+ 
+
+Approximately 90% of patients live five years or longer if the cancer is detected and treated at an early stage; 
+---------------------------------------------------------------------------------------------------------------------------------------------
+Only 70% of patients live five years or longer if the cancer spreads outside the polyp and colon to nearby organs or lymph nodes; and 
+The five-year survival rate for those patients in whom the cancer has spread further to the liver or other organs is only 12%. 
+
+ 
+Early detection of colorectal cancer is essential to long-term survival. Unfortunately, the American Cancer Society reports that only 39% of colorectal cancers are detected at an early stage. Clinical studies indicate that colorectal cancer screening procedures result in earlier detection and can prevent as many as 20 to 40% of potential colorectal cancers and subsequently reduce colorectal cancer deaths by 30 to 50%. Colorectal screening procedures not only save lives, they also save money. If a patient is not diagnosed until symptoms develop and the disease has spread, or if misdiagnosed at an early stage, the chance of patient survival plummets and more advanced treatment regimens such as surgery, chemotherapy and/or radiation become necessary.
+ 
+Based on the results demonstrated by our own clinical studies, we believe that using the WavSTAT will:
+ 
+
+Significantly improve the physician’s diagnostic accuracy in determining whether small polyps in the colon are pre-cancerous or cancerous; 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Improve patient survival rates by earlier detection and treatment of cancers, and more importantly pre-cancers, by more accurately identifying cancers or pre-cancers the physician may misdiagnose; 
+Improve the patient’s quality of life by providing an immediate analysis of the tissue, thereby eliminating the anxiety of waiting several days to hear the pathology results; 
+Enable the physician to diagnose and treat the patient during the same endoscopy procedure with the same biopsy instrument, thereby potentially reducing the need for scheduling a second expensive endoscopy for treatment purposes; 
+Significantly reduce the number of physical biopsies performed and reduce the number of unnecessary follow-on endoscopies performed; and 
+Reduce the number of misdiagnosed patients, thereby eliminating the need for more costly advanced treatments such as surgery, chemotherapy and/or radiation. 
+
+Esophageal Cancer
+ 
+In February 2016, the Company acquired the assets of Oncoscope from the U.S. Trustee appointed to Oncoscope’s Chapter 7 filing under the United States Bankruptcy Code. In addition, the Company entered into a license agreement with Duke University to make use of certain technology related to esophageal cancer research that had been previously licensed to Oncoscope.
+ 
+Barrett’s esophagus is a condition of the lining of the lower esophagus thought to be caused primarily by Gastro Esophageal Reflux Disease (“GERD”), more commonly known as chronic heartburn. Barrett’s esophagus is considered to be a pre-malignant stage and a precursor to esophageal cancer. Physicians typically recommend that persons with chronic heartburn should have an endoscopy to look for Barrett’s esophagus. Some Barrett’s esophagus patients will advance further to a stage where additional abnormal tissue called dysplasia is present. Dysplasia is known to be the next progressive step toward esophageal cancer and is categorized as either low-grade or high-grade.
+ 
+
+5
+-
+
+
+Barrett’s esophagus, dysplasia and esophageal cancer patients are presently diagnosed via endoscopy of the esophagus with the physician taking multiple random physical biopsies of the esophageal lining; this is a significantly invasive procedure. It is critical that high-grade dysplasia is correctly diagnosed because physicians frequently recommend surgical resection, radio frequency ablation or removal of the esophagus in such an event. Unfortunately, dysplasia is difficult to find and/or diagnose because it is not reliably visible to the physician during standard endoscopy. The result is that physical biopsies (as many as 20 at once) are performed either randomly or in a geometric pattern in the esophagus in the hope of finding any diseased tissue. Current medical practice typically follows the guidelines described below:
+ 
+
+Patients with chronic GERD (severe heartburn) receive a screening endoscopy of the esophagus with multiple biopsies to check for Barrett’s esophagus; 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Patients with Barrett’s esophagus receive an endoscopy with multiple biopsies every year to check for dysplasia; 
+Patients with Barrett’s esophagus that has progressed to include low-grade dysplasia receive an endoscopy with multiple biopsies every six months to check for high-grade dysplasia; and 
+Patients with Barrett’s esophagus that has progressed to include high-grade dysplasia receive an endoscopy with multiple biopsies every three months to check for cancer and/or may be referred for esophageal surgical resection, photodynamic therapy or electrical (“RF”) ablation. 
+
+ 
+The relatively high death rate associated with esophageal cancer typically results from a lack of early diagnosis with the outcome being that the cancer has grown to an advanced stage. As described above, the frequency of endoscopic surveillance for these patients increases as the pre-cancerous stages advance in hopes of providing the earliest possible diagnosis.
+ 
+Government Regulation
+ 
+Extensive government regulation and standards, both in the United States and internationally, standardize and govern many processes for design, manufacture, labeling, distribution and marketing of our products, particularly regarding product safety and effectiveness. In the United States, medical devices are subject to review and clearance or approval by the FDA. The FDA and international bodies also govern the clinical testing of medical devices. If we fail to comply with applicable requirements prior to marketing the WavSTAT4 system in the United States, we could face:
+
+fines, injunctions or civil penalties; 
+----------------------------------------------------------------------------
+recall or seizure of our products; 
+criminal prosecution; 
+a recommendation that we not be allowed to contract with the government; 
+total or partial suspension of production; 
+inability to obtain pre-market clearance/approval for our devices; and 
+withdrawal of marketing approvals. 
+
+ 
+The Food, Drug, and Cosmetic Act, the Public Health Service Act, and Safe Medical Devices Act of 1990 and other federal statutes and regulations also govern or influence the storage, recordkeeping,, advertising and promotion of such products.
+ 
+
+6
+-
+
+
+In the United States, medical devices are assigned to one of three classes depending on the controls the FDA deems necessary to ensure the safety and effectiveness of the device. The WavSTAT4 system is a Class III device; this is FDA’s most highly regulated category in the Center for Devices and Radiological Health (“CDRH”).. In addition to adhering to general controls to which all medical devices are subject, and special controls such as performance standards, post-market surveillance and patient registries, a Class III device must receive pre-marketing approval to ensure its safety and effectiveness prior to commercialization. Through our ongoing clinical evaluations, the Company has developed a program to obtain this approval for the WavSTAT4 system in the United States.
+ 
+FDA approval to distribute regulated devices can be obtained in one of two ways. If a new or significantly modified device is “substantially equivalent” to an existing legally marketed device, the new device can be commercially introduced after filing a 510(k) pre-market notification with the FDA and the subsequent issuance by the FDA of an order permitting commercial distribution. Technically, this process is called a marketing “clearance.” Changes to such cleared devices that do not significantly affect safety or effectiveness may be made without an additional 510(k) notification. We received 510(k) clearance from the FDA for our disposable and reusable Optical Biopsy Forceps in December 1996.
+ 
+A second, more comprehensive process applies to a Class III device that is not substantially equivalent to an existing product or has been determined by FDA to be in this Class. Typically, the applicant (Sponsor) must conduct clinical trials in compliance with testing protocols and patient “informed consent” forms approved by an Institutional Review Board (“IRB” or the “Safety Committee”) at each participating research institution. These boards oversee and approve all clinical studies at their institutions (in some cases a central IRB may approve studies at multiple locations). Second, a Pre-Market Approval (“PMA”) application must be submitted to the FDA describing (i) the clinical trial results, (ii) the device and its components, (iii) the methods, facilities and controls used for manufacture of the device, (iv) proposed labeling and advertising literature, and (v) the demonstration that the product is safe and effective.
+ 
+If the FDA determines, upon receipt of the PMA application, that the application is sufficiently complete to permit a substantive review, they will accept the application for filing. Review of a PMA typically takes from six months to two years from the date the application is accepted for filing, but can take longer. Often, during the review period, a panel primarily composed of clinicians and acting as an advisory committee will be convened to review, evaluate, and provide non-binding recommendations to the FDA as to whether the device should be approved. Toward the end of the application review process, the FDA generally will conduct an inspection of the manufacturer’s facilities to ensure that the facilities are compliant with the applicable Quality System Regulations requirements.
+ 
+If FDA evaluations of both the PMA application and the manufacturing facilities are favorable, the FDA will issue either an “approval” letter or a conditional approval letter that contains a number of conditions that must be satisfied in order to secure final approval of the PMA application. When and if those conditions are fulfilled to the satisfaction of the FDA, they will issue the approval letter, authorizing commercial marketing of the device for certain indications for use. If the FDA’s evaluation of the PMA application or manufacturing facilities is not favorable, the FDA will deny approval of the application or issue a “not approvable letter.” The FDA may also determine that additional clinical trials are necessary, in which case pre-market approval could be delayed for several years while additional clinical trials are conducted and submitted in an amendment to the PMA application. In some cases, the FDA may grant approval with a requirement for additional clinical data generated as part of a post-approval requirement. The pre-market approval process can be expensive, uncertain and lengthy, and a number of devices for which FDA approval has been sought have never been approved for marketing.
+ 
+Changes to approved devices are governed by a variety of submission supplement types and typically FDA is involved with most changes, improvements and labeling during the life of Class III products. In addition products manufactured or distributed pursuant to FDA clearances or approvals, are also subject to other pervasive and continuing regulation by the FDA including record-keeping requirements, recall reporting and reports of adverse experiences when using the product. Products exported also have a variety of regulatory requirements to which the company must comply.
+ 
+Device manufacturers are required to register their establishments and list their devices with the FDA and certain state agencies, and are subject to periodic inspections. The Food, Drug, and Cosmetic Act requires devices to be manufactured in accordance with Quality System Requirements (QSR) regulations, which impose procedural and documentation requirements upon a manufacturer and any of its contract manufacturers with respect to manufacturing and quality assurance activities. The regulation and Standard described below also require design controls and maintenance of service and customer complaint records.
+ 
+
+7
+-
+
+
+The International Standard, ISO 13485, is similar to the FDA’s QSR. The company is also inspected against this standard by a retained “Notified Body.” The frequency and depth of the inspections of PMA products are generally more detailed and frequent than products cleared via the 510(k) process. The company’s past two inspections by the FDA did not result in any adverse findings. Similarly, the company’s ISO inspections have confirmed recertification of our CE Mark for export.
+ 
+Changes in existing requirements or adoption or new requirements or policies could adversely affect our ability to comply with regulatory requirements. Failure to comply with regulatory requirements could have a material adverse effect on our business, financial condition or results of operations.
+ 
+The Company submitted a PMA for market clearance of the WavSTAT Optical Biopsy System for use during endoscopic screening of the colon in September 1998, and was approved by the FDA in November 2000. Based upon beta site outcome clinical studies, features were added to the WavSTAT system, and submitted as a supplement to the original filing in September 2001. The supplement for the WavSTAT2 system was approved by the FDA in November 2001. The Company submitted a supplement for approval of WavSTAT3 system in February 2002 and approval was received in August 2002. We anticipate, but do not know for certain, that product improvements requiring approval, or any new applications, such as for the WavSTAT4 system will be submitted as supplements to the original filing rather than as an original PMA filing.
+ 
+We are also subject to numerous other federal, state and local laws relating to such matters as safe working conditions, manufacturing practices, environmental protection, fire hazard control and disposal of hazardous or potentially hazardous substances. We are not aware of any manufacturing methods for the WavSTAT4 system that will require extensive or costly compliance with environmental regulations. However, since laws change over time there can be no assurance that (i) we will not be required to incur significant costs to comply with all applicable laws and regulations in the future, or (ii) the impact of changes in those laws or regulations or adoption of new laws and regulations will not have a material adverse effect upon our ability to do business.
+ 
+European Union and Other Countries
+ 
+The European Union encompasses most of the major countries in Europe. The European Union has adopted numerous directives and standards regulating the design, manufacture, clinical trial, labeling, and adverse event reporting for medical devices. The principal directive prescribing the laws and regulations pertaining to medical devices in the European Union is the Medical Devices Directive, 93/42/EEC.
+ 
+As noted above, devices that comply with the requirements of the Medical Devices Directive and applicable International Standards Organization (ISO) standards are entitled to bear the CE mark. SpectraScience compliance has been confirmed by our Notified Body to market and sell our medical device products in the European Union and other countries that accept the CE Mark. Generally, companies must go through the ISO certification process in order to obtain the CE mark. SpectraScience has held the appropriate ISO certifications since July 2000, and the CE mark authorization was formally issued in October 2000. In order to maintain this certification SpectraScience undergoes a yearly audit by our Notified Body. Our last audit was in 2015, when we confirmed the certification for EN 13485:2003, which is the medical device adaptation of the ISO 9001 standard. There can be no assurance that we will be able to maintain international certification or CE mark authorization for our products or product components. Furthermore, even though a device bears the CE Mark, practical complications may arise with respect to market introduction because of differences among countries in areas such as labeling requirements and reimbursement practices. We may be required to spend significant amounts of capital in order to comply with the various regulatory requirements of foreign countries and achieve reasonable payment for our products.
+ 
+Product Research and Development
+ 
+The Company invested significant capital in research and development for the fiscal years ended December 31, 2016 and 2015 as continued improvements were made to the WavSTAT4 Optical Biopsy System. Research and development expenses were approximately $637,000 and $719,000 for the fiscal years ended December 31, 2016 and 2015, respectively.
+
+8
+-
+
+Compliance with Environmental Laws
+ 
+Management has reviewed the cost of compliance with environmental laws and deemed the cost of such compliance to be immaterial for the fiscal year ended December 31, 2016.
+Distribution and Sales
+ 
+Our objective is to become a leader in the development and commercialization of advanced minimally-invasive diagnostic products with the capability to differentiate in real-time between healthy, and pre-cancerous or cancerous tissue. During 2015, our sales and marketing efforts have been, and will continue to be focused on marketing the WavSTAT4 System in the colorectal diagnostic market. The WavSTAT4 represents a significant redesign and improvement over previous WavSTATs and the WavSTAT4 was completed and available to market in December 2011. We envision particular emphasis on selling the WavSTAT System in international markets and in June 2012 the Company entered into a distribution agreement with PENTAX Europe GmbH (“PENTAX”), for the sale of the WavSTAT in international markets.
+ 
+Since June 2012, the Company has sold to PENTAX approximately $707,000 of mobile consoles and disposable forceps. PENTAX continues to be a distributor on a non-exclusive basis. We are exploring other distribution channels to develop marketing programs and sell the WavSTAT in the EU. A precondition to broad sales adoption in the major markets of Europe is the completion of a series of marketing evaluations in each of these major markets conducted by key opinion leaders. These evaluations are required to obtain widespread adoption of the WavSTAT System in each European country. We are conducting these multi-national, multi-center studies in order to provide current clinical results and validate economic impact. These evaluations combine both the aspects of clinical efficacy as well as economic impact and are critical data points. During 2017 our focus will be on moving these evaluations to completion.
+ 
+Approximate sales by principal geographic area (as a percentage of sales) for fiscal years ended December 31, 2016 and 2015 were as follows:
+ 
+
+ | 2016 | | | 2015
+------------------------+------+-------+---+-----
+Domestic sales | | 82.0 | % | | - | %
+Foreign sales: | | | | | | 
+Europe | | 18.0 | | | 100.0 | 
+Total foreign sales | | 18.0 | | | 100.0 | 
+Total sales | | 100.0 | % | | 100.0 | %
+
+Major Customer
+ 
+During the two years ended December 31, 2016 and 2015, we had sales to the following customers which represented greater than 10% of our annual revenue:
+ 
+
+ | December 31, | 
+----------------+--------------+------
+ | 2016 | | 2015 | 
+Duke University | $ | 4,200 | | $ | - 
+AMG | $ | 950 | | $ | - 
+PENTAX | $ | - | | $ | 6,600
+
+
+9
+-
+
+
+Third-Party Reimbursement
+ 
+If and when the Company secures FDA approval, we expect to market and sell the WavSTAT4 System primarily through managed care hospitals and clinics. In the United States, the purchasers of medical devices generally rely on Medicare, Medicaid, private health insurance plans, health maintenance organizations and other sources of third party reimbursement for health care costs, to reimburse all or part of the cost of medical devices and/or the procedure in which the devices are used. Significant sales of our products will, in part, be dependent on the availability of adequate reimbursement from these third party payers for procedures carried out using our products. We believe that less invasive procedures generally provide less costly overall therapies compared to conventional drugs, surgery and other treatments. We anticipate hospital administrators and physicians will justify the use of our products by the cost and time saving recognized and clinical benefits that we believe will be derived from the use of our products.
+ 
+Third party payers determine whether to provide coverage for a particular procedure and reimburse health care providers for medical treatment at a fixed rate based on the diagnosis-related group established by the Center for Medicare and Medicaid Services. The fixed rate of reimbursement is based on the procedure performed and is unrelated to the specific type or number of devices used in a procedure. If a diagnosis-related group does not cover a procedure, payers may deny reimbursement. If reimbursement for a particular procedure is approved, third party payers will reimburse health care providers for medical treatment based on a variety of methods, including a lump sum prospective payment system based on a diagnosis-related group or per diem, a blend between the health care provider’s reported costs and a fee schedule, a payment for all or a portion of charges deemed reasonable and customary, or a negotiated per capita fixed payment.
+ 
+Upon product introduction, currently existing available codes can be used to provide a level of reimbursement to users. Management believes however, that currently available reimbursement codes do not adequately reimburse for the anticipated value that optical biopsy technology brings to the medical care system. Optical biopsies in the lower gastrointestinal tract are not currently approved for reimbursement by third-party payers, and there can be no assurance that optical biopsy technology will be approved for any third party reimbursement for use in colorectal cancer screening, even if it proves to play a significant role in improving the endoscopist’s ability to accurately differentiate among polyps in the colon. Recently, a reimbursement code for optical biopsy in the upper gastrointestinal tract (esophagus) was approved, evidence that healthcare providers are accepting this minimally-invasive approach.
+ 
+Demonstrating cost-effectiveness and improved patient outcomes is critical to increasing sales since payers evaluate these factors in determining whether to reimburse for new technologies. Payers may also delay reimbursement decisions for a year or more, even when provided with cost-effectiveness data, while they conduct their own technology assessments. The availability of peer-reviewed literature regarding the technology may help payers in reducing this technology assessment timeline. To promote the dissemination of literature regarding the WavSTAT4 optical biopsy technology, we are working to have published clinical utility and cost/benefit data in peer-reviewed journals.
+ 
+We expect that there will be continued pressure on cost-containment throughout the United States health care system. Cost reduction, cost containment, managed care, and capitation pricing (putting a ceiling on price) are ever more familiar themes within health care. Limits on third-party reimbursements that lead to cuts in reimbursements for new or experimental procedures would affect the ability of smaller companies with new technologies to compete with larger established firms or with established technologies. Lobbying activities are often necessary to broadly introduce these new technologies, but lobbying requires extensive amounts of corporate resources that the Company may not be able to afford.
+ 
+Reimbursement systems in international markets vary by country, and reimbursement approvals must be obtained on a country-by-country basis. Many international markets have government managed health care systems that control reimbursement for new products and procedures. In most markets, there are private insurance systems as well as government-managed systems. Market acceptance of our products will depend on the availability and level of reimbursement in our targeted international markets. We may not be able to obtain reimbursement in any country within a particular time, for a particular time, for a particular amount, or at all.
+ 
+
+10
+--
+
+
+We are unable to predict what additional legislation or regulation relating to the health care industry or third-party coverage and reimbursement may be enacted in the future, if any, or what effect it might have on us. In particular, we are unable to yet predict the impact that health care reform legislation will have on our business. Reforms include (i) mandated basic health care benefits, (ii) controls on health care spending through limitations on the growth of private health insurance premiums and Medicare and Medicaid spending, (iii) greater reliance on prospective payment systems, (iv) the creation of large insurance purchasing groups, and (v) fundamental changes to the health care delivery system. Management anticipates that Congress and state legislatures will continue to review and assess alternative health care delivery systems and payment mechanisms. Due to uncertainties regarding the ultimate features of reform initiatives and their enactment and implementation, we cannot predict which reform proposals, if any, will be adopted, when they may be adopted or what impact they may have on us. Failure by hospitals and other users of our products to obtain reimbursement from third-party payers, or changes in government and private third-party payers’ policies toward reimbursement for procedures employing our products, could have a material adverse effect on our business, financial condition and results of operations.
+ 
+Manufacturing and Sources of Supply
+ 
+SpectraScience manufactures the WavSTAT4 System at its facility in San Diego. The disposable WavSTAT optical biopsy forceps (one required for each patient) are outsourced to United States contract OEM manufacturers. The Company also performs certain final assembly processes of the WavSTAT forceps. All WavSTAT Systems previously used for pre-clinical testing, FDA compliant clinical trials, and cost effectiveness/outcome clinical studies were manufactured under a Quality System with Standard Operating Procedure controls. Management continues to utilize these quality control systems and adds to or modifies them as necessary. The Company is currently evaluating secondary procurement sources for its products.
+ 
+The WavSTAT4 Systems are, and will be, manufactured in accordance with current FDA Quality System Regulations and EN 13485:2003 International Standards, both of which are necessary to sell products within the United States and the European Union. These requirements impose certain procedural and documentation requirements upon SpectraScience with respect to manufacturing and quality assurance activities, as well as upon those third parties with whom the Company contracts to perform certain manufacturing processes.
+ 
+During 2007, SpectraScience was granted ISO 9001 and 13485:2003 certification for its manufacturing facility and Quality System. These international standards are the European equivalent to the FDA’s Quality System Regulations. Meeting these standards permits use of the CE mark to export the WavSTAT4 Optical Biopsy System to the European Union.
+ 
+The FDA has reviewed the manufacturing processes and Standard Operating Procedures required to build a WavSTAT System and we are authorized to manufacture the product in our current facility. Both the FDA and the European Notified Body will continue to perform periodic audits as long as SpectraScience manufactures and commercializes medical products.
+ 
+Competition
+ 
+The medical device industry is highly competitive. Management believes the Company has few direct competitors in applying spectroscopy for the differentiation of normal, pre-cancerous or cancerous tissues in the gastrointestinal tract; however, the development of products using spectroscopic diagnostics for various medical specialties is expanding. To the best of our knowledge, no other competitors have completed FDA clinical studies or submitted a pre-market approval application to the FDA or received CE Mark authority to distribute a product for the detection of colorectal or esophageal cancer.
+ 
+Many competitors have substantially greater resources than we do, either internally or in combination with strategic partners. These resources may allow them to develop, market and distribute technologies or products that could be more effective than those developed or marketed by us, or that would render our technologies and products obsolete. The resource advantages they may have are:
+ 
+
+11
+--
+
+
+● | greater capital resources; 
+--+------------------------------------------------------------------------------
+● | greater manufacturing resources; 
+● | greater resources and expertise in testing products in clinical trials; 
+● | greater resources and expertise in the areas of research and development; 
+● | greater expertise in obtaining regulatory approvals; and 
+● | greater resources for marketing and sales activities. 
+
+ 
+The companies listed below have developed or are in the process of developing products that use light-based spectroscopic technology or similar methods. These companies compete with and could potentially compete with SpectraScience products or technologies. However, none of these companies use a technology or method which is the same as that used by SpectraScience and only one has commercialized a diagnostic application (Mela Sciences, Inc. for skin cancer) that does not require image analysis and physician interpretation.
+ 
+Competitors
+ 
+There are a number of companies with products or developing products that may directly or indirectly compete with our products. Among these companies are Olympus Corporation, Tokyo, Japan; PENTAX, a division of HOYA Corporation, Tokyo, Japan; Fujifilm Corporation, Tokyo, Japan; Mauna Kea Technologies, Paris France; MELA Sciences, Inc. Irvington, NY; Caliber ID, Rochester, NY; Verisante Technology, Inc., Vancouver, British Columbia; Guided Therapeutics, Inc., Norcross, Georgia; and NinePoint Medical, Inc., Cambridge, Massachusetts. Many of these companies have significantly greater resources than we do. In addition, there are other smaller potential competitors working on light-based technologies for detection and diagnosis and several academic centers conducting research.
+Patents
+ 
+SpectraScience currently owns exclusive rights to a total of 32 issued U.S. utility patents, seven U.S. design patents and approximately 25 foreign counterpart patents. Our most recent patent grant was in August 2012 and we continue to apply for patents to expand and strengthen our intellectual property portfolio. Our U.S. patents are listed below:
+
+Patent Name | U.S. Patent Number 
+------------------------------------------------------------------------------------------------+-----------------------
+Optical Biopsy Forceps | 5,762,613 
+System for Diagnosing Tissue with Guidewire | 5,601,087 
+Optical Biopsy Forceps System and Method of Diagnosing Tissue | 6,066,102 
+Optical Biopsy Forceps | 6,129,683 
+Optical Biopsy System and Methods for tissue Diagnosis | 6,174,291 
+Optical Forceps System and Method of Diagnosing and Treating Tissue | 6,394,964 
+Spectral Volume Microprobe Analysis of Materials | 5,713,364 
+Spectral Volume Microprobe Arrays | 6,104,945 
+Spectroscopic System Employing a Plurality of Data Types | 6,385,484 
+Spectral Volume Microprobe Arrays | 6,411,835 
+Systems and Methods for Optical Examination of Samples | 6,411,838 
+Spectral Data Classification of Samples | 6,421,553 
+Optical Methods and Systems for Rapid Screening of the Cervix | 6,427,082 
+Substantially Monostatic, Substantially Confocal Optical Systems for Examination of Samples | 6,760,613 
+Fluorescent Fiberoptic Probe for Tissue Health Discrimination and Method of Use Thereof | 6,768,918 
+
+
+12
+--
+
+
+Method and Apparatus for Identifying Spectral Artifacts | 6,818,903
+------------------------------------------------------------------------------------------+----------
+Spectral Volume for Microprobe Arrays | 6,826,422
+System for Normalizing Spectra | 6,839,661
+Optical Probe Accessory Device for Use In-Vivo Diagnostic Procedures | 6,847,490
+Methods of Monitoring Effects of Chemical Agents on a Sample | 6,902,935
+Optimal Windows for Obtaining Optical Data for Characterization of Tissue Samples | 6,933,154
+Methods and Apparatus for Displaying Diagnostic Data | 7,136,518
+Colonic Polyp Discrimination by Tissue Florescence and Fiberoptic Probe | 7,103,401
+Optical Methods and Systems for Rapid Screening of the Cervix | 7,127,828
+Methods and Systems for Correcting Image Misalignment | 7,187,810
+Image Processing using Measures of Similarity | 7,260,248
+Methods and Apparatus for Processing Spectral Data for use in Tissue Characterization | 7,282,723
+Methods and apparatus for characterization of tissue samples | 7,309,867
+Fluorescent fiberoptic probe for tissue health discrimination | 7,310,547
+Methods and Systems for Correcting Image Misalignment | 7,406,215
+Methods and Apparatus for Calibrating Spectral Data | 7,459,696
+Unique Methods and Apparatus for Evaluation of Image Focus | 7,469,160
+
+ 
+SpectraScience is also the exclusive licensee through the Massachusetts General Hospital of U.S. Patent 5,843,000 entitled, “Optical Biopsy Forceps and Method of Diagnosing Tissue”. We believe that this patent, in combination with our other optical forceps patents, provides the Company an advantage in marketing biopsy forceps that contain optical fiber. The above patents expire between 2017 and 2027. Each of the international patents designates several countries for patent protection.
+ 
+SpectraScience is also the exclusive licensee through Duke University of certain technology known as #2523- “Systems and Methods for Endoscopic Angle-resolved Low Coherence Interferometry”, #2819- “Systems and Methods for Angle-Resolved Low Coherence Interferometry”, and #3307- “Single Mode-Fiber Base Angle Resolved Low Coherence Interferometric System for Light Scattering Measurement.” This technology provides the Company an advantage in marketing the esophageal cancer diagnostic products.
+ 
+The Company believes that it holds one of the strongest patent portfolios of its kind in the field of optical methods for the diagnosis and detection of tissue abnormalities, particularly for identifying cancer and its precursors. Management also believes that its intellectual property portfolio will protect the core technology and methods embodied in the WavSTAT4 Optical Biopsy System as well as for many of the Company’s future products and can create a substantial barrier to entry for others pursuing similar approaches.
+ 
+Core Areas of Patent Protection
+ 
+SpectraScience’s portfolio provides protection in the following key technology, design and methods areas:
+ 
+
+Localized tissue characterization using optical methods; 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Specific application and combinations of auto-fluorescence, broadband spectroscopy and video imaging; 
+Design and use of disposable components, in combination with systems and methods, including use of unique identifiers; 
+Algorithms specific to optical assessment of tissue characteristics, particularly involving identification, classification and calibration methods; 
+Clinical applications of these methods and systems for identifying tissue characteristics, including use of display methods, marking methods (including biomarkers) and in combination with treatment; and 
+Applications to further future system development, including applications for screening, treatment and other applications beyond colon and esophageal cancer. 
+
+
+13
+--
+
+
+SpectraScience holds registered trademarks for the WavSTAT System and SpectraScience trade names, and software and graphics are protected by appropriate copyrights.
+ 
+Our ability to obtain and maintain patent protection for our products, preserve our trade secrets and operate without infringing on the proprietary rights of others will directly affect how successful our operations will be. Our strategy regarding the protection of our proprietary rights and innovations is to seek patents on those portions of our technology that we believe are patentable, and to protect as trade secrets other confidential information and proprietary know-how. SpectraScience is careful to protect its trade secrets and proprietary know-how by obtaining confidentiality and invention assignment agreements in connection with employment, consulting and advisory relationships. There are certain technological aspects of the WavSTAT Systems that are not covered by any patents or patent applications.
+ 
+The patent and trade secret positions of medical device companies like SpectraScience are uncertain and involve complex and evolving legal and factual questions. To date, no claims have been brought against the Company alleging that our technology or products infringe intellectual property rights of others. Often, patent and intellectual property disputes in the medical device industry are settled through licensing or similar arrangements. However, necessary licenses from other parties may not be available to us on satisfactory terms, if at all, and the costs associated with such arrangements may be substantial and could include ongoing royalties.
+ 
+United States patent applications are not publicly disclosed until they are issued or corresponding foreign applications are published in other countries. Since publication of discoveries in the scientific or patent literature often lags behind actual discoveries, management cannot be certain that SpectraScience was the first to invent the inventions covered by each of its pending patent applications, or that it was the first to file patent applications for such inventions. In addition, the laws of some foreign countries do not provide the same degree of intellectual property-rights protection as do the laws of the United States. Litigation associated with patent or intellectual property infringement or protection could be lengthy and prohibitively costly. SpectraScience may not have the financial resources to defend its patents from infringement or claims of invalidity, or to successfully defend itself against intellectual property infringement claims by third parties.
+ 
+Product Liability
+ 
+The risk of product liability claims, product recalls and associated adverse publicity is inherent in the manufacturing, marketing and sale of medical products. We have clinical trial liability insurance coverage for our clinical programs however, there can be no assurance that future insurance coverage will be adequate or available. We may not be able to secure product liability insurance coverage on acceptable terms or at reasonable costs when needed. Any liability damages could exceed the amount of our coverage. A successful product liability claim against us could require us to pay a substantial monetary award. Moreover, a product recall could generate substantial negative publicity about our products and business and inhibit or prevent commercialization of other future products.
+Employees
+ 
+As of March 31, 2017, SpectraScience has five full-time and four part-time employees and consultants, with five involved in manufacturing/engineering, one in sales and marketing and three in finance and administration. The Company’s payroll has been administered by an independent third party. SpectraScience is not subject to any collective bargaining agreement and management believes that employee relations are generally satisfactory.
+ 
+SpectraScience also relies on external consultants in the financial, regulatory, software development and design engineering areas. In the future, if management decided to increase our workforce in response to improved economic, market, and/or business conditions, we might not be able to attract or retain employees with the skills we require.
+ 

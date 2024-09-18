@@ -1,0 +1,291 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+THE COMPANY
+Unless the context indicates otherwise, the terms “Windstream,” “we,” “us” or “our” refer to Windstream Holdings, Inc. and its subsidiaries, including Windstream Services, LLC, and the term “Windstream Services” refers to Windstream Services, LLC and its subsidiaries.
+ORGANIZATIONAL STRUCTURE 
+Windstream Holdings, Inc. (“Windstream Holdings”) is a publicly traded holding company incorporated in the state of Delaware on May 23, 2013, and the parent of Windstream Services, LLC (“Windstream Services”), a Delaware limited liability company organized on March 1, 2004. Windstream Holdings common stock trades on the Nasdaq Global Select Market (“NASDAQ”) under the ticker symbol “WIN”. Windstream Holdings owns a 100 percent interest in Windstream Services. Windstream Services and its guarantor subsidiaries are the sole obligors of all outstanding debt obligations and, as a result, also file periodic reports with the Securities and Exchange Commission (“SEC”). Windstream Holdings is not a guarantor of nor subject to the restrictive covenants included in any of Windstream Services’ debt agreements. The Windstream Holdings board of directors and officers oversee both companies.
+ACQUISITION OF EARTHLINK HOLDINGS CORP
+On February 27, 2017, Windstream Holdings completed its merger with Earthlink Holdings Corp. (“Earthlink”), pursuant to the terms of the Agreement and Plan of Merger (the “Merger Agreement”) dated November 5, 2016,whereby EarthLink merged into Europa Merger Sub, Inc., an wholly-owned subsidiary of Windstream Services, LLC, and survived, and immediately following, merged with Europa Merger Sub, LLC, a wholly-owned subsidiary of Windstream Services, LLC, with Merger Sub surviving and changing its name to EarthLink Holdings, LLC (the “Merger”). Earthlink Holdings, LLC is a direct, wholly-owned subsidiary of Windstream Services and provides data, voice and managed network services to retail and wholesale business customers and nationwide Internet access and related value-added services to residential customers. As a result of the Merger, Windstream added approximately 700,000 customers and approximately 16,000 incremental route fiber miles. In the Merger, each share of EarthLink common stock was exchanged for .818 shares of Windstream Holdings common stock. In the aggregate, Windstream Holdings issued approximately 93 million shares of its common stock and assumed approximately $435 million of EarthLink’s long-term debt, in a transaction valued at approximately $1.1 billion. Upon closing of the Merger, Windstream Holdings’ stockholders own approximately fifty-one percent (51%) and EarthLink stockholders own approximately forty-nine percent (49%) of the combined company. As a result of the Merger, we have increased our operating scale and scope giving us the ability to offer customers expanded products, services and enhanced enterprise solutions over an extensive national footprint now spanning approximately 147,000 fiber route miles. We also expect to achieve operating and capital expenditure synergies in integrating EarthLink’s operations into our existing business segment structure. For additional information regarding the Merger, including our refinancing of EarthLink’s long-term debt, see Note 18 to the consolidated financial statements included in the Financial Supplement to this Annual Report on Form 10-K.
+OVERVIEW
+We are a leading provider of advanced network communications and technology solutions for consumers, businesses, enterprise organizations and wholesale customers across the United States. We provide data, cloud solutions, unified communications and managed services to small business and enterprise clients. We also offer bundled services, including broadband, security solutions, voice and digital television to consumers. We supply core transport solutions on a local and long-haul fiber network spanning approximately 147,000 miles, including network assets acquired in the Merger with EarthLink.
+ 2
+
+Our vision is to provide a best-in-class customer experience through a world-class network. Our “network first” strategy entails leveraging our existing infrastructure and investing in the latest technologies to create significant value for both our customers and our shareholders. Following the completion of the Merger with EarthLink, our business unit organizational structure will be focused on the following four core customer groups: ILEC Consumer and Small Business, Wholesale, Enterprise, and CLEC Consumer and Small Business, as further defined below. During the third quarter of 2016, we changed the name of our Carrier segment to Wholesale to better reflect our customer base and the products and services we are selling in the marketplace. Historically, we were solely focused on serving telecom companies based in the United States, but over the past year, we have expanded our focus to sell our products and services to non-traditional telecom companies, including content providers, data center operators and international carriers requiring voice and data transport services in the United States. This organizational structure aligns all aspects of the customer relationship (sales, service delivery, and customer service) to improve accountability to the customer and sharpen our operational focus.
+We differentiate our business customers between enterprise and small business generally based on the monthly recurring revenue generated by the customer. Enterprise customers consist of those relationships that have the propensity now or in the future to generate at least $1,500 or more in monthly recurring revenue. Business customers not meeting this criterion are classified as small business. In classifying our business customers, we consider the maximum potential revenue to be generated from the customer relationship for both our existing customer base and any new customers in determining which business unit can best support the customer. Accordingly, over time, we may prospectively change the classification of a particular business customer between enterprise and small business. Our consumer and small business customer base is further disaggregated between those customers located in service areas in which we are the incumbent local exchange carrier (“ILEC”) and provide services over network facilities operated by us and those customers located in services areas in which we are a competitive local exchange carrier (“CLEC”) and provide services over network facilities primarily leased from other carriers. Under this organizational structure, we have combined our ILEC Consumer and Small Business operations into one segment and we have also combined in a separate segment our CLEC Consumer and Small Business operations due to similarities with respect to product and service offerings, marketing strategies and customer service delivery.
+With the completion of the Merger with EarthLink, we have a focused operational strategy for each business segment with the overall objective to generate strong financial returns for our investors by leveraging our existing network and grow adjusted OIBDA, which is defined as operating income plus depreciation and amortization, adjusted to exclude the impact of merger, integration and other costs, restructuring charges, pension expense and share-based compensation.
+Our operational strategy for each of our business segments are as follows:
+Presented below for each of our business segments is an overview and further discussion of our operating strategy, product and service offerings, sales and marketing efforts and the competitive landscape in which we operate.
+ 3
+
+ILEC CONSUMER AND SMALL BUSINESS SEGMENT
+The ILEC Consumer and Small Business segment includes approximately 1.5 million residential and small business customers. This segment generated $1.6 billion in revenue and $899 million in segment income, or contribution margin, during 2016.
+
+StrategyWithin our ILEC Consumer and Small Business segment, we are focused on expanding and enhancing our broadband capabilities to provide a great customer experience, drive higher average revenue per customer and increase market share.We expect to grow revenue by continuing to increase broadband speeds and capacity throughout our territories. Project Excel, which began in late 2015, focused on upgrading our fiber-fed infrastructure with Very high-bit-rate Digital Subscriber Line Generation 2 (“VDSL2”) electronics to enable faster broadband speeds and enhances our backhaul capabilities to address future capacity demands and improve network reliability. As we approach the completion of this project in the first quarter of 2017, we will be able to provide 25 megabits per second (“Mbps”) speeds to 54 percent of our broadband footprint and 50 Mbps speeds to 30 percent; which are very competitive offerings in our rural markets. We believe these network upgrades will provide a great customer experience, which should help drive higher average revenue per customer per month and allow us to increase our market share.
+
+During 2016, we increased Internet availability across all speed tiers and can now offer premium Internet speeds of 50 Mbps and higher to approximately 25 percent of our footprint. In addition, in 2016 we launched 1-Gigabit Internet service in four market areas to deliver faster speeds to more of our customer base. CAF funding will also support and expand our broadband capabilities. 
+We expect increases in real-time streaming video and traditional Internet usage to drive demand for faster broadband speeds and generate increased revenues as customers upgrade their services. We also sell value-added Internet services, such as security and online back-up, to leverage our broadband capabilities. Currently 89 percent of our existing customer base subscribes to Internet speeds of 25 Mbps or less. With the increased availability of premium broadband speeds, we have a significant opportunity to migrate customers to faster speeds which, we believe will reduce churn, improve the overall customer experience and drive higher average revenue per customer.
+Services and Products
+Our Consumer services primarily consist of high-speed Internet, traditional voice and video services. We are committed to providing high-speed broadband and additional value-added services to our consumer base, as well as bundling our service offerings to provide a comprehensive solution to meet our customers’ needs at a competitive value.
+Our Consumer broadband services are described further as follows:
+
+• | High-speed Internet access: We offer high-speed Internet access with speeds up to 1 gigabits per second (“Gbps”).
+
+
+• | Internet security services: Our Security Suite offers customers critical Internet security services, including anti-virus protection, spyware blocking, file back up and restoration.
+
+
+• | Online backup services: Our online backup service allows consumers to back up and restore important files through the Internet. Additionally, our backup services provide consumers with the ability to store and share files on network-based storage devices. Files can be accessed from any computer with an Internet connection.
+
+Consumer voice services include basic local telephone services, features and long-distance services. Features include call waiting, caller identification, call forwarding, as well as various other offerings. We also offer a variety of long-distance plans, including rate plans based on minutes of use, flexible or unlimited long-distance calling services.
+ 4
+
+We offer video services to consumers primarily through a relationship with Dish Network LLC (“Dish Network”). We also own and operate cable television franchises in some of our service areas and we offer Kinetic, a highly competitive IP video entertainment offering, in our top 4 market areas. Our video offerings allow us to provide comprehensive bundled services to our consumer base, helping insulate our customers from competitors.
+We sell and lease certain equipment to support our consumer high-speed Internet and voice offerings, including broadband modems, home networking gateways and personal computers. We also sell home phones to support voice services.
+To our small business customers, we offer a wide range of advanced Internet, voice, and web conferencing products. These services deliver high-speed Internet with competitive speeds, value added services to enhance business productivity and options to bundle services for a global business solution to meet our small business customer needs.
+Our ILEC Small Business services include:
+
+• | High-speed Internet access: We offer speeds up to 1 Gbps with an option of high-speed Internet or a dedicated solution.
+
+
+• | Online backup: Our online backup solution is dedicated to keeping files safe, secure and easily accessible from any location. These services include hosting mission critical servers and computer systems with full redundant subsystems with the ability to set up scheduled backups.
+
+
+• | Remote IT: We provide a remote tech help service that provides remote support 24x7 and serves as a virtual information technology (“IT”) department without the high expense.
+
+
+• | Web and audio conferencing: We are able to connect businesses through our audio, web and event conferencing which enables quick and easy access to organizing, securing, attending and recording conferences all from a telephone keypad.
+
+
+• | Managed web design: We provide a professionally developed website design, whether it is a simple site or a complex store, to keep our small business customers competitive in today’s digital world.
+
+
+• | Web and E-mail hosting: With our web and e-mail hosting services, our customers are in control of customizing and branding their own professional online presence. We provide the tools to quickly and efficiently develop a web presence that suits their business needs.
+
+
+• | Fax-to-e-mail: We offer the ability to leverage the advantage of mobility to send and receive faxes online from anywhere they can access their email or Internet. We also offer a Health Insurance Portability and Accountability Act (“HIPAA”) compliant option to support our customers in the healthcare industry to maintain compliance with current health standards and regulations.
+
+Small business voice services include a variety of line types available to serve customer needs. We offer a standard business local line, Centrex lines, key systems, private branch exchange (“PBX”) lines, Voice over Internet Protocol (“VoIP”) and complex phone systems. Additional options for our voice lines include long-distance services, and several calling features including call waiting, call return, speed calling, caller ID, repeat dialing, three-way calling, rotary hunt, voice mail or rotary hunt voice mail. Our many voice offerings provide customers a wide range of voice solutions that be fit our small business customer voice needs.
+Sales and Marketing
+Our sales and marketing strategy is focused on driving top-line revenue growth through stabilizing broadband market share while deepening speed and value-added service penetration for each broadband connection. In our ILEC Consumer and Small Business segment, our goal is to win and retain the household or business first and then expand the product participation by consulting on the appropriate speed or value-added service to enhance the experience. We employ the following principles to achieve these goals:
+
+• | Product enhancement: Faster Internet speeds and the launch of Kinetic deliver more value to customers while growing account revenue. These products not only improve the competitiveness of our offering but drive tangible value to the customer while improving the overall account revenue profile. For small businesses, higher speeds and incremental voice lines unlock increased discounts while increasing the value to the customer.
+
+ 5
+
+
+• | Improved customer experience: Continued improvement in the customer experience for both small businesses and consumers is the key to improved retention that drives stabilized market share. We map the customer journey and target initiatives that improve the processes, systems, and policies that impact the manner in which customers interact with us and our products.
+
+
+• | Product simplification: We sell double and triple play bundle packages to customers at competitive price points, offering high-speed Internet voice and video services at a better value than when purchasing those services individually or from different providers. In our space, we follow a similar bundling approach utilizing voice lines and broadband (dedicated or simple) as the bundle foundation.
+
+Sales are made through various distribution channels giving new and existing customers choices in how to interact and experience our products and services. We offer customers the opportunity to order service and purchase a number of products designed to enhance our existing services at any of our 27 retail stores located in our local service areas or via our call center based sales teams. We augment these traditional channels with online sales, national agents, telephone and direct sales representatives. We utilize a similar multi-channel approach for our ILEC Small Business sales focusing on a blend of local field sales teams and inbound/outbound call centers to serve this segment.
+Competition
+We experience competition for ILEC Consumer and Small Business services. During 2016, consumer households served decreased by approximately 91,200, or 6 percent, consumer high-speed Internet customers decreased by approximately 44,000, or 4 percent, and small business customers declined by approximately 10,900, or 7 percent. Sources of competition in our service areas include, but are not limited to, the following:
+
+• | Cable television companies: Cable television providers are aggressively offering high-speed Internet, voice and video services in the majority of our service areas. These services are typically bundled and offered to our customers at competitive prices. It is not unusual to see aggressive broadband pricing to win the household. For small business customers, cable providers leverage discounted TV and broadband pricing to win larger bundles of service.
+
+
+• | Wireless carriers: Wireless providers primarily compete for voice services in our markets. Consumers continue to disconnect voice service in favor of wireless service. In addition, wireless companies continue to expand their high-speed Internet offerings which does, in some instances, provide another alternative for customers, intensifying the level of competition in our markets.
+
+
+• | Communications carriers: We are required to lease our facilities and capacity to other communications carriers. These companies compete with us by providing voice and high-speed Internet services to both the ILEC Consumer and Small Business segment. Additionally, some of the more populated service areas are experiencing new-market entry by communications carriers who are building out their own network to compete for high-speed Internet services.
+
+Approximately 26 percent of our footprint does not have a cable broadband provider. Our focus to upgrade our infrastructure and deploy premium Internet speeds in our ILEC Consumer and Small Business markets will improve our competitive positioning and enable us to respond to demand and competitive pressure.
+To retain and grow our ILEC Consumer and Small Business customer base, we are committed to providing our customers with exceptional service by offering faster broadband speeds and value-added services, while also offering the convenience of bundling those services with voice and video services.
+ 6
+
+WHOLESALE SEGMENT
+The Wholesale segment leverages our nationwide network to provide 100 Gbps bandwidth and transport services to wholesale customers, including telecom companies, content providers, and cable and other network operators. The Wholesale business unit produced $631 million in annual revenue and $452 million in contribution margin in 2016. 
+
+StrategyOur Wholesale strategy focuses on expanding our network in strategic, high-traffic locations to drive new sales through the connection of our long-haul network from carrier hotels, international landing stations and data centers to our high fiber density markets. Our fiber network connects common interconnection points in tier one locations to our tier two and three markets, enabling our customers to reach their end users through unique and diverse routes. Including network assets acquired in the Merger with EarthLink, our fiber network spans approximately 147,000 route miles of fiber. We have made significant investments in our network adding route miles and new access points to provide advanced Wave and Metro Ethernet Forum (“MEF”) Ethernet services. With further expansion of our fiber transport network through capital investment, we will provide our customers located on the West Coast with direct access to our network. Our sales team continues to target high growth areas including content, international and cable television providers.
+
+To maintain our contribution margins in our Wholesale business, we will continue to invest in our network, offer advanced products and solutions, target our core customers and control costs through our disciplined approach to capital and expense management.
+Services and Products
+Wholesale services provide network bandwidth to other telecommunications carriers, network operators, and content providers. These services include special access services, which provide access and network transport services to end users, Ethernet and Wave transport up to 100 Gbps, and dark fiber and colocation services. Wholesale services also include fiber-to-the-tower connections to support the growing wireless backhaul market. In addition, we offer voice and data carrier services to other communications providers and to larger-scale purchasers of network capacity.
+Sales and marketing
+Our sales and marketing efforts are designed to differentiate us from our competitors by providing services in underserved markets with a superior customer experience. Our sales and customer support staff are aligned to work closely with each customer to ensure that the customer’s specific business needs are met. Whether servicing content providers, cable operators, data centers or other communication services providers who require single or multiple circuit connections or may not have sufficient transport network to support their immediate needs, our goal is to exceed customer expectations by providing personalized service and solutions.
+Competition
+The market for carrier services is highly competitive as continued merger and acquisition activity has resulted in fewer customers and intensified pricing pressure. To improve competitiveness and expand new sales opportunities, we have invested in our network to meet the growing demand for 10 Gbps and 100 Gbps bandwidth. Through network expansion and Ethernet upgrades, we are capable of providing access and transport services to major interconnection points with other networks and to rural markets, often on unique and diverse routes. By providing a superior customer experience with advanced network technology, we are well positioned to attract new business and increase market share.
+ 7
+
+ENTERPRISE SEGMENT
+Our Enterprise segment provides advanced network and communication services to enterprise customers throughout the continental United States. During 2016, the Enterprise segment generated $2.0 billion in revenue and $319 million in contribution margin. 
+
+StrategyThe strategy for our Enterprise business is to increase contribution margin by expanding our portfolio of next-generation products, expanding our metro fiber and fixed wireless network assets, reducing costs and improving the customer experience. As one of the country’s largest service providers, our nationwide network and broad portfolio of products, coupled with a highly responsive service model, provide customers with customized solutions.We target mid and large-size enterprise customers that consider their network and communication infrastructure as critical in operating their business. We support some of the most demanding IT organizations within the healthcare, financial services, retail, government and education sectors. We will continue to sharpen our focus on these markets in offering solutions tailored to meet their individual needs.We believe we can continue to drive meaningful improvements in our Enterprise margins by focusing on more profitable market segments and further leveraging
+
+our own network facilities to reduce third-party network access costs. We will also continue to improve employee productivity with targeted system and process enhancements. We made progress on this goal in 2016 by increasing margins from 10 percent in the first quarter of 2015 to 17 percent in the fourth quarter and we expect to further expand contribution margins to 20 percent by 2018.
+To grow profitability, we are focused on leveraging the latest technology in offering next-generation products that deliver significant value to our customers while also generating strong incremental sales margins. Software Defined Wide Area Networking (SDWAN) and Unified Communication as a Service (UCaaS) represent two examples of next-generation solutions where we are seeing significant market traction. In addition, we expect to improve operating efficiencies and enhance the customer experience by further integrating our internal processes in sales, service delivery, customer care and repair. Furthermore, we continue to follow an aggressive expense management and capital efficient strategy to drive reductions in network access costs, create on-network sales opportunities and improve our competitiveness in the market place.
+Services and Products
+Our Enterprise customers typically have more complex communications requirements. They value our tailored solution design process and dedicated service support model. They subscribe to services such as multi-site networking, integrated VoIP and data services, Unified Communications as a Service (“UCaaS”), Contact Center as a Service (“CCaaS”), data center (cloud) connectivity, network security, managed network services, and other cloud application services.
+
+• | Integrated voice and data services: Our integrated services deliver voice and data over a single connection, which helps our customers manage voice and data usage and related costs. These services are delivered over an Internet connection, as opposed to a traditional voice line, and can be managed through equipment at the customer premise or through hosted equipment options, both of which we are able to provide.
+
+
+• | Multi-site networking: Our advanced network provides private, secure multi-site connections for large businesses with multiple locations. Our core growth networking growth products include software defined wide area networking (“SDWAN”), multiprotocol label switching (“MPLS”), Ethernet - Local Area Network (“LAN”) and Wavelength connectivity solutions.
+
+
+• | UCaaS, CCaaS and hosted voice: Our robust UCaaS, CCaaS and hosted voice solution portfolio leverages the latest technology to enable our customers to improve productivity and avoid the upfront capital expense associated with costly PBX systems.
+
+
+ 8
+
+
+• | Colocation and data center services: We offer traditional colocation services directly through our data centers and more advanced cloud computing, hosting and disaster recovery solutions through our reciprocal strategic partnerships. We will continue to make investments to expand our fiber network directly to other third-party data center facilities. Through our cloud connectivity offering, we provide secure and highly-scalable connectivity to Amazon Wed Services (“AWS”) and Microsoft Azure platforms. We will continue to expand connectivity to additional cloud ecosystems throughout 2017.
+
+
+• | Managed services: We provide a breadth of managed services, for both our network and data center services, including managed Wide Area Network (“WAN”), managed LAN, managed network security, managed Internet and managed voice services that allow our customers information technology (“IT”) organizations to focus on other mission critical activities.
+
+
+• | High-speed Internet: We offer a range of high-speed broadband Internet access options providing reliable connections designed to help our customers reduce costs and boost productivity.
+
+
+• | Traditional Voice: Voice services consist of basic telephone services, including voice, long-distance and related features delivered over a traditional copper line.
+
+Sales and Marketing
+Our sales and marketing team ensures we deliver on our brand promise to enable smart solutions and personalized service to our customers. Our Enterprise sales organization is extensive, including over 61 business sales offices throughout the United States with more than 1,100 sales employees focused on meeting the needs of our customers. 
+Sales and marketing activities are conducted through:
+
+• | the direct sales force, which accounts for the majority of our new sales;
+
+
+• | our dedicated account management team, who focus on pro-actively supporting, retaining and growing existing customers as their needs evolve over time;
+
+
+• | our indirect sales channel, which partners with third-party dealers who sell directly to customers; and
+
+
+• | third-party agents, who refer sales of our products and services to our direct sales force.
+
+Competition
+The market for enterprise customers is highly competitive. We believe we are well positioned to gain market share within the mid and large-size enterprise segment based upon our ability to leverage our national network to provide advanced customized solutions and by being easier to do business with than our competitors. 
+Our primary competitors are other communications providers. These providers offer similar services, from traditional voice to advanced data and technology services using similar facilities and technologies as we do, and compete directly with us for customers of all sizes.
+To compete most effectively in the middle market segment, we are focused on improving the customer experience and investing in our network and service offerings to provide our customers with the most technologically advanced solutions available. We believe that many of our largest competitors are focused primarily on serving the largest global enterprises and as a result are increasingly under-serving the middle market. Accordingly, we rely on scalable, customizable solutions and a service model tailored to the middle market to meet all of our customers’ communications needs. 
+ 9
+
+CLEC CONSUMER AND SMALL BUSINESS SEGMENT
+
+Our CLEC Consumer and Small Business segment will now include EarthLink’s consumer business and small business customers residing outside of our ILEC footprint. During 2016, this segment, which included only small business customers outside of our ILEC footprint, generated revenue of $484 million and contribution margin of $155 million. Our CLEC Consumer and Small Business strategy is focused on improving contribution margin trends by growing profitable customer relationships and managing costs. To moderate revenue and contribution margin declines and maximize profitability, we are focused on retaining our most profitable customers, selling incremental services and locations to existing customers, targeting new sales in select markets, and managing customer-level profit margins. Our ability to leverage our Enterprise infrastructure should help drive improved cost efficiency in this business. Products and services provided to our consumer and small business customers include integrated voice and data services, advanced data and traditional voice and long-distance services. We also offer on-line back-up, remote IT, managed web design, web hosting and various email services to small business customers.
+
+
+Similar to our ILEC Consumer and Small Business operations, we experience competition from cable television companies and other communications service providers in areas served by our CLEC Consumer and Small Business segment.
+See Note 15 to the consolidated financial statements included in the Financial Supplement to the Annual Report on Form 10-K for additional financial information regarding our operating segments.
+REGULATION
+We are subject to regulatory oversight by the FCC for particular interstate matters and state public utility commissions (“PUCs”) for certain intrastate matters. We are also subject to various federal and state statutes that direct such regulations. We actively monitor and participate in proceedings at the FCC and PUCs and engage federal and state legislatures on matters of importance to us.
+From time to time, federal and state legislation is introduced dealing with various matters that could affect our business. Most proposed legislation of this type never becomes law. Accordingly, it is difficult to predict what kind of legislation, if any, may be introduced and ultimately become law.
+For additional information on these and other regulatory items, please refer to the “Regulatory Matters” section of Management’s Discussion and Analysis of Financial Condition and Results of Operations in this Annual Report on Form 10-K.
+REGULATORY AND OTHER REVENUES
+Regulatory and certain other operating revenues are derived from activities that are centrally-managed by us and, accordingly, these revenues are not included in the operating results of segments. Regulatory revenues include switched access revenues, federal and state Universal Service Fund (“USF”) revenues, Connect America Fund (“CAF”) Phase II support, and funds received from federal access recovery mechanisms (“ARM”). Switched access revenues include which include usage-based revenues from long-distance companies and other carriers for access to our network to complete long-distance calls, as well as reciprocal compensation received from wireless and other local connecting carriers for the use of network facilities. We also receive compensation from wireless and other local exchange carriers for the use of our facilities. 
+ 10
+
+USF revenues are government subsidies designed to partially offset the cost of providing wireline services in high-cost areas. CAF Phase II funding is administered by the Federal Communications Commission (“FCC”) for the purpose of expanding and supporting broadband service in rural areas and effectively replaces frozen USF support in those states in which we elected to receive the CAF Phase II funding, as further described below. The ARM is additional federal universal service support available to help mitigate revenue losses from inter-carrier compensation reform not covered by the access recovery charge (“ARC”), a monthly charge assessed to customers established by the FCC.
+In August 2015, we notified the FCC of our acceptance of CAF Phase II support of approximately $175 million per year for a six year period to fund the deployment of voice and high-speed Internet capable infrastructures for eligible locations in 17 of the 18 states in which we are the incumbent provider, declining only the annual statewide funding in New Mexico because our projected cost to comply with the FCC’s deployment requirements greatly exceeded the funding offer. The CAF Phase II support for the 17 states we accepted substantially replaces funding we received under the federal USF high-cost support program. We will still be eligible to participate in a competitive bidding process for CAF Phase II support in New Mexico, along with other interested eligible competitors; however, the rules for the competitive bidding process are still under consideration by the FCC, and have not yet been finalized. We will continue to receive annual USF support in New Mexico frozen at 2011 levels until the CAF Phase II competitive bidding process is complete.
+
+Other operating revenues primarily consist of USF surcharges and other costs passed through to our customers, sales of communications equipment to third-party contractors and revenues from other miscellaneous service offerings.
+SIGNIFICANT CUSTOMERS
+No single customer, or group of related customers, represented 10 percent or more of our annual operating revenues during the three-year period ended December 31, 2016.
+SEASONALITY
+Our business is not subject to significant seasonal fluctuations.
+NETWORK
+As further discussed below under “Material Dispositions”, in April 2015, we completed the spin-off of our fiber and copper networks and other real estate, into an independent, publicly traded real estate investment trust and entered into an agreement to leaseback the network assets. Following the spin-off, we exclusively operate a robust, flexible network allowing us to deliver advanced voice and data services. Following the acquisition of EarthLink, our network consists of approximately 147,000 miles of fiber-optic plant in both our fiber backbone and local service areas and a combination of owned and leased facilities in our local markets.
+The fiber transport network we operate is fully integrated and allows us to offer a full suite of voice and advanced data services, including, but not limited to, multi-site networking, dedicated Internet and Ethernet solutions, high-speed Internet and VoIP services.
+In certain territories, we serve business customers by leasing last-mile connections from other carriers. These connections link our business customers to our facilities-based network. In areas in which we operate last-mile facilities, we are able to connect to our customers directly. Through the last-mile facilities we operate, we are able to offer up to 100 Gbps of Ethernet managed services.
+The local networks we operate consist of central office digital switches, routers, loop carriers and virtual and physical colocations interconnected primarily with fiber and copper facilities. A mix of fiber-optic and copper facilities connect our customers with the core network. 
+ 11
+
+Our network service area following the acquisition of EarthLink is as follows:
+MATERIAL DISPOSITIONS
+Sale of Data Center Business - On December 18, 2015, we completed the sale of a substantial portion of our data center business to TierPoint LLC (“TierPoint”) for $575.0 million in cash. In the transaction, TierPoint acquired 14 of Windstream’s 27 data centers, including data centers located in Arkansas, Illinois, Massachusetts, North Carolina, Pennsylvania, and Tennessee. The remaining data centers retained by us are primarily shared colocation facilities. As part of the transaction, we established an ongoing reciprocal strategic partnership with TierPoint, allowing both companies to sell their respective products and services to each other’s prospective customers through referrals.
+Spin-off of Certain Network and Real Estate Assets - On April 24, 2015, we completed the spin-off of certain telecommunications network assets, including our fiber and copper networks and other real estate, into an independent, publicly traded real estate investment trust. The spin-off also included substantially all of our consumer CLEC business. The telecommunications network assets consisted of copper cable and fiber optic cable lines, telephone poles, underground conduits, concrete pads, attachment hardware (e.g., bolts and lashings), pedestals, guy wires, anchors, signal repeaters, and central office land and buildings, with a net book value of approximately $2.5 billion at the time of spin-off. We requested and received a private letter ruling from the Internal Revenue Service on the qualification of the spin-off as a tax-free transaction and the designation of the telecommunications network assets as real estate.
+Pursuant to the plan of distribution and immediately prior to the effective time of the spin-off, we contributed the telecommunications network assets and the consumer CLEC business to Communications Sales & Leasing, Inc. (“CS&L”), a wholly owned subsidiary of Windstream, in exchange for: (i) the issuance to Windstream of CS&L common stock of which 80.4 percent of the shares were distributed on a pro rata basis to Windstream’s stockholders, (ii) cash payment to Windstream in the amount of $1.035 billion and (iii) the distribution by CS&L to Windstream of approximately $2.5 billion of CS&L debt securities. After giving effect to the interest in CS&L retained by Windstream, each Windstream Holdings shareholder received one share of CS&L for every five shares of Windstream Holdings common stock held as of the record date of April 10, 2015 in the form of a tax-free dividend. On April 24, 2015, following the completion of the spin-off, we transferred the CS&L debt securities and cash to two investment banks, in exchange for approximately $2.5 billion of debt securities of Windstream Services held by the investment banks.
+ 12
+
+As of the spin-off date, excluding restricted shares held by Windstream employees and directors, Windstream retained a passive ownership interest in approximately 19.6 percent of the common stock of CS&L. In two separate transactions completed in June 2016, Windstream Services transferred all of its shares of CS&L common stock to its bank creditors in exchange for the retirement of $672.0 million of aggregate borrowings outstanding under its revolving line of credit and to satisfy transaction-related expenses. See also Notes 3 and 5 to the consolidated financial statements included in the Financial Supplement to this Annual Report on Form 10-K.
+DIVIDEND POLICY
+On January 15, 2017, we paid our previously declared quarterly dividend of $.15 per share. On February 14, 2017, we announced a pro rata cash quarterly dividend of $.15 per share on our common stock which will be distributed in two separate, prorated payments in light of the merger with EarthLink. The first prorated payment will be calculated based on the number of days elapsed from the beginning of the first quarter on January 1, 2017, to February 26, 2017, the day immediately prior to the closing date of the merger. The dividend will be paid as soon as practicable after the closing date of the merger to Windstream stockholders of record as of February 24, 2017, the last business day immediately prior to the closing date of the merger. The second prorated payment will be calculated based on the number of days elapsed from, and including, the closing date of the merger through March 31, 2017, the end of the first quarter. The second prorated portion of the dividend will be paid on or about April 17, 2017, to Windstream stockholders of record as of March 31, 2017.  Our dividend practice can be changed at any time at the discretion of our board of directors. Accordingly, we cannot assure you we will continue paying dividends at the current rate. See Item 1A, “Risk Factors,” for more information concerning our dividend practice.
+MANAGEMENT
+Staff at our headquarters and regional offices supervise, coordinate and assist subsidiaries in management activities including investor relations, acquisitions and dispositions, corporate planning, tax planning, cash and debt management, accounting, insurance, sales and marketing support, government affairs, legal matters, human resources and engineering services.
+EMPLOYEES
+At December 31, 2016, we had 11,870 employees, of which 1,259 employees are part of collective bargaining units. During 2016, we had no material work stoppages due to labor disputes with our unionized employees (see Item 1A, “Risk Factors”).
+MORE INFORMATION
+Our web site address is www.windstream.com. We file with, or furnish to, the Securities and Exchange Commission (the “SEC”) annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K, and amendments to those reports, as well as various other information. The public may read and copy any materials filed by us with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. This information can also be found on the SEC website at www.sec.gov. In addition, we make available free of charge through the Investor Relations page on our web site our annual reports, quarterly reports, and current reports, and all amendments to any of those reports, as soon as reasonably practicable after providing such reports to the SEC. In addition, in the “Corporate Governance” section of the Investor Relations page on our web site, we make available our code of ethics, the Board of Directors’ Amended and Restated Corporate Governance Board Guidelines, and the charters for our Audit, Compensation, and Governance Committees. We will provide to any stockholder a copy of the Code of Ethics, Governance Board Guidelines and the Committee charters, without charge, upon written request to Investor Relations, Windstream Holdings, Inc., 4001 Rodney Parham Road, Little Rock, Arkansas 72212.
+ 13
+
+FORWARD-LOOKING STATEMENTS
+We claim the protection of the safe-harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 for this Annual Report on Form 10-K. Forward-looking statements are subject to uncertainties that could cause actual future events and results to differ materially from those expressed in the forward-looking statements. Forward-looking statements include, but are not limited to, statements regarding the anticipated benefits of the merger with EarthLink, including future financial and operating results, projected synergies in operating and capital expenditures and the timing of achieving the synergies reduction in net leverage, and improvement in our ability to compete; our expectation to return a portion of our cash flow to shareholders through our dividend; expectations regarding our network investments to improve financial performance and increase market share; expectations regarding revenue trends, sales opportunities, improving margins in, and the directional outlook of, our business segments; network cost optimization; stability and growth in adjusted OIBDA; expected levels of support from universal service funds or other government programs; expected rates of loss of consumer households served or inter-carrier compensation; expected increases in high-speed Internet and business data connections, including increasing availability of higher Internet speeds and services utilizing next generation technology for customers; expectations regarding expanding enhanced services related to Internet speeds, IPTV and 1 Gbps services to more locations and expanding our fiber network; our expected ability to fund operations; expected required contributions to our pension plan and our ability to make contributions utilizing our common stock; the completion and benefits from network investments related to the Connect America Fund to fund the deployment of broadband services and capital expenditure amounts related to these investments; anticipated benefits of Project Excel to improve network capabilities and offer premium Internet speeds; anticipated capital expenditures and certain debt maturities from cash flows from operations; improving our debt profile and reducing interest costs; and expected effective federal income tax rates. These and other forward-looking statements are based on estimates, projections, beliefs, and assumptions that we believe are reasonable but are not guarantees of future events and results. Actual future events and our results may differ materially from those expressed in these forward-looking statements as a result of a number of important factors.
+Factors that could cause actual results to differ materially from those contemplated in our forward-looking statements include, among others:
+
+• | the cost savings and expected synergies from the merger with EarthLink may not be fully realized or may take longer to realize than expected;
+
+
+• | the integration of Windstream and EarthLink may not be successful, may cause disruption in relationships with customers, vendors and suppliers and may divert attention of management and key personnel;
+
+
+• | changes to our current dividend practice which is subject to our capital allocation policy and may be changed at any time at the discretion of our board of directors;
+
+
+• | further adverse changes in economic conditions in the markets served by us;
+
+
+• | the extent, timing and overall effects of competition in the communications business;
+
+
+• | our election to accept state-wide offers under the FCC’s Connect America Fund, Phase II, and the impact of such election on our future receipt of federal universal service funds and capital expenditures, and any return of support received pursuant to the program;
+
+
+• | the potential for incumbent carriers to impose monetary penalties for failure to meet specific volume and term commitments under their special access pricing and tariff plans, which Windstream uses to lease last-mile connections to serve its retail business data service customers, without FCC action;
+
+
+• | the impact of new, emerging or competing technologies and our ability to utilize these technologies to provide services to our customers;
+
+
+• | for certain operations where we lease facilities from other carriers, adverse effects on the availability, quality of service, price of facilities and services provided by other carriers on which our services depend;
+
+
+• | unfavorable rulings by state public service commissions in current and further proceedings regarding universal service funds, inter-carrier compensation or other matters that could reduce revenues or increase expenses;
+
+ 14
+
+
+• | material changes in the communications industry that could adversely affect vendor relationships with equipment and network suppliers and customer relationships with wholesale customers;
+
+
+• | our ability to make rent payments under the master lease to CS&L, which may be affected by results of operations, changes in our cash requirements, cash tax payment obligations, or overall financial position;
+
+
+• | unanticipated increases or other changes in our future cash requirements, whether caused by unanticipated increases in capital expenditures, increases in pension funding requirements, or otherwise;
+
+
+• | the availability and cost of financing in the corporate debt markets;
+
+
+• | the potential for adverse changes in the ratings given to our debt securities by nationally accredited ratings organizations;
+
+
+• | earnings on pension plan investments significantly below our expected long term rate of return for plan assets or a significant change in the discount rate or other actuarial assumptions;
+
+
+• | unfavorable results of litigation or intellectual property infringement claims asserted against us;
+
+
+• | the risks associated with non-compliance by us with regulations or statutes applicable to government programs under which we receive material amounts of end user revenue and government subsidies, or non-compliance by us, our partners, or our subcontractors with any terms of our government contracts;
+
+
+• | the effects of federal and state legislation, and rules and regulations, and changes thereto, governing the communications industry;
+
+
+• | continued loss of consumer households served and consumer high-speed Internet customers;
+
+
+• | the impact of equipment failure, natural disasters or terrorist acts;
+
+
+• | the effects of work stoppages by our employees or employees of other communications companies on whom we rely for service; and
+
+
+• | those additional factors under “Risk Factors” in Item 1A of this Annual Report and in subsequent filings with the Securities and Exchange Commission at www.sec.gov.
+
+In addition to these factors, actual future performance, outcomes and results may differ materially because of more general factors including, among others, general industry and market conditions and growth rates, economic conditions, and governmental and public policy changes.
+We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. The foregoing review of factors that could cause our actual results to differ materially from those contemplated in the forward-looking statements should be considered in connection with information regarding risks and uncertainties that may affect our future results included in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and in our other filings with the Securities and Exchange Commission at www.sec.gov.
+ 15
+

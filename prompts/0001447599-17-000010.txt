@@ -1,0 +1,272 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Our Mission
+
+Fitbit helps people lead healthier, more active lives by empowering them with data, inspiration, and guidance to reach their goals.
+
+Overview
+
+Fitbit is transforming the way millions of people around the world achieve their health and fitness goals. The Fitbit platform combines connected health and fitness devices with software and services, including an online dashboard and mobile apps, data analytics, motivational and social tools, personalized insights, and virtual coaching through customized fitness plans and interactive workouts. Our platform helps people become more active, exercise more, sleep better, eat smarter, and manage their weight. Fitbit appeals to a large, mainstream health and fitness market by addressing these key needs with advanced technology embedded in simple-to-use products and services. We pioneered the connected health and fitness market starting in 2007, and since then, we have grown into a leading global health and fitness brand. 
+
+The core of our platform is our family of wearable connected health and fitness trackers. These wrist-based and “clippable” devices automatically track users’ daily steps, calories burned, distance traveled, and active minutes and display real-time feedback to encourage them to become more active in their daily lives. Most of our trackers also measure floors climbed, sleep duration and quality, and our more advanced products track heart rate and GPS-based information such as speed, distance, and exercise routes. Several of our devices also feature deeper integration with smartphones, such as the ability to receive call and text notifications and control music. To accompany certain of our products, we offer accessories that include interchangeable wrist bands and frames, colored clips, device charging cables, wireless sync dongles, band clasps, sleep bands, and Fitbit apparel. In addition, we offer a Wi-Fi connected scale that records weight, body fat, and BMI. We are able to enhance the functionality and features of our connected devices through wireless updates. 
+
+Our platform also includes our online dashboard and mobile apps, which wirelessly and automatically sync with our devices. Our platform allows our users to see trends and achievements, access motivational tools such as virtual badges and real-time progress notifications, and connect, support, and compete with friends and family. Our direct connection with our users enables us to provide personalized insights, premium services, and information about new products and services. Premium services include virtual coaching through customized fitness plans and interactive video-based exercise experiences on mobile devices and computers. In addition, we extend the value of our platform through our open API, which enables third-party developers to create health and fitness apps that interact with our platform. Through our open platform and our large community of users, we have established an ecosystem that includes thousands of third-party health and fitness apps that connect with our products and enhance the Fitbit experience.
+Our platform enables all types of people to get fit their own way, whatever their interests and goals. Our users range from people interested in improving their health and fitness through everyday activities to endurance athletes seeking to maximize their performance. To address this range of needs, we design our devices, apps, and services to be easy to use so that they fit seamlessly into peoples’ daily lives or activities. Our users can sync their Fitbit devices with, and view their dashboard on, their computers and over 200 mobile devices, including iOS, Android, and Windows Phone products. This broad compatibility, combined with our market-leading position, has enabled us to attract what we believe is the largest community of connected health and fitness device users. The size of our user community increases the likelihood that our users will be able to find and engage with friends and family, creating positive network effects that reinforce our growth. In addition, data from our large community enables us to enhance our product features, provide improved insights, and offer more valuable guidance for our users.
+The Fitbit Platform
+
+Our leading connected health and fitness platform is designed to enable our users to improve their health and fitness by:
+
+
+• | Tracking activities through our connected health and fitness devices. We empower users to live healthier, more active lifestyles by both tracking the information that matters most to them and providing them with real-time feedback. Our connected health and fitness devices span multiple styles, form factors, and price points, addressing the needs of everyone—from people simply looking to get fit by increasing their activity levels to endurance athletes seeking to maximize their performance. Our devices, which include wrist-based and clippable fitness trackers and our Wi-Fi connected scale, feature
+
+2
+
+proprietary and advanced sensor technologies and algorithms, high accuracy of measures, and long battery lives. In addition, the ease of use and small, lightweight, and durable designs of our devices help them fit effortlessly into our users’ lifestyles.
+
+• | Learning through our online dashboard and mobile apps. We offer our users a personalized online dashboard and mobile apps that sync automatically with, and display data from, our connected health and fitness devices. We provide our users with a wide range of information and analytics, such as charts and graphs of their progress and the ability to log caloric intake. Both our online dashboard and mobile apps are free and work with all of our connected health and fitness devices. Our internally-developed software is regularly updated and enhanced, increasing the utility of our health and fitness platform.
+
+
+• | Staying motivated through social features, notifications, challenges, and virtual badges. Our products help millions of users achieve their goals both individually and within the community that they choose. On an individual level, we motivate users by delivering real-time feedback, including notifications, leaderboard and challenge updates, and virtual badges. Our platform also offers users social features that allow them to receive and provide support and engage in friendly competition. Users can securely share some or all of their health and fitness information on an opt-in basis with friends, family, and other parties and compete against each other on key statistics through leaderboards and daily or multi-day fitness challenges. In addition, users can choose to share their data with thousands of third-party apps and through social networks on an opt-in basis. As users create more connections on our network, they often benefit from higher levels of fitness activity and overall value from our platform.
+
+
+• | Improving health and fitness through goal-setting, personalized insights, premium services, and virtual coaching. Our primary goal is to help our users improve their health and fitness. We believe our platform assists users in changing their daily behavior, such as eating healthier foods or going for a run or walking more to reach a goal or win a challenge. We empower our users to set their own health and fitness goals and track their progress towards these goals. We also offer premium services on a subscription basis that provide personalized insights and virtual coaching through customized fitness plans and interactive video-based exercise experiences on mobile devices and computers. Our premium services feature in-depth data analysis and personalized reports, as well as benchmarking against peers.
+
+Our Competitive Strengths
+
+We believe the following strengths will allow us to maintain and extend our leadership position:
+
+
+• | Leading market position and global brand. Our singular focus on building a connected health and fitness platform, coupled with our leading market share, has led to our brand becoming synonymous with the connected health and fitness category.
+
+
+• | Broad range of connected health and fitness devices. We believe everyone’s approach to fitness is different, so we offer our users a range of connected health and fitness devices spanning multiple styles, form factors, and price points to allow people to find the devices that fit their lifestyles and goals. In addition to our wrist-based and clippable wearable health and fitness devices, we also offer a Wi-Fi connected scale that tracks weight, body fat, and BMI. We believe the breadth of our connected health and fitness devices provides us with a competitive advantage over our competitors, which often have a more limited line of products.
+
+
+• | Advanced, purpose-built hardware and software technologies. Our connected health and fitness devices leverage industry-standard technologies, such as Bluetooth low energy, as well as proprietary technologies, such as our PurePulse continuous heart rate tracking, and our algorithms that more accurately measure and analyze user health and fitness metrics. We devote significant resources to ensure that our devices effortlessly fit into our users’ lifestyles. For example, we design our small, lightweight, durable, and fashionable products to be optimized for power efficiency, which enables automatic wireless data syncing without compromising battery life. We place a similarly strong emphasis on our online dashboard and mobile apps to provide users with visualization of their progress and personalized guidance. Our highly-scalable cloud infrastructure enables millions of users around the world to engage with our platform in real-time.
+
+
+• | Broad mobile compatibility and open API. Our broad mobile compatibility and open API enable a large health and fitness ecosystem that provides additional value to our existing users and extends our reach to potential new users. Our users can sync their Fitbit devices with, and view their online dashboard on, their computers and over 200 mobile devices, including iOS, Android, and Windows Phone products. This broad compatibility, combined with our market-leading position, has enabled us to build what we believe is the largest community of connected health and fitness device users.
+
+3
+
+Additionally, we enable seamless integration with thousands of apps across iOS, Android, and Windows Phone through our open API, which allows our users to share data with third-party apps on an opt-in basis. 
+
+• | Broad and differentiated go-to-market strategy. We have developed a broad go-to-market strategy that reaches individuals regardless of where they shop. We sell our products in over 55,000 retail stores and in 65 countries, through our retailers’ websites, through our online store at Fitbit.com, and as part of our corporate wellness offering. We believe the breadth and depth of our established selling channels and prominent presence in retail stores are unmatched in the connected health and fitness category and would be difficult for a competitor to replicate.
+
+
+• | Large and growing community and powerful network effects. We believe the size of our community of users makes it more likely that users can connect with friends and family and attracts many new users to our platform. Each of our users add value to our platform by making progress towards their goals and syncing their data with our platform, which we leverage to provide better insights for our users. As our community of users continues to grow, we will develop a deeper understanding of our users and expect to deliver additional value to them through more detailed insights and analysis. We believe the growth and scale of our user community allows users to become not only more engaged with personalized and relevant content, but also less likely to leave a community in which many of their friends and family are active members.
+
+
+• | Direct relationship and continuous communication with our users. The connectivity of our devices allows us to better understand our users’ health and fitness goals. This connectivity also allows us to communicate the most relevant analysis, features, advice, and content to our users throughout the day with our online dashboard, mobile apps, emails, and notifications. We also utilize these communication channels to help our users become aware of our new products and services.
+
+Our Users
+
+We aim to empower all people to improve their health and fitness, whatever their lifestyle or goals. Our community of users generally falls into three fitness levels and we design and market our products to them accordingly:
+
+Everyday users represent our largest group of users. These users are looking to incorporate more activity into their daily routines as the primary means to improve their overall fitness through everyday activities, such as walking more or taking the stairs instead of the elevator. They are most interested in receiving feedback on daily activity measures such as steps, distance, calories burned, and active minutes. We primarily market the Fitbit Zip, Fitbit One, Fitbit Flex 2, and Fitbit Alta to Everyday users. 
+
+Active users exercise regularly to reach their fitness goals through activities such as running, using cardio equipment, and playing sports recreationally. As a result, these users are often interested in monitoring exercise intensity through heart rate tracking in addition to activity tracking. We primarily market the Fitbit Charge 2 and Fitbit Blaze to Active users. 
+
+Performance users train regularly to improve their performance and achieve their personal bests. These users participate in endurance sports and fitness activities with higher intensity and longer duration, such as interval or distance running and cycling, and thrive on personal improvement and competition. Accordingly, these users are interested in GPS tracking of speed, distance, and exercise routes, in addition to heart rate and daily activity tracking. We primarily market the Fitbit Surge to Performance users. 
+What Our Connected Health and Fitness Devices Track
+
+With each successive product offering, we have expanded the features and accuracy of our products and now track the following measures:
+
+
+• | Steps. The cornerstone of our initial product offering, our trackers use accelerometers and proprietary algorithms that count the number of steps taken throughout their day.
+
+
+• | Calories burned. Our users can estimate the amount of calories burned throughout the day based on several methods depending on the tracker. We believe our more advanced devices that use our PurePulse heart rate tracking technology provide a more accurate estimate of calorie burn than non-PurePulse based products.
+
+
+• | Distance traveled. Our users can track the distance they have traveled throughout the day as a function of the number of steps they have taken throughout the day or through built-in GPS, depending upon the tracker.
+
+4
+
+
+• | Heart rate. On trackers that are outfitted with our proprietary PurePulse technology, our users are able to automatically and continuously track their heart rate during everyday activity and exercise. Our PurePulse technology uses wrist-based optical LEDs, which measures heart rate using light reflection. We believe our PurePulse technology makes heart rate relevant as a means to more accurately measure calorie burn, maintain intensity during exercise, and train more effectively by using heart rate zones. Additionally, our heart rate tracking technology can conveniently provide our users with their resting heart rate, which is a widely used indicator of cardiovascular fitness and conditioning.
+
+
+• | Floors climbed. Using a built-in altimeter sensor, our users are able to track flights of stairs climbed, which encourages users to take the stairs instead of using an escalator or elevator. Floors climbed are tracked by all trackers except Fitbit Zip and Fitbit Alta.
+
+
+• | Sleep duration and quality. Users can track their sleep duration and quality on all trackers, except Fitbit Zip, including restless and awake episodes throughout the night. Most trackers allow users to track this data automatically.
+
+
+• | Active minutes. Our trackers detect the number of minutes our users are more active.
+
+
+• | GPS-based tracking. Our Fitbit Surge allows our users to track their speed, distance, and exercise routes using the GPS capability integrated into the device during activities such as running, cycling, hiking, and walking. For those without Fitbit Surge, our mobile apps provide GPS tracking using the phone’s GPS capability. Fitbit Blaze allows users to connect to their smartphones’ GPS capabilities.
+
+
+• | SmartTrack. SmartTrack automatically recognizes continuous movement when users wear Fitbit Alta, Fitbit Charge HR, Fitbit Blaze, or Fitbit Surge. It identifies the type of activity and records it in the Fitbit app along with an exercise summary, including duration, calories burned and heart rate stats. SmartTrack is capable of identifying a wide variety of activities, including elliptical, outdoor biking, running, walking, and general categories of aerobic workouts and sports.
+
+
+• | Weight, body fat, and BMI. Our Aria Wi-Fi connected scale allows users to track weight, BMI, lean mass, and body fat percentage separately and privately for up to eight users, helping individuals to track progress towards and achieve their body composition goals.
+
+
+• | Caloric intake. Through our mobile apps, we provide a database with more than 300,000 specific food items that can be searched and tracked. Users can log food consumption and set calorie budgets based on their caloric intake and daily activity to achieve a desired weight goal.
+
+Our Devices
+
+We believe everyone’s approach to fitness is different, so we have created products with a wide variety of styles, sizes, features, and price points.
+
+Fitbit Zip is our entry-level wireless activity tracker for Everyday users that allows them to track the most important daily activity statistics such as steps, distance, calories burned, and active minutes. As a clippable tracker, Fitbit Zip can be worn discreetly in a pocket or on a belt. We offer the Fitbit Zip in five colors with a replaceable watch battery that lasts up to six months. Fitbit Zip has a U.S. MSRP of $59.95. 
+Fitbit One is a more advanced clippable wireless tracker for Everyday users that tracks floors climbed and sleep in addition to daily steps, distance, calories burned, and active minutes. Fitbit One also has a silent alarm that gently vibrates to wake users at a desired time. Fitbit One is available in two colors and offers a rechargeable battery that lasts ten to fourteen days. Fitbit One has a U.S. MSRP of $99.95.
+
+Fitbit Flex is our first wristband-style tracker, with a sleek and stylish design intended for Everyday users. Fitbit Flex tracks steps, distance, calories burned, active minutes, and sleep. Fitbit Flex also has a silent alarm. Fitbit Flex features LED lights to show users’ progress towards their primary daily goal. We also offer users the ability to change wristbands for different colors to match their mood or personal style. Its rechargeable battery lasts up to five days. Fitbit Flex has been discontinued and replaced with Fitbit Flex 2.
+Fitbit Flex 2 replaces Fitbit Flex, and is our first water-resistant fitness wristband. We began selling Fitbit Flex 2 in September 2016. Fitbit Flex 2 is water resistant up to 50 meters, and automatically tracks pool swims including laps, duration and calories burned in the Fitbit App. It features SmartTrack automatic exercise recognition, tracks daily activities such as steps, distance, 
+5
+
+calories burned, and active minutes, and automatically tracks sleep at night. Fitbit Flex 2 also features a slim design, easily interchangeable bands, and LED lights to show progress toward a user’s daily goal. Fitbit Flex 2 is available in four colors and two sizes, and uses a rechargeable battery that lasts up to five days. Fitbit Flex 2 has a U.S. MSRP of $99.95.
+
+Fitbit Charge is our activity and sleep wristband for Everyday users that we began selling in October 2014. It tracks steps, distance, calories burned, active minutes, floors climbed, and sleep. Fitbit Charge features a bright OLED display that shows users’ daily activity and time of day, as well as incoming caller ID notifications when the device is paired with the user’s phone. Fitbit Charge tracks sleep automatically and offers a silent wake alarm. Its rechargeable battery lasts seven to ten days. Fitbit Charge has been discontinued and replaced with Fitbit Charge 2.
+
+Fitbit Alta is our slim, sleek, and customizable wristband for Everyday users that we began selling in March 2016. Fitbit Alta offers call, text, and calendar notifications when paired with the user’s phone and SmartTrack automatic exercise recognition. It also features reminders to move throughout the day. It measures daily activities such as steps, distance, calories burned, active minutes, and automatically tracks sleep at night. Fitbit Alta can be personalized with interchangeable accessory bands and features a vibrant OLED display. Fitbit Alta is available in four colors and three sizes, and uses a rechargeable battery that lasts up to five days. Fitbit Alta has a U.S. MSRP of $129.95.
+Fitbit Charge HR is a wireless heart rate and activity wristband for Active users that we began selling in December 2014. Fitbit Charge HR offers all the features available on the Fitbit Charge and also includes our proprietary PurePulse heart rate tracking technology and SmartTrack automatic exercise recognition. Its rechargeable battery lasts up to five days. Fitbit Charge HR has been discontinued and replaced with Fitbit Charge 2.
+Fitbit Charge 2 replaces Fitbit Charge and Fitbit Charge HR, and is a wireless heart rate and activity wristband that we began selling in August 2016. Fitbit Charge 2 features connected GPS through a user’s smartphone, PurePulse heart rate tracking, and SmartTrack automatic exercise recognition. It provides an estimate of the user’s cardio fitness level, features guided breathing sessions, and provides text and call notifications. Fitbit Charge 2 tracks daily activities such as steps, distance, calories burned, floors climbed, and active minutes and automatically tracks sleep at night. Fitbit Charge 2 also features a slim design, easily interchangeable bands, and a tap-sensitive display. Fitbit Charge 2 is available in four colors and three sizes. Its rechargeable battery lasts up to five days. Fitbit Charge 2 has a U.S. MSRP of $149.95.
+Fitbit Blaze is our smart fitness watch for Active users that we began selling in February 2016. It combines features of a smartwatch, heart rate tracker, and activity tracker. It includes features such as FitStar on-screen workouts, connected GPS through a user’s smartphone’s GPS, PurePulse heart rate tracking, and SmartTrack automatic exercise recognition. It provides multi-sport functionality, tracks outdoor cycling activity, provides run cues, includes a stop watch and timer, and is also designed with advanced smartwatch features, including text and call notifications and music control. Like our other trackers, it measures daily activities such as steps, distance, calories burned, floors climbed, and active minutes and automatically tracks sleep at night. Fitbit Blaze also features a slim design, easily interchangeable bands and frames, and a color touchscreen. Fitbit Blaze is available in three colors and three sizes, and uses a rechargeable battery that lasts up to five days. Fitbit Blaze has a U.S. MSRP of $199.95.
+Fitbit Surge is our fitness “super watch” for Performance users that we began selling in December 2014. It combines features of a GPS watch, heart rate tracker, activity tracker, and smartwatch. On its touch screen LCD display, Fitbit Surge displays real-time statistics from its built-in GPS tracker such as speed, distance, and exercise routes. Fitbit Surge incorporates our PurePulse heart rate technology and SmartTrack automatic exercise recognition. It provides multi-sport functionality, tracks outdoor cycling activity, provides run cues, includes a stop watch and timer, and is also designed with advanced smartwatch features, including text and call notifications and music control. Like our other trackers, it measures daily activities such as steps, distance, calories burned, floors climbed, and active minutes and automatically tracks sleep at night. Fitbit Surge is available in three colors and three sizes and incorporates a rechargeable battery that lasts up to seven days. Fitbit Surge has a U.S. MSRP of $249.95. 
+
+Aria is our Wi-Fi connected scale that tracks weight, body fat percentage, and BMI. Aria identifies users and shows their weight and body fat percentage on its easy-to-read display. The device recognizes up to eight individual users separately and privately. Aria is available in two colors and runs on standard AA batteries. Aria has a U.S. MSRP of $129.95. 
+Fitbit Accessories include bands and frames for Fitbit Blaze, bands for Fitbit Charge 2, Fitbit Alta, Fitbit Flex 2 and Fitbit Flex, bangles and pendants for Fitbit Flex 2, colored clips for Fitbit One and Fitbit Zip, device charging cables, wireless sync dongles, band clasps, sleep bands, and Fitbit apparel. In addition, our partners Tory Burch, Simply Vera Vera Wang, and Public School offer accessory collections for Fitbit Alta and Fitbit Flex. Fitbit accessories are offered at U.S. MSRPs ranging from $4.95 to $295.00.
+6
+
+
+Our Interactive Experience
+
+Fitbit online dashboard and mobile apps. We offer our users a personalized online dashboard and mobile apps that sync automatically with, and display real-time data from, our connected health and fitness devices. Through these offerings, we provide users with charts and graphs of their progress, deeper analysis of their activities, and the ability to log caloric intake. Additionally, we motivate users through real-time feedback including notifications, leaderboard and challenge updates, and virtual badges. Our platform also offers users social features, such as leaderboards and challenges, that allow users to receive and provide support and engage in friendly competition. Our online dashboard and mobile apps are available for free through the iOS App Store, Google Play, Windows Store, and on Fitbit.com.
+
+Fitbit Premium is our premium membership that serves as a 24/7 virtual personal trainer delivered to users through any web browser. The program features personalized and dynamic 12 week fitness plans to gradually increase activity levels. It also includes personalized reports and analysis of weekly data accompanied by recommended health and fitness targets and comparisons against peer benchmarks for weight, activity, and sleep. Fitbit Premium is offered on a subscription basis for U.S. $49.99 per year. 
+
+FitStar. In March 2015, we acquired FitStar, a provider of interactive video-based exercise experiences on mobile devices and computers that utilize proprietary algorithms to adjust and customize workouts for individual users based on data gathered during their workouts. Through our FitStar offerings, we provide exercise programs through personal trainer and yoga apps that continuously adjust to our users based on feedback throughout the workout. FitStar is offered monthly for U.S. $7.99 or on an annual subscription basis for U.S. $39.99 per year.
+
+Compatibility and Wireless Syncing
+
+In order to reach the widest set of users and facilitate a strong social experience on our platform, we focus on ensuring that our devices are compatible with a broad range of mobile devices and operating systems.
+Currently, our users can sync their Fitbit devices with, and use their online dashboard on, over 200 mobile devices including iOS, Android, and Windows Phone operating systems. Additionally, our users can access their online dashboard through a web browser on any smartphone, tablet, PC, or Mac.
+
+Our connected health and fitness trackers wirelessly sync with our online dashboard and mobile apps through Bluetooth low energy technology. This power efficient technology enables our devices to sync with our mobile apps automatically, allowing us to provide users with real-time feedback and notifications. For syncing our fitness trackers with computers, we include a Bluetooth low energy wireless sync dongle with each fitness tracker that plugs into any computer’s USB port. Our Aria Wi-Fi connected scale syncs data wirelessly and automatically with users’ computers through their home Wi-Fi network. The combination of our cross-platform compatibility and wireless syncing capabilities provides our users with a seamless connected health and fitness experience in the market and differentiates us from our competitors, which may only sync to a single mobile operating system, such as iOS, or to a more limited number of Android mobile devices, or not to computers at all.
+
+Our Commitment to Privacy
+
+We take privacy seriously and offer our users high levels of privacy and security. We are committed to respecting our users’ privacy, letting our users decide how their information is used and shared, and keeping their data safe.
+
+We have developed our data collection and use practices in accordance with the Fair Information Practice Principles, more commonly known as FIPPs. We are committed to the following privacy principles as outlined in our privacy policy:
+
+
+• | Limited Collection. We only collect data that is useful to improving our products, services, and user experience.
+
+
+• | Transparent and Easy to Understand Policies. We are transparent about our data practices and explain them in clear language.
+
+
+• | No Unexpected Uses. We never sell user data or use it other than as described in our privacy policy.
+
+
+• | Clear Notice and Consent. We only share personally identifiable data with third parties, including employers, when our users consent to the sharing and under the limited circumstances outlined in our privacy policy where users’ personally identifiable data can be shared without specific consent, such as our receipt of search warrants or subpoenas from law enforcement agencies or in response to a validly issued legal process in a civil litigation matter. We do not currently share
+
+7
+
+information such as heart rate data or geolocation data with employers under our corporate wellness offerings and do not intend to share such data in the future without specific user consent.
+
+• | Prioritize Security. We take the security of our users’ data seriously. We use a combination of technical and administrative security controls to maintain the security of user data.
+
+Our platform enables users to share information from Fitbit on an opt-in basis with friends, family, and other parties. Users may link their Fitbit accounts to third-party apps, send status updates on social networks, such as Facebook and Twitter, or share certain data with employers as part of a corporate wellness program. We allow our users to revoke their consent to share data with third parties at any time using their Fitbit account settings. If users choose to share their data with a third party, the data is governed by the privacy policy of the third party.
+Research and Development
+
+We are passionate about developing innovative products and services that empower our users to reach their health and fitness goals. We believe our future success depends on our ability to develop new products and features that expand the versatility and performance of our existing platform and we plan to continue to invest significant resources to enhance performance, functionality, and convenience and style for our users.
+Our global research and development team supports the design and development of our connected health and fitness devices, proprietary sensors, firmware, data algorithms, and online dashboard and mobile apps. The team is comprised of dedicated research employees, electrical engineers, mechanical engineers, firmware engineers, site operations engineers, and mobile app developers. Our research and development team is primarily based at our headquarters in San Francisco, California as well as several other worldwide locations.
+
+Our research and development expenses were $320.2 million, $150.0 million, and $54.2 million, for 2016, 2015, and 2014, respectively.
+
+Manufacturing, Logistics and Fulfillment
+
+We outsource the manufacturing of our products to several contract manufacturers, including Flextronics which is our primary contract manufacturer. These contract manufacturers produce our products in their facilities located in Asia. The components used in our products are sourced either directly by us or on our behalf by our contract manufacturers from a variety of component suppliers selected by us and located worldwide. Our operations employees coordinate our relationships with our contract manufacturers and component suppliers. We believe that using outsourced manufacturing enables greater scale and flexibility at lower costs than establishing our own manufacturing facilities. We evaluate on an ongoing basis our current contract manufacturers and component suppliers, including, whether or not to utilize new or alternative contract manufacturers or component suppliers.
+
+Under our agreement with Flextronics, Flextronics manufactures certain of our products using design specifications, quality assurance programs, and standards that we establish. We pay for and own all tooling and other equipment specifically required to manufacture our products and have purchase commitments based on our purchase orders and demand forecasts for certain amounts of finished goods, works-in-progress, and components purchased in order to support such purchase orders and forecasts. The agreement has an initial term of one-year that ends in March 2017, and automatically renews for successive one-year terms unless either party provides at least 90 days prior written notice. We expect for the agreement to be renewed in March 2017 for a one-year term. We may terminate the agreement for convenience upon providing at least 90 days prior written notice and Flextronics may terminate for convenience upon providing at least 180 days prior written notice.
+
+We work with third-party fulfillment partners that deliver our products from multiple locations worldwide, which allows us to reduce order fulfillment time, reduce shipping costs, and improve inventory flexibility.
+
+Sales Channels and Customers
+
+We sell our products through three primary channels:
+
+Retail and distribution channel. We offer our products in over 55,000 retail stores and in 65 countries. We focus on building close relationships with our retailers, working with them to merchandise our products in a compelling manner both in-store and on their e-Commerce sites, promote our products through their marketing efforts, and educate their sales forces about our products. In addition, we sell to distributors who resell our products to retailers.
+
+8
+
+
+• | Consumer electronics and specialty retailers. Our products are sold by retailers with a large domestic and international presence such as Best Buy.
+
+
+• | e-Commerce retailers. Our products are sold on Amazon.com, in addition to e-Commerce sites of our retailers.
+
+
+• | Mass merchant, department store, and club retailers. Our products are sold by large retailers, including Target, Costco, Macy’s, Kohl’s, and Walmart.
+
+
+• | Sporting goods and outdoors retailers. Our products are sold by sporting goods and outdoors retailers, including Dick’s Sporting Goods and REI.
+
+
+• | Wireless carriers. Our products are sold by wireless carriers, including AT&T, Sprint, and Verizon.
+
+
+• | Distributors. Our products are sold by a network of distributors, including Wynit Distribution.
+
+Consumer direct channel. We sell our full line of products directly to consumers in the United States and other countries through our online store at Fitbit.com. We drive consumers to our website through online and offline advertising as well as marketing promotions. 
+
+Corporate wellness channel. We offer products and services to employers looking to enhance their employee wellness programs. We sell our corporate wellness offering directly to employers or through partners, such as wellness program providers and insurance companies. Through our corporate wellness offering employers can purchase our products at quantity discounts for their employees. We also offer a range of other services to maximize wellness program success, such as easy employee onboarding, an engaging employee leaderboard, real-time group reporting for company administrators, and employee insight into progress towards program goals. We can also integrate with our partners’ existing wellness programs.
+
+Backlog
+
+There is a relatively short cycle between order and shipment of our sales. Therefore, we believe that backlog information is not material to the understanding of our business.
+Marketing and Advertising
+
+Our marketing and advertising programs are focused on building global brand awareness, increasing product adoption, and driving sales. Our marketing and advertising efforts target a wide range of consumers and leverage traditional advertising methods (including television, cinema, and print magazines), sponsorships and public relations, digital marketing, channel marketing, and endorsements by professional athletes and celebrities.
+
+Our in-store merchandising strategy focuses on our point of purchase, or POP displays. We install our freestanding, in-line, and endcap POP displays of varying sizes at our various retailers. These displays communicate our marketing messages, present our products and their features and, in many cases, allow consumers to try on our devices and view an interactive app that enables them to learn more about our products.
+
+Intellectual Property
+
+Intellectual property is an important aspect of our business, and we seek protection for our intellectual property as appropriate. We rely upon a combination of patent, copyright, trade secret, and trademark laws and contractual restrictions, such as confidentiality agreements and licenses, to establish and protect our proprietary rights.
+
+As the leader in the fast-growing market for connected health and fitness devices, we have developed a significant patent portfolio to protect certain elements of our proprietary technology. As of December 31, 2016, we had 229 issued patents and 262 patent applications pending worldwide. We continually review our development efforts to assess the existence and patentability of new intellectual property. We pursue the registration of our domain names and trademarks and service marks in the United States and in certain locations outside the United States. To protect our brand, as of December 31, 2016, we had an international trademark portfolio comprised of 184 registered trademarks and 90 trademark applications pending in 70 countries.
+Competition
+
+The market for connected health and fitness devices is both evolving and competitive. The connected health and fitness devices category has a multitude of participants including specialized consumer electronics companies such as Garmin, Jawbone, and Misfit, traditional health and fitness companies such as adidas and Under Armour, and traditional watch companies such as Fossil and Movado. In addition, many large, broad-based consumer electronics companies either compete in our market or adjacent markets or have announced plans to do so, including Apple, Google, LG, Microsoft, and Samsung. For example, Apple sells the Apple Watch, which is a smartwatch with broad-based functionalities, including some health and fitness tracking capabilities, and 
+9
+
+Apple has sold a significant volume of its smartwatches since introduction. We also face competition from manufacturers of lower-cost devices, such as Xiaomi and its Mi Band device. In addition, we compete with a wide range of stand-alone health and fitness-related mobile apps that can be purchased or downloaded through mobile app stores.
+
+The principal competitive factors in our market include:
+
+
+• | brand awareness and focus;
+
+
+• | breadth of product offerings;
+
+
+• | battery life, sensor technology, and tracking features;
+
+
+• | online and mobile app experience;
+
+
+• | strength of sales and marketing efforts; and
+
+
+• | distribution strategy.
+
+We believe we compete favorably with our competitors on the basis of these factors as a result of our leading market position and global brand, advanced and proprietary sensor technologies, software-driven online dashboard and mobile apps, our motivational and social tools, and our premium software offerings. By offering a broad range of products spanning styles and affordable price points and cross-platform compatibility, we empower a wide range of individuals with different fitness routines and goals that are difficult for other competitors to address. Moreover, our singular focus on building a connected health and fitness platform, coupled with a leading market share, has led to our brand becoming synonymous with the connected health and fitness category. This singular focus on health and fitness has driven us to dedicate significant resources to developing proprietary sensors, algorithms, and software to ensure that our products, which are specifically oriented towards health and fitness, have accurate measurements, insightful analytics, compact sizes, durability, and long battery lives. We believe this singular focus allows us to compete favorably with companies that have introduced or have announced plans to introduce devices with broad-based functionalities, including health and fitness tracking capabilities, which are not necessarily optimized for health and fitness usage. Furthermore, our platform and open API have together enabled us to establish a large and growing health and fitness ecosystem that not only provides additional value to our existing users, but also extends our reach to potential new users. This broad compatibility, combined with our market-leading position, has enabled us to attract what we believe is the largest community of connected health and fitness device users, making it more likely that users can connect with friends and family and creating positive network effects that reinforce our growth.
+
+Employees
+
+As of December 31, 2016, we had 1,753 global employees. We have not experienced any work stoppages. We consider our relationship with our employees to be good.
+Corporate Information
+We were incorporated in Delaware in March 2007 as Healthy Metrics Research, Inc. We changed our name to Fitbit, Inc. in October 2007. We completed our initial public offering in June 2015 and our Class A common stock is listed on The New York Stock Exchange under the symbol “FIT.” Our principal executive offices are located at 405 Howard Street, San Francisco, California 94105, and our telephone number is (415) 513-1000. Our website address is www.fitbit.com and our investor relations website address is http://investor.fitbit.com. The information on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K. Fitbit, the Fitbit logo, Fitbit Surge, Fitbit Blaze, Fitbit Charge 2, Fitbit Charge HR, Alta, Fitbit Charge, Fitbit Flex 2, Fitbit Flex, Fitbit One, Fitbit Zip, Aria, PurePulse, SmartTrack, FitStar, and our other registered or common law trade names, trademarks, or service marks appearing in this Annual Report on Form 10-K are our intellectual property. This Annual Report on Form 10-K contains additional trade names, trademarks, and service marks of other companies that are the property of their respective owners.
+Through a link on our website, we make available the following filings as soon as reasonably practicable after they are electronically filed with or furnished to the Securities and Exchange Commission, or SEC: our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act. All such filings are available free of charge. The public may also read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington DC, 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website at www.sec.gov that contains all reports that we file or furnish with the SEC electronically.
+10
+

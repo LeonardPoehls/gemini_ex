@@ -1,0 +1,196 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+     ITEM 1.       BUSINESS
+     Overview
+     DigitalGlobe is a leading global provider of high-resolution Earth imagery, data and analysis. Sourced from our own advanced satellite constellation and third-party providers, our imagery solutions and other services provide customers with accurate and mission-critical information about our changing planet, and support a wide variety of uses, including mission-planning, mapping and analysis, environmental monitoring, oil and gas exploration, and infrastructure management. Additionally, hundreds of developers are building new applications and machine learning algorithms on our Geospatial Big Data platform and in our recently expanded Services business. Each day users depend on us to better understand our changing planet in order to save lives, resources and time. 
+     We were originally incorporated as EarthWatch on September 30, 1993 under the laws of the State of Colorado and reincorporated in the State of Delaware on August 21, 1995. On August 22, 2002, we changed our name to DigitalGlobe, Inc. Our common stock has been listed on the New York Stock Exchange (“NYSE”) and traded under the symbol “DGI” since our initial public offering in May 2009. On January 31, 2013, we completed our acquisition of 100% of the outstanding stock of GeoEye, Inc. (“GeoEye”), a leading provider of geospatial intelligence solutions. 
+     Pending Transaction with MDA
+     On February 24, 2017, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with MacDonald, Dettwiler and Associates Ltd., a corporation organized under the laws of British Columbia (“MDA”), SSL MDA Holdings, Inc., a Delaware corporation and wholly owned subsidiary of MDA (“SSL MDA Holdings”), and Merlin Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of SSL MDA Holdings (“Merger Sub”), pursuant to which, among other things, Merger Sub will merge with and into DigitalGlobe (the “Merger”), with DigitalGlobe surviving as an indirect wholly owned subsidiary of MDA. Under the terms of the Merger Agreement, at the closing of the Merger, each outstanding share of our common stock will be converted into the right to receive US$17.50 in cash and 0.3132 of a common share of MDA (the “Merger Consideration”), without interest and subject to any required withholding for taxes, and each outstanding share of our Series A convertible preferred stock will be converted into the right to receive the same Merger Consideration as if the holder thereof had converted such shares of Series A convertible preferred stock into our common stock immediately prior to the closing of the Merger.  
+     The closing of the Merger is subject to customary closing conditions, including required regulatory approvals, adoption of the Merger Agreement by our stockholders, and approval of the issuance of common shares of MDA in connection with the Merger by MDA’s shareholders. The closing of the Merger is not subject to a financing condition.
+     The Merger is expected to close in the second half of 2017. Following completion of the Merger, our common stock will be delisted from the NYSE and deregistered under the Securities Exchange Act of 1934, as amended, and as such, we will no longer file periodic reports with the SEC.
+    
+
+ 
+  3
+
+ 
+
+ Business Strategy
+     Our long-term business strategy is to grow our core satellite imagery products and services, while investing for growth in our multi-source analytics Platform business, which enables a wide array of customers to extract insight from our imagery. Additionally, our Services business helps our government customers harness the power of our imagery and platform services to address critical missions at scale. The key factors we believe will enable us to achieve our long-term business strategy include: 
+     Imagery leadership. We plan to deliver the highest-quality products and experience to our customers and efficiently maintain and replenish our satellite constellation and technology architecture in a manner that reduces capital intensity. We expect to extend our lead as the industry-best source of imagery. As a result, we expect to protect and grow our key customer segments including the U.S. Government and Diversified Commercial through a focus on quality and ease of use, driving free cash flow growth and returns by solving our customers’ problems.
+     Platform leadership. We are investing to build the leading multi-source analytics platform to enable a wide array of customers, developers and partners to easily unlock the power of our content and thereby sustain long-term growth. Our Platform business is built on the largest historical archive of the highest quality Earth imagery commercially available. We are enhancing our platform’s large-scale data analytics applications to derive new analytic products and services to reach new customers and use cases. 
+     Services leadership. We plan to grow our Services business by helping the U.S. Government and other strategic customers with innovative solutions that enable our customers to leverage geospatial intelligence to support critical national security missions at scale. In November 2016, we completed the acquisition of The Radiant Group, Inc. (“Radiant”), a privately held leading technical and analytical solutions provider for U.S. government customers. Our acquisition of Radiant is expected to broaden our cloud-enabled capabilities across the geospatial intelligence value chain and expand our customer base across the U.S. Intelligence and Special Operations communities.        Reducing capital intensity. We are actively reducing our capital intensity while extending our industry lead. In February 2016, we reached an agreement with two Saudi Arabian entities to develop a constellation of six sub-meter resolution satellites. The Saudi Arabian entities will be responsible for the construction, integration and launch of the satellites. Additionally, our future replenishment of WorldView-1 and WorldView-2 is expected to cost no more than $600 million, a considerable savings over the combined cost of the original satellites.
+     Business Organization
+     We have one reportable segment, in which we use common infrastructure and technology to collect, process and distribute products and provide services to customers around the world. We measure performance based on consolidated operating results and achievement of individual performance goals. We sell our products and services through a combination of direct and indirect channels consisting of a global network of resellers, strategic partners and direct-enterprise sales to our U.S. Government and Diversified Commercial customer groups.      Products and Services
+     We offer products comprised of imagery from our constellation of high-resolution satellites and we provide geospatial products and services in which we combine our imagery, analytic expertise and innovative technology to deliver integrated solutions. Customers can purchase specific images that are archived in our imagery archives (“ImageLibrary”) or place custom orders to task our satellites for a specific area of interest. We process our imagery to varying levels according to our customers’ specifications and deliver our products using the distribution method that best suits our customers’ needs. We use our satellite imagery, along with other sources of data, to deliver integrated intelligence solutions to our customers. Our Services team’s unique geospatial and intelligence expertise allows our customers to unlock insights from large sets of data. 
+
+ 
+  4
+
+ 
+
+ We offer a range of on- and off-line distribution options designed to enable customers to easily access and integrate our imagery into their business operations and applications, including desktop software applications and web services that provide for direct on-line access to our ImageLibrary. 
+     Imagery
+     We provide many customer-ready imagery products that are designed to enable customers to understand and analyze specific geographies of interest. Imagery can be collected as follows: 
+· | Panchromatic – black and white imagery that provides the highest resolution band from our constellation.
+--+---------------------------------------------------------------------------------------------------------
+
+
+· | Multispectral (4-band) – includes the Red, Green, Blue and Near Infrared bands. These bands approximate the colors the human eye can see, and just beyond the visible into the near infrared.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Multispectral (8-band) – includes the four bands above plus Coastal, Yellow, Red-Edge, and Near Infrared 2. The near infrared bands support applications such as monitoring crop health and moisture content.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Short Wave Infrared (“SWIR”) – this unique WorldView-3 imaging capability enables applications such as mineral and material detection and visibility through obstructions such as smoke and haze.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      We offer a number of imagery products, including: 
+    
+· | Basic imagery – includes the least amount of processing. Basic imagery provides the customer flexibility to perform their own processing to produce orthorectified imagery and basemaps.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Standard imagery – includes radiometric and geometric correction. Radiometric correction enables images to appear uniformly illuminated with the appropriate level of brightness. Geometric correction allows a user to identify the latitudinal, longitudinal and altitudinal location of any point in an image.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Orthorectified imagery – includes radiometric, geometric and topographic correction. Topographic correction accounts for terrain and projects images onto the Earth as they would be seen by the human eye.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Basemap product suite – our Basemap product delivers geo-located context that enables users to better understand and analyze specific areas of interest. Our Basemap product can be supplemented with +Daily, +Vivid, and/or +Metro. The +Daily service includes the most relevant current collections from our satellite constellation and is updated continuously, allowing customers to extract new points of interest as they appear throughout time. Powered by our proprietary image processing techniques, +Vivid delivers high quality imagery that maximizes contrast, sharpness, and clarity while maintaining uniformity. Finally, Basemap +Metro provides access to high-resolution imagery of more than 2,600 world capitals and major metropolitan areas. Imagery is mosaicked together to provide a consistent view of the urban landscape.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Elevation products – Elevation and terrain information is foundational to mapping and understanding the surface of our planet. We offer stereo imagery (images collected from different viewpoints along the satellite’s orbit track) to customers with advanced image processing capabilities and tools, allowing them to create 3D visualization and digital elevation models. We also offer customers semi-customized terrain products, 3D surface models and digital elevation models.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      In addition to offering many customer-ready products and services, certain of our customers through our Direct Access Program (“DAP”) are able to directly task and receive imagery from our satellites within local and regional geographic boundaries of interest. We sell these customers facilities, enabling them to download and process imagery directly from our satellites. The DAP is designed to meet the enhanced information and operational security needs of a select number of defense and intelligence customers and certain commercial customers. 
+
+
+ 
+  5
+
+ 
+
+ Services
+     Customers are increasingly looking for analytic solutions to derive insights from imagery. With our Services products, we use our geospatial and military intelligence expertise to deliver insight to our customers through the creation of analytic applications, such as geospatial risk intelligence reports. These products and services combine imagery with other sources of geospatial data (e.g., geotagged social media data) to deliver integrated intelligence solutions. We provide analytic solutions that accurately document change and enable geospatial modeling and analysis that predict where events will occur to help our customers protect lives, make resource allocation decisions and save time. Our acquisition of Radiant furthers our capabilities through its expertise in efficient and optimized satellite tasking, imagery processing, data analytics, and machine learning. We primarily support U.S. government customers, but many of our capabilities also support intelligence requirements from international governments, global development organizations and commercial customers.     Platform Products 
+     In the current environment, the geospatial industry suffers from an imbalance between the proliferation of data from an expanding variety of sources and users’ capacity to distill this data down to actionable information. Our Platform products are closing this gap by assembling content and large-scale analytical tools in a single environment. This unlocks new-use cases outside of traditional geospatial applications, allowing imagery analytics to be a standard part of planning for new business and intelligence applications. These products include our Geospatial Big Data platform, which creates new applications and insights from our industry-leading archive of very high resolution imagery combined with our best-in-class accuracy. It also includes our Spatial on Demand platform that serves as a source-agnostic imagery provider for our energy customers, organizing large amounts of imagery and other geospatial datasets in a single environment for customer use.       Customers 
+     U.S. Government Customers
+     U.S. Government revenue is generated from multiple U.S. Government agencies, primarily focused on defense and intelligence, with the United States National Geospatial Intelligence Agency (“NGA”) as our largest customer. The NGA serves as the primary U.S. Government procurement agency for geospatial information and purchases imagery products and services on behalf of various agencies within the U.S. Government, including defense, intelligence and law enforcement agencies. The U.S. Government, inclusive of the NGA, provided 63.7%, 63.7%, and 60.4% of our revenue for the years ended December 31, 2016, 2015, and 2014, respectively. Revenue from the NGA arises from the EnhancedView SLA (as defined below), EnhancedView value-added services, and the NextView Agreement.     EnhancedView Service Level Agreement
+     On August 6, 2010, we entered into the EnhancedView contract with the NGA (the “EnhancedView Contract”). The EnhancedView Contract has a ten-year term, inclusive of nine one-year renewal options exercisable by the NGA, and is subject to congressional appropriations and the right of the NGA to terminate or suspend the contract at any time. The EnhancedView Contract contains multiple deliverables, including a Service Level Agreement, (the “EnhancedView SLA”) that totals $2.8 billion over the term of the contract. The EnhancedView SLA provides the U.S. Government with a level of capacity, assured access and pre-emptive tasking rights to certain satellites within our satellite constellation. 
+     For the first four contract years commencing on September 1, 2010, $250.0 million was paid per year (or $20.8 million a month). For the last six contract years, $300.0 million is payable per year (or $25.0 million a month). The NGA exercised its renewal option for year seven under the EnhancedView SLA through August 31, 2017. We believe it is the NGA’s intention to exercise the remaining options, subject to annual appropriation of funding and the federal budget process, which contain an inherent level of uncertainty in the current budget environment. The EnhancedView SLA represented 46.5%, 48.0%, and 38.9% of our revenue for the years ended December 31, 2016, 2015, and 2014, respectively. 
+    
+ 
+  6
+
+ 
+
+ Each monthly EnhancedView SLA payment is subject to a performance penalty of up to 4% depending upon our performance against pre-defined performance criteria. A performance penalty is assessed in any month the NGA determines that not all of the performance criteria were met. If that occurs, we retain the full monthly cash payment, but apply any penalty amount as a credit towards either NGA purchases of additional mutually-agreed upon products or services, or an extension of the EnhancedView SLA beyond the current contract period. We have not incurred a penalty since the year ended December 31, 2012. Cumulative penalties over the life of the EnhancedView SLA total $0.4 million, or 0.02%, of our total cash receipts under the contract, all of which were applied to the purchase of other products. 
+     EnhancedView Value-Added Services
+     The EnhancedView Contract also provides up to $750.0 million for value-added products and services, infrastructure enhancements and other services, including the option for the NGA to require us to lower the altitude of WorldView-2 from its current altitude of 770 kilometers to an altitude of 496 kilometers. Value-added products and services enable us to meet the NGA’s more advanced-imagery requirements using our production and dissemination capabilities, including Global Enhanced GEOINT Delivery (“Global EGD”) which provides for the delivery of certain orthorectified imagery and imagery-related products and services. In September 2016, the NGA and DigitalGlobe executed a contract for an additional year of the Global EGD program. In 2016, we recognized $60.5 million in revenue for value-added products and services and have recognized $320.0 million cumulatively since the inception of the EnhancedView Contract.
+     NextView
+     In September 2003, we entered into our first agreement with the NGA, the NextView Agreement. The NextView Agreement provided us with $266.0 million to offset the construction costs of WorldView-1, which was recorded as deferred revenue when received. When WorldView-1 was placed into service in November 2007, we began recognizing the deferred revenue on a straight-line basis over the estimated useful life of WorldView-1 (“NextView amortization”).
+     Based on the estimated useful life of WorldView-1, we recognized $15.1 million, $15.1 million, and $22.9 million of revenue related to the NextView amortization for the years ended December 31, 2016, 2015, and 2014, respectively. Cumulatively, since WorldView-1 was placed into service, we have recognized $207.4 million of NextView amortization revenue, and at December 31, 2016 had deferred revenue remaining of $58.6 million, expected to be amortized through the fourth quarter of 2020. 
+     Diversified Commercial Customers
+     Diversified Commercial includes customers in the DAP, location-based services (“LBS”), international civil government, other international defense and intelligence, energy and other industry verticals.
+     Direct Access Program
+     We earn revenue from sales of DAP facilities, service fees to access our satellite constellation, as well as other imagery-related product sales. As of December 31, 2016, we had DAP agreements in ten countries. For the years ended December 31, 2016, 2015, and 2014, DAP revenue represented 16.8%, 17.2%, and 17.0% of our total revenue for each respective year.
+    
+
+ 
+  7
+
+ 
+
+ Other Diversified Commercial
+     Other diversified commercial revenue is generated from customers in LBS, international civil government, other international defense and intelligence, energy and other industry verticals through sales of imagery, Platform products and other services. Our LBS customers rely on us to create and enhance the maps and geospatial services that over a billion people use every day. We sell imagery and provide services to international civil governments for use in applications such as infrastructure planning, taxation, rescue and recovery services, forestry and agriculture. Our other international defense and intelligence customers include friendly foreign governments, many in volatile parts of the world, that rely on us to keep their nations safe. We sell imagery and Platform products to energy customers to enable efficient discovery, security, production and development of energy resources. Customers in other industry verticals use our content for mapping, monitoring, analysis and planning activities.     Satellite Constellation and Ground System Operations
+     As of December 31, 2016, we operated a constellation of four in-orbit and fully-commissioned satellites: GeoEye-1, WorldView-1, WorldView-2, and WorldView-3. The following tables summarize the primary characteristics of the in-orbit and fully-commissioned satellites in our constellation as of December 31, 2016:
+ | | | Annual Collection | 
+ | | | Capacity (million | Orbital Altitude
+Satellite | Launch Date | Best Ground Resolution | square kilometers) | (kilometers) 
+WorldView-3 | August 2014 | 31-centimeters black and white, or color 1.24-meter multi-spectral | 248 | 617 
+WorldView-2 | October 2009 | 46-centimeters black and white, or color 1.84-meter multi-spectral | 427 | 770 
+WorldView-1 | September 2007 | 50-centimeters black and white | 569 | 496 
+GeoEye-1 | September 2008 | 41-centimeters black and white, or color 1.64-meter multi-spectral | 128 | 681 
+
+
+ | Expected End | Original Cost | | Net Book Value
+Satellite | of Depreciable Life | (millions) | | (millions) 
+WorldView-3 | Q1 2026 | | 649.5 | | 522.4
+WorldView-2 | Q4 2022 | | 463.2 | | 191.5
+WorldView-1 | Q4 2020 | | 473.2 | | 103.1
+GeoEye-1 | Q1 2018 | | 211.8 | | 45.9 
+
+      On November 11, 2016, we successfully launched WorldView-4. On February 1, 2017, WorldView-4 was placed into service and commercial operations began. Our preliminary assessment indicates an initial estimated useful life of approximately ten years. 
+    
+
+ 
+  8
+
+ 
+
+ Satellite Insurance
+     We procure insurance to protect us from the risks associated with our satellite operations, including the partial or total impairment of the functional capacity of the satellite. We insure satellites in our constellation to the extent that insurance is available at acceptable premiums. As of December 31, 2016, we maintained the following insurance coverage on our in-orbit satellite constellation:
+ | | Coverage 
+Satellite | Policy Period | (in millions)
+WorldView-4 (1) | 11/2016-11/2026 | $ | 431.0
+WorldView-3 (1) | 10/2016-08/2019 | | 340.0
+WorldView-2 | 10/2016-10/2017 | | 220.0
+WorldView-1 | 10/2016-10/2017 | | 220.0
+GeoEye-1 | 10/2016-10/2017 | | 75.0 
+
+      (1) Coverage at December 31, 2016 is comprised of multiple insurance policies ranging from one year to ten years in duration.
+     Ground Terminals and Image Processing Facilities
+     As of December 31, 2016, we owned or had service agreements for remote ground terminals in eight locations throughout the world. Each ground terminal is strategically placed to optimize contact with our satellites as they orbit. Each of our satellites orbits the Earth approximately 15 times per day, communicating with one or more of our ground terminals. Our image processing facility houses the hardware and software systems and personnel required to operate and control our satellites as well as process, store and distribute our imagery.     Competition
+     There are significant barriers to entry in the geospatial industry, primarily related to the substantial costs involved with satellite construction and launch, along with the amount of time required to build and develop ground systems and obtain necessary licenses. Our major existing and potential competitors for our Imagery business include commercial satellite imagery companies, state-owned imagery providers, aerial imagery companies, free sources of imagery, and unmanned aerial vehicles.  
+     We compete on the basis of the technical capabilities of our satellites, such as size of collection area, collection speed, revisit time, resolution, accuracy and spectral diversity; satellite availability for tasked orders; the size, comprehensiveness and relevance of our ImageLibrary; distribution platform and tools that enable customers to easily access and integrate imagery; value-added services, including advanced imagery production and analysis; timeliness and ready availability of imagery products and services that can be deployed quickly and cost-effectively; and price.
+     The data intensive nature of high-resolution imagery, complexity of analysis and desire to analyze multiple data sources have driven growth in multi-source analytics platforms. We are uniquely positioned to provide a platform solution because of the size and quality of our industry-leading ImageLibrary and our years of experience and resulting intellectual property in creating image analysis algorithms and tools. We also provide our customers with insights from our imagery with our Platform and Services products. Our Platform products face competition from aggregators of imagery and imagery-related products and services. Our Services products face competition from companies that provide geospatial analytic information and services to the U.S. Government, including defense prime contractors.
+    
+
+ 
+  9
+
+ 
+
+ Regulation
+     Operations
+     The satellite operations portion of our business is highly regulated. The Department of Commerce (“DoC”), pursuant to the National and Commercial Space Programs Act of 2010 (successor legislation to the 1992 Land Remote Sensing Policy Act, as amended), has the primary regulatory authority over our industry. The DoC delegated responsibility for satellite remote sensing operations to the National Oceanic and Atmospheric Administration (“NOAA”). Each of our satellites is required to be licensed for operation by NOAA. We currently have licenses for all in-orbit satellites (“NOAA licenses”). Our NOAA licenses require us to obtain prior approval from NOAA for any significant and substantial foreign agreements, and generally require us to operate our satellite system in a manner that is consistent with U.S. national security and foreign policy objectives. In addition, the NOAA licenses allow the U.S. Government to suspend our imaging activities in certain cases, if deemed necessary, for national security reasons. The NOAA licenses are valid for the operational life of the satellites, provided that we comply with the licensing terms. Failure to comply with these licensing terms can result in sanctions or fines imposed by NOAA.
+     The launch of our satellites and the communication links, both uplink and downlink, are regulated by the U.S. Federal Communications Commission (“FCC”). FCC licenses must be obtained for each individual satellite. The FCC is the governmental agency with primary authority in the United States over the commercial use of the satellite frequency spectrum. We currently have the requisite licensing authority from the FCC to operate all in-orbit satellites. The FCC has also granted licenses to operate ground terminals for our satellites. The FCC’s rules and regulations and terms of our licenses require that we comply with various operating conditions and requirements. Failure to comply with these or other conditions or requirements could lead to sanctions, up to and including revocation, cancellation or non-renewal of our licenses. In addition to the FCC’s requirements, our satellites must undergo the frequency coordination and registration process of the International Telecommunications Union (“ITU”), as well as a variety of other federal and international regulations.
+     Sales
+     Satellite imagery does not require an export license in order to be sold internationally, but our ability to sell certain imagery products and services may be subject to sanctions or embargoes imposed by the U.S. Government against particular entities, individuals, or other countries or by foreign government regulation.
+ Direct access to the satellites under a DAP constitutes a significant and substantial foreign agreement under our NOAA licenses and requires approval from NOAA under the terms of such licenses. In addition, we or our suppliers must obtain export licenses from the Department of State (“DoS”) for the export of certain equipment and related technology necessary to enable the DAP access. The ground terminal equipment and related technology necessary to allow access to the satellites are controlled under the International Traffic in Arms Regulations (“ITAR”). The approval process for these sales usually takes three months or longer and there is no obligation on the part of either NOAA or the DoS to approve any transaction. In addition to the required U.S. Government approvals, the export of equipment from Canada by a certain DAP equipment supplier is subject to Canadian export license requirements. Our DAP customers may need to obtain additional approvals from the government of the country in which the ground terminal is to be operated.
+     Ownership
+     We are obligated under our NOAA licenses to monitor and report increases in foreign ownership of our common stock and any agreement for ownership of 20% or greater of our common stock is subject to NOAA approval. We are also required to report certain common stock foreign-ownership levels to the Defense Security Service and to comply with certain rules and regulations to mitigate foreign influence as part of maintaining our facility security clearances. Our facility security clearance allows us to perform work on U.S. Government classified contracts. A transfer to foreign ownership also could trigger other requirements including filings with, and review by, the Committee on Foreign Investment in the United States pursuant to the Exon-Florio provision. Other restrictions and requirements may also arise depending on the country of origin and identity of foreign owners.
+    
+ 
+  10
+
+ 
+
+ Environmental
+     Our operations are regulated under various federal, state, local and international laws governing the environment, including laws governing the discharge of pollutants into the soil, air and water, the management and disposal of hazardous substances and wastes, and the cleanup of contaminated sites. We have infrastructure in place to ensure that our operations are in compliance with all applicable environmental regulations. We do not believe that the costs of compliance with these laws and regulations will have a material adverse effect on our capital expenditures, operating results or competitive position. The imposition of more stringent standards or requirements under environmental laws or regulations or a determination that we are responsible for the release of hazardous substances at our sites could result in expenditures in excess of amounts currently estimated to be required for such matters. While no material exposures have been identified to date that we are aware of, there can be no assurance that additional environmental matters will not arise in the future, or that costs will not be incurred with respect to sites as to which no problem is currently known.    Intellectual Property
+     “DigitalGlobe” and other trademarks of ours appearing in this annual report are our property. Trade names and trademarks of other companies used in this annual report are for informational purposes only. We rely on licenses of certain intellectual property to conduct our business operations, including certain proprietary rights from third parties to enable us to operate our satellites, ground terminals, collection systems and other various components of our systems. In addition, we actively pursue internal development of intellectual property. We have registered, and applied for the registration of, U.S. and international trademarks, service marks, domain names and copyrights. Additionally, we have been issued and have filed for U.S. and international patent applications covering certain of our proprietary technology and processes.     Business Seasonality
+     We have historically experienced higher revenues in the fourth quarter of the year due in part to the procurement cycles of U.S. and international governments as well as increased demand from commercial customers. However, historical seasonal patterns should not be considered a reliable indicator of our future revenues or financial performance.     Foreign and Domestic Operations 
+     During 2016, our domestic and international revenue accounted for 71.9% and 28.1%, respectively, of total revenue. A summary of our domestic and international revenue is set forth in Note 17, “Significant Customers and Geographic Information” to the Consolidated Financial Statements in Item 8 of this Form 10-K.      Backlog
+     A summary of our backlog is set forth under the subheading “Backlog” within Management’s Discussion and Analysis of Financial Condition and Results of Operations in Item 7 of this Form 10-K.     Employees
+     As of December 31, 2016, we had 1,733 full-time employees.
+    
+
+ 
+  11
+
+ 
+
+ Additional Information
+     Our website can be accessed at http://www.digitalglobe.com. The website contains information about us and our operations. Through a link on the Investor Relations section of our website, copies of our filings with the SEC on Forms 8-K, 10-Q and 10-K and amendments to those reports can be viewed and downloaded free of charge as soon as reasonably practicable after the reports have been filed or furnished with the SEC. The information on our website is not incorporated by reference and is not a part of this Form 10-K. Additionally, our reports, proxy and information statements, and other information filed with the SEC are available on the SEC’s web site http://www.sec.gov or at the SEC Public Reference Room in Washington, D.C. Information regarding the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330.
+    
+
+ 
+  12
+
+ 
+

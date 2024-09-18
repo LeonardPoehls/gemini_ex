@@ -1,0 +1,414 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.         BUSINESS
+ 
+This business section and other parts of this Annual Report on Form 10-K (“Annual Report”) contain forward-looking statements that involve risk and uncertainties.  Our actual results may differ significantly from the results discussed in the forward-looking statements.  Factors that might cause such a difference include, but are not limited to, those set forth in “Risk Factors”, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this Annual Report.  Reference to “us,” “we,” “our,” the “Company” means OmniComm Systems, Inc.® and our wholly owned subsidiaries OmniComm USA, Inc., OmniComm Ltd., OmniComm Europe GmbH, OmniComm Spain S.L. and OmniComm Systems B.V.
+ 
+Overview
+ 
+OmniComm Systems, Inc. provides web-based electronic data capture (“EDC”) and eClinical (“eClinical”) software and services that streamline the clinical research process. Our EDC and eClinical software and service offerings (“eClinical Products” or “eClinical Solutions”) consist of TrialMaster®, TrialOne®, Promasys®, and eClinical Suite™.  Our eClinical Products are designed to allow clinical trial sponsors and investigative sites to easily and securely collect, validate, transmit and analyze clinical study data. Our eClinical Products are 21 CFR Part 11 compliant solutions and are designed to offer clinical trial sponsors the ability to conduct clinical trials under multiple platforms, with significant flexibility, ease-of-use and with complete control over collected data.
+ 
+Our eClinical Products offer significant business benefits to our customers and are designed to help clinical trial sponsors more efficiently conduct their clinical trials.  This efficiency can translate into more rapid initiation of data collection, less cost incurred in the data collection process and the ability to make more timely Go/No-Go decisions.   We also provide business process consulting services that focus on more effectively integrating EDC and the broader array of eClinical Solutions and processes into the clinical trial process.  Our goal is to provide our clients a data collection process that is streamlined, efficient and cost-effective.  
+ 
+The benefits of managing a clinical trial using our eClinical Products include:
+ 
+
+● | Real-time access to the data
+--+-----------------------------
+
+
+● | Faster study completion
+--+------------------------
+
+
+● | Cost savings
+--+-------------
+
+
+● | Improved quality and visibility of results
+--+-------------------------------------------
+
+
+● | Comprehensive clinical development solutions
+--+---------------------------------------------
+
+Our Strategy
+ 
+Our primary goal is to establish ourselves as a leading EDC and eClinical software and services provider by offering our customers the highest quality service with a differentiated, user-friendly product. We continually increase the scope and quality of the products and services we offer.   During 2016 we continued to update our products and increase their functionality to offer new solutions to our clients’ challenges. In March 2015, we released TrialMaster version 4.2.1.  This release provides new capabilities to capture audit trail information for electronic source data, dramatic productivity enhancements in the automated generation of Study Data Tabulation Model (“SDTM”) datasets, the ability for sites in registry studies to export their own data, and over 100 other targeted enhancements. This release also contains performance improvements that allow TrialMaster to effortlessly support the industry’s largest studies. This new release also provides the platform for major new areas of functionality. 
+ 
+Key facets of our strategy include:
+ 
+
+● | Scope Expansion – We plan to continue expanding the scope of services and products offered within the eClinical product spectrum via organic product and service development, through strategic partnerships and relationships and through the selective use of acquisitions;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Customer Base Expansion – We will seek to expand the customer base for our existing set of eClinical Solutions and intend to design complementary solutions that will allow us to expand the universe of clients that we service; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Diversification – We intend to continue to diversify our revenue and customer base in order to avoid over-concentration of our business on any solution or product set or client-base.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 1
+
+
+
+Our Business Model
+ 
+The scope of client clinical trial support service needs can vary from trial to trial.  Experience with EDC and other eClinical trial management solutions can also vary based on such factors as client size and sophistication.  Our approach to satisfying the diverse needs of our customers is to offer a variety of EDC solutions.  We offer our eClinical Products under an application service provider (“ASP”) business model as well as technology transition (“Technology Transition”) and technology transfer (“Technology Transfer”) business models (both of which are considered licensed).
+  
+We offer a fully hosted Technology Transition model designed to allow the client to bring study administration and set-up services in-house yet continue to host the solution with us, as well as a complete Technology Transfer model for clients that want to keep their eClinical technology solution completely in-house. This methodology allows our customers to use our services at their own pace, given the logistics of their human resource, infrastructure and capital constraints.  This model allows us the flexibility to deliver eClinical solutions to a broader array of clinical trial sponsors.
+ 
+Our Software Products and Services
+ 
+TrialMaster EDC Solution
+ 
+Our core product is TrialMaster, which allows organizations conducting clinical trials to collect and manage their clinical trial data over the internet. Users at investigative sites such as hospitals and doctors’ offices can enter data into electronic forms that represent the study protocol, and the data is immediately validated against a set of protocol-specific rules. For example, a rule could check that a medication start date is earlier than the medication stop date, and prompt the user to correct any errors before proceeding. Compared to paper studies such real-time feedback dramatically improves the initial data quality. This in turn decreases the time it takes to analyze the study results, helping pharmaceutical, biotech and medical device companies bring their products to market sooner.
+ 
+We believe TrialMaster has a number of competitive strengths when compared to other EDC products. A key differentiator is that the rule checks described above are implemented using JavaScript, giving a highly-responsive user experience. For example, if a medication is marked as “continuing,” the stop date field can be immediately disabled, preventing inconsistent data from being entered. Additionally, TrialMaster has an intuitive user interface, easy navigation, and robust tools for monitoring and tracking the state of the data at any time. Finally, TrialMaster has open Application Programming Interfaces (“API”) that allow other clinical trial applications to send data to and receive data from TrialMaster over the internet. For example, laboratory data can be transmitted and loaded automatically, while an external project management system could inquire about how many patients were enrolled in a particular TrialMaster study and update a summary table accordingly.
+ 
+TrialMaster has an integrated electronic learning system, a comprehensive set of standard reports and integrated ad-hoc reporting using a sophisticated business intelligence tool called LogiXML®.  TrialMaster allows the collected data to be extracted in a variety of standard formats, such as database tables, comma-delimited files, and SAS® datasets. The latest release also allows the data to be extracted in an industry-standard format called SDTM, simply by defining mappings between the input and output data structures. We believe this feature can save our customers considerable programming time.
+ 
+It is standard practice to monitor all the data in the EDC system against the source medical records, an activity called Source Document Verification (“SDV”). In 2011, the FDA issued draft guidance stating, among other things, that it was no longer necessary to perform 100% SDV, providing the data selection was part of a risk-based monitoring plan. TrialMaster includes a facility called “dynamic monitoring,” which allows organizations conducting clinical trials to select a subset of data for SDV based on a configurable, statistical algorithm. This capability allows TrialMaster customers to save significant costs in the conduct of clinical trials, since monitoring activities typically consume 30% of the total costs for a trial.
+ 
+TrialBuilder® is the tool our customers and professional services staff use to model a clinical study. This includes the data collection forms, the data consistency rules and the visit schedule, as well as the workflow and security rules for accessing and managing the data. TrialBuilder is a sophisticated multi-window application with a productive user interface that utilizes drag-and-drop functionality. 
+ 
+TrialMaster Archive allows us to provide human and machine readable copies of the data when a clinical study has been completed. The human-readable format consists of PDF files that represent the data exactly as it was displayed on the interactive web pages.  These are delivered to the client via CD in a read-only format, affording our clients and the FDA the ability to review clinical trial data by trial, site, patient, visit and form. Trial sponsors receive a CD with data for all sites including final data exports in the formats their TrialMaster study used.   The TrialMaster Archive also includes an optional Submission Module, which creates a casebook containing PDF formatted copies of all case report forms (“CRF”) in FDA submission format.  This casebook is fully tabbed and bookmarked making it easy to find and view particular CRFs.
+ 
+ 2
+
+
+
+TrialOne Phase I EDC Software
+ 
+TrialOne is a web-based application which provides secure real-time access to all study information, in particular trial sponsors and investigators are provided with information that allows for faster decision making.  Mid-study data provides trial sponsors with information useful in determining a drug’s safety and efficacy. More rapid access to clinical trial data will also allow trial sponsors to stop unsuccessful compounds sooner and to bring the successful therapies to market more quickly.
+ 
+We believe the key benefits of TrialOne for our customers include:
+ 
+
+● | Faster data collection, which provides the ability to get to database lock more quickly allowing for a more timely analysis of the study data;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The ability for clinical trial sponsors to reduce their total cost throughout the entire Phase I process by streamlining the patient recruitment process, reducing error rates through the use of edit queries and through the effective use of integration with medical instrumentation;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Access to valid data earlier provides more visibility for “Go/No Go” decisions;
+--+--------------------------------------------------------------------------------
+
+
+● | Increased trial subject safety-review data (e.g. vital sign trends) in real-time;
+--+----------------------------------------------------------------------------------
+
+
+● | Trial sponsors can manage or run more studies with fewer human resources; and
+--+------------------------------------------------------------------------------
+
+
+● | The use of bar-coded samples reduces laboratory errors thereby increasing patient safety.
+--+------------------------------------------------------------------------------------------
+
+TrialOne Phase I Application Suite
+ 
+TrialOne is a comprehensive software application suite that provides clinical trial site sponsors, study investigators and study monitors with several tools designed to make the overall Phase I clinic operation more efficient.  Phase I studies are used to conduct the first tests of new drugs or medical devices in humans. They are often held in dedicated Phase I clinics, where volunteers follow a strict timed schedule of dosing followed by measurements such as vital signs, electrocardiograms and repeated blood draws. TrialOne is designed to manage the automation of Phase I clinics. It allows the specification of the schedule and the corresponding dosing and required measurements, then supports the real-time collection of data according to that schedule. Much of the data collection is automated via direct entry from instruments, such as barcode scanners that read barcodes on both the patients and the vials of blood being filled. 
+ 
+The key components of the TrialOne application include:
+ 
+Subject Recruitment and Screening
+ The TrialOne subject recruitment module is designed to provide essential functionality for automating the collection and tracking of information involved in finding, screening and scheduling subject candidates for an early phase study.  The customized database can be searched for volunteers based on specific demographics, medical history and concomitant medications.  Trial sponsors can define study-specific screening test panels and record volunteer screening test results.  Outbound communications can be managed allowing for the scheduling of calls, sending e-mail blasts, printing mailing labels or exporting flexible CSV files.
+Scheduler
+ The scheduler module provides a mechanism for defining the study structure including a time and events schedule.  The module is designed to optimize study build times using a wizard-driven design tool creating database efficiencies using object libraries and templates.   This can quickly produce clear, easy to use, schedule driven electronic CRFs suitable for complex and adaptive clinical trials including study alarms and real time validation criteria with edits.  Additionally, the Scheduler can define actions or events to be automatically offset relative to the study drug and rapidly address mid-study changes.
+Sample Tracking
+ TrialOne allows customers to completely automate their site’s laboratory. Samples can be tracked and batched while alarms and information can be configured specific to each sample. Dispatch lists and labels are automatically produced for shipment of samples to the central laboratory. Data is then received back electronically into the TrialOne database.
+Direct Data Capture (“DDC”)
+ The DDC module allows capture of real-time data for screening or study at data collection stations, bed-side or roaming.  The system allows for the collection of data online, over an intranet or internet using a desktop, notebook, or tablet PC.  Using a library of custom drivers the DDC module can collect vital signs or other biologic data directly from devices and/or instrumentation.  As with later phase applications the system can clean data at the point of collection with real-time validation edit checks while enhancing protocol compliance via schedule-driven workflows.  Working with the Subject Recruitment and Screening module the system seamlessly maps data to the recruitment database for future criteria searches.  Automation and authentication checks are maintained using a full array of barcode and scanner support for all aspects of the clinic including subject IDs, sample labeling and event tracking.
+ 
+ 3
+
+
+
+Ad Hoc Reporting
+ An integrated Ad Hoc reporting tool is available with wizard-driven report generation with drill-down reports that include interactive charts and graphs.  The Ad Hoc module supports aggregate data and advanced calculations, an advanced and easy to use export feature, and distributable system reports by configurable schedules.  Data is protected by event configurable security and role-based security.  The Ad Hoc module allows for real-time data access to important trends such as vital signs and adverse events.
+ 
+ eClinical Suite
+ 
+The eClinical Suite is comprised of a number of highly configurable modules that can be combined to provide a solution for capturing and managing clinical trial data based on specific client needs.  The modules are:
+ 
+
+● | eClinical Portal – the gateway to all functions, data and reports. It provides the means to create an environment specific to any protocol and user needs. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | eClinical Data Management – where protocols are defined using libraries of reusable standard objects (codelists, data items, data modules, pages, edit checks, etc.).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | eClinical Data Capture – is the EDC module used by investigator sites and client personnel such as data managers, statisticians, safety, etc. In this module data can be entered and reviewed, queries resolved, etc. The interface is designed to be highly intuitive and easy to use thereby minimizing end-user training times. This module is designed to maintain high performance to keep page turn wait times to a minimum. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | eClinical Study Conduct – proactively allows the clinical operations organization to manage the timelines, resources, budget, payments, clinical supplies, and key study milestones and metrics.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | eClinical Adverse Event Reporting – based on industry standards for safety reporting, this module allows for the capture, review, reporting and global submission of both serious and non-serious adverse event cases.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | eClinical Autoencoder – delivers both automated and manual coding of adverse event and drug medication terminology using standard and custom dictionaries and configurable coding algorithms.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Promasys
+ 
+Promasys is an integrated clinical trial data management and EDC system designed to bring industry standard quality and efﬁciency to the data collection, data management and reporting process in clinical trials. Setting up a new clinical study database in Promasys is straightforward and easy and does not require any programming knowledge. 
+ 
+iPad Application
+ Promasys 7.1 brings new features and capabilities. An iPad compatible version brings secure mobile data entry and subject management to the clinical trials work floor. The Promasys iPad app delivers Promasys’ featured support for data quality and integrity and regulatory compliance on a mobile device making it easier for study investigators and study monitors to enter data while at the point of care.
+ 
+Study Life Cycle™
+ System access control is managed based on user ID and password. For each user or user group, access rights are conﬁgured in detail with 4 levels of access; none, read, write, and admin that can be speciﬁed for each menu function, clinical trial, and study center. For multi-center trials, access rights can be conﬁgured easily to match the roles of the trial staff in the different centers while limiting access to only subjects belonging to the user’s own center. Promasys supports the execution of Good Clinical Practice (“GCP”) compliant clinical trials with the Study Life Cycle™, the quality engine of the system that divides a clinical trial in 7 distinct phases. The Study Life Cycle™ dynamically adjusts the access rights of users when a trial moves from one phase to the next. In this way, the quality of the trial is supported and the integrity of the data is assured, without the need for user intervention.
+ 
+WebCRF
+ The WebCRF is a data entry interface that works through a standard web browser. It allows enrolling and including subjects and entering trial data without the need to install Promasys’ windows client component. Access to subjects is securely controlled, based on the user’s login credentials that reﬂect the functional role as well as the study center of the user.
+ 
+ 4
+
+
+
+Hosting
+ 
+Our customers rely on our eClinical Products to run their clinical trials and, as a result, we need to ensure the availability of our services. We have developed our infrastructure with the goal of achieving availability of our services, which are hosted on a highly-scalable network located in secure third-party co-location data center facilities. We host our eClinical Products’ services and serve our customers primarily from a Cincinnati, Ohio co-location data center facility operated by and in conjunction with co-location services from, CyrusOne, Inc., the former data center co-location segment of Cincinnati Bell. This co-location, consisting of 180 square feet, is specifically designed to optimize the delivery of our application services and to ensure the availability and security of our customers’ research data. The co-location data facility includes 24 by 7 staffing, enterprise class security, redundant power and cooling systems, large-scale data back-up capabilities and multiple Internet access points and providers.  In addition, we maintain a co-location facility in Fort Lauderdale, Florida which also serves as a back-up facility for purposes of disaster recovery, and a co-location facility in Frankfurt, Germany.  
+ 
+Our hosting operations incorporate industry-standard hardware, databases and application servers in a flexible, scalable architecture. Elements of our hosting infrastructure can be replaced or added with minimal interruption in service in order to reduce the likelihood that the failure of any single device will cause a broad service outage. Our hosting architecture enables us to scale to increasing numbers of customers by adding additional capacity in the form of servers and disk space. Our storage architecture helps to ensure the safe, secure archiving of customers’ data and to deliver the speed and performance required to enable customers to access and manage their clinical study data in real-time.
+ 
+Support
+ 
+We have a multi-national organization to support our applications worldwide. We offer 24 by 7 support to our customers and their investigator sites through multi-lingual help desks located in our Fort Lauderdale, FL and Bonn, Germany offices.
+ 
+Consulting and Professional Services
+ 
+Our services include hosting solutions, consulting services, customer support, training and the delivery of implementation services for Technology Transfer engagements, including installation, configuration, validation and training. The primary consulting services we offer include:
+
+● | Project Management. We assign a project manager to oversee every project and provide up-to-date communications on the status of the project.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Clinical Services. We have expertise in translating a clinical protocol into an electronic CRF format. We ensure that CRF design, visit schedule, site and patient definitions, edit checks, derivations, and code lists are all optimized to use industry best practices, and, where applicable, CDISC/CDASH standards. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Training. We provide extensive hands-on and eLearning-based EDC training classes. Training classes can be conducted at a sponsor location, at an investigator meeting or at an investigator site and via web-cast. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Custom Configuration. Our EDC and eClinical platforms are flexible and allow for major reconfiguration. Each trial can be designed to suit the specific client workflows and trial design. Our eClinical Products include a clinical trial management system (“CTMS”), drug supply, safety and randomization options that can simplify the trial management experience. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | System Integration. We help our clients integrate our EDC solutions with existing systems or external systems (Patient Diaries, Medical Devices and Labs, etc.). We analyze the client’s legacy systems and data management needs in order to decide how to most efficiently integrate EDC. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | SOPs and implementation assistance. Our client services and support personnel can be engaged to write an implementation plan designed to effectively integrate with our EDC solutions. We can also write standard operating procedures (“SOPs”) to help client staff clearly understand their roles in using our eClinical Products to conduct trial activities. We can also analyze and document business processes to determine where greater operating efficiency may be gained. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Installation. There are various architectures for deploying a secure EDC solution to remote investigator sites. These services explore different security, performance and system management alternatives and help the client design and install an optimal solution to meet their unique needs. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Validation. We offer test kits that includes test cases and documentation to validate the installation of our EDC applications against regulatory requirements. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Market Opportunity
+ 
+Clinical trials are a critical component in bringing a drug or medical device to market.  All prescription drug and medical device therapies must undergo extensive testing as part of the regulatory approval process.  We believe many clinical trials continue to be conducted in an antiquated manner and fail to optimize the resources available for a successful clinical trial.  We believe that our solutions significantly reduce costs, improve data quality and expedite results.  We believe the data integrity, system reliability, management control and auditable quality of our eClinical solutions will aid clinical trial sponsors that want to improve clinical trial efficiencies, speed-up results and ensure regulatory compliance.
+ 
+ 5
+
+
+
+We believe that success in the EDC market is predicated on several criteria.  As the industry grows and matures the ability of participants to fulfill the varied needs of clinical trial sponsors becomes more critical to achieving operational and financial success.  We believe these success criteria include:
+ 
+
+● | Deployment options. Successful EDC vendors provide clinical trial sponsors with flexibility in choosing whether to deploy EDC on an ASP, Technology Transfer or Technology Transition basis. The ultimate criteria for the selection of the type of technology delivery methodology is often predicated on the size and the resources of the clinical trial sponsor. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Interoperability. Most clinical trial sponsors have invested in other technology platforms to run their trials. These include clinical data management systems, interactive voice response systems and central labs. The ability for an eClinical solution to integrate with existing technology platforms is a key decision making factor. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Scalability. The ability to scale the eClinical solutions to absorb additional projects seamlessly is important to trial sponsors. Scalable solutions will retain their speed and performance metrics as projects and engagements increase in size. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Migration from hosted to technology transfer solutions. When clinical trial sponsors decide to bring the eClinical services and solutions in-house it is vital that they do not experience a degradation of speed, performance or system reliability. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Flexibility. The more robust eClinical systems will be designed to provide the ability to increase functionality and guarantee interoperability with other industry technology solutions. As the industry and technology matures clinical trial sponsors will demand new functionality without loss of performance or reliability. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Systematic adoption of best practices. eClinical vendors will be expected to assimilate best-practice workflows and process tools. 
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Professional services. The adoption and implementation of eClinical solutions into a clinical trial environment requires significant financial, technical and human resource investment on the part of clinical trial sponsors. A robust offering of professional services that fully integrate with the technological eClinical offerings will be considered an integral part of any eClinical purchase. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+License Agreement
+ 
+DataSci, LLC
+ 
+Effective April 2, 2009, we entered into a Settlement and Licensing Agreement with DataSci, LLC (“DataSci”) which relates to a lawsuit filed on June 18, 2008 in the United States District Court for the District of Maryland by DataSci against OmniComm alleging infringement of U.S. Patent No. 6,496,827 B2 entitled “Methods and Apparatus for the Centralized Collection and Validation of Geographically Distributed Clinical Study Data with Verification of Input Data to the Distributed System” (“Licensed Patent”) owned by DataSci. Pursuant to the Settlement and Licensing Agreement, the parties entered into a Stipulated Order of Dismissal of the lawsuit filed by DataSci and DataSci (i) granted us a worldwide, non-exclusive non-transferable right and license under the Licensed Patent the subject of the claim for the Licensed Products and the right to sublicense TrialMaster on a Technology Transfer and Technology Transition basis, and (ii) released us from any and all claims of infringement of the Licensed Patent which may have occurred prior to the effective date of the Settlement and Licensing Agreement. Licensed Products is defined as all products and services of OmniComm and of its subsidiaries in the field of electronic data capture, whether sold by OmniComm directly or through its affiliates, parents, subsidiaries, partners, vendors, agents and/or representatives, including TrialMaster products and services or other products and services that perform the substantially equivalent function of TrialMaster, and any other products and services that OmniComm may develop in the future in the field of electronic data capture. The license expressly excludes the right to make, use, sell, import, market, distribute, oversee the operation of, or service systems covered by a claim (if any) of the Licensed Patent to the extent such systems are used for creating and managing source documentation and conducting remote data validation in clinical trial studies using a tablet PC with stylus, touch screen device, digitizing tablet, digitizer pen or similar mobile processing device (“Digitizing Device”), wherein the source documentation is electronic and is completed using a Digitizing Device. Under the terms of the license, we are obligated to pay royalties quarterly for sales of Licensed Products from January 1, 2008 until the expiration of the Licensed Patent on May 12, 2018 in the amount of the greater of two percent (2%) of our annual gross revenues from Licensed Products or, alternatively, the annual minimum royalty payment(s). We anticipate that the annual royalties will approximate the annual minimum royalty payment(s) during any calendar year as follows:  2017 - until expiration of the Licensed Patent - $450,000 per year. The Settlement and Licensing Agreement and the amendment thereto (described below) can be terminated on thirty (30) days’ notice by the licensor if we are in default on our obligations thereunder and fail to cure such default within the thirty (30) day period after notice is provided. In addition to the payment of royalties, the Settlement and Licensing Agreement imposes certain obligations on us including commercialization, certain sublicensing, other payments, insurance, and confidentiality. In addition and as a license fee for past use of the Licensed Patent which may have occurred prior to the effective date of the Settlement and Licensing Agreement, we issued a warrant to DataSci to purchase 1,000,000 shares of our common stock at an exercise price of $.01 per share.   The Settlement and Licensing Agreement provides that upon the expiration date of the warrant, at DataSci’s sole discretion, DataSci shall exercise its option under the warrant or licensee shall pay DataSci $300,000. The warrant is exercisable commencing on the second anniversary of the Settlement and Licensing Agreement, April 2, 2011, through the expiration date of the warrant, deemed to be on the termination date of the Settlement and Licensing Agreement on May 12, 2018.
+ 
+ 6
+
+
+
+On June 23, 2009, we entered into an agreement to acquire the EDC assets of eResearch Technology.  Concurrent with the consummation of that transaction we entered into the First Amendment to Settlement and Licensing Agreement with DataSci, (i) to include the eResearch Technology EDC assets acquired within the definition of Licensed Products, and as such subject to the royalty payment(s), under and in accordance with the Settlement and Licensing Agreement, and (ii) provide a release by DataSci of any and all claims of infringement of the Licensed Patent in connection with the eResearch Technology EDC assets acquired which may have occurred prior to the effective date of the First Amendment to Settlement and Licensing Agreement for an aggregate amount of $300,000. 
+ 
+Our Customers
+ 
+We are committed to developing long-term, partnering relationships with our clients and adapting our products and services to meet the unique and challenging needs of their trials. Our customers include leading pharmaceutical, biotechnology, medical device companies, academic institutions, clinical research organizations (“CROs”) and other entities engaged in clinical trials. As of December 31, 2016, we had approximately 120 customers, including 2 of the top 10 global pharmaceutical companies, 5 of the top 10 CROs and 2 of the top biotechnology companies, measured by revenue. Our representative customers by sponsor type include:
+
+Trial Sponsor | Sponsor Type 
+---------------------------------+-------------------------------
+Covance | Contract Research Organization
+Cromsource | Contract Research Organization
+Eli Lilly | Pharmaceutical 
+New York Medical Center | Academic Medical 
+Pfizer | Pharmaceutical 
+PPD | Contract Research Organization
+Quintiles | Contract Research Organization
+Saint Jude’s Children’s Hospital | Medical Research 
+
+ 
+
+Our top five customers accounted for approximately 37% of our revenues during the year ended December 31, 2016 and approximately 34% of our revenues during the year ended December 31, 2015.  One customer accounted for approximately 16% of our revenues during the year ended December 31, 2016.  One customer accounted for approximately 16% of our revenues during the year ended December 31, 2015.
+ 
+Our international customers, principally located in Europe and East Asia, accounted for approximately 17% of our total revenues for the year ended December 31, 2016 and 16% of our total revenues for the year ended December 31, 2015.
+ 
+Two customers each individually accounted for approximately 11% of our accounts receivables as of December 31, 2016.  One customer accounted for approximately 16% of our accounts receivable as of December 31, 2015.
+ 
+Sales and Marketing
+ 
+We sell our products through a direct sales force, relationships with CRO Partners, and through co-marketing agreements with Vendor and Channel Partners.  Our marketing efforts to-date have focused on increasing market awareness of our Company and eClinical Products.  These efforts have primarily been comprised of attendance and participation in industry conferences and seminars.  A primary focus of our future marketing efforts will be to continue increasing our market penetration and market awareness.  As of December 31, 2016, we had 20 employees and consultants in sales and marketing.
+ 
+Our efforts during 2017 will include increasing the number of sales personnel and sales support staff employed in the United States, Europe and East Asia, increasing our attendance and marketing efforts at industry conferences and increasing the number of Company sponsored events including webinars, symposiums and other marketing events. 
+ 
+Clinical trial sponsors have historically outsourced many of their clinical research activities in an attempt to control costs and expand capacity. Our CRO relationships help us position our software solutions as the core platform for their outsourced client trial management services. Through our CRO Preferred Program, we partner with CROs to deliver our eClinical Solutions along with the CRO’s project and data management expertise. We also train, certify and support our CRO and other clinical services partners, which enables them to quickly and cost-effectively implement our technology in sponsors’ studies.  A critical aspect of the program is our ability to deliver our eClinical Solutions on a fixed cost basis to our partners.  Because of the economics intrinsic to the CRO industry, a fixed cost solution affords the partner a stronger ability to manage their costs and deliver cost-effective solutions to their clinical trial sponsor clients.
+ 
+ 7
+
+
+
+We have been able to obtain valuable insight into our customers’ needs through the following customer specific initiatives:
+ 
+Innovation Forum: The goal of the Innovation Forum is to ensure that attendees receive practical information, training and collaboration that can be taken back, implemented and shared within their respective organizations. The Innovation Forum attracted more than 100 attendees, along with the highest number of external thought leading and keynote speakers as well as the largest number of sponsoring and exhibiting partners. Content included product demonstrations, customer case studies, panel discussions, partner presentations, plus thought provoking presentations from independent industry thought leaders. 
+ 
+eClinical webinars:  We host periodic web-based seminars for current and prospective customers, which are typically focused on our products or current developments in the eClinical industry.  These webinars offer informative industry related topics to our customers and foster good relationships with our current and potential customers.
+ 
+Product Development
+ 
+The Company focuses on maintaining high quality product development standards. Product development activities include research and the development of platform and/or client specific software enhancements such as adding functionality, improving usefulness, increasing responsiveness and adapting to newer software and hardware technologies.
+ 
+The Company spent $2,598,962 during the year ended December 31, 2016 and $2,639,577 during the year ended December 31, 2015 on product development initiatives. The Company’s product development efforts are focused on the continued enhancement and redesign of our eClinical Solutions to keep our technology at the cutting edge in the markets in which we compete.
+
+Intellectual Property
+ 
+Our success and ability to compete are dependent on our efforts to develop and maintain the proprietary aspects of our technology. We rely upon a combination of trademark, trade secret, copyright and unfair competition laws, as well as license agreements and other contractual provisions, to protect our intellectual property and other proprietary rights. In addition, we attempt to protect our intellectual property and proprietary information by requiring our employees and consultants to enter into confidentiality, non-competition and assignment of inventions agreements. We have registered trademarks and service marks in the United States and abroad, and have filed applications for the registration of additional trademarks and service marks. Our principal trademarks are “OmniComm Systems,” “TrialMaster,” “TrialBuilder,” “TrialExplorer,” “OmniCloud,” “Promasys” and “TrialOne.”  These legal protections afford only limited protection for our technology. Our agreements with employees, consultants and others who participate in development activities could be breached.  However, due to rapid technological change, we believe that factors such as the technological and creative skills of our personnel, new product and service developments and enhancements to existing products and services are more important than the various legal protections of our technology to establish and maintain a technology leadership position.
+ 
+We currently hold several domain names, including the domain names “omnicomm.com,” “promasyssoftware.nl,” “promasyssoftware.com” and “trialmaster.com.” Additionally, legislative proposals have been made by the U.S. federal government that would afford broad protection to owners of databases of information. The protection of databases already exists in the European Union. The adoption of legislation protecting database owners could have a material adverse effect on our business, requiring us to develop additional, complex data protection features for our software products.
+ 
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our software solutions or to obtain and use information that we regard as proprietary. The laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Litigation may be necessary in the future to enforce our intellectual property rights or to determine the validity and scope of the proprietary rights of others. Any such litigation could result in substantial costs and diversion of resources and could have a material adverse effect on our business, operating results or financial condition. There can be no assurance that our means of protecting our proprietary rights will be adequate or that our competitors will not independently develop similar technology. Any failure to meaningfully protect our intellectual property and other proprietary rights could have a material adverse effect on our business, operating results or financial condition.
+  
+In addition, since the software and Internet-based industries are characterized by the existence of a large number of patents, trademarks and copyrights it also involves frequent litigation based on allegations of infringement or other violations of intellectual property rights. We, and other companies in our industry, have entered into a settlement and obtained a license from a patent holder (DataSci, LLC) to license third-party technology and other intellectual property rights that are incorporated into some elements of our services and solutions. Our technologies may not be able to withstand third-party claims or rights against their use. Any intellectual property claims against us, with or without merit, could be time-consuming and expensive to litigate or settle, could divert management attention from executing our business plan or require us to enter into royalty or licensing agreements with third parties. Such royalty or licensing agreements, if required, might not be available on terms acceptable to us or at all, which could have a material adverse effect upon our business and financial position. There is no assurance that we will not become subject to infringement claims as the number of products and competitors in our industry segment grows and the functionality of products in different industry segments overlaps. An adverse determination on such a claim would increase our costs and could also prevent us from offering our technologies and services to others.
+ 
+ 8
+
+
+
+We have licensed in the past, and expect that we may license in the future, certain of our proprietary rights, such as trademarks, technology or copyrighted material, to third parties. We generally provide in our customer agreements that we will indemnify our customers against third-party infringement claims relating to our technology provided to the customer.
+ 
+Competition
+ 
+The market for EDC, data management and adverse event reporting systems is highly competitive, rapidly evolving, fragmented and is subject to changing technology, shifting customer needs and frequent introductions of new products and services. We compete with systems and paper-based processes utilized by existing or prospective customers, as well as other commercial vendors of EDC and eClinical applications, clinical data management systems and adverse event reporting software, including:
+
+● | systems developed internally by existing or prospective customers;
+--+-------------------------------------------------------------------
+
+
+● | vendors of EDC, eClinical, clinical trial management systems and adverse event reporting product suites, including Oracle Clinical a business unit of Oracle Corporation and Medidata Solutions; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | vendors of stand-alone EDC, data management and adverse event reporting products; and
+--+--------------------------------------------------------------------------------------
+
+
+● | CROs with internally developed EDC, clinical data management systems or adverse event reporting systems.
+--+---------------------------------------------------------------------------------------------------------
+
+ 
+Our ability to remain competitive will depend to a great extent upon our ongoing performance in the areas of product development, customer support and service delivery. We believe that the principal competitive factors in our market include the following:
+ 
+
+● | product functionality and breadth of integration among the EDC, eClinical, clinical trial management systems and adverse event reporting solutions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | reputation and financial stability of the vendor;
+--+--------------------------------------------------
+
+
+● | low total cost of ownership and demonstrable benefits for customers;
+--+---------------------------------------------------------------------
+
+
+● | depth of expertise and quality of consulting and training services;
+--+--------------------------------------------------------------------
+
+
+● | performance, security, scalability, flexibility and reliability of the solutions;
+--+----------------------------------------------------------------------------------
+
+
+● | speed and ease of implementation and integration; and
+--+------------------------------------------------------
+
+
+● | sales and marketing capabilities and the quality of customer support.
+--+----------------------------------------------------------------------
+
+Government Regulation
+ 
+The conduct of clinical trials is subject to regulation and regulatory guidance associated with the approval of new drugs, biological products and medical devices imposed upon the clinical trial process by the U.S. federal government and related regulatory authorities such as the FDA and by foreign governments. Use of our software products, services and hosted solutions by entities engaged in clinical trials must be done in a manner that is compliant with these regulations and regulatory guidance. Failure to do so could have an adverse impact on a clinical trial sponsor’s ability to obtain regulatory approval of new drugs, biological products or medical devices. If our product and service offerings fail to allow our customers and potential customers to operate in a manner that is compliant with applicable regulations and regulatory guidance, clinical trial sponsors and other entities conducting clinical research may be unwilling to use our software products, services and hosted solutions. Accordingly, we design our product and service offerings to allow our customers and potential customers to operate in a manner that is compliant with applicable regulations and regulatory guidance. We also expend considerable time and effort monitoring regulatory developments that could impact the use of our products and services by our customers and use this information in designing or modifying our product and service offerings.
+ 
+The following is an overview of some of the regulations that our customers and potential customers are required to comply with in the conduct of clinical trials.
+ 
+The clinical testing of drugs, biologics and medical devices is subject to regulation by the FDA and other governmental authorities worldwide. The use of software during the clinical trial process must adhere to the regulations and regulatory guidance known as Good Clinical Practices, other various codified FDA regulations, the Consolidated Guidance for Industry from the International Conference on Harmonization regarding Good Clinical Practice for Europe, Japan and the United States and other guidance documents. Our products, services and hosted solutions are developed using our domain expertise and are designed to allow compliance with applicable rules or regulations.
+ 
+In addition to the aforementioned regulations and regulatory guidance, the FDA has developed regulations and regulatory guidance concerning electronic records and electronic signatures. The regulations, codified as 21 CFR Part 11, are interpreted for clinical trials in a guidance document titled Computerized Systems Used in Clinical Investigations. This regulatory guidance stipulates that computerized systems used to capture or manage clinical trial data must meet certain standards for attributability, accuracy, retrievability, completeness, originality, traceability, inspectability, validity, security and dependability. Other guidance documents have been issued that also help in the interpretation of 21 CFR Part 11.
+ 
+ 9
+
+
+
+Regulation of the use and disclosure of personal medical information is complex and growing. Federal legislation in the United States, known as the Health Insurance Portability and Accountability Act of 1996, or HIPAA, imposes a number of requirements on the use and disclosure of "protected health information" which is individually identifiable, including standards for the use and disclosure by the health care facilities and providers who are involved in clinical trials. HIPAA also imposes on these healthcare facilities and providers standards to assure the confidentiality of health information stored or processed electronically, including a series of administrative, technical and physical security procedures. This may affect us in several ways. Many users of our products and services are directly regulated under HIPAA and, to the extent our products cannot be utilized in a manner that is consistent with the users' HIPAA compliance requirements, our products will likely not be selected. In addition, we may be directly affected by HIPAA and similar state, federal and foreign privacy laws. Under HIPAA, to the extent we perform functions or activities on behalf of customers that are directly regulated by such medical privacy laws, such customers may be required to obtain satisfactory assurance, in the form of a written agreement that we will comply with a number of the same HIPAA requirements.
+ 
+Background and History
+ 
+OmniComm Systems, Inc. was originally organized as Coral Development Corp., under the laws of the State of Delaware, on November 19, 1996, by Modern Technology Corp. (“Modern”).  Modern originally completed a “blind pool/blank check” offer pursuant to Rule 419 by having Modern distribute Coral Development shares as a dividend to Modern shareholders.  On February 17, 1999, OmniComm Systems, Inc., a company organized under the laws of the State of Florida as the Premisys Group, Inc. on March 4, 1997, merged with Coral Development.  Coral Development was the surviving entity post-merger.  The merged entity changed its name to OmniComm Systems, Inc.
+Employees
+ 
+As of December 31, 2016 we employed approximately 130 employees and consultants Company-wide as follows: 59 out of our headquarters in Fort Lauderdale, Florida, 10 out of a regional operating office in Somerset, New Jersey and 24 in remote locations throughout the United States and Canada.  Our wholly-owned subsidiary, OmniComm Europe, GmbH, employs 17 in Bonn, Germany.  Our wholly-owned subsidiary, OmniComm Ltd., employs 12 in Southampton, England.  Our wholly-owned subsidiary, OmniComm Spain, S. L. employs 2 in Barcelona, Spain.  Our wholly-owned subsidiary, OmniComm Systems B.V. employs 4 in Leiden, the Netherlands and 2 in Japan. We believe that relations with our employees are good.  None of our employees are represented by a collective bargaining agreement.
+Available Information
+ 
+Our Internet website address is http://www.omnicomm.com.  The information on or accessible through our website is not incorporated by reference in this Annual Report. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other Securities and Exchange Commission filings, and any amendments to those reports and any other filings, filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available free of charge via a link on our website as soon as reasonably practicable after we electronically file the materials with the Securities and Exchange Commission or on the Securities and Exchange Commission website at http://www.sec.gov.
+ 

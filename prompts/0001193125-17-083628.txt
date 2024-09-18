@@ -1,0 +1,409 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Available Information 
+ Edgewater Technology, Inc. maintains executive offices located at 200 Harvard Mill Square, Suite 210, Wakefield, MA 01880-3209. Our telephone number is (781) 246-3343. Our stock is traded on the NASDAQ Global Market under the symbol EDGW. Our Internet address is www.edgewater.com. We make available, free of charge, on the Investor Relations section of our website, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with the Securities and Exchange Commission (the SEC). Copies are also available, without charge, from Edgewater Technology, Inc., Attn: Investor Relations, 200 Harvard Mill Square, Suite 210, Wakefield, MA 01880-3209 or by emailing ir@edgewater.com. Alternatively, reports filed with the SEC may be viewed or obtained at the SEC Public Reference Room at 100 F Street, NE, Washington, D.C. 20459, or the SECs Internet site at www.sec.gov. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We do not intend for information contained in our website to be part of this Annual Report on Form 10-K.Overview 
+ Edgewater Technology, Inc. helps the C-suite drive transformational change through its unique selection of business and technology services and channel-based solutions. 
+ Classic consulting disciplines (such as business advisory, process improvement, organizational change management, M&A due diligence, and domain expertise) are blended with technical services (such as digital transformation, technical roadmaps, data and analytics services, custom development and system integration) to help organizations leverage investments in legacy IT assets to create new digital business models. 
+ Delivering both on premise and in the cloud, Edgewater offers two major channel-based services. In the Oracle channel, Edgewater Ranzal provides Business Analytics solutions leveraging Oracle EPM, BI and Big Data technologies. In the Microsoft channel, Edgewater Fullscope delivers Dynamics AX ERP, Business Intelligence and CRM solutions primarily in the manufacturing space. 
+ Our Services 
+ Edgewater offers a full spectrum of services and expertise to ensure the success of our engagements. Our consulting services are categorized into two different components: (1) Channel View and (2) Systems Integration View. 
+ 
+- 4 - 
+ 
+The following diagram illustrates these offerings: 
+ 
+
+Edgewater has the proven expertise to plan, deliver and manage integration services that improve performance and maximize business results. We focus on deploying new systems and unlocking the value of the existing corporate assets. This proven expertise enables us to bring complex technologies and systems together while minimizing risk, leveraging our clients technology investments and delivering tailored solutions. 
+ Below are Edgewaters service categories with sample services: 
+ 
+
+◾ | Classic consulting services
+--+----------------------------
+
+
+○ | Digital Transformation;
+--+------------------------
+
+
+○ | CFO/CIO advisory services;
+--+---------------------------
+
+
+○ | Business improvement roadmaps;
+--+-------------------------------
+
+
+○ | Organizational change management;
+--+----------------------------------
+
+
+○ | Program/project management;
+--+----------------------------
+
+
+○ | Business process rejuvenation and integrated social media best practices;
+--+--------------------------------------------------------------------------
+
+
+○ | Specialized operational, due diligence and technology management expertise to mergers and acquisitions, private equity and venture capital;
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Strategic advice, costing, estimates to complete, failing or failed programs or project initiatives;
+--+-----------------------------------------------------------------------------------------------------
+
+
+○ | Independent package selection and Request for Information or Proposal process design and implementation;
+--+---------------------------------------------------------------------------------------------------------
+
+
+○ | Domain Expertise;
+--+------------------
+
+
+○ | Technical architecture, roadmaps and design;
+--+---------------------------------------------
+
+
+○ | Strategic technology selections;
+--+---------------------------------
+
+
+○ | Data Analytics and Reporting;
+--+------------------------------
+
+
+○ | Custom component design and implementation;
+--+--------------------------------------------
+
+
+○ | Customer intelligence solutions using web/mobile analytics combined with social intelligence;
+--+----------------------------------------------------------------------------------------------
+
+
+○ | Cloud architecture, integration and phasing solutions;
+--+-------------------------------------------------------
+
+
+○ | On-going support services; and
+--+-------------------------------
+
+
+○ | Infrastructure optimization and redesign, disaster recovery and business continuity specialized design and assistance.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+ 
+- 5 - 
+ 
+
+◾ | Product-based consulting services
+--+----------------------------------
+
+
+○ | Business transformation through the use of packaged software solutions;
+--+------------------------------------------------------------------------
+
+
+○ | Enterprise Performance Management with Oracle budgeting, planning, consolidation and strategic finance both on premise and in the cloud;
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Big Data;
+--+----------
+
+
+○ | Enterprise Resource Planning with Microsoft Dynamics AX targeted in process and discrete manufacturing verticals such as CPG, IEM, Chemical, Pharmaceuticals and Food and Beverage, both on premise and in the cloud;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Customer relationship management with Microsoft Dynamics CRM both on premise and in the cloud;
+--+-----------------------------------------------------------------------------------------------
+
+
+○ | Industry specific platform and best practice solutions;
+--+--------------------------------------------------------
+
+
+○ | Blended solutions; Microsoft CRM/XRM and specialized custom solutions;
+--+-----------------------------------------------------------------------
+
+
+○ | Business intelligence analytics;
+--+---------------------------------
+
+
+○ | Design, development and introduction of IP that helps verticalize channel product stacks; and
+--+------------------------------------------------------------------------------------------------
+
+
+○ | Support and training services.
+--+-------------------------------
+
+ In addition to the above services, the Company also provides synergistic services in the area of data management and analytics. Examples of such services include the following: 
+ 
+
+◾ | Enterprise information management services
+--+-------------------------------------------
+
+
+○ | Provide for data related matters: master data management, data governance, logical and physical data base design, data warehouse strategies and design;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Provide practical data architectures and roadmaps to support transactional systems and enterprise performance management through advanced analytics; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Provide forms of data manipulation, transformation and quality services.
+--+-------------------------------------------------------------------------
+
+
+◾ | Analytics services
+--+-------------------
+
+
+○ | Advise on lead derivation of key financial and operational performance indicators and correlate their measurement, visualization and action for a given organization;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Advise on opportunities for the use of predictive techniques, external data and benchmarks to improve business performance measurement and forecasting;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Advise on the creation and adoption of analytics architectures, roadmaps and supporting organizations; and
+--+-----------------------------------------------------------------------------------------------------------
+
+
+○ | Advise, design and roadmap analytics-based near real-time to real-time alerting strategies and implementations.
+--+----------------------------------------------------------------------------------------------------------------
+
+ Our consultants are expected to travel and to be onsite with the customer to provide the highest level of service and support in all of these endeavors. We provide varying degrees of customer project assistance and will incorporate customer resources for technology transfer or cost optimization purposes. Independent teams and proper project process and delineation provide conflict-free transition points among all key service offerings as well as independent entry points. Leads for all offerings are internally driven with assistance from the respective vendors for software product solutions. 
+ Customers 
+ Our strategic acquisitions have helped enhance our service and product offerings, increase and diversify our customer base and reduce our reliance on individually significant customers. Service revenue from our five largest customers, as a percentage of total service revenue, was 15.2%, 11.8% and 17.8% for the years ended December 31, 2016, 2015 and 2014, respectively. No single customer represented 10% or more of total revenue during the years ended December 31, 2016, 2015 or 2014. See Item 1A.  Risk Factors  Our results can be subject to variability as work is completed for a limited number of significant customers, and our results of operations and financial condition could be negatively affected by the loss of a major customer or significant 
+ 
+- 6 - 
+ 
+ project or the failure to collect a large account receivable. During 2016, we recorded service revenue from 670 customers, of which 140 were new customers, as compared to recording service revenue from 667 customers in 2015, of which 139 were new customers. We recorded service revenue from 403 customers in 2014, of which 83 were new customers. Total customers served and new customers added during 2015 benefited from the acquisitions of substantially all of the assets of Zero2Ten, Inc. (Zero2Ten), Branchbird LLC (Branchbird) and M2 Dynamics Inc. (M2 Dynamics). Specifically, the higher volume and lower cost revenue model of Zero2Ten was a driving force behind the yearly increase in these metrics. 
+ Industry Dynamics and Opportunity 
+ Industry Dynamics.    In todays rapidly shifting macro business environment, businesses are demanding that financial and operational strategies be implemented in the most efficient and complete manner possible. The classic providers, such as the large management consulting firms, large accounting firms and multinational integrators, tend to provide solution services exclusively on large complex platforms, encompassing many players of mixed experience levels and in a myriad of locations. Edgewaters services are focused and quickly deployed onsite in a specialized solution package, more appropriate to todays need for faster innovation rollout, pushed deeper into subsidiaries of multinational corporations as well as middle market growth companies. 
+ Expenditures in the information technology market have become a critical success factor in every companys successful growth. As such, IT expenditures are receiving the scrutiny of the C-level officers, when specifically focused on transformational change. Our C-level buyers are looking to purchase rapidly deployable, risk-managed, product-based technology solutions. These solutions maintain the ability for a company to differentiate itself from its competitors with proprietary business process, combined with the leverage of product customization. Edgewater assists clients with these solutions primarily in the Oracle Corporation (Oracle) and Microsoft Corporation (Microsoft) product channels, while providing the opportunity for a customer to customize its solutions through the utilization of its custom technology consulting services. 
+ In addition, there are three drivers of incremental change for early adopters: big data and analytics, digital transformation, and large scale cloud adoption. The first driver provides deeper data sources, as well as external reference data to expand and improve enterprise analytics. Digital transformation offers platform agnostic near real-time input for transactions and corporate command and control, breaking the paper-based paradigm which has driven automation to date. The third driver, large scale cloud adoption, increases the penetration of the cloud-based delivery model into larger companies and typically on premise classical systems. These incremental change drivers are catalysts for opportunity in our product channels as well as for our classical consulting resources. Edgewater plans to aggressively exploit these opportunities via organic initiatives as well as strategic alternatives. 
+ Companies typically turn to consulting firms, like Edgewater, to fill these internal project gaps for a number of reasons: 
+ 
+
+◾ | For deep industry, product, data and technical expertise;
+--+----------------------------------------------------------
+
+
+◾ | To obtain strategic consulting services in an accelerated timeframe;
+--+---------------------------------------------------------------------
+
+
+◾ | To mitigate their business risk with focused onsite project teams;
+--+-------------------------------------------------------------------
+
+
+◾ | To receive an outside objective perspective;
+--+---------------------------------------------
+
+
+◾ | To obtain EPM- and EIM-related services;
+--+-----------------------------------------
+
+
+◾ | To obtain product, services and IP related to ERP and CRM;
+--+-----------------------------------------------------------
+
+
+◾ | To provide cloud architecture and on-ramping services; and/or
+--+--------------------------------------------------------------
+
+
+◾ | To serve as an agent to plan, manage and implement change.
+--+-----------------------------------------------------------
+
+ Industry Opportunity.    Technology has become such an integral part of business that it requires skilled strategic management in its own right. Technology has become a key enabler to business change when the appropriate strategic steps, a meld of business process change and technology, are well laid out and thoughtfully 
+ 
+- 7 - 
+ 
+ executed. Strategic consulting firms deliver innovative thinking and in-depth vertical industry expertise, along with the ability to implement business process transformation through the judicious use of appropriate technologies. We have steadily enhanced our offerings to address the evolving need for strategic advisory and product-based consulting services and plan to continue to grow our competencies in these areas. Our goal is to provide a comprehensive continuum of focused business services, encompassing all facets of business, through the enablement of technology. 
+ Competitive Strengths 
+ Edgewater offers strategic consulting services designed to assist its clients in improving financial and operational performance across their enterprises. We develop business strategies and technology solutions that address their specific needs while providing them with increased competitive advantage. We believe that five core values differentiate us from our competition. 
+ These values include the following: 
+ 
+
+(1) | Delivery Excellence  Our history is built upon more than 20 years of proven methodology and well-defined process, in addition to continuous delivery of business and technology solutions that work. Our delivery excellence is a derivative of a well-defined business plan, highly-skilled consultants, strong technical expertise and established implementation and support methodologies. Most importantly, we use an iterative business and technology approach, with an emphasis on quality assurance and project management, to achieve rapid and successful deployment of our solutions. Our delivery history has contributed to our ability to build long-term customer relationships.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Vertical Expertise  We combine vertical industry knowledge with a broad base of key strategic technologies to serve our customers needs and deliver tailored and innovative strategies and solutions. We have developed core competencies in primary vertical markets such as: CPG/Manufacturing; Discrete and Process Manufacturing; Energy/Utilities; Healthcare; Hospitality; Insurance; Oil and Gas; Retail; Travel/Entertainment; and various Emerging Markets.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Technology Excellence  We deliver our services by blending proven strategic technologies and business practices to build scalable solutions providing a solid return on investment. Our team of professionals has the business and technology expertise to offer comprehensive strategies and solutions. Our areas of expertise include:
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ | Classic consulting services;
+--+-----------------------------
+
+
+ | EPM solutions in planning;
+--+---------------------------
+
+
+ | EPM budgeting;
+--+---------------
+
+
+ | EPM consolidation and strategic finance;
+--+-----------------------------------------
+
+
+ | Microsoft Dynamics solutions in the area of CRM and ERP;
+--+---------------------------------------------------------
+
+
+ | Data analytics;
+--+----------------
+
+
+ | Web analytics;
+--+---------------
+
+
+ | Big data;
+--+----------
+
+
+ | Advanced data and infrastructure services; and
+--+-----------------------------------------------
+
+
+ | Specialized custom IT services.
+--+--------------------------------
+
+
+(4) | Client Focus  Edgewater is positioned to provide its customers with onsite services. Edgewaters client-centric model is well positioned to serve the needs of the Global 2000 for tight, highly-trained, product specialist project teams, as well as the upper middle market whose needs tend to span the full spectrum of our business/IT service offerings.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Adherence to Operational Metrics  Since our inception in 1992, Edgewaters original management team has built an organization that is defined by a record of operational excellence, tracking key performance indicators and well-defined operating metrics to manage our consulting resources, utilization and gross margin.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+- 8 - 
+ 
+Business Strategy 
+ Our business strategy is to position our Company as one of the leading providers of transformational classic and product-based consulting services. We believe we can attain this strategic objective by delivering a range of blended solutions through a combination of industry specific classic consulting, advanced productbased software consulting and custom technology consulting services. Clients desire the personal attention provided by onsite industry, financial and strategic expertise buttressed with the ability to speed idea implementation with cost-effective advanced software package solutions. Our ability to begin our services dialogue at the strategy level in business vernacular all the way through specific software product request for proposal response provides a spectrum of sales opportunities with varying degrees of channel control and cost. This spectrum of engagement entry opportunities allows us to serve the upper middle market through the Global 2000 with an appropriate set of services. 
+ The spectrum begins with pure consulting and ends with pure information technology. Smaller organizations such as middle-market companies, subsidiaries of Global 2000, private equity firms and venture capital firms will tend to start at the advisory and classic consulting level, while the Global 2000 tend to initially engage with product-based consulting services. 
+ Additionally, we are able to strengthen our service offerings by focusing upon the development of intellectual property, not only in the area of trademarks, as described below under  Intellectual Property, but with respect to the internal development of software. We are able to quickly execute on the internal development of intellectual property given the significant knowledge and expertise we maintain in our product-based consulting channels. We can leverage this intellectual property as a means to accelerate delivery of a solution and as a means to solidify and/or expand our presence in a vertical market. 
+ Marketing, Sales and Strategic Alliances 
+ Marketing.    The primary goal of our marketing efforts is to generate sales opportunities by increasing our brand awareness, value proposition and overall domain expertise. Our marketing efforts continue to be closely aligned with our go-to-market strategy, while introducing specific offerings that address business and IT problems faced by our clients. We leverage the core competencies we have developed in delivering our services in key industries and horizontal offerings to increase the efficiency of our marketing efforts. Our marketing function utilizes comprehensive internet marketing strategies that involve integrated activities including, but not limited to: webinars, highly-targeted email campaigns distributed to prospect and client lists developed with specific demographics and attributes and social media outlets to promote our capabilities and services (e.g., both company-driven and domain-specific blogs, social networking and video sharing websites). By leveraging closely coupled internet marketing strategies to promote our services, we are able to reach a wider audience and communicate in a medium that has become more widely accepted and brings in quicker results from a sales and marketing perspective. We also gather key statistics from our websites, blogs, email campaigns and other social media outlets to test, measure and trace our marketing initiatives. This enables us to ensure we are reaching the right target audience with concise and compelling offerings to promote our capabilities. We also author white papers and contribute to articles in trade publications, attend events and participate in targeted industry conferences and tradeshows. 
+ Our marketing department has embarked on an enterprise-wide initiative to bring recent acquisitions under a single master brand concept. Since some of our new offerings are not purely technology oriented, we are in the process of establishing our master brand as Edgewater, thus dropping the word Technology from our corporate identity. 
+ Sales.    Our sales approach is to combine traditional sales with our strength in industries and technology. Our traditional sales function is composed of direct sales professionals and inside sales professionals. Both work closely with our practice directors to identify potential opportunities within each account. Using a consultative selling methodology, we identify target prospects and develop a pursuit plan for each key account. When contact 
+ 
+- 9 - 
+ 
+ with a target is established, we utilize a blended sales model to demonstrate our expertise, combining consultative selling with traditional sales methods. Once the customer has engaged us, our sales professionals maintain their relationships with the customer by working collaboratively with the consulting professionals who are assigned to the customer. 
+ Strategic Alliances.    As part of our sales and marketing effort, we have established working relationships with a number of companies, including: Informatica Corporation, Keyteach, Microsoft, Oracle, FAST, Cloudera, Hortonworks, SiteCore, Accelatis, Amazon, and Webtrends. These alliances generally entail sharing sales leads, joint marketing efforts, making joint customer presentations, negotiating discounts on license fees or other charges and conducting similar activities. Our arrangements with many of these companies are informal and are not subject to definitive written agreements. For those companies with whom we do have definitive written agreements, those agreements are either terminable at will by either party or are for terms of one year or less. We believe we have been successful in establishing alliances with a strong group of companies who are either industry leaders or well-regarded new entrants. 
+Professional Recruitment, Retention and Development 
+ Our success depends in part upon our ability to recruit and retain business and technology professionals with the high level of skills and experience needed to provide our specialty services. We believe that the combination of professional support, intellectual challenge, corporate culture and compensation we offer will continue to be attractive to these highly-skilled professionals. Our working environment also fosters collaboration, creativity and innovation. We believe that our employees are one of our most valuable assets. 
+ Employees.    As of December 31, 2016, Edgewater had 465 employees (excluding contractors). Of these employees, 359 were billable consultants and 106 were management and administrative personnel (composed of sales, marketing, human resources, finance, accounting, internal information systems and administrative support) and product development personnel. The average tenure of our employees is approximately 6 years and the average years of experience is approximately 23 years. Our employees are not represented by a collective bargaining agreement. We believe that our employee relations are strong. 
+ Culture.    We believe that our business culture is critically important in hiring and retaining qualified professionals. Our ability to provide effective multidisciplinary teams is dependent upon our ability to develop and sustain a business culture that is common across all disciplines and vertical practices throughout our Company. Our employees are talented and energetic professionals who come from a multitude of professional backgrounds. We believe that this creates an exciting, diverse and creative work environment for our employees. 
+ Compensation.    We have competitive compensation programs that have been structured to attract and retain highly-skilled professionals. Edgewaters compensation programs include competitive base salaries, coupled with cash bonus and equity-based incentive opportunities. Compensation plans may be tied to the achievement of the Companys financial performance or tied to individual and team performance goals. 
+ Recruiting.    We believe that our long-term success will depend upon our ability to attract, retain and motivate highly-skilled employees. Our recruitment department has traditionally conducted its own direct recruiting efforts and coordinated informal and search firm referrals. We believe that our business model, which results in an intellectually stimulating work environment, provides increased opportunities for professional development and a dynamic corporate culture, which enhances our ability to attract and retain top professionals. 
+ Professional Development.    We believe that providing our professionals with a wide variety of challenging projects, the opportunity to demonstrate ability and achieve professional advancement are keys to their retention. We work with our professionals to assist them with their professional development by offering internal and external learning opportunities. We encourage them to attain industry certifications which strengthen their expertise in both business and technology. We also believe that the working relationships they form on various project teams foster valuable formal and informal mentoring and knowledge sharing. 
+ 
+- 10 - 
+ 
+Competition 
+ We operate in a competitive and rapidly changing market. We also compete with a variety of organizations that offer services similar to those we provide. Our clients often retain us on a non-exclusive, project-by-project basis. We compete with a number of different types of businesses, including: 
+ Traditional management and strategy consulting firms that focus on advising C-level executives on organization and corporate strategy. Many of the traditional strategic consulting firms have added services in information technology. 
+ Systems integration and IT consulting firms that design and implement technology solutions, including software installation, for departments and enterprises. These firms have grown in size and scope of services, including the provision of offshore software development services. 
+ Information technology product and service vendors that offer technical consulting to support their own products. Many of these firms have also developed various alliances with systems integration and IT consulting firms to augment their own capabilities. 
+ There is significant competition in the management and IT consulting services space. Mergers or consolidations in our market may create new, larger or better-capitalized competitors with enhanced abilities to attract and retain professionals. The following is a representative list of competitors in the IT and management consulting services space: 
+ 
+
+◾ | Technical Consulting/Systems integrators: Accenture, Ciber, Inc., IBM Global Services, Business and Decision Group, Caritor, Inc., CGI, and Perficient;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+◾ | Offshore software development firms: Aztec Software, Cognizant Technology Solutions, Infosys, Ventyx, Tech Mahindra, Tata and Wipro;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+◾ | Management/Business Consulting firms: Bain & Company, Booz-Allen & Hamilton, Boston Consulting Group and McKinsey & Company;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+◾ | Enterprise Resource Planning firms: SAP, Oracle, Hitachi, Tribridge and Avanade;
+--+---------------------------------------------------------------------------------
+
+
+◾ | Enterprise Performance Management / Business Activity Monitoring / Business Intelligence providers: Deloitte & Touche, Huron, The Hackett Group, Hitachi Consulting Corporation, KPI Partners, KPMG, PricewaterhouseCoopers and Ernst & Young; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+◾ | Computer hardware, software and service vendors: Hewlett-Packard, IBM, Oracle, Microsoft and SAP.
+--+--------------------------------------------------------------------------------------------------
+
+ We believe that the principal criteria considered by prospective clients when selecting a consulting firm include skills and capabilities of consultants, scope of services, project methodology and approach, technical and industry expertise, reputation and quality of past work, perceived value and a commitment to delivering a solution that works as intended. Due to our ongoing dedication and attention to all of the above characteristics, we believe that we are well positioned against our competitors in our marketplace. 
+ Intellectual Property 
+ We consider our intellectual property to be a valuable asset in a highly competitive industry. We also consider our intellectual property to be an important factor in building brand recognition for quality service and performance. Therefore, we have secured certain service marks for Edgewater, Edgewater Consulting, Edgewater Technology, Edgewater Strategy Services, Edgewater Technology-Ranzal, Edgewater Ranzal and Edgewater Fullscope, among others. We believe we have secured all rights to trademarks and trade names related to our business. 
+ 
+- 11 - 
+ 
+We rely on a combination of trade secret, copyright and trademark laws to protect our proprietary rights. In particular, we require each of our employees to sign an invention and non-disclosure agreement, which provides that they must maintain the confidentiality of our intellectual property and that any intellectual property that they develop while employed by us is the property of Edgewater. We have developed detailed tools, processes and methodologies which are used in developing software code, scripts, libraries, data models, applications, business processes, frameworks and other technology used within our Company and in customer engagements. See also Item 1A.  Risk Factors included elsewhere in this Form 10-K.
+Potential Future Strategies, Transactions and Changes 
+ Critical to our ability to create long-term stockholder value, the Company will continue to pursue internal growth initiatives and appropriate business combination transaction alternatives to achieve growth in revenues and profitability. From time to time, we have engaged and we may continue to engage in discussions with various persons regarding potential business combination transactions. 
+ We believe that our current cash balances and our anticipated cash flow from our operations taken together will be adequate for our working capital needs for at least the next twelve months. However, our actual experience may differ significantly from our expectation, particularly if we pursue growth through business combination transactions. In addition, other future events may adversely or materially affect our business, expenses or prospects and could affect our available cash or the availability or cost of external financial resources. 
+ We may, in the future, purchase common stock in the open market, in private transactions or otherwise, pursuant to board approved repurchase programs. See Item 5.  Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities included elsewhere in this Form 10-K. Any future purchases by us will depend on many factors, including, but not limited to, the market price of our common stock, our business strategy, our business and financial position and general economic and market conditions. 
+ For additional information about our geographic areas, please see Item 8.  Financial Statements and Supplementary Data  Notes to Consolidated Financial Statements  Note 15  Geographic Information. 
+ For additional information about our operating segments, please see Item 8  Financial Statements and Supplementary Data  Notes to Consolidated Financial Statements  Note 16  Operating Segments. 
+ Directors and Executive Officers of the Registrant 
+ 
+
+Name | Age | | Position with the Company
+Jeffrey L. Rutherford | | 56 | | Chairman of the Board, Interim President and Interim Chief Executive Officer 
+David Clancey | | 61 | | Executive Vice President, Chief Strategy Officer and Chief Technology Officer 
+Timothy R. Oakes | | 48 | | Chief Financial Officer, Chief Accounting Officer, Treasurer and Corporate Secretary
+Robin Ranzal-Knowles | | 49 | | President, Edgewater Technology-Ranzal, Inc. 
+Kristin Zaepfel | | 53 | | Vice President, Human Resources 
+Stephen Bova | | 70 | | Director 
+Matthew Carpenter | | 45 | | Director 
+Frederick DiSanto | | 54 | | Director 
+Nancy Leaming | | 69 | | Director 
+Shirley Singleton | | 65 | | Director 
+Timothy Whelan | | 51 | | Director 
+Kurtis J. Wolf | | 44 | | Director 
+
+ 
+- 12 - 
+ 
+Mr. Rutherford currently serves as our Chairman, interim President, and interim Chief Executive Officer, positions he was appointed to in March 2017. Mr. Rutherford previously served as Vice President and Chief Financial Officer at Ferro Corporation, an international coatings and colors manufacturing business, from April 2012 to September 2016. From July 2008 to April 2012, Mr. Rutherford served as Vice President and Chief Financial Officer at Park-Ohio Holdings Corp, an international industrial supply and diversified manufacturing business. Mr. Rutherford served as the Vice President and Chief Financial Officer at UAP Holdings Corp. from October 2007 to June 2008. At the time UAP Holdings Corp. was a publicly traded company that distributed agricultural inputs throughout North America. In 2008, UAP Holdings Corp. was acquired by Agrium Inc. Previously, Mr. Rutherford served as the President, Chief Executive Officer and Chief Financial Officer at LESCO, Inc., which at the time was a publicly traded company that distributed inputs to the professional turf industry, from 2002 to 2007. Mr. Rutherford also served on the board of directors of LESCO, Inc., from 2006 to 2007. LESCO, Inc. was subsequently acquired by Deere & Co. in 2007. Mr. Rutherford served as Chief Financial Officer and Senior Executive Vice President of OfficeMax, Inc., a retailer of office products and supplies, from 1997 to 2002, after having previously served as its Senior Vice President and Treasurer, from February to July 1997. From 1983 to 1996, Mr. Rutherford worked at Arthur Andersen, a consulting and accounting firm. Mr. Rutherford earned his Bachelors degree in Business Administration and Accounting from Baldwin Wallace College. Mr. Rutherford has served as a Director of our Company since February 2017. 
+ Mr. Clancey has served as Executive Vice President, Chief Strategy Officer and Chief Technology Officer of our Company since June 2006. Before assuming his current title, Mr. Clancey served as our Executive Vice President  Chief Technology Officer from 2001 to 2006 and as Senior Vice President  Chief Technology Officer of Edgewater Technology (Delaware), Inc. (Edgewater Delaware) from 1992 until 2001. Mr. Clancey co-founded Edgewater Delaware in 1992 with Ms. Singleton. Prior to co-founding Edgewater Delaware, Mr. Clancey was a Systems Architect and Chief Technology Officer at Logica North America. 
+ Mr. Oakes has served as Chief Financial Officer, Treasurer and Corporate Secretary of our Company since September 2009 and Chief Accounting Officer of our Company since July 2008. Mr. Oakes joined our Company as a Director of Finance in August 2004. Prior to joining Edgewater, Mr. Oakes was a Senior Director of Finance at Symmetricom, Inc. from September 2001 to August 2004. Prior to Symmetricom, Mr. Oakes held various financial management and operational reporting positions with companies in the biotechnology, manufacturing and consulting services industries. 
+ Ms. Ranzal-Knowles has served as President of Edgewater Technology-Ranzal, Inc., a subsidiary of the Company (Ranzal), since October 2004. Prior to joining Edgewater, Ms. Ranzal-Knowles was the founder, owner and President of Ranzal and Associates, Inc., from March 1996 to October 2004. 
+ Ms. Zaepfel has served as Vice President of Human Resources of our Company since September 2003. Prior to joining our Company, Ms. Zaepfel served as Senior Vice President of Human Resources for Xchange, Inc. from 1998 to 2003. Ms. Zaepfel has also held various Human Resources positions at such organizations as HPR, Inc., Mellon Bank Corporation and The Boston Company. 
+ Mr. Bova has served as an independent consultant, offering business strategy advice, organization analysis and CEO mentoring, since January 2014. Mr. Bova has also served as a director of each of OPTOMI, LLC, a nationwide IT staffing company, since October 2012; Lindsey Software Systems, Inc., a public housing software developer, since November 2010; and BlueInGreen, LLC, a technology-based water quality improvement company, since November 2010. From January 2010 to December 2013, Mr. Bova served as a Partner of the Clark Bova Group, LLC, a management consulting firm. He also previously served as a Member of the Investment Committee of the Fund for Arkansas Future (FAF), an angel investor fund focused on Arkansas-based start-up companies, from January 2008 to December 2013. Mr. Bova previously served as the Chairman and Chief Executive Officer of Technisource, Inc. (f/k/a IntelliMark IT Business Solutions), an IT staffing company, from 2000 until it was successfully sold to Spherion Corporation in 2007. Technisource, Inc. was formerly a wholly owned subsidiary of Edgewater (formerly StaffMark, Inc.) until it was spun out as an 
+ 
+- 13 - 
+ 
+ independent company in 2000. Mr. Bova served as the President and Chief Operating Officer of Edgewater from 1999 to 2000, and as a director from 1999 to 2001. Mr. Bova also served as a director of Vestcom International, Inc., a leading provider of shelf-edge communications and specialized marketing services, from 1997 to 2002. From 1998 to 1999, he served as the Director of International Operations of Intelligroup, Inc., a leading provider of IT and consulting services. Mr. Bovas professional experience also includes prior service as the President of the Global Banking Division of Systematics, Inc. and later Alltel Information Services following its acquisition of Systematics (now Fidelity National Information Services, Inc.). He also previously served as the President of the Global Banking Division of Electronic Data Systems Corporation. Mr. Bovas professional career began as a software technician in 1970 and progressed to executive management roles beginning in 1983. Mr. Bova has served as a Director of our Company since March 2016. 
+ Mr. Carpenter has served as the Chairman and Chief Executive Officer of Vertical Knowledge, L.L.C., a leading provider of open source data, information services and analytics, since 2007. Mr. Carter previously founded and led EmployOn Inc., an online employment services company, until his departure in 2006. Mr. Carpenter earned his Bachelors degree from Mississippi State University. Mr. Carpenter has served as a Director of our Company since February 2017. 
+ Mr. DiSanto has served as the Chief Executive Officer of Ancora Advisors, LLC and Ancora Holdings Inc., a registered investment advisor, since January 2006, and as Chairman of the Board of Ancora Advisors, LLC, since December 2014. Previously, Mr. DiSanto worked at Fifth Third Bank, a regional banking corporation, serving as Executive Vice President and Manager of Fifth Third Banks Investment Advisor Division from 2001 to 2005. In 2001, Fifth Third Bank acquired Maxus Investment Group, an asset management firm and Mr. DiSantos previous employer. Prior to the acquisition, Mr. DiSanto was the President and Chief Operating Officer at Maxus Investment Group, from 1998 to 2000. From 1991 to 1997, Mr. DiSanto was Managing Partner at Gelfand Partners Asset Management, an investment management firm, which merged with Maxus Investment Group in 1997. Mr. DiSanto began his investment career in 1985 with McDonald Investments in Institutional Equity Sales. Currently, Mr. DiSanto is serving on the boards of Medical Mutual of Ohio, Case Western Reserve University, The Cleveland Film Commission, The Eastern Company, Regional Brands and WF Hann Sons. He is also on the Executive Committee for the Board of Trustees at Case Western Reserve University. Previously, Mr. DiSanto served as the Chairman of the Board of Regents of St. Ignatius High School. Mr. DiSanto is also the former Chairman and current Trustee of the Greater Cleveland Sports Commission. Mr. DiSanto earned a Bachelors degree in Management Science and a Masters degree in Business Administration from Case Western Reserve University. Mr. DiSanto has served as a Director of our Company since February 2017. 
+ Ms. Leaming has been an independent consultant since 2005. From June 2003 to June 2005, Ms. Leaming was the Chief Executive Officer and President of Tufts Health Plan, a provider of healthcare insurance. Prior to that, Ms. Leaming served as Tufts Health Plans President and Chief Operating Officer from 1998 to 2003, the Chief Operating Officer from 1995 to 1998 and the Chief Operating Officer/Chief Financial Officer from 1986 to 1995. Prior to joining Tufts Health Plan, Ms. Leaming held a variety of management positions in managed care and banking, including Chief Financial Officer of Matthew Thornton Health Plan. Ms. Leaming currently serves as a director of Biogen Idec and Hologic, Inc. Ms. Leaming joined our Board in December 2005. 
+ Ms. Singleton co-founded Edgewater Delaware with Mr. Clancey in 1992 and served as President of Edgewater Delaware from 1992 until January 2002. Ms. Singleton then served as President and Chief Executive Officer of our Company (the parent company of Edgewater Delaware) from January 2002 to March 2017. Prior to co-founding Edgewater Delaware, Ms. Singleton held various management positions from 1982 to 1992 at Logica North America and attained the position of Vice President and General Manager of the Northeast region. Ms. Singleton serves on the Technical Oversight Committee for Partners Healthcare and the Board of Trustees for the North Shore Medical Center. Ms. Singleton has served as a Director of our Company since June 2001 and served as chairman of the Board from July 2005 to March 2017. 
+ 
+- 14 - 
+ 
+Mr. Whelan has served as the Chief Executive Officer of Wireless Telecom Group, Inc., a global designer and manufacturer of radio frequency and microwave-based products, since June 2016. Prior to his appointment, Mr. Whelan was a Co-Founder and Managing Director of Echo Financial Business Consulting, a privately held financial and operational consulting firm that he co-founded in February 2014. Mr. Whelan also serves as a director of Wireless Telecom Group, Inc. From June 2009 to August 2013, Mr. Whelan served as the Chief Operating Officer of IPC Systems, Inc. (IPC Systems), a global leading provider of communications networks, systems and solutions to the financial services industry. Mr. Whelan previously served as the Chief Financial Officer of IPC Systems from December 2001 to June 2009. From July 2000 to December 2001, Mr. Whelan served as Divisional Chief Financial Officer of Global Crossings Financial Markets division. From May 1999 to June 2000, he was Vice President of Finance at IPC Information Systems, Inc. and IXnet, Inc. Mr. Whelan is a certified public accountant and previously worked for Ernst & Young from 1992 to 1999. He also previously served four years as a U.S. Naval Officer. Mr. Whelan has served as a Director of our Company since March 2016. 
+ Mr. Wolf is Managing Member and Chief Investment Officer of Hestia Capital Management LLC, a deep value hedge fund that he founded in January 2009. From March 2007 to November 2008, Mr. Wolf worked as a Senior Analyst at First Q Capital, LLC, a hedge fund which invested in public companies which had previously been backed by venture capital or private equity firms. From January 2006 to February 2007, Mr. Wolf served as co-Founding Partner at Lemhi Ventures LLC, a health care services focused venture capital incubator. Mr. Wolf previously was co-Founding Partner at Definity Health Corporation, a leading player in the consumer-driven health care space, which was purchased by UnitedHealth Group Inc. in December, 2004. After the acquisition, from April 2005 through January 2006, Mr. Wolf served as Director, Corporate Development for UnitedHealth Group Inc.s Definity Health Corporation subsidiary. Prior to Definity Health Corporation being acquired, from September 1998 to January 2000, he served as co-Founding Partner, primarily serving in finance and strategy roles. Between his two periods at Definity Health Corporation, Mr. Wolf served as an Analyst at Relational Investors LLC, an activist hedge fund, from June 2002 to December 2004. Previously, he was a co-Founding Partner and Consultant at Lemhi Consulting, a related entity to Definity Health Corporation, from September 1998 to January 2000. Mr. Wolf also has experience working as a consultant both with Deloitte Consulting from September 1995 until September 1998 and The Boston Consulting Group during the summer of 2001. Mr. Wolf earned a Master of Business Administration degree from the Stanford Graduate School of Business and a Bachelor of Arts degree in Economics and Mathematics from Carleton College. Mr. Wolf has served as a Director of our Company since February 2017. 
+ 
+- 15 - 
+ 

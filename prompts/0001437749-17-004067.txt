@@ -1,0 +1,252 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.  BUSINESS.
+COMPANY OVERVIEW
+ 
+MeetMe, Inc. (the “Company,” “MeetMe,” “us” or “we”) is a fast-growing portfolio of mobile apps that brings together people around the world for new connections. Our mission is to meet the universal need for human connection. We operate location-based social networks for meeting new people on mobile platforms, including on iPhone, Android, iPad and other tablets, and on the web that facilitate interactions among users and encourage users to connect and chat with each other. Given consumer preferences to use more than a single mobile application, we are adopting a brand portfolio strategy, through which we offer products that collectively appeal to the broadest spectrum of consumers. We are consolidating the fragmented mobile meeting sector through strategic acquisitions, leveraging economies and innovation to drive growth. Through this strategy of consolidation, we intend to apply a centralized discipline to learnings, best practices and technologies across our brands in order to increase growth, reduce costs and maximize profitability. On October 3, 2016, the Company completed its acquisition of Skout, Inc. (“Skout”), a leading global mobile network for meeting new people.
+ 
+MeetMe’s platforms monetize through advertising, in-app purchases, and paid subscriptions. The Company offers online marketing capabilities, which enable marketers to display their advertisements in different formats and in different locations. We offer significant scale to our advertising partners, with hundreds of millions of daily impressions across our active and growing global user base, and sophisticated data science for highly effective hyper-targeting. The Company works with its advertisers to maximize the effectiveness of their campaigns by optimizing advertisement formats and placements.
+ 
+Just as Facebook has established itself as the social network of friends and family, and LinkedIn as the social network of colleagues and business professionals, MeetMe is creating the social network not of the people you know but of the people you want to know. Nimble and fast-moving, already in more than 100 countries, we are challenging the dominant player in our space, Match Group. Our vision extends beyond dating. We focus on building quality products to satisfy the universal need for human connection among all people, everywhere--not just paying subscribers. We believe meeting new people is a basic human need, especially for users aged 18-34, when so many long-lasting relationships are made. We use advanced technology to engineer serendipitous connections among people who otherwise might never have met — a sort of digital coffeehouse where everyone belongs. Over the years, MeetMe’s apps have originated untold numbers of chats, shares, good friends, dates, romantic relationships – even marriages.
+ 
+We believe that we have significant growth opportunities as people increasingly use their mobile devices to discover the people around them. Given the importance of establishing connections within a user’s geographic proximity, we believe it is critical to establish a high density of users within the geographic regions we serve. As the MeetMe networks grow and the number of users in a location increases, we believe that users who are seeking to meet new people will incrementally benefit from the quantity of relevant connections.
+ 
+BUSINESS OVERVIEW
+ 
+How We Create Value for Users
+ 
+The Company provides something everyone craves: the magic of human connection. Our innovative apps have advantages the neighborhood pub can’t match. MeetMe is continuously developing new products that improve on serendipity by providing a variety of ways to connect and all are backed by data science that engineers good matches. Our goal is to be the conduit for connecting people to each other for the over 50 million people aged 18-34 in the U.S. and the more than one billion worldwide. We are unashamedly free, monetizing with our industry-leading mobile monetization infrastructure. As a free, ad-supported service, we are fundamentally different from companies with paid memberships like Match Group, Zoosk and Spark Networks.
+ 
+The difference between a subscription-dating site and the MeetMe applications (“apps” or “applications”), is the difference between a singles bar and the neighborhood bar. People feel comfortable using the MeetMe apps to make friends, socialize and chat. In fact, in our internal survey of users conducted in January 2017, 85% of those responding said they preferred to start relationships as friends. We believe this comfort level drives higher engagement and retention.
+ 
+We believe a dramatic shift is underway in the multi-billion dollar dating industry, and that the industry is anchoring towards free with lowered pricing and dramatic investments in free services by existing players. We believe the subscription model ignores that only a small minority of meeting app users are willing to pay a fee; our model thrives on that fact. We believe the subscription-dating model is ultimately compromised because it leads to significant churn by its nature. We believe churn ultimately reduces daily active users and restricts user density. We believe the density of users within a geographic area is critical to developing a strong meet-new-people service. Ultimately, the network effect in a meet-new-people service comes down to having nearby, highly relevant users to recommend. With no paywalls as a barrier to entry, we believe there are virtually no limits to how many new people we sign up. Every new user provides MeetMe with additional opportunity to engineer great matches — and more engagements to monetize.
+ 
+ 
+1
+
+
+
+The Company has a singular focus on attracting and monetizing the vast majority of its users through superior products. We are not burdened by legacy subscription products, and we believe we are as well positioned as any company to build the global brand for meeting new people. We believe our success will depend in large part, as it does every year, on our ability to continue to execute against an aggressive product pipeline.
+ 
+More than two million people use our apps, on average, every day to meet new people in their local communities and throughout the world. These daily active users are increasingly choosing to access our apps on their mobile devices, in many cases logging in multiple times per day in order to interact with people they have met on our apps. They are meeting friends, significant others, and potential spouses every day.
+ 
+Our top priority is to support and grow our dedicated user base by developing innovative ways of bringing people together online. We have historically been able to attract and retain users because we make meeting new people fun and easy. The products we have built for users can be divided into three categories: social networking products, social discovery products, and in-app products available for purchase.
+ 
+Social Networking Products
+ 
+Our traditional social networking products support our social discovery mission by enabling users to learn about, communicate with, and organize the people they meet on MeetMe and Skout.
+
+● | Chat: Chat is the most important action happening across our applications. MeetMe and Skout provide a robust chat product for private one-on-one communication between users. MeetMe and Skout users, combined, sent more than 1.5 billion chats per month in the fourth quarter of 2016. Not only is chat the chief thing that our users want to do, it is also by far the most powerful push notification for bringing users back into the apps. As a result, we build the rest of the app around chat. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Profile: A user’s profile represents his or her identity within MeetMe or Skout. Basic demographic information is highlighted, along with a user-generated “About Me” blurb, while activities within social discovery applications, such as Discuss and Buzz, are also featured prominently. Profiles are one of the most popular areas for members to interact with one another. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Friends: Within the Friends section of MeetMe, members interact with the friends they have made on the platform, accept incoming friend requests and browse suggested friends. Skout offers a similar feature called “Favorites.” 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Social Discovery Products
+ 
+Our social discovery products facilitate interactions among members. They are the key vehicles through which we make it fun and easy to meet new people.
+ 
+
+● | Meet: Meet, backed by a data team to try to show users more likely to result in lengthy chat, showcases nearby, relevant members that a member may want to chat with. Meet is the easiest place to go within the apps for MeetMe and Skout members to discover people nearby. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Discuss and Buzz: Discuss and Buzz are location-based stream communication features on MeetMe and Skout, respectively. Unlike the Facebook News Feed, which surfaces content from users’ existing social graphs, Discuss and Buzz surface content from people nearby, thus creating a broader conversation to help users discover new people to meet. Additionally, the Discuss feature on MeetMe offers dozens of topics that users can use to find people who share their interests and make it as easy as possible to start talking with them. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Interested: A Skout-exclusive feature, Interested gives our members a way to meet new people in a Tinder-style queue interface. Users can quickly view potential new friends and matches, choosing on each whether to “favorite” or “skip”. When two users “favorite” one another in Interested, a match is made and the two users can progress to chat.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In-App Products Available For Purchase
+ 
+Both MeetMe and Skout feature in-app products called Credits and Points, respectively, which users can buy directly or earn by completing third-party offers, along with several virtual products or “powerups” that users must spend Credits or Points to access or use.  Additionally, each app offers a subscription product, MeetMe+ or Skout Premium, that includes an ad-free experience and other benefits.
+ 
+ 
+2
+
+
+
+
+● | Boost and Feature Me: Like Google’s AdSense, but for people, MeetMe’s Boost and Skout’s Feature Me enable users to purchase placement in some of the most highly trafficked areas of the app, to garner more attention from the community and increase the ability to meet more people faster. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Discuss Spotlight: Discuss Spotlight enables MeetMe users to spend Credits in order to “pin” their post to the top of Discuss for a limited period of time in order to drive more views, likes, and comments for their content. Spotlighted posts are targeted to a given geographic region and age group. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Who Favorited Me: Skout users can spend their Points to unlock the Who Favorited Me? feature. This reveals which other Skout users have favorited them, either in Interested or on their profile, without the typical requirement of a two-sided match — thus allowing paying users to use the product more efficiently to meet new people faster.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Travel: Skout users can spend their Points to virtually travel to other cities and meet new people there, rather than in their current locations. Each city can be unlocked for 24 hours at a time.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | MeetMe+: MeetMe+ is a subscription product, available only on our mobile apps, that gives members extra privileges on MeetMe, including additional filtering in Meet, allowances and bonuses of Credits, the ability to see who is viewing your photos, and the ability to suppress mobile advertisements. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Skout Premium: Skout Premium is a subscription product that gives members extra privileges on Skout, including higher priority in the Meet feature, unlimited access to the Travel and Who Favorited Me? features, and the ability to suppress advertisements.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How We Create Value for Marketers
+ 
+We believe our large and hyper-engaged youthful audience means significant scale for advertisers and makes MeetMe an attractive publisher for marketers of all sizes. We focus on providing a wide variety of advertising products that drive our users to engage with brands. We offer some of the most cutting-edge, data-driven ad targeting capabilities in mobile, pinpointing hard-to-reach users based on location and demographics. During the fourth quarter of 2016, we served over eight billion ad impressions each month across our web and mobile applications. Our brand and agency advertising business, also known as direct-sold advertising, is generally powered by companies looking for high-impact ad units and brand engagement from our younger demographic. The majority of our advertising inventory is sold through programmatic media buying.
+Social Theater
+ 
+Our Social Theater product enables publishers to offer a value exchange where users can engage with advertisers in exchange for the hosting platform’s virtual currency or products behind a paywall. Social Theater advertising runs not only on MeetMe, where our users can watch videos and otherwise engage with brands in exchange for Credits, but also on social games and applications across other social networks, including Facebook. Social Theater can also be used by marketers to drive video views, application installs, and “likes” and “shares” on Facebook, Twitter, and other social platforms. When a Social Theater campaign is distributed outside of MeetMe on a different platform we consider it “Cross-Platform Revenues.”
+Our Strategy
+ 
+We believe we are well positioned to pioneer the next category of social networking: social discovery. We are just getting started on our vision of satisfying the universal need for human connection among all people, everywhere. Our strategy for 2017 and beyond is aimed at consolidating the fragmented mobile meeting category, continued growth and engagement of our active user base, and improving the rate at which we monetize our active users, especially on mobile. As we drive toward becoming the dominant global mobile meeting brand, we will seek to strategically acquire synergistic apps that accelerate our scale and density, and immediately contribute to EBITDA.
+ 
+ 
+3
+
+
+
+Key elements of our strategy include:
+ 
+
+
+● | Build Great Products to Acquire, Engage, and Thrill Users: Our core focus is to create innovative social experiences using sophisticated data science that help our users meet new people in their local communities or throughout the world. We plan on continuing to invest in improving our core platform as technology advances and in devising new ways of engineering serendipity as activity increasingly moves online. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Acquire: We think the time is ripe for consolidation in this space and we think we are the ones to do it. The Company is seeking acquisitions that contribute immediately to EBITDA. We operate industry leading margins, and we intend to bring the same superior execution and disciplined focus on results to our target companies. As our portfolio grows, we will realize more economies of scale and cross-promotional opportunities.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Offer Innovative and Engaging Ad Products for Marketers: We consider it critical to continue improving our advertising products to create more value for our marketers, attract new customers, and display targeted advertisements that are more relevant for our users. We pursue these goals through a combination of internal innovation and rapid integration of advertising solutions that have been successful in the marketplace. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand Our Reach Internationally: There are over one billion people aged 18-34 worldwide, of which approximately 50 million reside in the U.S., where our traffic has historically been centered. In 2013, we internationalized MeetMe and launched in twelve languages other than English, laying the foundation for significant future growth in other geographies. In 2015, some of our fastest growing audiences were international, including in countries such as Turkey, Italy, and India. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Operating Metrics
+ 
+We measure website and application activity in terms of monthly active users (“MAUs”) and daily active users (“DAUs”). We define MAU as a registered user of one of our platforms who has logged in and visited within the last month of measurement. We define DAU as a registered user of one of our platforms who has logged in and visited within the day of measurement. For the quarters ended December 31, 2016, 2015 and 2014, the total Company MAUs were 9.03 million, 4.97 million and 4.98 million, respectively, and total Company DAUs were 2.08 million, 1.19 million and 1.09 million, respectively. 
+
+ | Monthly Average for the Quarters Ended December 31, | 
+-----------+-----------------------------------------------------+----------
+ | 2016 | | 2015 | | 2014
+MAU-MeetMe | | 5,675,029 | | 4,971,638 | | 4,983,122
+MAU-Skout | | 3,350,274 | | — | | — 
+MAU-Total | | 9,025,303 | | 4,971,638 | | 4,983,122
+
+
+ | For the Quarters ended December 31, | 
+-----------+-------------------------------------+----------
+ | 2016 | | 2015 | | 2014
+DAU-MeetMe | | 1,282,916 | | 1,189,290 | | 1,088,999
+DAU-Skout | | 802,071 | | — | | — 
+DAU-Total | | 2,084,987 | | 1,189,290 | | 1,088,999
+
+Trends in Our Metrics
+ 
+In addition to MAUs and DAUs, we measure activity on MeetMe’s properties in terms of average revenue per user (“ARPU”) and average daily revenue per daily active user (“ARPDAU”). We define ARPU as the quarterly average revenue per MAU. We define ARPDAU as the average quarterly revenue per DAU. We define mobile MAU as a user who accessed our sites by a one of our mobile applications or by the mobile optimized version of our website, whether on a mobile phone or tablet during the month of measurement. We define a mobile DAU as a user who accessed our sites by one of our mobile applications or by the mobile optimized version of our website, whether on a mobile phone or tablet during the day of measurement.
+ 
+In the quarter ended December 31, 2016, MeetMe averaged 5.02 million mobile MAUs and 5.68 million total MAUs on average, as compared to 4.06 million mobile MAUs and 4.97 million total MAUs on average in the quarter ended December 31, 2015, a net increase of 0.96 million or 23.6% for mobile MAUs, and a net increase of 0.71 million or 14.3% for total MeetMe MAUs. In addition, Skout averaged 3.24 million mobile MAUs and 3.35 million total MAUs for the quarter ended December 31, 2016. MeetMe mobile DAUs were 1.25 million in the quarter ended December 31, 2016, a 13.6% increase, from 1.10 million in the quarter ended December 31, 2015. Skout mobile DAUs were 0.78 million in the quarter ended December 31, 2016. For the quarter ended December 31, 2016, MeetMe averaged 1.28 million total DAUs, as compared to 1.19 million total DAUs on average for the quarter ended December 31, 2015, a net increase of approximately 0.09 million total DAUs, or 7.6%. For the quarter ended December 31, 2016, Skout averaged 0.80 million total DAUs.
+ 
+ 
+4
+
+
+
+For the quarter ended December 31, 2016 MeetMe mobile revenue increased by 20% and MeetMe mobile ARPDAU increased by 6% to $20.6 million and $0.180, respectively, for the quarter ended December 31, 2016 from $17.2 million and $0.169, respectively, for the quarter ended December 31, 2015. Our mobile revenue increased by 126% and our mobile ARPDAU by 89% to $17.2 million and $0.169, respectively, for the quarter ended December 31, 2015 from $7.60 million and $0.089, respectively, for the quarter ended December 31, 2014. For the quarter ended December 31, 2016, Skout mobile revenue was $7.2 million, and Skout mobile ARPDAU was $0.102.
+ 
+
+
+ 
+5
+
+
+
+In the quarter ended December 31, 2016, MeetMe earned an average of $0.25 ARPU on the web and $4.11 in ARPU in our mobile applications, as compared to $0.87 in web ARPU and $4.22 in mobile ARPU for the quarter ended December 31, 2015. In the quarter ended December 31, 2016, MeetMe earned an average of $0.039 in web ARPDAU and $0.180 in mobile ARPDAU, as compared to $0.106 in web ARPDAU and $0.169 in mobile ARPDAU for the quarter ended December 31, 2015. Skout mobile ARPU was $2.21 and mobile ARPDAU was $0.102 for the quarter ended December 31, 2016.
+ 
+PRODUCT DEVELOPMENT
+ 
+We are continually developing new products, as well as optimizing our existing platform and feature set in order to meet the evolving needs of our user base and advertising partners.
+ 
+We develop most of our software internally. We will, however, purchase technology and license intellectual property rights where it is strategically important, operationally compatible, or economically advantageous. For instance, we partner with third parties to further our internationalization efforts as we look to bring additional languages into our existing platforms. We are not materially dependent upon licenses and other agreements with third parties relating to product development.
+ 
+ 
+6
+
+
+
+Our technology team of 73 people consists of our product development and engineering team, our database administration team, our quality assurance team and our network system operators. These teams are responsible for feature enhancements and general maintenance across all of our platforms. Our technology team is headquartered in New Hope, Pennsylvania with an additional office in San Francisco, California.
+ 
+SALES AND MARKETING
+ 
+Historically, we have grown our user base in large part through organic, viral channels. By encouraging members to invite their friends to join MeetMe and to share their activity across other external platforms, including Facebook and Twitter, and by providing members with easy-to-use tools, we believe we have successfully grown our user base while minimizing marketing costs. We focus primarily on creating a truly differentiated experience and compelling value proposition for new users in our markets and developing the technologies needed to facilitate their word-of-mouth marketing on our behalf in order to attract and retain new members.
+ 
+Our paid customer acquisition strategy continues to focus on both acquiring users in new geographies where the active user base on the Company’s mobile apps had previously been small in comparison to our user base in the U.S. and Canada. We spent $12.1 million, $3.3 million and $2.0 million on paid direct user acquisition in 2016, 2015 and 2014, or 15.9%, 5.9% and 4.5% of our total revenue, respectively. Of the $12.1 million spent in 2016, $10.2 million was spent on user acquisition for MeetMe and $1.9 million was spent on user acquisition for Skout. As mobile ARPU has increased over the last few years, we believe it has made sense to increase our marketing spend. We plan to increase the overall Company spend rate in 2017 to approximately 20% of revenue.
+ 
+SALES AND OPERATIONS
+ 
+Our advertising sales and operations team is comprised of 11 full-time employees in the U.S. and covers major brand agencies, direct response and cost-per-action engagement advertisers, advertising networks, and mobile agencies. Our advertising operations are headquartered in New Hope, Pennsylvania, with additional offices in New York, New York, Los Angeles, California and San Francisco, California.
+ 
+Our operations and member services team consists of 22 full-time employees, 6 part-time employees, and 52 contractors split between Delhi and Bangalore, India and Cavite, Philippines. This team is responsible for reviewing images and other user-generated content, investigating and responding to member abuse reports, and providing general customer support.
+ 
+INTELLECTUAL PROPERTY
+ 
+Our intellectual property includes trademarks related to our brands, products, and services, copyrights in software and creative content, trade secrets, domain names, and other intellectual property rights and licenses of various kinds. We seek to protect our intellectual property through copyright, trade secret, trademark and other laws of the U.S. and other countries, and through contractual provisions.
+ 
+We consider the MeetMe, Skout and Social Theater trademarks and our related trademarks to be valuable to the Company, and we have registered these trademarks in the U.S. and other countries throughout the world and aggressively seek to protect them.
+ 
+COMPETITION
+ 
+We believe we are challenging the dominant player in the dating space, Match Group, but we are not limited to dating. We operate at the forefront of a nascent segment (social discovery) of a broader sector that is still being defined (social networking). As such, we face significant competition in every aspect of our business, both from established companies whose products help users meet new people, or are evolving to do so, and from smaller but well-funded startups that can quickly gain attention and compete with us for users. Examples of services that compete with us for users and advertiser interest include, but are not limited to:
+
+● | Mobile applications and websites whose primary focus is to help users meet new people in their geographical area, including Badoo, Twoo, and Meetup.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Social networking mobile applications and websites with a focus on dating, which is a subset of the opportunity around meeting new people, such as Zoosk, Match, Happn, PlentyOfFish, OkCupid, and Tinder.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Broader social networks that currently offer or may evolve to offer services aimed at helping users meet new people in their area, such as Facebook, Twitter, and LinkedIn.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Interest-based communities that help users connect with like-minded people online, including Pinterest, Reddit, Tumblr, and Quora, as well as vertical communities such as Goodreads, Last.fm, and Fitocracy.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Significant competition for Social Theater comes from publishers including TrueX, Unruly Media, SuperSonic Advertising, Jun Group, and Genesis Media.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+7
+
+
+
+As we introduce new products, and as other companies introduce new products and services, we expect to become subject to additional competition. Additional information regarding certain risks related to our competition is included in Part I, Item 1A—Risk Factors of this report.
+
+In addition to other online dating and social networking brands, we compete indirectly with offline dating services, such as matchmakers. 
+ 
+EMPLOYEES
+ 
+As of December 31, 2016, we employed 124 full-time and 7 part-time employees in the U.S. Our future success is substantially dependent on the performance of our senior management and key technical personnel, as well as our continuing ability to attract, maintain the caliber of, and retain highly qualified technical and managerial personnel. Additional information regarding certain risks related to our employees is included in Part I, Item 1A—Risk Factors of this report and is incorporated herein by reference.
+GOVERNMENT REGULATION
+ 
+In the U.S., advertising and promotional information presented to visitors on our mobile applications and website and our other marketing activities are subject to federal and state consumer protection laws that regulate unfair and deceptive practices. There are a variety of state and federal restrictions on the marketing activities conducted by email, or over the Internet, including U.S. federal and state privacy laws and the Telephone Consumer Protection Act of 1991, or the TCPA, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2001, or the CAN-SPAM Act. We may also be subject to laws in the various other countries in which we operate. The rules and regulations are complex and may be subject to different interpretations by courts or other governmental authorities. We may unintentionally violate such laws, such laws may be modified, and new laws may be enacted in the future. Any such developments (or developments stemming from enactment or modification of other laws) or the failure to anticipate accurately the application or interpretation of these laws could create liability to us, result in adverse publicity, and negatively affect our businesses. Additional information regarding certain risks related to government regulations is included in Part I, Item 1A—Risk Factors of this report.
+CORPORATE HISTORY
+ 
+MeetMe was incorporated in Nevada in June 1997, and merged with Insider Guides, Inc., doing business as myYearbook.com, on November 10, 2011. On December 6, 2011, the Company changed its legal domicile to Delaware. Effective June 1, 2012, the Company changed its name from Quepasa Corporation to MeetMe, Inc. and completed the transition of its website to meetme.com in the fourth quarter of 2012. On October 3, 2016, MeetMe acquired 100% of the issued and outstanding shares of common stock of Skout. The Company owns and operates the MeetMe and Skout mobile applications, and meetme.com and skout.com.
+ 
+Our executive offices and principal facilities are located at 100 Union Square Drive, New Hope, Pennsylvania, 18938. Our telephone number is (215) 862-1162. Our corporate website is www.meetmecorp.com. Investors can obtain copies of our SEC filings from our corporate website free of charge, as well as from the SEC website, www.sec.gov. The information contained on our corporate website and the SEC website is not incorporated herein.
+ 
+AVAILABLE INFORMATION
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, are available free of charge on our Investor Relations website at www.meetmecorp.com/investors/sec-filings/ as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The SEC maintains a website that contains these filings at www.sec.gov. The information posted on our corporate website and the SEC website is not incorporated herein.

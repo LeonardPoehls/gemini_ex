@@ -1,0 +1,152 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+The disclosures set forth in this item are qualified by Item 1A. Risk Factors and the section captioned "Caution Regarding Forward-Looking Statements" in Item 1. Management's Discussion and Analysis of Financial Condition and Results of Operations of this report and other cautionary statements set forth elsewhere in this report. 
+OVERVIEW
+Nationstar Mortgage Holdings Inc., a Delaware corporation formed in 2011, including our consolidated subsidiaries (collectively, "Nationstar", the "Company", "we", "us" or "our"), earns fees through the delivery of servicing, origination and transaction based services related primarily to single-family residences throughout the United States. 
+We are one of the largest residential loan servicers in the United States. In addition, we operate an integrated residential loan origination platform with a primary focus on customer retention and an array of complementary services related to the purchase and disposition of residential real estate. 
+Our success ultimately depends on working with customers, investors and regulators to deliver quality, compliant solutions that foster and preserve home ownership. Customers include most residential real estate market participants including homeowners, homebuyers, home sellers, investors and real estate agents. Investors primarily include government sponsored entities ("GSE") such as the Federal National Mortgage Association ("Fannie Mae" or "FNMA") and the Federal Home Loan Mortgage Corp ("Freddie Mac" or "FHLMC"), investors in private-label securitizations, the Government National Mortgage Association ("Ginnie Mae" or "GNMA"), as well as organizations owning mortgage servicing rights ("MSR") which engage us to subservice. We are regulated both at the Federal and individual state levels. 
+BUSINESS SEGMENTS
+We conduct our operations through three operating segments: Servicing, Originations and Xome®. For financial information concerning our operating segments see Note 20, Business Segments Reporting, in the Consolidated Financial Statements.
+Servicing
+As of December 31, 2016, we service approximately 2.9 million customers with an aggregate unpaid principal balance ("UPB") exceeding $473 billion. We are the largest non-bank servicer and fourth largest residential mortgage servicer in the United States according to Inside Mortgage Finance. During 2016, the Company boarded $161 billion UPB of loans and ended 2016 with the highest ending UPB in the Company's history. 
+The majority of the Company’s loans are serviced for GSEs, followed by Ginnie Mae and private-label investors in mortgage securitization transactions. The chart below sets forth the composition of our servicing portfolio ending UPB by investor group as of December 31, 2014, 2015 and 2016.
+Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 3
+
+Our serviced portfolio includes both conventional residential mortgage loans and home equity conversion loans, referred to as “forward” and “reverse” loans, respectively. Although the Company owns the mortgage servicing rights for the majority of these loans, we also act as master servicer on certain portfolios and subservicer on certain portfolios for which the servicing rights are owned by a third party.
+With respect to servicing activities for owned MSRs, we are responsible for the collection and recording of mortgage payments, the administration of mortgage escrow accounts, negotiations of workouts and modifications and, if necessary, conducting or managing the foreclosure (real estate owned or "REO") on behalf of investors or other servicers. These activities generate recurring revenues and cash flows. Revenues primarily consist of servicing fees which are generally expressed as basis points of the outstanding UPB and ancillary revenues (e.g., modification fees, late fees, incentive fees). Servicing revenues are intended to cover the costs and operating risks associated with MSR ownership, which include carrying costs associated with advances to pay taxes, insurance and foreclosure costs and also include costs incurred as a result of potential operational errors. 
+For subservicing arrangements with other institutions that own the MSRs, we are responsible for collecting mortgage payments and other related work, maintaining escrow accounts and collection services for delinquent loans. As a subservicer, we may be obligated to make servicing advances. However, advances and other incurred costs are generally lower compared to owned MSR portfolios and recovery times are substantially faster, often within the following month. Accordingly, capital requirements for subservicing arrangements are lower than for owned MSRs. 
+The chart below sets forth the portfolio mix between serviced and subserviced loans as of December 31, 2014, 2015 and 2016.
+4 Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 
+
+Included within owned MSRs are the rights to service reverse residential mortgage loans acquired from third parties through our Champion Mortgage brand. Our reverse portfolio includes loans under Ginnie Mae, Fannie Mae and private-label securitizations as well as unsecuritized reverse loans. A servicing fee is earned based on the stated service fee rate or net interest margin of HMBS of the reverse portfolio. As a servicer, the Company is required to fund advances on the reverse loans up to the maximum claim amount. These advances include borrower draws and advances to cover taxes, insurance, mortgage insurance premiums and servicing fees. Recovery of advances and collection of servicing fees generally occurs upon a transfer of ownership in the underlying collateral. Due to the structure of reverse mortgages, the Company securitizes substantially all draws on reverse loans through the Ginnie Mae II MBS program or through private-label securitizations. Our reverse portfolio accounts for 8.2% of our total servicing UPB as of December 31, 2016.
+We have grown our servicing portfolio through the acquisition of MSRs, through our origination platform, and through entering into subservicing agreements. We financed MSR acquisitions through the offering of equity and unsecured senior notes as well as financing transactions such as excess spread financing and MSR financing. 
+During 2016, we significantly expanded our subservicing portfolio by boarding two significant subservicing contracts with UPB totaling $95 billion. We believe the expansion of subservicing operations allows us to leverage the scale of our technology and labor capital to provide cost effective servicing to customers while limiting the use of cash resources, thereby producing a higher return on equity. Certain subservicing agreements also provide a flow of new loans to replenish and grow our own serviced portfolio.
+Focus on the Customer
+Nationstar is focused on providing quality service to our customers. For each loan we service, we utilize a customer-centric model designed to increase borrower performance and to decrease borrower delinquencies. Keys to this model include frequent borrower interactions and utilization of multiple loss mitigation strategies particularly in the early stages of a default. We train our customer service representatives to find solutions that work for homeowners when circumstances allow. This commitment to continued home ownership helps preserve neighborhoods and home values and improves asset performance for our investors.
+Nationstar has a track record as one of the best in the mortgage industry at keeping Americans in their homes. Between 2010 and 2013 we acquired distressed portfolios from banks who were not equipped to service such highly delinquent portfolios. The unprecedented levels of delinquencies and defaults of residential real estate loans after the crisis required varying degrees of loss mitigation activities. Foreclosure is usually a last resort, and accordingly, the Company has made, and continues to make, significant efforts to help borrowers remain in their homes. In 2016, the Company’s outreach initiatives to customers resulted in 25,408 Home Affordable Refinance Program ("HARP") refinancings and modifications resulting in cost savings to customers averaging $1,905 per year. These initiatives also lowered loan delinquency rates exceeding 60 days from 6.9% to 4.7%.
+The mortgage experience is often complex, but Nationstar aims to take a leadership role in the industry by putting customers first and preserving homeownership. The Company has strengthened the composition of our leadership team, fortified our values and altered incentive programs over the past three years to emphasize the importance of teamwork, compliance, innovation and a customer-centric approach. In 2016, we launched a redesigned website for loan customers, simplifying the process to make inquiries on the status of loan originations and providing greater visibility to the application of loan payments (i.e., principal, interest, and escrow) and the resulting loan balances. These improvements have contributed to a 33% decline in customer complaints as reported by the Consumer Financial Protection Bureau ("CFPB") since December 31, 2015.
+Originations
+Nationstar operates an integrated residential loan origination platform that is primarily focused on customer retention. We originate and purchase conventional mortgage loans conforming to the underwriting standards of the GSEs, which we collectively refer to as Agency loans. We also originate and purchase government-insured mortgage loans, which are insured by the Federal Housing Administration ("FHA") or Department of Veterans Affairs ("VA"). Our origination business generates income primarily through origination fees and gains upon the sale of mortgage loans sourced through our direct-to-consumer and correspondent channels. We are licensed and qualified to originate loans in 49 states and the District of Columbia. For 2016, we are ranked twentieth in the United States for residential loan originations, funding $20 billion. 
+Our integrated origination platform provides us with competitive advantages including an organic source of servicing assets at attractive returns. The platform also serves as a loss mitigation solution for servicing clients and customers by offering refinancing options to borrowers thereby allowing them to lower their monthly payments which in turn may lower their risk of defaulting. 
+Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 5
+
+We utilize warehouse facilities to fund originated loans. Nationstar generally sells originated mortgage loans to secondary market investors, which include a variety of institutional investors, and generally retains the servicing rights on mortgage loans sold. The mortgage loans are typically sold within 30 days of origination in order to both mitigate credit risk and minimize the capital required. The majority of our mortgage loans was sold to, or was sold pursuant to, programs sponsored by Fannie Mae, Freddie Mac or Ginnie Mae.
+We are committed to providing our customers with the tools and resources they need to be successful in today's marketplace. Although the elimination of HARP presents challenges, we are focused on increasing conversion rates (i.e., recapture) on our existing servicing portfolio and expanding our correspondent channel through growing our third-party origination businesses. We have continued to diversify our origination business in order to be successful in multiple market scenarios by offering different products. We believe we can originate these products profitably and with acceptable levels of risk. We believe our experience in servicing difficult loans will allow us to also help borrowers obtain loans that are more challenging to originate. Building the sales and operations capacity to meet this need is a goal for the business, as well as operational improvements to drive productivity. For example, during 2016, we invested in our technology platform in a dedicated effort to increase efficiencies throughout our origination business and to deliver superior mortgage products, with exceptional customer service, which distinguishes us from our competitors. We launched a new mobile app, redesigned our website with simpler navigation and more personalized experiences, and launched Street Smarts from NationstarTM offering customers valuable insights into their loan, neighborhood and home. We plan to continue to grow our mortgage origination business through this exceptional customer service within our existing portfolio and markets. The chart below sets forth the originations funded volume for the years ended December 31, 2014, 2015 and 2016.
+Direct-to-Consumer Channel
+The Company originates loans directly with borrowers through our direct-to-consumer channel. This channel utilizes our call centers and our originations websites to reach our new customers and our existing 2.9 million servicing customers who may benefit from a modified or refinanced loan. Depending on borrower eligibility, we will refinance into conventional, government or non-Agency products. Through lead campaigns and direct marketing, the direct-to-consumer channel seeks to convert leads into higher margin loans in a cost efficient manner. We earn an upfront fee for processing the loan application which covers the costs of securing the loan application and underwriting.
+6 Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 
+
+Our direct-to-consumer channel represented 67.1%, 61.4% and 60.6% of our mortgage originations for the years ended December 31, 2016, 2015 and 2014, respectively. Pull through adjusted lock volume for this channel totaled $13.7 billion in 2016, $11.3 billion in 2015 and $9.8 billion in 2014.
+Correspondent Channel
+Nationstar purchases closed mortgage loans from community banks, credit unions, mortgage brokers and mortgage bankers. We primarily generate revenue from the receipt of underwriting fees from correspondents earned on a per-unit loan basis as well as the gain on sale of loans sold into the secondary market.
+Our correspondent channel represented 32.9%, 38.6% and 39.4% of our mortgage originations for the years ended December 31, 2016, 2015 and 2014, respectively. Pull through adjusted lock volume for this channel totaled $6.7 billion in 2016, $7.1 billion in 2015 and $6.4 billion in 2014. 
+Xome
+The Xome (pronounced "Zome") segment is a leading provider of technology and data-enhanced solutions to home buyers, home sellers, real estate professionals and companies engaged in the origination and/or servicing of mortgage loans. Xome seeks to enhance the real estate experience by making the challenge of buying or selling real estate less complex and by increasing transparency through the partnering of both online and offline components of the transaction cycle. In 2016, Xome provided services to three of the top five money center banks with various services including title and close, appraisal and, increasingly, technology solutions.
+Xome's operations are comprised of Exchange, Services and Technology and Support.
+Exchange is a national technology-enabled platform that manages and sells residential properties through our Xome.com platform. This platform leverages our proprietary auction technology and was designed to increase transparency, reduce fraud risk and provide better execution for property sales as evidenced by generally higher sales price and lower average days to sell compared to traditional sales. In the last three years, Xome Exchange has sold over 58,000 properties and ranks as one of the top sites for residential real estate sales. Core services include traditional non-distressed sales, REO auctions, short sales and foreclosure trustee sales. In the fourth quarter of 2016, Xome Inc., an indirect wholly-owned subsidiary of Nationstar, entered into a referral contract that combines Xome's real estate brokerage, marketing, technology and transactional expertise with a leading "sale by owner" platform. Through this new program, homeowners who wish to sell their home themselves will benefit from having access to Xome’s auction platform, real estate agent panel and additional transaction-related services while helping to market and amplify property listings for owners on the site.
+Services connects the major touch points of the real estate transactions process by providing title, escrow and collateral valuation services for purchase, refinance and default transactions. We continue to serve existing third-party customers and capture refinance and default transactions generated by our Servicing and Originations segments. Today, significant opportunities still exist with respect to penetration of current and new customers. Our 2015 acquisition of Experience 1, the holding company of Title365 and related entities, has allowed us to expand our footprint in the purchase and refinance title related services market, particularly in California, Texas and Arizona. The acquisition has allowed us to expand our third-party revenue. Over the last three years, Xome Services has completed over 502,000 title and close orders, more than 939,000 collateral valuation orders and more than 442,000 property reports.
+Technology and Support includes our software as a service (“SaaS”) platform providing integrated technology, media and data solutions to real estate franchisors, brokerages, agents and multiple listing service ("MLS") organizations and associations. Technology and Support contains a diversified set of businesses including Real Estate Digital (MLS data and broker tools), Quantarium (data analytics), Go Paperless (e-signature platform), Xome Signings (notary services), and Xome Labs (product/technology development incubation lab). 
+Through our Xome platform, we enhance the home buying and selling experience via investments in technology and a focus on customer service to make the home transaction experience simpler, more transparent and more accessible for all market participants. The Xome platform is accessible through a combination of a web-based platform and easy to use mobile apps, giving customers access to over 90% of all active MLS listings in the United States. The platform allows users to search among distressed and non-distressed real estate listings on a single website, which we believe is a significant advantage over competitor platforms which generally support either distressed or non-distressed listings, but not both. 
+Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 7
+
+2017 Core Initiatives
+Provided below are our core initiatives with respect to each of our operating segments. 
+Servicing
+
+▪ | Deliver high quality, consistent operational earnings
+
+
+▪ | Generate cash and increase return on equity
+
+
+▪ | Improve service to our customers as we endeavor to become the benchmark for customer service in the industry
+
+
+▪ | Maintain our status as a top-rated servicer by the GSEs and enhance our existing compliance framework
+
+Originations
+
+▪ | Deliver solid quarterly earnings based upon the origination of high quality loans
+
+
+▪ | Increase customer retention across all major portfolio segments
+
+
+▪ | Reduce costs to fulfill as we take advantage of the benefits of our single originations platform
+
+
+▪ | Expand our offering of higher margin government lending and streamlined offerings
+
+
+▪ | Continue to replenish our MSR portfolio in a cost effective manner
+
+Xome
+
+▪ | Focus on improving the profitability of core service offerings such as property disposition, title and collateral valuation
+
+
+▪ | Invest in technologies that we believe will drive third-party services such as property sales and title
+
+
+▪ | Improve overall margins
+
+Competition
+The Servicing segment primarily competes against large financial institutions and non-bank servicers. Some of our biggest competitors are large banks which include Wells Fargo Home Mortgage, Chase Home Finance and Bank of America. Non-bank servicers continue to play an increasingly important role in the mortgage industry, and we compete with companies which include Freedom Mortgage, Ocwen Financial Corporation, PHH Corporation, Walter Investment Management and PennyMac Financial Services among others. 
+Our Originations segment competes based on product offerings, rates, fees and customer service. In recent years, more restrictive loan underwriting standards and the widespread elimination of certain non-conforming mortgage products throughout the industry have resulted in a more homogeneous product offering, which has increased competition across the industry for mortgage originations. The industry is also presented with heightened challenges and costs associated with the increasingly complex regulatory compliance environment.
+Many of our Originations competitors are commercial banks or savings institutions. These financial institutions typically have access to greater financial resources, have more diverse funding sources with lower funding costs, are less reliant on the sale of mortgage loans into the secondary markets to maintain their liquidity, and may be able to participate in government programs that we are unable to participate in because we are not a state or federally chartered depository institution, all of which places us at a competitive disadvantage. 
+Our primary competitive strength flows from our ability to market our products to our existing servicing portfolio. Our subservicing model also provides a significant advantage compared to other originators. Our Originations segment is highly dependent on our customer relationships. Many smaller and mid-sized financial institutions may find it difficult to compete in the mortgage industry due to the significant market share of the largest competitors, along with the continual need to invest in technology in order to reduce operating costs while maintaining compliance with more restrictive underwriting standards and dynamic regulatory requirements. Our ability to win new clients and maintain existing customers is largely driven by the high levels of customer service we provide and our ability to comply and adapt to an increasingly complex regulatory environment.
+Competitive factors in the Xome segment include the quality and timeliness of our services, the size and competence of our network of vendors, the breadth of the services we offer, the quality of the technology-based application or service, and pricing. Based on our knowledge of the industry and competitors, we also believe that no single competitor offers the range of solutions we are able to offer.
+8 Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 
+
+The industry verticals in which the Xome segment engages are highly competitive and generally consist of a few national companies as well as a large number of regional, local and in-house providers resulting in a fragmented market with disparate service offerings. Our Exchange segment competes with national and regional third-party service providers and in-house servicing operations of large mortgage lenders and servicers. We also compete with companies providing online real estate auction services and real estate brokerage firms. Our Technology and Support unit competes with data processing and software development companies and in-house technology and software operations of other loan servicers. In addition, our customers retain multiple providers and continuously evaluate our performance against various other competitors.
+Employees
+As of December 31, 2016, we had approximately 7,750 employees, none of which were subject to a collective bargaining agreement. We believe our future success will depend, in part, on our continuing ability to attract, hire and retain skilled and experienced personnel.
+Additional Information
+Our corporate website is located at www.mynationstar.com. We make our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 ("Exchange Act") available free of charge under the Shareholder Relations section of our website as soon as reasonably practicable after we electronically file the reports with, or furnish them to, the Securities and Exchange Commission ("SEC"). Our reports, proxy and information statements and other information filed electronically with the SEC can also be accessed at www.sec.gov.
+Our website also provides access to reports filed by our directors, executive officers and certain significant stockholders pursuant to Section 16 of the Exchange Act. In addition, our Corporate Governance Guidelines, Code of Business Conduct and Ethics, Code of Ethics for the Chief Executive Officer and Senior Financial Officers, and charters for the standing committees of our Board of Directors are available on our website. Any information on our website is not incorporated by reference into this Annual Report on Form 10-K. 
+Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 9
+
+CAUTIONS REGARDING FORWARD-LOOKING STATEMENTS
+This report contains forward-looking statements within the meaning of the U.S. federal securities laws. These forward-looking statements include, without limitation, statements concerning plans, objectives, goals, projections, strategies, core initiatives, future events or performance, and underlying assumptions and other statements, which are not statements of historical facts. When used in this discussion, the words "anticipate," "appears," "believe," "foresee," "intend," "should," "expect," "estimate," "project," "plan," "may," "could," "will," "are likely" and similar expressions are intended to identify forward-looking statements. These statements involve predictions of our future financial condition, performance, plans and strategies, and are thus dependent on a number of factors including, without limitation, assumptions and data that may be imprecise or incorrect. Specific factors that may impact performance or other predictions of future actions have, in many but not all cases, been identified in connection with specific forward-looking statements. As with any projection or forecast, forward-looking statements are inherently susceptible to uncertainty and changes in circumstances and we are under no obligation to and express disclaim any obligation to, update or alter our forward-looking statements, whether as a result of new information, future events or otherwise. 
+A number of important factors exist that could cause future results to differ materially from historical performance and these forward-looking statements. Factors that might cause such a difference include, but are not limited to:
+
+• | our ability to maintain or grow the size of our servicing portfolio;
+
+
+• | our ability to refinance existing loans, and maintain our originations volume;
+
+
+• | our ability to recapture voluntary prepayments related to our existing servicing portfolio;
+
+
+• | our shift in the mix of our servicing portfolio to subservicing;
+
+
+• | delays in our ability to collect or be reimbursed for servicing advances;
+
+
+• | our ability to obtain sufficient capital to operate our business;
+
+
+• | changes in prevailing interest rates;
+
+
+• | our ability to finance and recover costs of our reverse servicing operations;
+
+
+• | changes in our business relationships or changes in servicing guidelines with Fannie Mae, Freddie Mac and
+
+Ginnie Mae;
+
+• | Xome's ability to compete in highly competitive markets;
+
+
+• | increased legal and regulatory examinations and enforcement investigations and proceedings, compliance requirements and related costs; and
+
+
+• | loss of our licenses.
+
+All of the factors are difficult to predict, contain uncertainties that may materially affect actual results, and may be beyond our control. New factors emerge from time to time, and it is not possible for our management to predict all such factors or to assess the effect of each such new factor on our business. Although we believe that the assumptions underlying the forward-looking statements contained herein are reasonable, any of the assumptions could be inaccurate, and any of these statements included herein may prove to be inaccurate. Given the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by us or any other person that the results or conditions described in such statements or our objectives and plans will be achieved. Please refer to Item 1A, Risk Factors and Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations sections of this report for further information on these and other factors affecting our business.
+10 Nationstar Mortgage Holdings Inc. - 2016 Annual Report on Form 10-K 
+

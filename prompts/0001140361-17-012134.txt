@@ -1,0 +1,416 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ 
+GigPeak, Inc. (“GigPeak”), formerly known as GigOptix, Inc. until the second quarter of 2016, is a leading innovator of semiconductor integrated circuits (“ICs”) and software solutions for high-speed connectivity and high-quality video compression. Our focus is to develop and deliver products that enable lower power consumption, higher quality information video content, and faster data connectivity, more efficient use of network infrastructure and broader connectivity to the Cloud, reducing the total cost of ownership for the network’s operators. We address both the speed of data transmission and the amount of bandwidth the data consumes within the network, while enhancing the streamed and broadcasted content quality, and our products also help to improve the efficiency of various Cloud-connected enterprise applications. The GigPeak product portfolio provides flexibility to support on-going changes in the connectivity that customers and markets require by deploying a wider offering of solutions from various kinds of semiconductor materials, ICs and Multi-Chip-Modules (“MCMs”), through cost-effective application-specific- integrated-circuits (“ASICs”) and system-on-chips (“SoCs”), and into full software programmable open-platform offerings.
+ 
+Most of our products are highly customized and typically developed in partnership with key “Lighthouse” customers, occasionally generating some engineering project revenues through the development stage, but generating the majority of revenue from future device product shipments and sales through these customers and general market availability.
+ 
+Since inception in 2007, we have expanded our customer base through our sales and marketing activities, and by acquiring and integrating eight (8) companies with complementary and synergistic products and customers. Our worldwide direct sales force is supported by a significant number of channel representatives and distributors that sell our products throughout North America, Europe and Asia.
+ 
+On April 5, 2016, we completed our acquisition of Magnum Semiconductor, Inc. (“Magnum”), and simultaneously renamed ourselves as GigPeak, Inc., to reflect the extension of our solution offering into wider Cloud-connectivity applications. Magnum was a privately-held fabless semiconductor manufacturer and software solution developer, and brought a well-developed and comprehensive portfolio of video broadcasting, streaming and compression solutions to GigPeak, including silicon ICs, SoCs and software solutions, high-end compression encoding and video-quality algorithm and software products, and a comprehensive library of intellectual property. The Magnum products, now marketed as GigPeak’s MX product-line, are offered solely for the professional and enterprise video broadcast infrastructure applications, yet are extendable to a variety of enterprise and end-user high-quality video streaming applications, such as a variety of cloud-connected interactive camera and server applications. Those products are the top of the line products, tools and technologies that can be deployed for the entire universe of video content creation and the associated distribution chain, from contribution and production through distribution over cable, telecom, satellite and over-the-top (“OTT”) video streaming.
+ 
+Today’s video service providers, which include cable operators, telecommunications companies, and satellite TV providers, are continuously seeking to perfect their linear and nonlinear workflows and improve the quality of their video content, while simultaneously optimizing the efficiency of their networks and improving content quality in a constantly reducing bitrate environment. This enables the video service providers to stream and broadcast larger amount of video and media data and increase channel density through the existing network pipes infrastructure. Our products, tools, and technologies are currently used in the entire video content creation and distribution chain. Specifically, our solutions are used to address challenges in video contribution, video production, primary and secondary distribution, and enterprise wide solutions.
+ 
+This rich networking, streaming and broadcasting blend of products and technologies gives GigPeak the capability to address both the speed of data transmission and the amount of bandwidth the data consumes within a network, driven in particular by high-quality video content, which is the source of a majority of the datacenter traffic and storage in today’s networks. Through this unique combination, we provide solutions to enhance the footprint utilization and reduce the total cost of ownership of existing network pipes from the core to the end user. Our wide product portfolio and exceptional customer support practices will continue to serve the enterprise networking and broadcasting original equipment manufacturers (“OEMs”), as well as potentially a variety of cloud-connected interactive camera and server applications, and is very unique among all other fabless semiconductor companies in the industry.
+  6
+ 
+
+Historically, since inception in 2007 and through 2014, we have incurred net losses. We started to report net income in 2015. For the years ended December 31, 2016 and 2015, we recorded net income of $2.2 million and $1.2 million, respectively. For the years ended December 31, 2016 and 2015, we had cash inflows from operations of $3.3 million and $3.0 million, respectively. As of December 31, 2016 and 2015, we had an accumulated deficit of $98.8 million and $101.0 million, respectively.
+ 
+On February 13, 2017, we announced that we had entered into a merger agreement to be acquired by Glider Merger Sub., Inc. (“Purchaser”), a wholly-owned subsidiary of IDT (the “Merger Agreement”). Pursuant to the terms of the Merger Agreement, Purchaser made a tender offer to acquire all of the outstanding shares of our common stock and the associated purchase rights (the “Rights”) for our Series A Junior Preferred Stock, par value $0.001 per share (“Series A Junior Preferred Stock”), issued under the Rights Agreement, dated as of December 16, 2014, as amended, between GigPeak and American Stock Transfer & Trust Company, LLC, as rights agent (such Rights, together with the commom stock, the “Shares”) on March 7, 2017 (the “Offer”). The Offer is scheduled to expire one minute following 11:59 P.M. (12:00 midnight) New York Time, on Monday April 3, 2017, unless the Offer is extended or terminated.
+ 
+The Merger Agreement provides that, among other things, subject to the satisfaction or waiver of certain conditions, following completion of the Offer, and in accordance with the Delaware General Corporation Law, as amended (the “DGCL”), Purchaser will be merged with and into the Company (the “Merger”) (collectively, the Offer, the Merger, and the transactions contemplated by the Merger Agreement constitute the “Transaction”). Following the consummation of the Merger, the Company will continue as the surviving corporation and as a wholly-owned subsidiary of IDT. The Merger will be governed by Section 251(h) of the DGCL which provides that, as soon as practicable following consummation of a successful tender offer for the outstanding voting stock of a corporation whose shares are listed on a national securities exchange, and subject to certain statutory provisions, if the acquiror holds at least the amount of shares of each class or series of stock of the acquired corporation that would otherwise be required to adopt a merger agreement providing for the merger of the acquired corporation, and each outstanding share of each class or series of stock of the acquired corporation subject to, but not tendered in, the tender offer is subsequently converted by virtue of such a merger into, or into the right to receive, the same amount and kind of consideration for their stock in the merger as was payable in the tender offer, the acquiror can effect such a merger without any vote of the stockholders of the acquired corporation. Accordingly, if Purchaser consummates the Offer, the Merger Agreement contemplates that the parties thereto will affect the closing of the Merger without a vote of the stockholders of GigPeak in accordance with Section 251(h) of the DGCL.
+ 
+The obligation of Purchaser to purchase the Shares validly tendered pursuant to the Offer and not validly withdrawn prior to the expiration of the Offer is subject to the satisfaction or waiver of a number of conditions set forth in the Merger Agreement, including (i) that there will have been validly tendered and not validly withdrawn a number of Shares that, when added to the Shares then owned by IDT and its wholly-owned direct or indirect subsidiaries, represents at least a majority of the Shares then outstanding (on a fully-diluted basis) and no less than a majority of the voting power of the shares of capital stock of GigPeak then outstanding (on a fully-diluted basis) and entitled to vote upon the adoption of the Merger Agreement and the approval of the Merger, excluding from the number of tendered Shares, but not from the number of outstanding Shares, Shares tendered pursuant to guaranteed delivery procedures, to the extent such procedures are permitted by Purchaser, that have not yet been delivered in settlement of such guarantee, (ii) the expiration or termination of any applicable waiting period (and any extension thereof) and the receipt of any approval or clearance applicable to the Offer or consummation of the Merger under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (iii) the accuracy of the representations and warranties and compliance with covenants contained in the Merger Agreement, subject to certain materiality standards, (iv) the absence of any law, order, injunction or decree by any government, court or other governmental entity that would make illegal or otherwise prohibit the Offer or the Merger, (v) there not having been a material adverse effect with respect to GigPeak, and (vi) other customary conditions.
+ 
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, which we filed as Exhibit 2.1 to our Current Report on Form 8-K with the SEC on February 13, 2017 and which is incorporated herein by reference as Exhibit 2.4.
+ 
+ 7
+ 
+
+Industry Background
+ 
+Over the past several years, communications networks have undergone significant challenges as network operators have been pursuing more profitable service offerings while reducing operating costs. The growing demand by enterprises and consumers for bandwidth due to the explosion of data, voice and video usage across networks has driven service providers to continuously add higher speed access through Wi-Fi, 4G and 5G long term evolution (“LTE”), digital subscriber line (“DSL”), and cable and fiber to the destination (“FTTx”), as well as converge their separate data, voice and video-media networks into a single IP-based high capacity integrated network to more easily manage and provide these services. High bandwidth applications such as content downloading, video streaming, high-resolution and big-data, social networks, online gaming, cloud services and Internet protocol television (“IPTV”) are challenging network service providers to supply increasing bandwidth to their customers and results in increased network utilization across the entire core and edge of wire-line, wireless and cable networks. Additionally, enterprises and institutions are managing their rapidly escalating demand for data and bandwidth and are upgrading and deploying higher speed local, storage and wide area networks (“LANs,” “SANs” and “WANs,” respectively). The U.S. government, defense and homeland security efforts also add to the demand for bandwidth, as vast amounts of data are generated through sophisticated surveillance and defense network applications that are then transferred via a myriad of terrestrial and satellite communications channels. The U.S. government and its contractors are incorporating optical and high frequency wireless and satellite communications technologies into their systems and infrastructure to address these challenges.
+ 
+Optical and wireless networking technologies support higher speeds and added features, and offer greater interoperability to accommodate higher bandwidth requirements at lower cost. Leading network systems vendors are producing optical systems for carriers increasingly based on 100 Gbps and up to 400 Gbps speeds including multi-service switches, dense wave division multiplexing (“DWDM”) transport terminals, access multiplexers, routers, Ethernet switches and other networking systems. Moreover, these network system vendors now also offer wireless communications systems to address mobile access and backhaul demands with increased bandwidths capable of more than 1 Gbps, more so for the last kilometer connectivity applications in dense urban areas. Mirroring the convergence of telecom and datacom networks, these systems vendors are increasingly addressing both telecom and datacom applications and are also looking to integrate their network equipment offerings into a single product. Faced with the technological and cost challenges of building fully integrated systems that can handle data, voice and video, original equipment manufacturers (“OEMs”) are re-focusing on core competencies of software and systems integration, and relying on outside module and component suppliers for the design, development and supply of critical electro–optic and wireless products that perform the critical transmit and receive functions.  In addition, the carriers are increasing their demands from the OEMs to also provide systems that enable the streaming of high-speed and high-quality information through their entire network which includes both optical and wireless equipment.
+ 
+Networking Solutions
+ 
+We offer a comprehensive portfolio of 1 Gbps to 400 Gbps electro-optical products as we gear up toward the future generation of those products at even higher speeds of 1 terabit per second (“Tbps”). We provide bundled solutions that combine multiple chips and drivers. We also offer a comprehensive portfolio of monolithic microwave integrated circuit (“MMIC”) products to support E-band wireless communications and defense markets. We also offer ultra-wide-bandwidth (“UWB”) ASIC, Wi-Fi and wireless ASIC, mixed-signal ASIC, optical ASIC, and RF ASIC devices, which cater to the ever growing demand for advanced applications such as in-door and out-door point-to-point, point-to-multipoint and cloud connectivity. We combine high performance analog and mixed signal design skills, with experience in integrated systems, interoperability, power management and size optimization. We believe customers choose to work with us for several reasons including:
+Superior Performance: We believe that our performance advantage is derived from industry-leading MMICs, MCMs, drivers, amplifiers and design capabilities. Our technology expertise allows us to design products that often exceed the current performance, power, size, temperature and reliability requirements of our customers.
+Broad Product Line: We have a comprehensive portfolio of products for telecom, datacom, consumer electronics high speed links and interactive interfaces, and defense and industrial applications designed for optical speeds from 3 Gbps to over 400 Gbps and for wireless frequencies up to 86GHz. Our products support a wide range of data rates, protocols, transmission distances and industry standards. This wide product offering allows us to serve as a “one-stop shop” to our customers in offering a comprehensive product arsenal, as well as allows us to reduce costs as we leverage existing design building-blocks into new applications. Our portfolio comprises a wide family of products and includes mainly, the following products:
+ 
+ 8
+ 
+
+ 
+● | Telecom laser drivers for 10 Gbps, 40 Gbps, 100 Gbps and 400 Gbps applications;
+--+--------------------------------------------------------------------------------
+
+
+● | Telecom receiver TIAs for 10 Gbps, 40 Gbps, 100 Gbps and 200 Gbps applications;
+--+--------------------------------------------------------------------------------
+
+
+● | Datacom vertical-cavity-surface-emitting-laser (“VCSEL”) driver & receiver chipsets for single, 4 and 12 channel parallel optics applications from 2 Gbps to 28 Gbps/channel;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Direct-modulated-laser (“DML”) drivers for single and 4 channels of 28 Gbps/channel;
+--+-------------------------------------------------------------------------------------
+
+
+● | Clock-data-recovery (“CDR”) devices for single and 4 channel implementations of 28 Gbps/channel;
+--+-------------------------------------------------------------------------------------------------
+
+
+● | Wideband RF MMIC amplifiers with flat gain response;
+--+-----------------------------------------------------
+
+
+● | High Frequency RF MMIC Power Amplifiers with high gain and output power; and
+--+-----------------------------------------------------------------------------
+
+
+● | Ultra-wide-bandwidth (“UWB”) ASIC, Wi-Fi and wireless ASIC, mixed-signal ASIC, optical ASIC, and RF ASIC devices.
+--+------------------------------------------------------------------------------------------------------------------
+
+Power Consumption and Size Reduction: We design and enable technologies which utilize efficient circuit techniques and material technology to reduce energy usage without compromising performance.  Our designs also typically have smaller footprints than competing products enabling an overall smaller transponder design.
+Cost Reduction: We are a material-agnostic, fabless design-house and are skilled in designing and utilizing a number of packaging and semiconductor process technologies such as indium phosphide (“InP”), gallium arsenide (“GaAs”), silicon germanium (“SiGe”) and CMOS silicon. This portfolio of enabling technologies provides the flexibility to optimize the cost/performance of our products to meet the challenge at hand and to provide the best of breed solutions to meet our customers’ needs. We believe that this, coupled with the ability to integrate more complex logic functions into the TIA designs, offers compelling value to our customers. By providing a broad portfolio of products to our customers we are able to achieve production efficiencies which allows us to offer attractive pricing.
+Partnership: Through a deep understanding both of the system level challenges faced by our customers developing devices, MCMs, and optical transponders and wireless transceivers and of the capabilities of our technology, we are able to suggest and implement new system partitioning concepts to provide innovative new products that provide enhanced features and functionality, ease manufacturing, increase yields and reduce power and cost.
+Technology Leadership and Innovation: Our products are built on a foundation of semiconductor technologies supported by over 20 years of innovation and research and development experience that has resulted in more than 76 patents awarded and patent applications pending worldwide. Our technological innovation extends from the design of ultra-high speed semiconductor integrated circuits, monolithic microwave integrated circuit design, multi-chip modules, and optical device design. These areas of competence include signal integrity, thermal modeling, power consumption and integration of multiple ICs into sub-system multi-chip module components. Our many years of experience allow us to design high-performance solutions and we conduct our development both independently and in close, cooperative partnership with lead “Lighthouse” customers. For these reasons, we have been selected as a partner for many Tier-1 customers in Japan, the USA and Europe.  For example, we were a partner with a leading global equipment supplier to develop 100 Gbps coherent limiting drivers for the first commercially available 100 Gbps system that was launched in 2010. This partnership has grown to encompass the development of new generations of drivers such as the 100, 200 and 400 Gbps coherent linear drivers, as well as 100 and 200 Gbps trans-impedance amplifiers (“TIAs”), that we launched in 2014. Furthermore, our high performance wideband amplifiers are utilized in a number of mission critical military applications.
+Horizontal Business Model: We deploy a fabless semiconductor device horizontal business model as opposed to a vertical integration model since it is our mission to serve a broad customer base in the optical and wireless communications and defense markets with the best-in-class semiconductor components. We believe this will be driven by the system vendor end-customers’ desire for continuing price reduction with increasing volumes and will be enabled by the growth of capable component suppliers such as GigPeak as well as the availability of high quality electronics contract manufacturers (“ECMs”). We cultivate a “Virtual Vertical Integrated” (“VVITM”) model, which is based on strong relationships with our customers, ECMs and other component vendors in the supply chain with aligned objectives.  We enable flattening and simplifying of the supply chain for faster, more cost-efficient and more effective development and delivery of products to the marketplace which results in more attractive prices.
+ 
+ 9
+ 
+
+Broadcasting and Streaming Solutions
+ 
+Our broadcast and streaming solutions include a family of IC modules, software, algorithms and IP for the professional broadcast and streaming infrastructure market. We provide top of the line products, tools and technologies for the entire high-quality video content creation and distribution chain, from contribution and production through distribution over cable, satellite and OTT video streaming, such as:
+
+1. | Video Contribution: We were the first to market with a single chip to address all market needs, from legacy MPEG-2 4:2:0/4:2:2 8-bit to H.264 4:2:0/4:2:2 10-bit to AVC-I 50, AVC-I 100 and into future deployment of high efficiency video coding (“HEVC”), encoding and decoding applications. With over a decade of video quality leadership and technology innovation behind it, our D7Pro offers advanced encoding and decoding solution for video contribution and news gathering. In addition, the D7Pro offers a complete video-audio-ancillary data-mux integrated solution enabling high video quality, low latency at low bit rates for video encoding and decoding.
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Video Production: As a market leader in professional video processing devices and software, we offer system vendors the market’s leading solutions for baseband video, audio and data processing. We enable a single design solution for all products within a production domain – routers, channel branding, video filtering, chroma/luma leveling, audio leveling and down mixing, format conversion, rescaling, low latency switching and more. Our solution is a dual channel 4:2:2 10-bit native solution with embedded memory and support for various I/O interfaces from storage, networking and peripheral component interconnect express (“PCIe”) to 1080p baseband video.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Primary Video Distribution: Content originators are rapidly adopting advanced technologies such as H.264 and efficient statistical multiplexing systems as well as H.265 compression for higher compression efficiency while continuing to support legacy MPEG-2 formats. Vendors of encoding, decoding and transcoding equipment for primary distribution must quickly bring to market solutions that support high video quality H.264 SD/HD, H.265 SD/HD as well as MPEG-2 SD/HD. Ideally, to minimize an operator’s operating expenses, these systems should enable both types of services to be aggregated in single bundle without compromising video quality.
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Products
+ 
+ Networking: We design and market products that amplify electrical signals using amplifiers such as VCSEL and DML drivers for laser devices and modulator, and CDR devices, and TIAs, in the transmission path of data for all networking distances used in telecom and Datacom. In addition, we offer microwave and millimeter wave amplifiers to enable amplification of small signal radio signals into more powerful signals that can be transmitted over long distances to establish high throughput data connections or enable radar based applications. We have a comprehensive product portfolio, particularly at data rates that exceed 1 Gbps. The primary target markets and applications for our products include optical interface modules such as line-cards, transponders and transceivers within telecom and datacom switches and routers, and high speed wireless point-to-point millimeter wave systems. Our products are critical blocks used in telecom and datacom optical communications networks. For telecom, these networks range from long-haul to metro systems, and for datacom, from access to data-links to the consumers, where in all cases our devices satisfy and enable the conversion of data from the electrical domain to the optical domain, and vice-versa. Our optical drivers amplify the input digital data stream that is used to directly modulate the laser or to drive an external modulator that acts as a precise shutter to switch on and off the light that creates the modulated optical data stream. At the other end of the optical fiber, our sensitive receiver TIAs detect and amplify the small currents generated by photo-diodes converting the received light into an electrical current. The TIAs amplify the small current signals into a larger voltage signal that can be read by the electronics and processors in the network servers. We supply an optimized component for each type of laser and photo-diode depending upon the speed, reach and required cost. Generally, a shorter reach applications result in higher volume and lower average sales price, due to the  less demanding electrical product specifications to support the required integrity preservation of the traveled optical signal.
+ 
+ 10
+ 
+
+Broadcasting: We offer the market’s foremost advanced enterprise video broadcasting algorithmic and software solutions that are made available as a stand-alone software stacked package that can be deployed to industry standard silicon processors or customized FPGAs, or provided on our proprietary digital-signal-processor (“DSP”) silicon device. Our silicon and software are all-complete system solutions with rich features including high video quality SD/HD H.265, H.264, MPEG-2, VBR/CBR, ABR, video statistical multiplexing, digital ad-insertion, low latency encoding and complete video, audio and data multiplexing.
+Growth Strategy
+ 
+Our objective is to be the leading provider of high performance electronic and electro-optic components for the optically and wirelessly connected digital world enabling the end-to-end high speed information streaming on the network through telecom, datacom and consumer-electronic infrastructure, growing through both organic and strategic means. Elements of our strategy include the following:
+Focus on High Growth Emerging Market Opportunities. We will continue to focus our product development resources on high growth emerging market segments both within the markets we currently serve as well as in new markets that utilize our core technologies. We will continue to invest substantially in high performance products for 100 Gbps, 400 Gbps and beyond optical communications applications, where we have constantly enhanced and will continue to enhance our device portfolio offering. We intend to leverage our extensive knowledge in fiber-optics telecom and datacom communications systems to continue to develop lead devices for high speed links for various emerging consumer electronic applications, such as optical connections, virtual and augment reality (“VR” and “AR”), ultra-wide bandwidth in-door devices, Wi-Fi and wireless connected security sensors, natural interfaces and 3D cameras such as time-of-flight (“TOF”) cameras. We will also focus on emerging high speed wireless point-to-point E-band and V-band communications enabled by our millimeter 71GHz to 86GHz, and 60GHz, respectively, MMIC solutions. We believe that high growth opportunities exist even within more established communications segments by virtue of introducing innovative device and system architectures as well as business models to disrupt the established players and value chain relationships. Outside of telecom and datacom, we are able to leverage the same designs re-characterized for RF systems for use in defense applications such as phased array radars and super-computers and in certain emerging areas of the consumer electronics market.
+Grow Our Customer Base. We intend to continue to broaden our strategic relationship with certain key customers by maximizing design wins across their product lines. We intend to continue to leverage the approved vendor status we have with these key customers to qualify our products into additional optical and wireless systems, a process that is accelerated when we have already been qualified in a customer’s systems. We intend to add to our number of strategic relationships by selectively targeting certain customers with whom we are not yet a strategic vendor. We will expand our development efforts with these customers through initiatives including providing specialized sales and support resources, holding technology forums to align our product development effort with the customers’ needs and implementing custom manufacturing linkages.
+Engage Customers Early in their Product Planning Cycle. By engaging our customers early in their system design process, we gain critical information regarding their system requirements and objectives that influence our component design. Our sales force, product marketing teams and development engineers engage regularly with our customers to understand their product development plans. Likewise, our early involvement in their system development processes also enables us to influence standards and introduce differentiated products early to market. Moreover, we believe that this interaction between ourselves and our customers provides us a competitive advantage, valuable insight and a close customer relationship that grows over each generation of products introduced by our customers and allows us to enhance and constantly improve our support and service to those customers.
+Partner for Innovation. Over the past few years, we have successfully partnered with lead “Lighthouse” commercial customers and contract manufacturers on research and development efforts for our electronic components. We see this as a core element of our strategy both to support the investment required to maintain our innovation as well as to align our research and development with the future needs of commercial and defense markets. In order to maintain our position at the forefront of next generation optical modules and components, we intend to continue these relationships.  These partnerships with “Lighthouse” customers are generally done for the development of products required in a one to two-year time horizon and often on a shared investment basis. We believe that this helps us stay aligned with market needs when considering the sometimes significant investment in a new development.
+ 
+ 11
+ 
+
+Strategic Acquisitions and Joint Ventures. To augment our organic growth strategy, we actively pursue acquisitions that provide an efficient alternative to in-house development of technology, products or revenue. The synergies we search for include efficient extensions of our product offerings to strengthen our market position, enhancing our technology base, increasing our revenue base and expanding our customer base in selected markets to provide cross selling opportunities and to enhance our geographic or market segment presence. We continuously evaluate potential acquisitions against the above criteria. As an example, on April 5, 2016, we acquired Magnum, a privately-held fabless semiconductor manufacturer and software solution developer, and brought a well-developed and comprehensive portfolio of video broadcasting and compression solutions to GigPeak, including silicon ICs, SoCs and software solutions, including high-end compression encoding and video-quality algorithm products, and a comprehensive library of intellectual property. The Magnum products, now marketed as GigPeak’s MX product-line, are offered solely for the professional and enterprise video broadcast infrastructure applications. Those products are the top of the line products, tools and technologies that can be deployed for the entire universe of video content creation and the associated distribution chain, from contribution and production through distribution over cable, telecom, satellite and OTT video streaming.
+Strategic Minor Investments in Small Early Stage Companies. To augment our organic growth strategy and access critical software (“SW”) and hardware (“HW”) building blocks that can add to the differentiation of our emerging products, we execute minor financial investments from time to time in unique early stage companies that allow us to potentially create synergies in our respective future product development and to more effectively cooperate in developing new differentiated product roadmaps and addressing new markets for those products. For example, on January 25, 2016, we invested $1.2 million to obtain a minority stake in Anagog Ltd. (“Anagog”), based in Israel, which is the developer of the world’s largest crowdsourced parking network. Anagog is perfecting the mobility status algorithms that allow for advanced on-phone machine learning capabilities for the best user experience with ultra-low battery consumption and a high level of privacy protection. The exceptional software capabilities of Anagog, particularly in conjunction with indoor location tracking and navigation, provides a unique layer of applications that can be added to the applications tool-kit which can provide opportunities for future SoCs addressing new applications such as ultra-wide bandwidth video and media content streaming.
+ 
+Technology and Research and Development
+ 
+We utilize proprietary technology at many levels within our product development, ranging from basic materials research to sophisticated design concepts, integration and optimization techniques. In addition, we have a proven record of successfully productizing this research and bringing it to market in a swift and seamless manner. Our technology is protected by our patent portfolio and trade secrets developed in deployments with our extensive customer base. Our technologies include ultra-broadband MMIC design, MCM design, innovative ultra-low power laser driver and receiver IC design in silicon germanium, high speed analog and RF IC design, mixed signal IC design, structured and hybrid ASIC infrastructure, RF-ASICs, Optical-ASICs, HW, SW and algorithmic video streaming and broadcasting solutions..
+ 
+Customers
+ 
+We have a global enterprise customer base in the telecom, datacom, wireless, consumer electronics, defense and industrial electronics, broadcasting and video streaming markets. Our customers include many of the leading network system vendors worldwide.  During 2016, we sold to major “Tier-One” equipment vendors in the United States, Europe, and Asia, as well as to leading industrial, aerospace and defense companies. The number of leading network systems vendors which supply the global telecom, datacom and wireless markets is concentrated, and so, in turn, is our customer base.  The vast majority of our customers are in the telecom, datacom, broadcasting, streaming, industrial and commercial markets and consist of a broader range of enterprises that design and manufacture predominantly electro-optics and high speed information management products.
+ 
+ 12
+ 
+
+As part of our strategy, we market and sell our products through third-party distributors in certain markets such as China, Taiwan and Japan where the ability to make sales to end-user customers is dependent upon such a channel. Although we develop relationships with distributors in these markets that further our sales efforts, we do not control the activities of our distributors with respect to the marketing and sale of our products. Therefore, the reputation and performance of our distributors and their ability and willingness to sell our products, uphold our brand reputation, and expand their businesses and sales channels are essential to the growth of our business in these markets. Similarly, factors which are under our control, such as the development of our products, are essential to the growth of our business in these markets. Consistent with our relationship with individual customers, we do not have long-term purchase commitments from these distributor customers, and certain distributor agreements provide for semi-annual stock rotation privileges of 5 to 10 percent of net sales for the previous six-month period. As product sales have continued to grow in Asia, primarily in China and Taiwan, the distributors in those markets are making sales to multiple end-user customers. Maintaining distributors in these markets is necessary to our ability to make sales in such jurisdictions, however, due to the nature of our customer relationships with the distributors and the structure of the distribution market, it is possible to cease business operations with any particular distributor and put in place an alternative distribution arrangement without materially impacting our sales, provided we have an appropriately planned transition.
+ 
+In addition, certain end-user customers in the Asia, United States and Europe do not make direct purchases of our products from us. Rather, purchases are made by distributors that are engaged by the end-user customers to manage their long-term inventory needs.
+ 
+In fiscal year 2016, there were no customers or distributors who accounted for 10% or more of total revenue. In fiscal year 2015, one customer, Alcatel-Lucent, now Nokia, and three distributors, Pangaea (H.K.) Limited, in China, 3A, Inc., in the United States, and Litrax Technology Co., Ltd, in Taiwan, accounted for 23%, 16%, 11% and 10% of our total revenue, respectively.
+ 
+Of our total revenue in 2016, 49%, 26% and 25% were generated by customers located in North America, Asia and Europe, respectively, compared with 33%, 35% and 30%, respectively, for the year ended December 31, 2015. For the year ended December 31, 2016, 94% of our revenue was contributed by product revenue and 6% of our revenue was contributed by development fees and other revenue. For the year ended December 31, 2015, 95% of our revenue was contributed by product revenue and 5% of our revenue was contributed by development fees and other revenue.
+ 
+Manufacturing
+ 
+During 2011, we received an ISO9001:2008 certification and have maintained it seamlessly, including successful completion of a complete renewal audit during 2014 and adding our subsidiary in Zurich in 2015. Our foundry and contract manufacturing partners are located in China, Japan, the Philippines, Taiwan, Thailand, and the United States. Some of our contract manufacturing partners that assemble or produce are strategically located close to our customers’ contract manufacturing facilities to shorten lead times and enhance flexibility.
+ 
+We follow established new product introduction (“NPI”) processes that help to ensure product reliability and manufacturability by controlling when new products move from the sampling stage to mass production. We have stringent quality control processes in place for both internal and contract manufacturing. We utilize manufacturing planning systems to coordinate procurement and manufacturing to our customers’ forecasts. These processes and systems help us closely coordinate with our customers, support their purchasing needs and product release plans, and streamline our supply chain.
+ 
+Electronic components: ICs and MCMs: For our ICs and MCMs, we use an outsourced contract manufacturing model. We have a clean-room equipped prototype manufacturing and testing facility in our San Jose location which is used to optimize manufacturing and test procedures to achieve internal yield and quality requirements before transferring volume production to our contract manufacturing partners. We develop long-term relationships with strategic contract manufacturing partners to reduce assembly costs and provide greater manufacturing flexibility. The manufacture of some products such as certain low volume, high complexity or customized multi-chip modules may remain in-house during the full production stage to speed time to market and bypass manufacturing transfer costs. We also have well-equipped testing laboratory facilities in our Zurich and Korea locations which are used to develop and optimize our developed devices in those locations.
+ 
+For our less complex packaged chips and bare die products, we typically move new product designs directly to contract manufacturing partners. These products fit easily into a standard fabless semiconductor production flow and ramp up to greater volumes in mass production.
+ 
+ 13
+ 
+
+Sales, Marketing and Technical Support
+ 
+In the communications market, we primarily sell our products through our direct sales force supported by a network of manufacturer representatives and distributors. Our sales force works closely with our engineers, product marketing and sales operations teams in an integrated approach to address a customer’s current and future needs. We assign account managers for each strategic customer account to provide a clear interface for our customers. The support provided by our engineers is critical in the product qualification stage. Optical transceiver modules and point-to-point microwave and millimeter wireless backhaul transceivers are complex products that are subject to rigorous qualification procedures of both the product and the supplier and these procedures differ from customer to customer. Also, many customers have custom requirements in order to differentiate their products and meet design constraints. Our sales, product marketing and general management personnel interface with our customers’ product development staff to address customization requests, collect market intelligence to define future product development, and represent us in pertinent standards bodies.
+ 
+For our key customers, we hold periodic technology forums for their product development teams to interact directly with our research and development teams. These forums provide us insight into our customers’ longer term needs while helping our customers to adjust their plans to the product advances we can deliver. Also, our customers are increasingly utilizing contract manufacturers while retaining design and key component qualification activities. As this trend matures, we continually upgrade our sales operations and manufacturing support to maximize our efficiency, flexibility and coordination with our customers.
+ 
+In the industrial market, we sell directly to key customers and also sell through a network of manufacturing representatives and distributors to address the broad range of applications and industries in which our products are used. The sales effort is managed by an internal sales team and supported by engineers and our general management and marketing team. Through our customer interactions, we believe that we continually increase our knowledge of each application’s requirements and utilize this information to improve our sales effectiveness and guide product development.
+ 
+Since inception, we have actively communicated our brand worldwide through participation at trade shows and industry conferences, publication of research papers, bylined articles in trade media, and advertisements in trade publications and interactive media, interactions with industry press and analysts, press releases and our company website, as well as through print and electronic sales material.
+ 
+Competition
+ 
+The market for high-speed semiconductor and electro-optic devices is characterized by price competition, rapid technological change, short product life cycles, an ever-increasing number of customers and suppliers, and global competition. While no one company competes against us in all of our product areas, or offers the breadth of our product portfolio, our competitors range from large, international companies offering a wide range of products to smaller companies specializing in narrow markets. Due to the increasing market demand for high-speed, high-frequency and high-streaming and broadcasting components, we expect the entry of new competitors into our target markets both from existing semiconductor suppliers and from the internal operations of some companies producing products similar to ours for their own requirements.
+ 
+We believe the principal competitive factors impacting all of our products are:
+ 
+ 
+· | product performance including size, speed, functionality, operating temperature range, power consumption and reliability;
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+· | advanced features and functionality being bundled into our algorithmic and software stack solutions;
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | price to performance characteristics;
+--+--------------------------------------
+
+
+· | delivery performance and lead times;
+--+-------------------------------------
+
+
+· | development relationships with customers;
+--+------------------------------------------
+
+
+· | time to market;
+--+----------------
+
+
+· | breadth of product solutions;
+--+------------------------------
+
+
+· | strong customer relationships;
+--+-------------------------------
+
+
+· | sales, technical and post-sales service and support;
+--+-----------------------------------------------------
+
+
+· | technical partnership in the early stages of product development;
+--+------------------------------------------------------------------
+
+
+· | sales channels;
+--+----------------
+
+
+· | ability to drive standards and comply with new industry Multi Source Agreements (“MSAs”) and other standards;
+--+--------------------------------------------------------------------------------------------------------------
+
+
+· | ability to partner with emerging companies to provide differentiating, innovative solutions; and
+--+-------------------------------------------------------------------------------------------------
+
+
+· | business and financial stability.
+--+----------------------------------
+
+
+
+ 14
+ 
+
+GX Products - In the telecom and datacom segments, we compete with Qorvo, InPhi, Semtech, MicroSemi, Vitesse, MaxLinear and M/A-Com. We compete with Qorvo (formerly TriQuint) and MaxLinear predominantly in the 10 Gbps, 40 Gbps and 100 Gbps Mach Zehnder driver space; Oki, MicroSemi (formerly Centellax and Vitesse, respectively) predominantly in the 10 Gbps EML driver space; InPhi predominately in the 100 and 200 Gbps linear drivers and TIA spaces; Semtech predominately in the datacom space; MicroSemi (formerly Vitesse) in the 10 Gbps TIA receiver space, and M/A-Com predominately in the telecom driver and TIA space.
+ 
+HX Products - In the market for physical medium dependent (“PMD”) ICs we compete with M/A-Com, Broadcom Limited (via their merger with Avago), Finisar, TE Connectivity (formerly Zarlink), Mellanox, and Semtech. It should be noted that out of the above list of competitors, Broadcom Limited, Mellanox, Finisar and TE Connectivity are vertically integrated transceiver module manufacturers with in-house PMD IC design capability.
+ 
+EX Products - Our MMICs compete in the microwave and millimeter wave radio markets, an industry that is intensely competitive. We compete with Qorvo, ADI, RFMD, Northrop Grumman (for internal use), Sumitomo and M/A-Com in this product area.
+ 
+CX Products - Our ASICs compete in the custom integrated circuit industry, an industry that is intensely competitive. In the low to medium volume market, the primary competitors include FPGA manufacturers like Xilinx, Intel via their acquisition of Altera, Lattice Semiconductor and Actel Corporation. In the medium to high volume market, there are over 30 companies competing in this market. Companies that we compete with most often include ON Semiconductor, eSilicon, Open Silicon, Faraday, Toshiba and eASIC.
+ 
+MX Products - Our direct competition are the customized FPGA devices that are furnished with either open-source or proprietary available codecs and software solutions from variety of software design houses, as well as complete chip and system solutions like Harmonic, Ericsson, Ateme, Elemental and Vitec.
+ 
+Patents and Other Intellectual Property Rights
+ 
+We rely on patent, trademark, copyright and trade secret laws and internal controls and procedures to protect our technology. We believe that a robust technology portfolio that is assessed and refreshed periodically is an essential element of our business strategy. We believe that our success will depend in part on our ability to:
+
+· | obtain patent and other proprietary protection for the materials, processes and device designs that we develop;
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | enforce and defend patents and other rights in technology, once obtained;
+--+--------------------------------------------------------------------------
+
+
+· | operate without infringing the patents and proprietary rights of third parties; and
+--+------------------------------------------------------------------------------------
+
+
+· | preserve our company’s trade secrets.
+--+--------------------------------------
+
+
+
+As of December 31, 2016, we and our subsidiaries have 60 active patents and have 16 patent applications pending. Patents have been issued in various countries with the main concentration in the United States. Our patent portfolio covers a broad range of intellectual property including semiconductor design and manufacturing, device packaging, module design and manufacturing and electrical circuit design. We follow well-established procedures for patenting intellectual property. The portfolio also represents a balanced compilation of intellectual property that has been filed by the various companies we have acquired, and hence protects all of our product lines. As of December 31, 2016, we also licensed patented technology from IBM. Many of the pending and issued U.S. patents have one or more corresponding international or foreign patents or applications.  Our existing significant U.S. patents will expire between August 2021 and November 2035.
+ 
+We take extensive measures to protect our intellectual property rights and information. For example, every employee enters into a confidential information, non-competition and invention assignment agreement with us when they join and are reminded of their responsibilities when they leave. We also enter into and enforce a confidential information and invention assignment agreement with contractors.
+ 
+ 15
+ 
+
+We have patents and patents pending covering technologies relating to:
+ 
+High-Speed Integrated Circuits
+  
+· | circuit topology to achieve ultra-large frequency bandwidth;
+--+-------------------------------------------------------------
+
+
+· | efficient voltage control circuitry for broadband high voltage drivers; and
+--+----------------------------------------------------------------------------
+
+
+· | control circuitry to stabilize gain control functionality over temperature.
+--+----------------------------------------------------------------------------
+
+
+
+RF Millimeter wave circuits
+  
+· | waveguide transitions;
+--+-----------------------
+
+
+· | component interconnect; and
+--+----------------------------
+
+
+· | impedance compensating circuits
+--+--------------------------------
+
+
+
+RF Communications systems
+  
+· | impedance compensating circuits;
+--+---------------------------------
+
+
+· | sectorized communications systems;
+--+-----------------------------------
+
+
+· | sectorized multi-function communications systems; and
+--+------------------------------------------------------
+
+
+· | wireless point to multi-point communications systems.
+--+------------------------------------------------------
+
+
+
+ASICs
+  
+· | wireless point to multi-point communications;
+--+----------------------------------------------
+
+
+· | customizable integrated circuit devices;
+--+-----------------------------------------
+
+
+· | single metal programmability in a customizable integrated circuit device;
+--+--------------------------------------------------------------------------
+
+
+· | configurable cells for customizable logic array device;
+--+--------------------------------------------------------
+
+
+· | an in-circuit device, system and method to parallelize design and verification; and
+--+------------------------------------------------------------------------------------
+
+
+· | methods of developing application specific integrated circuit devices.
+--+-----------------------------------------------------------------------
+
+Video Broadcasting and Streaming
+  
+· | compression algorithms for high quality AVC encoder;
+--+-----------------------------------------------------
+
+
+· | video processing for noise removal and high quality video display;
+--+-------------------------------------------------------------------
+
+
+· | global buffer-based statistical multiplex control for efficient video transmission; and
+--+----------------------------------------------------------------------------------------
+
+
+· | compression algorithms for high quality HEVC encoder.
+--+------------------------------------------------------
+
+
+
+Although we believe our patent portfolio is a valuable asset, the discoveries or technologies covered by the patents, patent applications or licenses may not have commercial value. Issued patents may not provide commercially meaningful protection against competitors. Other parties may be able to design around our issued patents or independently develop technology having effects similar or identical to our patented technology. The scope of our patents and patent applications is subject to uncertainty and competitors or other parties may obtain similar patents of uncertain scope.
+ 
+Third parties may infringe the patents that we own or license, or claim that our potential products or related technologies infringe their patents. Any patent infringement claims that might be brought by or against our company may cause us to incur significant expenses, divert the attention of our management and key personnel from other business concerns and, if successfully asserted against us, require us to pay substantial damages. In addition, a patent infringement suit against us could force us to stop or delay developing, manufacturing or selling potential products that are claimed to infringe a patent covering a third party’s intellectual property.
+ 
+We periodically evaluate our patent portfolio based on our assessment of the value of the patents and the cost of maintaining such patents, and may choose from time to time to let various patents lapse, terminate or be sold.
+ 
+ 16
+ 
+
+Employees
+ 
+As of December 31, 2016, we had 132 full-time employees, including 74 engineers, mainly electrical and materials; 22 employees in manufacturing, operations, and quality,16 employees in global sales and marketing and 20 employees in general and administrative. In addition, we utilize the service of a number of independent contractors for various administrative, development, testing and manufacturing functions. Our employees in the United States are not covered by collective bargaining agreements. We consider our employee relations worldwide to be favorable.
+Environmental
+ 
+Our operations involve the use, generation and disposal of hazardous substances and are regulated under international, federal, state and local laws governing health and safety and the environment. We believe that our products and operations at our facilities comply in all material respects with applicable environmental laws and worker health and safety laws, however, the risk of environmental liabilities cannot be completely eliminated.
+Government Regulations
+ 
+We are subject to federal, state and local laws and regulations relating to the generation, handling, treatment, storage and disposal of certain toxic or hazardous materials and waste products that we use or generate in our operations. We regularly assess our compliance with environmental laws and management of environmental matters, and we believe that our products and operations at our facilities comply in all material respects with applicable environmental laws.
+ 
+We are also subject to federal procurement regulations associated with U.S. government contracts. Violations of these regulations can result in civil, criminal or administrative proceedings involving fines, compensatory and punitive damages, restitution and forfeitures as well as suspensions or prohibitions from entering into government contracts. The reporting and appropriateness of costs and expenses under government contracts are subject to extensive regulation and audit by the Defense Contract Audit Agency, an agency of the U.S. Department of Defense. The contracts and subcontracts to which we are a party are also subject to potential profit and cost limitations and standard provisions that allow the U.S. government to terminate such contracts at its convenience. We are entitled to reimbursement of our allowable costs and to an allowance for earned profit if the contracts are terminated by the U.S. government for convenience.
+ 
+Sales of our products and services internationally may be subject to the policies and approval of the U.S. Department of State and Department of Commerce. Any international sales may also be subject to United States and foreign government regulations and procurement policies, including regulations relating to import-export control such as ITAR, investments, exchange controls and repatriation of earnings.
+ 
+Where You Can Find More Information
+ 
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, recently filed Schedule 14D-9, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge as soon as possible after we electronically file them with, or furnish them to, the SEC. You can access our filings with the SEC by visiting our website. The information on our website is not, and shall not be deemed to be, a part of this Annual Report on Form 10-K or incorporated into any other filings we make with the SEC. Additionally, the Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, by our predecessor registrant Lumera are available at www.sec.gov.
+ 
+Investors and others should note that we announce material financial information to our investors using our investor relations website, press releases, SEC filings and public conference calls and webcasts. We intend to also use the following social media channels as a means of disclosing information about the company, our services and other matters and for complying with our disclosure obligations under Regulation FD:
+ 
+ 
+· | GigPeak Twitter Account (https://twitter.com/GigPeak)
+--+------------------------------------------------------
+
+
+
+ 17
+ 
+
+The information we post through these social media channels may be deemed material. Accordingly, investors should monitor these accounts, in addition to following our press releases, SEC filings and public conference calls and webcasts. This list may be updated from time to time. The information we post through these channels is not a part of this Annual Report on Form 10-K.  Further, the references to the URLs for these websites are intended to be inactive textual references only.
+ 
+You can also read and copy any document that we file, including this Annual Report on Form 10-K, at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. Call the SEC at 1-800-SEC-0330 for information on the operation of the Public Reference Room. In addition, the SEC maintains an Internet site at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. You can electronically access our SEC filings there.
+ 
+ 18
+ 
+
+ 

@@ -1,0 +1,382 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.  BUSINESS
+Business Overview
+ 
+ magicJack VocalTec Ltd. and its Subsidiaries (the “Company”) is a cloud communications leader that is the inventor of the magicJack devices and other magicJack products and services. magicJacks weigh about one ounce and plug into the USB port on a computer or into a power adapter and high speed Internet source, providing users with complete phone service for home, enterprise and while traveling. The Company charges highly competitive rates for the right to access its servers (“access right”), and the Company’s customers then continue to have the ability to obtain free telephone services. The Company currently offers the magicJack GO and magicJack EXPRESS, which are updated versions of the magicJack device that have their own CPU and can connect a regular phone directly to the user’s broadband modem/router and function as a standalone phone without using a computer.  The magicJack mobile apps are applications that allow users to make and receive telephone calls through their smart phones using their magicJack account. Currently, consumers that do not have a magicJack account can purchase and download the magicJack mobile apps to make telephone calls from anywhere in the world into the U.S. or Canada for free.  The mobile apps include the magicApp and the magicJack Connect App, which are available for both iOS and Android. The Company’s products and services allow users to make and/or receive free telephone calls to and from anywhere in the world where the customer has broadband access to the Internet, and allow customers to make free calls back to the United States and Canada from anywhere legally permitted in the world.
+ 
+magicJack VocalTec is a vertically integrated group of companies. The Company owns a micro-processor chip design company, an Appserver and session border controller company, a wholesale provider of Voice-over-Internet-Protocol (“VoIP”) services, a softphone company, and the developer and provider of the magicJack device. The Company also wholesales telephone service to VoIP providers and telecommunication carriers.
+ 
+The Company’s strategy since 2007 has been to vertically integrate its technology, design and suppliers, and it has completed four acquisitions between 2007 and 2010, including a merger with the company that invented VoIP, in order to implement this strategy.
+ 
+From 2011 through 2015, the Company has offered several versions of the magicJack device and mobile apps.  The device has been progressively upgraded to include superior voice quality, expanded memory and enhanced processing power. The initial access right period for the different versions of the device ranged from three to twelve months.
+ 
+
+In March 2016, the Company acquired substantially all of the assets of North American Telecommunications Corporation (dba “Broadsmart”). Broadsmart is a leading hosted Unified Communication as a Service (“UCaaS”) provider for medium-to-large multi-location enterprise customers. Broadsmart has a track record of provisioning and delivering complex UCaaS solutions to blue chip corporate customers on a nationwide basis. Broadsmart has expertise in servicing enterprises with hundreds-to-thousands of locations. With the acquisition of Broadsmart, the Company has diversified its operations into UCaaS targeting high end enterprise customers. This acquisition has positioned the Company to compete long-term in the UCaaS market.
+
+During the first quarter of 2016, the Company created a new subsidiary, magicJack SMB, Inc. (“SMB”). Through this subsidiary, the Company provides easy-to-buy, simple-to-use VoIP services to small to medium sized businesses at competitive prices. The Company began sales of its SMB product during the third quarter of 2016.
+ 
+The Company has historically prepared its consolidated financial statements on the basis of being a single reporting entity. Beginning in the first quarter of 2016, the Company has been reporting the results of operations for these new business lines as separate Reportable Segments – “Consumer,” “Enterprise” and “SMB”. These segments are organized by the products and services that are sold and the customers that are served. The Core Consumer segment represents the historical magicJack consumer business.  The Enterprise segment includes Broadsmart and the SMB segment includes SMB.  Refer to Note 16, “Segment Reporting,” in the Notes to our Consolidated Financial Statements included in Item 8 herein for further details.
+ 
+ 3
+ 
+
+In May 2016, we launched the magicJack Connect App for iOS and Android. The magicJack Connect App offers users free worldwide Wi-Fi App-to-App calling & messaging. The App also offers an unlimited U.S. calling plan which allows subscribers to call the U.S. from anywhere in the world plus receive a U.S. phone number for only $9.99 per year.
+ 
+The Company’s corporate name is magicJack VocalTec Ltd. for both legal and commercial purposes. The Company is located at 12 Haomanut Street, 2nd Floor, Poleg Industrial Area, Netanya, Israel 4250445 (telephone number +972-9-970-3888). The Company was organized under the laws of the State of Israel in 1989 and is subject to the Israeli Companies Law, or the Companies Law. The Company’s subsidiary, YMax Corporation (“YMax”, and together with VocalTec, the “Combined Company”), is located at 222 Lakeview Avenue Suite 1600, West Palm Beach, Florida, 33401 (telephone number 561-749-2255).
+ 
+Product and Service Offerings
+ 
+magicJack Devices
+ 
+The magicJack is a VoIP device weighing about one ounce which includes an initial access right period. Customers receive free VoIP phone service for their home, enterprise or while traveling. The Company started selling the magicJack in late 2007. Since that time, the Company has offered several upgraded versions of the device with superior voice quality, expanded memory and enhanced processing power. The initial access right period for the different versions ranges from three to twelve months. The current devices available for purchase are the magicJack GO, which includes a twelve month access right, and the magicJack Express, which includes a three month access right period.  magicJack devices are sold either directly to customers through our website or through retailers.
+ 
+Mobile apps
+ 
+The magicJack mobile apps are applications that allow users to make and receive telephone calls through their smart phones using their magicJack account. Currently, consumers that do not have a magicJack account can purchase and download the magicJack mobile apps to make telephone calls from anywhere in the world into the U.S. or Canada for free. The magicApp offers a U.S. phone number, unlimited local and long distance calling to the US, Canada, Puerto Rico and the U.S. Virgin Islands, and unlimited text messaging to any U.S. mobile number. The magicApp is available to both iOS and Android users and offers access rights for a monthly or annual fee. In May 2016, we launched the magicJack Connect App for iOS and Android. The magicJack Connect App, also available for both iOS and Android, offers users free worldwide Wi-Fi App-to-App calling & messaging. The magicJack Connect App also offers an unlimited U.S. calling plan which allows subscribers to call the U.S. from anywhere in the world plus receive a U.S. phone number for only $9.99 per year.
+ 
+Access Right Renewals
+ 
+Customers who own a magicJack device or mobile app may renew access rights for periods ranging from one month to five years.
+ 
+Other magicJack-Related Products
+ 
+The Company offers customers other optional products related to their magicJack devices and services, such as insurance, custom or vanity phone numbers, Canadian phone numbers, the ability to either change their existing phone numbers or port them to a magicJack device, and battery powerbanks for mobile devices.
+Prepaid Minutes
+ 
+The Company’s customers can purchase international minutes on a prepaid basis.
+ 
+Access and Wholesale Charges
+ 
+The Company generates revenues from access fees charged to other carriers, as well as wholesaling telephone service to VoIP providers and telecommunication carriers.
+ 
+UCaaS Services and Equipment
+ 
+
+The Company provides hosted communication services and sells hardware and network equipment that are compatible with the service, through its recently acquired subsidiary. Broadsmart, which has a track record of provisioning and delivering complex UCaaS solutions to blue chip corporate customers on a nationwide basis.
+
+ 4
+ 
+Sources of Revenues
+ 
+The Company generates revenues from the following sources:
+ 
+ 
+· | Sales of the magicJack devices and initial access rights – represent revenues recognized from sales of the magicJack devices to retailers, wholesalers, or direct to customers, net of returns, over the period associated with the initial three, six or twelve month access right period. These revenues are recorded net of sales allowance, chargebacks, retailer discounts and advertising allowances;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Access right renewals – represent revenues from customers renewing access rights beyond the initial period included with a magicJack device or mobile app. The extended access right ranges from one month to five years. These fees charged to customers are initially deferred and recognized as revenue ratably over the extended access right period. These revenues also include revenues from access rights granted to paid subscribers of the magicApp and magicJack Connect App, and are recognized ratably over the access right period; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Shipping and handling – represent charges for shipping and handling fees for magicJack devices shipped directly to customers. The fees are initially deferred and recognized as revenues over the initial three, six or twelve month access right period associated with the magicJack device;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | magicJack-related products – represent revenues recognized from the sale of other items related to the magicJack devices and access right renewals the Company offers its customers, including: (i) porting fees charged to customers to port their existing phone number to a magicJack device or service, (ii) fees charged for customers to select a custom, vanity or Canadian phone number, (iii) fees charged to customers to change their existing number, (iv) insurance covering the replacement of a damaged or lost device, and (v) sale of battery powerbanks for mobile devices. These revenues are recognized at the time of sale, with the exception of sales of the battery powerbank which are recognized when shipped; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Prepaid minutes – represent revenues recognized primarily from the usage and expiration of international prepaid minutes, net of chargebacks. Revenues from prepaid minutes are recognized as minutes are used;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Access and wholesale charges – represent revenues generated from: (i) access fees charged to other telecommunication carriers or providers for Inter-exchange Carriers (“IXC”) calls terminated to the Company’s end-users, and (ii) fees charged to telecommunication carriers or providers for origination of calls to their 800-numbers. These revenues are recorded based on rates set forth in the respective state and federal tariffs or negotiated contract rates, less provisions for billing adjustments. Revenues from access and wholesale charges are recognized as minutes are used;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | UCaaS – represents revenues recognized from: (i) recurring monthly service revenue from sales of its hosted services - customers are billed monthly in advance for these recurring services and in arrears for one time service charges and other certain usage charges, and (ii) non-recurring revenue from the sale of hardware and network equipment. Revenues for recurring monthly service are recorded in the period the services are provided over the term of the respective customer agreements and revenue from the sale of hardware and network equipment is recognized in the period that the equipment is delivered; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Other revenues – represent VoIP services provided to small to medium sized businesses through the SMB segment and revenues generated by ancillary revenue sources.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Approximately 87% of the Company’s consolidated revenues for the year ended December 31, 2016 and 90% of the Company’s consolidated revenues for the years ended December 31, 2015 and 2014 were derived from sales to customers located in the United States.
+ 
+The following table presents a breakdown of the Company’s net revenues by source for the periods indicated (in thousands).
+  
+
+
+ | Year Ended December 31, | 
+----------------------------------------------------+-------------------------+-------
+ | 2016 | | 2015 | | | 2014
+Net revenues | | | | | | 
+Sale of magicJack devices and initial access rights | $ | 12,775 | | $ | 15,915 | | $ | 24,564 
+Access right renewals | | 58,513 | | | 65,761 | | | 65,542 
+Shipping and handling | | 889 | | | 794 | | | 2,085 
+magicJack-related products | | 5,435 | | | 4,289 | | | 7,006 
+Prepaid minutes | | 5,677 | | | 8,243 | | | 10,083 
+Access and wholesale charges | | 5,021 | | | 5,953 | | | 7,028 
+UCaaS | | 8,966 | | | - | | | - 
+Other | | 122 | | | 7 | | | 14 
+Total net revenues | $ | 97,398 | | $ | 100,962 | | $ | 116,322
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 5
+ 
+Research and Development
+ 
+The Company’s research and development activities consist primarily of the design and development of its proprietary software used in the magicJack devices, the mobile apps and its servers, as well as the development of new products and applications for use in its broadband service offerings.
+ 
+Research and development expenses were $5.2 million, $4.5 million and $5.9 million for the years ended December 31, 2016, 2015 and 2014, respectively. During year ended December 31, 2016, $1.3 million of research and development expense was related to the SMB segment.  The balance of research and development expense was related to the Core Consumer segment. The Company accounts for research and development costs in accordance with the applicable accounting pronouncements described in Note 2, “Summary of Accounting Policies,” in the Notes to our Consolidated Financial Statements included in Item 8 herein.
+ 
+Markets Where We Compete
+ 
+The primary market in which the Company currently competes is the United States. As of December 31, 2016, approximately 98% of its property and equipment, net of depreciation, is located in the United States. For the year ended December 31, 2016, approximately 87% of its consolidated revenues were derived from sales to customers located in the United States.
+Business Seasonality
+ 
+The Company’s revenues are not subject to seasonal fluctuations. However, quarterly revenue amounts are impacted by the timing of customer renewals and the revenues for Broadsmart can be impacted by the timing of non-recurring equipment and other sales.
+Manufacturing
+ 
+In 2006, the Company entered into a manufacturing and supply agreement with a Chinese company to manufacture the magicJack devices. Certain components of the magicJack are built for the Company, based on the Company’s specifications, in Taiwan and Hong Kong and then sent to the Chinese manufacturer in China for final assembly.
+ 
+The Company’s supply chain and third party manufacturing arrangements are structured to allow the Company to control product quality, realize cost efficiencies and minimize the risks associated without having to disclose proprietary technology to multiple outside parties during production. The Company’s strategy since 2007 has been to vertically integrate the Company’s technology and design suppliers, and the Company has completed three acquisitions since 2007 to implement this strategy. As a result of these strategic acquisitions, the Company controls practically every stage in the design of the Company’s products. Certain magicJack device parts are sourced directly by the production facility in China. The Company works closely with our suppliers to plan inventory procurement in quantities that will meet customer demand while minimizing inventory risks. The Company purchases components and sub-assemblies through separate purchase orders and does not currently have any long-term purchase contracts with these suppliers. Prices of our components have not fluctuated significantly in the past three fiscal years.
+ 
+Marketing, Sales and Distribution
+ 
+For its Core Consumer business, the Company has relied on various marketing methods to advertise its products, including digital marketing and long and short form television commercials. The Company currently distributes the magicJack devices through retail outlets, including Walmart, Best Buy, Target, Walgreens, Fry’s and others, as well as through direct sales via the Company’s web-site.
+ 
+For its Enterprise business, Broadsmart has not historically marketed through traditional advertising channels but has relied on direct sales and a network of strong, established third party re-seller relationships.
+ 
+ 6
+ 
+The new SMB segment has been testing various marketing methods to advertise its new products, primarily through digital channels.
+ 
+In February 2015, RadioShack Corporation ("RadioShack") filed a voluntary petition under Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy Court of the District of Delaware (the "Bankruptcy Proceeding").  magicJack VocalTec Ltd. (the “Company”) was an unsecured creditor of RadioShack in the amount of $1.3 million in the Bankruptcy Proceeding for inventory purchased in 2014 and did not collect any portion of the amount it was owed. As a result, the Company did not recognize approximately $125,000 of revenue from these sales in the fourth quarter 2014 nor did it recognize any of the remaining $1.175 million of deferred revenue in subsequent periods in 2015 due to the uncollectability of such sales. The outstanding amount owed by RadioShack is not included in accounts receivable on the Company’s consolidated balance sheets as of December 31, 2016 or December 31, 2015. As no U.S. retail customer, including RadioShack, accounts for more than 10% of the Company’s total net revenues, the Company does not believe the Bankruptcy Proceeding of RadioShack, or its potential discontinuance as a going concern, will have a material adverse effect on the Company’s results of operations or financial condition.
+ 
+In the years ended December 31, 2016, 2015 and 2014, sales of the magicJack devices through retail outlets represented approximately 52%, 67% and 72%, respectively, of sales of all magicJack devices sold.  For the same periods, direct sales represented approximately 48%, 33% and 28%, respectively, of magicJack devices sold.
+ 
+For the years ended December 31, 2016, 2015 and 2014, no retailer accounted for more than 10% of operating revenues for the Core Consumer or SMB segments. For the year ended December 31, 2016, two customers accounted for approximately 29% of operating revenues for the Enterprise segment.
+ 
+Competition
+ 
+The Company’s Core Consumer business faces competition from traditional telephone companies, wireless companies, cable companies and alternative voice communication providers. Some of our principal competitors are the traditional telephone service providers, such as AT&T, Inc., CenturyLink, Inc. and Verizon Communications Inc., which provide telephone service based on the public switched telephone network. Some of these traditional providers also have added or are planning to add broadband telephone services to their existing telephone and broadband offerings. The Company also faces, or expects to face, competition from cable companies, such as Cablevision Systems Corp., Charter Communications, Inc., Comcast Corporation, Cox Communications, Inc. and Time Warner Cable (a division of Time Warner Inc.), which have added or are planning to add broadband telephone services to their existing cable television, voice and broadband offerings. Further, wireless providers, including AT&T Mobility, Inc., Sprint Nextel Corporation, T-Mobile USA Inc., Verizon Wireless, Inc. and Clearwire Corporation, offer services that some customers may prefer over wireline-based service. In the future, as wireless companies offer more minutes at lower prices, their services may become more attractive to customers as a replacement for wireline-based service. Some of these providers may be developing a dual mode phone that will be able to use broadband telephone service where broadband access is available and cellular phone service elsewhere, which will pose additional competition to our offerings.
+ 
+The Company faces competition on magicJack device sales from Apple, Samsung, Motorola and other manufacturers of smart phones, tablets and other hand held wireless devices. Also, the Company competes against established alternative voice communication providers, such as Vonage, Google Voice, and Skype, which are other non-interconnected voice providers, and may face competition from other large, well-capitalized Internet companies, such as America Online, Inc., Yahoo! Inc. and others.  In addition, the Company competes with independent broadband telephone service providers.
+ 
+Because most of its customers are purchasing communications services from one or more of these providers, success is dependent upon the Company’s ability to attract customers away from their existing providers. The Company competes primarily through the quality and cost structure of its infrastructure and its low pricing.
+ 
+Many of the Company’s actual and potential competitors enjoy greater name recognition, longer operating histories, more varied products and services and larger marketing budgets, as well as substantially greater financial, technical and other resources than the Company does. In addition, the Company may also face future competition from new market entrants.
+ 
+          Our Competitive Positioning
+ 
+The Company believes that the key competitive factors in our market include:
+ 
+ 
+· | pricing and cost structure;
+--+----------------------------
+
+
+· | ease of initial set-up and use;
+--+--------------------------------
+
+
+· | call quality;
+--+--------------
+
+
+· | customer care; and
+--+-------------------
+
+
+· | ease of use and the design of features and capabilities that are attractive to customers.
+--+------------------------------------------------------------------------------------------
+
+
+
+ 7
+ 
+
+The Company believes that its large existing user base, competitive pricing, efficient customer acquisition model, low cost service delivery and customer care capabilities, position us well to compete effectively in the future.
+ 
+The Company’s new Enterprise and SMB segments operate in a highly competitive market for business voice services which includes some of the same large competitors as its Core Consumer business (AT&T and Vonage) as well as other smaller competitors such as 8x8, Inc., RingCentral, ShoreTel and Inteliquent.
+ 
+Intellectual Property
+ 
+The Company believes that the improvement of existing products and services, its technologies and the development of new products are important in establishing and maintaining a competitive advantage. The Company believes that the value of its products is dependent, to a certain extent, upon the maintenance of intellectual property rights, the license rights to use certain intellectual property rights, trade secrets or copyright protection of its proprietary software and technologies. The Company relies on a combination of trade secrets, copyrights, trademarks and patents, together with non-disclosure and invention assignment agreements, to establish and protect the technology used in its products.
+ 
+magicJack VocalTec and its wholly-owned subsidiaries hold numerous patents in the United States and other countries with respect to certain technologies employed and to be employed in its products. In addition, VocalTec or its wholly owned subsidiaries have obtained licenses (in one case, an exclusive license) from other patent owners to use technology protected by those patents.
+ 
+The Company’s U.S. trademark registrations include VocalTec & Design, MAGICJACK, MAGICJACK PLUS, MAGICJACK APP, MAGICJACK Sensory/Sound Mark and MAGICJACKGO. Trademark applications for MAGICJACK AMERICA, MAGICJACKEXPRESS (stylized), M & App Icon Design, MAGICAPP & Design and MAGICJACK CONNECT are pending in the United States. Outside the United States, trademark registrations for the MAGICJACK house mark have been obtained in Canada, China, the European Union, El Salvador, India, Mexico and Peru. The Company also owns Canadian trademark registrations for MAGICJACK PLUS and MAGICJACK APP, as well as, Canadian trademark applications for M & App Icon Design, MAGICAPP & Design, and MAGICJACKEXPRESS (stylized). Additionally, the Company has been granted trademark registrations for M & App Icon Design, MAGICAPP & Design, MAGICJACK AMERICA, MAGICJACKEXPRESS (stylized), and MAGICJACKGO in Mexico. These trademarks are important to our business. Although we have omitted the “®” and “tm” trademark designations for such trademarks in this annual report, all rights to such trademarks are nevertheless reserved. All other trademarks or registered trademarks used in this Annual Report on Form 10-K are the property of their respective owners.
+ 
+The Company relies on a combination of patents, copyrights, trademarks and trade secrets, as well as confidentiality agreements, to establish and protect its intellectual property worldwide. The Company has filed numerous foreign and domestic patent right applications directed to its magicJack device and other products with E911 capability, emergency call routing, emergency call location determination, and other technologies. At present, the Company owns seven issued utility patents and two issued design patents in the United States, and it is the licensee (in one case, the exclusive licensee) of several issued United States patents. The Company is also actively researching new technologies and improvements to its existing technologies and intends to pursue intellectual property right protection for these technologies to the extent permissible by law and prudent for its business. The patents owned by the Company expire through or by April 2032. Many of the Company’s software and communication solutions have been developed internally and are proprietary.
+ 
+Although the Company does not believe that its products infringe any valid claim of a patent owned by any third party, third parties have asserted infringement and other claims against it from time to time. These claims have been directed at certain basic and fundamental components of the Company’s products. There can be no assurance that third parties will not assert such claims against the Company in the future or that such claims will not be successful.
+ 
+Effects of Governmental Regulations
+ 
+
+In the United States, the Company’s Enterprise and SMB segments are subject to federal regulation under the rules and regulations of the Federal Communications Commission (“FCC” or the “Commission”) and various state and local regulations. The Company believes that, under current regulations, the Company’s Core Consumer segment, and its magicJack, LP subsidiary, is not an interconnected VoIP provider subject to those regulations.
+
+The Company provides broadband telephone services using VoIP technology and/or services treated as information services by the FCC. The Company is also licensed as a Competitive Local Exchange Carrier (“CLEC”) and is subject to extensive federal and state regulation applicable to CLECs. The FCC has to date asserted limited statutory jurisdiction and regulatory authority over the operations and offerings of certain providers of broadband telephone services, including non-interconnected VoIP. FCC regulations may now, or may in the future, be applied to the Company’s broadband telephone operations. Other FCC regulations apply to the Company because it operates servers and provides international calling capability. Some of the Company’s operations are also subject to regulation by state public utility commissions (“PUCs”).
+ 
+ 8
+ 
+Intercarrier Compensation
+ 
+On November 18, 2011, the FCC released a Report and Order (the "FCC Order") and Further Notice of Proposed Rulemaking that comprehensively reforms the system under which regulated service providers compensate each other for terminating interstate and intrastate traffic. Regulated service providers are free to negotiate alternative arrangements, but the FCC Order establishes default rates in the absence of agreements between regulated service providers. The rules adopted by the FCC provide for a multiyear transition to a national bill-and-keep framework as the ultimate end state for all telecommunications traffic terminated by a local exchange carrier. Under bill-and-keep, providers do not charge an originating carrier for terminating traffic and instead recover the costs of termination from their own customers.
+ 
+Pursuant to the FCC Order, rates are lowered for the most common termination functions performed by regulated service providers when exchanging traffic. The transition period depends on the type of regulated service provider. After the relevant transition is complete, service providers will be required to recoup certain termination costs directly from their customers and not from other service providers. As part of this transition, depending on the particular function performed and the type of regulated service provider, the rate for inter- and intrastate traffic was reduced to $0.0007 per minute effective July 1, 2016 for the most common termination functions performed by price cap regulated service providers and their competitors. Beginning July 1, 2018, these regulated service providers must recover the costs associated with the provision of terminating services from their customers rather than from other service providers.
+ 
+The FCC Order also establishes new rules concerning traffic exchanged over Public Switch Telephone Network (“PSTN”) facilities that originates or terminates in Internet Protocol format, referred to as “VoIP-PSTN” traffic. As with traditional and wireless telecommunications traffic, regulated service providers will ultimately be required to recoup all costs associated with terminating such traffic from their customers. But as part of the transition to that end point, the FCC Order adopts a VoIP-PSTN specific framework for compensation between regulated service providers, establishing two rates for such traffic: toll and local. The toll rate will match the relevant interstate access rate for traditional telecommunications traffic and the local rate will match the reciprocal compensation rate associated with traditional telecommunications traffic. Further, the FCC Order allows regulated service providers to tariff charges associated with handling VoIP-PSTN traffic in a manner consistent with the FCC’s rules, which took effect on December 29, 2011.
+ 
+The FCC Order broadly reformed the system of default rates that apply to payments between regulated service providers going forward, but did not resolve past disputes. While the rates for termination of VoIP-PSTN traffic are ultimately reduced, the FCC's ruling may provide the certainty needed to collect interstate access charges for such traffic during the transition to bill-and-keep. To the extent that another provider were to assert that the traffic we exchange with them is subject to higher levels of compensation than we, or the third parties terminating our traffic to the PSTN, pay today (if any), our termination costs could initially increase, but ultimately will be reduced as the intercarrier compensation system transitions to bill-and-keep.
+ 
+The FCC clarified in January 2015 that its VoIP symmetry rule does not require a CLEC or its VoIP provider partner to provide the physical last-mile facility to the VoIP provider’s end user customers in order to provide the functional equivalent of end office switching, and thus for the CLEC to be eligible to assess access charges for this service. The ruling confirms that the VoIP symmetry rule is technology and facilities neutral and applies regardless of whether a CLEC’s VoIP partner is a facilities-based or over-the-top VoIP provider. However, in November 2016, the U.S. Court of Appeals for the D.C. Circuit vacated the FCC’s ruling. The Company cannot predict how the D.C. Circuit’s decision will affect the amounts the Company collects and/or pays to other providers in connection with the exchange of its traffic.
+ 
+E911 Calling
+ 
+The FCC has required providers of interconnected VoIP services to provide 911 emergency calling capabilities to their customers. While the Company believes it is not an interconnected VoIP provider as currently defined by the FCC and thus is not subject to the FCC’s 911 rules, it nevertheless provides some 911 capability for its customers. In September 2010, the FCC released a nationwide industry "Notice of Inquiry" seeking additional comments on a number of issues including, but not limited to, whether nomadic interconnected VoIP providers should be required to offer automatic location information of their users without customers providing location information. The FCC also sought comment on how far it can extend E911 obligations to other types of companies including device manufacturers, software developers and others. In July 2011, the FCC released a Second Further Notice of Proposed Rulemaking, seeking comment on various issues including (i) whether to apply the FCC's 911 rules to "outbound-only" interconnected VoIP services (i.e., services that support outbound calls to the PSTN but not inbound voice calling from the PSTN); (ii) whether to develop a framework for ensuring that all covered VoIP providers can provide automatic location information for VoIP 911 calls; and (iii) whether to revise the FCC's definition of interconnected VoIP service to require an "Internet connection" rather than a broadband connection, and to "define connectivity in terms of the ability to terminate calls to all or substantially all United States E.l64 telephone numbers." As part of the same release, the FCC included a Notice of Proposed Rulemaking that sought comment on whether any amendment of the definition of interconnected VoIP service should be limited to 911 purposes, or should apply more broadly to other contexts. In September 2011, the FCC released a Notice of Proposed Rulemaking seeking comment on what role the FCC should play to facilitate the implementation of "next generation" 911 capabilities, including, for example, the short-term implementation of text-to-911 solutions; the prioritization of 911 traffic, especially during times of natural and manmade disasters; long-term implementation of IP-based alternatives for delivering text, photos, videos, and other data to 911; and the path towards integration and standardization of IP-based text-to-91l. At this time, the Company cannot predict the outcome of these proceedings nor can it predict their potential impact on its business. The Company’s VoIP E911 services are more limited than the 911 services offered by traditional wireline telephone companies. These limitations may cause significant delays, or even failures, in callers' receipt of emergency assistance.
+ 
+ 9
+ 
+Many state and local governments have sought to impose fees on customers of VoIP providers, or to collect fees from VoIP providers, to support implementation of E911 services in their area. Such fees are often put in terms of a fee placed on monthly bills, or focused on use from a specific location. The application of such fees with respect to magicJack users and the Company is not clear because various statutes and regulation may not cover the Company's services, the Company does not bill its customers monthly, nor does it bill customers at all for telecommunications services. The Company may also not know the end user's location because the magicJack devices and services are nomadic. If fees are owed, they are owed by the end user and not the Company, as most statutes, to the extent they apply, would have the Company act as a billing and collection agent. Should a regulatory authority require payment of money from the Company for such support, magicJack LP may decide to not offer its 911 service in that area or to develop a mechanism to collect fees from its customers, which may or may not be satisfactory to the entity requesting us to be a billing agent. The Company cannot predict whether the collection of such additional fees or limitations on where its services are available would impact customers’ interest in purchasing its products.
+ 
+In 2013 as a result of settlement of litigation, the Company agreed that it would, at least once a year, issue bills for 911 emergency calling services to all U.S. customers who have access to 911 services through their magicJack services, and who have provided a valid address in a U.S. jurisdiction that provides access to 911 services and which is legally empowered to impose 911 charges on such users in accordance with applicable state and/or local law. 
+ 
+Certain E911 regulatory authorities have asserted or may assert in the future that the Company is liable for damages, including end user assessed E911 taxes, surcharges and/or fees, for not having billed and collected E911 fees from its customers in the past or in the future. Although the Company strongly disagrees with these assertions and believes that any such authority’s claims are without merit, if a jurisdiction were to prevail, the decision could have an adverse effect on the Company’s financial condition and results of operations.
+ 
+Network Neutrality
+ 
+On January 14, 2014, the D.C. Circuit Court of Appeals, in Verizon v. FCC, struck down major portions of the FCC’s 2010 “net neutrality” rules governing the operating practices of broadband Internet access providers. The FCC originally designed the rules to ensure an “open Internet” and included three key requirements for broadband providers: 1) a prohibition against blocking websites or other online applications; 2) a prohibition against unreasonable discrimination among Internet users or among different websites or other sources of information; and 3) a transparency rule compelling the disclosure of specific information about the broadband service, including network management policies. The Court struck down the first two rules, concluding that they constitute “common carrier” restrictions that are not permissible given the FCC’s earlier decision to classify Internet access as an “information service,” rather than a “telecommunications service.” The Court upheld the FCC’s transparency rule.
+ 
+In response to the D.C. Circuit’s decision, the FCC released an order in March 2015 adopting new net neutrality rules. In doing so, the FCC reclassified broadband Internet access - the retail broadband service mass-market customers buy from cable, phone, and wireless providers - as a telecommunications service regulated under Title II of the Communications Act of 1934, although the FCC agreed to forbear from many requirements of Title II. Significantly, the new rules will apply equally to fixed and mobile broadband networks.
+ 
+The FCC adopted three new bright-line rules as follows:
+ 
+ 
+· | No Blocking: Broadband providers may not block access to legal content, applications, services, or non-harmful devices.
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+· | No Throttling: Broadband providers may not impair or degrade lawful Internet traffic on the basis of content, applications, services, or non-harmful devices.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | No Paid Prioritization: Broadband providers may not favor some lawful Internet traffic over other lawful traffic in exchange for consideration of any kind - in other words, no “fast lanes.” This rule also bans Internet Service Providers (ISPs) from prioritizing content and services of their affiliates.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+The FCC also adopted a fourth new rule in the form of a forward-looking standard. This rule is intended to address concerns that may arise with new practices that do not fall within one of the three bright line rules. It will be applied on a case-by-case basis to address questionable practices as they occur that unreasonably interfere with or unreasonably disadvantage the ability of consumers to use or for providers to make available lawful content, applications, services, or devices.
+ 
+ 10
+ 
+The FCC also adopted enhanced transparency requirements with which broadband providers must comply.  After the FCC’s new net neutrality rules went into effect in June 2015, various broadband providers and their trade associations challenged the FCC’s decision before the U.S. Court of Appeals for the D.C. Circuit.  In June 2016, the D.C. Circuit issued its decision upholding the FCC’s rules. Various parties have filed petitions seeking rehearing en banc of the D.C. Circuit’s decision, which remain pending, and the current FCC chairman had expressed his intent to revisit the FCC’s rules. The Company cannot predict the outcome of these proceedings.
+ 
+However, a decision by a court or the FCC striking down or narrowing the FCC’s net neutrality rules could adversely impact the Company’s business to the extent legal prohibitions against broadband providers blocking, throttling, or otherwise degrading the quality of the Company’s data packets or attempting to extract additional fees from the Company or its customers are eliminated.  A court or the FCC also could find that the FCC lacks legal authority to regulate broadband services, which could prevent the FCC from adopting new rules to govern the operating practices of broadband providers.
+ 
+Universal Service Fund (“USF”) and Other Funds
+ 
+The FCC and many PUCs have established USF programs to ensure that affordable telecommunications services are widely available in high cost areas and for low income telephone subscribers and to promote universal availability of modern networks capable of providing voice and broadband service. In addition to USF, the FCC imposes other fees to meet the costs of establishing and maintaining a numbering administration system, to recover the shared costs of long-term number portability, and to contribute to the Telecommunications Relay Services (“TRS”) Fund. All telecommunications carriers and other providers are required to contribute to these funds, including interconnected VoIP providers. The FCC and many PUCs have for a number of years been considering substantial changes to the USF system including changes in contribution methodology. Some proposals, if adopted, could have a material adverse effect on the Company.
+ 
+The FCC has also indicated its intent to reexamine the current USF contribution methodology, which may include requiring contributions based on revenues from broadband and other Internet Protocol-based services.  The Company cannot predict how any changes to the current USF contribution methodology may affect its business at this time. 
+ 
+On February 3, 2015, the FCC released a policy statement for a new methodology for calculating forfeitures for violations of the USF and other federal program payment rules. Under the new treble damages methodology, each violator’s apparent base forfeiture liability will be three times its delinquent debts to the USF, TRS fund, Local Number Portability (“LNP”) fund, North American Numbering Plan (“NANP”) fund, and regulatory fee programs. As before, each single failure to pay a federal program assessment constitutes a separate violation that continues until the assessment is fully paid. The methodology will be used in future enforcement actions, although a group of industry trade associations have petitioned the Commission for review and a stay of this methodology. At this time the Company cannot predict the impact, if any, this policy statement will have on the Company’s operations in the event the Company is found to have violated the Communications Act or FCC rules.
+ 
+Customer Privacy and Promotional Activities
+ 
+The Company is subject to various federal and state laws and regulations seeking to protect the privacy of customers’ personal information that restrict the Company’s ability to use such information for marketing and promotional purposes. The FCC limits telephone companies’ and interconnected VoIP providers’ use of customer proprietary network information (“CPNI”) such as telephone calling records without customer approval, and requires those companies to protect CPNI from disclosure. Federal and state laws also limit the Company’s and other companies’ ability to contact customers and prospective customers by telemarketing, email or fax to advertise services.
+Communications Assistance for Law Enforcement Act (“CALEA”)
+ 
+In September 2005, the FCC concluded that interconnected VoIP service providers must comply with the CALEA and configure their network and services to support law enforcement activity in the area of wiretaps and call records. The Company provides CALEA-compliant services even though the Company believes it is not an interconnected VoIP provider subject to CALEA.
+ 
+Services for the Disabled
+ 
+Interconnected VoIP providers and manufacturers of specially designed equipment used to provide those services must take steps to ensure that individuals with disabilities, including hearing impaired and other disabled persons, have reasonable access to their services, if such access is readily achievable.  The Company believes it is not an interconnected VoIP provider as currently defined by the FCC.
+ 
+ 11
+ 
+
+Number Portability
+ 
+The FCC requires interconnected VoIP providers to comply with LNP rules that allow subscribers remaining in the same geographic area to switch from a wireless, wireline or VoIP provider to any other wireless, wireline or VoIP provider and keep their existing phone numbers. The Company provides LNP, even though the Company believes it is not an interconnected VoIP service provider subject to the LNP rules.
+Outage Reporting
+ 
+In 2012, the FCC adopted a Report and Order requiring interconnected VoIP providers to report significant service outages to the FCC. The Report and Order defines outage reporting for interconnected VoIP service, establishes reporting criteria and thresholds, and discusses how the reporting process should work, what information should be reported, and confidential treatment of the outage reports. The Company believes it is not an interconnected VoIP provider subject to the outage reporting rules.
+ 
+Discontinuance of Service Reporting
+ 
+
+The FCC requires interconnected VoIP providers to file an application with the Commission and obtain approval prior to discontinuing, reducing, or impairing service. The Company believes it is not an interconnected VoIP provider subject to the service discontinuance rules.
+
+Annual Traffic and Revenue Reports
+ 
+In January 2013, the FCC extended annual traffic and revenue reporting requirements to non-interconnected VoIP service providers.  Carriers engaged in providing international telecommunications service, and companies engaged in providing VoIP service connected to the PSTN, between the United States and any foreign point are required to file a report with the Commission showing revenues, payouts, and traffic for international telecommunications service and VoIP service connected to the PSTN provided during the preceding calendar year. The FCC is considering eliminating or narrowing its current international traffic reporting requirements.  At this time the Company cannot predict the impact, if any, that these reporting requirements will have on the Company’s operations.
+Broadband and Telephone Competition Reporting
+ 
+Interconnected VoIP service providers, facilities-based providers of broadband connections to end user locations, providers of wired or fixed wireless local exchange telephone service, and facilities-based providers of mobile telephony service are required to submit to the FCC on an annual basis a Broadband and Telephone Competition Report.  Through the report the FCC collects information to analyze the deployment of broadband infrastructure and competition. The Company believes it is not an interconnected VoIP provider subject to submitting a Broadband and Telephone Competition Report.
+Effects of State Regulations
+ 
+The Company has been, and will continue to be, subject to a number of PUC and other state regulations that govern the terms and conditions of the Company’s offerings, including billing practices, 911 fees, distribution of telephone numbers, customer disputes and other consumer protection matters. The Company cannot predict the outcome of current or future proceedings, nor can it predict the potential impact on the Company's business.
+Rural Call Completion Reporting
+ 
+To the extent a covered provider makes the initial long-distance path choice for more than 100,000 domestic retail subscriber lines, the provider is subject to the FCC’s record retention and reporting requirements.  Specifically, the provider must record and retain information about call attempts to rural operating company numbers (“OCN”s) and must submit certified reports for call attempts to both rural and non-rural OCNs. The FCC’s Wireline Competition Bureau has clarified that: (1) covered providers may not count unanswered call attempts as answered calls under the FCC’s data retention and reporting rules; and (2) the explanatory notes in Appendix C of the FCC’s Order that describe “answered” calls and “busy,” “ring no answer,” and “unassigned number” call attempts are intended to serve as examples rather than exclusive definitions. As part of their quarterly reports to the FCC, covered providers should explain the method they used to identify these call attempt categories. The Company is currently collecting and reporting the required data. At this time, the Company cannot predict the impact, if any, that these reporting requirements will have on the Company’s operations.
+ 
+ 12
+ 
+
+State and Municipal Taxes
+ 
+The Company believes that it files all required state and municipal tax returns and pays all required state and municipal taxes (such as sales, excise, utility, and ad valorem taxes), fees and surcharges. The Company’s Enterprise and SMB segments remit state and municipal taxes as required in the states where they are registered to do business. The Company believes that its Core Consumer segment is exempt from certain taxes, fees and surcharges because it does not charge for telephone services or render bills to its customers. The Company’s Core Consumer segment remits sales tax in Florida on sales of magicJack units because of the personnel, property and activities of its magicJack LP subsidiary that are in Florida. Certain states and municipalities may disagree with the Company’s policies regarding the Core Consumer business and may believe it should be remitting taxes for past or future sales on certain items or services. Although the Company strongly disagrees and believes any possible claims are without merit, if a state or municipality were to prevail, the decision could have an adverse effect on the Company’s financial condition and results of operation. magicJack LP does not have activities or have representation in any other states. However, many states are changing their statutes and interpretations thereof as part of new streamlined sales tax initiatives to collect sales taxes from nonresident vendors that sell merchandise over the Internet to in state customers. The Company’s Core Consumer segment may at some time be required to collect and remit sales taxes to states other than Florida. The Company’s Core Consumer business may also become required to pay other taxes, fees and surcharges to a large number of states and municipalities as a result of statutory changes in the basis on which such taxes, fees and surcharges are imposed. In the event that the Company’s Core Conusmer segment is required to collect sales taxes or other taxes from direct sales for states other than Florida on the sale of magicJack devices or on the renewal of our service offerings, the Company will bill and collect such taxes from our customers. The Company will examine any future fees and surcharges imposed as a result of statutory changes and determine on a case by case basis whether to bill its customers or increase the initial or access right sales prices to cover the additional fees and surcharges.
+Regulatory Environment
+ 
+In addition to the foregoing regulations to which the Company may be subject directly, changes to FCC and PUC regulations could affect the services, and the terms and conditions of service, the Company is able to provide. Moreover, changes to any regulations to which the Company is subject directly or indirectly could create uncertainty in the marketplace that could reduce demand for its services, increase the cost of doing business as a result of costs of litigation or increased service delivery cost or could in some other manner have a material adverse effect on the Company’s business, financial condition or results of operations. Any new legislation or regulation, or the application of laws or regulations from jurisdictions whose laws do not currently apply to the Company’s business, could have a material adverse effect on its business.
+ 
+Executive Officers of the Registrant
+ 
+The following sets forth certain information regarding the Company’s executive officers as of the filing date of this annual report (unless otherwise indicated):
+ 
+ 
+NAME | AGE | POSITION 
+----------------+-----+--------------------------------------------------------------------------
+Don C. Bell III | 47 | President, Chief Executive Officer and Director (effective March 9, 2017)
+Gerald Vento | 69 | President, Chief Executive Officer and Director (until March 9, 2017) 
+Jose Gordo | 43 | Chief Financial Officer 
+
+
+
+ DON C. BELL III, President, Chief Executive Officer & Director Nominee. Mr. Bell was nominated to the Company’s Board on December 29, 2016, and was appointed Chief Executive Officer by the Board on March 9, 2017. Prior to joining the Company, he was the owner and general partner of Tidal Capital LLC since April 2011, and President of Trigg Partners since August 2014. He was President and Principal Owner of Tidal Research, LLC from 2007 to 2011. From 2003 to 2006, he served as Senior Vice President of Marketing and Corporate Development at IPC Systems, Inc. From 2001 to 2003, he was Vice President of Clearwire Technologies. From 1998 to 2001, he was an Investment Banker in the Mergers and Strategic Advisory Department of Goldman Sachs.  He is an independent director of Wireless Telecom Group and serves as the chairman of its Compensation Committee and is a member of its Nomination and Governance Committee.  He was an independent director of TeleCommunication Systems Inc. from 2015 through its sale to Comtech Telecommunications in 2016, and served as a member of the Compensation Committee and the Nomination and Governance Committee and as Chairman of the Special Committee formed to evaluate and oversee the sales process.  Mr. Bell was an independent director of NTS, Inc. from 2012 through the sale of the Company to Tower Three Partners in 2014, and served as a member of the Special Committee formed in connection with such sale.  Mr. Bell holds a Master’s Degree in Business Administration from The Wharton School, University of Pennsylvania, and graduated from St. John’s College with a BA in Classics. Mr. Bell’s operating, finance and public director experience in the telecom and technology industry qualify him to serve on the Company’s Board of Directors.
+ 
+ 13
+ 
+
+GERALD VENTO, President, Chief Executive Officer and Director. Mr. Vento was appointed as the Company’s Chief Executive Officer effective as of January 1, 2013. Mr. Vento was appointed to the Company's Board upon the consummation of the business combination between VocalTec and YMax on July 16, 2010, served as Chairman of the Company’s Board from April 1, 2012 to December 31, 2012 and was appointed Chief Executive Officer and President effective January 1, 2013. Mr. Vento has served as a Director of YMax since 2008. Mr. Vento previously served as a member of the Board of Managers of Velocity Express, LLC, a privately held transportation and logistics company, from 2009 through 2012, and its CEO and Executive Chairman from 2011 to 2012. Mr. Vento served as the CEO and Executive Chairman of Westec Intelligent Surveillance, a privately held video surveillance security company, from 2004 through 2009, and continued to serve as a director of Westec through 2012. From 1996 to 2002, Mr. Vento served as the Chief Executive Officer of TelCorp PCS Inc. From 1993 to 1995, he served as the Vice Chairman and Chief Executive Officer of Sprint Spectrum/American PCS, L.P., where he oversaw the development of the first PCS network in the United States.
+JOSE GORDO, Chief Financial Officer.  Mr. Gordo was appointed as the Company’s Chief Financial Officer on May 10, 2013.  Mr. Gordo joined magicJack in early 2013. In 2011, he co-founded Southcap Partners, a managing general partnership with investments in medium-sized companies. Prior to that, Mr. Gordo was a Managing Director of a private equity firm and was a partner at the national law firm of Akerman LLP, where he specialized in corporate law matters; advising public and private companies and investment firms on mergers & acquisitions and capital markets transactions. He received a J.D. degree from Georgetown University Law Center and a B.A. degree from the University of Miami.
+Employees
+ 
+
+As of December 31, 2016, the Company had 186 full-time employees, of whom 172 were in the United States, 2 were in Poland and 12 were in Israel. The Company’s employees are not represented by a labor union. The Company believes that its relations with its employees are good. In Israel, the Company’s relations with employees are governed by labor regulations that provide for specific terms of employment between the Company and its employees.
+
+Neither the Company’s employees nor the Company are parties to any collective bargaining agreements, except for provisions of such agreements that are applicable to the industry in which the Company is engaged by virtue of expansion orders of the Israeli Ministry of Labor and Welfare issued under applicable Israeli laws.
+ 
+ Available Information
+ 
+The Company’s annual report on Form 10-K (or Form 20-F for prior years), quarterly reports on Form 10-Q, current reports on Form 8-K (or Form 6-K for filings up to December 31, 2011), Proxy Statements, specialized disclosure reports on Form SD, as well as any amendments to those reports, will be provided in electronic format, free of charge, upon request, as soon as reasonably practicable after they are filed with or furnished to the SEC. You can learn more about the Company by reviewing its SEC filings under the "Financial Information" tab on its web site at http://www.vocaltec.com. The investor relations section of our website also includes charters for our audit committee and compensation committee of our board of directors, as well as our code of ethics that applies to all of our employees, officers and directors, including our chief executive officer and our chief financial officer.
+ 
+The SEC also maintains a website at http://www.sec.gov that contains reports, proxy statements and other information about SEC registrants, including magicJack VocalTec. You may also obtain these materials at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. You can obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ 
+References to the Company’s website and the SEC’s website in this report are provided as a convenience and do not constitute, and should not be viewed as, incorporation by reference of the information contained on, or available through, such websites.
+
+
+ 14
+ 
+

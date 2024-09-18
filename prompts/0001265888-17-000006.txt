@@ -1,0 +1,319 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+
+Our Business
+We help clients grow and guard their business with the most complete understanding of how to connect people, places, and things using our authoritative OneIDTM system. As the leader in connection sciences, we use our expertise in real-time addressing, authentication, and analytics to provide marketing, risk security, registry, and communications solutions to over 11,000 clients. Our cloud-based platforms and differentiated data sets offer informative, real-time analytics, which enable clients to make actionable, data-driven decisions. We provide chief marketing officers a comprehensive suite of services to plan their media spend, identify and locate desired customers, invest effectively in marketing campaigns, deliver relevant offers and measure the performance of these activities. Security professionals use our solutions to maximize web performance and protect against malicious attacks. We enable the exchange of essential operating information across multiple carriers to provision and manage services, assisting clients with fast and accurate order processing and immediate routing of customer inquiries. We provide communications service providers in the United States critical infrastructure that enables the dynamic routing of calls and text messages.
+We incorporated in Delaware in 1998. Our principal executive offices are located at 21575 Ridgetop Circle, Sterling, Virginia, 20166, and our telephone number at that address is (571) 434-5400.
+Our Services 
+Marketing Services
+Our Marketing Services empower clients to make informed and high impact decisions in real time to promote their business, increase customer retention, achieve greater campaign success and increase their marketing return on investment, as well as mitigate risk and fraud. Using these services, our clients can plan and execute marketing strategies and measure the effectiveness of advertising campaigns across multiple channels with advanced marketing analytics, custom segmentation and media optimization. Marketers also use our omni-channel workflow solutions to tailor their media spend, efficiently reach specific audiences, and measure campaign performance across an array of devices. 
+Our Marketing Services provide:
+
+• | Customer Intelligence. We provide authoritative, cloud-based solutions that enable marketers to identify, verify and segment existing and potential customers in real-time for both marketing initiatives and for fraud and risk mitigation. Using a privacy-by-design foundation, these solutions provide clients with a comprehensive view of their customers and prospects most likely to purchase their products and services based on attributes such as demographics, geography, and buying propensities. Our services enable clients to plan data-driven marketing strategies, develop high-impact advertising and lead generation campaigns and execute informed media planning for consistent execution across multiple channels to increase customer conversions. 
+
+3
+
+
+
+• | Activation. Our activation services enable marketers to maximize the impact of online display ad targeting for specific prospect audiences and customers. Our predictive segmentation and geo-targeting capabilities enable clients to reach online customers with relevant messages, by deploying criteria based on buying propensity, geography or a combination of each, in a privacy-compliant manner. 
+
+
+• | Media Intelligence. We provide a platform that enables marketers to plan and allocate their marketing spend across sales channels and media platforms. We provide measurement and attribution capabilities to optimize marketing effectiveness. Our solutions connect proprietary customer data, such as sales, pricing, promotions, and distribution, with external factors, such as macro-economic conditions, competition, and weather, to tailor marketing spending plans and measure the resulting business impact. Our platform links actual business performance, such as sales and profitability, to every facet of the marketing plan across offline and online channels. 
+
+Security Services
+We direct and manage the flow of Internet traffic, resolve Internet queries and provide security protection against cyber attacks. We also manage authoritative domain-name registries. 
+Our Security Services provide:
+
+• | DNS Services. Our domain name systems, or DNS, solutions protect our client’s Internet ecosystem and defend most standard transmission control protocol based applications, including, among others, websites, email servers, application programming interfaces, and databases. Our managed and recursive DNS services deliver fast, accurate responses to online queries with the scalability that today’s enterprises demand. In addition, we provide load-testing analysis to help an enterprise prepare for peak loads on new and existing systems. 
+
+
+• | DDoS Protection. We provide cloud-based Distributed Denial of Service, or DDoS, protection services that help our clients reduce risk, downtime and revenue loss from cyber attacks. Our extensive diagnostics and multi-domain views give clients a holistic perspective both inside and outside their firewalls. We also provide early detection and alerting against cyber attacks, and provide advanced services that strengthen and protect an enterprise’s defenses against such attacks. 
+
+
+• | Domain Name Registries. We operate the authoritative registries of Internet domain names for the .biz, .us, .co, .au, and .travel top-level domains, and provide international registry gateways. We also provide back-end support for generic top-level domains, or gTLDs, such as .nyc. All Internet communications routed to any of these domains must query a copy of our directory to ensure that the communication is routed to the appropriate destination. 
+
+Data Services
+We manage large, complex and hard-to-replicate data sets that enable clients to process decisions and transactions in real time. Our workflow solutions enable the exchange of essential operating information with multiple carriers in order to provision and manage services. Our clients use our services to support multiple applications that rely on high speed, reliable and secure transfer of critical information.
+Our Data Services provide:
+
+• | Carrier Provisioning. We provide network services that enable our carrier customers to exchange essential operating information with multiple carriers to provision and manage services for their subscribers. In addition, we offer inventory management services that allow our carrier customers to manage efficiently their assigned telephone numbers and associated resources. 
+
+
+• | Caller Authentication. We provide authoritative, accurate and current caller-name data and related information to communications service providers. We also store and publish caller-name data on behalf of our carrier customers. 
+
+
+• | User Authentication and Rights Management. We operate the user authentication and rights management system, which supports the UltraViolet™ digital content locker that consumers use to access their entertainment content. We operate a managed service that offers a global routing and addressing solution to help clients optimize their evolving interconnected business. 
+
+NPAC Services
+Number portability administration center, or NPAC, Services include the dynamic routing of calls and text messages among all competing communications service providers in the United States and related connection services and system 
+4
+
+
+enhancements. We operate and maintain authoritative databases that help manage the increasing complexity in the telecommunications industry. Our NPAC Services provide the foundation for subscriber acquisition in a robust and competitive telecommunications market. These services support the industry’s needs for real-time network and resource optimization, and also support additional services including public safety, law enforcement, emergency preparedness, disaster recovery, and efficient telephone number utilization. The NPAC is the world’s largest and most complex number management system with connections to over 4,800 individual customers in the United States and is a critical component of the national telecommunications network infrastructure.
+Operations 
+Sales Force and Marketing 
+We operate a unified marketing and sales organization in order to promote more effectively our brand and go to market with our solutions. Our sales and marketing teams are aligned by industry vertical. This model allows us to deliver solutions that address the most critical challenges of our clients’ business. Our experienced sales and marketing staff have extensive knowledge of the industries we serve and understand how our products and services address our clients’ priorities and needs.  We employ a wide array of direct and indirect sales approaches and marketing strategies, and we base our strategy on our analysis of market requirements, client needs, and industry direction.  As of December 31, 2016, our sales and marketing organization consisted of 555 people who work together to offer our clients advanced services and solutions.
+Operational Capabilities 
+We provide our services through our state-of-the-art data centers and remotely hosted computer hardware located in third-party facilities throughout the world. Our data centers, including third-party facilities, are custom designed for processing and transmitting high volumes of transaction-related, time-sensitive data in a highly secure environment. We are committed to employing best-of-breed tools and equipment for application development, infrastructure management, operations and information security management. In general, we subscribe to the highest level of service and responsiveness available from each third-party vendor that we use. Further, to protect the integrity and ensure the reliability of our systems, the major components of our networks are generally designed with the intention of eliminating any single point of failure.
+We consistently meet and frequently exceed our contractual service level requirements. Our performance results for certain services are monitored internally and are subjected to independent audits on a regular basis.
+Research and Development 
+We maintain a research and development group, the principal function of which is to develop new and innovative services and make improvements to existing services, oversee quality control processes and perform application testing. Our processes surrounding the development of new services and improvements to existing services focus on resolving the challenges our clients face. We employ industry experts in areas of technology that we believe are key to solving these challenges. Our quality control and application testing processes focus predominantly on resolving highly technical issues that are integral to the performance of our services and solutions. These issues are identified through both internal and external feedback mechanisms, and continuous testing of our applications and systems to ensure uptime commensurate with the service level standards we have agreed to provide to our clients. As of December 31, 2016, we had 173 employees dedicated to research and development, including software engineers, quality assurance engineers, technical project managers and documentation specialists. Our research and development expense was $27.7 million, $25.7 million and $28.2 million for the years ended December 31, 2014, 2015 and 2016, respectively.
+Clients and Markets 
+We primarily serve clients in the following industries:
+
+• | Communications. Our clients include telecommunications services providers, as well as emerging providers of voice over Internet protocol, or VoIP, services, social media, and message aggregation. Within this industry, we provide services in numbering, caller authentication, carrier provisioning, and marketing analytics. 
+
+
+• | Financial Services. Our clients span several financial sectors, including retail banking, collections, insurance, credit cards and investments. Within this industry, we provide verification for risk and compliance mitigation, web infrastructure protection, demographic analytics, digital marketing and measurement, and call center experience optimization. 
+
+
+• | Media and Advertising. Our clients include both the buy-side and sell-side of the advertising and media landscapes, including advertisers, agencies, ad enablers, publishers and performance marketing providers. Within this industry, 
+
+5
+
+
+we provide marketing solutions that enable identification and audience targeting, optimization of media investments and measurement of campaign effectiveness. 
+
+• | Retail and eCommerce. Our clients include department stores, travel and hospitality companies, consumer packaged goods providers, educational institutions and auto parts manufacturers. Within this industry, we primarily provide marketing data analytics, media intelligence platform services, and Internet infrastructure services. 
+
+
+• | Internet. Our clients include eCommerce, consumer Internet services (e.g. social networks), and online gaming companies. Within this industry, we primarily provide security services such as managed DNS, website personalization, and protection against cyber attacks, as well as marketing analytics and measurement. 
+
+
+• | Technology. Our clients include hardware, consumer electronics, software, SaaS companies and high-tech manufacturers. Within this industry, we primarily provide security services such as protection against cyber attacks and website personalization, as well as call center optimization. 
+
+No single corporate entity accounted for more than 10% of our total revenue in 2016. Our clients include corporate entities, each of which is separately billed for the services we provide, regardless of whether it may be affiliated with one or more of our other clients. The amount of our revenue derived from clients inside the United States was $901.1 million, $973.6 million and $1,110.2 million for the years ended December 31, 2014, 2015 and 2016, respectively. The amount of our revenue derived from clients outside the United States was $62.5 million, $76.3 million and $99.7 million for the years ended December 31, 2014, 2015 and 2016, respectively. The amount of our revenue derived under our contracts with North American Portability Management LLC, or NAPM, an industry group that represents all telecommunications service providers in the United States, was $474.8 million, $507.1 million and $512.3 million for the years ended December 31, 2014, 2015 and 2016, respectively, and represented 49%, 48% and 42% of our revenue for the years ended December 31, 2014, 2015 and 2016, respectively. Our total revenue from our contracts with the NAPM includes revenue from our NPAC Services, transition services, connection services related to our NPAC Services and NPAC-related system enhancements. 
+We currently operate in one operating segment. A single management team reports to the chief operating decision maker who manages the entire business. We do not operate any separate lines of businesses or separate business entities with respect to the sale and support of our services. For further discussion of enterprise-wide results, including goodwill and intangible assets, revenue, total long-lived assets, as well as information concerning our international operations, see Note 4 and Note 15 to our Consolidated Financial Statements in Item 8 of Part II of this report.
+Competition 
+We have a number of competitors for our services:
+
+• | Marketing Services. Our primary competitors include Acxiom Corporation, Adobe Systems Incorporated, salesforce.com, inc., and Oracle Corporation, which compete with us in customer intelligence, activation, and media intelligence. 
+
+
+• | Security Services. Our competitors include Akamai Technologies, Inc. which competes with us in services that protect against cyber attacks. With respect to our registries, our primary competitors include VeriSign, Inc. and Afilias Limited. With respect to our managed DNS services, our competitors include VeriSign, Inc., Cloudflare, Inc., and Cisco Systems, Inc. 
+
+
+• | Data Services. Our competitors include AT&T Inc., Ericsson, Synchronoss Technologies, Inc. and Syniverse Technologies, LLC. 
+
+
+• | NPAC Services. We are currently the only provider of Local Number Portability Administrator, or LNPA, services in the United States. On March 26, 2015, the Federal Communications Commission, or FCC, approved the selection by the North American Numbering Council, or NANC, of Telcordia, d/b/a iconectiv, a wholly owned subsidiary of Ericsson, to serve as the LNPA for the next contract term. On July 1, 2016, the NAPM provided us with a notice of non-renewal informing us of its election not to renew our master contracts to provide LNPA services that were due to expire on September 30, 2016. We will continue to provide LNPA services and transition services at the pricing terms under the current contracts until the NAPM provides at least one termination notice, which must establish a termination date that is 180 days after the date of notice. On July 25, 2016, the FCC approved a Master Services Agreement between Telcordia and the NAPM to serve as the next LNPA. On August 31, 2016, the NAPM’s Transition Oversight Manager, or TOM, announced that it plans for the LNPA transition from us to Telcordia to be complete by May 25, 2018. (For more information regarding the selection process, see “Risk Factors — Risks Related to Our Business — When our seven contracts with North American 
+
+6
+
+
+Portability Management LLC are terminated, the timing of which is uncertain, our revenue and profitability will be materially adversely affected.” in Item 1A of this report).
+With respect to our contracts to act as the North American Number Plan Administrator, the National Pooling Administrator, and the operator of the authoritative registry for the .us, .co, .au and .biz Internet domain names, the relevant counterparty could elect not to exercise the extension period under the contract, if applicable, or could allow the contract to terminate in accordance with its terms. If any of these contracts were allowed to terminate, or otherwise were not extended, we could be required to compete with other providers for the right to continue to provide the services we are currently providing under these contracts. 
+Competitive factors in the market for our services include breadth and quality of services offered, reliability, security, cost-efficiency, privacy compliance and client support. Our ability to compete successfully depends on numerous factors, both within and outside our control, including:
+
+• | our responsiveness to clients’ needs;
+
+
+• | our ability to support existing and new industry standards and protocols;
+
+
+• | our ability to continue to develop technical innovations and invest in product development; and
+
+
+• | the quality, reliability, security and price-competitiveness of our services.
+
+We may not be able to compete successfully against current or future competitors and competitive pressures that we face may materially and adversely affect our business. See “Risk Factors — Risks Related to Our Business — The markets for our services are competitive, and if we do not adapt our organization and services to meet rapid technological and market change, we could lose clients or market share.” in Item 1A of this report.
+Employees
+As of December 31, 2016, we had 1,988 employees. None of our employees are currently represented by a labor union. We have not experienced any work stoppages and consider our relationship with our employees to be good.
+Contracts
+We provide many of our services pursuant to private commercial and government contracts. Specifically, in the United States, we provide centralized wireline and wireless number portability services pursuant to seven regional contracts with the NAPM, and implement the allocation of pooled blocks of telephone numbers and manage the North American Numbering Plan pursuant to contracts with the FCC. Although the FCC has plenary authority over the administration of telephone number portability, it is not a party to our contracts with the NAPM. The FCC has delegated limited oversight responsibilities to the NANC, which reviews and oversees the NAPM’s management of these contracts. See — “Regulatory Environment — Telephone Numbering.” 
+Our seven regional contracts with the NAPM provide for an annual fixed-fee pricing model under which the annual fixed fee, or Base Fee, was set at $465.8 million, $496.1 million and $496.1 million in 2014, 2015 and 2016, respectively. If the actual volume of transactions in a given year is above or below the contractually established volume range for that year, the Base Fee may be adjusted up or down, respectively, with any such adjustment being applied in the following year.
+Under the fixed-fee model, our fees are billed to telecommunications service providers based on their allocable share of the total annual charges. This allocable share is based on each respective telecommunications service provider’s share of the aggregate end-user services revenue of all U.S. telecommunications service providers, as determined by the FCC. Under these contracts, we also bill to our clients a revenue recovery collections fee, or RRC fee, equal to a percentage of monthly billings, which is available to us if any telecommunications service provider fails to pay its allocable share of total transaction charges. If the RRC fee proves insufficient for that purpose, these contracts also provide for the recovery of such differences from the remaining telecommunications service providers. Under these contracts, users of our NPAC Services also pay fees to connect to our data center and additional fees for reports that we generate at the user’s request. 
+As noted above, on July 1, 2016, we received a notice of non-renewal from the NAPM informing us of its election not to renew our master agreements to provide LNPA services that were due to expire on September 30, 2016. On July 25, 2016 the FCC issued an Order approving the proposed contract between the NAPM and a competitor to serve as the next LNPA. On September 29, 2016, the NAPM provided notice to extend the term of our master contracts and opted not to license the source code that we use to provide services to the NAPM. We will continue to provide services and transition services at the pricing terms under the current contracts until the NAPM provides at least one termination notice to us, which must establish a 
+7
+
+
+termination date that is 180 days after the date of notice. (See “Risk Factors — Risks Related to Our Business — When our seven contracts with North American Portability Management LLC are terminated, the timing of which is uncertain, our revenue and profitability will be materially adversely affected.” in Item 1A of this report).
+We also provide wireline and wireless number portability and network management services in Canada pursuant to a contract with the Canadian LNP Consortium Inc., a private corporation composed of telecommunications service providers who participate in number portability in Canada. The Canadian Radio-Television and Telecommunications Commission oversees the Canadian LNP Consortium’s management of this contract. We bill each telecommunications service provider for our services under this contract primarily on a per-transaction basis. In November 2016, this contract was amended to continue through December 31, 2028. The services we provide under the contracts with the NAPM and the Canadian LNP Consortium are subject to rigorous performance standards, and we are subject to corresponding penalties for failure to meet those standards.
+We serve as the North American Numbering Plan Administrator and the National Pooling Administrator pursuant to two separate contracts with the FCC. Under these contracts, we administer the assignment and implementation of new area codes in North America, the allocation of central office codes (which are the prefixes following the area codes) to telecommunications service providers in the United States, and the assignment and allocation of pooled blocks of telephone numbers in the United States in a manner designed to conserve telephone number resources. The North American Numbering Plan Administration contract is a fixed-fee government contract that was originally awarded by the FCC to us in 2003. In July 2012, we were awarded a new contract to serve as the North American Numbering Plan Administrator for a term not to exceed five years. The National Pooling Administration contract was originally awarded to us by the FCC in 2001. Under this contract, we perform the administrative functions associated with the allocation of pooled blocks of telephone numbers in the United States. The terms of this contract provide for a fixed fee associated with the administration of the pooling system. In July 2013, the FCC awarded us a new contract to continue as the National Pooling Administrator. The initial contract term was one year, commencing in July 2013, with three possible one-year extensions exercisable at the election of the FCC. The FCC has exercised the first three options, the most recent in July 2016, extending the current contract through July 14, 2017.
+We are the operator of the .biz Internet top-level domain by contract with the Internet Corporation for Assigned Names and Numbers, or ICANN. The .biz contract was originally granted to us in May 2001. In August 2013, the .biz contract was extended through June 30, 2019. Similarly, pursuant to a contract with the U.S. Department of Commerce, originally awarded in October 2001, we operate the .us Internet top-level domain. The Department of Commerce recently conducted a competitive procurement process with respect to this contract, and as a result of this competitive process, we were awarded the contract on February 28, 2014. This new contract is for a term of three years, with two additional one-year extension options exercisable at the election of the Department of Commerce. The Department of Commerce exercised the first option in January 2017, extending the current contract through February 28, 2018.
+The .biz and .us contracts allow us to provide domain name registration services to domain name registrars, who pay us on a per-name basis.
+Regulatory Environment 
+Telephone Numbering
+Overview.  Congress enacted the Telecommunications Act of 1996 to remove barriers to entry in the communications market. Among other things, the Telecommunications Act of 1996 mandates portability of telephone numbers and requires traditional telephone companies to provide non-discriminatory access and interconnection to potential competitors. The FCC has plenary jurisdiction over issues relating to telephone numbers, including telephone number portability and the administration of telephone number resources. Under this authority, the FCC promulgated regulations governing the administration of telephone numbers and telephone number portability. In 1995, the FCC established the NANC, a federal advisory committee, to advise and make recommendations to the FCC on telephone numbering issues, including telephone number resources administration and telephone number portability. The members of the NANC include representatives from local exchange carriers, interexchange carriers, wireless providers, VoIP providers, manufacturers, state regulators, consumer groups, and telecommunications associations.
+Telephone Number Portability.  The Telecommunications Act of 1996 requires telephone number portability, which is the ability of users of telecommunications services to retain existing telephone numbers without impairment of quality, reliability, or convenience when switching from one telecommunications service provider to another. Through a competitive proposal process, a consortium of service providers representing the communications industry selected us to develop, build and operate a solution to enable telephone number portability in the United States. We ultimately entered into seven regional contracts to administer the system that we developed, after which the NANC recommended to the FCC, and the FCC approved, our selection to serve as a neutral administrator of telephone number portability. The FCC also directed the seven original regional entities, each comprising a consortium of service providers operating in the respective regions, to manage and oversee the 
+8
+
+
+administration of telephone number portability, subject to NANC oversight. Under the rules and policies adopted by the FCC, the NAPM, as successor in interest to the seven regional consortiums, has the power and authority to manage and negotiate changes to the current master agreements.
+On November 3, 2005, BellSouth Corporation, or BellSouth, filed a petition with the FCC seeking changes in the way our clients are billed for services provided by us under our contracts with the NAPM. In response to the BellSouth petition, the FCC requested comments from interested parties. As of February 24, 2017, the FCC had not initiated a formal rulemaking process and the BellSouth petition remains pending. Similarly, on May 20, 2011, Verizon Communications Inc. and Verizon Wireless Inc. filed a joint petition, the Verizon Petition, with the FCC seeking a ruling that certain carrier initiated modifications of NPAC records be excluded from the costs of the shared NPAC database and be paid for instead by the provider that caused such costs to be incurred. In response to the Verizon Petition, the FCC requested comments from interested parties. On April 18, 2013, the FCC initiated a rulemaking concerning interconnected VoIP providers direct access to telephone numbers in which it asked for comment on the question of whether the FCC should initiate a rulemaking to examine the FCC’s cost allocation rules for number administration, portability and pooling more generally. As of February 24, 2017, the FCC had not initiated a formal rulemaking process and the Verizon Petition remains pending. 
+After the amendment of our contracts with the NAPM in September 2006, Telcordia Technologies, Inc., d/b/a iconectiv, a wholly owned subsidiary of the Swedish telecommunications equipment manufacturer, Ericsson, filed a petition with the FCC requesting an order that would require the NAPM to conduct a new bidding process to appoint a provider of telephone number portability services in the United States. In response to our amendment of these contracts in January 2009, Telcordia filed another petition asking that the FCC abrogate these contracts and initiate a government-managed procurement in their place. As part of the order selecting iconectiv as the next LNPA, the FCC granted these petitions to the extent consistent with its order and otherwise denied these petitions. (See “Risk Factors — Risks Related to Our Business — When our seven contracts with North American Portability Management LLC are terminated, the timing of which is uncertain, our revenue and profitability will be materially adversely affected.” in Item 1A of this report).
+North American Numbering Plan Administrator and National Pooling Administrator.  We have contracts with the FCC to act as the North American Numbering Plan Administrator and the National Pooling Administrator, and we must comply with the rules and regulations of the FCC that govern our operations in each capacity. We are charged with administering numbering resources in an efficient and non-discriminatory manner, in accordance with FCC rules and industry guidelines developed primarily by the Industry Numbering Committee. These guidelines provide governing principles and procedures to be followed in the performance of our duties under these contracts. The communications industry regularly reviews and revises these guidelines to adapt to changed circumstances or as a result of the experience of industry participants in applying the guidelines. A committee of the NANC evaluates our performance against these rules and guidelines each year and provides an annual review to the NANC and the FCC. If we violate these rules and guidelines, or if we fail to perform at required levels, the FCC may reevaluate our fitness to serve as the North American Numbering Plan Administrator and the National Pooling Administrator and may terminate our contracts or impose fines. The division of the NANC responsible for reviewing our performance as the North American Numbering Plan Administrator and the National Pooling Administrator has determined that, with respect to our performance in 2015, we “met” our performance guidelines under each such respective review. Similar reviews of our performance in 2016 have not yet been completed.
+Neutrality.  Under FCC rules and orders establishing the qualifications and obligations of the North American Numbering Plan Administrator and National Pooling Administrator, and under our contracts with the NAPM to provide telephone number portability services, we are required to comply with neutrality regulations and policies. Under these neutrality requirements, we are required to operate our numbering plan, pooling administration and number portability functions in a neutral and impartial manner, which means that we cannot favor any particular telecommunications service provider, telecommunications industry segment or technology or group of telecommunications consumers over any other telecommunications service provider, industry segment, technology or group of consumers in the conduct of those businesses. We are examined periodically on our compliance with these requirements by independent third parties. The combined effect of our contracts and the FCC’s regulations and orders requires that we:
+
+• | not be a telecommunications service provider, which is generally defined by the FCC as an entity that offers telecommunications services to the public at large, and is, therefore, providing telecommunications services on a common carrier basis, or an interconnected VoIP provider;
+
+
+• | not be an affiliate of a telecommunications service provider or VoIP provider, which means, among other things, that we:
+
+
+• | must restrict the beneficial ownership of our capital stock by telecommunications service providers, VoIP providers or affiliates of a telecommunications service provider or VoIP provider; and
+
+9
+
+
+
+• | may not otherwise, directly or indirectly, control, be controlled by, or be under common control with, a telecommunications service provider or VoIP provider;
+
+
+• | not derive a majority of our revenue from any single telecommunications service provider; and
+
+
+• | not be subject to undue influence by parties with a vested interest in the outcome of numbering administration and activities. Notwithstanding our satisfaction of the other neutrality criteria above, the NANC or the FCC could determine that we are subject to such undue influence. The NANC may conduct an evaluation to determine whether we meet this “undue influence” criterion. 
+
+We are required to maintain confidentiality of competitive client information obtained during the conduct of our business. In addition, as part of our neutrality framework, we are required to comply with a code of conduct that is designed to ensure our continued neutrality. Among other things, our code of conduct, which was approved by the FCC, requires that:
+
+• | we never, directly or indirectly, show any preference or provide any special consideration to any telecommunications service provider;
+
+
+• | we prohibit access by our stockholders to user data and proprietary information of telecommunications service providers served by us (other than access of employee stockholders that is incidental to the performance of our numbering administration duties);
+
+
+• | our stockholders take steps to ensure that they do not disclose to us any user data or proprietary information of any telecommunications service provider in which they hold an interest, other than the sharing of information in connection with the performance of our numbering administration duties;
+
+
+• | we not share confidential information about our business services and operations with employees of any telecommunications service provider;
+
+
+• | we refrain from simultaneously employing, whether on a full-time or part-time basis, any individual who is an employee of a telecommunications service provider and that none of our employees hold any interest, financial or otherwise, in any company that would violate these neutrality standards;
+
+
+• | we prohibit any individual who serves in the management of any of our stockholders from being involved directly in our day-to-day operations;
+
+
+• | we implement certain requirements regarding the composition of our Board of Directors;
+
+
+• | no member of our Board of Directors simultaneously serves on the Board of Directors of a telecommunications service provider; and
+
+
+• | we hire an independent party to conduct a quarterly neutrality audit to ensure that we and our stockholders comply with all the provisions of our code of conduct.
+
+In connection with the neutrality requirements imposed by our code of conduct and under our contracts, we are subject to a number of neutrality audits that are performed on a quarterly and annual basis. In connection with these audits, all of our employees, directors and officers must sign a neutrality certification that states that they are familiar with our neutrality requirements and have not violated them. Failure to comply with applicable neutrality requirements could result in government fines, corrective measures, curtailment of contracts or even the revocation of contracts. See “Risk Factors — Risks Related to Our Business — Failure to comply with neutrality requirements could result in loss of significant contracts.” in Item 1A of this report.
+In contemplation of the initial public offering of our securities, we sought and obtained FCC approval for a “safe harbor” from previous orders of the FCC that allowed us to consummate the initial public offering for our securities but required us to seek prior approval from the FCC for any change in our overall ownership structure, corporate structure, bylaws, or distribution of equity interests, as well as certain types of transactions, including the issuance of indebtedness by us. Under the safe harbor order, we are required to maintain provisions in our organizational and other corporate documents that require us to comply with all applicable neutrality rules and orders. We are no longer required to seek prior approval from the FCC for many of these changes and transactions, although we are required to provide notice of such changes or transactions. In addition, we are subject to the following requirements under the safe harbor order:
+
+• | we may not issue more than 50% of our aggregate outstanding indebtedness to any telecommunications service provider;
+
+10
+
+
+
+• | we may not acquire any equity interest in a telecommunications service provider or an affiliate of a telecommunications service provider without prior approval of the FCC;
+
+
+• | we must restrict any telecommunications service provider or affiliate of a telecommunications service provider from acquiring or beneficially owning 5% or more of our outstanding capital stock;
+
+
+• | we must report to the FCC the names of any telecommunications service providers or telecommunications service provider affiliates that own a 5% or greater interest in our Company;
+
+
+• | we must make beneficial ownership records available to our auditors, and must certify upon request that we have no actual knowledge of any ownership of our outstanding capital stock by a telecommunications service provider or telecommunications service provider affiliate other than as previously disclosed; and
+
+
+• | we must make our debt records available to our auditors and certify that no telecommunications service provider holds more than 50% of our aggregate outstanding indebtedness.
+
+Internet Domain Name Registrations 
+We are also subject to government and industry regulation under our Internet registry contracts with the U.S. government and ICANN, the industry organization responsible for regulation of Internet top-level domains. We are the operator of the .biz Internet domain under a contract with ICANN, as described above under “Contracts.” Similarly, pursuant to a contract with the U.S. Department of Commerce, we operate the .us Internet domain registry. This contract is also described above under “Contracts.” Under each of these registry service contracts, we are required to:
+
+• | provide equal access to all registrars of domain names;
+
+
+• | comply with Internet standards established by the industry; and
+
+
+• | implement additional policies as they are adopted by the U.S. government or ICANN.
+
+Intellectual Property 
+Our success depends in part upon our proprietary technology and patents. We rely principally upon trade secret and copyright law to protect our technology, including our software, network design, and subject matter expertise. We enter into confidentiality and license agreements with our employees, consultants, outsourcing suppliers, partners, distributors, clients, and potential clients and limit access to and distribution of our software, documentation, and other proprietary information. We believe, however, that because of the rapid pace of technological change, these legal protections for our services are less significant factors in our success than the knowledge, ability, and experience of our employees and the timeliness and quality of our services. 
+Available Information and Exchange Certifications
+We maintain an Internet website at www.neustar.biz. Information contained on, or that may be accessed through, our website is not part of this report. Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available, free of charge, on the Investor Relations section of our website under the heading “SEC Filings by NeuStar,” as soon as reasonably practicable after we electronically file such reports with, or furnish those reports to, the U.S. Securities and Exchange Commission, or the SEC. Our Principles of Corporate Governance, Board of Directors committee charters (including the charters of the Audit Committee, Compensation Committee, and Nominating and Corporate Governance Committee) and code of ethics entitled “Corporate Code of Business Conduct” also are available on the Investor Relations section of our website. Stockholders may request free copies of these documents, including a copy of our annual report on Form 10-K, by sending a written request to our Corporate Secretary at NeuStar, Inc., 21575 Ridgetop Circle, Sterling, VA 20166. In the event that we make any changes to, or provide any waivers from, the provisions of our Corporate Code of Business Conduct, we intend to disclose these events on our website or in a report on Form 8-K within four business days of such event.
+We have filed, as exhibits to this Annual Report on Form 10-K, the certification of our principal executive officer and principal financial officer regarding the quality of our public disclosures, which is required to be filed with the SEC, under Section 302 of the Sarbanes Oxley Act of 2002.
+11
+
+
+Cautionary Note Regarding Forward-Looking Statements
+This report contains forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as “may,” “will,” “should,” “expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” “continue” or the negative of these terms or other comparable terminology. These statements relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Many of these risks are beyond our ability to control or predict. These risks and other factors include those listed under “Risk Factors” in Item 1A of this report and elsewhere in this report and include:
+
+• | the occurrence of any event, change or other circumstance that could give rise to the termination of the merger agreement;
+
+
+• | the failure to satisfy required closing conditions under the merger agreement, including, without limitation, obtaining required regulatory approvals and the approval of our stockholders, or the failure to complete the merger in a timely manner;
+
+
+• | risks related to disruption of management’s attention from our ongoing business operations due to the pendency of the merger;
+
+
+• | the effect of the announcement of the merger on our operating results and businesses generally and our relationships with employees, customers, suppliers and regulators;
+
+
+• | the outcome of any legal proceedings that may be instituted against us and others relating to the merger agreement;
+
+
+• | the impact of the pending merger on our strategic plans and operations and our ability to respond effectively to competitive pressures, industry developments and future opportunities;
+
+
+• | termination, modification, expiration or non-renewal of (or announcements related to any of the foregoing) our contracts to provide telephone number portability and other directory services;
+
+
+• | failures or interruptions of our systems and services;
+
+
+• | loss of, or damage to, a data center;
+
+
+• | security or privacy breaches;
+
+
+• | adverse changes in statutes or regulations affecting the communications industry;
+
+
+• | our failure to adapt to rapid technological change in the communications industry;
+
+
+• | competition from our clients’ in-house systems or from other providers of information services;
+
+
+• | our failure to achieve or sustain market acceptance at desired pricing levels;
+
+
+• | a decline in the volume of transactions we handle;
+
+
+• | inability to manage our growth;
+
+
+• | economic, political, regulatory and other risks in the regions and industries in which we operate;
+
+
+• | inability to obtain sufficient capital to fund our operations, capital expenditures and expansion;
+
+
+• | loss of members of senior management, or inability to recruit and retain skilled employees;
+
+
+• | failure to comply with neutrality requirements,
+
+
+• | risks related to our indebtedness and the impact that it may have on our functional and operating activities;
+
+
+• | inability to protect our intellectual property;
+
+
+• | inability to obtain accurate data required for our information services;
+
+
+• | disruption, increased costs and other risks related to our international expansion; and
+
+12
+
+
+
+• | risks relating to the integration of acquired businesses, including the ability of acquired businesses to retain their existing business relationships and key employees.
+
