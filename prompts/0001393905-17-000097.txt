@@ -1,0 +1,139 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Our History and Background
+
+Our business was incorporated in New Mexico in 1996 under the name of New Mexico Software, Inc. We were acquired by Raddatz Exploration, Inc., a publicly traded Delaware corporation, in 1999. At that time, Raddatz changed its name to NMXS.com, Inc., and operated New Mexico Software, Inc. as a wholly-owned subsidiary. On January 1, 2006, NMXS.com, Inc. merged into its newly incorporated, wholly-owned subsidiary, New Mexico Software, Inc., a Nevada corporation, for the sole purpose of changing its state of incorporation and its name. On January 1, 2013, we changed our name to Net Medical Xpress Solutions, Inc.
+
+In May 2008, we created a wholly-owned subsidiary called Telerad Service, Inc. to provide teleradiological services. Beginning in January 2012, Telerad Service, Inc. has operated under the trade names Net Medical Xpress Services and Net Medical Xpress Specialists.
+
+On July 1, 2013, we purchased MedTel Solutions, LLC (MedTel), an Alabama limited liability company. MedTel was organized on June 13, 2012 for the purpose of engaging in the business of providing licensed medical practitioners to perform services via telemedicine. On November 1, 2014, MedTel Solutions, LLC was absorbed into Telerad Service, Inc.
+
+Our primary address on the World Wide Web is www.nmxs.com. We use several additional web addresses, including www.netmedical.com and www.nmxc.net, which broadcast the same information as www.nmxs.com. The information at that web site is not part of our annual report, and we specifically disclaim any liability under federal securities law related to the web site.
+
+Our Business
+
+We provide wide-ranging and unique solutions for the rapidly expanding multi-billion-dollar telemedicine industry. We recruit and maintain an extensive cadre of telemedicine physicians that we provide to the industry, together with highly proprietary software that links electronic medical records while facilitating state-of-the-art conferencing and communications. We also offer a call center, unique hardware implementations, staffing and recruiting operations, diagnostic and clinical services, and advanced research and development capabilities.
+
+During the past year the lines between our previously identified business segments have become increasingly blurred and arbitrary as we provide ever more integrated products and services. Discrete financial information for separate segments is not readily available, and we do not market our products separately. As a result, we have determined that we only have one business segment - physician services. All of our product and service offerings discussed in the next section are in support of, and integrated with, physician services.
+
+Our Products and Services
+
+Software
+ One of our most valuable assets is the investment made over many years in proprietary software. In addition to our core system that we use to build a customized telemedicine management system for clients, we offer the following applications that simplify the administrative aspects of patient care so that our physicians can spend more time on actual patient care:
+
+1
+
+·
+ Our Telemedicine Building Blocks is now available for existing customers, and as an online service for doctors offices, hospitals and clinics to take advantage of telemedicine services. It includes our WebRTC video conferencing capability, digital paper, prescription services and Quest lab ordering and is integrated into a very simple one login, one button technology.
+ ·
+ Digital Paper can take any paper form and turn it into an easy online fill-out list, then turn it into an actual PDF as required by insurance companies and hospitals
+ ·
+ Single Pane of Glass Software allows a provider to be connected into a video conference with a patient while simultaneously displaying up to five additional applications running on the same screen
+ ·
+ Electronic Prescription System is provided for physicians in private practice who do not have their own prescription software
+ ·
+ Electronic Prior Authorization System connects to health plans and pharmacies to verify prior authorization requirements related to medical tests, procedures, devices and drugs that require pre-approval by insurers
+ ·
+ Electronic Medical Records (EMR) provides the ability to connect with 43 different hospital EMR systems
+
+Hardware
+ Although we do not simply resell hardware as a wholesaler, we have engineered and developed several exclusive and proprietary hardware products that we offer to our customers:
+
+·
+ Web Real Time Communications (WebRTC) is our advanced televideo conferencing system. A Dell OptiPlex all-in-one touch screen computer is the user interface. It is equipped with a specific integrated circuit that comes with our own operating system, networking interface and Wi-Fi connectivity.
+ ·
+ We have developed a proprietary medical cart that is exclusive to us, that includes the Dell OptiPlex described above, along with our proprietary software and a state-of-the-art camera.
+ ·
+ Several Net Medical USB digital diagnosing tools can be plugged into the OptiPlex, including a USB stethoscope, USB dermascope, USB digital microscope and otoscope.
+
+Physicians
+ Our group of physicians is also one of our greatest assets. We currently have 32 physicians on staff, plus approximately 200 that have been credentialed and are ready to contract with us to provide services. We provide physicians that can perform a variety of physician services:
+
+·
+ Video clinical services such as neurology and stroke assessment, behavioral assessment, and critical care
+ ·
+ Diagnostic services, including radiology and cardiology
+ ·
+ Video primary care services
+
+Management and administrative services
+ We provide a variety of additional services that are essential to a complete telemedicine program:
+
+·
+ Credentialing services (verifying the qualifications of healthcare providers) are required for hospitals to grant privileges to the providers so that the providers can deliver the necessary care to patients
+ ·
+ Our call center is operated 24 hours per day, seven days per week and 365 days per year
+ ·
+ Recruiting and staffing services locate telemedicine physicians for our customers who use our services, as well as for customers who wish to contract directly with a physician
+ ·
+ We provide professional liability insurance for all physicians contracted with us
+
+2
+
+Our Customers and Competition
+
+Our customers range from companies that use our primary care physicians to provide services to individuals, to mobile radiology companies that use our physicians to provide services to nursing homes and jails, to hospitals that use our physicians to provide video consultations for their patients.
+
+We are participating in a $15.1 million federal grant with the University of New Mexico Health Science Center to establish a statewide 30 hospital telemedicine network to support critical cerebral emergency support services. The grant was awarded by the Center for Medicare and Medicaid Services (CMS) to help CMS study the impact of providing telemedicine for critical care services in rural areas. The project calls for the university to form a statewide 30-hospital telehealth system (THS) in conjunction with Net Medical Xpress Solutions for a three-year period. The program will provide remote emergency neurological consultations using Net Medical's video conferencing equipment and telemedicine management services. The added goal of the model is to maintain patient care in the local facility without needing patient transport to tertiary care hospitals when non-operative care is appropriate.
+
+The entire telemedicine market has become exceptionally competitive over the last five years. We have observed increasingly intense downward pressure on prices for radiological services during that time, even though margins for these services were already low when we entered the market. The market for video consultations by specialists and primary care physicians is projected to grow at approximately 18-19% over the next five years according to various industry analyses. Our current strategy is to take advantage of this growth with the goal of being well-established by the time the market matures.
+
+We have three categories of competitors: equipment vendors only, such as Cisco and Polycom; independent doctors groups, of which there are hundreds across the country; and all-in-one telemedicine services, such as Banner Health and the Mayo Clinic. Our primary method of competing with these companies is to offer a complete package of software, hardware and physician services that none of these companies offers. In addition, we are constantly adding to our services. Recent examples of innovations are our new electronic prior authorization system and electronic prescription system.
+
+The integration of our business across multiple telemedicine segments is beneficial as the competition in the industry increases, because it allows us the flexibility to shift priorities and take advantage of any areas of new technological development.
+
+Our Technology
+
+Our technology is the key to our product differentiation. We engineer our products around a central core of unique Internet technology. This proprietary technology makes it possible to rapidly view, distribute and manage a variety of media files such as documents, graphic images, animation sequences, film clips, audio files, x-rays, other medical images and high-definition media streams.
+
+The value of our core technology is that it provides maximum flexibility in the presentation of digital images to the customer, and integrates general browsing capabilities with specific search capabilities, along with the security of hierarchical access all in one product.
+
+Business Strategy
+
+The healthcare situation in the U.S. faces a growing number of critical issues. The fastest growing segment of the population is people over 65 years of age. Obesity is still on the rise. The diagnosis of chronic diseases continues to increase, and many patients with chronic diseases need regular monitoring. If these facts are coupled with the projected shortage of healthcare personnel over the next couple of decades, we believe that our healthcare system will need to become considerably more effective and efficient in order to expand access to care with reasonable costs.
+
+3
+
+We believe that telemedicine provides safe, effective services while reducing costs in a wide variety of medical applications, such as avoiding unnecessary patient transports, providing support for hospital overflows, providing increased services in remote or rural areas, providing services in jails and prisons, decreasing the length of some patient stays, providing increased home management of chronic diseases, providing improved post-discharge follow-up care to avoid unnecessary hospital readmissions, providing enhanced care in critical care or intensive care units and increasing access to specialized services. Telemedicine technology can potentially increase patient safety and reduce costs for healthcare providers by providing enhanced diagnostic capabilities with quick turn-around times.
+
+We know of no other telemedicine company that can provide the comprehensive range of services that we offer: the complex array of proprietary software and custom-built hardware that is completely integrated with our physician diagnostic and clinical services.
+
+Our current business strategy involves the following factors:
+
+·
+ Continue to expand our array of software applications.
+
+·
+ Continue to expand the variety of physician services we offer.
+
+·
+ Continue to expand our group of doctors.
+
+·
+ Continue to offer exceptionally prompt and thorough customer service, with outstanding quality.
+
+·
+ Using social media to our advantage to educate potential customers about the benefits of telemedicine.
+
+Our Intellectual Properties
+
+We have several proprietary aspects to our software that we believe make our products unique and desirable in the marketplace. We believe the compiled object code that is accessible to our customers makes it difficult to discover the source code needed to create other similar programs, even though the code we use originates from Open Source. Because we maintain our enterprise source code on dedicated servers in our Albuquerque data center, it provides better protection and security of our products.
+
+We have entered into confidentiality and non-disclosure agreements with our employees and contractors in order to limit access to, and disclosure of, our proprietary information. There is no assurance that these contractual arrangements or the other steps we have taken to protect our intellectual property will prove sufficient to prevent misappropriation of our technology or to deter independent third-party development of similar technologies.
+
+Although we do not believe that we infringe the proprietary rights of third parties, there is no assurance that third parties will not claim infringement by us with respect to past, current, or future technologies. It is possible that participants in our markets will be increasingly subject to infringement claims as the number of services and competitors in our industry grows. Any such claim, whether meritorious or not, could be time-consuming, result in costly litigation, cause service upgrade delays, or require us to enter into royalty or licensing agreements. Such royalty or licensing agreements may not be available on terms acceptable to us or at all. As a result, any such claim could have a material adverse effect upon our business, results of operations, and financial condition.
+
+4
+
+Government Regulation
+
+Our operations, products, and services are all subject to regulations set forth by various federal, state and local regulatory agencies. We take measures to ensure our compliance with all such regulations as promulgated by these agencies from time to time.
+
+The Health Insurance Portability and Accountability Act (HIPAA) imposes standards for the use, dissemination and disclosure of protected health information. Protected health information is any information about health status, provision of health care, or payment for health care that can be linked with an individual. The act applies to any company that transmits health care data. The act encourages the use of electronic transmission of data within the U.S. healthcare system, and provides three types of security safeguards that are required for compliance: administrative, physical and technical. For each of these types, HIPAA identifies various security standards which must be adopted and administered by any entity covered by the act. Our software strictly adheres to the privacy and security standards dictated by HIPAA.
+
+There are currently few laws and regulations directly applicable to the Internet. It is possible that a number of laws and regulations may be adopted with respect to the Internet covering issues such as user privacy, pricing, content, copyrights, distribution, antitrust and characteristics and quality of products and services. The growth of the market for online commerce may prompt calls for more stringent consumer protection laws that may impose additional burdens on companies conducting business online. Tax authorities in a number of states are currently reviewing the appropriate tax treatment of companies engaged in online commerce, and new state tax regulations may subject us to additional state sales and income taxes.
+
+Employees
+
+At March 17, 2017, we had twenty three employees and independent contractors providing management, administrative, engineering and customer support functions. We consider our relationship with our employees to be good. We also have over two hundred physicians on contract, including radiologists, cardiologists, neurologists, psychiatrists and primary care physicians.

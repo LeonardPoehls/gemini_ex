@@ -1,0 +1,394 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+ 
+Forward-Looking Statements and Associated Risks. This Report contains forward-looking statements. Such forward-looking statements include statements regarding, among other things, (a) our projected sales and profitability, (b) our growth strategies, (c) anticipated trends in our industry, (d) our future financing plans, (e) our anticipated needs for working capital, and (f) the benefits related to ownership of our common stock. Forward-looking statements, which involve assumptions and describe our future plans, strategies, and expectations, are generally identifiable by use of the words “may,” “will,” “should,” “expect,” “anticipate,” “estimate,” “believe,” “intend,” or “project” or the negative of these words or other variations on these words or comparable terminology. This information may involve known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from the future results, performance, or achievements expressed or implied by any forward-looking statements. These statements may be found under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Business,” as well as in this Report generally. Actual events or results may differ materially from those discussed in forward-looking statements as a result of various factors, including, without limitation, the risks outlined under “Risk Factors” and matters described in this Report generally. In light of these risks and uncertainties, there can be no assurance that the forward-looking statements contained in this Report will in fact occur as projected.
+ 
+Background
+ 
+Vertical Computer Systems, Inc. (“Vertical”, “VCSY”, the “Company”, the “Registrant”, “we”, “our”, or “us”) was incorporated in the State of Delaware in March 1992. We operated as a non-reporting public shell company until October 1999, at which time we acquired all the outstanding capital stock of Externet World, Inc., an Internet service provider and became an operating entity. In April 2000, we acquired 100% of the outstanding common stock of Scientific Fuel Technology, Inc. (“SFT”), a company with no operations. Also in April 2000, we merged SFT into our company, as a consequence of which the outstanding shares of SFT were cancelled, Vertical became the surviving entity, and we assumed SFT’s reporting obligations pursuant to Rule 12g-3(a) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+ 
+Business Overview
+ 
+We are a global provider of application software, cloud-based and software services, Internet core technologies, and intellectual property assets through our distribution network with operations or sales in the United States, Canada and Brazil.
+ 
+Our business model combines complementary and integrated software products along with internet core technologies, in order to create a distribution matrix that we believe is capable of penetrating multiple sectors through cross-promotion.
+ 
+We developed a secure communication platform (based upon our patented and patent-pending software technologies) that we believe can change the nature of communication on the Internet by allowing and supporting development of applications in separate sectors. In addition, the technology underlying our communication platform has potential applications in the “Internet of Things” (IoT) market.
+ 
+VCSY’s secure communication platform eliminates the central server component in communications over the Internet, since the user has a web server installed on their mobile device, which may also be synchronized with their tablet, PC or other hardware components (i.e. storage disks). VCSY’s secure communication platform is for users who seek to obtain a higher level of security and protection for their information (including data, messages and images) and for private secure communication of information with other users.
+ 
+The first application built upon our secure communication platform is Ploinks™, a personal secure cloud communication channel which was developed by our subsidiary, Ploinks, Inc. Ploinks™ provides each user with the ability to protect their data (such as messages, images, and videos) from both unwanted data transmissions and from third parties gaining access and ownership rights to the user’s personal data without that user’s express permission. Ploinks™ is not a social media product, but users may still use all currently available social media applications. Ploinks™ provides users with a simple and new means to preserve and protect any personal data that the individual wants to keep control of. We launched Ploinks™ in February 2017 and plan to launch the Puddle™ service, a complimentary storage and backup service to Ploinks™ for personal data on Windows-based PCs and storage devices, that synchronizes with the user’s mobile device, in April 2017.
+ 
+
+2
+-
+
+Administrative Software
+ 
+Our main administrative application software, emPath®, which is designed to handle complex payroll and human resources challenges, is developed, marketed and maintained by NOW Solutions. emPath® is natively Web-based, which means that the application can easily be accessed with a web browser. NOW Solutions, a 75% owned subsidiary, is selling emPath® in the United States and Canadian markets both as a software solution and a Software-as-a-Service (“SaaS”) offering, also known as Cloud-based offering. For a description of our cloud computing model for emPath®, please see the section entitled “Cloud-based services” below.
+ 
+Our continuous effort to improve our emPath® product and its cloud-based offering has allowed us to finalize and launch our new module-based initiative under which certain payroll/human resource modules can be marketed independently from emPath® or bundled into a comprehensive solution. An upgrade version, EmPath® 7.0 is in beta testing with selected clients with a general release anticipated to be available in May 2017. Version 7.0 will significant improve the user experience and will support all the new modern browsers. In addition, there will be a performance increase in processing payroll for Empath’s large clients. Upon the completion of Ploinks™ Puddle™, there will be an approach to some of our emPath®’s clients to create an emPath® enterprise solution by making use of the VCSY secure communication platform.
+ 
+Our time and attendance software, PTS™, has been designed with the flexibility to meet the needs of a simple small business requirements as well as the most complex union-intensive clients through a rule-based time policy system coupled with a dashboardlets™ feature for presentations of information supporting numerous databases including Oracle, DB2 and SQL. For a description of this feature, please see the section entitled “Internet Core Technologies” below.
+ 
+PTS™ will be marketed as a stand-alone best-of-breed solution through Priority Time Systems, Inc. (“Priority Time”) as well as an integrated module within emPath®, which we will be marketing to emPath®’s existing customer base. Initial marketing efforts will be focused on the United States and Canadian markets.
+ 
+SnAPPnet™ is currently sold as a best-of-breed standalone solution through our subsidiary, SnAPPnet, Inc. We are in the process of upgrading SnAPPnet™ look and feel, along with expanding the functionality, to not only increase the market potential but to then integrate it with emPath®, so that it can also be sold to NOW Solutions’ customers as an emPath® module.
+ 
+
+3
+-
+
+ 
+
+We believe that our administrative software solutions, which offer lower set-up fees and faster implementation times compared to competing products, provide customers with significant upfront cost savings and substantial increases in productivity for administration of everyday operations.
+ 
+Cloud-Based Services
+ 
+In addition to our standard software licensing model, where the software is deployed, hosted and maintained internally by the customer, we are offering customers with an alternate delivery method: software-as-a-service, or simply “cloud-based.” Cloud-based is a software delivery model where the company develops, operates, and hosts the application in data centers for use by its customers over the Internet.
+ 
+A cloud-based service is a cost-effective, reliable and secure way for businesses to obtain the same benefits of commercially licensed, internally operated software, without the associated complexity and high start-up costs of deploying the software in-house or the need to dedicate IT people on staff to monitor and upgrade such a system. Such services are currently under evaluation as to the marketability of making use of the VCSY secure communication platform to create new business opportunities.
+ 
+After completing emPath® cloud-based model to ensure a robust and competitive solution, NOW Solutions began selling that offering to existing and new clients. The cloud-based model provides a highly reliable, secure and scalable infrastructure, enabling us not only to continue servicing and expanding our current market of mid to large sized customers but also to increase our market reach by offering a solution to smaller sized customers, which otherwise may not be able to afford an in-house solution.
+ 
+As an expanded product and as a result of our initial sales to customers with complex payroll, NOW Solutions has created a tailored cloud-based offering which provides these types of customers the cost benefits of a cloud computing model while meeting their complex requirements. We are also continuing to upgrade emPath® for our cloud computing offering utilizing emPath®’s powerful payroll component to provide private label contracting as well as distribution opportunities through existing payroll and HR providers in their local markets.
+ 
+PTS™, our time and attendance software, will also be offered as a cloud-based solution, as both a standalone product (through Priority Time and VHS) and an integrated module with emPath® (through NOW Solutions).
+ 
+SnAPPnet™, a physician credentialing application, is currently offered as a cloud-based solution. We are in the process of developing a registered nurse module of SnAPPnet™. In addition, we are adding some key new features to the software application as well as doing a design review to meet other potential markets for credentialing and markets in need of automated fillable forms. We are marketing SnAPPnet™ directly to hospitals and plan to offer it through VHS to physicians in the United States and to NOW Solutions’ existing customer base.
+ 
+Ploinks™ is a personal secure cloud-based product when the Puddle™ is synchronized with a user’s mobile device. Ploinks ™ is a monthly subscription based application.
+ 
+Software Services
+ 
+In addition to the application software and cloud-based services, we offer a full range of software services that include professional services, maintenance, custom maintenance and managed services.
+Internet Core Technologies 
+ 
+Internet core technologies provide the software foundation to support internet-based platforms for the delivery of individual software products that can be sold independently or combined with other software products for rapid deployment of all software products throughout our distribution system. We continue to develop specialized software applications that can be utilized in new products.
+ 
+Our first patented internet core technology is SiteFlash™. The SiteFlash™ technology utilizes XML and publishes content on the Web, enabling the user to build and efficiently operate websites with the unique ability to separate form, function, and content. SiteFlash™ uses an advanced component-based structure to separate, parse, and store the various components of even the most complex web pages, permitting these components to be named, organized, filed and eventually redeployed onto the web pages of a website. Once all of the components of a web page are converted into “objects,” they can be grouped, as required by the user, into the three main types of web page components: content, form and function. Content includes text, pictures or multimedia. Form includes graphics and website colors, layout and design. Function includes the activities performed by or actions executed on the website. In this way, each element of a website created using SiteFlash™ is interchangeable with any other similar element, and these elements may be grouped together in almost any combination to create complex websites. This separation of form, function, and content also allows for the rapid creation of affiliated websites. SiteFlash™ architectural concepts enable integration with existing technological components within many organizations. Additional key features of SiteFlash™’s are its affiliation/syndication capability, its multi-lingual capability, and its multi-modal framework (enabling use on any output device, including wireless devices such as smart phones, as well as cellular phones and other devices with Internet capability).
+ 
+
+4
+-
+
+ 
+
+The second patented Internet core technology we have developed is the Emily™ XML scripting language, a Markup Language Executive (MLE), which is Java compatible. XML is a flexible way to create common information formats and share both the format and the data on the World Wide Web, intranets, and elsewhere. The Emily™ Framework was developed to be an engineering package comparable to other Web development tools, such as Allaire Cold Fusion™ or Microsoft FrontPage™. The primary component of the Emily™ Framework is the Emily XML scripting language, a programming language that runs on Windows™, Linux and several UNIX platforms. The Emily™ Framework is used to create Web-based applications that communicate via XML and HTTP. HTTP is the set of rules for exchanging files (text, graphic images, sound, video, and other multimedia files) on the Web.
+ 
+The third patented Internet core technology we have developed is the combination of three components: the Emily™ XML Broker, the Emily™ XML Agent and the Emily™ XML Portal. This technology has been featured as an alternative to Web Services in the 4th Edition of the XML Handbook, by Dr. Charles Goldfarb, considered the father of XML and inventor of all markup languages. We are upgrading this technology for use in a new application we are developing simultaneously.
+ 
+The fourth Internet core technology is our secure communication platform based on a web server that was licensed to the Company, and subsequently patented by the Company. The communication platform will use the Emily™ technology, and other patented and patent-pending applications (like the SiteFlash™ patents). Using this secure communication platform, we launched our first product, Ploinks™, a personal secure communication channel through our subsidiary, Ploinks, Inc., in February 2017, along with the Puddle™, a complimentary storage and backup solution on Windows-based PCs and/or other storage devices to be released in April 2017, which will be synchronized with a user’s mobile device. Upon completion of the synchronization of the user’s mobile device and the Puddle™, Ploinks™ will be marketed as a secure personal cloud.
+ 
+Intellectual Property Assets 
+ 
+Our SiteFlash technology is based upon the following patents: a System and Method for Generating Web sites in an Arbitrary Object Framework. This unique ability is patented under U.S. Patent No. 6,826,744 and continuation patent U.S. Patent No. 7,716,629 as well as a continuation patent (U.S. Patent No. 8,949,780) of U.S. Patent No. 7,716,629.
+ 
+Our Emily™ core technology is the basis for a “Web-based collaborative data collection system”, which allows a disparate and distributed database to be viewed and updated as if it was a single large database. This unique ability is patented under U.S. Patent No. 7,076,521.
+ 
+Our Emily™ XML scripting language, coupled with other Company technology, is the basis for development of mobile applications. This unique ability is patented under U.S. Patent No. 8,578,266 and its continuation patent.
+ 
+Our patent for a “System and Method Running a Web Server on a Mobile Internet Device,” which is part of our Mobile Framework (the “MLE Framework") and covers the Tiny Web Server, which is also a component of our MLE Framework. This unique ability is patented under U.S. Patent No. 9,112,832.
+ 
+Our fiber optic patent is an invention for “Transmission of Images Over a Single Filament of Fiber Optic Cable” under U.S Patent No. 6718103.
+ 
+We also have other mobile technologies, which are patent-pending.
+ 
+Market Segments 
+ 
+Our current products address the following market segments:
+ 
+
+MARKET | PRODUCT | OWNERSHIP/LICENSOR | LICENSEE 
+--------------------------------------+-----------+--------------------+---------------------------
+Human Resources and Payroll | emPath® | NOW Solutions | VHS (a), Taladin (b) 
+Software development units | Emily™ | Vertical | VHS(a) 
+Time and Attendance | PTS™ | Priority Time | VHS (a), NOW Solutions (c)
+Healthcare Credentialing | SnAPPnet™ | SnAPPnet, Inc. | VHS (a), NOW Solutions (c)
+Personal Secure Communication Channel | Ploinks™ | Vertical | Ploinks, Inc.(d) 
+
+
+5
+-
+
+
+(a) | Physician market (including medical clinics but not including hospitals)
+----+-------------------------------------------------------------------------
+
+
+(b) | Government sector
+----+------------------
+
+
+(c) | Clients of NOW Solutions
+----+-------------------------
+
+
+(d) | Personal secure communication channel for individual consumers
+----+---------------------------------------------------------------
+
+Business Operations and Units
+ 
+Our business operations are grouped into the following units: NOW Solutions, Ploinks, Inc., Taladin, VHS, Priority Time Systems, SnAPPnet, Inc., Vertical do Brasil, and other subsidiaries with minimal or no activity and other limited interests. Each of the primary divisions is discussed below.
+
+6
+-
+
+NOW Solutions, Inc.
+ 
+NOW Solutions, a Delaware corporation, is a 75% owned subsidiary of the Company. NOW Solutions specializes in end-to-end, fully integrated human resources and payroll solutions. NOW Solutions has clients in the United States and Canada ranging from private businesses to government agencies, who typically employ 500 or more employees. NOW Solutions currently markets emPath®, a payroll and human resources and payroll solution. emPath® meets the needs for clients who have complex payroll where they may have employees from different unions, multiple locations in different states (U.S.) and provinces (Canada), and intricate compensation structures. We believe that the competitive advantage of emPath® is its speed of implementation through a formula-builder technology, which provides customers with rapid customization of payroll rules and calculations without the need for any programming expertise. NOW Solutions’ product suite is targeted to address the needs of management in today’s dynamic business environment and gives organizations a user-friendly, flexible, multi-lingual (i.e., English, Canadian French, Spanish, and Portuguese) software solution, without the multi-million dollar implementation and support budgets typically required to use the payroll and HR products of major competitors.
+ 
+NOW Solutions has converted some of its existing customers to its cloud-based model and is in the process of developing methods to introduce its cloud-based offering (supporting MS SQL, Oracle and DB2 databases) through distributors in the United States. During the conversion of one of our large complex customers and in discussions with other similar complex customers, we determined that there was a critical need and opportunity in providing a solution we are labeling “tailored cloud-based”, which we believe can fulfill our customers’ unique requirements while giving them the benefits of a cloud-based offering. NOW Solutions has a new version (Version 7.0) of its emPath® software currently in beta testing with some of their clients, with the expectation of it being fully released in May 2017. Empath 7.0 not only greatly improves the user experience but also supports all modern browsers.
+ 
+Additionally, NOW Solutions has embarked on a strategy of developing and licensing HR products complementary to its existing suite of products that can be sold separately or integrated as emPath® modules, which has been greatly facilitated by emPath®’s Web Services integration. PTS™ is the first product to be integrated within the emPath® solution. NOW Solutions is currently finalizing the integration of PTS™ with emPath®. The second product is SnAPPnet™, which is in the in the process of being upgraded to expand the utility of the product beyond traditional credentialing software so that it can be used by HR departments of NOW Solutions’ existing customer to create and administer fillable forms routinely used for employees.
+ 
+Once the first version of Ploinks™ is released with the Puddle™, there will be presentations made to selected NOW solutions’ customers to jointly create an enterprise secure communication channel utilizing VCSY secure communication platform.
+ 
+The revenue model of NOW Solutions is based upon five components: licensing and renewable annual maintenance fees, cloud-based fees, professional consulting services, and managed services. Under the cloud-based delivery model, NOW Solutions typically collects monthly fees.
+ 
+For the 12 months ended December 31, 2016, NOW Solutions had approximately $541,830 of total assets, revenues of approximately $3,768,420 and net income of approximately $469,570.
+ 
+Taladin, Inc.
+ 
+Taladin, a Texas corporation, is a wholly-owned subsidiary of the Company. Taladin is being positioned to become the parent company for NOW Solutions, Priority Time and SnAPPnet in order to streamline and better coordinate the Company’s business administrative software product lines and marketing efforts. It is anticipated that Taladin will also be responsible for an enterprise private communication channel utilizing VCSY secure communication platform.
+ 
+For the 12 months ended December 31, 2016, Taladin had no material assets, no revenues and a net loss of approximately $14,095.
+ 
+Ploinks, Inc.
+ 
+Ploinks, Inc., a Texas corporation (formerly OptVision Research, Inc.), is a 91% owned subsidiary of the Company.
+ 
+Vertical has licensed its secure communication platform to Ploinks, Inc. in the United States, for use by consumers as a personal secure communication channel. The Ploinks™ application was launched in February 2017. Ploinks, Inc. is also developing the Puddle™, a complimentary storage and backup solution to Ploinks™ for Windows-based PCs and storage devices, which is anticipated to be launched in April 2017, which will be synchronized with a user’s mobile device. Upon completion of the synchronization of the user’s mobile device and the Puddle™, Ploinks™ will be marketed as a secure personal cloud.
+
+7
+-
+
+ 
+
+Ploinks™ is available on http://www.ploinks.com for a monthly subscription fee.
+ 
+For the 12 months ended December 31, 2016, Ploinks, Inc. had no material assets, no revenues and a net loss of $1,705,446.
+ 
+Vertical Healthcare Solutions, Inc.
+ 
+VHS, a Texas corporation, is a wholly-owned subsidiary of the Company. VHS will market a new platform called the “Physicians Bridge”, which will be the basis for marketing applications to physicians utilizing other Vertical technologies and products which were licensed for the physician market by Vertical to VHS.  Vertical will also license its secure communication platform to VHS to be utilized in the development of a secure communication channel to be used between physicians and staff as well as between patients, staff, and physicians.
+ 
+For the 12 months ended December 31, 2016, VHS had $230 of assets, no revenues, and a net loss of approximately $162,395.
+ 
+Priority Time Systems, Inc.
+ 
+Priority Time, a Nevada corporation, is an 70% owned subsidiary of the Company. We originally purchased 90% of the common stock of Priority Time from a shareholder of Priority Time and under a shareholder agreement with the selling shareholder, we have the option to purchase 10% of the common shares of Priority Time stock held by this shareholder. The shareholder agreement also provides for the licensing terms of Priority Time products to our other subsidiaries.
+ 
+Priority Time has been developing PTS™, a time and attendance product that will be offered as both a standalone product and as an integrated module within emPath®.
+ 
+PTS™ is being developed to meet the unique and complex requirements of NOW Solutions’ customers, particularly for the medical and government markets, who provided us with specifications for an ideal time and attendance program. The most critical need of complex customers was robust flexibility which led to the creation, from the ground up, of a rule-based time and attendance application, allowing users to make for immediate changes within the application while also providing a state-of-the-art reporting ability to senior executives. The result also led to a new development platform as well as another application called “dashboardletsTM.” PTS™ will be commercially available once a major emPath® update is completed and its integration with emPath® finalized.
+ 
+We have been using our new development platform, which has allowed us to create a cloud-based solution that utilizes a rule-based system, which will better meet the needs of NOW Solutions’ most complex customers and more easily create a time and attendance product for vertical markets (i.e. medical, government, casinos, and hospitality).
+ 
+For the 12 months ended December 31, 2016, Priority Time had no assets, no revenues and a net loss of approximately $1,235.
+ 
+SnAPPnet, Inc.
+ 
+SnAPPnet, Inc., a Texas corporation, is an 80% owned subsidiary of the Company. On May 21, 2010, SnAPPnet, Inc. purchased substantially all the assets of Pelican Applications, LLC (“Pelican”) in exchange for $5,335 cash, 100,000 shares of Series B Convertible Preferred Stock of VHS, and other contingent consideration. The assets acquired included a software application product known as SnAPPnet™ which is currently used for physician credentialing, as well as Pelican’s entire customer base. We intend to utilize the SnAPPnet™ software to expand its offering to physicians, and to adapt the software to meet the needs of NOW Solutions’ hospital clients who may need a credentialing product for nurses.
+ 
+SnAPPnet™ core application is being rewritten to utilize our new administrative development platform, including our proprietary dashboardlets™. The revised and improved SnAPPnet™ application will open new possibilities in markets in need of automated fillable forms.
+ 
+For the 12 months ended December 31, 2016, SnAPPnet, Inc. had assets of approximately $7,675, revenues of approximately $59,255 and a net loss of approximately $5,300.
+ 
+
+8
+-
+
+Government Internet Systems, Inc.
+ 
+GIS, a Nevada corporation is our 84.5% owned subsidiary. Vertical licensed ResponseFlash™ to GIS in order to market and distribute this technology to government entities (excluding state universities and schools) in the United States. Marketing is currently on hold and the business opportunities are being reviewed in conjunction with VCSY secure communication platform.
+ 
+For the 12 months ended December 31, 2016, GIS had no assets, no material revenue and net loss of approximately $9,929.
+ 
+Vertical do Brasil
+ 
+Our 100% owned subsidiary, Vertical do Brasil, a Brasilian company, houses a software development team that performs services on behalf of the Company and its subsidiaries.
+ 
+For the 12 months ended December 31, 2016, Vertical do Brasil had assets of approximately $4,013, no revenues and net loss of approximately $207,577.
+ 
+The following corporations are inactive:
+ 
+Vertical Internet Solutions, Inc.
+ 
+VIS, a California corporation, is a wholly-owned subsidiary of the Company. VIS is inactive and we currently have no plans regarding this subsidiary.
+ 
+For the 12 months ended December 31, 2016, VIS had no material assets, no material revenue and no expenses.
+ 
+EnFacet, Inc.
+ 
+EnFacet, a Texas corporation, is a wholly-owned subsidiary of the Company. EnFacet is inactive and we currently have no plans regarding this subsidiary. 
+ 
+For the 12 months ended December 31, 2016, EnFacet had no material assets and a net loss of $28.
+ 
+Globalfare.com
+ 
+Globalfare, a Nevada corporation, is a wholly-owned subsidiary of the Company. Globalfare is inactive and we currently have no plans regarding this subsidiary.
+ 
+For the 12 months ended December 31, 2016, Globalfare had no assets and a net loss of $99.
+ 
+Pointmail.com, Inc.
+ 
+Pointmail, a California corporation, is a wholly-owned subsidiary of the Company. Pointmail is inactive and we currently have no plans regarding this subsidiary.
+ 
+For the 12 months ended December 31, 2016, Pointmail had no assets, no revenues and no expenses.
+ 
+Competition 
+ 
+We face substantial competition from software and hardware vendors, system integrators, and multinational corporations focused upon information technology and security.
+ 
+In the realm of application software, NOW Solutions’ competitors include Oracle, Lawson, Cyborg /Hewitt, Kronos, DLGL, Ultimate and SAP. Our cloud-based emPath® competes with ADP, Ceridian, Ultimate Software and Quicken. However, while NOW Solutions competes with these companies, our payroll product is utilized by our many of our customers in conjunction with many of these companies’ other modules.
+Priority Time’s competitors include Kronos, NOVAtime Technology, Asure Software, Insperity (formerly known as Administaff), and Qqest Software Systems.
+ 
+
+9
+-
+
+ 
+
+SnAPPnet, Inc. competes with several small and mid-sized competitors in the healthcare credentialing business sector. SnAPPnet’s competitors include EchoApps (Heathline Systems), Win/Staff PRO-FILE (Win/Staff), Medkinetics Pro (Medkinetics), IntelliAppsSE (Intellisoft Group, Inc.), OneAPP (Sy.Med) and CACTUS Software.
+ 
+Ploinks™ is an all-in-one solution that we believe has no direct competition to our knowledge, but finds competitors in some of its areas, such as Snapchat and Instagram for images, Whisper, WhatsApp, Facebook messenger in the area of secure messaging, as well as Dropbox, GoDaddy, Amazon, Microsoft and Google for cloud services.
+ 
+Our primary competitors have longer operating histories, greater name recognition, larger customer bases and significantly greater financial, technical and marketing resources than we do. However, we have a number of large complex clients including cities and counties in the United States that have been users of our Payroll/HRMS software for many years (10 -25 years) and are highly referenceable. We cannot guarantee that we will be able to compete successfully against current or future competitors or that competitive pressure will not have a material and adverse effect on our financial position, results of operations and cash flows.
+ 
+Our ability to compete will also depend upon our ability to continually improve our products and services, the enhancements we develop, the quality of our customer service, and the ease of use, performance, price and reliability of our products and services.
+ 
+We believe, however, that we possess certain competitive advantages for the following reasons:
+ 
+
+1. | We have a number of proprietary patented and patent-pending technologies that can be utilized in our offerings.
+---+----------------------------------------------------------------------------------------------------------------
+
+
+2. | NOW Solutions has an outstanding customer support department that has supported large complex entities for a number of years, and many of these large entities are leaders in their respective industries.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | emPath®’s inherent strengths include its formula builder, the use of one single database (where competing products may use two or more), and a strong, highly identifiable customer base it can reference.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. | emPath® is built on a state-of-the-art Microsoft.net platform, allowing for rapid software development and interoperability with other software packages.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | Our development platform (including the dashboardlets™ feature) will provide a consistent business intelligence tool across our administrative software product line.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6. | We can cross-promote our administrative software applications between companies.
+---+---------------------------------------------------------------------------------
+
+
+7. | emPath® supports a global platform with one database for both payroll and HR.
+---+------------------------------------------------------------------------------
+
+
+8. | Our new secure communication platform is based upon certain trade secrets and revolutionary technology with patented and patent-pending technology.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Strategic Overview 
+ 
+The Company’s product portfolio reflects a number of unique characteristics and advantages that have been developed or acquired over time. At present, we are actively pursuing the strategy of (a) further developing the technologies owned by the Company and our subsidiaries and (b) combining all the technologies owned by the Company and our subsidiaries into viable product offerings.
+ 
+The key components of our strategy are to:
+ 
+
+1. | Leverage our strong, profitable subsidiary, NOW Solutions, that has a highly-referenceable client base, including companies that are leaders in their industries and have been users of emPath® and its predecessor product for over 25 years for their payroll and human resource needs.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Develop a portfolio of patented technologies that can be licensed to third parties or utilized internally to strengthen our existing and projected product offerings.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Build a network of compatible partners and acquisition or licensing of products that complement our existing offerings.
+---+------------------------------------------------------------------------------------------------------------------------
+
+
+10
+--
+
+
+4. | Maximize the unique features of our new software development platform to launch our new PTS™ and SnAPPnet™ products as well as other products to NOW Solutions’ customer base and, at the same time, have those customers assist us in development of product specifications for their own vertical markets.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | Build and integrate new commercially viable products utilizing our patented technology and other administration software.
+---+--------------------------------------------------------------------------------------------------------------------------
+
+
+6. | Expand the reach of emPath® internationally beyond the U.S. and Canada utilizing non-competitive local distributors in foreign countries.
+---+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7. | Develop proprietary applications on our secure communication platform and, with licensing agreements, provide a structure whereby third-party applications can be developed upon that platform to be then distributed.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+8. | Have third party verification as to the capability and comparison in the marketplace.
+---+--------------------------------------------------------------------------------------
+
+
+9. | Do joint partnerships with companies that benefit from our technology.
+---+-----------------------------------------------------------------------
+
+ 
+The software development leg of our strategy is two-fold. The first is to further enhance our existing solutions and develop new products in order to better compete with the large ERP providers like SAP and Oracle by providing complex best-of-breed alternative offerings that are more cost effective solutions. The second is to continue developing our intellectual property internally for mass market, best-of-breed solutions offered as cloud-based solutions that incorporate the advantages of our complex solutions. In each such instance, the software development leg of our strategy will be augmented by exploring solutions that can be linked to federal and state government programs for cost savings.
+ 
+Our new mobile strategy is intended to make us a dominant player in the mobile space for the private communication sector that also serves as a complement to the social media market, as well as providing solutions in the healthcare and corporate markets. The goal is to become a provider with an all-in-one solution incorporating technology between a mobile device and different data storage units.
+ 
+One key to the success of our strategies is to leverage our core capabilities, by entering into co-marketing agreements with other companies, particularly those who offer best-of-breed products that complement our product offerings. Our objective is to enter into distinct co-marketing agreements whereby each business unit will have a separate agreement with the co-marketing partner for its particular target market. To supplement this approach, our business units will enter into agreements with each other where they can more successfully cross-promote and market their respective products. We are also identifying complementary products from third parties which we can private label and sell as part of our existing product offering or separately.
+ 
+Proprietary Rights
+ 
+We rely upon a combination of patent, copyright, trademark, trade secret laws, and contract provisions and to protect our proprietary rights in our technologies, products and services.  We distribute our products and services under agreements that grant users or customers a license to use our products and services and rely upon the protections afforded by the copyright laws to protect against the unauthorized reproduction of our products.  In addition, we protect our trade secrets and other proprietary information through confidentiality agreements with employees, consultants and other business partners.  emPath®, PTS™, SnAPPnet™, PASS™ and Ploinks™ are protected by copyright and trademark. 
+ 
+Our patent portfolio consists of the following technologies and related products:
+ 
+The USPTO granted us a patent (No. 6,718,103) for an invention for “Transmission of Images over a Single Filament Fiber Optic Cable” in April 2004.  This patent is in a theoretical stage only and is intended to be used for transmitting images on fiber optics that might improve in orders of magnitude today’s capacity of fiber optics to transmit images and data. 
+ 
+The USPTO granted us a patent (No. 6,826,744) for an invention for “System and Method for Generating Web Sites in an Arbitrary Object Framework” on November 30, 2004. On May 11, 2010, we were granted a continuation patent (U.S. Patent No. 7,716,629) of U.S. Patent No. 6,826,744 by the USPTO.  All pending new claims were granted in the continuation patent for U.S. Patent No. 7,716,629, which has increased the scope of the original patent by adding 32 new claims to the original 53 claims.  On February 3, 2015, we were granted a continuation patent (U.S. Patent No. 8,949,780) of U.S. Patent No. 7,716,629. All pending new claims were granted in the continuation patent for U.S. Patent No. 8,949,780, which has increased the scope of the continuation patent and the original patent by adding 24 new claims. 
+ 
+
+11
+--
+
+ 
+
+Together, these patents are the foundation of our SiteFlash™ platform.
+ 
+The USPTO granted us a patent (No. 7,076,521) for an invention for a “Web-based collaborative data collection system” on July 11, 2006.  This patent covers various aspects of the Emily™ XML Enabler Agent and the Emily™ XML Broker. 
+ 
+The USPTO granted us a patent (No. 8,578,266) for a “Method and Systems for Automatically Downloading and Storing Markup Language Documents into a Folder Based Data Structure” (formerly, a “Method and System for Providing a Framework for Processing Markup Language Documents”) on November 5, 2013. In August 2016, we were granted a continuation patent (U.S. Patent No. 9,405,736) of U.S. Patent No. 8,578,266 which allowed Claims 1-19 and 21 and amended claims 1, 14, and 21. These patents cover the Emily™ scripting language.
+ 
+THE USPTO granted us a patent (No. 9,112,832) for a “System and Method Running a Web Server on a Mobile Internet Device.” This patent is incorporated into our secure communication platform and covers the Tiny Web Server, which is also a component of our secure communication platform.
+ 
+We also have several patent-pending software technologies and licensed software:
+ 
+In 2011, we filed two provisional applications for patents relating to our patent application filed in 2010 and these have been replaced with non-provisional patent applications which were filed in 2012, which are still pending.
+ 
+In 2013, we filed six patent applications (including provisional patent applications).
+ 
+In 2014, we filed two provisional patent applications, which have been replaced with non-provisional patent applications and filed in 2015. These patent applications are still pending.
+ 
+The Company acquired rights for U.S. Patent No. 8,903,371 (cellular telephone system and method), which was issued on December 2, 2014 under an assignment from Luiz Valdetaro, a co-inventor who is also an employee and the Chief Technology Officer of the Company.
+ 
+Although we intend to protect our intellectual property rights as described above, there can be no assurance that these measures will be successful.  Policing unauthorized use of our products and services is difficult and the steps taken may not prevent the misappropriation of our technology intellectual property rights.  In addition, effective patent, trademark, trade secret and copyright protection may be unavailable or limited in certain foreign countries.  We seek to protect the source code of some of our products as trade secrets and as unpublished copyright works.  Source code for certain products has been or will be published in order to obtain patent protection or to register copyright in such source code.  We believe that our products, trademarks and other proprietary rights do not infringe on the proprietary rights of third parties.  There can be no assurance that third parties will not assert infringement claims against us in the future with respect to current or future features or content of services or products or, if so asserted that any such claims will not result in litigation or require us to enter into royalty arrangements.
+ 
+Regulatory Environment; Public Policy
+ 
+In the United States and most countries in which we conduct our operations, we are generally not regulated other than pursuant to laws applicable to businesses in general and value-added services specifically. In some countries, we are subject to specific laws regulating the availability of certain material related to, or to the obtaining of, personal information. Adverse developments in the legal or regulatory environment relating to the interactive online services and Internet industry in the United States, Canada, Europe, Asia, Latin America or elsewhere could have a material adverse effect on our business, financial condition and operating results. A number of legislative and regulatory proposals from various international bodies and foreign and domestic governments in the areas of telecommunications regulation, particularly related to the infrastructures on which the Internet rests, access charges, encryption standards and related export controls, content regulation, consumer protection, advertising, intellectual property, privacy, electronic commerce, and taxation, tariff and other trade barriers, among others, have been adopted or are now under consideration. We are unable at this time to predict which, if any, of the proposals under consideration may be adopted and, with respect to proposals that have been or will be adopted, whether they will have a beneficial or an adverse effect on our business, financial condition and operating results.
+Employees
+ 
+As of April 24, 2017, we had 23 full-time and 4 part-time employees (20 are employed in the United States and 7 in Canada), 2 full time consultants and 1 part time consultant. We are not a party to any collective bargaining agreements.
+
+12
+--
+

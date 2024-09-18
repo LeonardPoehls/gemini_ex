@@ -1,0 +1,401 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Overview
+ We are a leading provider of spend management solutions, with a unified, cloud-based platform that connects more than 530 organizations with more than 2 million suppliers globally. Our platform provides greater visibility into and control over how companies spend money. Using our platform, businesses are able to achieve real, measurable value and savings that drive their profitability. 
+ Our cloud-based platform has been designed for the modern global workforce that is mobile and expects real-time results, flexibility and agility from software solutions. We empower employees to acquire the goods and services they need to do their jobs by applying a distinctive user-centric approach that provides a mobile-enabled consumer Internet-like experience, drives widespread adoption of our platform and, therefore, significantly increases spend under management. We refer to the process companies use to purchase goods and services as spend management and to the money that they manage with this process as spend under management. Increased user adoption and spend under management drive better visibility and control of a company’s spend, resulting in greater savings and increased compliance.
+ Economic conditions, intense competition and the global regulatory environment are forcing businesses to find new ways to drive operational efficiencies, track processes, reduce costs, fund business growth and enhance profitability and cash flow. Therefore, managing spend has increasingly become a major strategic business imperative to help businesses achieve cost savings. Indirect spend, which refers to goods and services that support a company’s operations as opposed to direct spend that flows into the products a company manufactures, is particularly difficult to manage due to inefficient employee spending behavior and disparate systems that obstruct spend visibility.
+ We offer a unified, cloud-based spend management platform that is tightly integrated and delivers a broad range of capabilities that would otherwise require the purchase and use of multiple disparate point applications. The core of our platform consists of procurement, invoicing and expense management modules that form our transactional engine and capture a company’s spend. In addition, our platform offers supporting modules, including sourcing, analytics, contract management, supplier management, inventory management and storefront, that help companies further manage their spend. Moreover, through our Coupa Open Business Network, suppliers of all sizes can easily interact with buyers electronically, thus significantly reducing paper, improving operating efficiencies and reducing costs.
+ We have a strong results-driven and customer success-focused culture. Our focus is on delivering quantifiable business value to our customers by helping them maximize spend under management to achieve real, measurable value and savings. With a rapid time to deployment, typically ranging from a few weeks to several months, and an easy to use interface that shields users from complexity, our customers can achieve widespread user adoption quickly and generate savings within a short timeframe, thus benefitting from a rapid return on investment.
+ We benefit from powerful network effects. As more businesses subscribe to our platform, the collective spend under management on our platform grows. Greater aggregate spend under management on our platform attracts more suppliers, which in turn attracts more businesses that want to take advantage of the goods and services available through our platform, thereby creating powerful network effects. In addition, as more businesses and employees use our platform, the amount of spend under management continues to increase. This leads to more value and savings for customers and improves our ability to attract more businesses. The resulting increase in sales enables us to further invest in our platform and to improve our functionality and user interface to continue to attract more businesses and suppliers to our platform, which enhances the network effects that benefit all parties.
+ We have developed a rich partner ecosystem of systems integrators, implementation partners, resellers and technology partners. We work closely with several global systems integrators, including KPMG, Deloitte, Accenture, IBM, PwC and Wipro, that help us scale our business, extend our global reach and drive increased market penetration. We expect the number of our partner-led implementations to continue to increase over time, as well as sales referrals from our partners.
+ 1
+
+We have achieved rapid growth in customer adoption, cumulative spend under management and transactions conducted through our platform. We have more than 1.5 million licensed users who have driven an expansion in spend under management over time. These licensed users represent the employees among our base of more than 530 total customers who are authorized to use our solutions. Our cumulative spend under management is highlighted below: 
+ 
+
+Cumulative spend under management does not directly correlate to our revenue or results of operations because we do not charge our customers based on actual usage of our platform.  However, we believe that cumulative spend under management illustrates the adoption, scale and value of our platform, which we believe enhances our ability to maintain existing customers and attract new customers.
+ 
+For our fiscal years ended January 31, 2017 and 2016, our revenues were $133.8 million and $83.7 million, respectively, and our net losses were $37.6 million and $46.2 million, respectively, as we focused on growing our business.
+ Coupa’s Unified Cloud-Based Spend Management Platform 
+ We offer a unified, cloud-based spend management platform that can significantly improve savings for businesses. The core of our platform consists of procurement, invoicing and expense management modules that form our transactional engine and capture a company’s spend under management. In addition, our platform offers supporting modules, including sourcing, analytics, contract management, supplier management, inventory management and storefront, that help companies further manage their spend. 
+ Our platform provides businesses with real-time visibility into spending that is occurring company-wide and enables businesses to drive adoption of the platform and capture, analyze and control this spend, achieve real measurable value and savings and directly improve their profitability: 
+  
+• | Drive Adoption. Our platform applies a distinctive user-centric approach that shields users from complexity and provides a mobile-enabled consumer Internet-like experience, thus enabling widespread adoption of our platform by users across the entire organization as well as suppliers. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Capture. At the core of our platform is our transactional engine that is comprised of our procurement, invoicing and expense management modules, which collectively capture spend within an organization. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 2
+
+ 
+Given purchase orders, invoices and expense reports flow through our platform and the data is stored centrally in a clean and organized fashion, businesses are able to observe the company-wide spending activities in real time.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Analyze. Our spending analytics capabilities provide intuitive spend analysis dashboards and reports that deliver real-time analytical insights that help businesses identify problems and make better spending decisions. Real-time analytical insight is critical to helping identify savings opportunities and risks, as well as isolating problem areas in the spending process to target improvement efforts. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Control. We help our customers control and streamline their spending activity, as well as realize efficiencies that result in real savings. Our platform has extensive functionality that enables managers to prevent excessive spend and reduce spend through realizing efficiencies and cost savings associated with strategic sourcing and contract compliance. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Save. Within a short timeframe, we help our customers realize measurable value and savings by taking advantage of pre-negotiated supplier discounts, achieving contract compliance, improving process efficiencies and reducing redundant and wasteful spending, as well as enable strategic sourcing via reverse auctions in which suppliers bid down prices at which they are willing to sell their goods and services to businesses. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Platform’s Capabilities 
+ Our unified, cloud-based spend management platform includes the following capabilities: 
+ 
+Coupa’s Transactional Engine 
+ The core of our platform is our transactional engine, which is comprised of the following modules:
+  
+• | Procurement. Our procurement module enables customers to strategically establish spend policies and approval rules to govern company spending. The application provides a consumerized e-commerce shopping experience so that employees can easily and quickly find the goods and services they need to do their jobs. Our procurement module streamlines purchasing requisition and purchase order processes, 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 3
+
+ 
+allowing businesses to track and manage purchases in real time, thus reducing time and cost. Upon approval of an employee request, purchase orders are automatically sent to suppliers for fulfillment and invoicing. Benchmark data allows customers to spot process inefficiencies, while configuration ease enables businesses to effortlessly adjust business processes to meet continually changing business requirements.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Invoicing. Our invoicing module enables customers to improve cash management through the effective management of supplier invoices via embedded dashboards and work queues that prioritize invoices with early payment discount opportunities. Customers may quickly configure invoice approval and matching rules so invoices can be routed without accounts payable team member effort and cost. Easy, no-cost means for suppliers to create electronic invoices that comply with government regulations allow businesses to eliminate paper and further reduce their invoice processing costs, all while reducing invoice payment fraud risk. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expense Management. Our expense management module enables customers to gain control of the expenses incurred by employees. Innovative mobile capabilities such as GPS and geo-location make it easy for travelers to create expense reports on-the-go so businesses gain real-time expense visibility. Frugal meter capabilities automatically assess the appropriateness of employee charges based on the customer’s configured business processes. Seamless connectivity to credit card providers feed charges into our expense management module for added visibility and reporting ease. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Supporting Modules 
+ Our platform offers the following supporting modules that help companies further manage their spend:
+ Sourcing.  Our sourcing module enables customers to find the best suppliers for the goods or services they need to run their businesses. Customers easily create sourcing events containing the specifics of their business needs and invite suppliers to participate. Suppliers are able to review and bid effortlessly and without any fees to participate. Collaboration capabilities enable employees to review bids and provide feedback that is automatically compiled and scored.
+ Inventory.  Our inventory module enables customers to manage spending by effectively managing physical goods and virtual licenses. Employees searching for goods see inventory on hand balances in the search results, which eliminates redundant spending. Embedded dashboards facilitate the move of inventory from warehouse to warehouse and predict item shortages so inventory managers can easily manage goods and licenses. The application automates fulfillment and keeps inventory in sync through regular cycle counts, discrepancy reports, and asset tags.
+ Contracts.  Our contracts module enables customers to operationalize contracts and make them easily available for purchasing by employees across the organization. Contract compliance increases savings as employees make purchases using negotiated rates. Real-time contract enforcement and spend visibility is provided through embedded dashboards at both the contract and summary level. Full text search capabilities and automatic alerts remind employees to review contracts prior to expiration or auto-renewal dates.
+ Supplier Management.  Our supplier management module enables customers to collect supplier information required to manage and pay their suppliers. Customers can quickly create unlimited data collection web forms using a drag and drop interface. Web forms may be tailored for country specific rules or supplier types. To make data collection easy, web forms are embedded as part of the natural business processes for procurement and invoicing. Real-time dashboards and reports show supplier data freshness and upcoming expirations.
+ Analytics.  Our analytics module provides managers a large set of built-in reports and dashboards that allow users to see spending activity, find bottlenecks in workflows, analyze granular data by commodity, supplier, location and cost center, and drill-down into the spend transactions. We have created more than one hundred out-of-the-box reports covering some of the most important business metrics, such as unified spend for purchase orders, invoices or expense reports, spend trends over time, spend by commodity, supplier and contract; however, users can also create new metrics, reports and dashboards with our intuitive user interface, as well as include external data like corporate and travel expenses or integrate with third-party systems, to get a holistic view of their spend patterns.
+ 4
+
+Storefront.  Our storefront module enables customers with a third-party procurement system to use our consumerized catalog search experience so employees can easily and quickly find the goods and services they need to do their jobs. Our storefront module works with third party procurement systems that support open catalog interface or cXML for catalog integration
+ Coupa Open Business Network
+ Our Coupa Open Business Network instantly connects businesses and suppliers providing businesses with a platform that is accessible to suppliers of all sizes—even those typically ignored by fee-based closed networks—to drive success. Suppliers have a variety of options to connect with businesses including:
+
+• | Coupa Supplier Portal. This portal is a tool for suppliers to easily do business with our customers. The Supplier Portal lets suppliers manage content and settings on a customer-by-customer basis, including managing company information, setting up purchase order transmission preferences, creating and managing online catalogs, managing procurement orders and invoices across multiple customers and gaining visibility to the status of invoices. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Coupa Supplier Actionable Notifications. These notifications enable suppliers to receive HTML purchaser orders and convert these purchase orders into invoices right from the procurement order e-mail, which represents the easiest way to submit electronic invoices through our platform. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Direct Connection via cXML and EDI. Our platform supports various communication formats such as cXML or EDI for suppliers that want to automate their invoicing through a tighter integration with our platform. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Direct E-mail. Suppliers can choose to send PDF invoices simply through e-mail. 
+--+---------------------------------------------------------------------------------
+
+ By using our Coupa Open Business Network, companies can become compliant with government mandates, increase profitability and reduce costs by driving electronic transactions from purchase order through e-invoice and payment visibility. Our Coupa Open Business Network user interface is easy to navigate and requires little to no training for suppliers to instantly manage transactions. Businesses are able to interact with thousands of suppliers already using our Supplier Portal, onboard new suppliers in minutes, integrate directly or simply use our smart e-mail tools. Businesses can also use the Coupa Open Business Network to layer on top of their existing technology, including third-party systems such as Oracle iProcurement, SAP SRM and others. Suppliers of all sizes benefit, as they are able to join the networked economy without changing their technology or spending money on transaction fees. 
+ Key Benefits to Businesses 
+  
+• | Rapid time to value through fast deployment cycles and low cost of ownership of cloud-based model.
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Opportunity to achieve significant and sustainable savings that can translate into improved profitability.
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | High employee adoption of our easy-to-use unified platform, which enables better visibility into spend.
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | Strong supplier adoption as suppliers are motivated to join our network due to ease of enablement, flexibility and lack of supplier fees.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Access to extensive spending data in real time, which leads to superior decision making that can result in significant cost savings.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Ability to stay agile and adapt to changes in operating and regulatory environments with our easily configurable platform.
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+• | Process efficiency improvements that allow businesses to free up valuable resources and staff who can be deployed effectively elsewhere in the organization.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enhanced compliance with governmental regulations through greater auditability, documentation and control of spending activity.
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+Key Benefits to Employees 
+  
+• | Intuitive and simple user experience that shields users from complexity and enables adoption of our platform with minimal training.
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Efficiency improvements as employees are more rapidly able to procure the goods and services they need to fulfill their job responsibilities.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mobile access from anywhere in the world from any device.
+--+----------------------------------------------------------
+
+
+• | Convenience to employees, as our platform gathers data on historical activity and leverages the insights to help populate requests and minimize data entry.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Faster reimbursement to employees due to more efficient expense management processes.
+--+--------------------------------------------------------------------------------------
+
+Key Benefits to Suppliers 
+  
+• | Participating in our Coupa Open Business Network.
+--+--------------------------------------------------
+
+
+• | Fast registration process and flexibility to interact with customers through the Coupa Supplier Portal, direct integration or simply by use of direct email.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Elimination of manual processes and efficiency improvements through electronic invoicing and streamlined procurement and payment processes.
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Real-time visibility into invoice status, often through direct push notifications without having to log in to a portal.
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+• | Seamless audit, documentation and archiving of electronic purchase orders and invoices that helps suppliers comply with changing government regulations, as well as avoid risks.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Opportunity to display supplier information and catalog of products and services on the Coupa Open Business Network for existing and prospective customers.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Competitive Strengths 
+  
+• | Easy and Intuitive User Interface that Enables Widespread Employee Adoption. Our focus on an intuitive and simple user experience shields our users from complexity and results in superior employee adoption. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Unified Platform With Powerful Functionality. We offer a unified platform that is tightly integrated and delivers a broad range of capabilities to manage different types of spend that would otherwise require the purchase and use of multiple disparate point applications. By offering a unified platform with powerful functionality that integrates different modules, we deliver a comprehensive solution for customers to drive adoption, and capture, analyze and control spend across their entire company, thus significantly enhancing savings potential. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Independence and Interoperability. We are agnostic as to the enterprise resource planning (ERP) system and other back-end systems used by our customers and our open architecture enables interoperability with numerous software applications, back-end systems and other third-party offerings. Customers can use our application programming interfaces (APIs), flat files, commerce eXtensible Markup Language (cXML) and electronic data interchange (EDI) data formats or custom code to make seamless connections between our platform and their ERP platform, supplier or other third-party system. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Powerful Network Effects. As more businesses subscribe to our platform, the collective spend under management on our platform grows. Greater aggregate spend under management on our platform attracts more suppliers, which in turn attracts more businesses that want to take advantage of the goods and services available through our platform, thereby creating powerful network effects. In addition, as more businesses and employees use our platform, the amount of spend under management continues to increase. This leads to more savings for customers and improves our ability to attract more businesses. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+ 
+The resulting increase in sales enables us to further invest in our platform and to improve our functionality and user interface to continue to attract more businesses and suppliers to our platform, which enhances the network effects that benefit all parties.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cloud Platform. We are built from the ground up as a SaaS application delivered via the cloud. As a result, our total cost of ownership is low, our deployment times are short and we can seamlessly deploy the latest updates and upgrades to all our customers via our cloud-based platform. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Rich Partner Ecosystem. We have developed strong strategic relationships with a number of leading partners including global systems integrators, implementation partners, resellers and technology partners. While implementation partners such as KPMG, Deloitte, Accenture, PwC and Wipro help us scale our business by extending our global reach and driving increased market penetration, our technology partners including Dell Boomi, IBM (Emptoris) and Trustweaver extend and enhance the capabilities of our platform by facilitating integrations that can deliver a higher level of value to customers. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Results-Driven Culture. We have a relentless focus on real measurable customer success and work extensively with customers to achieve significantly improved business value in the form of savings through the use of our platform. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Higher Supplier Adoption. We do not charge suppliers any upfront or ongoing fees to participate in our Coupa Open Business Network and offer suppliers an easy and flexible way to interact with customers with minimal friction. As a result, suppliers are motivated to join our network and adopt our platform, which represents a significant competitive advantage over legacy vendors that often struggle with supplier adoption. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Proprietary Data Enables Superior Insights. Our platform collects and presents spend activity data that managers can easily analyze using powerful built-in reports and dashboards. Using our proprietary data, we are able to provide benchmarking versus other companies and evaluate supplier performance that can help decision makers identify areas of improvement and realize cost savings. As the number of employees and amount of spend through our platform grows, we acquire more proprietary data that enables us to provide unique insights to our customers, thus strengthening our powerful value proposition. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Growth Strategy 
+ Key elements of our strategy include: 
+  
+• | expand our customer base, both domestically and internationally;
+--+-----------------------------------------------------------------
+
+
+• | deepen existing customer relationships;
+--+----------------------------------------
+
+
+• | increase direct spend under management on our platform;
+--+--------------------------------------------------------
+
+
+• | continue to innovate and further develop our platform; and
+--+-----------------------------------------------------------
+
+
+• | further expand and develop our partner ecosystem.
+--+--------------------------------------------------
+
+Sales and Marketing 
+ We sell our software applications through our direct sales organization and our partner program, Coupa Partner Connect. Our direct sales team is global and comprised of inside sales and field sales personnel who are organized by geography, account size and application type. 
+ We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs, including such programs with our strategic relationships. For example, we have joint marketing programs and sponsorship agreements with KPMG, Accenture and Wipro. 
+ 7
+
+Our principal marketing programs include: 
+  
+• | use of our website to provide application and company information, as well as learning opportunities for potential customers;
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+• | field marketing events for customers and prospective customers;
+--+----------------------------------------------------------------
+
+
+• | territory development representatives who respond to incoming leads to convert them into new sales opportunities;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | participation in, and sponsorship of, user conferences, executive events, trade shows and industry events;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | customer programs, including regional user group meetings;
+--+-----------------------------------------------------------
+
+
+• | integrated marketing campaigns, including direct e-mail, online web advertising, blogs and webinars;
+--+-----------------------------------------------------------------------------------------------------
+
+
+• | public relations, analyst relations and social media initiatives;
+--+------------------------------------------------------------------
+
+
+• | cooperative marketing efforts with partners, including joint press announcements, joint trade show activities, channel marketing campaigns and joint seminars; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | our annual INSPIRE user conference, which is held over two and a half days to connect customers, disseminate best practices, and reinforce our brand among existing and new customers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Partnerships and Strategic Relationships 
+ As a core part of our strategy, we have developed an ecosystem of partners to extend our sales capabilities and coverage, to broaden and complement our application offerings and to provide a broad array of services that lie outside of our primary areas of focus. 
+ Our partnerships increase our ability to grow and scale quickly and efficiently and allow us to maintain greater focus on executing against our strategy. 
+  
+• | Advisory and Referral Partners. Our Advisory and Referral partners provide global, national and regional expertise in spend management, procurement and expense management. They help organizations through operational transformation by leveraging process, best practices and new technology. These partners may refer customer prospects to us and assist us in selling to them. In return, we typically pay these partners a percentage of the first-year subscription revenue generated by the customers they refer. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Implementation Partners. In order to offer the full breadth of implementation services, change management, and strategic consulting services to our customers, we work with leading global and boutique consulting firms. We work closely with global leaders such as KPMG, Deloitte, Accenture, IBM, PwC and Wipro, as well as with boutique service providers that focus primarily on delivering implementation services for our applications, like The Hackett Group, Armanino, Xoomworks and Shelby Group. Our strategy is to enable the majority of our projects to be led by implementation partners with additional specialized support from us. Our implementation partners are highly skilled and trained by our team. When working with implementation partners, we are typically in a “co-sell” arrangement where we will sell our subscription directly to the customer and our partner will sell its implementation services directly to the customer. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reseller Partners. Our reseller partners enhance our customer impact and extend our global presence with integrated technologies, applications, business process outsourcing (BPO) services and region-specific offerings. All of our reseller partners have been trained to demonstrate and promote our applications suites. Our reseller channel ranges from large, global players like IBM, to regional resellers in new markets and territories. Our reseller partners typically purchase our software solutions from us and resell them, integrated with their offerings to provide additional value to their customers. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Technology Partners. Our technology partners provide market-leading technology, complementary products and infrastructure-related services that power and extend our suite of cloud-based spend 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 8
+
+ 
+management applications. Our technology partners span a wide range of solutions providers including Dell Boomi, IBM (Emptoris) and Trustweaver that enhance the capabilities of our platform by facilitating integrations that can deliver a higher level of value to customers.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technology Infrastructure and Operations 
+ The technologies used to build our platform and modules are native cloud and designed to scale to millions of users. We utilize a modern technology stack to take advantage of advancements in web-design, open source technologies, scalability and security. We have implemented industry-standard security practices to help us protect our servers and our customers’ critical information. 
+ We have partnered with AWS to provide the hardware and infrastructure to support our spend management platform. With this partnership, we are able to easily scale the service during peak load periods, allowing us to continuously add users and customers without significant downtime or lead-time to procure new capacity. We also have the ability to offer our solutions globally across different physical locations, with hosting currently available in the U.S., Singapore, Ireland, Germany and Australia.
+ Research and Development 
+ Our ability to compete depends in large part on our continuous commitment to research and development and our ability to rapidly introduce new applications, technologies, features and functionality. Our research and development organization is responsible for the design, development, testing and certification of our applications. We focus our efforts on developing new applications and core technologies and further enhancing the usability, functionality, reliability, performance and flexibility of existing applications.
+Competition 
+ We believe the overall market for spend management software is highly competitive, marked by rapid consolidation, fragmented and rapidly evolving due to technological innovations. We have been recognized, however, as a technology and market leader. 
+ Our competitors fall into the following categories: 
+  
+• | Large enterprise software vendors such as Oracle Corporation and SAP AG that predominantly focus on database and ERP software solutions. SAP acquired both Ariba, Inc. and Concur Technologies, Inc. in 2012 and 2014, respectively, to form the core of their cloud offerings that compete with us.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Niche software vendors that either address only a portion of the capabilities we provide or predominantly focus on narrow industry verticals.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+ We believe the principal competitive factors in our market include the following: 
+  
+• | focus on customer success;
+--+---------------------------
+
+
+• | ability to deliver measurable value and savings;
+--+-------------------------------------------------
+
+
+• | ability to offer a unified spend management platform;
+--+------------------------------------------------------
+
+
+• | ease of use;
+--+-------------
+
+
+• | widespread adoption by users;
+--+------------------------------
+
+
+• | time to deployment;
+--+--------------------
+
+
+• | cloud-based architecture;
+--+--------------------------
+
+
+• | total cost of ownership;
+--+-------------------------
+
+
+• | configurability and agility;
+--+-----------------------------
+
+ 9
+
+ 
+• | rich reporting capabilities;
+--+-----------------------------
+
+
+• | product extensibility and ability to integrate with other technology infrastructures;
+--+--------------------------------------------------------------------------------------
+
+
+• | independence; and
+--+------------------
+
+
+• | adoption by suppliers.
+--+-----------------------
+
+ We believe that we compare favorably on the basis of these factors. However, many of our competitors have greater financial, technical and other resources, greater name recognition and larger sales and marketing budgets; therefore, we may not compare favorably with respect to some or all of the factors above. 
+ Intellectual Property 
+ We rely on a combination of trade secrets, patents, copyrights and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. While we have obtained or applied for patent protection for some of our intellectual property, we do not believe that we are materially dependent on any one or more of our patents. We require our employees, consultants and other third parties to enter into confidentiality and proprietary rights agreements and control access to software, documentation and other proprietary information. 
+ We pursue the registration of domain names, trademarks and service marks in the United States and in various jurisdictions outside the United States. We also actively seek patent protection covering inventions originating from our company. 
+ We control access to and use of our proprietary technology and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers, and partners, and our software is protected by U.S. and international intellectual property laws. Our policy is to require employees and independent contractors to sign agreements assigning to us any inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf and agreeing to protect our confidential information. In addition, we generally enter into confidentiality agreements with our vendors and customers. We also control and monitor access to, and distribution of our software, documentation and other proprietary information. 
+ Despite our efforts to protect our proprietary technology and our intellectual property rights, unauthorized parties may attempt to copy or obtain and use our technology to develop applications with the same functionality as our applications. Policing unauthorized use of our technology and intellectual property rights is difficult. In addition, we intend to expand our international operations, and effective protection of our technology and intellectual property rights may not be available to us in every country in which our software or services are available. 
+ We and others in our industry have been, and we expect that we will continue to be, subject to third-party infringement claims as the number of competitors grows and the functionality of applications in different industry segments overlaps. Moreover, many of our competitors and other industry participants have been issued patents and/or have filed patent applications, and have asserted claims and related litigation regarding patent and other intellectual property rights. From time to time, third parties, including certain of these companies, have asserted patent, copyright, trademark, trade secret and other intellectual property rights within the industry. Any of these third parties might make a claim of infringement against us at any time.
+ Our Customers
+ As of January 31, 2017, our more than 530 customers are doing business in more than 100 countries and our platform was offered in more than 20 languages. We define a customer as a separate and distinct buying entity, such as a company, an educational or government institution, or a distinct business unit of a large corporation that has an active contract with us or our partner to access our platform.  Our customers include leading businesses in a diverse set of industries, including healthcare and pharmaceuticals, retail, financial services, manufacturing, and technology, amongst others.
+ 10
+
+Employees
+ As of January 31, 2017, we had 652 full-time employees globally, of which 425 work in the U.S. and 227 work internationally. None of our U.S. employees are represented by a labor union or are the subject of a collective bargaining agreement. We have not experienced any work stoppages, and we consider our relations with our employees to be good.
+Corporate Information 
+ We were incorporated in February 2006 in Delaware. Our principal executive offices are located at 1855 S. Grant Street, San Mateo, CA 94402, and our telephone number is (650) 931-3200. Our website address is www.coupa.com. The information on, or that can be accessed through, our website is not part of this report. We have included our website address as an inactive textual reference only. 
+ The public may also read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street N.E., Washington, D.C. 20549.  The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.  The SEC also maintains an Internet website that contains reports and other information regarding issuers, such as Coupa, that file electronically with the SEC.  The SEC’s Internet website is located at http://www.sec.gov.
+ 

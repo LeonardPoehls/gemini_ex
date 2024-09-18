@@ -1,0 +1,217 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.  Business
+ 
+PASSUR Aerospace, Inc. ("PASSUR" or the "Company"), a New York corporation founded in 1967, is a leading business intelligence company, providing predictive analytics and decision support technology for the aviation industry primarily to improve the operational performance and cash flow of airlines and the airports where they operate. The Company is recognized as a leader in airline and airport operational efficiency and business aviation marketing and operational solutions, and is a pioneer in the successful use of big data, with an aviation intelligence platform and suite of web-based solutions that address the aviation industry's most intractable and costly challenges, including underutilization of airspace and airport capacity, delays, cancellations, and diversions, among others. Several independent studies have estimated the annual direct and indirect costs of such inefficiencies in the United States at over $30 billion annually. The Company's technology platform is supported by its Aviation Intelligence Center of Excellence, a team of subject matter experts with extensive experience in airline, airport, and business aviation operations, finance, air traffic management, systems automation, and data visualization, with specific expertise in the operational and business needs, requirements, objectives, and constraints of the aviation industry.
+ 
+PASSUR's mission is to improve global air traffic efficiencies by connecting the world's aviation professionals onto a single aviation intelligence platform, making PASSUR an essential element in tackling the $30 billion of system-wide inefficiencies. We are an aviation intelligence company that makes air travel more predictable, gate-to-gate, by using predictive analytics generated from our own big data – to mitigate constraints for airlines and their customers. PASSUR's information solutions are used by the largest five North American airlines, more than 60 airport customers, including 22 of the top 30 North American airports (with PASSUR solutions also used at the remaining eight airports by one or more airline customers), hundreds of corporate aviation customers, as well as the U.S. government.
+ 
+PASSUR provides data aggregation and consolidation, information, decision support, predictive analytics, collaborative solutions, and professional services. To enable this unique offering, PASSUR owns and operates the largest commercial passive radar network in the world that updates flight tracks every 1 to 4.6 seconds, powering a proprietary database that is accessible in real-time and delivers timely, accurate information and solutions via PASSUR's industry-leading algorithms and business logic included in its products.
+  Page 2 of 54
+ 
+
+Solutions offered by PASSUR help to ensure flight completion, covering the entire flight life cycle, from gate to gate, and result in reductions in overall costs and carbon emissions, while maximizing revenue opportunities, as well as improving operational efficiency and enhancing the passenger experience.
+ 
+PASSUR's commercial solutions give aviation operators the ability to optimize performance in today's air traffic management system, while also achieving Next Generation Air Transportation System ("NextGen") objectives.
+ 
+PASSUR integrates data from multiple sources, including its independent network of over 180 surveillance sensors installed throughout North America creating coast to coast coverage, as well as locations in Europe and Asia; government data; customer data; and data from third party partners. PASSUR's sensors receive aircraft and drone signals in Mode A, C, S, and Automatic Dependent Surveillance-Broadcast ("ADS-B"), providing position, altitude, beacon code, and tail number, among other information. PASSUR receives signals from aircraft that, when combined with our historical database of aircraft and airport behavior, including information recorded by our network over the last 10 years, allows the Company to know more about what has happened historically, and what is happening in real-time. In addition, the historical database allows the Company to predict how aircraft, the airspace, and airports are going to perform, and more importantly, how the aircraft, the airspace, and airport should perform.
+ 
+PASSUR's Strategic Objectives
+ 
+
+1. | Increase airline cash flow and operational performance while growing PASSUR's revenue in core commercial markets. 
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. | Introduce products and solutions developed for the commercial markets to the government markets, creating a standard platform between the commercial and government customers, thereby providing immediate returns from the core commercial market while facilitating larger government programs and contracts.
+3. | Develop strategic relationships with major companies to broaden the reach of PASSUR products in the worldwide commercial and government customers. 
+4. | Further build PASSUR's market share domestically and internationally. 
+5. | Further expand the reach of PASSUR's innovative collaborative information sharing platform, which brings together local, regional, national, and international aviation stakeholders in real time to manage complex, expensive, and disruptive events. 
+6. | Provide complete solutions that address increasingly larger aviation challenges – solutions that are often extensions of those products PASSUR is providing to customers today. 
+
+PASSUR Core Capabilities
+ 
+Integrated Surveillance Network and Integrated Aviation Database
+ 
+The Company operates what it believes to be the largest and most extensive private commercial aircraft, airport, and airspace passive surveillance networks in the world. The PASSUR Network integrates additional key surveillance sources, to include ADS-B, ASDE-X, Mode S, En Route Radar, Airline OOOI data, ACARS, fleet databases, as well as other sources. PASSUR also integrates extensive amounts of data from its customer's systems, such as airline on-board communications messages ("ACARS") and Airport Operational Databases ("AODB").
+ 
+The PASSUR Network and database creates a direct data feed of critical flight and airspace behavior and conditions, an essential precursor resource for predictive analytics, real-time decision support, and performance analysis tools.
+ 
+All the surveillance data acquired by the PASSUR Network is integrated and correlated into specialized databases to support predictive, real-time, and post operational requirements. PASSUR databases consolidate multiple overlapping data sets to ensure completeness, accuracy, fulfillment of specific operational requirements, and the normalization of data for a single-source authoritative record of operational performance. The data processed in these master data repositories supports the key capabilities and attributes of the PASSUR software.
+  Page 3 of 54
+ 
+Predictive Analytics
+ 
+PASSUR decision support solutions are supported by predictive analytics algorithms, which use extensive historical data mining and pattern recognition, along with real-time surveillance data, to predict specific and detailed operating conditions. PASSUR predictive analytics are built on several core capabilities:
+ 
+
+• | Real-time surveillance from the PASSUR Network gives the necessary breadth and granularity of data to support detailed scenario building and pattern recognition. This includes "fast-time simulation" of the airport surface and terminal area operation, applying the necessary decisions and constraints that controllers will have to apply in managing the traffic, as well as addressing the highly nonlinear and non-stationary nature, of the airport operating environment. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Detailed, granular data acquired by the PASSUR Network, supplemented by many other data sources collected within the integrated aviation database, is stored and correlated, providing the large sample sizes required to accurately model future performance based on past performance under similar or identical conditions. 
+• | PASSUR is recognized by airlines as having the best flight predicted arrival time (Estimated Time of Arrival, "ETA") in the industry. More than ten independent airline studies have demonstrated the PASSUR predicted arrival time to be more accurate than any other source, including the airlines' own internally-generated ETAs. The Company believes that this greater accuracy translates directly into significant operational and financial benefits in areas such as completing connections (passengers and bags), reduced fuel consumption, more efficient staffing plans, and greater on-time schedule completion.
+
+PASSUR Integrated Traffic Management
+ 
+PASSUR Integrated Traffic Management ("PITM") is, in the Company's opinion, the industry's first fully integrated air traffic optimization suite. PITM is a metrics-focused, Key Performance Indicator ("KPI") driven solution suite allowing the customer to first view the most critical information for its operation, and then, as necessary, enabling the user to drill down for better visualization and analysis.
+ 
+PITM helps airlines complete their mission, on time, by focusing on the major operational constraints such as diversions, arrival and departure flow congestion, and airport surface congestion – as well as major irregular operations like disruptive weather, construction closures, large public events, and emergency incidents. The platform connects multiple aviation stakeholders and missions onto one platform, providing a collaborative environment within and between organizations, to address decisions that can only be solved through the real-time exchange of information on a common operating platform. PITM is also a platform enabling PASSUR's partner companies to provide solutions which augment PASSUR capabilities to PASSUR's customers. PITM is fully web-delivered, allowing easy access from any web-enabled device.
+ 
+Decision Support Dashboards, KPIs, and Management by Exception
+ 
+Many PASSUR solutions are delivered in metrics-driven, dashboard format, simplifying and condensing extensive amounts of information into the most relevant operational and business metrics, thereby presenting those metrics in a manner that supports immediate performance assessment and actionable decisions. PASSUR solutions are designed so that users are alerted in real-time to specific conditions and recommended actions, especially during irregular operations, only when operations reach certain user-defined thresholds, thereby preventing information overload.
+Collaborative Capabilities and Industrial Networks
+ 
+Many PASSUR solutions include a collaborative layer which allows for instant information sharing and coordination of effort to a wide range of users in the aviation community. These include industrial networking capabilities, which leverage new technologies for business uses in the aviation sector, such as PASSUR's Airport Information Network, a single North American-wide site for real time airport conditions, diversion management, and delay mitigation used by hundreds of aviation professionals. Other PASSUR collaborative capabilities include pre-departure sequencing and/or metering, arrival sequencing, and tarmac delay management.
+  Page 4 of 54
+ 
+Aviation Intelligence Center of Excellence to Support Big Data
+ 
+The Company's Aviation Intelligence Center of Excellence ("CoE") is a team of subject matter experts with extensive experience in airline, airport and business aviation operations, finance, air traffic management, systems automation, and data visualization, with specific expertise in the operational and business needs, requirements, objectives, and constraints of the aviation industry.
+ 
+These experts from the PASSUR CoE understand the National Airspace System ("NAS") and are able to translate these internal requirements and external conditions into information solutions that target specific, measurable problems with defined operational and financial performance metrics. These subject matter experts are complemented by a technical team of software engineers, data scientists, radar engineers, database architects, physicists, and statisticians who have years of expertise in managing complex surveillance networks (hardware and software), as well as interpreting and converting complex, live aviation data feeds into robust decision support software solutions.
+  Page 5 of 54
+ 
+
+Products and Services
+ 
+The Company offers targeted solutions to help airlines complete missions on time:
+ 
+
+
+
+Category | | PASSUR solutions description | Key growth drivers
+------------------------+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------
+ | n | Web dashboard that gives airlines, airports, and ANSPs the ability to analyze and act on airspace conditions predictively and in real-time. Helps to ensure the optimal flow of traffic into an airport in order to preserve schedule completion and reduce costs. | n | Enhances airspace throughput and capacity. 
+ | n | Provides predictive analytics, alerts, and instant analysis and performance summaries to balance demand and capacity. | n | Reduces impact of Traffic Management Initiatives ("TMI"), such as eliminating the need for ground delays or ground stops. 
+Traffic Flow Management | n | Drone Air Traffic Integration is a new service designed to help commercial drone operators become more informed, effective, and collaborative members of the NAS by integrating them into PASSUR's aviation intelligence platform, currently used by the main NAS stakeholders (airlines, airports, business aviation, and the FAA). | n | TMI costs can exceed $160 million annually for just one airline at larger airports. 
+ | n | Primary customers: airlines, airports, government, and potentially large drone operators. | n | One airline saved an estimated $12 million per year at just three airports through enhanced traffic flow management with PASSUR solutions. 
+ | | | n | Assist drone operators seamlessly integrate into the NAS. 
+ | n | Predictive analytics algorithms leverage extensive historical data mining and pattern recognition and live dynamic conditions to predict a range of operating conditions in advance, allowing airlines to choose the least costly plane to divert, cancel/consolidate flights, predict accurate hold times, or divert preemptively. | n | Reduces the number and cost of unnecessary diversions. 
+Diversion Management | n | Allows airlines to decrease the number of diversions they experience and optimize ones that are unavoidable, improving their profitability, passenger scores, and environmental footprint. Allows airports to be prepared for diversions, delays, and cancellations. | n | Ensures aircraft divert to airports that can enable a faster return to original destination airport. 
+ | n | Primary customers: airlines, airports, and government. | n | Diversions cost U.S. domestic airlines more than $400 million annually in direct costs, disrupting more than 1.6 million passengers. 
+ | | | n | PASSUR reduced one carrier's diversions by 11% that same year, which translates into $46 million in savings across the industry, or 170,000 fewer disrupted passengers.
+
+
+ Page 6 of 54
+ 
+
+
+
+ | n | An accurate ETA data feed optimizes all existing airline and airport processes and systems that depend on knowing when an airplane is going to arrive, without requiring expensive or disruptive internal changes. Predictive flight arrival and departure times built on multiple sources, including PASSUR's live and historical surveillance of the airspace. | n | Benefits include completing connections (passengers, bags, and crew), reduced fuel consumption, more efficient staffing plans, greater on-time schedule completion, reduced gate holds, and helping airlines meet stricter "crew rest" regulations.
+--------------------------------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Flight Predictability (ETAs and ETDs) | n | Provides accurate gate-to-gate ETA and Estimated Time of Departure ("ETD"). | n | Enables better overall planning and scheduling to maximize revenue opportunities. 
+ | n | Primary customers: airlines and airports. | n | Missed connections alone at one airport can cost an airline in excess of $3 million per year. 
+ | | | n | One airline has reported a $15 million per year cost recovery since implementing the PASSUR ETA. 
+ | n | PASSUR Surface Management helps to reduce extended tarmac delays and taxi-in/taxi-out times, prioritize high-value flights, and facilitate an efficient turn management process (transition of an aircraft from arrival to departure). | n | Improves the efficiency of arrivals and departures, preserves schedule integrity, prioritizes high value flights, and reduces surface delays and fuel burn. 
+Surface Management | n | A suite of capabilities that combine air and ground surveillance data, visual tracking of aircraft in the airspace and on the airport surface, decision-support software, and key performance indicator dashboards. | n | Reduces the possibility of tarmac delay fines, which can exceed $3 million per event. 
+ | n | PASSUR's new surface surveillance sensors allow airlines and airports to visualize parts of the airport otherwise not tracked and monitored. | n | At one airport using PASSUR Surface Management, over just one year, airlines reduced fuel costs by $10-$15 million, logged 48,000 fewer aircraft taxi hours, and released 48,000 fewer metric tons of carbon emissions into the atmosphere. 
+ | n | Primary customers: airlines, airports, and government. | | 
+ | n | Optimizes the transition of an aircraft from arrival to departure to ensure an on-time departure, schedule completion, and maximum asset utilization. | n | Minimizes the frequency, duration, and downstream effects of delays. 
+Turn Time Management | n | Minimizes the time required for a plane to unload from one flight and reload for the next flight by monitoring and proactively alerting to bottlenecks at each phase of the aircraft's cycle through arrival to departure, allowing flight and passenger handling resources to be adjusted to ensure an on-time process. | n | Ensures on-time schedule completion. 
+ | n | Primary customers: airlines and airports | n | Excess staffing costs related to inefficient turn times are estimated at close to $1 million per airport per year for large networked airlines. 
+
+
+
+ Page 7 of 54
+ 
+
+
+
+ | n | Allows airports to communicate and coordinate with airlines and other key stakeholders to ensure that operations are optimized with airport-critical information that is otherwise unavailable. | n | Reduced tarmac delay fines and incidents. 
+-------------------------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Connectivity and Collaboration | n | Addresses one of the key missing pieces in connectivity and collaboration: the two-way flow of accurate, timely, and complete information between airport operators, airlines, and other key stakeholders. | n | Operational metrics directly affected by the lack of timely updates, including secondary/repeat deicing, delays, cancellations, and diversions. 
+ | n | Primary customer: airports (with airlines as key influencer). | n | A large hub airport reduced costs by $12 million using PASSUR Connectivity and Collaboration capabilities. 
+ | n | Reduces airlines' operating costs at the airport, and ensures all airlines pay the correct amount. | n | For airports, the program provides faster revenue capture, fiduciary accountability, revenue predictability, and more efficient and fair service to airline stakeholders. 
+Aviation Fees and Charges | n | Provides unique data independence, accuracy, and reliability – combined with proven reporting, audit, and billing services – to give airports and airlines the assurance that all billable weight is being captured, that the cost of the airfield is being distributed fairly and equitably, and that the process is transparent, automated, and standardized. | n | For airlines, the program ensures that they pay only their fair share. In addition, their fees could go down after the airport begins collecting all fees owed, and the time and effort required to manage their fees is reduced.
+ | n | Primary customer: airports (with airlines as key influencer). | n | PASSUR Landing Fee Management solution manages approximately $1.2 billion in aviation fees annually. 
+
+
+
+The Company believes its products, solutions, and services help its aviation customers generate significant returns by:
+ 
+
+(1) | improving financial performance and cutting costs; 
+----+----------------------------------------------------
+(2) | improving operational efficiency and effectiveness;
+(3) | increasing safety and security; and 
+(4) | improving the passenger experience. 
+
+ 
+The Company currently owns 23 issued patents and has an additional 16 patent applications pending with the United States Patent Office. The issued patents expire in various years through 2031.
+ 
+The Company also owns a federal trademark registration application in the mark PASSUR for use with both the PASSUR hardware system installation, and the software products which use the data derived from the PASSUR Network and other sources; and allowed federal trademark registrations for the marks NextGen2 and NextGen3, for use with PASSUR Integrated Traffic Management modules and capabilities.
+  Page 8 of 54
+ 
+
+The Company believes its business opportunities come from the following industry conditions and demand drivers:
+ 
+Airline Industry Dynamics
+ 
+
+· | Increasing airline profitability, driving investment in technology. We expect airlines will take advantage of their increased profitability to invest in technology that can lower costs, increase revenue, and improve customer satisfaction. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Consolidation in the airline industry creating demand for a common operating system. Airlines are consolidating into much larger networks of greater complexity. There is increasing demand for a common operating platform that can service their entire system. 
+· | Current rate of projected traffic growth outpacing aviation infrastructure capacity. There is a dynamic and fast-growing market environment where the projected increase in airline flights over the next 10 years is expected to outpace the current infrastructure's ability to meet the needs of the airline operators. Over time, airlines cannot rely on low-priced fuel and ancillary fees to grow their top line – they will need growth in capacity of the NAS to accommodate the expected growth in demand for air travel. PASSUR's solutions help the aviation industry maximize the capacity of the existing infrastructure. PASSUR has a business model and platform that can be easily scaled to handle new opportunities and is continually identifying new ways to capitalize on and scale these existing capabilities.
+· | Increased susceptibility to systemic disruption. The NAS has become much more sensitive to disruptions, and less capable of quickly rebounding, because of tightly-packed airline schedules, growth in passenger volumes, reduction in fleet sizes, and congestion at several key airport metroplexes. The NAS is highly susceptible to disruptions at several key airport metroplexes, which have a chronic and disproportionate delay impact that ripples across the system. 
+
+Government Policy
+ 
+
+· | New emphasis on infrastructure spending. The most recent U.S. election has resulted in an administration committed to large-scale infrastructure projects, which could include technologies, like PASSUR's, designed to increase efficiencies to ensure that public investments in existing and new infrastructure are efficient and cost-effective. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | New large government contracts combining both safety and efficiency capabilities. Today, there is a demand for a combination of safety-based Air Traffic Management ("ATM") and efficiency-based ATM. Many of the requested efficiency capabilities are derived from airline and airport customers' needs. 
+· | Government contracts require proven commercial viability for public programs. Increasingly, government RFPs for large-scale aviation systems and technologies require a proven track record of precursor models from the commercial sector, in order to shorten development time and ensure the broadest level of adoption by all stakeholders. Many companies regard PASSUR's substantial commercial market share as a means to increase the probability of winning NextGen and government contracts through the combination of PASSUR's commercial ATM (efficiency) with a partner's government ATM (safety) capabilities. PASSUR has been recognized as the commercial leader in aviation efficiency solutions.
+· | Lower tolerance for severe disruptions. Public policy in the form of expensive fines levied on airlines reflects this change of attitude. Consumers want better information relating to aviation, and fewer delays. 
+· | Limiting carbon emissions becoming a greater focus. Airlines are increasingly sensitive to the industry's carbon footprint. Several of the PASSUR solutions impact both fuel savings as well as reductions in carbon emissions. 
+
+The Connected Airplane and Internet of Things ("IoT")
+ 
+
+· | The Connected Airplane and the IoT are expected to grow in the coming years. PASSUR's existing aviation intelligence platform and solutions can integrate the vast array of data being generated from satellites, and sensors on airplanes. This platform can extract the most important data and integrate that data into a user-friendly solutions package for the user's critical real-time decisions.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Collaborative Decision Making
+ 
+
+· | Airlines, airports, government, and other aviation stakeholders are requesting a collaborative decision making platform. Large airlines need collaborative decision tools including common operating platforms, enabling instant coordination between system operations departments, hubs, and regional operators, and between airlines and airports, to solve complex operational procedures. Common use systems will incorporate airport-centric as well as airline-centric solutions. Airports are increasingly being tasked with providing more multi-airline operational services, previously provided by each airline. When airports provide collective services, redundancy and costs can be reduced. PASSUR has been asked by airlines and airports to help fulfill this need.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ Page 9 of 54
+ 
+Automation and Data Standards
+ 
+
+· | Significant shift from manual processes to automation creating large opportunities for cost savings and efficiencies. Many complex and expensive operational processes at airlines and airports are still manual, opening a large opportunity for automation enabling the realization of cost savings and efficiencies. These opportunities are especially prevalent in the areas of irregular operations, airspace and surface management, and operations where there is a heavy requirement for collaboration among airlines and airports.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | PASSUR's entire network has been ADS-B ready for some time and PASSUR is looking forward to capitalizing on the increasing availability of ADS-B data. ADS-B will eventually become a ubiquitous form of aircraft surveillance. 
+
+How PASSUR Generates Revenue
+ 
+The Company's revenues are generated by selling: (1) subscription-based, real-time decision and solution information and (2) professional services. Under the subscription model, the customer typically signs a contract for access to the information services ranging from one year to five years. The agreement also provides that the information from the PASSUR Network cannot be resold, used by others, or used for unauthorized purposes.
+Distribution Method
+ 
+The Company's direct sales force sells its products, as do authorized distributors or integrators who sell PASSUR's products as part of their total solution, e.g. for environmental management.
+Competition
+ 
+PASSUR has developed a full suite of capabilities to reduce inefficiencies and improve performance across the markets it serves. There is no other company, to PASSUR's knowledge, which offers these capabilities. There are, however, other forms of flight tracking, surveillance, and aviation business intelligence products. Depending on the end use of the Company's products, primary competitors include Sabre, Airbus, Saab, The Weather Company/IBM, and Harris Corporation. The Company also sells certain data solutions through systems integrators, including Bruel & Kjaer, some of which may also sell products that are competitive with those offered by the Company. Most of these companies have larger sales forces and greater financial resources than the Company.
+Source of Materials
+ 
+The Company obtains its components from distributors and manufacturers throughout the United States. The Company has multiple sources from which to obtain a majority of its components.
+Dependence on Certain Customers
+ 
+Three customers accounted for 45%, or $6,698,000, of total revenues in fiscal year 2016. One customer accounted for 17% or $2,555,000, a second customer accounted for 17% or $2,460,000, and a third customer accounted for 11% or $1,683,000 of total revenues in fiscal year 2016. One of PASSUR'S customers, who accounted for 11% of total revenues during fiscal year 2016, did not renew a contract that expired on December 31, 2016.  However, PASSUR believes that the impact from the revenue to be recognized from new customer contracts previously signed during fiscal year 2016, and the anticipated revenues from either that company and/or new customer acquisitions in fiscal year 2017, is expected to offset the non-renewal of this agreement in fiscal year 2017. Three customers accounted for 41%, or $5,094,000, of total revenues in fiscal year 2015. One customer accounted for 14% or $1,740,000, a second customer accounted for 13% or $1,692,000, and a third customer accounted for 13% or $1,662,000 of total revenues in fiscal year 2015. As of October 31, 2016, the Company had three customers each of which accounted for 10% or more of the accounts receivable balance. One customer accounted for 30%, or $330,000, a second customer accounted for 19%, or $213,000, and a third customer accounted for 14%, or $157,000. As of October 31, 2015, the Company had two customers each of which accounted for 10% or more of the accounts receivable balance. One customer accounted for 17%, or $215,000, and a second customer accounted for 15%, or $192,000. There were no significant past due accounts receivable balances for any customers as of the fiscal year ended October 31, 2016.
+ 
+ Page 10 of 54
+ 
+Research and Development
+ 
+The Company's research and development efforts include activities associated with the enhancement, maintenance, and improvement of the Company's existing hardware, software, and information products. These expenses amounted to $826,000 and $725,000 in fiscal years 2016 and 2015, respectively.
+Environmental Costs
+ 
+The Company is not aware of any environmental issues that would have a material adverse effect on future capital expenditures or current and future business operations.
+Employees
+ 
+The Company employed 49 employees, of which 43 were full-time, including three officers, as of October 31, 2016. None of its employees is subject to any collective bargaining agreements.
+ 
+Available Information
+ 
+Stockholders may obtain copies of our filings with the SEC, free of charge from the website maintained by the SEC at www.sec.gov or from our website at www.passur.com. Further, a copy of this Annual Report on Form 10-K is located at the SEC's Public Reference Room at 100 F Street NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. Our filings will be available on our website as soon as reasonably practicable after we electronically file such materials with the SEC. However, the information from our website is not incorporated by reference into this report.

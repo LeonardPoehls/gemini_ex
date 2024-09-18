@@ -1,0 +1,718 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+Company Overview
+ 
+Bionik Laboratories Corp. is a robotics company focused on providing rehabilitation and mobility solutions to individuals with neurological and mobility challenges from hospital to home. The Company has a portfolio of products focused on upper and lower extremity rehabilitation for stroke and other mobility impair patients, including three products in the market and four products in varying stages of development. The InMotion Systems - the InMotion ARM, In Motion Wrist, InMotion Hand – are designed to provide intelligent, adaptive therapy in a manner that has been clinically verified to maximize neurorecovery. Bionik is also developing a lower-body exoskeleton - the ARKE - designed to allow paraplegics as well as other wheelchair users the ability to rehabilitate through walking. ARKE is defined to continually adapt to the patient’s ability and provide real time feedback to the physiotherapist.
+ 
+The Company acquired it in-market FDA listed products on April 21, 2016, when we acquired all of the outstanding shares and, accordingly, all assets and liabilities of Interactive Motion Technologies, Inc., a Boston, Massachusetts-based global pioneer and leader in providing effective robotic products for neurorehabilitation, pursuant to an Agreement and Plan of Merger, dated March 1, 2016, with IMT, Hermano Igo Krebs, and Bionik Mergerco Inc., a Massachusetts corporation and our wholly owned subsidiary. The merger agreement provided for the merger of Bionik Mergerco with and into IMT, with IMT surviving the merger as our wholly-owned subsidiary. As consideration, IMT shareholders received an aggregate of 23,650,000 shares of our common stock.
+ 
+Through the acquisition of IMT, Bionik has added the portfolio focused on upper and lower extremity rehabilitation of stroke patients. Our product and development pipeline now includes three FDA listed upper extremity clinical rehabilitation products, a lower- body product InMotion AnkleBot being developed for clinical trials, as well as other potential new development product candidates. In addition, our development team has begun improvements to our current products that are on the market to be more competitive.
+ 
+The InMotion ARM, InMotion ARM/HAND, and InMotion Wrist have been characterized as Class II medical devices by the U.S. Food and Drug Administration and are listed with the FDA to market and sell in the United States. The products have also been sold in over 20 other countries. In addition to these in-market products, the InMotion AnkleBot is a development candidate, and we are also developing the InMotion Home, which is an upper extremity product that allows the patient to extend their therapy for as long as needed while rehabilitating at home. This is being developed on the same design platform as the InMotion clinical products. All of the above products are designed to provide intelligent, patient-adaptive therapy in a manner that has been clinically verified to maximize neuro-recovery.
+ 
+Two hundred fifty of our clinical robotics products for stroke have been sold in over 20 countries, including the United States. We have a growing body of clinical data for our products. In addition, our Massachusetts-based manufacturing facility is compliant with ISO-13485 and FDA regulations.
+ 
+In addition, we are developing for commercialization the ARKE lower body exoskeleton. We have a further development candidate for gait assistance for rehabilitation, which we expect to further advance as funds allow in 2018 assuming resources are available. We plan to develop other biomechatronic solutions, including consumer-level medical assistive and rehabilitative products, through internal research and development and we may in the future further augment our product portfolio through acquisition opportunities.
+ 
+We have partnered with industry leaders in manufacturing and design and have also expanded our development team through partnerships with researchers and academia. Most recently, on May 23, 2017, we entered into a Co-operative Joint Venture Contract with Ginger Capital Investment Holding Ltd. to establish a cooperative joint venture enterprise in the People’s Republic of China and on June 22, 2017 we entered into a joint development and manufacturing agreement with Wistron Medical Tech Holding Company of Taiwan to jointly develop a consumer mobility product targeting the aging population.
+ 
+We currently hold an intellectual property portfolio that includes 5 U.S. and international pending patents, as well as other patents under development. We may file provisional patents from time to time, which may expire if we do not pursue full patents within 12 months of the filing date. The provisional patents may not be filed as full patents and new provisional patents may be filed as the technology evolves or changes. Additionally, as a result of our acquisition of IMT, we hold exclusive licenses to three additional patents. Patented technology used in the InMotion Wrist is licensed to us from the Massachusetts Institute of Technology.
+ 
+We have a history of net losses. We had $571,945 of revenue for the year ended March 31, 2017 (March 31, 2016 – nil).
+ 
+The Acquisition Transaction and Offering
+ 
+On February 26, 2015, we entered into an Investment Agreement (the “Investment Agreement”) with Bionik Acquisition Inc., a company existing under the laws of Canada and our wholly owned subsidiary (“Acquireco”), and Bionik Laboratories, Inc. (“Bionik Canada”), whereby we acquired 100 Class 1 common shares of Bionik Canada representing 100% of the outstanding Class 1 common shares of Bionik Canada, taking into account the Exchangeable Share Transaction (as defined below) (the “Acquisition Transaction”). After giving effect to the Acquisition Transaction, we commenced operations through Bionik Canada.
+ 
+Bionik Canada was incorporated on March 24, 2011 under the Canada Business Corporations Act. Bionik Canada’s principal executive office is located at 483 Bay Street, N105, Toronto, ON Canada M5G 2C9 and its telephone number is (416) 640-7887 x108. Our website address is www.bioniklabs.com.
+ 
+
+3
+-
+
+ 
+
+Immediately prior to the closing of the Acquisition Transaction and the First Closing (as defined below), we transferred all of the business, properties, assets, operations and goodwill of the Company (other than cash and cash equivalents), and liabilities as of March 6, 2013, to our then-existing wholly owned subsidiary, Strategic Dental Alliance, Inc., a Colorado corporation (“Strategic Dental Alliance”), and then transferred all of the capital stock of Strategic Dental Alliance to Brian E. Ray, a former officer and existing director (through March 20, 2015) and Jon Lundgreen, a former officer and director, pursuant to a Spin-Off Agreement (the “Spin-Off Agreement”). Also as of immediately prior to the closing of the Acquisition Transaction and the First Closing, we entered into an Assignment and Assumption Agreement with Tungsten 74 LLC, pursuant to which Tungsten 74 LLC assumed all of our remaining liabilities through the closing of the Acquisition Transaction (the “Assignment and Assumption Agreement”). Accordingly, as of the closing of the Acquisition Transaction and the First Closing, we had no assets or liabilities.
+ 
+As a condition of the closing of the Acquisition Transaction, Bionik Canada created a new class of exchangeable shares (the “Exchangeable Shares”), which were issued to the existing common shareholders of Bionik Canada in exchange for all of their outstanding common shares, all of which were cancelled (the “Exchangeable Share Transaction”).
+ 
+Pursuant to the rights and privileges of the Exchangeable Shares, the holders of such Exchangeable Shares maintain the right to (i) receive dividends equal to, and paid concurrently with, dividends paid by the Company to the holders of Common Stock; (ii) vote, through the Trustee’s voting of the Special Voting Preferred Stock (as defined herein) on all matters that the holders of Common Stock are entitled to vote upon; and (iii) receive shares of Common Stock upon the liquidation or insolvency of the Company upon the redemption of such Exchangeable Shares by Acquireco. The Exchangeable Shares do not give the holders any economic, voting or other control rights over Bionik Canada.
+ 
+As part of the Exchangeable Share Transaction, we entered into the following agreements, each dated February 26, 2015:
+ 
+
+· | Voting and Exchange Trust Agreement (the “Trust Agreement”) with Bionik Canada and Computershare Trust Company of Canada (the “Trustee”); and
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Support Agreement (the “Support Agreement”) with Acquireco and Bionik Canada.
+--+------------------------------------------------------------------------------
+
+ 
+Pursuant to the terms of the Trust Agreement, the parties created a trust for the benefit of its beneficiaries, which are the holders of the Exchangeable Shares, enabling the Trustee to exercise the voting rights of such holders until such time as they choose to redeem their Exchangeable Shares for shares of the common stock of the Company, and allowing the Trustee to hold certain exchange rights in respect of the Exchangeable Shares.
+ 
+As a condition of the Trust Agreement and prior to the execution thereof, we filed a Certificate of Designation with the Delaware Secretary of State, effective February 20, 2015, designating a class of our preferred shares as The Special Voting Preferred Stock (the “Special Voting Preferred Stock”) and issued one share of The Special Voting Preferred Stock to the Trustee.
+ 
+The Special Voting Preferred Stock entitles the Trustee to exercise the number of votes equal to the number of Exchangeable Shares outstanding on a one-for-one basis during the term of the Trust Agreement. The Trust Agreement further sets out the terms and conditions under which holders of the Exchangeable Shares are entitled to instruct the Trustee as to how to vote during any stockholder meetings of our company.
+ 
+Pursuant to the terms of the Trust Agreement, we granted the Trustee the right to require our Company to purchase the Exchangeable Shares from any beneficiary upon the occurrence of certain events including in the event that we are bankrupt, insolvent or our business is wound up. The Trust Agreement continues to remain in force until the earliest of the following events: (i) no outstanding Exchangeable Shares are held by any beneficiary under the Trust Agreement; and (ii) each of Bionik Canada and us elects to terminate the Trust Agreement in writing and the termination is approved by the beneficiaries.
+ 
+Pursuant to the terms of the Support Agreement, we agreed to certain covenants while the Exchangeable Shares were outstanding, including: (i) not to declare or pay any dividends on our common stock unless simultaneously declaring the equivalent dividend for the holders of the Exchangeable Shares, (ii) advising Bionik Canada in advance of any dividend declaration by our company, (iii) ensure that the record date for any dividend or other distribution declared on the shares of the Company is not less than seven days after the declaration date of such dividend or other distribution; (iv) taking all actions reasonably necessary to enable Bionik Canada to pay and otherwise perform its obligations with respect to the issued and outstanding Exchangeable Shares, (iv) to ensure that shares of the Company are delivered to holders of Exchangeable Shares upon exercise of certain redemption rights set out in the agreement and in the rights and restrictions of the Exchangeable Shares, and (v) reserving for issuance and keeping available from our authorized common stock such number of shares as may be equal to: (A) the number of Exchangeable Shares issued and outstanding from time to time; and (B) the number of Exchangeable Shares issuable upon the exercise of all rights to acquire Exchangeable Shares from time to time.
+ 
+The Support Agreement also outlines certain restrictions on our ability to issue any dividends, rights, options or warrants to all or substantially all of our stockholders during the term of the agreement unless the economic equivalent is provided to the holders of Exchangeable Shares. The Support Agreement is governed by the laws of the Province of Ontario.
+ 
+Concurrently with the closing of the Acquisition Transaction and in contemplation of the Acquisition Transaction, we sold 7,735,750 units (the “Units”) for gross proceeds of $6,188,600 (including $500,000 of outstanding bridge loans converted into Units at the offering price) at a purchase price of $0.80 per Unit (the “Purchase Price”) in a private offering (the “Offering”). Each Unit consists of one share of common stock, par value $0.001 per share (the “Common Stock”) and a warrant (the “Warrant”) to purchase one share of Common Stock at an initial exercise price of $1.40 per share (the “Warrant Shares”). Highline Research Advisors LLC, formerly an affiliate of Merriman Securities, acted as placement agent in the Offering along with sub-agents.
+ 
+
+4
+-
+
+ 
+
+The Offering was being offered with a minimum offering amount of $6,000,000 (the “Minimum Offering Amount”) and up to a maximum offering amount of $12,800,000 (subject to an up-to $2,600,000 overallotment option). Once the Minimum Offering amount was reached and held in escrow and other conditions to closing were satisfied (including the simultaneous closing of the Acquisition Transaction), the Company and the placement agent were able to conduct a first closing (the “First Closing”). Pursuant to the terms of a Registration Rights Agreement, we filed a registration statement on Form S-1 (or any other applicable form exclusively for the Offering) (the “Registration Statement”) registering for resale under the Securities Act all of the shares of Common Stock sold in the Offering and Warrant Shares underlying the Warrants. As a result of the Offering, after payment of placement agent fees and expenses but before the payment of other offering expenses such as legal and accounting expenses, we received net proceeds of approximately $5,339,778 at the First Closing, including the $500,000 in bridge loans we previously received that were taken into account as part of the Minimum Offering Amount. In addition, the placement agent is entitled to 10% warrant coverage for all Units sold in the Offering, which we intend to issue upon the last closing of the Offering for all Units sold in the Offering. The warrants will be exercisable at $0.80 per share for a period of 4 years.
+ 
+As of the Acquisition Transaction and the First Closing, an aggregate of 90,575,126 shares of our Common Stock were deemed cancelled, of which 90,207,241 were held by our former Chief Executive Officer.
+ 
+Immediately following the Acquisition Transaction, the Exchangeable Share Transaction and the First Closing, there were approximately 63,735,813 shares of our common stock and equivalents issued and outstanding of which approximately 6,000,063 were held by existing stockholders, 7,735,750 were held by the investors in the Offering and Bionik Canada shareholders held an equivalent of 50,000,000 shares of our common stock through their ownership of 100% of the Exchangeable Shares.
+ 
+On March 27, 2015, we sold to accredited investors in a second closing, 1,212,500 Units for gross proceeds of $970,000 at the Purchase Price. After payment of placement agent fees and expenses, but before the payment of other Offering expenses such as legal and accounting expenses, we received net proceeds of $828,900.
+ 
+On March 31, 2015, we sold to accredited investors in a third closing of the Offering, 891,250 Units for gross proceeds of $713,000 at the Purchase Price. After payment of placement agent fees and expenses, but before the payment of other offering expenses such as legal and accounting expenses, we received net proceeds of $615,901.
+ 
+On April 21, 2015, we sold to accredited investors in a fourth closing of the Offering, 3,115,000 Units for gross proceeds of $2,492,000 at the Purchase Price. After payment of placement agent fees and expenses, but before the payment of other offering expenses such as legal and accounting expenses, we received net proceeds of $2,153,040.
+ 
+On May 27, 2015, we sold to accredited investors in a fifth closing of the Offering, 1,418,750 Units for gross proceeds of $1,135,000 at the Purchase Price. After payment of placement agent fees and expenses, but before the payment of other offering expenses such as legal and accounting expenses, we received net proceeds of $987,434.
+ 
+On June 30, 2015, we sold to accredited investors in a sixth and final closing of the Offering, 2,035,000 Units for gross proceeds of $1,628,000 at the Purchase Price. After payment of placement agent fees and expenses, but before the payment of other offering expenses such as legal and accounting expenses, we received net proceeds of approximately $1,416,344.
+ 
+Through the final closing of the Offering on June 30, 2015, we raised in the Offering aggregate gross proceeds of $13,126,600.
+ 
+Products in Market
+ 
+InMotion ARM
+ 
+The InMotion ARM is characterized as a Class II medical device by the U.S. and is listed with the FDA as 510(k) exempt, allowing the product to be marketed in the United States. The product is an evidence-based intelligent interactive rehabilitation technology that senses patient movements and limitations, providing assistance as needed in real time. It allows clinicians to effectively deliver optimum intensive sensor motor therapy to the shoulder and elbow to achieve the development of new neural pathways.
+ 
+InMotion ARM/HAND
+ 
+The InMotion ARM/HAND is characterized as a Class II medical device by the U.S. and is listed with the FDA as 510(k) exempt, allowing the product to be marketed in the United States. The product is an add-on module to be used with the InMotion ARM. The two work together to provide as needed support for reaching with grasp and release movements, or independently for focused training on individual hand movements. It allows clinicians to efficiently deliver optimum intensive sensor motor therapy to the hand to achieve the development of new neural pathways.
+ 
+InMotion WRIST
+ 
+The InMotion WRIST is characterized as a Class II medical device by the U.S. and is listed with the FDA as 510(k) exempt, allowing the product to be marketed in the United States. The product is an evidence based interactive rehabilitation device that senses patient movements and limitations, and provides assistance as needed. It can accommodate the range of motion of a normal wrist in everyday tasks and can be used by clinicians as a stand-alone treatment option or in addition to the InMotion ARM. The InMotion WRIST enables clinicians to efficiently deliver optimum intensive sensor motor wrist and forearm therapy to patients with neurological conditions.
+ 
+We have commenced a development project geared towards advancing the existing InMotion products to improve the user experience and product design. We intend to launch this next generation product line towards the end of 2017.
+ 
+
+5
+-
+
+ 
+
+Two Hundred Fifty InMotion products have been sold for research and rehabilitation in over 20 countries, including the United States. Extensive research has shown the InMotion products to be effective, especially for stroke and cerebral palsy. Based on clinical trials of the InMotion ARM conducted by the U.S. Department of Veterans Affairs, the American Heart Association (AHA) Stroke council recommended, in 2010, the use of robot-assisted therapy to improve upper extremity motor coordination in individuals with some voluntary finger extension in outpatient and chronic care settings. The Department of Veterans Affairs clinical trials demonstrated efficacy and a reduction in healthcare expenses when using the InMotion ARM when compared to non-robotic therapy.
+ 
+The InMotion product was exclusively selected for the Robot Assisted Training for the Upper Limb after Stroke (RATULS) study – which is funded by the NIHR Health Technology Assessment (HTA) Program conducted throughout the United Kingdom (the UK National Health System) that employs our InMotion upper extremity robotic gym. The study contemplates the enrollment of 720 stroke patients in a multi-center, randomized controlled research trial to evaluate the clinical and cost effectiveness of robot-assisted training in post-stroke care, that is expected to be completed before the end of 2018 with results to be published in 2019.
+ 
+Product Pipeline
+ 
+InMotion AnkleBot
+ 
+The InMotion AnkleBot is an exoskeletal robotic system using the same principles as used in the InMotion upper extremity rehabilitation products described above. The product was designed in close collaboration with the Newman Laboratory for Biomechanics and Human Rehabilitation at MIT. The product is currently in multiple clinics used for research and a clinical plan to obtain FDA listing to market and for use in the United States will be developed as funding allows.
+ 
+InMotion HOME
+ 
+The InMotion Home is an upper extremity product that would allow patients to extend their therapy for as long as needed while rehabilitating at home, and is being developed on the same design platform as the InMotion clinical products described above. The InMotion Home is currently in development and we expect to release it commercially in 2018.
+ 
+ARKE
+ 
+The ARKE is a robotic lower body exoskeleton designed for wheelchair bound individuals suffering from spinal cord injuries, stroke and other mobility disabilities. It is designed with a control system with adaptive walking and step recovery, and a system that collects data from all sensors on the device which could allow patients to restore proper walking gait, rehabilitate more efficiently and finally could improve current methods of manual rehabilitation and its future results. The ARKE incorporates a built-in removable data interface that will give the physiotherapist full control of the product but also will allow the patient to visually see their own progress.
+ 
+The ARKE is expected to complement or replace existing rehabilitation methods by enabling a patient full motion control and increasing feedback for physicians and care providers during the rehabilitation process. Further, the ability to walk during rehabilitation has the potential to reduce bone density loss, muscle atrophy, secondary illness and the frequency of re-hospitalization, while potentially helping to increase blood flow and nutrient delivery throughout the body. It is also believed that additional potential improvements in patients is expected to include, but are not limited to better bowel control, better bladder control and medication reduction.
+ 
+Additionally, the ARKE will have the capability to interface with the provided tablet computer to allow the clinician or a rehabilitation specialist to program, change, edit and select different features within the ARKE system platform, such as selecting or saving a patient’s profile, adjusting the rehabilitation movement speed or walking gait. The tablet interface is designed to allow for the staff to be in close proximity to the user, allowing for them to closely monitor the ARKE at all times during use, making the process safer and more reliable and facilitating post session data analysis.
+ 
+We have achieved significant progression in the ARKE development. Generation 2 of the ARKE exoskeleton development was completed in the second quarter of 2015 as planned and currently the manufacturing phase of the entire system is underway. We are currently collaborating with an ongoing product feasibility and development study of the ARKE with the University of Ottawa Rehabilitation Hospital (UORH), and have started evaluations of the development product with the UORH in Canada in 2017. We are currently focused on the Canadian market due to lower costs and faster possible approval from Health Canada, which is expected in 2017 or 2018.
+ 
+Other Prospective Products
+ 
+We have a new product candidate for gait assistance for rehabilitation based on a design being developed by Dr. Krebs and licensed by him, and we expect to further advance the development of this product in 2018, as funding allows.
+ 
+We may from time to time expand our product offerings and enhance the strength of our Company through internal development, as well as through strategic and accretive partnerships or acquisitions from time to time.
+ 
+Competition and Competitive Advantage
+ 
+The medical technology equipment industry is characterized by strong competition and rapid technological change. There are a number of companies developing technologies that are competitive to our existing and proposed products, many of them, when compared to our Company, having significantly longer operational history and greater financial and other resources.
+
+6
+-
+
+ 
+
+The ARKE faces competition from companies that are focused on technologies for rehabilitation of patients suffering from spinal cord injuries, stroke and related neurological disabilities. Our competitors that we expect to compete with the ARKE in spinal cord rehabilitation therapies include Rewalk Robotics, Ekso Bionics, and Rex Bionics, each of which sell over-ground, weight bearing exoskeletons. The InMotion product line may compete with products developed or sold by Parker Hannifin, Cyberdyne, Hocoma, AlterG, Aretech, Ekso Bionics, Parker Hannifin and Reha Technology.
+ 
+We believe that the ARKE’s primary advantage over the aforementioned products is that it has been designed to facilitate a selling price, which we believe could be more affordable to the market than currently approved products. When comparing the ARKE to treadmill- based products available to the rehabilitation market, the ARKE has a smaller footprint, uses standard power sources, does not need any special infrastructure and is expected to be more affordable. Importantly, the ARKE is expected to be able to mobilize pre- or non- ambulatory patients as it is a full weight-bearing product. Additional advantages include our patented patient profiling system, and 3D trigger point system.
+ 
+The primary competitor for the InMotion product line of upper-body rehabilitation robots is Hocoma, a Swiss-based company. We believe that the InMotion product line’s primary advantage over Hocoma is the evidence based, research proven data that supports each of our products. Evidence based, research proven data is used to support reimbursement from health systems, insurance companies and governments.
+ 
+Our challenge will be achieving rapid market awareness and adoption of our emerging technology in rehabilitation and mobility centers throughout the U.S., Canada and any other market we may enter. Our InMotion products and technologies are expected to significantly help with our clinical trials and our ability to launch ARKE, InMotion Ankle and the lower-extremity development product into the market. , as we intend to leverage clinical data on our rehabilitative products and international distributorships and relationships with rehabilitation centers around the world.
+ 
+Robotic technology and its use in clinical settings is a new and emerging industry and is regulated by medical device regulatory agencies (such as the US Food and Drug Administration). We believe that we will face challenges of increased regulatory scrutiny, possible changes in regulator’s requirements, meeting quality control standards of various government regulators, increased competition in the future based on other new technologies, additional features and customizability, reduced pricing, clinical outcomes and other factors. Our strength in this market will depend on our ability to achieve market acceptance, develop new technologies, develop new products, implement production plans, develop marketing strategies, secure regulatory approvals, secure necessary data for reimbursement, protect our intellectual property and have sufficient funding to meet all these challenges.
+ 
+The market for the Company’s other prospective products also has competition and is subject to rapid technological change and regulatory requirements. There can be no assurance that the Company will be in a strong position to respond quickly to potential acquisitions and other market opportunities, new or emerging technologies and changes in customer requirements. Failure to maintain and enhance our competitive position could materially affect the business and our prospects.
+ 
+Market Strategy
+ 
+The Company’s current products are designed to be rehabilitation products and mobility solutions for patients in hospitals and clinics. We currently have three robotic products that listed with the FDA, which are the products sold through our own sales team in the United States, as well as through third party distributors around the world.
+ 
+We are currently completing the safety testing and general proof of concept testing for our ARKE and the InMotion AnkleBot development products. We have also prepared feasibility protocols, which will test the ARKE product on paraplegic patients and gauge the medical benefits and other parameters before doing clinical trials. For the ARKE, we anticipate receiving clearance from Health Canada in 2017, and later pursue approval with the FDA if we have the funds to do so. We plan to focus initially on clinical trials in Canada and Europe before the U.S. due to the lower cost of trials in Canada and Europe.
+ 
+We expect that the InMotion AnkleBot will rely on certain clinical data obtained from research sites it is currently located at, as well as data that supports the upper extremity InMotion product line, and we expect to do the clinical work required by the FDA as funding allows.
+ 
+We expect that InMotion Home, our planned home version of our InMotion product line, will be released to the market in 2018.
+ 
+Our market strategy will be the development of hospital and clinic relationships that will allow us to gain acceptance of the technology among experts and patients. We are also seeking a number of government grants in collaboration with various hospitals and clinics to allow us to partially fund trials and research projects. We expect to gain traction among the doctors and experts involved in the distribution and buying groups that are established within those selected partner hospitals. We expect to also conduct clinical trials in other countries for the purpose of gaining traction in those markets.
+ 
+During the first market phase, we may sell or rent at a monthly or other fee structure for our products to hospitals, clinics, distribution companies and/or buying groups that supply those rehabilitation facilities. We are also considering other revenue models.
+ 
+Intellectual Property
+ 
+We use intellectual property developed, acquired or licensed, including patents, trade secrets and technical innovations to provide our future growth and to build our competitive position. We have 5 U.S. and international patents pending and other patents under development. As we continue to expand our intellectual property portfolio, it is critical for us to continue to invest in filing patent applications to protect our technology, inventions, and improvements. However, we can give no assurance that competitors will not infringe on our patent rights or otherwise create similar or non-infringing competing products that are technically patentable in their own right.
+
+7
+-
+
+ 
+
+Our patents pending, all of which are expected to expire in 2033 or 2034, are as follows:
+ 
+
+Algorithms & Control Systems | Filed US & International
+-----------------------------+-------------------------
+Sensory Technology | Filed US & International
+Robotics | Filed US & International
+Robotics | Filed US & International
+Robotics | Filed US & International
+
+ 
+We may file provisional patents from time to time, which may expire if we do not pursue full patents within 12 months of the filing date. The provisional patents may not be filed as full patents and new provisional patents may be filed as the technology evolves or changes.
+ 
+The following are the patents licensed to us, that we acquired on April 21, 2016:
+ 
+
+Patent # | | Description | | Date | | Expiration
+---------+-----------+-------------+----------------------------------------------------------------------------------------------------------------------+------+----------+-----------
+ | 7,618,381 | | Wrist and Upper Extremity Motion (MIT License) | | 11/17/09 | | 10/27/2024
+ | 7,556,606 | | Pelvis Interface: key components for effective motor neuro- Rehabilitation of lower extremities (MIT License) | | 07/07/09 | | 05/17/2027
+ | 8,613,691 | | Dynamic Lower Limb Rehabilitation Robotic Apparatus And Method of Rehabilitating Human Gait (Krebs/Bosecker License) | | 12/24/13 | | 4/16/2030 
+
+ 
+IMT entered into an Agreement, executed on December 31, 1999, to license the first two above-referenced patents from MIT with a royalty of 3% on sales within the United States and 1.5% for sales outside the United States, with a minimum annual royalty of $10,000. As of the date of this Annual Report on Form 10-K, we have not determined whether we intend to commercialize the patent relating to the pelvis.
+ 
+Dr. Krebs, one of our directors, is a co-licensor pursuant to an Agreement dated June 8, 2009, of patent #8,613,691, pursuant to which we are required to pay Dr. Krebs and Caitlyn Joyce Bosecker an aggregate royalty of 1% of sales based on such patent. As this product connected to the patent is not yet commercialized, no sales have been made.
+ 
+We have to date and generally plan to continue to enter into non-disclosure, confidentially and intellectual property assignment agreements with all new employees as a condition of employment. In addition, we intend to also generally enter into confidentiality and non-disclosure agreements with consultants, manufacturers’ representatives, distributors, suppliers and others to attempt to limit access to, use and disclosure of our proprietary information.
+ 
+Research and Development
+ 
+Our research and development programs are pursued by engineers and scientists employed by us in Toronto and Boston on a full-time basis or hired as per diem consultants. InMotion products are based on research and development originally done at MIT. Our InMotion Wrist product is based on a patent that we license from MIT.
+ 
+We also work with advisors who are industry leaders in manufacturing and design and researchers and academia. These include Dr. Edward Lemaire of the University of Ottawa and Dr. Kaamran Raahemifar of Ryerson University. We are also working with subcontractors in developing specific components of our technologies. The primary objective of our research and development program is to advance the development of our existing and proposed products, to enhance the commercial value of such products. Furthermore, with our acquisition of IMT, we have significantly strengthened our robotics knowledge and access to know-how through the two founders of IMT who are professors at MIT’s Robotics Engineering Department and well known leaders in the field of robotics around the world.
+ 
+In March 2017, we entered into an option agreement with The University of Texas at Dallas (“UT Dallas”) with respect to certain of UT Dallas’ novel robotics and control systems technologies. The agreement establishes a one-year period in which we can evaluate these technologies, and grants to us an exclusive option to negotiate an exclusive, worldwide license under certain patent rights owned by UT Dallas, as well as an option to negotiate a non-exclusive license under certain technology rights owned by UT Dallas. We are evaluating these technologies to determine whether they can be used to enhance our planned assistive product line expansion. The Company has a commitment of $1,000 per month for 12 months to give it time to decide if it wants to license the technology.
+ 
+For the fiscal years ended March 31, 2017 and March 31, 2016, the Company incurred $2,633,146 and $1,397,554, respectively, in research and development costs.
+ 
+
+8
+-
+
+Government Regulation
+ 
+General
+ 
+Our medical technology products and operations are subject to regulation by the U.S. Food and Drug Administration (“FDA”) and various other federal and state agencies, as well as foreign governmental agencies in Canada, Europe, South America and Asia. These agencies enforce laws and regulations that govern the development, testing, manufacturing, labeling, advertising, marketing and distribution, and market surveillance of our medical device products.
+ 
+In addition to the below, other regulations we encounter are the regulations that are common to all businesses, such as employment legislation, implied warranty laws, and environmental, health and safety standards, to the extent applicable. We will also encounter in the future industry-specific government regulations that would govern our products, if and when developed for commercial use. It may become the case that other regulatory approvals will be required for the design and manufacture of our products and proposed products.
+ 
+U.S. Regulation
+ 
+Under the U.S. Federal Food, Drug, and Cosmetic Act, medical devices are classified into one of three classes — Class I, Class II or Class III — depending on the degree of risk associated with each medical device and the extent of control needed to ensure safety and effectiveness. The ARKE is expected to be a Class II product (products similar to the ARKE are currently designated by the FDA as Class II for supervised use). Class II devices require a 510(k) premarket submission to the US FDA. Equivalent agencies in other countries also require similar submissions prior to the device being marketed. The InMotion clinical products have been characterized as Class II medical devices by the FDA. In addition, our manufacturing facility in Boston is compliant with ISO-13485 and FDA regulations.
+ 
+We also are required to establish a suitable and effective quality management system, which establishes controlled processes for our product design, manufacturing, and distribution. We are doing this in compliance with the internationally recognized standard ISO 13485:2013 Quality Management Systems. Following the introduction of a product, the FDA and foreign agencies may engage in periodic reviews of our quality systems, as well as product performance and advertising and promotional materials. These regulatory controls, as well as any changes in FDA or other foreign agencies’ policies, can affect the time and cost associated with the development, introduction and continued availability of new products. Where possible, we anticipate these factors in our product development processes. These agencies possess the authority to take various administrative and legal actions against us, such as product recalls, product seizures and other civil and criminal sanctions.
+ 
+Foreign Regulation
+ 
+In addition to regulations in the United States, we will be subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products in foreign countries. The ARKE has been designated as the equivalent to a Class I device with Health Canada and InMotion products have also been designated as Class I devices with Health Canada. Whether or not we obtain FDA clearance for the marketing, sale and use of a product, we must obtain approval of a product by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The process varies from country to country, and the time may be longer or shorter than that required by the FDA. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from country to country.
+ 
+The policies of the FDA and foreign regulatory authorities may change and additional government regulations may be enacted which could prevent or delay regulatory approval of our products and could also increase the cost of regulatory compliance. We cannot predict the likelihood, nature or extent of adverse governmental regulation that might arise from future legislative or administrative action, either in the United States or abroad.
+ 
+Employees
+ 
+As of June 25, 2017 we had 8 full-time employees, 1 part-time employee, and 4 consultants who are based in our principal executive office located in Toronto, Canada, and 13 full time employees, 2 part-time employees, and 4 consultants who are connected to our Boston, Massachusetts facility. These employees oversee day-to-day operations of the Company supporting management, engineering, manufacturing, sales and marketing and administration functions of the Company. As required, we also engage consultants to provide services to the Company, including quality assurance and corporate services. We have no unionized employees.
+ 
+Subject to available funds, we plan to hire up to 5 additional full-time employees within the next 12 months whose principal responsibilities will be the support of our research and development, clinical development, production, sales and marketing and commercialization/ business development activities.
+ 
+We consider relations with our employees to be satisfactory.
+ 
+
+9
+-
+
+RISK FACTORS
+ 
+Investment in our common stock involves a substantial degree of risk and should be regarded as speculative. You should carefully consider the risk and uncertainties described below in addition to the other information in this Annual Report on Form 10-K and other information incorporated herein by reference. Additional risks and uncertainties of which we are unaware or which we currently believe are immaterial could also materially adversely affect our business, financial condition or results of operations. In any case, the trading price of our common stock could decline, and you could lose all or part of your investment.
+ 
+We have a limited operating history upon which investors can evaluate our future prospects.
+ 
+We have a limited operating history, upon which an evaluation of our business plan or performance and prospects can be made. The business and prospects of the Company must be considered in the light of the potential problems, delays, uncertainties and complications encountered in connection with a newly established business and creating a new industry. The risks include, but are not limited to, the possibility that we will not be able to develop functional and scalable products and services, or that although functional and scalable, our products and services will not be economical to market; that our competitors hold proprietary rights that preclude us from marketing such products; that our competitors market a superior or equivalent product; that we are not able to upgrade and enhance our technologies and products to accommodate new features and expanded service offerings; or the failure to receive necessary regulatory clearances for our products. To successfully introduce and market our products at a profit, we must establish brand name recognition and competitive advantages for our products. There are no assurances that we can successfully address these challenges. If it is unsuccessful, we and our business, financial condition and operating results could be materially and adversely affected.
+ 
+The current and future expense levels are based largely on estimates of planned operations and future revenues rather than experience. It is difficult to accurately forecast future revenues because the robotics market has not been fully developed, and we can give no assurance that our InMotion products will continue to fuel revenue growth. If our forecasts prove incorrect, the business, operating results and financial condition of the Company will be materially and adversely affected. Moreover, we may be unable to adjust our spending in a timely manner to compensate for any unanticipated reduction in revenue we expect to generate as a result of the InMotion products. As a result, the failure to generate revenues would immediately and adversely affect the business, financial condition and operating results of the Company.
+ 
+We cannot predict when we will achieve profitability.
+ 
+We have not been profitable and cannot predict when we will achieve profitability. We have experienced net losses since our inception in 2010. We began generating revenues after April 21, 2016 as a result of the acquisition of IMT and the sale of the InMotion products, however, we do not anticipate generating significant revenues from the ARKE and our other technologies in development until we successfully develop, commercialize and sell products derived from those technologies, of which we can give no assurance. We are unable to determine when we will generate significant revenues, if any, from the sale of any of such products, or generate increased revenues from the sale of our commercialized InMotion products.
+ 
+We cannot predict when we will achieve profitability, if ever. Our inability to become profitable may force us to curtail or temporarily discontinue our research and development programs and our day-to-day operations. Furthermore, there can be no assurance that profitability, if achieved, can be sustained on an ongoing basis. As of March 31, 2017, we had an accumulated deficit of $15,588,554.
+ 
+There is substantial doubt on our ability to continue as a going concern.
+ 
+Our independent registered public accounting firm has issued a going concern qualification as part of its audit report that accompanies our 2017 audited financial statements included in herein. As stated in the notes to our audited financial statements for the fiscal year ended March 31, 2017, we have a negative working capital deficit and have accumulated a significant deficit. Our continued existence is dependent upon our ability to continue to execute our operating plan and to obtain additional debt or equity financing. We do not have an established source of funds sufficient to cover operating costs and accordingly, there can be no assurance that the necessary debt or equity financing will be available, or will be available on terms acceptable to us, in which case we may be unable to meet our obligations or fully implement our business plan, if at all. Additionally, should we be unable to realize our assets and discharge our liabilities in the normal course of business, the net realizable value of our assets may be materially less than the amounts recorded in our financial statements.
+ 
+We are subject to significant indebtedness and other liabilities.
+ 
+As of March 31, 2017, we had total liabilities of $5,777,805. Our operations are not currently able to generate sufficient cash flows to meet our debt obligations and other liabilities, which could reduce our financial flexibility, increase interest expenses and adversely impact our operations. We may not generate sufficient cash flow from operations to enable us to repay this indebtedness and to fund other liquidity needs, including capital expenditure requirements. Such indebtedness could affect our operations in several ways, including the following:
+ 
+
+· | a significant portion of our cash flows could be required to be used to service such indebtedness;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | a high level of debt could increase our vulnerability to general adverse economic and industry conditions;
+--+-----------------------------------------------------------------------------------------------------------
+
+
+· | any covenants contained in the agreements governing such outstanding indebtedness could limit our ability to borrow additional funds, dispose of assets, pay dividends and make certain investments;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | a high level of debt may place us at a competitive disadvantage compared to our competitors that are less leveraged and, therefore, our competitors may be able to take advantage of opportunities that our indebtedness may prevent us from pursuing; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | debt covenants may affect our flexibility in planning for, and reacting to, changes in the economy and in our industry.
+--+------------------------------------------------------------------------------------------------------------------------
+
+ 
+We may need to refinance or restructure all or a portion of our indebtedness and other liabilities on or before maturity. We may not be able to refinance any of our indebtedness or other liabilities on commercially reasonable terms, or at all.
+ 
+A high level of indebtedness and other liabilities increases the risk that we may default on our debt obligations and other liabilities. We may not be able to generate sufficient cash flows to pay the principal or interest on our debt. If we cannot service or refinance our indebtedness, we may have to take actions such as selling significant assets, seeking additional equity financing (which will result in additional dilution to stockholders) or reducing or delaying capital expenditures or our research and development programs, any of which could have a material adverse effect on our operations and financial condition. In particular, we have outstanding aggregate principal amount of $2,000,000 in convertible notes maturing in November 15, 2017 if not earlier converted and demand loans of $330,600 maturing December 31, 2017. We also have outstanding aggregate principal amount of $236,538 in indebtedness maturing July 1, 2017, which if we pay the interest before June 30, 2017 will be extended to October 31, 2017. If we do not have sufficient funds and are otherwise unable to arrange financing to repay such indebtedness, our assets may be foreclosed upon, among other damages to the lenders, which could have a material adverse effect on our business, financial condition and results of operations.
+ 
+
+10
+--
+
+ 
+
+Our acquisition of companies or technologies could prove difficult to integrate and may disrupt our business and harm our operating results and prospects.
+ 
+Potential acquisitions will likely involve risks associated with our assumption of some or all of the liabilities of an acquired company, which may be liabilities that we were or are unaware of at the time of the acquisition, potential write-offs of acquired assets and potential loss of the acquired company’s key employees or customers.
+ 
+We may encounter difficulties in successfully integrating our operations, technologies, services and personnel with that of the acquired company, and our financial and management resources may be diverted from our existing operations. For instance, we diverted some resources from our existing technologies under development to focus on the InMotion products acquired from IMT in April 2016. Offices outside of Canada or in multiple states or provinces, including our offices in Massachusetts acquired through the acquisition of IMT, could create a strain on our ability to effectively manage our operations and key personnel. If we elect to consolidate our facilities, we may lose key personnel unwilling to relocate to the consolidated facility, may have difficulty hiring appropriate personnel at the consolidated facility and may have difficulty providing continuity of service through the consolidation.
+ 
+End-user satisfaction or performance problems with any acquired business, technology, service or device, including the InMotion products, could also have a material adverse effect on our reputation. Additionally, potential disputes with the seller of an acquired business or its employees, suppliers or customers and amortization expenses related to intangible assets could adversely affect our business, operating results and financial condition. If we fail to properly evaluate and execute acquisitions, our business may be disrupted and our operating results and prospects may be harmed.
+ 
+We will require additional capital to support our present business plan and our anticipated business growth, and such capital may not be available on acceptable terms, or at all, which would adversely affect our ability to operate.
+ 
+We will require additional funds to further develop our business plan. Based on our current operating plans, our resources are no longer sufficient to fund our planned operations necessary to introduce the ARKE or other development-stage products into the rehabilitation and mobility markets. Since it is unlikely that we will generate sufficient revenues from our operating activities to fund all of our operating and development plans, we will need to raise additional funds through equity offerings or otherwise in order to meet our expected future liquidity requirements, including development of existing products, introducing other products or pursuing new product opportunities. Any such financing that we undertake will likely be dilutive to current stockholders.
+ 
+We intend to continue to make investments to support our business growth, including patent or other intellectual property asset creation, the acquisition of other businesses or strategic assets and licensing of technology or other assets. The acquisition of IMT provided an expansion of our product line. To fully execute on our business plan, we will need additional funds to respond to business opportunities and challenges, including ongoing operating expenses, protecting our intellectual property, satisfying debt payment obligations, developing new lines of business and enhancing our operating infrastructure. While we will need to seek additional funding for such purposes, we may not be able to obtain financing on acceptable terms, or at all. In addition, the terms of our financings may be dilutive to, or otherwise adversely affect, holders of our common stock or common stock equivalents. We may also seek additional funds through arrangements with collaborators or other third parties. We may not be able to negotiate any such arrangements on acceptable terms, if at all. If we are unable to obtain additional funding on a timely basis, we may be required to curtail or terminate some or all of our business plans.
+ 
+We may never complete the development of the ARKE lower body exoskeleton or any of our other proposed products into marketable products.
+ 
+We do not know when or whether we will successfully complete the development of the ARKE lower body exoskeleton, planned development-stage InMotion products, or any other proposed, developmental or contemplated product, for any of our target markets. We continue to seek to improve our technologies before we are able to produce a commercially viable product. Failure to improve on any of our technologies could delay or prevent their successful development for any of our target markets.
+ 
+Developing any technology into a marketable product is a risky, time consuming and expensive process. You should anticipate that we will encounter setbacks, discrepancies requiring time consuming and costly redesigns and changes and that there is the possibility of outright failure.
+ 
+We may not meet our product development, manufacturing, regulatory, commercialization and other milestones.
+ 
+We have established milestones, based upon our expectations regarding our technologies at that time, which we use to assess our progress toward developing our products. These milestones relate to technology and design improvements as well as to dates for achieving development goals and regulatory approvals, among other things. If our products exhibit technical defects or are unable to meet cost or performance goals or for any other reason, our commercialization schedule could be delayed and potential purchasers of our initial commercial products, may decline to purchase such products or may opt to pursue alternative products. We have updated our schedule for the commercialization of the ARKE and plan to begin clinical tests in Canada in 2017 and 2018. We have proposed timelines on our InMotion products in development, which have had the effect of changing or delaying some of the timelines and milestones for our other technologies being developed.
+ 
+We can give no assurance that our commercialization schedule will be met as we concentrate our efforts on the InMotion products and we further develop the ARKE or any of our other proposed products.
+ 
+
+11
+--
+
+ 
+
+Customers will be unlikely to buy the ARKE or any of our other proposed, developmental or contemplated InMotion products unless we can demonstrate that they can be produced for sale to consumers at attractive prices.
+ 
+Through April 2016, we focused primarily on research and development of the ARKE. Consequently, we have no experience in manufacturing the ARKE on a commercial basis. We may manufacture products through third-party manufacturers, or, as our Boston location is an FDA certified manufacturing facility, we may manufacture and assemble the ARKE at this facility. We can offer no assurance that either we or our manufacturing partners will develop efficient, automated, low-cost manufacturing capabilities and processes to meet the quality, price, engineering, design and production standards or production volumes required to successfully mass market the ARKE or any of our other proposed or contemplated products. Even if we or our manufacturing partners are successful in developing such manufacturing capability and processes, we do not know whether we or they will be timely in meeting our product commercialization schedule or the production and delivery requirements of potential customers. A failure to develop such manufacturing processes and capabilities could have a material adverse effect on our business and financial results.
+ 
+The proposed price of the ARKE and our other proposed or contemplated products is in part dependent on material and other manufacturing costs. We are unable to offer any assurance that either we or a manufacturing partner will be able to reduce costs to a level which will allow production of a competitive product or that any product produced using lower cost materials and manufacturing processes will not suffer from a reduction in performance, reliability and longevity. Furthermore, although we have estimated a pricing structure for our products, we can give no assurance that these estimates will be correct in light of any manufacturing process we adopt or distribution channels we use.
+ 
+Our products may not be accepted in the market.
+ 
+We cannot be certain that our current products or any other products we may develop or market will achieve or maintain market acceptance. Market acceptance of our products depends on many factors, including our ability to convince key opinion leaders to provide recommendations regarding our products, convince distributors and customers that our technology is an attractive alternative to other technologies, demonstrate that our products are reliable and supported by us in the field, supply and service sufficient quantities of products directly or through marketing alliances, and price products competitively in light of the current macroeconomic environment, which, particularly in the case of the medical device industry, are becoming increasingly price sensitive.
+ 
+The ARKE can only be used by disabled persons with upper body strength, which limits potential users to a narrower subset of the disabled.
+ 
+The ARKE has been developed for use by patients that have the upper body strength to properly use forearm crutches. Patients who cannot use forearm crutches, even if the patient would otherwise be a candidate for the ARKE, cannot use the ARKE for rehabilitation. Additionally, the ARKE needs to properly fit each patient, and those potential users who are too small or large to fit the product, may not be able to use the product because of their size. Accordingly, this limits potential users of the ARKE to a narrower subset of the disabled.
+ 
+Additionally, our other products require specific patient profiles for use and, accordingly, not all patients will be able to use the InMotion products.
+ 
+We are subject to extensive governmental regulations relating to the manufacturing, labeling and marketing of our products.
+ 
+Our medical technology products and operations are or are expected to be subject to regulation by the FDA, Health Canada and other governmental authorities both inside and outside of the United States. These agencies enforce laws and regulations that govern the development, testing, manufacturing, labeling, advertising, marketing and distribution, and market surveillance of our medical products.
+ 
+Under the United States Federal Food, Drug, and Cosmetic Act, medical devices are classified into one of three classes — Class I, Class II or Class III — depending on the degree of risk associated with each medical device and the extent of control needed to ensure safety and effectiveness. We believe the ARKE will be a Class II medical device in the United States, however, it has been designated as the equivalent to a Class I device with Health Canada. Class II devices require a 510(k) premarket submission to the US FDA. Our InMotion products have been characterized as Class II devices by the FDA.
+ 
+In addition to regulations in the United States, we will be subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products in foreign countries. Whether or not we obtain FDA approval for a product, we must obtain approval of a product by the comparable regulatory authorities of foreign countries before we can market the product in those countries. The approval process varies from country to country, and the time may be longer or shorter than that required for FDA approval. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from country to country.
+ 
+The policies of the FDA and foreign regulatory authorities may change and additional government regulations may be enacted which could prevent or delay regulatory approval of our products and could also increase the cost of regulatory compliance. We cannot predict the likelihood, nature or extent of adverse governmental regulation that might arise from future legislative or administrative action, either in the United States or abroad.
+ 
+Following the introduction of a product, these agencies will also periodically review our manufacturing processes and product performance. The process of complying with the applicable good manufacturing practices, adverse event reporting, clinical trial and other requirements can be costly and time consuming, and could delay or prevent the production, manufacturing or sale of our products. In addition, if we fail to comply with applicable regulatory requirements, it could result in fines, delays or suspensions of regulatory clearances, closure of manufacturing sites, seizures or recalls of products and damage to our reputation. Recent changes in enforcement practice by the FDA and other agencies have resulted in increased enforcement activity, which increases the compliance risk for the Company and other companies in our industry. In addition, governmental agencies may impose new requirements regarding registration, labeling or prohibited materials that may require us to modify or re-register products already on the market or otherwise impact our ability to market our products in those countries. Once clearance or approval has been obtained for a product, there is an obligation to ensure that all applicable FDA, Health Canada and other regulatory requirements continue to be met.
+ 
+
+12
+--
+
+ 
+
+We may be subject to penalties and may be precluded from marketing our products if we fail to comply with extensive governmental regulations.
+ 
+We believe that the ARKE, the InMotion products and certain other products under development will be categorized as a Class II device in the U.S. Class II devices require a 510(k) premarket submission to the US FDA. However, the FDA has not made any determination about whether our proposed medical products are Class II medical devices and, from time to time, the FDA may disagree with the classification of a new Class II medical device and require the manufacturer of that device to apply for approval as a Class III medical device. In the event that the FDA determines that our medical products should be reclassified as a Class III medical device, we could be precluded from marketing the devices for clinical use within the United States for months, years or longer, depending on the specific changes to the classification. Reclassification of our products as Class III medical devices could significantly increase our regulatory costs, including the timing and expense associated with required clinical trials and other costs.
+ 
+The FDA and non-U.S. regulatory authorities require that our products be manufactured according to rigorous standards. These regulatory requirements may significantly increase our production costs and may even prevent us from making our products in amounts sufficient to meet market demand. If we change our manufacturing process, regulatory authorities may need to review the process before it may be used. Failure to comply with applicable regulatory requirements discussed could subject us to enforcement actions, including warning letters, fines, injunctions and civil penalties, recall or seizure of our products, operating restrictions, partial suspension or total shutdown of our production and criminal prosecution.
+ 
+Federal, state and non-U.S. regulations regarding the manufacture and sale of medical devices are subject to future changes. The complexity, timeframes and costs associated with obtaining marketing clearances are unknown. Although we cannot predict the impact, if any, these changes might have on our business, the impact could be material.
+ 
+Certain of our competitors have reported injuries caused by the malfunction of human exoskeleton devices (in at least one case to the FDA). Injuries caused by the malfunction or misuse of human exoskeleton devices, even where such malfunction or misuse occurs with respect to one of our competitor’s products, could cause regulatory agencies to implement more conservative regulations on the medical human exoskeleton industry, which could significantly increase our operating costs.
+ 
+If we are not able to both obtain and maintain adequate levels of third-party reimbursement for our products, it would have a material adverse effect on our business.
+ 
+Healthcare providers and related facilities are generally reimbursed for their services through payment systems managed by various governmental agencies worldwide, private insurance companies, and managed care organizations. The manner and level of reimbursement in any given case may depend on the site of care, the procedure(s) performed, the final patient diagnosis, the device(s) utilized, available budget, or a combination of these factors, and coverage and payment levels are determined at each payer’s discretion. The coverage policies and reimbursement levels of these third-party payers may impact the decisions of healthcare providers and facilities regarding which medical products they purchase and the prices they are willing to pay for those products. Thus, changes in reimbursement levels or methods may either positively or negatively impact sales of our products.
+ 
+We have no direct control over payer decision-making with respect to coverage and payment levels for our medical device products. Additionally, we expect many payers to continue to explore cost-containment strategies (e.g., comparative and cost-effectiveness analyses, so-called “pay-for-performance” programs implemented by various public and private payers, and expansion of payment bundling schemes such as Accountable Care Organizations, and other such methods that shift medical cost risk to providers) that may potentially impact coverage and/or payment levels for our current products or products we develop.
+ 
+As our product offerings are expected to be diverse across healthcare settings, they will likely be affected to varying degrees by the many payment systems. Therefore, individual countries, product lines or product classes may be impacted by changes to these systems.
+ 
+Changes in reimbursement practices of third-party payers could affect the demand for our products and the prices at which they are sold.
+ 
+The sales of our clinical and proposed products could depend, in part, on the extent to which healthcare providers and facilities or individual users are reimbursed by government authorities, private insurers and other third-party payers for the costs of our products or the services performed with our products. The coverage policies and reimbursement levels of third-party payers, which can vary among public and private sources and by country, may affect which products are purchased by customers and the prices they are willing to pay for those products in a particular jurisdiction. Reimbursement rates can also affect the acceptance rate of new technologies. Legislative or administrative reforms to reimbursement systems in the United States or abroad, or changes in reimbursement rates by private payers, could significantly reduce reimbursement for procedures using the Company’s products or result in denial of reimbursement for those products, which would adversely affect customer demand or the price customers may be willing to pay for such products.
+ 
+Clinical outcome studies regarding our products may not provide sufficient data to either cause third-party payers to approve reimbursement or to make human exoskeletons a standard of care.
+ 
+Our business plan in part relies on broad adoption of human exoskeletons and upper and lower body robotic rehabilitation products to provide neuro-rehabilitation to individuals who have suffered a neurological injury or disorder. Although use of human exoskeletons and upper and lower body robotic rehabilitation products in neuro-rehabilitation is new, use of robotic devices has been in the market for over a decade and the clinical studies relating to such devices have had both positive and negative outcomes. Much of the rehabilitation community has rejected the use of such devices based on the data from some of these studies. Although we believe that human exoskeletons and upper and lower body robotic rehabilitation products will outperform manual equipment, this has not been widely proven. Furthermore, it may prove impossible to prove an advantage in a timely manner, or at all, which could prevent broad adoption of our products.
+ 
+
+13
+--
+
+ 
+
+Part of our business plan relies on broad adoption of our products to provide “early mobilization” of individuals who have been immobilized by an injury, disease, or other condition. Although the health benefits of other methods of “early mobilization” have been demonstrated in clinical studies in fields such as stroke, those studies did not test early mobilization with human exoskeletons directly. It may be necessary to provide outcome studies on early mobilization with exoskeletons directly in order to convince the medical community of their effectiveness. Such studies have not been designed at this time, and may be too large and too costly for us to conduct.
+ 
+Product defects could adversely affect the results of our operations.
+ 
+The design, manufacture and marketing of our products involve certain inherent risks. Manufacturing or design defects, unanticipated use of our products, or inadequate disclosure of risks relating to the use of our products can lead to injury or other adverse events. These events could lead to recalls or safety alerts relating to our products (either voluntary or required by the FDA, Health Canada or similar governmental authorities in other countries), and could result, in certain cases, in the removal of a product from the market. A recall could result in significant costs, as well as negative publicity and damage to our reputation that could reduce demand for our products. Personal injuries relating to the use of our products could also result in product liability claims being brought against us. In some circumstances, such adverse events could also cause delays in new product approvals.
+ 
+We could be exposed to significant liability claims if we are unable to obtain insurance at acceptable costs and adequate levels or otherwise protect ourselves against potential product liability claims.
+ 
+The testing, manufacturing, marketing and sale of medical devices entail the inherent risk of liability claims or product recalls. Product liability insurance is expensive and may not be available on acceptable terms, if at all. A successful product liability claim or product recall could inhibit or prevent the successful commercialization of our products, cause a significant financial burden on the Company, or both, which in either case could have a material adverse effect on our business and financial condition.
+ 
+We cannot predict our future capital needs and we may not be able to secure additional financing.
+ 
+We will need to raise additional funds in the future to fund our working capital needs, to fund more aggressive expansion of our business or for strategic acquisitions. We may require additional equity or debt financings, collaborative arrangements with corporate partners or funds from other sources for these purposes. No assurance can be given that necessary funds will be available for us to finance our development on acceptable terms, if at all. Furthermore, such additional financings may involve substantial dilution of our stockholders or may require that we relinquish rights to certain of our technologies or products. In addition, we may experience operational difficulties and delays due to working capital restrictions. If adequate funds are not available from operations or additional sources of financing, we may have to delay or scale back our growth plans.
+ 
+The results of our research and development efforts are uncertain and there can be no assurance of the commercial success of our products.
+ 
+We believe that we will need to incur additional research and development expenditures to continue development of our existing and proposed products as well as research and development expenditures to develop new products and services. The products and services we are developing and may develop in the future may not be technologically successful. In addition, the length of our product and service development cycle may be greater than we originally expected and we may experience delays in product development. If our resulting products and services are not technologically successful, they may not achieve market acceptance or compete effectively with our competitors’ products and services.
+ 
+If we fail to retain certain of our key personnel and attract and retain additional qualified personnel, we might not be able to pursue our growth strategy.
+ 
+Our future success will depend upon the continued service of Peter Bloch, our Chief Executive Officer, and his executive team or any qualified replacement of those individuals. There can be no assurance that the services of any of these individuals will continue to be available to us in the future. We do not carry any key man life insurance policies on any of our existing or proposed executive officers. The failure to retain, or attract replacement, qualified personnel could have a material adverse effect on our business and our ability to pursue our growth strategy.
+ 
+The impact of the Patient Protection and Affordable Care Act remains uncertain.
+ 
+In 2010, significant reforms to the health care system were adopted as law in the United States. The law includes provisions that, among other things, reduce or limit Medicare reimbursement, require all individuals to have health insurance (with limited exceptions) and impose increased taxes. These factors, in turn, could result in reduced demand for our products and increased downward pricing pressure. Because parts of the 2010 health care law remain subject to implementation, the long-term impact on us is uncertain. The new law or any future legislation could reduce medical procedure volumes, lower reimbursement for our products, and impact the demand for our products or the prices at which we sell our products. Accordingly, while it is too early to understand and predict the ultimate impact of the new law on our business, the legislation and resulting regulations could have a material adverse effect on our business, cash flows, financial condition and results of operations. The law includes a 2.3% tax on sales of medical devices beginning January 1, 2013, which had the effect of increasing the company’s operating expenses by the amount of the tax. Medical devices sold for export are exempt from the tax. On December 18, 2015, former President Obama signed into law the Consolidated Appropriations Act, 2016, which includes a two-year moratorium on the medical device excise tax, exempting medical device sales during the period of January 1, 2016 to December 31, 2017 from the tax. Absent further legislative action, the tax will be automatically reinstated on January 1, 2018, which would again result in an increase in our operating expenses. We also cannot predict whether the 2010 health care law will be repealed in whole or in part, or whether it will be replaced, by the current administration.
+ 
+
+14
+--
+
+ 
+
+Our operations in international markets involve inherent risks that we may not be able to control.
+ 
+Our business plan includes the marketing and sale of our existing and proposed products in international markets. Accordingly, our results could be materially and adversely affected by a variety of uncontrollable and changing factors relating to international business operations, including:
+ 
+
+· | macroeconomic conditions adversely affecting geographies where we intend to do business;
+--+-----------------------------------------------------------------------------------------
+
+
+· | foreign currency exchange rates;
+--+---------------------------------
+
+
+· | political or social unrest or economic instability in a specific country or region;
+--+------------------------------------------------------------------------------------
+
+
+· | higher costs of doing business in foreign countries;
+--+-----------------------------------------------------
+
+
+· | infringement claims on foreign patents, copyrights or trademark rights;
+--+------------------------------------------------------------------------
+
+
+· | difficulties in staffing and managing operations across disparate geographic areas;
+--+------------------------------------------------------------------------------------
+
+
+· | difficulties associated with enforcing agreements and intellectual property rights through foreign legal systems;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+· | trade protection measures and other regulatory requirements, which affect our ability to import or export our products from or to various countries;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | adverse tax consequences;
+--+--------------------------
+
+
+· | unexpected changes in legal and regulatory requirements;
+--+---------------------------------------------------------
+
+
+· | military conflict, terrorist activities, natural disasters and medical epidemics; and
+--+--------------------------------------------------------------------------------------
+
+
+· | our ability to recruit and retain channel partners in foreign jurisdictions.
+--+-----------------------------------------------------------------------------
+
+ 
+Our financial results may be affected by fluctuations in exchange rates and our current currency hedging strategy may not be sufficient to counter such fluctuations.
+ 
+Our financial statements are presented in U.S. dollars, while a significant portion of our business is conducted, and a substantial portion of our operating expenses are payable, in currencies other than the U.S. dollar. Due to the substantial volatility of currency exchange rates, exchange rate fluctuations may have an adverse impact on our future revenues or expenses presented in our financial statements. We consider using financial instruments, principally forward foreign currency contracts, in our management of foreign currency exposure, as required. These contracts primarily require us to purchase and sell certain foreign currencies with or for U.S. dollars at contracted rates. We may be exposed to a credit loss in the event of non-performance by the counterparties of these contracts. In addition, these financial instruments may not adequately manage our foreign currency exposure. Our results of operations could be adversely affected if we are unable to successfully manage currency fluctuations in the future.
+ 
+Any weakness in internal control over financial reporting or disclosure controls and procedures could result in a loss of investor confidence in our financial reports and lead to a stock price decline.
+ 
+We are required to evaluate our internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act of 2002 and report the results in our annual report on Form 10-K. We are also required to maintain effective disclosure controls and procedures. Since the acquisition of IMT, we have consolidated our accounting in Toronto; however, our internal controls need to expand to encompass activities related to those assets. If material weaknesses arise as a result and they are not remedied, we will be unable to assert that our internal controls are effective. Any failure to have effective internal control over financial reporting or disclosure controls and procedures covering the combined business post-acquisition could cause investors to lose confidence in the accuracy and completeness of our financial reports, limit our ability to raise financing or lead to regulatory sanctions, any of which could result in a material adverse effect on our business or decline in the market price of our common stock.
+ 
+The industries in which we operate are highly competitive and subject to rapid technological change. If our competitors are better able to develop and market products that are safer, more effective, less costly, easier to use, or are otherwise more attractive, we may be unable to compete effectively with other companies.
+ 
+The medical technology industry is characterized by intense competition and rapid technological change and we will face competition on the basis of product features, clinical outcomes, price, services and other factors. Competitors may include large medical device and other companies, some of which have significantly greater financial and marketing resources than we do, and firms that are more specialized than we are with respect to particular markets. Our competition may respond more quickly to new or emerging technologies, undertake more extensive marketing campaigns, have greater financial, marketing and other resources than ours or may be more successful in attracting potential customers, employees and strategic partners.
+ 
+Our competitive position will depend on multiple, complex factors, including our ability to achieve market acceptance for our products, develop new products, implement production and marketing plans, secure regulatory approvals for products under development and protect our intellectual property. In some instances, competitors may also offer, or may attempt to develop, alternative therapies that may be delivered without a medical device or a medical device superior to ours. The development of new or improved products, processes or technologies by other companies may render our products or proposed products obsolete or less competitive. The entry into the market of manufacturers located in low-cost manufacturing locations may also create pricing pressure, particularly in developing markets. Our future success depends, among other things, upon our ability to compete effectively against current technology, as well as to respond effectively to technological advances, and upon our ability to successfully implement our marketing strategies and execute our research and development plan.
+ 
+
+15
+--
+
+ 
+
+We face competition from other medical device companies that focus on robotic rehabilitation solutions to individuals with neurological disorders.
+ 
+We face competition from other companies that also focus on robotic rehabilitation solutions to individuals with neurological disorders. With respect to exoskeleton devices, Argo Medical Technologies, Ekso Bionics, Parker Hannifin, ReWalk Robotics and Rex Bionics compete against the ARKE. Additionally, with respect to the InMotion products that we are marketing to patients with stroke- related conditions, Cyberdyne, Hocoma, AlterG, Aretech and Reha Technology are each currently selling products that may compete with such products. These companies have longer operating histories and may have greater name recognition and substantially greater financial, technical and marketing resources than us. Many of these companies also have FDA or other applicable governmental approval to market and sell their products, and more extensive customer bases, broader customer relationships and broader industry alliances than us, including relationships with many of our potential customers. Increased competition from any of these sources could result in our failure to achieve and maintain an adequate level of customers and market share to support the cost of our operations. We expect similar strong competition with respect to any other product or technology we develop or acquire.
+ 
+Our industry is experiencing greater scrutiny and regulation by governmental authorities, which may lead to greater governmental regulation in the future.
+ 
+In recent years, the medical device industry has been subject to increased regulatory scrutiny, including by the FDA, Health Canada and numerous other federal, state, provincial and foreign governmental authorities. This has included increased regulation, enforcement, inspections, and governmental investigations of the medical device industry and disclosure of financial relationships with health care professionals. We anticipate that governments will continue to scrutinize our industry closely, and that additional regulation by governmental authorities, both foreign and domestic, may increase compliance costs, exposure to litigation and other adverse effects to our operations.
+ 
+Unsuccessful clinical trials or procedures relating to products under development could have a material adverse effect on our prospects.
+ 
+The regulatory approval process for new products and new indications for existing products requires extensive clinical trials and procedures, including early clinical experiences and regulatory studies. Unfavorable or inconsistent clinical data from current or future clinical trials or procedures conducted by us, our competitors, or third parties, or perceptions regarding this clinical data, could adversely affect our ability to obtain necessary approvals and the market’s view of our future prospects. Such clinical trials and procedures are inherently uncertain and there can be no assurance that these trials or procedures will be completed in a timely or cost-effective manner or result in a commercially viable product. Failure to successfully complete these trials or procedures in a timely and cost-effective manner could have a material adverse effect on our prospects. Clinical trials or procedures may experience significant setbacks even after earlier trials have shown promising results. Further, preliminary results from clinical trials or procedures may be contradicted by subsequent clinical analysis. In addition, results from our clinical trials or procedures may not be supported by actual long-term studies or clinical experience. If preliminary clinical results are later contradicted, or if initial results cannot be supported by actual long-term studies or clinical experience, our business could be adversely affected. Clinical trials or procedures may be suspended or terminated by us, the FDA or other regulatory authorities at any time if it is believed that the trial participants face unacceptable health risks.
+ 
+Intellectual property litigation and infringement claims could cause us to incur significant expenses or prevent us from selling certain of our products.
+ 
+The industry in which we operate, including, in particular, the medical device industry, are characterized by extensive intellectual property litigation and, from time to time, we might be the subject of claims by third parties of potential infringement or misappropriation. Regardless of outcome, such claims are expensive to defend and divert the time and effort of our management and operating personnel from other business issues. A successful claim or claims of patent or other intellectual property infringement against us could result in our payment of significant monetary damages and/or royalty payments or negatively impact our ability to sell current or future products in the affected category and could have a material adverse effect on its business, cash flows, financial condition or results of operations.
+ 
+If we are unable to protect our patents or other proprietary rights, or if we infringe on the patents or other proprietary rights of others, our competitiveness and business prospects may be materially damaged.
+ 
+We own 5 U.S. and international patents pending. We also have exclusive licensing rights to three patents. We intend to continue to seek legal protection, primarily through patents, trade secrets and contractual provisions, for our proprietary technology. Such methods may not be adequate to protect us or permit us to gain or maintain a competitive advantage. Seeking patent protection is a lengthy and costly process, and there can be no assurance that patents will be issued from any pending applications, or that any claims allowed from existing or pending patents will be sufficiently broad or strong to protect our proprietary technology. There is also no guarantee that any patents we hold will not be challenged, invalidated or circumvented, or that the patent rights granted will provide competitive advantages to us. Our competitors have developed and may continue to develop and obtain patents for technologies that are similar or superior to our technologies. In addition, the laws of foreign jurisdictions in which we develop, manufacture or sell our products may not protect our intellectual property rights to the same extent as do the laws of the United States and Canada.
+ 
+Despite our efforts to safeguard our unpatented and unregistered intellectual property rights, we may not be successful in doing so or the steps taken by us in this regard may not be adequate to detect or deter misappropriation of our technologies or to prevent an unauthorized third party from copying or otherwise obtaining and using our products, technologies or other information that we regard as proprietary. Additionally, third parties may be able to design around our patents. Our inability to adequately protect our intellectual property could allow our competitors and others to produce products based on our technologies, which could substantially impair our ability to compete.
+ 
+
+16
+--
+
+ 
+
+Adverse outcomes in current or future legal disputes regarding patent and other intellectual property rights could result in the loss of our intellectual property rights, subject us to significant liabilities to third parties, require us to seek licenses from third parties on terms that may not be reasonable or favorable to us, prevent us from manufacturing, importing or selling our products, or compel us to redesign our products to avoid infringing third parties’ intellectual property. As a result, we may be required to incur substantial costs to prosecute, enforce or defend our intellectual property rights if they are challenged. Any of these circumstances could have a material adverse effect on our business, financial condition and resources or results of operations.
+ 
+Our ability to develop intellectual property depends in large part on hiring, retaining and motivating highly qualified design and engineering staff with the knowledge and technical competence to advance our technology and productivity goals. We have entered into confidentiality and/or intellectual property assignment agreements with many of our employees and consultants as one of the ways we seek to protect our intellectual property and other proprietary technologies. However, these agreements may not be enforceable or may not provide meaningful protection for our trade secrets or other proprietary information in the event of unauthorized use or disclosure or other breaches of the agreements.
+ 
+Our employees and consultants may unintentionally or willfully disclose our confidential information to competitors, and confidentiality agreements may not provide an adequate remedy in the event of unauthorized disclosure of confidential information. Enforcing a claim that a third party illegally obtained and is using our proprietary know-how is expensive and time-consuming, and the outcome is unpredictable. In addition, courts outside the United States are sometimes less willing to protect know-how than courts in the United States. Moreover, our competitors may independently develop equivalent knowledge, methods and know-how. Failure to obtain or maintain intellectual property protection could adversely affect our competitive business position.
+ 
+Dependence on patent and other proprietary rights and failing to protect such rights or to be successful in litigation related to such rights may result in our payment of significant monetary damages or impact offerings in our product portfolios.
+ 
+Our long-term success largely depends on our ability to market technologically competitive products. If we fail to obtain or maintain adequate intellectual property protection, we may not be able to prevent third parties from using our proprietary technologies or may lose access to technologies critical to our products. Also, our currently pending or future patent applications may not result in issued patents, and issued patents could be subject to claims concerning priority, scope and other issues.
+ 
+Furthermore, we have not filed applications for all of our patents internationally and we may not be able to prevent third parties from using our proprietary technologies or may lose access to technologies critical to our products in other countries.
+ 
+If we fail to meet our obligations under our license agreements, we may lose our rights to technologies on which our business and proposed business depends.
+ 
+Our existing and proposed business depends in part on licenses from third parties and in one instance, Dr. Hermano Igo Krebs, one of our directors and former Chief Science Officer. These license agreements impose obligations on us, such as payment obligations and obligations to diligently pursue development of commercial products under the licensed patents. If a licensor believes that we have failed to meet our obligations under a license agreement, the licensor could seek to limit or terminate our license rights, which could lead to costly and time consuming litigation and, potentially, a loss of the licensed rights. During the period of any such litigation, our ability to carry out the development and commercialization of potential products could be significantly and negatively affected. If our license rights were restricted or ultimately lost, our ability to continue our InMotion business based on the affected technology platform could be affected adversely.
+ 
+Risks Related to our Securities and Governance Matters
+ 
+Our executive officers, through their ownership of common stock and/or Exchangeable Shares, can substantially influence the outcome of matters requiring shareholder approval and may prevent you and other stockholders from influencing significant corporate decisions, which could result in conflicts of interest that could cause the Company’s stock price to decline.
+ 
+Our executive officers collectively beneficially own shares of common stock and Exchangeable Shares, which may be exchanged for common stock, equal to approximately 19% of our outstanding shares of Common Stock and Exchangeable Shares as a single class. As a result, such individuals will have the ability, acting together, to substantially influence the election of our directors and the outcome of corporate actions requiring shareholder approval, such as:
+ 
+
+· | A merger or a sale of our Company,
+--+-----------------------------------
+
+
+· | A sale of all or substantially all of our assets, and
+--+------------------------------------------------------
+
+
+· | Amendments to our articles of incorporation and bylaws. This concentration of voting power and control could have a significant effect in delaying, deferring or preventing an action that might otherwise be beneficial to our other shareholders and be disadvantageous to our shareholders with interests different from those individuals. These individuals also have significant control over our business, policies and affairs as officers and/or directors of our Company. These stockholders may exert influence in delaying or preventing a change in control of the Company, even if such change in control would benefit the other stockholders of the Company.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+17
+--
+
+ 
+
+Lastly, the significant concentration of stock ownership may adversely affect the market value of the Company’s common stock due to investors’ perception that conflicts of interest may exist or arise. Therefore, you should not invest in reliance on your ability to have any control over the Company.
+ 
+We do not currently have a majority of independent directors on our Board, which limits our ability to establish effective independent corporate governance procedures.
+ 
+Our board of directors has significant control over us and we have not established committees comprised of independent directors. We have five directors, two of whom hold executive officer positions and are not independent. Furthermore, a third director who is a former executive officer should not be considered independent. Accordingly, they have significant control over all corporate issues. We do not have an audit, compensation, governance or nominating committee comprised of independent directors. Our directors as a whole perform these functions. Thus, there is a potential conflict in that our directors also engaged in management and participate in decisions concerning management compensation and audit issues, among other issues, may affect management performance.
+ 
+Although we intend to add additional members to our Board of Directors as qualified candidates become available, until we have a board of directors that would include a majority of independent members, if ever, there will be limited independent oversight of our directors’ decisions and activities.
+ 
+We may have undisclosed liabilities and any such liabilities could harm our revenues, business, prospects, financial condition and results of operations.
+ 
+Before the Acquisition Transaction with Drywave, Bionik Canada conducted due diligence on the Company it believed was customary and appropriate for a transaction such as the Acquisition Transaction. However, the due diligence process may not have revealed all material liabilities of the Company then existing or which may be asserted in the future against us relating to the Company’s activities before the consummation of the Acquisition Transaction with Drywave. In addition, the agreement with the Company contains representations with respect to the absence of any liabilities and indemnification for any breach thereof. However, there can be no assurance that the Company had no liabilities upon the closing of the Acquisition Transaction with Drywave or that we will be successful in enforcing the indemnification provisions or that such indemnification provisions will be adequate to reimburse us. Any such liabilities of the Company that survive the Acquisition Transaction with Drywave could harm our revenues, business, prospects, financial condition and results of operations.
+ 
+We do not expect to pay cash dividends on our common stock.
+ 
+We anticipate that we will retain our earnings, if any, for future growth and therefore do not anticipate paying cash dividends on our common stock in the future. Investors seeking cash dividends should not invest in our common stock for that purpose.
+ 
+Anti-takeover provisions in the Company’s charter and bylaws may prevent or frustrate attempts by stockholders to change the board of directors or current management and could make a third-party acquisition of the Company difficult.
+ 
+The Company’s Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws contain provisions that may discourage, delay or prevent a merger, acquisition or other change in control that stockholders may consider favorable, including transactions in which stockholders might otherwise receive a premium for their shares. These provisions could limit the price that investors might be willing to pay in the future for shares of the Company’s common stock.
+ 
+We cannot assure you that the Company’s Common Stock will be listed on any national securities exchange, or remain listed or quoted.
+ 
+We cannot assure you that the Company’s Common Stock will be listed on any national securities exchange, in spite of our attempts to up-list to the Nasdaq market. We cannot assure you that we will ever be able to meet the initial listing standards of any of the NASDAQ markets or any other stock exchange, or that, if quoted, we would be able to maintain a listing of Common Stock on any of the NASDAQ markets or any other stock exchange. Prior to any such up-listing, we expect for our stock to begin trading on the OTCQB market from the OTCQX market. If our Common Stock remains quoted on an over-the-counter system rather than being listed on a national securities exchange, an investor may find it more difficult to dispose of shares or obtain accurate quotations as to the market value of the Company’s Common Stock.
+ 
+Because Bionik Canada became a reporting company by means of the Acquisition Transaction, we may not be able to establish a liquid market for the Company’s Common Stock or attract the attention of research analysts at major brokerage firms
+ 
+Because we did not become a reporting company by the traditional means of conducting an initial public offering of common stock, we may be unable to establish a liquid market for the Company’s Common Stock. Moreover, we do not expect security analysts of brokerage firms to provide coverage of the Company in the near future. In addition, investment banks may be less likely to agree to underwrite secondary offerings on behalf of the Company or our stockholders than they would if we were to become a public reporting company by means of an initial public offering of Common Stock. If all or any of the foregoing risks occur, it would have a material adverse effect on the Company.
+ 
+We cannot predict whether an active market for the Company’s Common Stock will ever develop in the future. In the absence of an active trading market:
+ 
+
+· | Investors may have difficulty buying and selling or obtaining market quotations;
+--+---------------------------------------------------------------------------------
+
+
+· | Market visibility for shares of the Company’s Common Stock may be limited; and
+--+-------------------------------------------------------------------------------
+
+
+18
+--
+
+
+· | A lack of visibility for shares of the Company’s Common Stock may have a depressive effect on the market price for shares of the Company’s Common Stock.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company’s Common Stock is quoted on the OTCQX marketplace operated by OTC Markets Group, Inc.; however, we intend in the second quarter of the fiscal year ending 2018 to move the OTCQB market as a result of not meeting the net tangible asset requirements of the OTCQX market. These markets are relatively unorganized, inter-dealer, over-the-counter markets that provide significantly less liquidity than NASDAQ or the NYSE. No assurances can be given that our Common Stock will ever actively trade on such markets, much less a senior market like NASDAQ or NYSE. Furthermore, we can give no assurance that our current trading levels will be sustained after our expected move to the OTCQB market. In any of these events, there could remain a highly illiquid market for the Company’s Common Stock and you may be unable to dispose of your Common Stock at desirable prices or at all.
+ 
+An active and visible public trading market for the Company’s Common Stock may not develop and the market for our Common Stock is limited.
+ 
+Our Common Stock is thinly traded and any recently reported sales price may not be a true market-based valuation of our Common Stock. There can be no assurance that an active market for our Common Stock will develop, or that we will be successful to up-list to NASDAQ or another national securities exchange, especially in light of our expected move to the OTCQB market. In addition, the stock market in general has experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to operating performance. Consequently, holders of shares of our common stock may not be able to liquidate their investment in the Company’s shares at prices that they may deem appropriate.
+ 
+The market price for our Common Stock may be volatile.
+ 
+The market price for our Common Stock may be volatile and subject to wide fluctuations in response to factors including the following:
+ 
+
+· | Actual or anticipated fluctuations in our quarterly or annual operating results;
+--+---------------------------------------------------------------------------------
+
+
+· | Changes in financial or operational estimates or projections;
+--+--------------------------------------------------------------
+
+
+· | Conditions in markets generally;
+--+---------------------------------
+
+
+· | Changes in the economic performance or market valuations of companies similar to ours;
+--+---------------------------------------------------------------------------------------
+
+
+· | Announcements by us or our competitors of new products, acquisitions, strategic partnerships, joint ventures or capital commitments;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Our planned move from the OTCQX market to the OTCQB market;
+--+------------------------------------------------------------
+
+
+· | Our intellectual property position; and
+--+----------------------------------------
+
+
+· | General economic or political conditions in the United States, Canada or elsewhere.
+--+------------------------------------------------------------------------------------
+
+ 
+In addition, the securities market has from time to time experienced significant price and volume fluctuations that are not related to the operating performance of particular companies. These market fluctuations may also materially and adversely affect the market price of shares of our Common Stock.
+ 
+The issuance of shares upon exercise of outstanding warrants could cause immediate and substantial dilution to existing stockholders.
+ 
+On June 27, 2017, we closed on an offer to amend and exercise our existing warrants, of which approximately 5.0 million warrants were exercised at $0.25 per share for aggregate cash proceeds of approximately $1,250,000. As a result, there remain approximately 12.7 million shares underlying warrants that may be issued upon future exercises (before determination of an upward adjustment to the number of shares based on existing price-based weighted-average anti-dilution provisions in the warrants).
+ 
+The issuance of shares upon exercise of warrants could result in substantial dilution to the interests of other stockholders since the holders of such warrants may ultimately convert and sell the full amount issuable on conversion.
+ 
+A large number of our shares may be sold in the market, which may depress the market price of our Common Stock.
+ 
+We have registered an aggregate of approximately 79,691,102 shares of our outstanding common stock, and common stock underlying outstanding Exchangeable Shares and outstanding warrants. The issuance and sale of such shares may depress the market price of our Common Stock. Sales of a substantial number of shares of our Common Stock in the public market could cause the market price of our Common Stock to decline
+ 
+As our Common Stock is subject to the SEC’s penny stock rules, broker-dealers may experience difficulty in completing customer transactions and trading activity in our securities may be adversely affected.
+ 
+The SEC has adopted regulations, which generally define “penny stock” to be an equity security that has a market price of less than $5.00 per share, subject to specific exemptions. The market price of our Common Stock is now and may in the future continue to be less than $5.00 per share and therefore would be a “penny stock” according to SEC rules, unless we are listed on a national securities exchange. Under these rules, broker-dealers who recommend such securities to persons other than institutional accredited investors must:
+ 
+
+· | Make a special written suitability determination for the purchaser;
+--+--------------------------------------------------------------------
+
+
+· | Receive the purchaser’s prior written agreement to the transaction;
+--+--------------------------------------------------------------------
+
+
+19
+--
+
+
+· | Provide the purchaser with risk disclosure documents which identify certain risks associated with investing in “penny stocks” and which describe the market for these “penny stocks” as well as a purchaser’s legal remedies and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Obtain a signed and dated acknowledgment from the purchaser demonstrating that the purchaser has actually received the required risk disclosure document before a transaction in a “penny stock” can be completed.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+If our Common Stock becomes subject to these rules, broker-dealers may find it difficult to effectuate customer transactions and trading activity in our securities may be adversely affected. As a result, the market price of our securities may be depressed, and you may find it more difficult to sell your securities.
+ 
+IN ADDITION TO THE ABOVE RISKS, BUSINESSES ARE OFTEN SUBJECT TO RISKS NOT FORESEEN OR FULLY APPRECIATED BY MANAGEMENT. IN REVIEWING THIS ANNUAL REPORT ON FORM 10-K, POTENTIAL INVESTORS SHOULD KEEP IN MIND THAT THERE MAY BE OTHER POSSIBLE RISKS THAT COULD BE IMPORTANT.
+ 

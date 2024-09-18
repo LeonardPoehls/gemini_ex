@@ -1,0 +1,233 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+ Throughout this Annual Report on Form 10-K, unless the context states otherwise, the words “we,” “us,” “our” and “Analogic” refer to Analogic Corporation and all of its subsidiaries taken as a whole, and “our board of directors” refers to the board of directors of Analogic Corporation. 
+ Description of Business 
+ Analogic Corporation (NASDAQ:ALOG) designs, manufactures, and commercializes innovative real-time guidance, diagnostic imaging and threat detection technologies to advance the practice of medicine and save lives. We operate and report along three business segments:  Medical Imaging, Ultrasound and Security and Detection. Our Medical Imaging segment provides critical enabling medical imaging systems and subsystems for computed tomography, or CT, magnetic resonance imaging, or MRI and high-resolution digital mammography. We sell our Medical Imaging products primarily through longstanding relationships with well-known multinational medical original equipment manufacturers, or OEMs, and new entrants in emerging markets. Our Ultrasound business provides real-time ultrasound procedure guidance systems for the urology, surgery and point of care markets.  We sell our ultrasound products, under the BK Ultrasound brand, through our direct sales force in North America and Europe, as well as through a network of distributors to clinical practitioners throughout the world. Our Security and Detection segment designs and manufactures automated threat detection systems for aviation baggage inspection applications utilizing advanced medical CT technology and systems used for rapid DNA analysis for law enforcement and government agencies. We sell our aviation threat detection and rapid DNA systems through multinational partners. We were incorporated in the Commonwealth of Massachusetts in November 1967 and are headquartered in Peabody, Massachusetts. 
+ Refer to Note 16 to the notes to Consolidated Financial Statements included in this Annual Report on Form 10-K as well as Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations for financial information regarding our segments. The following chart shows net revenue by segment in millions for fiscal years 2017, 2016 and 2015, respectively: 
+ 
+
+Medical Imaging 
+ Our Medical Imaging segment, which accounted for approximately 57% of our net revenue in fiscal year 2017, consists primarily of systems and sub-systems for medical imaging that are sold globally to OEM producers of 
+ 2
+
+
+CT, MRI, and digital mammography systems. Our products are designed and manufactured to achieve high reliability resulting in the lowest overall cost of ownership for our customers. 
+ Computed Tomography 
+ Analogic has been at the forefront of developments in computed tomography equipment technology from the introduction of the first single slice CT systems in the early 1970s to today’s multi-slice volumetric scanners. We are an industry leader in the development and sale of CT detector systems, data acquisition systems, or DAS, data management systems, or DMS, and fully integrated CT systems that drive the image processing in OEM CT imaging scanners sold around the world. 
+ Our CT product portfolio consists primarily of the following: 
+  
+1) | Detector Subsystems – These subsystems convert the x-ray energy in a CT machine to analog signals for further processing in the DAS. The detectors use state-of-the-art scintillator materials and photodiodes coupled with advanced semiconductor technology to process these highly precise signals. These signals are then fed to a computer through a DAS for image reconstruction.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | DAS – These subsystems are used to process the signals created by the detectors and feed them as a digital stream to a reconstruction computer to create high resolution images. The DAS is designed with many multi-channel circuit boards that process the analog signals from the detectors and convert them into digital signals through an array of analog to digital, or A/D converters.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3) | DMS – This is the most critical sub-system of the CT system and consists of both the detector array and the DAS in one package. This system provides our OEM customers a higher level of integration that allows for lower cost and faster time to market.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4) | Full Integrated CT Systems – The components of the CT system (detectors, DAS, x-ray tube and power supplies) are mounted on a rotating ring assembly called a gantry. The ring enables the components of the CT systems to rotate around the patient at speeds up to 300 revolutions per minute for high resolution imaging. We provide full integrated gantries with image and iterative reconstruction algorithms to our OEM customers as another level of integration to facilitate a smoother and faster time to market and improve manufacturing efficiency. Our Low Dose Imaging Software, or LISA, is available in our integrated CT systems to provide high quality imaging capability at up to 40% lower x-ray dose as compared with conventional image reconstruction. Low dose imaging in medical diagnostics is used to prevent damage to healthy tissue. Our designs also include non-contact power, data transfer and other innovative capabilities that provide high reliability, lower total cost of ownership and dose reduction/modulation.
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Integrated CT Gantry
+ 3
+
+
+The detector, DAS and DMS products we sell are used in a wide range of CT systems, from dual slice count to the most advanced multi-slice (at least 256 slices) systems, enabling advanced diagnostics such as cardiac imaging. Our CT products are designed to allow our customers to remain at the forefront of this rapidly advancing field. By leveraging our experience in integrating CT components and technology, we have also developed higher-level integrated systems for the radiotherapy market primarily used for image guided radiation treatment of cancerous tumors. 
+Magnetic Resonance Imaging 
+ For OEM producers of MRI equipment, we supply two key enabling sub-systems: gradient amplifiers and radio frequency, or RF amplifiers. We have developed a wide range of amplifier solutions for our customers ranging from low-magnetic-field systems (under 0.3 Tesla) to ultra-high-magnetic-field systems (> 7.0 Tesla). Our ability to provide very high power levels with fast response, low noise and industry-leading reliability enables our OEM customers to deliver innovative technologies such as new, wide-bore (i.e. larger opening) MRI scanners addressing growing requirements related to obesity and patient comfort. 
+ Our MRI product portfolio consists primarily of the following: 
+  
+1) | Gradient Amplifiers – These high power systems are used to drive a set of coils located inside the MRI system and around the patient. The coils energize the atomic structure of a patients’ anatomy in order to create tissue and structure images. Gradient amplifiers must be designed at specific power levels for different MRI field strengths ranging from under 0.3 Tesla to 7.0 Tesla and higher.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | RF Amplifiers – These power systems are used to control another set of the coils within the MRI system that are used to read-back the signals from the anatomy generated by the gradient coils. These signals are then processed in a reconstruction computer to create images. The RF amplifiers must have a very high signal-to-noise ratio to produce the cleanest images.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+RF Amplifier
+ Digital Mammography 
+ Our digital mammography products consist primarily of digital mammography selenium based detector plates, sold directly to OEM customers for breast cancer screening and diagnostic applications in mammography. These detector plates are used by OEMs in mammography systems to convert x-ray signals into high resolution 2-D and 3-D images of breast tissue to aid in the detection of breast cancer. Our detector plates for mammography applications are sold to medical OEMs for use in products worldwide. Our digital mammography product portfolio consists of the following: 
+
+1) | Large field of view (FOV) detector (AXS-2430 and AXS-ScreenPlus) – Our large field of view detector plate, based on selenium technology, is used primarily for European and U.S. markets. The plate and power supply is designed to be easily adapted to many types of mammography systems. This detector plate is also compatible with systems that can perform tomosynthesis, which creates 3-D images through a series of exposures to more accurately detect lesions in the breast.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 4
+
+
+ 
+2) | Small field of view (FOV) detector (AXS-1824) – Our small field of view detector plate uses the same selenium-based technology as the AXS-2430 detector and is manufactured primarily for the Asian markets.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Other Products 
+ Within our Medical Imaging segment, we also design and manufacture motion control devices such as servo and stepper controllers, which we supply to OEM customers for use in computer-controlled automation systems primarily for the semiconductor, food and beverage and laboratory automation markets. 
+Competition 
+ We are subject to competition based upon product design, performance, pricing, quality and service. We believe that our innovative engineering and product reliability have been important factors in our historical growth. 
+ In our Medical Imaging segment, systems and subsystems are customized for the needs of our customers. In many cases, due to the limited number of companies with technology comparable to ours, we consider selection by our OEM customers for the design and manufacture of these products and our other medical products to be due more to the “make-or-buy” decision of the individual OEM customers than a function of other competitors in the field. 
+ Marketing and Distribution 
+ Our Medical Imaging segment directly sells to OEM customers, both domestically and abroad, primarily through our headquarters in the U.S. We also sell products through our subsidiaries in Canada, China, and the U.S. 
+Seasonal Aspect of Business 
+ There are no material seasonal elements to our Medical Imaging segment, although holidays and plant closings in the summer, particularly in Europe, tend to decrease the procurement activities of certain customers during the first quarter of our fiscal year. Ultrasound 
+ Our Ultrasound segment designs and manufactures medical ultrasound systems and transducers, principally for applications in urological and surgical procedure guidance.
+ Our BK Ultrasound brand products are sold to clinical end-users in urology, surgery, point-of-care and general imaging applications and accounted for approximately 30% of our net revenue in fiscal year 2017. Our ultrasound systems use acoustic waves to generate real-time images of the body’s internal anatomy that are used for interventional and medical diagnostic procedures, including guiding surgical procedures and guiding prostate cancer treatment employing procedures such as brachytherapy. 
+ 5
+
+
+Our product portfolio under the BK Ultrasound brand name consists primarily of two main product families: BK and FlexFocus systems used primarily for guiding procedures in urology, surgery and regional anesthesia.
+ In 2017 we underwent a product portfolio optimization process to refocus our ultrasound products primarily in the urology, surgery and anesthesia markets. As a result of this process we decided to forgo further investment in the handheld Sonic Window product for the dialysis market, discountinue the sale of new ultrasound systems in the Oncura veterinary space transitioning to service only and end of life certain legacy Sonix products for the point of care market.  As a result the product portfolio optimization process, we will focus mainly on the bk3000 for urology, bk5000 for surgery and the bk3500 for anesthesia applications.  We also provide a general imaging ultrasound product through an agreement that we signed in mid-2014 with a technology partner for general radiology and OB/GYN applications. 
+ 
+
+The premium bk3000 and the bk5000, introduced in 2015, are based on our innovative TriCore technology that expands the portfolio of existing Flexfocus systems with high-end entries. The TriCore technology allows for high definition imaging by processing three times more information compared with traditional systems.  The bk3000 is primarily used for high-end urology and general imaging applications while the bk5000 is a premium system used for guiding surgical procedures. 
+ The bk3500 is an advanced ultrasound solution for point of care (POC) applications such as for anesthesiology. The bk3500 combines high resolution imaging from our bk3000 and bk5000 products with unique workflow technology using a streamlined touchscreen interface. The system has four probe connectors, an integrated bar code reader and a streamlined touchscreen that guides the user through the procedure. 
+
+ We also design and manufacture advanced ultrasound probes and transducers sold to OEM customers within our Ultrasound segment. Using our advanced acoustic design and manufacturing capability, we provide a variety of transducers to OEMs for both diagnostic and procedure driven applications such as cardiology, radiology, OB/GYN, surgery and interventional radiology. 
+ Competition 
+ We are subject to competition based upon product design, performance, pricing, quality and service. We believe that our innovative engineering and product reliability have been important factors in our historical growth. While we try to maintain competitive pricing on those products that are directly comparable to products 
+ 6
+
+
+manufactured by others, in many instances, our products conform to more precise specifications and carry a higher price than similar products manufactured by others. 
+ The Ultrasound segment participates in markets primarily focused in urology, surgery, anesthesia and other point-of-care markets. We compete in these markets based on image quality, ease of use, mobility, reliability and flexibility with a robust portfolio of specialized ultrasound transducers. Our competitors are companies and business units of large medical device companies, such as General Electric Corporation, or GE and Koninklijke Philips Electronics N.V., or Philips, that primarily focus on the conventional ultrasound markets, as well as smaller business units of large multi-national companies, such as Hitachi Medical Corporation and Fujifilm that sell under brands such as Aloka and SonoSite in our target markets. We also compete against newer global market entrants such as Mindray Medical International Limited, or Mindray. 
+ Marketing and Distribution 
+ Our Ultrasound segment globally distributes its products to end users both through a direct sales force and through a network of independent sales representatives and distributors located around the world. Our direct sales force, located in the U.S., Canada, Germany, Belgium, United Kingdom, Italy, and Scandinavia, accounted for approximately 64% of our Ultrasound revenue in fiscal year 2017, generated from product sales, service and application support. Our remaining Ultrasound revenue was generated through a network of generally non-exclusive, independent distributors in more than 60 other countries and sales of transducers to OEM customers both domestically and abroad. 
+ Our global marketing department is responsible for defining future products, uncovering unmet needs and validating value propositions based on customer insights. Management of key opinion leaders and global reference sites is supervised by a team of clinical scientists and product applications specialists.  
+ Seasonal Aspect of Business 
+ Customer purchases in our Ultrasound segment have historically been higher in the second and fourth quarters of our fiscal year due in part to the timing of customer budgeting cycles. 
+Security and Detection 
+ Utilizing our advanced medical CT technology, the Security and Detection segment, which accounted for approximately 13% of our net revenue in fiscal year 2017, designs and manufactures airport baggage screening systems and subsystems. The airport screening systems generate 3-D images of objects contained within baggage and utilize highly sophisticated algorithms to provide threat analysis of materials contained within the bags. We also design and manufacture Rapid DNA analysis systems. 
+ Our certified checked baggage screening systems and subsystems are sold through our OEM customers L-3 Communications Security and Detection Systems, or L-3 and Smiths Detection, or Smiths, to the Transportation Security Agency for U.S. airports and to international airport authorities and foreign governments for installation at airports around the world. 
+ 7
+
+
+We sell the following checked baggage systems through L-3. 
+ 
+ 
+1) | eXaminer® XLB (High Speed) – The XLB was the first certified explosives detection system, or EDS specifically optimized for high speed screening of checked baggage. Capable of scanning up to 1,200 bags per hour, the XLB keeps bags continuously moving through a meter-wide tunnel. Combining high-resolution helical CT with dual-energy imaging, the XLB offers superior detection capabilities and advanced 3-D imaging. 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2) | eXaminer 3DX (Medium Speed) – Our CT technology is utilized in the 3DX, a medium speed EDS that scans up to 550 bags per hour in-line and up to 330 bags in standalone configuration. The enhanced speed 3DX-ES scans up to 750 bags per hour in the in-line configuration. Both systems are designed to provide high levels of reliability and low false-alarm rates. With over 1,200 systems installed since 2003, the 3DX is one of most widely used checked baggage systems in the U.S.
+3) | eXaminer SX (Reduced Size) – The SX is a lower-cost, reduced size EDS designed for small and medium-sized airports. Able to scan up to 360 bags per hour in-line and up to 300 bags per hour in standalone configuration, the SX offers customers a reduced footprint system with high resolution 3-D imaging and low false-alarm rates. 
+
+ eXaminer ® is a registered trademark of L-3. 
+ The Smiths Detection HI-SCAN 10080 XCT, which incorporates Analogic CT technology, is capable of screening up to 1,800 bags per hour in its approved configuration with a belt speed of 0.5 meters per second. The system offers a large one meter wide tunnel that meets the requirements of high speed in-line baggage handling systems and allows rapid, efficient scanning of larger items. The system is well positioned for international sales as the market converts to CT level detection for checked baggage. 
+ 
+Smiths Detection HI-SCAN 10080 XCT 
+ Our next generation ConneCT checkpoint CT system was launched in 2017 and has received European Civil Aviation Conference Standard-2 certification  and U.S. TSA certification for use in the U.S. The system uses medical CT technology to scan carry-on bags for explosives and weapons while allowing passengers to keep their electronics and liquids in their bags.  In June 2017, American Airlines announced a partnership with Analogic and 
+ 8
+
+
+purchased multiple units of the ConneCT system for enhanced aviation security after evaluating competitive systems.   
+ 
+
+ConneCT Checkpoint CT System
+ 
+Other Products 
+ Within our Security and Detection segment, we also design and manufacture rapid DNA Analysis systems. These systems, which we supply to our OEM customer, are designed to rapidly analyze multiple human DNA samples to provide “DNA fingerprints”. The analysis process yields results in less than ninety minutes, a significant improvement over conventional laboratory technologies. Unlike conventional techniques, which require highly trained personnel working in a laboratory setting, our systems are designed for non-technical users with minimal training in a variety of environments. These systems have potential application in fields that benefit from the rapid identification of individuals, including law enforcement, defense, and immigration. In August 2017the rapid DNA ACT of 2017 was signed into law which allows the use of rapid DNA systems at law enforcement offices with the ability to query the FBI CODIS (Combined DNA Index System) database to identify criminals.
+Rapid DNA Analysis System
+ Competition 
+ We are subject to competition based upon product design, performance, pricing, quality and service. We believe that our innovative engineering and product reliability have been important factors in our historical growth. 
+ In our Security and Detection segment, competition in baggage scanning is limited due to the high barriers of entry resulting from the cost of developing the capability to design and manufacture CT technology. Due to the degree of customization required and the limited number of companies with technology comparable to ours, we consider selection by our OEM customers to be due more to the “make-or-buy” decision of our customers than a function of other competitors in the field. 
+ Principal entrants in the aviation baggage scanning market include L-3, Smiths Detection, Morpho Detection (acquired by Smiths Detection) and Rapiscan (a division of OSI systems). 
+ 9
+
+
+Marketing and Distribution 
+ Our Security and Detection segment sells its checked baggage systems and subsystems and its DNA analysis system to our OEM customers. We offer our checkpoint solutions directly to customers in the U.S. and internationally. Our Security and Detection segment conducts its sales and marketing activities primarily through our headquarters in the U.S. 
+Seasonal Aspect of Business 
+ There are no material seasonal elements to our Security and Detection segment, although plant closings in the summer, particularly in Europe, tend to decrease the procurement activities of certain customers during the first quarter of our fiscal year. 
+Material Customers 
+ We had two customers during fiscal year 2017, three customers during fiscal year 2016 and four customers during fiscal year 2015, as set forth in the table below, which accounted for 10% or more of our net revenue. 
+
+ | For the Year ended | 
+-------------------------------------------------+--------------------+---
+ | July 31, | 
+ | 2017 | | | 2016 | | | 2015 | 
+Koninklijke Philips Electronics N.V., or Philips | | 14 | % | | | 13 | % | | | 14 | %
+Siemens AG | | 12 | % | | | 12 | % | | | 11 | %
+Toshiba Corporation, or Toshiba | * | | | | 11 | % | | | 11 | % 
+L-3 Communications Corporation, or L-3 | * | | | * | | | | 13 | % 
+
+ 
+Note (*): Total net revenue was less than 10% in this fiscal year. 
+ Philips’, Siemens’ and Toshiba’s revenues were primarily in the Medical Imaging segment and L-3’s revenue was in the Security and Detection segment. 
+ Our ten largest customers as a group accounted for 61%, 61% and 64% of our net revenue for fiscal years 2017, 2016 and 2015, respectively. 
+ The following table summarizes the net accounts receivable due from our customers with net accounts receivable balances greater than or equal to 10% of our total net accounts receivable balance: 
+ 
+ 
+ | As of | | | As of | 
+--------+----------+----+---+----------+---
+ | July 31, | | | July 31, | 
+ | 2017 | | | 2016 | 
+Philips | | 14 | % | | | 15 | %
+GE | | 11 | % | | * | 
+L-3 | * | | | | 17 | % 
+
+ 
+Note (*): Total net accounts receivable was less than 10% in this fiscal year. 
+ Our OEM business involves large customers whose placement of large orders can vary based on timing. Our backlog, which consists of cancellable and non-cancellable orders primarily shippable within twelve months, was $108.4 million and $148.7 million as of July 31, 2017 and 2016, respectively. The decrease in backlog was primarily due to timing of customer orders in our Security and Detection segment and our Medical Imaging segment, and decreased orders in legacy OEM probes within our Ultrasound segment. 
+ 10
+
+
+Government Contracts 
+ We do a significant amount of business with agencies of the U.S. Federal Government and in particular the Transportation Security Agency (TSA) through our Security and Detection segment, either directly or as a subcontractor. Our contracts with government agencies, and the government contracts of other parties under which we serve as a subcontractor, are subject to termination at the election of the government agency. While none of our government contracts or subcontracts provide for renegotiation of profits at the election of the government, it is possible that the government agency could request, and that we could under certain circumstances agree to, the renegotiation of the payments provided for under such contracts. However, we have not in the past renegotiated significant payment terms under our government contracts or subcontracts. 
+Sources of Raw Materials and Components 
+ In general, our products are composed of internally-designed electronic and mechanical elements, including proprietary integrated circuits, printed circuit boards, detectors, power supplies, and displays manufactured by us and others in accordance with our specifications. We order raw materials and components to complete our customers’ orders, and some of these raw materials and components are ordered from sole-source suppliers. We believe that most items procured from third-party suppliers are available from more than one source. However, if a given component ceases to be available, it might become necessary for us to modify a product design to adapt to a substitute component, or to purchase new tooling to enable a new supplier to manufacture the component, either of which could result in additional expense and/or delay in product sales. Also, from time to time the availability of certain electronic components has been disrupted. Accordingly, we carry a safety stock of raw materials and components in an effort to ensure our ability to make timely delivery to our customers. 
+Intellectual Property
+ We rely on a combination of patent, trade secret, copyright and trademark laws, as well as contractual agreements, to safeguard our products, technologies, and processes. We hold patents of varying duration in the U.S. and in various foreign jurisdictions, which cover technologies that we have developed. We regularly file U.S. patent applications and, where appropriate, foreign patent applications. As of July 31, 2017, we hold approximately 370 patent families, including pending and issued patents, in various jurisdictions. In seeking to limit access to sensitive information, we routinely enter into confidentiality and assignment of invention agreements with each of our employees, and confidentiality agreements with our key customers and vendors.
+ We believe that,  the legal protections afforded by the intellectual property laws are an important factor in our ability to compete. Our future prospects also depend on the continuing level of excellence and creativity of our engineers in developing products that satisfy customer needs, and the marketing skills and managerial competence of our personnel in selling those products. Moreover, we believe that market positioning and rapid market entry are important to the success of our products. Our management believes that the loss of any individual patent would not have a material effect on our competitive position.
+ Research and Development 
+ Research and development, or R&D is a significant element of our business. We maintain a constant and comprehensive R&D program directed toward the creation of new products, the improvement and refinement of our present products, and the expansion of their applications. Certain R&D projects are funded by our customers, typically OEM customers, and such funding is generally treated as engineering revenue, with the associated costs classified as engineering cost of sales. The costs of internally-funded R&D efforts are included within operating expenses. 
+ We evaluate developing technologies in areas where we have technological or marketing expertise for possible investment or acquisition. We intend to continue to invest in R&D and focus our internal and external investments in fields that we believe will offer the greatest potential for near and long-term growth. We are committed to investing in products that have a demonstrable impact and value to the healthcare system and security markets, and through which we can benefit from our core competencies and global infrastructure. 
+ 11
+
+
+The cost of customer-funded R&D, which is classified as engineering cost of sales, amounted to: 
+ 
+ 
+ | For the Year ended | 
+--------------------+--------------------+----
+ | July 31, | 
+(in millions) | 2017 | | 2016 | | | 2015
+Customer-funded R&D | $ | 5.0 | | $ | 5.2 | | $ | 7.8
+
+ 
+The cost of internally-funded R&D included in operating expenses amounted to: 
+ 
+ 
+ | For the Year ended | 
+----------------------+--------------------+-----
+ | July 31, | 
+(in millions) | 2017 | | 2016 | | | 2015
+Internally-funded R&D | $ | 63.5 | | $ | 67.1 | | $ | 68.5
+
+Environment 
+ Our manufacturing facilities are subject to numerous environmental laws and regulations, particularly with respect to industrial waste and emissions. Compliance with these laws and regulations have not had a material impact on our capital expenditures, earnings, or competitive position. 
+Employees 
+ As of July 31, 2017, we employed 1,510 employees. A limited number of employees at our Denmark facility are covered by a works council. We consider our relations with our employees to be generally good. 
+Financial Information about Foreign and Domestic Operations and Export Revenue 
+ Revenues are attributed to countries based on the location of our customers. For OEM sales, our customer’s location may differ from the location of where the ultimate completed systems are sold by the OEM into the market. 
+
+ | For the Year ended | 
+------------------+--------------------+------
+ | July 31, | 
+(in millions) | 2017 | | | | 2016 | | | | 2015 | | 
+Net Revenue | | | | | | | | | | | | | 
+Domestic | $ | 183.5 | 38 | % | | $ | 192.3 | 38 | % | $ | 215.3 | 40 | %
+Foreign | | 302.9 | 62 | % | | | 316.5 | 62 | % | | 325.0 | 60 | %
+Total net revenue | $ | 486.4 | | | | $ | 508.8 | | | $ | 540.3 | | 
+
+ 
+Refer to Note 16 to the notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for financial information regarding our domestic and foreign revenue and long lived assets. 
+ Available Information 
+ Our website address is www.analogic.com. The information on our website is not incorporated by reference into this document and should not be considered to be a part of this document. Our website address is included in this document as an inactive textual reference only. 
+ We make available free of charge through our website our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Annual Form SD and amendments to the reports as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission, or the SEC. 
+ 12
+
+
+ 

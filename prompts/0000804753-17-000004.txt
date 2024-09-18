@@ -1,0 +1,192 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Overview
+Cerner Corporation started doing business as a Missouri corporation in 1980 and was merged into a Delaware corporation in 1986. Unless the context otherwise requires, references in this report to “Cerner,” the “Company,” “we,” “us” or “our” mean Cerner Corporation and its subsidiaries.
+Our corporate world headquarters is located in a Company-owned office park in North Kansas City, Missouri, with our principal place of business located at 2800 Rockcreek Parkway, North Kansas City, Missouri 64117. Our telephone number is 816.201.1024. Our Web site, which we use to communicate important business information, can be accessed at: www.cerner.com. We make our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports available free of charge on or through this Web site as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission ("SEC"). We do not intend for information contained in our website to be part of this annual report on Form 10-K.
+
+Cerner is a leading supplier of health care information technology ("HCIT"). Our mission is to contribute to the improvement of health care delivery and the health of communities. We offer a wide range of intelligent solutions and services that support the clinical, financial and operational needs of organizations of all sizes. We have systems in more than 25,000 facilities worldwide, including hospitals, physician practices, laboratories, ambulatory centers, behavioral health centers, cardiac facilities, radiology clinics, surgery centers, extended care facilities, retail pharmacies, and employer sites.
+Cerner solutions are offered on the unified Cerner Millennium® architecture and on the HealtheIntent™ cloud-based platform. Cerner Millennium is a person-centric computing framework, which includes integrated clinical, financial and management information systems. This architecture allows providers to securely access an individual’s electronic health record ("EHR") at the point of care, and it organizes and proactively delivers information to meet the specific needs of physicians, nurses, laboratory technicians, pharmacists, front- and back-office professionals and consumers. Our HealtheIntent platform is a cloud-based platform designed to scale at a population level while facilitating health and care at a person and provider level. On the HealtheIntent platform, we offer EHR-agnostic solutions that help health care systems aggregate, transform and reconcile data across the continuum of care, manage the health of populations they serve, improve outcomes and lower costs.
+On February 2, 2015, Cerner acquired Siemens Health Services (now referred to as "Cerner Health Services"). Cerner Health Services offers a portfolio of enterprise-level clinical and financial health care information technology solutions, as well as departmental, connectivity, population health, and care coordination solutions globally.
+We offer a broad range of services, including implementation and training, remote hosting, operational management services, revenue cycle services, support and maintenance, health care data analysis, clinical process optimization, transaction processing, employer health centers, employee wellness programs and third party administrator ("TPA") services for employer-based health plans.
+In addition to software and services, we offer a wide range of complementary hardware and devices, both directly from Cerner and as a reseller for third parties.
+1
+
+The following table presents our consolidated revenues by major solutions and services and by segment, as a percentage of total revenues:
+
+ | For the Years Ended
+ | 2016 | 2015 | 2014
+Revenues by Solutions & Services | | | 
+System sales | 26 | % | 29 | % | 28 | %
+Support and maintenance | 21 | % | 22 | % | 21 | %
+Services | 51 | % | 47 | % | 48 | %
+Reimbursed travel | 2 | % | 2 | % | 3 | %
+ | 100 | % | 100 | % | 100 | %
+Revenues by Segment | | | 
+Domestic | 89 | % | 88 | % | 89 | %
+Global | 11 | % | 12 | % | 11 | %
+ | 100 | % | 100 | % | 100 | %
+
+Health Care and Health Care IT Industry
+Health care expenditures continue to consume an increasing portion of most economies. In the U.S., health care spending increased 5.5 percent to $3.20 trillion in 2015, growing to 17.8 percent of the U.S.'s Gross Domestic Product ("GDP"). The Centers for Medicare and Medicaid Services ("CMS") estimates U.S. health care spending in 2016 at $3.35 trillion, or 18.1 percent of GDP, and projects it to be 20.1 percent of GDP by 2025. We believe this trajectory is unsustainable and that health care IT can play an important role in facilitating a shift from a high-cost health care system that incents volume to a proactive system that incents health, quality and efficiency.
+For this change to occur, traditional fee-for-service ("FFS") reimbursement models must shift to value-based approaches that are more aligned with quality, outcomes, and efficiency. The largest signal of this shift occurred in January of 2015 when the U.S. Department of Health & Human Services laid out a plan to shift 50 percent of Medicare payments to value-based payment models by the end of 2018, and to tie 90 percent of the remaining traditional FFS payments to quality measures. 
+A further step towards a value-based model occurred in 2016 with the passage of The Medicare Access and CHIP Reauthorization Act ("MACRA"), which enacts significant reforms to the payment programs under the Medicare Physician Fee Schedule and consolidated three current value-based programs into one. We believe that MACRA and other government and private models aligning payment with value, quality and outcomes will drive major changes in the way health care is provided in the next decade, and we expect a much greater focus on patient engagement, wellness and prevention. As health care providers become accountable for proactively managing the health of the populations they serve, we expect them to need ongoing investment in sophisticated information technology solutions that will enable them to predict when intervention is needed so they can improve outcomes and lower the cost of providing care.
+The increasingly complex and more clinical outcomes-based reimbursement environment is also contributing to a heightened demand for revenue cycle solutions and services and a desire for these solutions and services to be closely aligned with clinical solutions. We believe this trend is positive for Cerner because our Cerner Millennium revenue cycle solutions and services are integrated with our clinical solutions, creating a clinically driven revenue cycle solution that has had significant adoption in recent years.
+Over the past several years, we have also seen a shift in the U.S. marketplace towards a preference for a single platform across inpatient and ambulatory settings. The number of physicians employed by hospitals has increased as hospitals have acquired physician groups, and health systems are recognizing the benefit of having a single patient record at the hospital and the physician office. We are benefiting from this trend due to our unified Cerner Millennium platform, which spans multiple venues, and significant enhancements we have made to our physician solutions in recent years.
+While health care providers are showing a preference for a single platform across multiple venues, there is also an increased push for interoperability across disparate systems to address the reality that no patient’s record will only have information from a single health care IT system. We believe health information should be shareable and accessible among primary care physicians, specialists, and hospital physicians.
+2
+
+As a result, Cerner has led or been a key participant in nearly every major industry effort to advance interoperability and system openness. One example is Cerner’s role as a founding member of the CommonWell Health Alliance, an open, not-for-profit industry consortium that brought health care IT firms together for the purpose of enabling safe nationwide interoperability. The vision of CommonWell is for a patient to be able to visit a new doctor, give their consent, and, within moments, have his or her lifetime record available from all the prior places he or she has visited.
+CommonWell members represent about 70 percent of the acute care market and about 30 percent of the ambulatory market. CommonWell membership also spans a diverse range of clinical care settings beyond acute and ambulatory, including health IT market leaders in imaging, perinatal, emergency department, laboratory, retail pharmacy, oncology, care management, patient portal, post-acute care, and state and federal government agencies. In 2016, CommonWell and CareQuality, another national interoperability framework, announced an agreement to work together and leverage the respective strengths of each organization to create a level interoperability playing field for all provider organizations that wish to share clinical information using standards-based queries. This agreement is expected to create near-universal connectivity that establishes a baseline query capability for all providers, regardless of their EHR supplier.
+Outside the United States, we believe Cerner’s growth opportunities are good, as most countries are also dealing with health care expenditures growing faster than their economies, which is leading to a focus on controlling costs while also improving quality of care.
+Cerner Vision and Growth Strategy
+For over three decades, Cerner has been continuously building intelligent solutions for the health care industry. Together with our clients, we are creating a future where the health care system works to improve the well-being of individuals and communities. Our vision has always guided our large investments in research and development (R&D), which have created strong levels of organic growth throughout our history. Our proven ability to innovate has led to what we believe to be industry-leading architectures and an unmatched breadth and depth of solutions and services. The strength of our solutions and services has led to our ability to gain market share in recent years, which has contributed to our growth. We believe we are positioned to continue gaining share in coming years as regulatory requirements and industry shifts continue to pressure health care providers to improve quality while lowering costs, which we believe will require having more sophisticated information technology than many of our competitors provide.
+In addition to growth by gaining market share, we believe we have a significant opportunity to grow revenues by expanding our solution footprint with existing clients. For example, less than 35 percent of our Cerner Millennium EHR clients have implemented Cerner revenue cycle solutions. This penetration has been growing in recent years and we expect it to continue because of the preference for having EHR and revenue cycle systems provided on the same platform. There is also opportunity to expand penetration of other solutions, such as women’s health, anesthesiology, imaging, clinical process optimization, critical care, health care devices, device connectivity, emergency department and surgery.
+We also have an opportunity to grow by expanding penetration of services we offer that are targeted at capturing a larger percentage of our clients’ existing IT spending. These services leverage our proven operational capabilities and the success of our CernerWorksSM managed services business, where we have demonstrated the ability to improve our clients’ service levels at a cost that is at or below amounts they were previously spending. One of these services is Cerner ITWorksSM, a suite of solutions and services that improves the ability of hospital IT departments to meet their organization’s needs while also creating a closer alignment between Cerner and our clients. A second example is Cerner RevWorksSM, which includes solutions and services to help health care organizations improve their revenue cycle functions.
+We have made progress over the past several years at reducing the total cost of our solutions, which expands our end market opportunities by allowing us to offer lower-cost, higher-value solutions and services to smaller community hospitals, critical access hospitals and physician practices. For example, our CommunityWorksTM offering leverages a shared instance of the Cerner Millennium platform across multiple clients, which decreases the total cost for these clients.
+We also expect to drive growth over the course of the next decade through initiatives outside the core HCIT market. For example, we offer clinic, pharmacy, wellness and third-party administrator services directly to employers. These offerings have been shaped by what we have learned from changes we have implemented at Cerner. We have removed our third-party administrator and become self-administered, launched an on-site clinic and pharmacy, incorporated biometric measurements for our associate population, realigned the economic incentives for associates in our health plan, and implemented a data-driven wellness management program. These changes have had a positive impact on the health of our associates while also keeping our health care costs below industry averages.
+3
+
+As discussed below, another significant opportunity for future growth, and a large area of investment for Cerner, is leveraging the vast amounts of data being created as the health care industry is digitized and using this data to help providers and employers manage the health of populations.
+Population Health
+Population Health Management involves a shift from solely automating health systems to managing a person’s health. Getting there requires complete, accurate patient data and meaningfully using that data to engage individuals, exchange information between providers and ultimately drive better outcomes at a lower cost. This shift will shape the future of health care and enable a system driven by accountability, transparency and value.
+Cerner's approach to population health is to enable organizations to:
+
+• | KNOW what is happening and predict what will happen within their population through solutions for data exchange, longitudinal record, enterprise data warehouse, analytics and quality and regulatory reporting;
+
+
+• | ENGAGE providers and patients in health and care delivery through personal health portals and solutions for care management, home care, long-term care, and retail pharmacy; and
+
+
+• | MANAGE health and improve care with capacity and workforce management, clinical research, predictive modeling, health registries, and contract and network management.
+
+These solutions are enabled by Cerner’s HealtheIntent platform, which is a multi-purpose, programmable platform designed to scale at a population level while facilitating health and care at a person and provider level. This cloud-based platform enables organizations to aggregate, transform and reconcile data across the continuum of care, and helps improve outcomes and lower costs.
+HealtheIntent is scalable, secure and can be accessed anywhere, anytime. It is able to receive data from any EHR, existing HCIT system and other data sources, such as pharmacy benefits managers or insurance claims. HealtheIntent collects data from multiple, disparate sources in near real-time, providing clarity to millions of data points in an actionable and programmable workflow. It enables organizations to identify, score and predict the risks of individual patients, allowing them to match the right care programs to the right individuals. The EHR-agnostic nature of our HealtheIntent platform allows us to offer our solutions to the entire marketplace, not just existing Cerner clients.
+We have created a series of initial solutions on the HealtheIntent platform, including the following solutions that are generally available or being released soon:
+
+• | Longitudinal Record - provides clinicians and the patient a view of their consolidated clinical record, gathered and normalized from multiple sources.
+
+
+• | Registries - identifies and automatically segments patients by disease, guides interventions according to clinical best practice, provides visibility to quality measures for provider’s population, produces client-defined performance scorecards, and tracks their health and their interventions according to clinical best practice.
+
+
+• | Analytics - allows the integrated data to be analyzed for the purpose of population health management and research.
+
+
+• | Provider Performance Management - creates visibility for providers on their performance against key clinical and operation metrics and can be aligned with payment models that incentivize high quality and efficient care.
+
+
+• | Patient/Member Engagement - an enhanced patient portal complemented by engagement services to help health care organizations create more meaningful interactions and engagement with the members they serve, and provides the ability to target individuals at risk of becoming chronically ill.
+
+
+• | Care Management - provides a person-centric approach of proactive surveillance, coordination and facilitation of health services across the care continuum to achieve optimal health status, quality and costs.
+
+
+• | Population Health Programs - leverages evidence-based guidelines and the contextual information within HealtheIntent to provide identification, prediction and management of a condition at the population, provider and person level and facilitates a personalized plan of care for each member.
+
+
+• | Contract Network Management - for managing provider networks, modeling to inform payer negotiations, determining appropriate business models, and managing contract performance in near real-time.
+
+In less than three years since the first HealtheIntent solution went live at our alpha client, more than 100 additional clients have purchased HealtheIntent solutions. The broad addressable market for population health solutions is reflected in the diversity of these clients, which include health systems, physician groups, employers, health plans, state governments, and accountable care organizations. The initial adoption by a large number of clients is encouraging and positions us for larger 
+4
+
+contributions to revenue from HealtheIntent solutions as these initial clients and others transition away from FFS models to value-based and at-risk models that require population health solutions and services.
+In summary, we believe our comprehensive architectural approach to population health is differentiated in the marketplace. We expect population health to be a large contributor to our long-term growth as health care continues to evolve towards a model that incents keeping people healthy.
+Software Development
+We commit significant resources to developing new health information system solutions and services. As of the end of 2016, approximately 6,100 associates were engaged in research and development activities. Total expenditures for the development and enhancement of our software solutions were $705 million, $685 million and $467 million during the 2016, 2015 and 2014 fiscal years, respectively. These figures include both capitalized and non-capitalized portions and exclude amounts amortized for financial reporting purposes.
+As discussed above, continued investment in R&D remains a core element of our strategy. This will include ongoing enhancement of our core solutions and development of new solutions and services.
+Intellectual Property
+We have a broad portfolio of intellectual property rights to protect the proprietary interests in our solutions, services, devices and brands. Our solutions constitute works of authorship protected by copyrights in the U.S. and globally. We own valuable trade secrets embodied in, or related to, our solutions, services and devices and protect these rights through a number of technical and legal measures. We have registered or applied to register certain trademarks and service marks in a number of countries with particular emphasis on the Cerner branding elements. We continue to develop our patent portfolio and own more than 350 issued patents with hundreds of patent applications pending. We do not consider any of our businesses to be dependent upon any one patent, copyright, trademark, or trade secret, or any family or families of the same.
+Our solutions, devices and services incorporate or rely on intellectual property rights licensed from third parties, including software subject to open source software licenses. Certain technologies licensed to Cerner are also important for internal use in running our business and supporting our clients. Although replacing any existing licenses could be inconvenient, based on our experiences, existing contractual relationships, and the incentives of our technology suppliers, we believe that Cerner will continue to obtain these technologies or suitable alternatives for commercially reasonable prices on commercially reasonable terms or under open source software licenses acceptable to Cerner.
+Sales and Marketing
+The markets for Cerner HCIT solutions, health care devices and services include integrated delivery networks, physician groups and networks, managed care organizations, hospitals, medical centers, free-standing reference laboratories, home health agencies, blood banks, imaging centers, pharmacies, pharmaceutical manufacturers, employers, governments and public health organizations. The majority of our sales are clinical and revenue cycle solutions and services to hospitals and health systems, but our solutions and services are highly scalable and sold to organizations ranging from physician practices, to community hospitals, to complex integrated delivery networks, to local, regional and national government agencies. Sales to large health systems typically take approximately nine to 18 months, while the sales cycle is often shorter when selling to smaller hospitals and physician practices.
+Our executive marketing management is located at our Realization Campus in Kansas City, Missouri (formerly known as our Innovations Campus), while our client representatives are deployed across the United States and globally. In addition to the United States, through our subsidiaries, we have sales associates and/or offices giving us a presence in more than 35 countries.
+We support our sales force with technical personnel who perform demonstrations of Cerner solutions and services and assist clients in determining the proper hardware and software configurations. Our primary direct marketing strategy is to generate sales contacts from our existing client base and through presentations at industry seminars and tradeshows. We market the PowerWorks® solutions, offered on a subscription basis, directly to the physician practice market using lead generation activities and through existing acute care clients that are looking to extend Cerner solutions to affiliated physicians. We attend a number of major tradeshows each year and sponsor executive user conferences, which feature industry experts who address the HCIT needs of large health care organizations.
+5
+
+Client Services
+Substantially all of Cerner’s clients that buy software solutions also enter into software support agreements with us for maintenance and support of their Cerner systems. In addition to immediate software support in the event of problems, these agreements allow clients to access new releases of the Cerner solutions covered by support agreements. Each client has 24-hour access to the applicable client support teams, including those located at our world headquarters in North Kansas City, Missouri, our Continuous Campus in Kansas City, Kansas, our campus in Malvern, Pennsylvania, and our global support organizations in Germany, England and Ireland.
+Most clients who buy hardware through Cerner also enter into hardware maintenance agreements with us. These arrangements normally provide for a fixed monthly fee for specified services. In the majority of cases, we utilize subcontractors to meet our hardware maintenance obligations. We also offer a set of managed services that include remote hosting, operational management services and disaster recovery.
+Backlog
+At the end of 2016, we had a revenue backlog of $15.9 billion, which compares to $14.2 billion at the end of 2015. Such backlog represents contracted revenue that has not yet been recognized. We currently estimate that approximately 26% percent of the backlog at the end of 2016 will be recognized as revenue during 2017.
+Competition
+The market for HCIT solutions, devices and services is intensely competitive, rapidly evolving and subject to rapid technological change. Our principal competitors in the health care solutions and services market each offer a suite of software solutions that compete with many of our software solutions and services. These competitors include, but are not limited to:
+
+ Allscripts Healthcare Solutions, Inc. |  Healthland, Inc. 
+ athenahealth, Inc. |  McKesson Corporation 
+ Epic Systems Corporation |  MEDHOST, Inc. 
+ Evident Health Services, LLC |  Medical Information Technology, Inc.
+ GE Healthcare | 
+
+Other competitors focus on only a portion of the market that we address. For example, we deem the following competitors, which offer HCIT services that compete directly with some of our service offerings, as principal competitors in the HCIT services space:
+
+ Deloitte Consulting, LLP (Deloitte) |  Impact Advisors 
+ Encore Health Resources, LLC |  S&P Consultants 
+ HCI Group |  The Advisory Board Company (Advisory Board)
+ IBM Corporation (IBM) |  Xerox Corporation, Ltd. 
+
+We view the following competitors that offer solutions to the ambulatory market (but do not currently have a significant presence in the broader health systems and independent hospital market) as principal competitors in this market:
+
+ AmazingCharts.com, Inc. |  Practice Fusion, Inc. 
+ eClinicalWorks, LLC |  Quality Systems, Inc. 
+ e-MDs, Inc. |  SRSsoft 
+ Greenway Health, LLC |  Vitera Healthcare Solutions
+ Netsmart Technologies | 
+
+
+6
+
+Cerner partners with third parties as a reseller of devices and markets its own competing proprietary health care devices. We view our principal competitors in the health care device market to include, without limitation:
+
+ Becton, Dickinson and Company |  Philips N.V. 
+ Connexall Company, Ltd. |  Qualcomm, Inc. 
+ Nanthealth, LLC |  Siemens AG 
+ Omnicell, Inc. |  Vocera Communication, Inc.
+ PerfectServe, Inc. | 
+
+We view our principal competitors in the health care revenue cycle and transaction services market to include, without limitation:
+
+ Accretive Health, Inc. |  Experian plc 
+ Conifer Health Solutions |  MedAssets, Inc. 
+ Dell, Inc. |  Optum, Inc. (Optum) 
+ Deloitte |  Quadramed Corporation
+ Emdeon Corporation | 
+
+We view our competitors in the population health market to range from small niche competitors, to large health insurance companies including, without limitation:
+
+ Advisory Board |  Influence Health, Inc. 
+ Enli Health Intelligence |  Lightbeam Health Solutions
+ Evolent Health, LLC |  Lumeris, Inc. 
+ i2i, Inc. |  Optum 
+ IBM |  WellCentive, Inc. 
+
+In addition, we expect that major software information systems companies, large information technology consulting service providers and system integrators, start-up companies, managed care companies, healthcare insurance companies, accountable care organizations and others specializing in the health care industry may offer competitive software solutions, devices or services. The pace of change in the HCIT market is rapid and there are frequent new software solutions, devices or services introductions, enhancements and evolving industry standards and requirements. We believe that the principal competitive factors in this market include the breadth and quality of solution and service offerings, the stability of the solution provider, the features and capabilities of the information systems and devices, the ongoing support for the systems and devices and the potential for enhancements and future compatible software solutions and devices.
+Number of Employees (Associates)
+At the end of 2016, we employed approximately 24,400 associates worldwide.
+Operating Segments
+Information about our operating segments, which are geographically based, may be found in Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” below and in Note (18) of the notes to consolidated financial statements. 
+7
+
+Executive Officers of the Registrant
+The following table sets forth the names, ages, positions and certain other information regarding the Company’s executive officers as of February 1, 2017. Officers are elected annually and serve at the discretion of the Board of Directors.
+
+Name | Age | Positions 
+Neal L. Patterson | 67 | Chairman of the Board of Directors and Chief Executive Officer
+Clifford W. Illig | 66 | Vice Chairman of the Board of Directors 
+Zane M. Burke | 51 | President 
+Marc G. Naughton | 61 | Executive Vice President and Chief Financial Officer 
+Michael R. Nill | 52 | Executive Vice President and Chief Operating Officer 
+Randy D. Sims | 56 | Senior Vice President, Chief Legal Officer and Secretary 
+Jeffrey A. Townsend | 53 | Executive Vice President and Chief of Staff 
+Julia M. Wilson | 54 | Executive Vice President and Chief People Officer 
+
+Neal L. Patterson, co-founder of the Company, has been Chairman of the Board of Directors and Chief Executive Officer of the Company for more than five years. Mr. Patterson served as President of the Company from July 2010 to September 2013, which position he also held from March of 1999 until August of 1999.
+Clifford W. Illig, co-founder of the Company, has been a Director of the Company for more than five years. He previously served as Chief Operating Officer of the Company until October 1998 and as President of the Company until March of 1999. Mr. Illig was appointed Vice Chairman of the Board of Directors in March of 1999.
+Zane M. Burke joined the Company in September 1996. Since that time, he has held a variety of client-facing sales, implementation and support roles, including Corporate Controller and Vice President of Finance. He was promoted to President of the Company’s West region in 2002 and Senior Vice President of National Alignment in 2006. He was further promoted to Executive Vice President - Client Organization in July 2011 and to President of the Company in September 2013.
+Marc G. Naughton joined the Company in November 1992 as Manager of Taxes. In November 1995 he was named Chief Financial Officer and in February 1996 he was promoted to Vice President. He was promoted to Senior Vice President in March 2002 and promoted to Executive Vice President in March 2010.
+Michael R. Nill joined the Company in November 1996. Since that time he has held several positions in the Technology, Intellectual Property and CernerWorks Client Hosting Organizations. He was promoted to Vice President in January 2000, promoted to Senior Vice President in April 2006 and promoted to Executive Vice President and named Chief Engineering Officer in February 2009. Mr. Nill was appointed Chief Operating Officer in May 2011.
+Randy D. Sims joined the Company in March 1997 as Vice President and Chief Legal Officer and was promoted to Senior Vice President in March 2011. Prior to joining the Company, Mr. Sims worked at Farmland Industries, Inc. for three years where he last served as Associate General Counsel. Prior to Farmland, Mr. Sims was in-house legal counsel at The Marley Company for seven years, holding the position of Assistant General Counsel when he left to join Farmland.
+Jeffrey A. Townsend joined the Company in June 1985. Since that time he has held several positions in the Intellectual Property Organization and was promoted to Vice President in February 1997. He was appointed Chief Engineering Officer in March 1998, promoted to Senior Vice President in March 2001, named Chief of Staff in July 2003 and promoted to Executive Vice President in March 2005.
+Julia M. Wilson first joined the Company in July 1990. Since that time, she has held several positions in the Functional Group Organization. She was promoted to Vice President and Chief People Officer in August 2003, to Senior Vice President in March 2007 and to Executive Vice President in March 2013.
+8
+

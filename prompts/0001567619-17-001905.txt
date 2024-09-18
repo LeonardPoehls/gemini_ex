@@ -1,0 +1,268 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ ShoreTel is a leading provider of brilliantly simple business communication solutions. We focus on the small and medium sized businesses seeking a Unified Communications (UC) solution allowing them to communicate anytime, anyplace and through any device that they chose.
+ We provide this to the market via two solutions: ShoreTel Connect, our UC solution, and Contact Center offering and ShoreTel Summit, our platform for creating microservices. ShoreTel Connect delivers a fully featured UC solution and applications such as mobility, collaboration, and workgroups. ShoreTel Connect is unique in that it offers three different delivery models including cloud, onsite and hybrid. Connect Cloud provides a hosted voice solution to our customers. Connect Onsite provides our customers the ability to independently own and operate their equipment. Connect Hybrid enables our customers to use both our cloud and onsite offerings while still delivering the same user experience and providing our customers increased choice and flexibility. Summit, our Communications Platform as a Service (CPaaS) offering, delivers the option to create microservices or deeply integrate communications into any application or workflow.
+ We believe our solutions address changes in the UC market being driven by both technological advances and new workplace trends. We believe some of the current factors affecting the UC market include: the shift to consuming communications from the cloud, addressing an increasingly mobile workforce, the ongoing need for collaboration, a desire for multiple forms of communication and a need to integrate communications into workflows and applications. Our solutions are sold through our extensive network of over 1,100 authorized resellers and value-added distributors throughout the world served either by national distributors or by ShoreTel directly. 
+ We were originally incorporated in California in September 1996 and reincorporated in Delaware in 2007. ShoreTel is based in Sunnyvale, California, and has regional offices in North America, Europe, Asia and Australia.
+ Pending Merger
+ On July 26, 2017, we entered into a definitive Agreement and Plan of Merger (Merger Agreement) with Mitel US Holdings, Inc., a Delaware corporation, Shelby Acquisition Corporation, a Delaware corporation and a wholly owned subsidiary of Parent (Merger Sub) and, with respect to certain obligations set forth in the Merger Agreement, Mitel Networks Corporation, a Canadian corporation. Pursuant to and subject to the terms and conditions of the Merger Agreement, Merger Sub has commenced an all-cash tender offer for any and all of ShoreTels outstanding shares of common stock, par value $0.001 per share, at a purchase price of $7.50 per share, net to the seller in cash, without interest, and subject to any required withholding of taxes. The transaction is subject to certain conditions, including the tender of at least one share more than half of all our common stock outstanding as well as regulatory and other related approvals. We have agreed to operate our business in the ordinary course during the period between the execution of the Merger Agreement and the effective time of the merger and have agreed to certain other customary restrictions on its operations, as set forth in the Merger Agreement.
+
+
+ 3
+
+ TABLE OF CONTENTS
+  Evolution of Business Communications
+ We believe ShoreTel is at the forefront of the UC industry that is in transition. We believe customers seek flexibility and choice when making a purchase decision relating to Business Communications. We also deliver the ability to deeply integrate into an existing workflow or application. Providing our customers the capability to create communications-focused microservices or integrate communications affords us a unique differentiator in the UC market. 
+ We deliver innovative solutions and have increased our global footprint. Specifically, we have executed on numerous initiatives to build upon our market momentum and plan to continue this trajectory. Key initiatives included:
+ 
+• | Expansion of our Unified Communications as a Service (UCaaS) cloud solution into global theaters including the United Kingdom and Australia.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enhancement of our collaboration portfolio with new solutions such as ShoreTel Teamwork, a virtual workspace and team messaging application, and multi-point video.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | As UCaaS is being adopted by enterprise customers, the Summit CPaaS for Connect Cloud customers allows solution partners and ShoreTel to design purpose-built applications for business communications.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Introduction of ShoreTel Global Numbers allowing multi-national organizations to create a local presence in the countries they serve by establishing unique Direct Inward Dial or International Toll-free Service numbers in each country.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Enhancement of our user experience through updates to our web, desktop and mobility clients.
+--+---------------------------------------------------------------------------------------------
+
+
+We have started to integrate ShoreTel Summit with our ShoreTel Connect portfolio of solutions. For example, all new Connect applications, such as Teamwork are built on the Summit technology stack with an Application Program Interface (API) first approach.
+ Our customers enjoy a broad approach to their UC requirements. Whether they are looking to acquire a cloud, onsite, hybrid UC solution or to further integrate that into their workflows and applications or whether they want to develop a specific communications application, we provide a solution to fit. Coupled with ready-made applications and supporting services such as ShoreTel Contact Center and professional services including ShoreTel Global Services and application and development professional services.
+ Hosted Architecture and Services for Hosted Customers
+ Our hosted services offer a secure and reliable business communications solution to organizations with minimal capital investment. At the heart of the hosted service is our call control technology, designed and developed by ShoreTel, culminating decades of our telephony experience. This technology was specifically designed to meet the unique requirements of the hosted communications market, offering a full portfolio of services to customers, including soft-switch services for ShoreTel Internet Protocol (IP) Telephony, as well as integrated software modules for ShoreTel Unified Communications, ShoreTel Contact Center, Business Intelligence Analytics and Reporting. By taking advantage of Infrastructure as a Service (IaaS), we can focus on delivering multi-tenant software serving many customers simultaneously. Hosted technologies are complemented by a series of service modules that enable billing, diagnostics, system monitoring, Communications Assistance for Law Enforcement Act (CALEA) regulatory compliance, emergency call routing and other related operational services. A variety of customer selectable network services are also available, including local and long distance network services, toll-free numbers, number porting, circuits from carriers and other value-added network services.
+Hosted Operations
+ We have a centrally managed platform consisting of data management, monitoring and security, control and billing systems that support our hosted services. This platform consists of a customer quotation portal, customer provisioning, customer access, fraud control, network security, call routing, call monitoring, media processing and normalization, call reliability, call record storage and billing. Our platform monitors our process of digitizing and compressing voice and video into packets and transmitting these packets over data networks around the world. We maintain a call switching platform that manages call control and routes calls.
+
+
+ 4
+
+ TABLE OF CONTENTS
+  Customer and Technical Support
+ We maintain a contact center that provides customer service and technical support to our customers. Customers can access our services directly through our website or receive customer service and technical support through telephone communication, e-mail support and online chat services. Our website also maintains a knowledge base repository that our customers and partners use for education and issue resolution.
+Hosted Data Centers
+ ShoreTel takes advantage of IaaS delivered through data centers located in the United States, Europe and Australia. These data centers include sufficient physical building security, network operations and resiliency services and backup power generation. These operation centers house the application servers and proprietary technologies used to provide services to customers.
+ The key elements of our hosted applications and services include:
+ 
+• | complete end-to-end solution offer for customers, including ShoreTel designed and developed phones, client and server applications, together with our own service and support centers, which results in the best possible service experience.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | development and introduction of new services;
+--+----------------------------------------------
+
+
+• | experience in customer implementations;
+--+----------------------------------------
+
+
+• | complete portfolio of operational services for billing, system management, and other requirements; and
+--+-------------------------------------------------------------------------------------------------------
+
+
+• | support for industry standard interfaces, enabling support for third party devices from other vendors.
+--+-------------------------------------------------------------------------------------------------------
+
+ShoreTel Business Communications for Onsite Deployment 
+ We provide a unique modern hardware and software architecture for onsite customers, which offers the high availability and reliability needed for mission critical communications. Our onsite business communication solutions are comprised of hardware and software components including ShoreTel Voice Switches, ShoreTel Service Appliances, ShoreTel Client and Server Software Applications, such as ShoreTel Director, Small Business Edition 100, and ShoreTel IP Phones. All ShoreTel software applications may also be virtualized, operating on customer-provided general purpose servers.
+
+• | ShoreTel Voice Switches: We offer a range of ShoreTel designed switches of varying capabilities to meet the needs of enterprises of all sizes. The modular nature of our switches allows our enterprise customers to easily expand their system capacity by deploying additional switches across their networks. The software on our voice switches may also be virtualized and operate on customer-provided, general purpose servers.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | ShoreTel Service Appliances: We offer a range of ShoreTel designed appliances for specific applications such as instant messaging, conferencing and collaboration. The administration of these service appliances is functionally integrated with the IP Telephony Web Administration. Appliances are automatically recognized by the ShoreTel Director software and user functions are seamlessly integrated with the user management application, eliminating the complexity found with other systems.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | ShoreTel Director: ShoreTel Director provides enterprises with a single point of system management, enabling IT administrators to view and manage the entire system from any location using a single application. A new end user’s extension, mailbox and automated attendant profile can be added on a single management screen, avoiding the additional work required with most Private Branch Exchanges (PBXs), voice mail systems and automated attendants.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Small Business Edition 100: Our Small Business Edition (SBE 100) solution is targeted for smaller businesses with up to 100 users. It is a bundled solution consisting of system software, user licenses and voice switches that allows our business customers to economically scale our products and solutions as their organizations begin to grow and expand. Businesses that grow beyond the capacity of the SBE 100 solution may expand their investment by adding additional switches and licenses, while preserving their original investment and avoiding costly upgrades.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ 5
+
+ TABLE OF CONTENTS
+  
+• | ShoreTel IP Phones: ShoreTel designs and provides IP phones which incorporate the most recent applications, including visual voice mail, speaker phones supporting seven octaves of sound for superior clarity and performance, and integrated diagnostics for simplifying installation and management.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ShoreTel Business Communications for Hybrid Onsite Environments with Integrated Cloud Services Deployment
+ ShoreTel customers can extend their investments in their business communications solution by incorporating both cloud and onsite based approaches via ShoreTel Connect. ShoreTel Connect enables customers to add new sites and add new applications, such as Contact Center, Mobility, Instant Messaging, Presence, Fax and Scribe and will also enable customers to easily add new services that we introduce in the future. 
+Business Communication Solutions
+ ShoreTel provides a diverse set of solutions for both onsite and hosted customers, consisting of ShoreTel IP Telephony, ShoreTel Unified Communications, ShoreTel Contact Center, and professional services, including ShoreTel Global Services and application development services.
+Unified Communications and Collaboration
+ ShoreTel Unified Communications enable the integration of IP telephony solutions with instant messaging, mobility, presence, desktop collaboration and video.
+ 
+• | Clients: Our strategy is to provide customers with a single, intuitive interface, delivered on mobile devices and via the desktop, giving access to all telephony and unified communications features. The ShoreTel desktop and mobility clients are designed to consume a minimal amount of space, delivering a consistent interaction between softphone, chats, video and screen share, regardless of the environment, while eliminating multiple applications and resulting in greater user productivity.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Team Collaboration: ShoreTel Teamwork is a team collaboration solution and virtual workspace for teams to hold persistent group chat sessions, share files, and manage or assign tasks. Users can create public or private workspaces for teams, projects, or topics. Instant Messaging - ShoreTel Connect users can instant message through their Connect client or mobile app. Group chat and 1:1 messaging is supported. Real-time presence is displayed via the Connect client, mobile client and ShoreTel desk phones.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Web and Audio Conferencing: ShoreTel physical or virtual Service Appliances deliver web and audio conferencing solutions for ShoreTel Connect and seamlessly integrates with desktop applications such as ShoreTel Connect client, Microsoft Outlook and Microsoft Skype for Business so users can create a new conference, view contacts’ calendars, and join meetings.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Video Conferencing: ShoreTel Connect client allows users to participate in peer-to-peer video as well as multi-point video conferencing. ShoreTel Connect client video capabilities enable users to communicate via video from their desktop, laptop or mobile device.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | PBX Features: ShoreTel Connect solutions include robust PBX features based on over 20 years of development including all the basic PBX features (transfer, conference, class of service) but also advanced PBX features like monitor, whisper, coach, barge, record and shared call appearance.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Third Party Integrations: ShoreTel's native integrations and advanced applications deliver pre-packaged offerings that allow customers to enhance their solution with features like click-to-dial, screen pops, automated call records and simple note entry. Advanced integrations are also available for many popular business process systems, such as Microsoft Dynamics, Salesforce, Google G Suite, Skype for Business and Zendesk.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Contact Center
+ Contact Center enables organizations to route contacts to the most appropriate agent in a multisite contact center, regardless of location. ShoreTel Connect Contact Center includes a range of options including agent phones, switching infrastructure, end-user interfaces, and platform software for both onsite-based and cloud-based 
+
+
+ 6
+
+ TABLE OF CONTENTS
+  customers. The solution features capabilities including call handling, self-service, multi-media, and reporting. Contact Center applications provide a range of features to satisfy the needs of all-sized organizations, from basic call center capabilities to sophisticated, distributed multimedia contact centers.
+ShoreTel Global Services
+ We complement our cloud, onsite and hybrid solution with a broad range of support services to help us maintain and expand our relationships with our enterprise customers and channel partners. Our product support contracts provide us with recurring revenue. Typically, our resellers provide many of these services, with ShoreTel providing manufacturer and escalation support as needed or, if requested by the enterprise customer or reseller, we can provide these services directly.
+ ShoreTel Global Services provides professional services, system design and installation, training and technical support including:
+ 
+• | Professional services include standard and custom software development to: extend system capabilities; enable UC integration with other enterprise applications; streamline business processes; and, address enterprise customer-specific business opportunities. We also offer collaboration with third party developers via API and Software Development Kit through the ShoreTel TechConnect program.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | System design and installation services include the best practices of deploying UC with regard to network requirements and capabilities as well as how to implement contact center and mobility for an enterprise.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Training services include certification programs for resellers, training programs at enterprise customer or reseller locations and self-paced, computer-based desktop training programs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our technical support services include web-based access support services and tools, access to technical support engineers, hardware replacement, as well as software updates and monitoring capabilities.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Application Development Services
+ ShoreTel offers custom application development and integration services for businesses with unique communication requirements. We offer businesses the option to enhance their communications solution by enabling the integration of business applications including customer relationship management (CRM) solutions such as Salesforce.com, Zendesk, Desk.com, NetSuite and Microsoft Dynamics, as well routing, interactive voice response and reporting solutions that automate business workflows and enhance operational oversight. 
+ Customers and partners can create integrated applications using the open application interface of the system available for developers through the ShoreTel TechConnect. 
+ Customers
+ As of June 30, 2017, our solutions have been installed by approximately 42,000 organizations in over 50 countries. We serve a wide range of vertical markets, including professional services, financial services, government, education, health care, sports and entertainment, manufacturing, non-profit organizations and technology industries.
+Focus on Customer Satisfaction 
+ We conduct formal customer reviews that involve our internal staff and third-party technical personnel to ensure smooth implementations and to resolve any issues that may arise. We follow up with ongoing check-ins to ensure customers are satisfied with their solution, surveying them regarding various aspects of the experience with ShoreTel. We use industry-recognized Net Promoter ScoreSM customer loyalty metrics to help ensure that we are meeting our customers expectations. Through this process, we gain valuable insights into the existing and future requirements of our customers activities and this helps us develop product enhancements that address the evolving requirements of customers.
+ Additionally, to promote high-quality support throughout our services organization, we measure performance indicators of our services organization, including call answer times, call abandon rates, customer satisfaction with technical support, time to issue resolution, first contact resolution, call interaction quality, as well as customer satisfaction with system implementation, training services and technical support, and use the results to direct the management of our services organization.
+
+
+ 7
+
+ TABLE OF CONTENTS
+  We also monitor our customers satisfaction with our channel partners by surveying our customers after the system is installed.
+ Sales and Marketing
+ We sell our onsite products, support and services primarily through an extensive network of channel partners that include value-added resellers, service providers, direct market resellers and value-added distributors. Our hosted services are sold through channel partners and our direct sales force. As of June 30, 2017, we had over 1,100 channel partners in our network. These channel partners range in size from single-site, regional firms with specialized products and services to multi-national firms that provide a full range of IT products and services. They also include top U.S. telecommunication carriers: AT&T and CenturyLink. Our channel partners market and sell our products into both the small-to-medium and mid-enterprise markets. Our channel partners in the U.S., Canada, the United Kingdom and Australia may offer both onsite and cloud solutions to their customers. In addition to our network of channel partners we utilize master agents and through them thousands of agents to promote and sell our hosted services.
+ We maintain a sales organization that manages the business relationship between ShoreTel and our partner network and master agents, recruiting, training and enabling them to market, sell and support ShoreTel solutions. In addition, we also have a ‘Client Sales team of sales personnel to assist our channel partners in selling to and providing support for customer accounts.
+ Research and Development
+ We have assembled a team of engineers with expertise in collaboration and UC technology, such as voice, messaging, conferencing, video, mobility, file sharing, contact center and workspaces. We have invested significant time and financial resources into the development of our architecture, including ShoreTel Connect, ShoreTel Summit, ShoreTel Connect Contact Center and ShoreTel Connect appliances which are available for both hosted and onsite customers.
+Manufacturing and Suppliers
+ We outsource the manufacturing of our hardware products. 
+ Currently, we have arrangements for the production of our phones, switches and mobility routers with a contract manufacturer with multiple locations including the United States and China. We also rely on a sole or limited number of suppliers for several key components utilized in the assembly of our products. 
+ We regularly provide forecasts for orders, and we order products from our contract manufacturers based on our projected sales levels, which is in advance of receiving customer orders. However, customers may generally cancel or reschedule orders without penalty, and delivery schedules requested by customers for these orders frequently vary based upon each customers particular needs.
+ For more information on risks related to products and components, see Risks Related to Our Business and Industry - Our business may be harmed if our contract manufacturers are not able to provide us with adequate supplies and Risks Related to Our Business and Industry - Our products incorporate some sole sourced components and the inability of these sole source suppliers to provide adequate supplies of these components may prevent us from selling our products for a significant period of time or limit our ability to deliver sufficient amounts of our products.
+ We typically fulfill product orders out of our California, New York, United Kingdom, Australia or Singapore warehouses.
+ Financial Information about Geographic Areas
+ For financial information about geographic areas, refer to Note 14 to the Consolidated Financial Statements in Item 8 of this report.
+
+
+ 8
+
+ TABLE OF CONTENTS
+  Competition
+ The market for business communication solutions is quickly evolving, highly competitive and subject to rapid technological change. As a result of the convergence of voice, video, messaging, mobility and data networking technologies that characterize IP enterprise UC solutions, we compete against vendors of hosted solutions and premise-based solutions, some of which have solutions in both markets and CPaaS providers.
+
+• | Providers of cloud services include Tier 1 service providers such as AT&T, Telstra, British Telecom, Verizon, incumbent local exchange carriers, competitive local exchange carriers, and independent providers such as 8x8, RingCentral, Mitel, West IP Communications, Fuze, Vonage and Amazon Connect.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Providers of hosted communication services based on technologies from Avaya, Broadsoft, Cisco, Microsoft, Mitel, Unify and other technology platform vendors.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Providers of premise-based business communication equipment include Avaya, Cisco, Mitel, NEC and Unify.
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | Providers of Unified Communications software applications, include Avaya, Cisco, Interactive Intelligence, Microsoft, Mitel, NEC and Unify.
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Providers of CPaaS include Twilio, Plivo, Vonage with Nexmo, Avaya Zang, Cisco Tropo and other API based technology platform vendors.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+In addition, because the market for our products is subject to rapid technological change as the market evolves, we may face competition in the future from companies that do not currently compete in the enterprise unified communications market, including companies that currently compete in other sectors of the information technology, communications and software industries, Infrastructure-as-a-Service companies or communications companies that serve consumer rather than enterprise customers.
+ We may also face increased competition from Internet portal-focused providers who extend their portfolio to include business communications solutions, such as Amazon, Skype/Microsoft and Google.
+ As more enterprises converge their voice and data networks, the business information technology and communication applications deployed on converged networks will become more integrated. We may face increased competition from current leaders in information technology infrastructure, information technology, personal and business applications and the software that connects the network infrastructure to those applications.
+ We could also face competition from new market entrants, whether from new ventures or from established companies moving into the market. Competition from these other potential market entrants may take many forms, including offering products and applications like those we offer as part of a larger, bundled offering or as a cloud-based or hosted services offering. In addition, technological developments and consolidation within the communications industry result in frequent changes to our group of competitors.
+ Many of our current and potential competitors are substantially larger than we are and have higher brand familiarity with buyers, and significantly greater financial, sales, marketing, distribution, technical, manufacturing and other resources. We believe that we currently compete favorably with regard to the principal competitive factors applicable to our solutions, which include price, portfolio, feature set, reliability, scalability, usability, simplicity, total cost of ownership, customer satisfaction and service.
+ For more information concerning competition, please see Risk Factors Risks Related to Our Business and Industry – The market in which we operate is intensely competitive, and many of our competitors are larger, more established and better capitalized than we are and – As voice, video, messaging and data networks converge, we are likely to face increased competition from companies in the information technology, personal and business applications and software industries.
+ Regulatory
+ Voice over IP (VoIP) communication services, like ours, have been subject to less regulation at the state and federal levels than traditional telecommunications services. Providers of traditional telecommunications services are subject to the highest degree of regulation, while providers of information services are largely exempt from most federal and state regulations governing traditional common carriers. The Federal Communications Commission (FCC) has subjected VoIP service providers to a smaller subset of regulations 
+
+
+ 9
+
+ TABLE OF CONTENTS
+  that apply to traditional telecommunications service providers and have not yet classified VoIP services as either telecommunications or information. However, the FCC reviews the status of VoIP service providers and the services they provide and may increase regulations that apply to hosted services.
+ The effect of any future laws, regulations and orders on the hosted offering is unknown at this time. But as a general matter, increased regulation and the imposition of additional funding obligations increases service costs that may or may not be recoverable from our customers. This increased regulation could result in making our services less competitive with traditional telecommunications services if we increase our retail prices or decreasing our profit margins if we attempt to absorb such costs.
+ Intellectual Property
+ A factor of our success as a company is our ability to protect our core technology and intellectual property. To accomplish this, we rely on a combination of intellectual property rights, including patents, trade secrets, copyrights and trademarks, as well as customary contractual protections.
+ As of June 30, 2017, we had 157 patents issued in the United States, and had 30 patent applications in the United States. Our patents have been both internally developed and externally acquired. Our patents have a range of expiration dates. The earliest patent expired in 2016, and the last to expire will do so in 2035.
+ The steps we have taken to protect our intellectual property rights may not be adequate. Third parties may infringe or misappropriate our intellectual property rights and may challenge our issued patents. In addition, other parties may independently develop similar or competing technologies designed around any patents that are or may be issued to us. We intend to enforce our intellectual property rights vigorously, and from time to time, we may initiate claims against third parties that we believe are infringing on our intellectual property rights if we are unable to resolve matters satisfactorily through negotiation. If we fail to protect our proprietary rights adequately, our competitors could offer similar products, potentially significantly harming our competitive position and decreasing our revenue.
+ Employees
+ As of June 30, 2017, we had 1,158 employees in North America, Europe, Asia and Australia, of which 357 were in sales and marketing, 401 were in research and development, 262 were in global support and services, and 138 were in general and administrative functions. None of our employees are represented by labor unions and we consider current employee relations to be good.
+Executive Officers
+ The following table sets forth information about our executive officers as of September 1, 2017:
+ 
+Name | Age | Position as of September 1, 2016 
+-----------------+-----+--------------------------------------------------------------
+Don Joos | 47 | President and Chief Executive Officer 
+Michael E. Healy | 56 | Senior Vice President and Chief Financial Officer 
+Eugenia Corrales | 52 | Senior Vice President of Solutions Group 
+Bharath Oruganti | 43 | Senior Vice President of Worldwide Business Operations 
+David Petts | 54 | Senior Vice President of Worldwide Sales and Customer Success
+Allen Seto | 41 | Vice President and General Counsel 
+
+Don Joos has served as our President and Chief Executive Officer and a Director since August 2013. Mr. Joos served as our Senior Vice President of Business Operations from July 2012 to August 2013. Mr. Joos joined ShoreTel in April 2011 as our Vice President of Global Services. Prior to joining ShoreTel, from December 2001 to April 2011, Mr. Joos served in various senior management roles, including Vice President Channel Transformation, at Avaya, Inc., a provider of business communications and collaboration systems. Prior to this, Mr. Joos also held service and operational roles at SiteStuff, Inc., Williams Communication Solutions, LLC, Nortel Communication Solutions and Marshalls Inc. Mr. Joos holds a B.S. in Sports Management from Springfield College in Massachusetts.
+ Michael E. Healy has served as our Senior Vice President and Chief Financial Officer since May 2007. From February 2004 to May 2007, he served as Chief Financial Officer and Senior Vice President of Finance of 
+
+
+ 10
+
+ TABLE OF CONTENTS
+  Genesis Microchip Inc., a supplier of display image processors. From November 2002 to February 2004, Mr. Healy served as Chief Financial Officer of Jamcracker, Inc., a software and application service provider. From September 1997 to June 2002, Mr. Healy held various senior level finance positions at Exodus Communications, Inc., an Internet infrastructure outsourcing services provider, including as Senior Vice President of Finance prior to February 2002, and as its Chief Financial Officer and Corporate Treasurer from February 2002 to June 2002. From 1987 to 1997, Mr. Healy held various financial management positions at Apple Computer, Inc., and was an auditor at Deloitte & Touche LLP from 1983 to 1987. Mr. Healy holds a B.S. in Accounting from Santa Clara University and is a Certified Public Accountant (Inactive). Mr. Healy is a member of the American Institute of Certified Public Accountants and the California Society of Certified Public Accountant.
+ Eugenia Corrales has served as our Senior Vice President of Solutions Group since July 2016. From July 2015 to August 2016, Ms. Corrales served as our Senior Vice President of Product. From July 2013 to July 2015, Ms. Corrales served as Vice President and General Manager of the Computing Systems Group at Cisco Systems, Inc., a provider of Internet protocol based networking and other products related to the communications and information technology. From September 2012 to July 2013, Ms. Corrales was an independent consultant working with multiple networking and renewable energy startup companies. From June 2010 to September 2012, Ms. Corrales served as Chief Executive Officer and Executive Vice President of Engineering and Operations at Nanosolar, a developer of solar power technology. From June 2006 to June 2010, Ms. Corrales served as Chief Executive Officer at Sunmodular, a startup focusing on providing efficiencies to solar panel technology. Ms. Corrales holds a B.A. in Physics from Grinnell College and a M.S. in Mechanical Engineering from Stanford University.
+ David Petts has served as our Senior Vice President of Worldwide Sales and Customer Success since July 2012. From June 2005 to July 2012, Mr. Petts served in several sales leadership roles at Nokia Corporation, a mobile communications company. Prior to then, Mr. Petts held a number of executive management roles, both in the United States and the United Kingdom, with Hewlett Packard Company and Compaq Computer Corporation, providers of products, technologies, software, services and solutions. Mr. Petts holds a B.S. in Economics and Quantitative Studies from Queen Mary College, London University.
+ Bharath Oruganti has served as our Senior Vice President of Worldwide Business Operations since February 2014. Mr. Oruganti also served as our Vice President of Global Services from September 2012 to January 2014. Mr. Oruganti joined ShoreTel in October 2011 serving in the position of Senior Director of Technical Services. From February 2011 to October 2011, Mr. Oruganti served as President and Chief Operating Officer at Encore Media Metrics, LLC, a digital media startup focused on advanced insights and analytics. From September 2006 to February 2011, Mr. Oruganti served as Senior Manager in the Strategy and Operations practice at Deloitte Consulting LLP. Prior to then, Mr. Oruganti served in various positions, including Senior Manager of Global Customer Support, at Cadence Design Systems, Inc., a provider of semiconductor design software. Mr. Oruganti holds a B. Tech in Electronics and Communication Engineering from Andhra University, a M.S. in Electrical Engineering from University of Kentucky and an M.B.A. from the University of Texas at Austin.
+ Allen Seto has served as our Vice President and General Counsel since March 2013. Mr. Seto joined ShoreTel in June 2012 serving as Associate General Counsel. From January 2011 to May 2012, Mr. Seto served as Associate General Counsel at Taleo Corporation., a global provider of on-demand talent management software solutions. From February 2008 to January 2011, Mr. Seto served as Senior Corporate Counsel in the Corporate, Securities & Acquisitions group at Oracle Corporation. From July 2005 to January 2008, Mr. Seto served as Corporate Counsel at SYNNEX Corporation, a business process services company servicing resellers, retailers and original equipment manufacturers. Prior to then, Mr. Seto was in private practice at Skadden, Arps, Slate, Meagher & Flom LLP. Mr. Seto holds a J.D. from University of California, Los Angeles School of Law and a B.A. in Economics and a B.A. in Rhetoric from the University of California, Berkeley.
+
+
+ 11
+
+ TABLE OF CONTENTS
+  

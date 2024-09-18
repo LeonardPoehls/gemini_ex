@@ -1,0 +1,471 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ ITEM 1.  BUSINESS
+ The Company
+ We deliver secure, reliable, high‑performance data center and interconnection solutions to a growing customer ecosystem across eight key North American markets. More than 1,000 of the world’s leading enterprises, network operators, cloud providers, and supporting service providers choose CoreSite to connect, protect and optimize their performance-sensitive data, applications and computing workloads.  Our Business
+ We are a fully integrated, self‑administered, and self‑managed real estate investment trust (“REIT”) for federal income tax purposes and we conduct certain activities through our taxable REIT subsidiaries. Through our controlling interest in CoreSite, L.P., a Delaware limited partnership, our “Operating Partnership,” we are engaged in the business of ownership, acquisition, construction and operation of strategically located data centers in some of the largest and fastest growing data center markets in the United States, including the Northern Virginia (including Washington D.C.), New York, and San Francisco Bay areas, Chicago, Los Angeles, Boston, Miami and Denver. We are a Maryland corporation organized in 2010.
+ Our data centers are highly specialized and secure buildings that house networking, storage and communications technology infrastructure, including servers, storage devices, switches, routers and fiber optic transmission equipment. These buildings are designed to provide the power, cooling and network connectivity necessary to efficiently operate this mission‑critical equipment. Data centers located at points where many communications networks converge can also function as interconnection hubs where customers are able to connect to multiple networks and exchange traffic with each other. Our data centers feature advanced reliable and efficient power, cooling and security systems, including generally twenty-four-hours-a-day, seven-days-a-week in‑house security staffing, and many are points of network interconnection that provide the evolved ecosystems our customers need to meet their own competitive challenges and business goals. We believe we have the flexibility and scalability to satisfy the full spectrum of our customers’ growth requirements and corresponding data center needs by providing data center space ranging in size from an entire building or large dedicated suite to a cage or half cabinet.
+ The first data center in our portfolio was purchased in 2000 by certain real estate funds (the “Funds”) affiliated with The Carlyle Group, our Predecessor, and since then we have continued to acquire, develop and operate these types of data center facilities. Our properties are self‑managed, including construction project management in connection with our development initiatives. As of December 31, 2016, our property portfolio included 20 operating data center facilities, office and light‑industrial space and multiple development projects and space, which collectively comprise over 3.5 million net rentable square feet (“NRSF”), of which over 2.2 million NRSF is existing data center space.
+ Our Competitive Strengths
+ We believe the following key competitive strengths position us to efficiently scale our business, capitalize on the demand for data center space and interconnection services, and thereby grow our cash flow.
+ Secure, Reliable, and Compliant. We help businesses protect mission‑critical data, performance sensitive applications and IT infrastructure by delivering secure, reliable, and compliant data center solutions. Our data centers feature advanced efficient power and cooling infrastructure to support our customers’ IT infrastructure with additional power capacity to support continued growth. We provide twenty‑four‑hours‑a‑day, seven‑days‑a‑week in‑house security guard monitoring with customizable security features. We also provide the infrastructure and physical security required to support many of our customers’ information, data, and security compliance needs.
+ High Performance. We offer cloud-enabled, network rich data center campuses with over 20,000 interconnections across our portfolio and direct access to over 375 carriers and ISPs (Internet Service Providers), over 300 leading cloud and IT service providers and inter‑site connectivity. Our offerings include the CoreSite Open Cloud Exchange and the Any2 Internet Exchange. We believe that the diverse network connectivity options at many of our data centers provide us with a competitive advantage because network‑dense facilities offering high levels of connectivity 
+
+ 
+  4
+
+ 
+typically take many years to establish. Many providers in our data center facilities can leverage our sites as revenue opportunities by offering their services directly to other customers within our data centers, while enterprises can reduce their total cost of operations by directly connecting to service providers in the same data center in a cost effective manner.
+ Scalable. Across 20 operating data centers in eight key North American markets, we lease space to enterprises, cloud and IT service providers, and network and mobility providers. We believe our ability to be both flexible and scalable is a key differentiator. We offer many space, power, and interconnection options that allow customers to select products and services that meet their needs. We believe we have a compelling combination of presence in most of the top data center markets in the U.S. with the ability to meet customers’ growing capacity requirements within those markets.
+ At December 31, 2016, our data center facilities have approximately 281,000 NRSF of unoccupied space. We have the ability to increase our occupied data center square footage by approximately 1,275,000 NRSF, or 66%, through leasing our unoccupied space and the development of 27,000 NRSF space under construction as of December 31, 2016, and approximately 967,000 NRSF at multiple facilities that are available for future development based on market supply and demand.
+ Best‑in‑Class Customer Experience. We believe our 422 professionals deliver best‑in‑class service by placing customer needs first in supporting the planning, implementation and operating requirements of customers. We provide dedicated implementation resources to ensure a seamless onboarding process for customers. Our leasing and sales professionals can develop complex data center solutions for the most demanding customer requirements and our experienced and committed operations and facilities personnel are available for extensive management support.
+ Facilities in Key Markets. Our portfolio is concentrated in some of the largest and most important U.S. metropolitan markets and we expect to continue benefitting from this concentration as customers seek new, high‑quality data center space and interconnections within our markets, which are many of the key North American network, financial, cloud and commercial hubs. Our data centers are located in the Northern Virginia (including Washington D.C.), New York and San Francisco Bay areas, Chicago, Los Angeles, Boston, Miami and Denver. Many of our facilities are also situated in close proximity to a concentration of key businesses and corporations, driving demand for our data center space and interconnection services.
+ Diversified Customer Base. We have a diverse, global customer base, which we believe is a reflection of our strong reputation and proven track record, as well as our customers’ trust in our ability to house their mission‑critical applications and vital communications technology. Our diverse customer base spans many industries across eight key North America markets. In addition to geographic markets, we group our customers into the following industry verticals:
+
+· | Enterprises: digital content and multimedia, systems integrators and managed services providers (“SI & MSP”), financial, healthcare, education, government, manufacturing and professional services
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Cloud and IT Service Providers
+--+-------------------------------
+
+
+· | Networks and Mobility: domestic and international telecommunications carriers, ISPs and CDNs (Content Delivery Networks)
+--+-------------------------------------------------------------------------------------------------------------------------
+
+  Business and Growth Strategies
+ Our business objective is to continue growing our position as a provider of strategically located data center space in North America. Key components of our strategy include the following:
+ Increase Cash Flow of In‑Place Data Center Space. We actively manage and lease our properties to increase cash flow by:
+
+· | Leasing Available Space. We have the ability to increase both our revenue and our revenue per square foot by leasing additional space, power and interconnection services to new and existing data center customers. As of December 31, 2016, substantially all of our data center facilities had space and power available to offer our customers the ability to increase their square footage under lease as well as the amount of power 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+  5
+
+ 
+
+they use per square foot. Our existing data center facilities have approximately 281,000 NRSF, or 12.6% of space currently unoccupied. We believe this space, together with available power, enables us to generate incremental revenue within our existing data center footprint.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Increasing Interconnection in our Facilities. As more customers locate in our data center facilities, it benefits their business partners and customers to colocate with CoreSite in order to gain the full economic and performance benefits of our interconnection services. We believe this ecosystem of customers continues to drive new and existing customer growth, and in turn, increases the volume of interconnection services and the amount of value‑add power services such as breakered AC and DC primary and redundant power. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Capitalize on Embedded Expansion Opportunities. We plan to grow by developing new secure, reliable and high‑performance data center space. Our development opportunities include leveraging existing in‑place infrastructure and entitlements in currently operating properties or campuses. In many cases, we are able to strategically deploy capital by developing space in incremental phases to meet customer demand. Including the space currently under construction at December 31, 2016, vacant space and land targeted for future development, we own land and buildings sufficient to develop approximately 994,000 NRSF of data center space.
+ The following table summarizes the NRSF under construction and NRSF held for development throughout our portfolio, each as of December 31, 2016:
+
+ | Development Opportunities (in NRSF)
+ | Under | Held for | 
+Facilities | Construction(1) | Development(2) | Total 
+One Wilshire campus | | | 
+LA1 | — | 10,352 | 10,352 
+LA2 | 4,726 | 122,476 | 127,202
+Los Angeles Total | 4,726 | 132,828 | 137,554
+Northern Virginia | | | 
+Reston Campus Expansion(3) | — | 611,072 | 611,072
+Boston | | | 
+BO1 | 13,735 | 59,884 | 73,619 
+New York | | | 
+NY2 | — | 134,508 | 134,508
+Miami | | | 
+MI1 | — | 13,154 | 13,154 
+Denver | | | 
+DE1 | 8,276 | 15,630 | 23,906 
+Total Facilities(4) | 26,737 | 967,076 | 993,813
+
+
+(1) | Represents NRSF for which substantial construction activities are ongoing to prepare the property for its intended use following development. The NRSF reflects management’s estimate of engineering drawings and required support space and is subject to change based on final demising of space.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Represents estimated incremental data center capacity currently vacant in existing facilities in our portfolio that requires significant capital investment in order to develop into data center facilities.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | During the fourth quarter of 2016, we acquired a 21.75-acre light-industrial / flex office park consisting of four operating buildings (the “Reston Campus Expansion”). Based upon our expectations regarding entitlements for the campus, we may build approximately 611,000 NRSF of incremental data center capacity across multiple phases. Currently, 178,712 NRSF and 48,928 NRSF is operating office and light-industrial space and powered shell data center space, respectively. We plan to begin construction of the first phase of the Reston Campus Expansion in the first quarter of 2017.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | In addition to our development opportunities disclosed within this table, we have entitled and unentitled land adjacent to our NY2 and LA2 facilities, in the form of existing parking lots. By utilizing existing parking lots, we
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+  6
+
+ 
+
+believe that we could develop 100,000 NRSF and 200,000 NRSF buildings at NY2 and LA2, respectively, upon receipt of necessary entitlements.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+  Selectively Pursue Acquisition and Development Opportunities in New and Existing Markets. We evaluate opportunities to acquire or develop data center space with abundant power and/or dense points of interconnection in key markets that will expand our customer base and broaden our geographic footprint. Such acquisitions may entail subsequent development, which requires significant capital expenditures. We also intend to continue to implement the “hub‑and‑spoke strategy” that we have deployed in our four largest markets, namely Los Angeles, New York, the San Francisco Bay area and Northern Virginia. In these markets, we have extended our data center footprint by connecting our newer facilities, the spokes, to our established data centers, our hubs, which allows our customers leasing space at the spokes to leverage the significant interconnection capabilities of our hubs. In order to deploy our “hub‑and‑spoke strategy,” we typically rely on third‑party providers of network connectivity to establish highly reliable network connectivity within and between facilities.
+ Leverage Existing Customer Relationships and Reach New Customers. Our strong customer and industry relationships, combined with our national footprint and sales force, afford us insight into the size, timing and location of customers’ planned growth. We historically have been successful in leveraging this market visibility to expand our footprint and customer base in existing and new markets. We intend to continue to strengthen and expand our relationships with existing customers and to further grow and diversify our customer base by targeting growing customers and segments, such as domestic and international telecommunications carriers, content and media entertainment providers, cloud providers and other enterprise customers, including financial, health care, educational institutions and government agencies.
+
+
+ 
+  7
+
+ 
+
+ Our Portfolio
+ As of December 31, 2016, our property portfolio included 20 operating data center facilities, office and light‑industrial space and multiple development projects that collectively comprise over 3.5 million NRSF, of which over 2.2 million NRSF is existing data center space. The approximately 1.0 million NRSF of development projects includes space available for development and construction of new data center facilities. We expect that this development potential plus any incremental investment into existing or new markets will enable us to accommodate existing and future customer demand and position us to continue to increase our operating cash flows. The following table provides an overview of our property portfolio as of December 31, 2016:
+ | Data Center Operating NRSF (1) | | Development | | | 
+ | | | | Stabilized | | Pre-Stabilized (2) | | Total | | NRSF (3) | | Total NRSF | 
+ | Annualized | | | | Percent | | | | Percent | | | | Percent | | | | Total | 
+Market/Facilities | Rent ($000)(4) | | Total | | Occupied(5) | | Total | | Occupied(5) | | Total | | Occupied(5) | | Total | | Portfolio | 
+San Francisco Bay | | | | | | | | | | | | | | | | | | 
+SV1 | $ | 6,335 | | 85,932 | | 82.3 | % | — | | — | % | 85,932 | | 82.3 | % | — | | 85,932 
+SV2 | | 8,367 | | 76,676 | | 93.7 | | — | | — | | 76,676 | | 93.7 | | — | | 76,676 
+Santa Clara campus(6) | | 61,508 | | 538,615 | | 99.4 | | 76,885 | | 25.5 | | 615,500 | | 90.2 | | — | | 615,500 
+San Francisco Bay Total | | 76,210 | | 701,223 | | 96.7 | | 76,885 | | 25.5 | | 778,108 | | 89.6 | | — | | 778,108 
+Los Angeles | | | | | | | | | | | | | | | | | | 
+One Wilshire campus | | | | | | | | | | | | | | | | | | 
+LA1* | | 28,930 | | 139,053 | | 93.7 | | — | | — | | 139,053 | | 93.7 | | 10,352 | | 149,405 
+LA2 | | 30,910 | | 254,343 | | 92.0 | | 43,345 | | 24.3 | | 297,688 | | 82.1 | | 127,202 | | 424,890 
+Los Angeles Total | | 59,840 | | 393,396 | | 92.6 | | 43,345 | | 24.3 | | 436,741 | | 85.8 | | 137,554 | | 574,295 
+Northern Virginia | | | | | | | | | | | | | | | | | | 
+VA1 | | 26,779 | | 201,719 | | 94.0 | | — | | — | | 201,719 | | 94.0 | | — | | 201,719 
+VA2 | | 13,238 | | 115,336 | | 100.0 | | 73,111 | | 20.2 | | 188,447 | | 69.0 | | — | | 188,447 
+DC1* | | 3,306 | | 22,137 | | 86.4 | | — | | — | | 22,137 | | 86.4 | | — | | 22,137 
+Reston Campus Expansion(7) | | 1,125 | | 48,928 | | 100.0 | | — | | — | | 48,928 | | 100.0 | | 611,072 | | 660,000 
+Northern Virginia Total | | 44,448 | | 388,120 | | 96.1 | | 73,111 | | 20.2 | | 461,231 | | 84.1 | | 611,072 | | 1,072,303
+Chicago | | | | | | | | | | | | | | | | | | 
+CH1 | | 18,403 | | 178,407 | | 93.8 | | — | | — | | 178,407 | | 93.8 | | — | | 178,407 
+Boston | | | | | | | | | | | | | | | | | | 
+BO1 | | 17,209 | | 166,026 | | 98.7 | | 14,031 | | 56.1 | | 180,057 | | 95.3 | | 73,619 | | 253,676 
+New York | | | | | | | | | | | | | | | | | | 
+NY1* | | 4,999 | | 48,404 | | 71.8 | | — | | — | | 48,404 | | 71.8 | | — | | 48,404 
+NY2 | | 9,901 | | 68,822 | | 95.5 | | 32,920 | | 46.5 | | 101,742 | | 79.7 | | 134,508 | | 236,250 
+New York Total | | 14,900 | | 117,226 | | 85.7 | | 32,920 | | 46.5 | | 150,146 | | 77.1 | | 134,508 | | 284,654 
+Miami | | | | | | | | | | | | | | | | | | 
+MI1 | | 1,357 | | 30,176 | | 61.0 | | — | | — | | 30,176 | | 61.0 | | 13,154 | | 43,330 
+Denver | | | | | | | | | | | | | | | | | | 
+DE1* | | 1,418 | | 5,878 | | 100.0 | | — | | — | | 5,878 | | 100.0 | | 23,906 | | 29,784 
+DE2* | | 442 | | 5,140 | | 99.3 | | — | | — | | 5,140 | | 99.3 | | — | | 5,140 
+Denver Total | | 1,860 | | 11,018 | | 99.7 | | — | | — | | 11,018 | | 99.7 | | 23,906 | | 34,924 
+Total Data Center Facilities | $ | 234,227 | | 1,985,592 | | 94.5 | % | 240,292 | | 28.3 | % | 2,225,884 | | 87.4 | % | 993,813 | | 3,219,697
+Office and Light-Industrial(8) | | 7,748 | | 354,721 | | 76.2 | | — | | — | | 354,721 | | 76.2 | | — | | 354,721 
+Reston Office and Light-Industrial(7) | | 2,865 | | 178,712 | | 100.0 | | — | | — | | 178,712 | | 100.0 | | (178,712) | | — 
+Total Portfolio | $ | 244,840 | | 2,519,025 | | 92.3 | % | 240,292 | | 28.3 | % | 2,759,317 | | 86.7 | % | 815,101 | | 3,574,418
+
+
+ *Indicates properties in which we hold a leasehold interest.
+
+(1) | Represents NRSF at each operating facility that is currently occupied or readily available for lease as data center space and pre‑stabilized data center space. Both occupied and available data center NRSF includes a factor based on management’s estimate to account for a customer’s proportionate share of the required data center support space (such as the mechanical, telecommunications and utility rooms) and building common areas, which may be updated on a periodic basis to reflect the most current build‑out of our properties. Operating data center NRSF may require investment of Deferred Expansion Capital, see definition on page 11.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Pre‑stabilized NRSF represents projects or facilities that recently have been developed and are in the initial lease‑up phase. Pre‑stabilized projects or facilities become stabilized operating properties at the earlier of achievement of 85% occupancy or 24 months after development completion.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Represents incremental data center capacity currently vacant in existing facilities in our portfolio that requires significant capital investment in order to develop into data center facilities. Includes NRSF under construction for which substantial activities are ongoing to prepare the property for its intended use following development. The
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+  8
+
+ 
+
+NRSF reflects management’s estimate of engineering drawings and required support space and is subject to change based on final demising of space.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Represents the monthly contractual rent under existing commenced customer leases as of December 31, 2016, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes power revenue, interconnection revenue and operating expense reimbursement. On a gross basis, our total portfolio annualized rent was approximately $250.8 million as of December 31, 2016, which includes $6.0 million in operating expense reimbursements under modified gross and triple‑net leases. See footnote (6) below for more information regarding annualized rent for the Santa Clara campus.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Includes customer leases that have commenced and are occupied as of December 31, 2016. The percent occupied is determined based on leased square feet as a proportion of total operating NRSF as of December 31, 2016. The percent occupied for stabilized data center space would have been 95.0%, rather than 94.5%, if all leases signed in the current and prior periods had commenced. The percent occupied for our total portfolio, including stabilized data center space, pre‑stabilized space and office and light‑industrial space, would have been 87.6%, rather than 86.7%, if all leases signed in current and prior periods had commenced.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(6) | The annualized rent for the Santa Clara campus includes amounts associated with a restructured lease agreement involving a customer that has vacated its leased space and is paying discounted rent payments that may be applied to new lease arrangements elsewhere in our portfolio on a dollar‑for‑dollar basis until the original lease term expires. The $4.2 million payable pursuant to this agreement is scheduled to expire in the second quarter of 2017.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(7) | During the fourth quarter of 2016, we acquired a 21.75-acre light-industrial / flex office park consisting of four operating buildings (the “Reston Campus Expansion”). Based upon our expectations regarding entitlements for the Reston Campus Expansion, we may build approximately 611,000 NRSF of incremental data center capacity across multiple phases. Currently, 178,712 NRSF and 48,928 NRSF is operating office and light-industrial space and powered shell data center space, respectively. We plan to begin construction of the first phase of the Reston Campus Expansion in the first quarter of 2017, subject to obtaining the necessary permits and approvals. In the second quarter of 2017, a customer is scheduled to vacate its 28,337 NRSF office lease, which will result in a decrease of $0.8 million to annualized rent. This office space will not be re-leased based on our development plans.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(8) | Represents space that is currently occupied or readily available for lease as space other than data center space, which typically is offered for office or light‑industrial uses.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+  9
+
+ 
+
+ “Same‑Store” statistics are based on space within each data center facility that was leased or available to be leased as of December 31, 2014, excluding space for which development was completed and became available to be leased after December 31, 2014. We track Same‑Store space leased or available to be leased at the computer room level within each data center facility. The following table shows the December 31, 2016, Same‑Store operating statistics. For comparison purposes, the operating activity totals as of December 31, 2015, and 2014, for this space are provided at the bottom of this table.
+
+ | Same-Store Property Portfolio (in NRSF) | 
+ | | | | Data Center | | Office and Light-Industrial | | Total | 
+ | Annualized | | | | Percent | | | | Percent | | | | Percent | 
+Market/Facilities | Rent ($000)(1) | | Total | | Occupied(2) | | Total | | Occupied(2) | | Total | | Occupied(2) | 
+San Francisco Bay | | | | | | | | | | | | | | | 
+SV1 | $ | 11,994 | | 85,932 | | 82.3 | % | 234,238 | | 78.5 | % | 320,170 | | 79.5 | %
+SV2 | | 8,367 | | 76,676 | | 93.7 | | — | | — | | 76,676 | | 93.7 | 
+Santa Clara campus(3) | | 33,971 | | 252,009 | | 98.7 | | 712 | | 84.3 | | 252,721 | | 98.6 | 
+San Francisco Bay Total | | 54,332 | | 414,617 | | 94.4 | | 234,950 | | 78.5 | | 649,567 | | 88.6 | 
+Los Angeles | | | | | | | | | | | | | | | 
+One Wilshire campus | | | | | | | | | | | | | | | 
+LA1* | | 29,101 | | 139,053 | | 93.7 | | 4,373 | | 76.4 | | 143,426 | | 93.2 | 
+LA2 | | 26,486 | | 234,801 | | 91.7 | | 7,029 | | 84.3 | | 241,830 | | 91.4 | 
+Los Angeles Total | | 55,587 | | 373,854 | | 92.4 | | 11,402 | | 81.3 | | 385,256 | | 92.1 | 
+Northern Virginia | | | | | | | | | | | | | | | 
+VA1 | | 27,852 | | 201,719 | | 94.0 | | 61,050 | | 87.2 | | 262,769 | | 92.4 | 
+DC1* | | 3,306 | | 22,137 | | 86.4 | | — | | — | | 22,137 | | 86.4 | 
+Northern Virginia Total | | 31,158 | | 223,856 | | 93.3 | | 61,050 | | 87.2 | | 284,906 | | 92.0 | 
+Chicago | | | | | | | | | | | | | | | 
+CH1 | | 15,501 | | 166,776 | | 94.3 | | 4,946 | | 71.3 | | 171,722 | | 93.7 | 
+Boston | | | | | | | | | | | | | | | 
+BO1 | | 16,133 | | 166,026 | | 98.7 | | 19,495 | | 75.7 | | 185,521 | | 96.2 | 
+New York | | | | | | | | | | | | | | | 
+NY1* | | 5,013 | | 48,404 | | 71.8 | | 209 | | 100.0 | | 48,613 | | 72.0 | 
+NY2 | | 6,451 | | 52,692 | | 94.2 | | 20,735 | | 19.4 | | 73,427 | | 73.1 | 
+New York Total | | 11,464 | | 101,096 | | 83.5 | | 20,944 | | 20.2 | | 122,040 | | 72.6 | 
+Miami | | | | | | | | | | | | | | | 
+MI1 | | 1,380 | | 30,176 | | 61.0 | | 1,934 | | 37.3 | | 32,110 | | 59.6 | 
+Denver | | | | | | | | | | | | | | | 
+DE1* | | 1,169 | | 4,726 | | 100.0 | | — | | — | | 4,726 | | 100.0 | 
+DE2* | | 442 | | 5,140 | | 99.3 | | — | | — | | 5,140 | | 99.3 | 
+Denver Total | | 1,611 | | 9,866 | | 99.6 | | — | | — | | 9,866 | | 99.6 | 
+Total Facilities at December 31, 2016(4) | $ | 187,166 | | 1,486,267 | | 92.8 | % | 354,721 | | 76.2 | % | 1,840,988 | | 89.6 | %
+Total Facilities at December 31, 2015 | $ | 178,041 | | | | 89.9 | % | | | 71.9 | % | | | 86.5 | %
+Total Facilities at December 31, 2014 | $ | 156,646 | | | | 81.9 | % | | | 75.8 | % | | | 80.7 | %
+
+
+ *Indicates properties in which we hold a leasehold interest.
+
+(1) | Represents the monthly contractual rent under existing commenced customer leases as of each respective period, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes power revenue, interconnection revenue and operating expense reimbursement.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Includes customer leases that have commenced and are occupied as of each respective period. The percent occupied is determined based on leased square feet as a proportion of total operating NRSF.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | The annualized rent for the Santa Clara campus includes amounts associated with a restructured lease agreement involving a customer that has vacated its leased space and is paying discounted rent payments that may be applied to new lease arrangements elsewhere in our portfolio on a dollar‑for‑dollar basis until the original lease term expires. The $4.2 million payable pursuant to this agreement is scheduled to expire in the second quarter of 2017.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | The percent occupied for data center space, office and light‑industrial space, and total space would have been 93.4%, 76.8% and 90.2%, respectively, if all leases signed in the current and prior periods had commenced.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Same‑Store annualized rent increased to $187.2 million at December 31, 2016, compared to $178.0 million at December 31, 2015. The increase of $9.1 million in Same-Store annualized rent is due primarily to an increase of 38,612 occupied NRSF at our Los Angeles campus. 
+
+ 
+  10
+
+ 
+
+ Capital Expenditures
+ The following table sets forth information regarding capital expenditures during the year ended December 31, 2016 (in thousands):
+
+ | Year Ended | 
+ | December 31, 2016 | 
+Data center expansion | $ | 340,452
+Non-recurring investments | | 10,250 
+Tenant improvements | | 6,865 
+Recurring capital expenditures | | 6,081 
+Total capital expenditures | $ | 363,648
+
+      During the year ended December 31, 2016, we incurred approximately $363.6 million of capital expenditures, of which approximately $340.5 million related to data center expansion activities, including new data center construction, the development of capacity within existing data centers and other revenue generating investments. As we construct data center capacity, we work to optimize both the amount of the capital we deploy on power and cooling infrastructure and the timing of that capital deployment; as such, we generally construct our power and cooling infrastructure supporting our data center NRSF based on our estimate of customer utilization. This practice can result in our investment at a later time in Deferred Expansion Capital. We define Deferred Expansion Capital as our estimate of the incremental capital we may invest in the future to add power or cooling infrastructure to support existing or anticipated future customer utilization of NRSF within our operating data centers.
+ During the year ended December 31, 2016, we completed development of SV6, a 136,580 NRSF powered shell data center and SV7, a new 226,911 NRSF turn-key data center building, at our Santa Clara campus, as well as seven computer rooms within existing properties. We also acquired a 21.75 operating light-industrial / flex office park located in Reston, Virginia, we plan to build over 611,000 NRSF of incremental data center capacity across multiple phases, referred to as the Reston Campus Expansion. We plan to begin the first phase of the Reston Campus Expansion during the first quarter of 2017. The following table sets forth capital expenditures spent on data center NRSF placed into service or under construction during the year ended December 31, 2016:
+
+ | | | | NRSF | 
+ | Data Center | | Placed into | | Under | 
+Property | Expansion | | Service | | Construction | 
+BO1 | $ | 3,075 | | 14,031 | | 13,735
+DE1 | | 6,380 | | — | | 8,276 
+LA2 | | 12,321 | | 43,345 | | 4,726 
+SV6 | | 11,351 | | 136,580 | | — 
+SV7 | | 204,803 | | 226,911 | | — 
+VA2 | | 14,698 | | 96,274 | | — 
+Reston Expansion | | 66,089 | | — | | — 
+Other | | 21,735 | | — | | — 
+Total | $ | 340,452 | | 517,141 | | 26,737
+
+      During the year ended December 31, 2016, we incurred approximately $10.3 million in non‑recurring investments, of which $6.5 million is a result of internal IT software development and the remaining $3.8 million is a result of other non‑recurring investments, such as remodel or upgrade projects.
+ During the year ended December 31, 2016, we incurred approximately $6.9 million in tenant improvements, which relates to numerous small tenant improvement projects at various properties.
+ During the year ended December 31, 2016, we incurred approximately $6.1 million of recurring capital expenditures within our portfolio for required equipment upgrades that have a future economic benefit.
+
+ 
+  11
+
+ 
+
+ Customer Diversification
+ The following table sets forth information regarding the ten largest customers in our portfolio based on total portfolio annualized rent as of December 31, 2016:
+
+ | | | | | | | | | | | | | Weighted
+ | | | | | | | | | | | | | Average 
+ | | | | | | Percentage | | | | Percentage | | Remaining | 
+ | | | Number | Total | | of Total | | Annualized | | of Total | | Lease | 
+ | | | of | Occupied | | Operating | | Rent | | Annualized | | Term in | 
+ | CoreSite Vertical | Customer Industry | Locations | NRSF(1) | | NRSF(2) | | ($000)(3) | | Rent(4) | | Months(5) | 
+1 | Cloud | Public Cloud | 5 | 86,839 | | 3.1 | % | $ | 16,933 | | 6.9 | % | 111 
+2 | Cloud | Public Cloud | 10 | 286,240 | | 10.4 | | | 14,807 | | 6.0 | | 69 
+3 | Enterprise | Travel / Hospitality | 3 | 104,732 | | 3.8 | | | 10,439 | | 4.3 | | 30 
+4 | Cloud | Private Cloud | 2 | 95,225 | | 3.5 | | | 8,984 | | 3.7 | | 71 
+5 | Enterprise | SI & MSP | 3 | 63,859 | | 2.3 | | | 8,597 | | 3.5 | | 26 
+6 | Enterprise | SI & MSP | 3 | 16,480 | | 0.6 | | | 5,778 | | 2.4 | | 23 
+7 | Networks & Mobility | Global Carrier | 5 | 27,871 | | 1.0 | | | 4,849 | | 2.0 | | 28 
+8 | Enterprise | Government*(6) | 2 | 164,757 | | 6.0 | | | 4,743 | | 1.9 | | 61 
+9 | Enterprise | SI & MSP | 2 | 26,081 | | 0.9 | | | 4,726 | | 1.9 | | 6 
+10 | Cloud | Software as a Service | 1 | 31,283 | | 1.1 | | | 4,347 | | 1.8 | | 22 
+ | Total/Weighted Average | | 903,367 | 32.7 | % | $ | 84,203 | | 34.4 | % | 56 | 
+
+
+ *Denotes customer using space for general office purposes.
+
+(1) | Total occupied NRSF is determined based on contractually leased square feet for leases that have commenced on or before December 31, 2016. We calculate occupancy based on factors in addition to contractually leased square feet, including required data center support space (such as the mechanical, telecommunications and utility rooms) and building common areas.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Represents the customer’s total occupied square feet divided by the total operating NRSF in the portfolio as of December 31, 2016.
+----+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Represents the monthly contractual rent under existing commenced customer leases as of December 31, 2016, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes power revenue, interconnection revenue and operating expense reimbursement.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Represents the customer’s total annualized rent divided by the total annualized rent in the portfolio as of December 31, 2016.
+----+-------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Weighted average based on percentage of total annualized rent expiring calculated as of December 31, 2016.
+----+-----------------------------------------------------------------------------------------------------------
+
+
+(6) | In connection with the acquisition of our Reston Campus Expansion during the fourth quarter of 2016, we assumed a 28,337 NRSF office lease for this customer which is reflected in the totals above. This customer is scheduled to vacate the 28,337 NRSF office lease during the second quarter of 2017, which will not be re-leased given our current development plans.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Lease Expirations
+ The following summary table sets forth a schedule of the expirations for leases in place as of December 31, 2016, plus unoccupied space, for each of the five full calendar years beginning January 1, 2017, at the properties in our 
+
+ 
+  12
+
+ 
+portfolio (excluding space held for development or under construction). The information set forth in the table assumes that customers exercise no renewal options or early termination rights.
+
+ | | Total | | | | | | | | | | | | Annualized
+ | Number | Operating | Percentage | | | | | Percentage | | Annualized | | Annualized | | Rent Per 
+ | of | NRSF of | of Total | | Annualized | | of Total | | Rent Per | | Rent at | | Leased | 
+ | Leases | Expiring | Operating | | Rent | | Annualized | | Leased | | Expiration | | NRSF at | 
+Year of Lease Expiration | Expiring(1) | Leases | NRSF | | ($000)(2) | | Rent | | NRSF(3) | | ($000)(4) | | Expiration(5) | 
+Unoccupied data center | — | 281,392 | 10.2 | % | $ | — | | — | % | $ | — | | $ | — | $ | — 
+Unoccupied office and light-industrial | — | 84,541 | 3.1 | | | — | | — | | | — | | | — | | — 
+2017 | 1,020 | 460,730 | 16.6 | | | 73,544 | | 30.1 | | | 151 | | | 74,077 | | 152
+2018 | 547 | 357,726 | 12.9 | | | 53,399 | | 21.8 | | | 149 | | | 55,875 | | 156
+2019 | 294 | 341,204 | 12.4 | | | 35,581 | | 14.5 | | | 104 | | | 40,327 | | 118
+2020 | 45 | 150,730 | 5.5 | | | 13,767 | | 5.6 | | | 91 | | | 16,856 | | 112
+2021 | 57 | 88,191 | 3.2 | | | 9,267 | | 3.8 | | | 105 | | | 14,553 | | 165
+2022-Thereafter | 34 | 545,911 | 19.8 | | | 48,668 | | 19.9 | | | 89 | | | 61,732 | | 113
+Office and light-industrial (6) | 114 | 448,892 | 16.3 | | | 10,613 | | 4.3 | | | 24 | | | 11,337 | | 25 
+Portfolio Total / Weighted Average | 2,111 | 2,759,317 | 100.0 | % | $ | 244,839 | | 100.0 | % | $ | 101 | | $ | 274,757 | $ | 113
+
+
+(1) | Includes leases that upon expiration will automatically renew, primarily on a year‑to‑year basis. Number of leases represents each agreement with a customer; a lease agreement could include multiple spaces and a customer could have multiple leases.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Represents the monthly contractual rent under existing commenced customer leases as of December 31, 2016, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes power revenue, interconnection revenue and operating expense reimbursements.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | The annualized rent per leased NRSF and per leased NRSF at expiration does not include annualized rent of $4.2 million associated with a restructured lease agreement involving a customer at the Santa Clara campus that has vacated its leased space and is paying discounted rent payments that may be applied to new lease arrangements elsewhere in our portfolio on a dollar‑for‑dollar basis until the original lease term expires in the second quarter of 2017.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Represents the final monthly contractual rent under existing customer leases as of December 31, 2016, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes operating expense reimbursement, power revenue and interconnection revenue. Leases expiring during 2017 include annualized rent of $6.2 million associated with lease terms currently on a month-to-month basis.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Annualized rent at expiration as defined above, divided by the square footage of leases expiring in the given year. This metric reflects the rent growth inherent in the existing base of lease agreements.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(6) | The occupied office and light-industrial leases, 56,669 NRSF, 46,943 NRSF, 43,630 NRSF, 18,553 NRSF, 26,655 NRSF and 256,442 NRSF are scheduled to expire in 2017, 2018, 2019, 2020, 2021 and 2022 and thereafter, respectively, which accounts for (in thousands) $1,580, $980, $1,001, $431, $916 and $5,705 of annualized rent scheduled to expire during each respective period.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+  13
+
+ 
+
+ Lease Distribution
+ The following table sets forth information relating to the distribution of leases in the properties in our portfolio, based on NRSF (excluding space held for development or under construction) under lease as of December 31, 2016:
+ | | | | Total | Percentage | | | | Percentage | 
+ | Number | Percentage | | Operating | of Total | | Annualized | | of Total | 
+ | of | of All | | NRSF of | Operating | | Rent | | Annualized | 
+NRSF Under Lease(1) | Leases(2) | Leases | | Leases | NRSF | | ($000)(3) | | Rent | 
+Unoccupied data center | — | — | % | 281,392 | 10.2 | % | $ | — | | — | %
+Unoccupied office and light-industrial | — | — | | 84,541 | 3.1 | | | — | | — | 
+Data center NRSF: | | | | | | | | | | | 
+5,000 or less | 1,919 | 90.9 | | 683,147 | 24.8 | | | 111,536 | | 45.6 | 
+5,001 - 10,000 | 35 | 1.7 | | 227,022 | 8.2 | | | 31,190 | | 12.7 | 
+10,001 - 25,000 | 20 | 0.9 | | 319,495 | 11.6 | | | 39,405 | | 16.1 | 
+Greater than 25,000 | 5 | 0.2 | | 231,639 | 8.4 | | | 31,457 | | 12.8 | 
+Powered shell and other(4) | 18 | 0.9 | | 483,189 | 17.5 | | | 20,638 | | 8.4 | 
+Office and light-industrial | 114 | 5.4 | | 448,892 | 16.2 | | | 10,613 | | 4.4 | 
+Portfolio Total | 2,111 | 100.0 | % | 2,759,317 | 100.0 | % | $ | 244,839 | | 100.0 | %
+
+
+(1) | Represents all leases in our portfolio, including data center and office and light‑industrial leases.
+----+------------------------------------------------------------------------------------------------------
+
+
+(2) | Number of leases represents each agreement with a customer; a lease agreement could include multiple spaces and a customer could have multiple leases.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Represents the monthly contractual rent under existing commenced customer leases as of December 31, 2016, multiplied by 12. This amount reflects total annualized base rent before any one‑time or non‑recurring rent abatements and excludes power revenue, interconnection revenue and operating expense reimbursement.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | The annualized rent for powered shell and other includes $4.2 million associated with a restructured lease agreement involving a customer at the Santa Clara campus that has vacated its leased space and is paying discounted rent payments that may be applied to new lease arrangements elsewhere in our portfolio on a dollar‑for‑dollar basis until the original term expires in the second quarter of 2017.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Competition
+ We compete with numerous developers, owners and operators of technology‑related real estate and data centers, many of which own properties similar to ours in the same markets in which our properties are located, including AT&T Inc., CenturyLink Inc., Savvis, Inc., a CenturyLink company, CyrusOne, Inc., Digital Realty Trust, Inc., DuPont Fabros Technology, Inc., Equinix, Inc., Internap Network Services Corporation, Quality Technology Services, RagingWire Data Centers, a NTT Communications company, SABEY Corporation, Verizon / Terremark Worldwide, Inc., Shaw Communications Inc. / ViaWest, Inc., and Zayo Inc. Certain of our above competitors have entered into purchase and sale agreements which are expected to close in 2017. In addition, we may face competition from new entrants into the data center market. Some of our competitors and potential competitors may have significant advantages over us, including greater name recognition, longer operating histories, pre‑existing relationships with current or potential customers, significantly greater financial, marketing and other resources, ownership of more data centers more broadly distributed geographically, access to less expensive power, and more robust interconnected hubs in certain geographic markets, all of which could allow them to respond more quickly to new or changing opportunities. If our competitors offer space, power and/or interconnection services at rates below current market rates, or below the rates we currently charge our customers, we may lose potential customers and we may be pressured to reduce our rental rates below those we currently charge in order to retain customers when our customers’ leases expire.
+ As a developer of data center space and provider of interconnection services, we also compete for the services of key third‑party providers of services, including engineers and contractors with expertise in the development of data centers. The competition for the services of specialized contractors and other third‑party providers required for the development of data centers is intense, increasing the cost of engaging such providers and the risk of delays in completing our development projects.
+
+ 
+  14
+
+ 
+
+ In addition, we face competition from real estate developers in our sector and in other industries for the acquisition of additional properties suitable for the development of data centers. Such competition may reduce the number of properties available for acquisition or development, increase the price of these properties and reduce the demand for data center space in the markets we seek to serve.
+ Regulation
+ General
+ Data centers in our markets are subject to various laws, ordinances and regulations, including regulations relating to common areas. We believe that each of our properties has the necessary permits and approvals to operate our business. Americans with Disabilities Act
+ Our properties must comply with Title III of the American with Disabilities Act, or the ADA, to the extent that such properties are places of “public accommodation” or “commercial facilities” as defined by the ADA. The ADA requires properties that are places of “public accommodation” to, among other things, remove existing barriers to access by persons with disabilities where such removal is readily achievable. The ADA also requires places of “public accommodation” as well as “commercial facilities” undergoing new construction or alterations to conform to the ADA Accessibility Guidelines, which provide design standards that permit accessibility by individuals with disabilities. Further, if entities on our properties offer certain examinations or courses (i.e., those related to applications, licensing, certification, or credentialing for secondary or postsecondary education, professional, or trade purposes), they must be offered in an accessible place and manner or with alternative accessible arrangements. We believe that our properties are in substantial compliance with the ADA and that we will not be required to make substantial capital expenditures to those properties to address the requirements of the ADA. However, noncompliance with the ADA could result in imposition of monetary damages and civil penalties in lawsuits brought by the Attorney General or an award of attorneys’ fees to private litigants. The obligation to make readily achievable accommodations as required by the ADA is an ongoing one, and we will continue to assess our properties and make alterations as appropriate. Environmental Matters
+ Under various federal, state and local laws and regulations relating to the protection of the environment, a current or previous owner or operator of real estate may be liable for contamination resulting from the presence or discharge of hazardous or toxic substances at that property, and may be required to investigate and clean up such contamination at that property or emanating from that property. Such laws and regulations often impose liability without regard to whether the owner or operator knew of, or was responsible for, the presence of the contaminants, and a party may be liable for all of the cleanup costs, even when more than one person was responsible for the contamination. Previous owners used some of our properties for industrial and retail purposes, so those properties may contain some level of environmental contamination. The presence of contamination or the failure to remediate contamination at our properties may expose us to third‑party liability or materially adversely affect our ability to sell, lease or develop the real estate or to borrow using the real estate as collateral. In addition, we could incur costs to comply with such laws and regulations, the violation of which could lead to substantial fines and penalties.
+ Environmental laws and regulations also require that asbestos‑containing building materials be properly managed and maintained and may impose fines and penalties on building owners or operators for failure to comply with these requirements. Further, third parties could potentially seek recovery from owners or operators for personal injury associated with exposure to asbestos‑containing building materials.
+ In addition, certain of our customers, particularly those that lease light‑industrial space from us, routinely handle hazardous substances and wastes as part of their operations at our properties. Environmental laws and regulations subject our customers, and potentially us, to liability resulting from these activities or from previous industrial or other uses of those properties. Environmental liabilities could also affect a customer’s ability to make rental payments to us. We require our customers to comply with these environmental laws and regulations and to indemnify us for any related liabilities.
+
+ 
+  15
+
+ 
+
+ Independent environmental consultants have conducted Phase I or similar environmental site assessments on all owned properties in our portfolio. Each of the site assessments has been either completed or updated since 2005. Site assessments are intended to collect and evaluate information regarding the environmental condition of the surveyed property and surrounding properties. These assessments do not generally include soil sampling, subsurface investigations or asbestos sampling. Although prior commercial or industrial operations at some of our properties may have released hazardous materials and some of our properties contain or may contain asbestos‑containing building materials, none of the recent site assessments revealed any past or present environmental liability that we believe would have a material adverse effect on our business, assets or results of operations. However, the assessments may have failed to reveal all environmental conditions, liabilities or compliance concerns. Material environmental conditions, liabilities or compliance concerns may have arisen after the reviews were completed or may arise in the future; and future laws, ordinances or regulations may impose material additional environmental liability. See “Risk Factors—Risks Related to Our Business and Operations—Environmental problems are possible and can be costly.”
+ Insurance
+ We carry comprehensive liability, fire, extended coverage, earthquake, business interruption, rental loss, and umbrella liability insurance covering all of the properties in our portfolio augmented by excess liability coverage in an amount that we believe to be appropriate. We select policy specifications and insured limits which we believe to be appropriate given the relative risk of loss, the cost of the coverage and industry practice and, in the opinion of our management, the properties in our portfolio are currently adequately insured. We do not carry insurance for generally uninsured losses such as loss from riots, war or acts of God. In addition, we carry earthquake insurance on our properties in an amount and with deductibles which we believe are commercially reasonable. Certain of the properties in our portfolio are located in areas believed to be seismically active. Potential losses to our properties may not be covered by insurance or may exceed our policy coverage limits. See “Risk Factors—Risks Related to Our Business and Operations—Potential losses to our properties may not be covered by insurance or may exceed our policy coverage limits” in Item 1A. of this Annual Report. Employees
+ As of December 31, 2016, we had 422 full‑time and part‑time employees, of which 218 employees are salaried with the remainder paid on an hourly basis. None of our employees is a member of a labor union and we believe that our relations with employees are good. Offices
+ Our corporate offices are located at 1001 17th Street, Suite 500, Denver, CO 80202.
+ How to Obtain Our SEC Filings
+ All reports we file with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov. In addition, the public may read and copy materials we file with the SEC at the SEC’s public reference room located at 100 F Street, N.E., Washington, D.C. 20549. We also provide copies of our Forms 8‑K, 10‑K, 10‑Q, Proxy Statement, Annual Report and amendments to those documents at no charge to investors upon request and make electronic copies of such reports available through our website at www.coresite.com as soon as reasonably practicable after filing such material with the SEC. The information found on, or otherwise accessible through, our website is not incorporated by reference into, nor does it form a part of, this Annual Report on Form 10‑K, or any other document that we file with the SEC. Financial Information
+ We manage our business as one reportable segment consisting of investments in data centers located in the United States. For required financial information related to our operations and assets, please refer to our consolidated financial statements, including the notes thereto, included in Item 8. “Financial Statements and Supplementary Data” in this Annual Report.
+
+
+ 
+  16
+
+ 
+

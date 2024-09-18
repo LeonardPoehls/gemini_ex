@@ -1,0 +1,364 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+OVERVIEW
+ 
+QAD is a leader in cloud-based enterprise software solutions for global manufacturing companies across the automotive, life sciences, consumer products, food and beverage, high technology and industrial products industries. We offer full-featured, secure and flexible enterprise and supply chain solutions built for global manufacturing companies which can be delivered in the cloud, on premise or via a blended combination of cloud and on premise, where certain sites are on premise and others are in the cloud. Our mission is to provide best-in-class software that enables our customers to operate as an effective enterprise where their business processes are running at peak efficiency and are perfectly aligned to their strategic goals. Our solutions, called QAD Enterprise Applications, enable measurement and control of key business processes and support operational requirements, including financials, manufacturing, demand and supply chain planning, customer management, business intelligence and business process management. 
+ 
+Over 2,000 manufacturing companies have deployed QAD solutions to run their businesses across approximately 4,000 sites globally. Today, our solutions are used by over 300,000 active users, of which our cloud and subscription users have grown to 22,000 from 15,000 in the prior year. We were founded in 1979 and our principal executive offices are located in Santa Barbara, California. Our principal website address is www.qad.com. Our office address is 100 Innovation Place, Santa Barbara, CA 93108. We employ more than 1,700 employees throughout our direct operations in 23 countries across the North America, Europe, Middle East and Africa (“EMEA”), Asia Pacific and Latin America regions.
+ 
+OUR TARGET VERTICAL MARKETS
+ 
+We focus our efforts on delivering mission-critical software solutions to enterprise customers in six core vertical markets within global manufacturing – automotive, life sciences, consumer products, food and beverage, high technology and industrial products. Within these vertical markets we focus on 24 segments where our customers can receive the greatest benefit from our solutions. For each segment we offer solutions designed to overcome the business challenges within that segment, based on our in-depth knowledge of the segment and best practices.
+ 
+Automotive: QAD focuses on the automotive tier supplier segment of companies who must meet critical industry standards such as the Materials Management Operations Guideline/Logistics Evaluation (MMOG/LE) and IATF 16949:2016 (previously ISO/TS 16949). QAD’s automotive-specific processes and built-in industry best practices help automotive tier suppliers reduce costs, mitigate supply chain risk and improve supply chain planning and visibility. Our customer base includes companies serving the global automotive marketplace, especially the tier-1 suppliers in the supply chains of worldwide automotive original equipment manufacturers. We deliver unique capabilities to support the collaboration requirements of the automotive tier suppliers, including the strict quality requirements of Advanced Product Quality Process (“APQP”) and Production Part Approval Process (“PPAP”). Many of our customers use QAD Cloud EDI because it provides a scalable solution which standardizes Electronic Data Interchange (“EDI”) across their global enterprise. QAD Supplier Portal, which allows for electronic communication with other suppliers, is another product commonly used by our automotive customers. QAD also helps customers manage supply chain risk in accordance with MMOG/LE and the emerging requirements of IATF 16949:2016. QAD solutions are in use at many of the market-leading automotive parts companies throughout the world that manufacture a broad range of components used in interiors, electrical components, safety systems, bodies and drivetrains.
+ 
+ 
+4
+
+
+
+Life Sciences: Life sciences manufacturers are dedicated to innovation, product quality and patient safety; however, the regulatory environment, cost pressures and supply chain complexities are challenges. Emerging markets, quality initiatives, and mergers and acquisitions activity also add to the complexity of life sciences manufacturing and distribution. QAD focuses on the following five segments in the life sciences industry: contract manufacturing and packaging; surgical medical devices; orthopedic medical devices; diagnostic medical devices; and pharmaceutical/biotechnology companies. QAD solutions help global life sciences companies manufacture products in accordance with current Good Manufacturing Practices (“cGMP”) and other standards required by regulators around the world. In addition to cGMP, QAD solutions support many business and regulatory processes specific to the life sciences industry, such as automated quality management, supply chain planning and serialization in support of requirements for Unique Device Identification and the Drug Quality and Security Act. Our customers’ products include such items as defibrillators, ventricular assist systems, artificial joints, prescription medications, surgical instruments and packaging for the life sciences industry. QAD’s enterprise applications for life sciences provides our customers with a qualified IT infrastructure as a key building block to help them ensure that they have a solid foundation upon which to base their software validation requirements.
+ 
+Consumer Products: It is vital for consumer products manufacturers to stay ahead of constant changes as product development and replenishment life-cycles can shrink; supply chains may feel the impact of buying pattern shifts; and manufacturers can face tightening margins. In order to gain share and increase profit, consumer products companies must anticipate and meet customer demand while managing their margins and complying with ever-evolving safety and environmental regulations. QAD focuses on the following four segments in the consumer products industry: household and personal packaged products; consumer electronics; assembled and discrete products; and jewelry. The manufacturing process for those items varies and depends on the nature of the item; however, the fulfillment and distribution requirements have significant commonality. Major retailers manage agile supply chains and are typically very demanding of their suppliers, as they strive to service growing demand from consumers for speed of delivery and variety of products. QAD solutions address the complex replenishment requirements of companies supplying the retail supply chain, including promotional pricing, demand planning, quality compliance and product configuration. 
+ 
+Food and Beverage: Food and beverage manufacturing is complex with constant adjustments to product, packaging and pricing, and a lack of uniformity in the supply chain, which challenges food and beverage manufacturers to excel at inventory and supply chain management. At the same time, they must comply with evolving safety and environmental regulations. QAD focuses on the following five segments in the food and beverage industry: shelf stable bottling, canning and packaging; distilleries, wineries and brewing; frozen foods; creameries and fresh foods; and candy and confections. Our solutions support regulatory and quality initiatives, such as the U.S. Food Safety Modernization Act and hazard analysis and critical control point analysis, which address the management of biological, chemical and physical hazards. Our solutions support the product cycle of the food and beverage industry from raw material production, procurement and handling to manufacturing, distribution and consumption of the finished product. QAD’s software is standards-focused to help companies ensure food safety and meet the regulatory requirements in the global markets where our customers operate. QAD provides solutions for food and beverage companies that manufacture a broad range of products and manage many of the world’s well-known brands. 
+ 
+High Technology: The success of manufacturers in the high tech industry relies on innovation and the ability to manage change. There is constant pressure on margins, fluidity to global supply chains, challenges with cross border shipments, strains on material availability and imperatives around controlling cost. All of these challenges need to be met while complying with standards and industry regulations. QAD solutions are used by many high-technology companies that manufacture a diverse range of products. QAD focuses on the following three segments in the high technology industry: standalone devices and test equipment; batteries, power supplies and lighting; and cable, wiring and connectors. High-tech companies often face the challenges of very complex product structures with a need for traceability of parts and processes throughout their entire supply chain, as well as tight control of engineering changes. Many high-tech companies providing complex systems also face the challenge of managing installation and support of equipment after sale, in addition to managing field engineering resources. A high-tech manufacturer can use QAD’s solutions to configure product based on customers’ input; manufacture and assemble product according to a customized specification; and schedule, install and support equipment throughout its lifecycle.
+ 
+ 
+5
+
+
+
+Industrial Products: Today’s global customers are demanding more configure-to-order, make-to-order, and assemble-to-order products. The modern, agile industrial manufacturer must be responsive and able to deliver with the highest quality and timeliness. Our customers manufacture products as diverse as machine tools; specialist ceramic materials used in aerospace and defense; and equipment used in the oil and gas industries. Fluctuating demand leads to significant challenges in managing the internal supply chain, coordinating the extended vendor ecosystem, controlling costs, ensuring quality, tracking production, and optimizing inventory levels. Companies in this broad vertical market have requirements to maintain many manufacturing methodologies, often within the same enterprise. QAD focuses on the following six segments in the industrial products industry: flexible packaging; engineered materials; contract manufacturing; standalone equipment; remanufacturing; and roll stock and wire cable. Our solutions support multiple manufacturing methodologies in parallel, including lean manufacturing. The need for traceability of materials from source through to the finished product is often important to our customers, and QAD’s capabilities in traceability and serialization support this feature. QAD’s solutions are also used to support our customers’ environmental compliance needs.
+ 
+Our focus on these six vertical markets gives us a competitive advantage by providing a solution developed specifically for our target customers, without the complexity and distraction of functionality they don’t want and don’t need. While some enterprise applications vendors provide broader solutions built for many industries, our narrow vertical focus allows our customers to implement with fewer configurations and customizations than our competitors require, which we believe typically results in less complex, and therefore lower cost and faster implementations. We leverage our vertical market expertise in research and development to meet specific industry needs: in sales, to understand our customer’s unique requirements; in presales, to demonstrate how these requirements are handled in the software; and in services, to apply best practices in optimization of business processes and implementation of the software. Our options to sell our product in the cloud or as on-premise licenses enable customers operating in multiple countries to choose a deployment option that best meets their unique needs.
+ 
+QAD SOLUTIONS
+ 
+QAD products and services support the business processes of global manufacturing companies in our target industries. We continually monitor emerging business requirements and practices as well as regulatory changes and incorporate them into our product and solutions strategies. Our development focus emphasizes user experience. We strive to deliver solutions that offer comprehensive capabilities while being easy to learn and use. Our goal is to make all capabilities that a particular user needs available with only a few clicks, giving our end users significant gains in efficiency as well as making the user experience more enjoyable.
+ 
+Our Channel Islands program to develop a new user experience with enhanced usability for QAD Enterprise Applications is a new user interface (“UI”) written in HTML5 and accessible to the user with any standard browser. The new UI provides seamless access across desktops and mobile devices and has the ability to co-exist with our existing .NET UI. As part of the initiative to update the user experience, we restructured the underlying architecture of our solutions so the business logic and the user interface are separate layers. All business logic is now addressable through standard, documented application program interfaces (“APIs”), which provide the ability to integrate with third-party applications or to easily change the UI. 
+ 
+One important advantage of the Channel Islands program has been a focus on modularity, providing the ability to upgrade the solution by suite, rather than upgrading the entire solution at one time. This makes upgrades smaller, faster and easier; helping customers stay on the most current version of our software which reduces the gap between their business needs and what our enterprise applications provide. The modularity allows us to improve the efficiency of our cloud operations using a simplified upgrade process. The Channel Islands program also supports the Internet of Things (“IoT”) where machines communicate with machines. An example of the power of the IoT is when our customers’ manufacturing equipment automatically updates our solution when products are completed, increasing accuracy and efficiency for the customer.
+ 
+Smart phones and tablets continue to play an ever-increasing role in our day-to-day life, and our customers are embracing mobile computing to support more facets of their businesses. QAD delivers components of our solution for a variety of mobile platforms. Currently our mobile specific suite includes a requisition approval solution, a mobile business intelligence solution, mobile browse capability and mobile application monitoring tools to support system administrators. Our mobile browse capability allows users to view, filter and sort all data accessible through QAD browses within QAD Enterprise Applications using mobile devices. 
+ 
+ 
+6
+
+
+ 
+In support of our focus on business process efficiency, we have integrated the ability to generate business process maps for common business processes into our software using the QAD Process Editor tool. This tool simplifies implementations, maps common business processes and facilitates navigation throughout the entire product suite. Within our suite, we have also embedded business process management (“QAD BPM”). QAD BPM allows customers to visualize their business processes; monitor transactional throughput by user, role or stage; and modify those processes to make them more efficient. Using QAD BPM, companies can create business process models, assign task responsibilities, monitor and re-direct workflow, all of which reduce process execution time, improve visibility of active processes, identify bottlenecks and support process improvement.
+ 
+QAD developed its solutions to allow simple integration with other systems our customers use within their organizations. For example, we enable seamless integration between QAD Enterprise Applications and common browser applications and spreadsheets. QAD solutions also integrate easily with other web applications and web services. Using our Q-Xtend toolset, customers can connect to different software, even when remote, and they can use industry-standard middleware products such as the IBM MQ™ series or the standard connectors built on the Dell Boomi AtomSphere integration platform. Robust APIs along with QAD Automation Solutions provide additional capability for integration.
+ 
+QAD Enterprise Applications
+ 
+QAD Enterprise Applications is an integrated suite of software applications, which supports the core business processes of global manufacturing companies, and provides specific functionality to support the requirements of our targeted industries and the geographies in which our customers conduct business. QAD Enterprise Applications allows customers to monitor, control and support their operations, whether operating a single plant or multiple sites, wherever they are located around the world.
+ 
+QAD Enterprise Applications has strong capabilities for addressing global complexities in customers’ business models, such as compliance with local accounting practices and legislation, as well as internal reporting on global performance. QAD Enterprise Applications includes full support for multiple currencies, multiple languages and complex corporate structures such as multiple companies or divisions.
+ 
+QAD Enterprise Applications is available on premise, in the cloud and in a blended model combining both of these deployment alternatives by having certain sites on-premise and others in the cloud. Blended deployment enables users to transact easily across business entities with a consistent interface and consistent functionality since our cloud and on-premise technology is compatible. Companies that have chosen the cloud as a strategic direction but who cannot, or do not want to, move all locations at one time, find a blended deployment model allows them to transition to the cloud with less risk. The finance function can view individual business unit results and run consolidations that cross both cloud and on premise sites seamlessly, while other users can transact and view inventory in multiple locations irrespective of whether any specific business entity is operating in the cloud or on premise.
+ 
+QAD Enterprise Applications is comprised of the following software solutions:
+ 
+QAD Financials
+ 
+QAD Financials provides comprehensive capabilities to manage and control finance and accounting processes at a local, regional and global level. The suite supports multi-company, multi-currency, multi-language and multi-tax jurisdictions, as well as consolidated reporting and budgeting controls. These capabilities give cross-functional stakeholders access to financial results, enabling faster, more informed decision making while providing robust internal controls. Enterprise Financials includes IFRS and multi-GAAP support, as well as extensive local tax capture, reporting capabilities and segregation of duties enforcement.
+ 
+QAD Customer Management
+ 
+QAD Customer Management enables global manufacturing companies to acquire new customers efficiently, grow revenue through multiple channels and retain customers through superior service and support. QAD Customer Management helps our customers measure the efficacy of marketing campaigns, manage the sales opportunity lifecycle and optimize order and fulfillment processes. QAD Configurator has the ability to create unique products specified to customer requirements, enabling simple and cost effective controls for mass customization of products. The suite includes the ability to centralize sales order entry, including orders for configured items, and to ship the items from any facility or business entity. QAD Customer Self Service provides a web storefront for our customers to transact sales, which is fully and securely integrated with the rest of QAD Enterprise Applications.
+ 
+QAD Manufacturing
+ 
+QAD Manufacturing delivers comprehensive capabilities to support manufacturing business processes, from planning through execution, and provides visibility and control of materials and labor. The suite has capabilities in the areas of planning and scheduling, cost management, material control, shop floor control, quality management and reporting in various mixed-mode manufacturing environments. The manufacturing models supported include Discrete, Repetitive, Kanban (particularly relevant in lean manufacturing practices), Flow, Batch/Formula, Process, Co-products/By-products and Configured Products. The system also includes flexible item attributes that customers can use to track lot characteristics or test results. The Lot Trace Workbench provides insight into any products component genealogy and greatly simplifies product recalls. QAD Manufacturing supports companies deployment of business processes consistent with their industry’s best practices. The integration between scheduling, planning, execution, quality and materials allows tight control and simple management of processes.
+ 
+ 
+7
+
+
+
+QAD Automation Solutions
+ 
+QAD Automation Solutions improves manufacturers’ material transaction processing accuracy and efficiency by aligning QAD Enterprise Applications with material and production processes. 
+ 
+There are two primary components to QAD Automation Solutions:
+ 
+
+● | Data Collection captures material and production data through simplified transactions using a mobile device such as a radio frequency (RF) scanner, tablet or a stationary shop floor personal computer or terminal.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Label Printing Services routs and prints labels associated with material and production transactions based on manufacturer, supplier, customer and industry specified formats and rules.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+These capabilities help manufacturers better align their material logistics processes in a timely fashion while ensuring inventory accuracy through process compliance.
+ 
+QAD Demand and Supply Chain Planning
+ 
+QAD Demand and Supply Chain Planning (“QAD DSCP”) is a comprehensive group of applications built on a single unified model to fulfill the materials planning and logistics requirements of global companies. QAD DSCP is supported and developed by our DynaSys operating division. This solution set delivers functionality and capabilities that help enterprises optimize their supply chains to enhance customer satisfaction through timely deliveries. Enterprises can align supply and demand to support the delivery of the right product, to the right place, at the right time and at the most efficient cost. The suite utilizes the DynaSys Single Click Collaborative platform, with the entire planning model running in a memory-resident database supporting real-time planning. The suite supports planning for demand, production, procurement, distribution and global sales and operations. Customers have used this solution with data sets that exceed a million SKUs. QAD Demand and Supply Chain Planning addresses both simple and complex networks and customers have the ability to add more advanced functionality as the enterprise grows. Collaborative portals are available for both demand and supply sides to help ensure rapid communication of demand or supply fluctuations and to enable collaborative planning.
+QAD Supply Chain Execution
+ 
+QAD's Supply Chain Execution suite includes tools to support inventory and warehouse management in either simple or complex warehousing environments. For example, the QAD Warehousing tool supports complex warehouse-management techniques such as bulk, batch and wave picking, as well as multiple put away methods including calculations based on required space. It manages reusable packaging and containers to help eliminate waste and reduce costs. Additionally, QAD Enterprise Applications manages consignment inventory for both consignors and consignees, and supports strategic sourcing and purchasing. The system manages distribution requirements planning to optimize and balance inventories at multiple distribution centers which enables quick and cost effective demand fulfillment. QAD offers QAD Supplier Portal and QAD EDI for facilitation of communication and collaboration with members of a supply chain. These two solutions are offered on a subscription basis only.
+QAD Transportation Management
+ 
+QAD markets transportation solutions directly to our existing customers as part of QAD Enterprise Applications, and to the general market through our Precision division. QAD Transportation Management facilitates correct documentation and control for moving shipments across borders. Transportation Management allows companies to manage and optimize outside carriers for shipments including parcel, less than truckload, full truckload and container shipments whether using land, sea or air carriers. Compliance and risk management enables companies to comply with regulations concerning denied parties and controls of dangerous substances.
+ 
+QAD Service and Support
+ 
+QAD Service and Support enables exceptional after-sale customer service and support for companies who commission and support complex systems. The integration from customer demand through manufacturing to installation and support provides companies with great efficiencies when managing their business processes. QAD Service and Support handles service calls, manages service queues and organizes mobile field resources. It also provides extensive project management support, helping organizations track materials and labor against warranty and service work; compares actual costs to budget, and generates appropriate invoicing.
+ 
+ 
+8
+
+
+
+QAD Enterprise Asset Management
+ 
+QAD Enterprise Asset Management (“EAM”) helps companies manage maintenance and installation of capital equipment. The solution supports both planned and unplanned equipment maintenance based on elapsed time or completed quantities. It includes the ability to track calibrations, labor and required parts used for maintenance. In addition, it has project accounting capabilities to plan, track and control detailed project budget and spending data for capital expense projects such as refits or building and commissioning new plants. EAM includes functionality to manage rotable (renewable) inventory. EAM helps manufacturers achieve a balance between having the right equipment available and minimizing their equipment investment. It ensures critical spare parts are on hand as needed and monitors company expense and approval policies with regard to capital plant and equipment.
+Action Centers with Embedded Analytics
+ 
+Action Centers are designed to provide the data and information users need in order to do their jobs efficiently in an easy to grasp visual format. Users can drill down into more detail or take quick action based on the insight the solution provides. Action Centers provide built-in analytics and operational metrics as well as more than 400 browses and nearly 450 reports. All information can be accessed from a tablet to support users who are not at their desk or in the office. 
+ 
+QAD Analytics
+ 
+QAD Enterprise Applications provides decision makers and company stakeholders with key data to measure performance against company and strategic goals. QAD Analytics helps customers perform complex analyses, make informed decisions and improve performance management by highlighting areas that need improvement and enabling drill down to source data. The QAD Analytics suite consists of multiple analysis and data extraction tools all working in harmony to provide user-defined analysis such as consolidated reporting or reporting by geography, product line or cost center.
+ 
+The solution consists of QAD Reporting Framework, which provides powerful, yet simple, reporting and real-time visibility with ad hoc inquiries; Operational Metrics, which enables companies to define and monitor key performance indicators and QAD Business Intelligence, which allows for dynamic analysis and trend reporting across multiple data sources. Customers can also access QAD Business Intelligence using mobile devices, which allows users to view, filter and sort all data accessible to QAD Browses using mobile devices.
+ 
+QAD Enterprise Quality Management
+ 
+QAD provides enterprise quality management and regulatory compliance solutions to global companies in many market segments, including QAD’s target markets. The suite supports customers’ compliance with industry specific quality standards. In the automotive vertical, QAD’s solution delivers automation of Advanced Product Quality Planning (“APQP”) methodologies, including Production Part Approval Process (“PPAP”), process flow and approvals. In the life sciences vertical, customers benefit from critical functionality supporting corrective and preventative action and non conformance reporting. The suite also features manufacturing quality solutions for audit, risk management, document control, gage calibration, inspection and statistical process control. Our CEBOS division supports and develops QAD’s Enterprise Quality Management suite.
+ 
+QAD Interoperability
+ 
+QAD Enterprise Applications uses a services-oriented architecture, allowing customers to easily integrate QAD Enterprise Applications with other non-QAD core business applications. Through our QAD Q-Xtend toolset, we promote open interoperability with comprehensive application program interfaces (“APIs”) and published events. These offer QAD customers a choice of solutions in their operating environments. In addition, we resell the Dell Boomi integration platform as QAD Boomi AtomSphere. This provides a comprehensive platform for managing integrations to many cloud and on premise products, making whole enterprise integration easier for QAD customers.
+ 
+QAD Internationalization
+ 
+QAD supports companies that manufacture and distribute their products around the world. When a global company expands its operations, it often needs to accommodate local languages, local accounting standards and local business practices. Operating in different countries also requires access to specific local software, such as that used to interface to banks in their country of operation. QAD supports the requirements of 60 different countries with its internationalization capabilities.
+ 
+ 
+9
+
+
+
+Customer Support and Product Updates Provided via Our Cloud and Maintenance Offerings
+ 
+Customer support services and product enhancements are provided to our cloud customers as part of their monthly subscription fee and to on-premise customers via our maintenance offering. Customer support services include internet and telephone access to technical support personnel located in our global support centers. Through our support service, we provide the resources, tools and expertise needed to maximize the use of QAD Enterprise Applications. Customers active on maintenance or the cloud are also entitled to receive product upgrades and enhancements on a when-and-if available basis. 
+ 
+As part of our maintenance and cloud offerings, our online support site also provides access to an extensive knowledge database, online training materials, a virtual training environment, remote diagnostics and our software download center. Our support professionals in our global support centers focus on quickly resolving customers’ issues, maintaining optimal system performance and providing uninterrupted service for complete customer satisfaction. In addition, we provide other products, including operational metrics, workbenches and monitoring tools. Customers have access to these products at no additional fee, provided they have a current maintenance or cloud agreement in place with QAD.
+ 
+Our cloud customers are able to enjoy Internet access to their solutions in a scalable, reliable and secure environment anywhere in the world. This environment is managed by our Cloud Operations group with infrastructure operated by us, but located within third-party data center facilities or from cloud computing platform providers. The cloud operations group is dedicated to supporting our cloud solutions. Located primarily in the U.S. and India, they manage the day-to-day operations of our cloud computing solutions, act as the control point for activities related to elements of the cloud and maintain our cloud environment, including customizations, conversions and upgrades to QAD Enterprise Applications. 
+ 
+Generally, our on-premise customers purchase maintenance when they acquire new licenses and our maintenance retention rate is more than 90%. Our maintenance and other revenue represented 47%, 48% and 48% of our total revenues in fiscal 2017, 2016 and 2015, respectively. Our maintenance revenue is negatively impacted by customers on maintenance converting to our cloud solutions. When maintenance customers convert to the cloud, they no longer contract for maintenance as those support services and unspecified updates are included as a component of the subscription offering. Our cloud revenue represented approximately 17%, 11% and 8% of our total revenues in fiscal 2017, 2016 and 2015, respectively, and our cloud customer retention rate is also in excess of 90%. We track our retention rate of cloud and maintenance by calculating the annualized revenue of customer sites with contracts up for renewal during the period compared to the annualized revenue associated with the customer sites that have canceled during the period. The percentage of revenue not canceled is our retention rate. Conversions to the cloud are not considered cancellations for purposes of the maintenance retention rate calculation.
+ 
+QAD Global Services
+ 
+QAD offers professional services including consulting, deployment, training and integration to facilitate adoption of our Enterprise Applications solution and enable customer success. 
+ 
+QAD Global Services engages with our customers across the entire enterprise application life cycle through planning, design, implementation and management. Whether in the cloud or on-premise, our Global Services group assists our customers with initial deployments, upgrades to more current product versions, migration of on-premise deployments to the cloud, conversion and transfer of historical data, ongoing system and process optimization, and user training and education.
+ 
+QAD’s Global Services group includes 450 consultants located throughout the world, augmented by a global network of certified partners. Our consulting ecosystem spans over 70 countries. QAD consultants and partners are trained on our best practice implementation methodologies and have obtained certifications of proficiency in many areas. We offer a complete portfolio of services, delivered to consistent standards across the globe. Working in tandem with our partners, we support national, multi national and global projects on behalf of QAD customers.
+ 
+In support of QAD’s vision of all customers becoming Effective Enterprises, QAD has developed a framework of Key Performance Indicators (“KPIs”) used by QAD Global Services to measure pre- and post- implementation performance of business processes and to aid in the diagnosis of opportunities for continuous improvement. The QAD KPI framework is made available to all customers and is monitored using the QAD analytics suite.
+ 
+QAD’s principal methodology for deployment of solutions is called QAD Easy On Boarding (“EOB”). EOB has been designed to make deployment of QAD solutions on-premise or in the cloud standardized and efficient. EOB features predefined industry process models built into the products themselves as well as implementation guides and scripts, all based on our experience with best practice standards. With EOB, implementation can be faster than more traditional approaches.
+ 
+ 
+10
+
+
+ 
+QAD Global Services focuses on assisting customers in the following activities:
+ 
+Implementations and Migrations – QAD Global Services supports customers with the initial implementation of QAD Enterprise Applications. QAD Global Services has particular expertise in global implementations, harnessing the entire QAD Global Services ecosystem to provide local or in country support wherever customers need. QAD Global Services deploys our applications both on-premise and in the cloud. In addition, QAD Global Services has the experience to assist new customers with migration from other enterprise application systems. This service includes data conversions as well as process design change management.
+ 
+Upgrades – QAD Global Services assists customers in the process of upgrading their QAD Enterprise Applications to the latest version, accelerating time to benefit, increasing new functionality and applying usability best practices.
+ 
+Conversions – QAD Global Services employs standardized process for converting from on-premise solutions to the cloud.
+ 
+Integration – QAD Global Services has the expertise and experience to quickly integrate QAD solutions with other systems.
+ 
+Systems Management – QAD Global Services delivers a range of services to support technical management of systems and performance monitoring for those customers who choose on-premise deployment.
+ 
+Training and Education – QAD Global Services offers a full range of services leveraging QAD’s learning management system. Users can access multimedia training on all QAD offerings and take advantage of pre-defined learning plans for all of the roles that QAD users typically perform. Global Services also provides customized courses that are taught on-site to meet specific customer needs and are available to end users, IT professionals, department managers, partners and consultants.
+ 
+Application Management – QAD Global Services is available to manage customer systems and, through our Application Management Services, supports customers’ system management, administration and performance needs.
+ 
+Business Process Improvement – QAD has developed a range of predefined diagnostic offerings called Q-Scans. QAD Global Services utilizes Q-Scans to engage in highly efficient diagnosis of key business processes and functional areas and provide recommendations to customers for continuous improvement.
+
+Pre-Defined Consulting Engagements – QAD Global Services performs diagnostic and prescriptive consultations that cover many areas including customization, analytics and various areas of compliance such as FDA, MMOG/LE and SOX.
+ 
+QAD Global Service’s network of employees, consultants and partners knows QAD software best. They diagnose issues preventing businesses from running efficiently and prescribe steps to maximize the benefits of QAD Enterprise Applications. These QAD experts offer what outside consultants cannot - a combination of a deep understanding of the industries in which our customers operate, the in-depth knowledge of functionality of the QAD solution portfolio and the proven experience of helping customers leverage our software to become more Effective Enterprises. QAD Global Services offers a full range of program management, project management, industry consulting and technical services certified in our products and methodologies.
+ 
+QAD GLOBAL PARTNER NETWORK
+ 
+QAD establishes strategic relationships with our partners to expand our sales reach, improve our market impact, provide technological advantages and strengthen our strategic position in the industries that we serve. QAD and our partners are constantly evolving, broadening our expertise and our footprint in order to meet the diverse needs of our customers around the world. Today we have approximately 130 companies partnering with us to deliver innovative solutions, services and technology that help to enable our customers to build their Effective Enterprise.
+OUR STRATEGY
+ 
+All aspects of our solutions, from software to services to our customer engagement, are architected to support our vision for the Effective Enterprise where every business process is running at peak efficiency and perfectly aligned to our customers’ strategic goals. In an ever changing world, continuous improvement is a fundamental requirement for achieving this vision. In support of our vision, we focus on providing complete solutions and expertise that help our customers improve the effectiveness of their business processes. In addition, our software is designed to support global regulatory and business practice requirements that enable our customers to satisfy governmental and industry regulations, while incorporating industry best practices and providing real-time visibility and measurement in support of continuous business process improvement initiatives.
+ 
+We build solutions in 24 specific industry segments across six manufacturing verticals to provide our customers the capabilities they need to run their enterprises effectively without the complexity and excess resource consumption associated with generalist solutions. We focus on those areas, within the segments we target, where we see potential for increased growth due to manufacturing expansion, cloud adoption or emerging requirements that we can address.
+ 
+ 
+11
+
+
+ 
+Our goal is to enhance our position as a leading provider of cloud-based enterprise applications for global manufacturing companies. The key elements of our strategy, which we believe will support the achievement of our vision and help drive continued growth, are as follows:
+ 
+Grow Our Cloud Business. We provide full-featured vertically-focused cloud and on-premise solutions which work well together and independently. Cloud is not simply a deployment option; it is a strategic choice that allows our customers to focus on their customers and products without the distraction of administering their enterprise applications or maintaining their infrastructure. We intend to expand our position in the cloud-based applications market by continuing to provide high quality offerings that encompass the enterprise class functionality our customers require. We believe new manufacturing companies, or companies created through divestiture from a larger entity, that do not have an existing legacy enterprise platform are more likely to adopt our cloud computing solutions when choosing and implementing a new enterprise system to run their business. We also believe that QAD Enterprise Applications is well positioned as a full-strength, secure and flexible solution delivered in the cloud to support global manufacturing companies. QAD was named the 2016 Enterprise Cloud Company of the Year in the Stratus Awards for cloud computing conducted by the Business Intelligence Group. The Stratus Awards identify and acknowledge distinguished companies, products and people offering unique solutions that take advantage of cloud technologies.
+ 
+Grow our customer base and expand our footprint within existing customers. We believe there is substantial opportunity to increase the presence of cloud-based enterprise solutions within our global manufacturing customer base and that our expertise in the core vertical markets we serve is well suited to meet the growing needs of global manufacturing companies. Our industry-specific solutions, combined with our cloud and on-premise deployment options, enable our manufacturing businesses to continue to manage their own growth in the manner that best meets their needs and strategy. Within our current customer base, opportunities exist to deliver value through a wider use of the QAD product portfolio to address business challenges. With over 2,000 customers across our core vertical markets and over 300,000 active users, we have many opportunities to increase revenue and deliver additional value to our existing installed base. As the global manufacturing economy grows, our existing customers' businesses will grow and our solutions are designed to help them manage this growth in an effective and efficient manner. We intend to continue to invest aggressively in our direct sales and marketing capabilities to highlight these advantages for prospective new customers.
+ 
+Continued product development and rapid response to change. Our ability to successfully compete depends in part on our continuous product development and rapid introduction of new technologies, features and functionality. Manufacturers are facing a swiftly changing business environment fueled by exponential growth in underlying technologies. Industry 4.0, IoT, Artificial Intelligence (AI), Additive Manufacturing (3D Printing) and Digital Transformation are all examples of evolving technologies that can impact the markets in which our customers operate. Adopting these technologies, as well as responding to changes in customer demands and the competitive landscape, can require changes in our customer's business processes. Delivering agile systems that support changes in business process are a key focus of our Channel Islands program. The technologies that we have developed to provide this flexibility include: Personalization, Embedded Analytics, Modularization and Extensibility. We are committed to continuous investment in product development to ensure our products have the necessary capabilities to meet the needs of our global customers and enhance our competitive position in the vertical markets we serve. In particular, as our industry has shifted from on-premise to cloud-based solutions, we have expanded our cloud offerings to provide our customers with more value and flexibility.
+ 
+Focus on global manufacturing and leverage expertise within key vertical markets. Many manufacturers operate globally, requiring a provider that can tailor solutions to the unique needs of their markets, deliver local and global services resources and support local languages. Solutions must be cost effective and easy to implement and use. Our solutions offer many benefits to customers with global operations, including capabilities that support operations in multiple geographies with a variety of languages, and currencies, as well as compliance with complex local regulations and business practices. Our existing global footprint is a key leverage point for meeting these needs, utilizing offices, personnel and partnerships in many countries around the world. We also employ staff with specific knowledge and experience in the industries in which our customers operate. We provide our solutions to 24 segments across six vertical manufacturing markets and we actively participate in several leading industry associations and pride ourselves on the deep expertise of our staff. Our industry knowledge continues to deepen through regular interaction with our customers. This collective experience and customer interaction allows QAD to develop solutions with specific capabilities that address our customers’ needs.
+ 
+ 
+12
+
+
+
+Enhance customer experience to deliver continuous value and maximize customer retention. Through award winning customer engagement, recognized by Consumer Goods Technology Magazine for the 4th straight year, QAD delivers a continuous improvement process to ensure continued alignment for the long term between our customers’ business strategy, people, processes, and best practices and the technology that supports it. We strive to engage with every customer every year, frequently conducting reviews of their business processes and presenting opportunities for improvement. Our deep vertical segment focus and strong, ongoing customer relationships drive continuous development of industry-specific functionality. As a result, we have maintained retention rates in excess of 90% annually.
+ 
+TECHNOLOGY
+ 
+QAD Enterprise Applications was designed to achieve our vision for global manufacturing companies to effectively run their business processes at peak efficiency, in alignment with their company strategic goals. We have chosen the best technologies to achieve our vision, focusing on user experience, integration, business services, analytics, databases and deployment flexibility. We embrace ‘openness’ as a core principle of our designs, aiming to allow customers freedom of choice with regard to device, operating systems and hardware platforms when deploying their software applications. The core of QAD Enterprise Applications is built on a services-oriented architecture, which allows QAD Enterprise Applications’ components to communicate with one another through industry-standard messaging techniques like Representation State Transfer services. This allows customers to exploit the full benefit of QAD’s open architecture for their businesses.
+ 
+QAD Enterprise Applications core business logic has been developed in the OpenEdge programming environment and relational database provided by Progress Software Corporation. Our solutions also include components of Oracle’s Java environment for providing web, mobile and integration infrastructure. We offer a rich user experience using HTML5 technologies, iOS, Android and Microsoft .NET frameworks. QAD Enterprise Applications supports most commercial operating systems, including most common LINUX-derived operating systems, Windows Server System and most proprietary versions of UNIX including Hewlett Packard’s HP/UX and IBM’s AIX. Where practical, QAD uses open industry standards to collaborate and integrate QAD Enterprise Applications with other systems.
+ 
+QAD’s enterprise architecture provides significant flexibility for global companies in deploying QAD Enterprise Applications. Our enterprise architecture allows companies to separate the legal structure of their business from physical operating locations or to separate both of these from the software instances and computer hardware that support them. With QAD enterprise architecture, customers can choose which sites are a part of which companies, which sites are supported on any instance of the application, or which sites operate as one instance. Customers can also choose centralized, decentralized or hybrid computing architectures with parts of their enterprise running from both central resources and local resources.
+ 
+QAD combines our technologies to provide a comprehensive cloud solution for our customers. Our cloud architecture encompasses infrastructure provisioning and application deployment, management, monitoring and security; providing a world class development operations practice built around Information Technology Infrastructure Library standards. Our cloud delivery centers are certified under the ISO 9001:2008 standard for quality management, the ISO 20,000:2011 standard for service management (SMS), the ISO 27001:2013 standard for information security management (ISMS), the FDA 21 CFR Part 11 requirements for electronic records and signatures, and the SSAE 16 (SOC I-Type II) requirements for reporting and compliance controls.
+ 
+PRODUCT DEVELOPMENT
+ 
+The technology industry is characterized by rapid technological change in computer hardware, mobile devices, operating systems, applications, and the rapid expansion of the IoT. In addition, our customers and the industries that we support are continually evolving, as do their expectations of the performance and user experience of our software. We maintain a global research and development organization that provides new product enhancements to the market on a semiannual basis in order to swiftly respond to these changes.
+ 
+The enterprise software industry is continuing its transition from selling on-premise licenses to selling cloud-based solutions which include more integration to IoT devices, social, mobile computing and platform services capabilities. In fiscal 2017, we continued to transition our business model to cloud-based offerings and we rolled out of our latest user experience in the sales, service and purchasing areas of the product suite to our cloud customers. Our latest release supports mobile applications for decision making and providing insights into the health of our customers businesses. This offering is designed to give our customers even more value and flexibility to use our product suite with a secure browser from anywhere the user has connectivity. We take security very seriously and with every new release we have our software verified by an outside firm through software scanning and penetration testing to ensure we have no security breaches. With our web services and rich set of API’s, our customers can connect our product suite to other applications with ease.
+ 
+ 
+13
+
+
+ 
+We dedicate considerable technical and financial resources to research and development to continually enhance and expand our product suite in support of the vertical markets that we serve. For example, in fiscal 2017, we continued our internationalization program in support of the expansion of our global customers. As we ended fiscal 2017 we were supporting our customers in over 70 countries with a single solution managed and maintained by QAD’s research and development organization. We added functionality in all areas of the product and have introduced a new Revenue Recognition Module in support of new accounting standards, ASC 606 and IFRS 15.
+ 
+We operate a global research and development organization comprised of 380 R&D employees located in offices in the United States, India, China, Ireland, Australia, France, Belgium, Spain, Brazil and Great Britain. Our research and development expenses totaled $43.6 million, $41.2 million and $42.3 million in fiscal years 2017, 2016 and 2015, respectively. Our software is primarily developed internally; however, we also use independent firms and contractors to perform some of our product development activities when we require additional resources or specific skills or knowledge. All outside development is managed by our internal Research and Development organization. As needed, we acquire products or technology developed by others by purchasing or licensing products and technology from third parties. We continually review these investments in an effort to ensure that we are generating sufficient revenue or gaining a competitive advantage to justify their costs. We routinely translate our product suite into fourteen languages and through our internationalization program we support mandatory governmental regulations and reporting requirements for over 70 countries. This is all accomplished through a single offering for our customers in the cloud or on premise, allowing them to run their businesses using a consistent core business model with a deployment model of their choice.
+ 
+We plan to continue to manage significant product development operations internationally over the next several years. We believe that our ability to conduct research and development at various locations throughout the world allows us to optimize product development, lower costs, and integrate local market knowledge into our development activities. We continually assess the significant costs and challenges, including intellectual property protection, against the benefits of our international development activities.
+
+DIRECT AND INDIRECT SALES
+ 
+QAD sells its products and services through direct and indirect sales channels located throughout the regions of North America, Latin America, EMEA and Asia Pacific. Each region leverages global standards and systems to enhance consistency when interacting with global customers. Additionally, we have a global strategic accounts team, which is responsible for managing QAD’s largest global customers across regions. 
+ 
+Our direct sales organization includes approximately 70 commissioned sales people. Incentive pay is a significant portion of the total compensation package for our sales staff. We continually align our sales organization and business strategies with market conditions to maintain an effective sales process. We cultivate the industries we serve within each territory through marketing, local product development and sales training.
+ 
+Our indirect sales channel consists of approximately 40 distributors and sales agents worldwide. We do not grant exclusive rights to any of our distributors or sales agents. Our distributors and sales agents primarily sell independently to companies within their geographic territory, but may also work in conjunction with our direct sales organization. We also identify global sales opportunities through our relationships with implementation service providers, hardware vendors and other third parties.
+ 
+MARKETING
+ 
+Our marketing strategy is to differentiate our offering by focusing on our role in providing value by helping our customers achieve the vision of the Effective Enterprise. Our main marketing objective is to leverage the measurable success in business outcomes our customers have achieved to increase awareness and drive leads. We do this by openly and consistently communicating with QAD customers, prospects, partners, investors and other key audiences. Our primary marketing activities include: press and industry analyst relations to garner third-party validation and generate positive coverage for our company, offerings and value proposition; user conferences and events, such as Explore, as well as participation in other industry events, to create customer and prospect awareness; content marketing and engagement on social channels like Facebook, Twitter, LinkedIn and YouTube; search engine optimization, retargeting and pay per click advertising to drive traffic to our web properties; web site development and gamification to engage and educate prospects and generate interest through product information and demonstrations, case studies, white papers, and marketing collateral; customer testimonials, references, and referrals; and sales tools and field marketing events to enable our sales organization to more effectively convert leads into customers.
+ 
+We recognize the changing buying dynamics and are focused on engaging with prospects early in the sales cycle in order to help set the buying criteria and specifications in a way that uniquely leads to QAD. We seek to accelerate prospects through the buying journey by answering questions and removing roadblocks. 
+ 
+ 
+14
+
+
+
+COMPETITION
+ 
+Every aspect of our business is affected by strong competition from both enterprise software application vendors and cloud computing application services providers. The markets for our on-premise and cloud offerings continue to rapidly evolve due to constant changes in technology. New products and services are frequently introduced as new companies emerge and expand. Our customers demand greater performance and reliability with lower complexity. Cost of implementation or conversion to the cloud and cost of ongoing maintenance are constant concerns when our customers make decisions about how best to deploy their resources.
+ 
+In the on-premise space, we compete primarily with larger enterprise application vendors, such as SAP, Oracle and Infor, who hold significant market share in the traditional marketplace. These companies have considerable financial resources and name recognition and have established broad market solutions by developing applications targeted at many industries, not just manufacturing. They often focus heavily on positioning their size as an advantage. We typically differentiate against these companies based on the specific industry focus of our solutions as well as our customer focus. Internationally, we face competition from local companies, as well as the large enterprise application competitors, many of which have products tailored for those local markets.
+ 
+In addition, our industry has shifted focus from on-premise to cloud and mobile computing. Most enterprise application vendors today have some focus on cloud solutions, in addition to on-premise sales, which creates an environment in which we face competition from a variety of vendors that address one or more of our applications. As a result, our cloud solutions compete with both large software vendors and cloud computing application service providers. Smaller cloud computing vendors have so far targeted the lower end of the manufacturing supply chain market where companies operate in a single plant or single currency environment focusing mainly in the U.S. domestic market. Adding to this, other vendors that provide services in different markets may develop solutions in our target markets and some potential customers may elect to develop their own internal solutions. 
+ 
+We believe the key competitive factors in our markets are:
+ 
+
+● | Customer focus
+--+---------------
+
+
+● | Customer outcomes
+--+------------------
+
+
+● | Flexibility to meet changing business requirements
+--+---------------------------------------------------
+
+
+● | Total cost of ownership
+--+------------------------
+
+
+● | Performance and reliability
+--+----------------------------
+
+
+● | Security
+--+---------
+
+
+● | Solution breadth and functionality
+--+-----------------------------------
+
+
+● | Technological innovation
+--+-------------------------
+
+
+● | Usability
+--+----------
+
+
+● | Ability to tailor and customize series for a specific company, vertical or industry
+--+------------------------------------------------------------------------------------
+
+
+● | Compatibility between products and services deployed within on-premise IT environments and public cloud IT environments
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Speed and ease of deployment, use and maintenance; and
+--+-------------------------------------------------------
+
+
+● | Financial resources and reputation of the vendor.
+--+--------------------------------------------------
+
+ 
+We believe that we compete favorably on the basis of these factors. Our ability to remain competitive will depend on our efforts in the areas of product development and sales, services and support operations.
+ 
+EMPLOYEES
+ 
+As of January 31, 2017, we had 1,710 full-time employees, including 810 in support, subscription and professional services, 380 in research and development, 300 in sales and marketing and 220 in administration. Generally, our employees are not represented by collective bargaining agreements. However, certain employees in our Netherlands, France and Belgium subsidiaries are represented by statutory works councils as required under local law. Employees of our Brazilian subsidiary are represented by a collective bargaining agreement with the Data Processing Union.
+INTELLECTUAL PROPERTY
+ 
+We rely on a combination of trademark, copyright, trade secret and patent laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our proprietary technology and our brands and we maintain programs to protect and grow our rights. We also enter into confidentiality and proprietary rights agreements with our employees, consultants and other third parties and control access to software, services, documentation and other proprietary information.
+ 
+ 
+15
+
+
+
+SEASONALITY
+ 
+Our fourth quarter has historically been our strongest quarter for new business and maintenance renewals. For a more detailed discussion, see the “Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow” discussion in Management’s Discussion and Analysis.
+SEGMENT REPORTING
+ 
+We operate in a single reporting segment. Geographical financial information for fiscal years 2017, 2016 and 2015 is presented in Note 12 within the Notes to Consolidated Financial Statements included in Item 15 of this Annual Report on Form 10-K.
+AVAILABLE INFORMATION
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website at www.qad.com, as soon as reasonably practicable after such reports have been electronically filed or otherwise furnished to the Securities and Exchange Commission. We are not including the information contained on our website as part of, or incorporating it by reference into, this annual report on Form 10-K.

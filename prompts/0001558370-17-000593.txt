@@ -1,0 +1,195 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ Item 1. Business
+ Overview
+ The current perimeter-based enterprise security model, which is based on locked-down desktop endpoints, enterprise-controlled networks, and company data that only sits behind a firewall, is being disrupted by the move to mobile and cloud services. Employees and lines-of-business, not IT, now choose the software and cloud services they need to do their jobs. Our solution provides enterprise security for this open, but complex, modern IT architecture.
+     We invented a purpose-built security platform for enterprises to secure business data in a modern IT architecture, while enabling employee personal data privacy and mobile device choice. The MobileIron Enterprise Mobility Management (EMM) solution is a mobile security platform that: 
+    
+1) | configures and delivers applications to smartphones, tablets, laptops and desktops running operating systems such as Android, iOS, macOS and Windows 10;
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | secures data-at-rest on these modern endpoints;
+---+------------------------------------------------
+
+
+3) | secures data-in-motion across the corporate network; and
+---+---------------------------------------------------------
+
+
+4) | secures access to back-end corporate networks and cloud services.
+---+------------------------------------------------------------------
+
+      We believe that every modern endpoint, whether a smartphone, tablet, laptop, desktop, or IoT device, with access to enterprise data will require a solution like MobileIron’s to secure that data.
+     Our platform has fostered a growing ecosystem of partners to enable our customers and their employees to leverage best-of-breed solutions rather than being locked into a particular vendor’s solution. MobileIron enables employees to have ubiquitous access to the information they need in order to work productively anywhere.
+     Our business model is based on winning new customers, expanding sales and upselling new products within existing customers, and renewing subscriptions and software support agreements. Our sales team wins customers by working closely with our channel partners, which include resellers, service providers and system integrators. We have experienced rapid growth in our customer base, having sold our platform to over 13,500 cumulative customers since 2009, and our revenue has increased to $163.9 million in 2016. Our strategy is to enhance the value of our platform by introducing additional products and upselling these additional products to our customers. Our global customer support team focuses on enabling customer success, which is designed to lead to additional sales and renewals of subscription and software support agreements. In 2016, we generated over two-thirds of our gross billings from recurring sources (subscriptions and software support agreements). Our blended renewal rates, which are determined on a seat basis for software support and subscription agreements, exceeded 90% in 2016.
+ We offer our customers the flexibility to deploy our solution as a cloud service or as on-premises software. They can also choose from various pricing options, including subscription and perpetual licensing. We primarily target midsize and large enterprises across a broad range of industries including financial services, government, healthcare, legal, manufacturing, professional services, retail, technology and telecommunications. No single end user accounted for more than 5% of our total revenue in 2016. One reseller accounted for 15% of our revenue in 2016.
+     Platform Extensibility and Ecosystem
+ We continue to expand the breadth and depth of our ecosystem. Our platform is extensible on both the client side and server side.  Customers, application vendors and technology vendors can leverage our technology to mobilize and secure their products, applications and content. As of December 31, 2016, our ecosystem had over 550 active technology partners who have released over 280 technology integrations. 
+ Client-side: MobileIron AppConnect allows customers and application vendors to build applications that can be secured by MobileIron. These applications use the MobileIron AppConnect SDK or wrapper to become part of the secure MobileIron container on the device. The customer’s IT administrator can then enforce application security policies to, for example, prevent data sharing with unauthorized applications or allow authentication with a single pin or password.
+
+ 
+  4
+
+ 
+
+ Server-side: MobileIron ServiceConnect APIs allow customers and security and infrastructure vendors to integrate their back-end services with the MobileIron solution. When combined, the common solutions provide increased security, better user experience, and business visibility through analytics. For example, network security vendors can use our security status information in order to make real-time decisions about whether a mobile device should be granted access to a secure corporate service. Mobile threat detection vendors can use our system to detect the presence of new applications and identify potentially harmful applications, so that IT departments can remediate as necessary. 
+ Our Competitive Strengths 
+ We pioneered many of the innovations in enterprise mobility. Our competitive differentiators are: 
+
+· | Modern security platform. Our platform was purpose-built to address the rapidly-evolving modern security requirements of the enterprise. We continue to invest in providing enterprise class security for our customers. We have been positioned in the Leaders Quadrant of the Gartner Magic Quadrant for Enterprise Mobility Management Suites six years in a row 1. We were the first company to receive Common Criteria certification against Version 2.0 of the Mobile Device Management Protection Profile from the National Information Assurance Partnership Protection Profile V2. Common Criteria is an internationally recognized set of guidelines (ISO/IEC 15408) used by governments, banks and other organizations to assess the security capabilities of technology products. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Customer adoption through global channel. We have over 13,500 cumulative customers that have purchased our solution since 2009, with the majority of our sales to companies with over 1,000 employees. We believe that we are a leading player in EMM in government, financial services and healthcare, and have deployed to some of the most security conscious companies in those verticals. We have a strong global network of channel partners that drive customer and sales growth across all customer segments.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Ecosystem breadth. Our ecosystem creates positive network effects for our business. We provide extensive product support for the operating system ecosystem – Apple, Google and Microsoft. Our AppConnect technology allows independent software vendors (ISVs) to build applications that can be secured and managed by our solution. Our ServiceConnect ecosystem allows our customers to deploy integrated workflows across mobile and traditional enterprise architecture. We believe that our best-of-breed ecosystem is a strong competitive advantage over the single stack lock-in of some of our competitors, and we believe that many customers choose our platform because of our strong ecosystem of technology partners.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 1 *Gartner "Magic Quadrant for Enterprise Mobility Management Suites" by Rob Smith, Bryan Taylor, Chris Silva, Manjunath Bhat, Terrence Cosgrove, John Girard, June 8, 2016.
+     Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. The Gartner Report(s) described herein, (the "Gartner Report(s)") represent(s) research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and are not representations of fact. Each Gartner Report speaks as of its original publication date (and not as of the date of this 10K and the opinions expressed in the Gartner Report(s) are subject to change without notice.
+
+
+ 
+  5
+
+ 
+
+    
+· | Domain expertise. We have a history of thought leadership and product innovation. We had been granted 40 EMM patents as of December 31, 2016, which we believe is more than any other EMM vendor. Many of these patents relate to technology pillars of our industry, such as application distribution and mobile data security. We believe successful mobile deployments require deep domain expertise, and we have such expertise.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | World-class global customer success organization. We believe that the success of our customers’ mobile initiatives will drive expansion of their mobile deployments and, in turn, grow our business. Our global Customer Success organization provides technology support, implementation and best practices toolkits, education and online training, as well as strategic account management to build trusted customer relationships. We seek to build mobile industry expertise throughout the IT community by offering MobileIron certification programs to our customers and partners to help educate, train and certify individuals who work with our products and services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Flexible deployment and pricing model. We offer our customers the choice of using our platform either as a cloud service or as an on-premises solution. We offer pricing flexibility with subscription or perpetual licensing options, which allows a customer to pay for our platform through either its capital or operating budget.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      Customers
+ Our customers include leading enterprises in a broad range of industries, including financial services, government, healthcare, legal, manufacturing, professional services, retail, technology and telecommunications. No single industry verticals accounted for more than 20% of our gross billings in the three year period ended 2016. Medium to large enterprises accounted for a majority of our gross billings. We have sold our products to over 13,500 customers globally, including more than 500 companies on the Forbes Global 2000 Leading Companies list, as of December 31, 2016. Our channel partners include resellers, service providers and system integrators. AT&T, Inc., as a reseller, accounted for approximately 15%, 16% and 20% of our total revenue in 2016, 2015 and 2014, respectively. No end user of our products accounted for more than 5% of our total revenue in 2016, 2015 or 2014. Backlog
+ As is typical in the software industry, we expect a significant portion of our software license orders to be received in the last month of each quarter. We do not believe that our backlog at any particular time is meaningful because it has historically been immaterial relative to our total revenue and is not necessarily indicative of future revenue in any given period.  Sales and Marketing
+ We sell the vast majority of our products through indirect sales channels and maintain a sales force that works closely with our channel partners to develop sales opportunities. We have an outside sales force focused on large organizations and an inside sales teams focused on mid-sized organizations. Our channel team works with our service providers to address small to mid-sized organizations.  
+ Our sales organization is supported by sales engineers with deep technical expertise and responsibility for pre-sales technical support and technical training of our channel partners. The sales organization has strong alignment with our Customer Success teams and acts as a liaison between our customers and our marketing and product development organizations, especially during the pre-sales phase. We believe this approach allows us to leverage the benefits of our sales channel and maintain communication with our customers. Our sales cycle ranges from a few weeks for small businesses to many months for large enterprises.
+
+ 
+  6
+
+ 
+
+ Channel Program 
+ We work with mobile-focused channel partners who sell our platform to customers. We focus on building in-depth relationships with a number of solutions-oriented partners that have strong industry expertise. These channel partners include both traditional IT resellers as well as service providers. We operate a formal accreditation program for the sales and technical professionals of our channel partners.  Marketing 
+ Our marketing efforts are focused on building our brand reputation, expanding  market awareness of our solutions, driving customer demand and enabling our internal and extended (channel) sales teams.  Research and Development
+ We have invested significant time and financial resources in the development of our platform and believe that continued research and development is critical to our ongoing success. Research and development investments drive innovation, enterprise class mobile IT platform features and keep pace with the rapidly evolving mobile operating system and device ecosystem. We believe that innovation and timely development of new features and products are essential to meeting the needs of our customers and channel partners and improving our competitive position. In 2016, we, along with other EMM providers, formed the AppConfig Community in order to establish a common approach for enterprise app configuration and security based on OS native standards, including the extensive frameworks available in iOS, in order to enable developers and organizations to simplify app development and deployment and accelerate the adoption of business apps. 
+ Research and development expense totaled $67.4 million, $61.9 million and $46.3 million in 2016, 2015 and 2014, respectively. We plan to continue to significantly invest in resources to conduct our research and development efforts. 
+ Competition
+ We operate in a highly competitive industry that is characterized by constant change and innovation. Changes in the devices, operating systems, applications and technology landscape result in evolving customer requirements.
+ Our competitors fall into two primary categories: 
+
+· | diversified technology companies such as Citrix, IBM, Microsoft, and VMware; and
+--+---------------------------------------------------------------------------------
+
+
+· | mobile specialists such as BlackBerry.
+--+---------------------------------------
+
+  The principal competitive factors in our market include: 
+
+· | product features, reliability, performance and effectiveness;
+--+--------------------------------------------------------------
+
+
+· | price and total cost of ownership;
+--+-----------------------------------
+
+
+· | depth of customer relationships;
+--+---------------------------------
+
+
+· | product extensibility and ability to integrate with other technology infrastructures;
+--+--------------------------------------------------------------------------------------
+
+
+· | flexibility between cloud and on-premise deployment;
+--+-----------------------------------------------------
+
+
+· | mobile IT expertise and focus;
+--+-------------------------------
+
+
+· | channel depth and breadth;
+--+---------------------------
+
+
+· | strength of sales and marketing efforts;
+--+-----------------------------------------
+
+ 
+ 
+  7
+
+ 
+
+
+· | brand awareness and reputation; and
+--+------------------------------------
+
+
+· | focus on customer service and success.
+--+---------------------------------------
+
+  We believe we generally compete favorably with our competitors on the basis of these factors as a result of the our OS neutrality, focus on EMM and the native experience, our mobile IT expertise, the architecture, features and performance of our solution, our ecosystem, and our commitment to customer success. Many of our competitors have substantially greater financial and technical resources, stronger name recognition, larger sales and marketing budgets, broader distribution and more entrenched relationships with enterprise customers and prospects. For more information about the competitive risks we face, refer to Item 1A. “Risk Factors” included elsewhere in this Annual Report.
+     Intellectual Property 
+ We protect our core technology and intellectual property by relying on federal, state, common law and international intellectual property rights, including patents, trade secrets, copyrights and trademarks. We also rely on confidentiality and contractual restrictions, including confidentiality and invention assignment agreements with our employees and contractors and confidentiality agreements with third parties.
+ We pursue registration of our patents, trademarks and domain names in the United States and certain locations outside the United States. We actively seek patent protection covering inventions originating from the Company and acquire patents we believe may be useful or relevant to our business. As of December 31, 2016, we owned 40 patents worldwide covering various innovations of our modern EMM technology. 
+ Circumstances outside our control could pose a threat to our intellectual property rights. For example, effective intellectual property protection may not be available outside the United States. Also, the efforts we have taken to protect our proprietary rights may not be sufficient or effective.
+ Companies in the mobile and other technology industries or non-practicing entities may own large numbers of patents, copyrights and trademarks and may frequently request license agreements, threaten litigation or file suit against us based on allegations of infringement or other violations of intellectual property rights. We have faced, and expect to face in the future, suits or allegations that we have infringed the trademarks, copyrights, patents and other intellectual property rights of third parties, including those of our competitors and non-practicing entities. As we face increasing competition and as our business grows, we will likely face more claims of infringement. 
+ Employees
+ As of December 31, 2016, we had 854 full-time employees, 332 of whom were primarily engaged in research and development, 288 of whom were primarily engaged in sales and marketing, 144 of whom were primarily engaged in customer success and 90 of whom were primarily engaged in administration and finance. 357 of these employees were located outside of the United States. In addition, as of December 31, 2016, we had 53 contractors. None of our United States employees are represented by a labor organization or are party to any collective bargaining arrangement. Employees in certain European countries have the benefits of collective bargaining arrangements at the national level. We have never had a work stoppage, and we consider our relationship with our employees to be good. 
+ Segment and Geographic information
+ We conduct business globally. Our chief operating decision maker (Chief Executive Officer) reviews financial information presented on a consolidated basis accompanied by information about revenue by geographic region for purposes of allocating resources and evaluating financial performance. We have one business activity, and there are no segment managers who are held accountable for operations, operating results or plans for levels, components or types of products or services below the consolidated company level. Accordingly, we are considered to be a single reportable segment and operating unit structure.
+
+ 
+  8
+
+ 
+
+ Revenue by geographic region based on the billing address was as follows: 
+
+ | Year Ended December 31,
+(in thousands) | 2016 | | 2015 | | 2014 
+Revenue | | | | | | | 
+United States | $ | 77,039 | | $ | 74,235 | $ | 72,124 
+International | | 86,887 | | | 75,063 | | 60,171 
+Total | $ | 163,926 | | $ | 149,298 | $ | 132,295
+
+      $1.3 million and $1.4 million, or 24% and 22%, as of December 31, 2016 and December 31, 2015, respectively, of our net Property and Equipment was attributable to our operations located in India. Substantially all other long-lived assets were attributable to operations in the United States
+ Facilities 
+ Our principal executive offices are located in Mountain View, California and include three buildings totaling approximately 94,000 square feet under leases expiring from June 2017 to April 2023. We have additional office locations throughout the United States and in various international locations, including offices in the United Kingdom, Netherlands, Germany, Japan, Singapore and India. 
+ We may add new facilities or expand existing facilities as we add employees, and we believe that suitable additional or substitute space will be available on commercially reasonable terms to meet our future needs. 
+ Legal Proceedings
+ On May 1, 2015, a purported stockholder class action lawsuit was filed in the United States District Court for the Northern District of California against the Company and certain of its officers, captioned Panjwani v. MobileIron, Inc., et al. The action was purportedly brought on behalf of a putative class of all persons who purchased or otherwise acquired the Company’s securities between February 13, 2015 and April 22, 2015. It asserted claims for violation of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934.The complaint sought, among other things, compensatory damages and attorney’s fees and costs on behalf of the putative class.  An amended complaint was filed on September 28, 2015. On February 22, 2016, the District Court issued an order granting MobileIron’s motion to dismiss the amended complaint and on March 15, 2016 the Court dismissed the case. MobileIron paid no money to the plaintiffs or their attorneys in connection with the dismissal of the action.
+     On August 5, 2015, August 21, 2015 and August 24, 2015, purported stockholder class action lawsuits were filed in the Superior Court of California, Santa Clara County against the Company, certain of its officers, directors, underwriters and investors, captioned Schneider v. MobileIron, Inc., et al., Kerley v. MobileIron, Inc., et al. and Steinberg v. MobileIron, Inc., et al, which were subsequently consolidated under the case caption In re MobileIron Shareholder Litigation. The actions are purportedly brought on behalf of a putative class of all persons who purchased the Company’s securities issued pursuant or traceable to the Company’s registration statement and the June 12, 2014 initial public offering. The lawsuits assert claims for violations of Sections 11, 12(a)(2) and 15 of the Securities Act of 1933. The complaint seeks among other things, compensatory damages and attorney’s fees and costs on behalf of the putative class. On April 12, 2016, Plaintiffs filed a corrected consolidated complaint, which no longer names the underwriters or investors as defendants. On August 8, 2016 the Company filed a demurrer to the corrected consolidated complaint.  The court overruled the demurrer on October 4, 2016. The Company intends to defend this litigation vigorously.
+     We continually evaluate uncertainties associated with litigation and record a charge equal to at least the minimum estimated liability for a loss contingency when both of the following conditions are met: (i) information available prior to issuance of the financial statements indicates that it is probable that a liability has been incurred at the date of the financial statements and (ii) the loss or range of loss can be reasonably estimated. If we determine that a loss is possible and a range of the loss can be reasonably estimated, we disclose the range of the possible loss in the Notes to the Consolidated Financial Statements. We evaluate, on a quarterly basis, developments in our legal matters that could affect the amount of liability that has been previously accrued, if any, and the matters and related ranges of possible 
+
+ 
+  9
+
+ 
+losses disclosed, and make adjustments and changes to our disclosures as appropriate. Significant judgment is required to determine both likelihood of there being and the estimated amount of a loss related to such matters. Until the final resolution of such matters, there may be an exposure to loss, and such amounts could be material. An estimate of a reasonably possible loss (or a range of loss) cannot be made in our lawsuits at this time.
+     Indemnification
+ Under the indemnification provisions of our standard sales related contracts, we agree to defend and/or settle claims brought by third parties against our customers alleging that the customer’s use of our software infringes the third party’s intellectual property right, such as a patent right. These indemnification obligations are typically not subject to limitation; however if it is commercially impractical for us to either procure the right for the customer to continue to use our software or modify our software so that it’s not infringing, we typically can terminate the customer agreement and refund the customer a portion of the license fees paid, prorated over the three year period from initial delivery. We also on occasion indemnify our customers for other types of third party claims. In addition, we indemnify our officers, directors, and certain key employees while they are serving in such capacities in good faith. Through December 31, 2016, we have not received any material written claim for indemnification. Corporate Information 
+ Our principal executive offices are located at 415 East Middlefield Road, Mountain View, CA 94043, and our telephone number is (650) 919-8100. Our website is www.mobileiron.com. The information posted on our website is not incorporated into this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. 
+ You may also access all of our public filings through the SEC's website at www.sec.gov. Further, a copy of this Annual Report on Form 10-K is located at the SEC's Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330. 
+
+
+ 
+  10
+
+ 
+

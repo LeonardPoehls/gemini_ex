@@ -1,0 +1,264 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+﻿ | 
+--------+---------
+﻿ | 
+Item 1. | Business
+
+  ﻿
+ General
+ ﻿
+ AVX Corporation (together with its consolidated subsidiaries, “AVX” or the “Company”) is a leading worldwide manufacturer, supplier, and reseller of a broad line of passive electronic components, interconnect devices, and related products. Virtually all types of electronic devices use our passive component products to store, filter, or regulate electric energy.
+ ﻿
+ Our passive electronic component products include ceramic and tantalum capacitors, film capacitors, varistors, filters, and other components manufactured in our facilities throughout the world and passive components manufactured by Kyocera Corporation of Japan (“Kyocera”), a public company and our majority stockholder which owns approximately 73% of our outstanding common stock, and other manufacturing suppliers. We also manufacture and sell electronic connectors and inter-connect systems, and distribute and sell certain electronic connectors manufactured by Kyocera and others.  
+ ﻿
+ We are organized by product line with five main product groups: Ceramic Components, Tantalum Components, Advanced Components, Interconnect, and Kyocera Electronic Devices (“KED Resale”). Our reportable segments are based on the types of products from which we generate revenues and how management assesses performance and makes operating decisions related to these products. We have three reportable segments: Passive Components, KED Resale, and Interconnect. The product groups of Ceramic Components, Advanced Components and Tantalum Components have been aggregated into the Passive Components reportable segment. Segment revenue and profit information is presented in Note 15 to the consolidated financial statements. The Passive Components segment consists primarily of surface mount and leaded ceramic capacitors, RF thick and thin film components, surface mount and leaded tantalum capacitors, surface mount and leaded film capacitors, ceramic and film power capacitors, super capacitors, EMI filters (bolt in and surface mount), thick and thin film packages of multiple passive integrated components, varistors, thermistors, inductors, and resistive products manufactured by, or for, AVX. The KED Resale segment consists primarily of ceramic capacitors, frequency control devices, SAW devices, sensor products, RF modules, actuators, acoustic devices, and connectors produced by Kyocera and resold by AVX. The Interconnect segment consists primarily of AVX Interconnect automotive, telecommunications, and memory connectors manufactured, by or for, AVX. In addition, we have a corporate administration group consisting of finance, legal, environmental health and safety (“EHS”), and other administrative activities.  
+ ﻿
+ Our customers are multi-national original equipment manufacturers, or OEMs, independent electronic component distributors, and electronic manufacturing service providers, or EMSs. We market our products through our own direct sales force and independent manufacturers' representatives, based upon market characteristics and demands. We coordinate our sales, marketing, and manufacturing organizations by strategic customer account and globally by region.
+ ﻿
+ We sell our products to customers in a broad array of industries, such as telecommunications, information technology hardware, automotive electronics, medical devices and instrumentation, industrial instrumentation, transportation, energy harvesting, defense and aerospace electronic systems, and consumer electronics.
+ ﻿
+ Our principal strategic advantages include:
+ ﻿
+ Creating Technology Leadership. We have research and development locations in the United States, United Kingdom, Czech Republic, France, Israel, Malaysia, and Japan, although a certain level of innovation occurs at every one of our manufacturing sites. We developed numerous new products and product extensions during fiscal 2017. These new products add to the broad product line we offer to our customers. Due to our broad product offering, none of our products individually represents a material portion of our revenues. Our scientists and design engineers are working to develop product solutions to the challenges facing our customers as consumers and businesses demand more advanced electronic solutions to manage their everyday lives and businesses. Our engineers are continually working to enhance our manufacturing processes to improve capability, capacity, and yield, while reducing manufacturing costs.
+ ﻿
+ Providing a Broad Product Line. We believe that the breadth and quality of our product line and our ability to respond quickly to our customers’ design and delivery requirements make us the provider of choice for our multi-national customer base. We differentiate ourselves by providing our customers with a substantially complete line of passive component solutions. This broad array of products allows our customers to streamline their purchasing and supply organization.
+ ﻿
+
+
+ 
+5
+
+Maintaining the Lowest Cost, Highest Quality Manufacturing Organization. We have invested approximately $141 million over the past three fiscal years to upgrade and enhance our worldwide manufacturing capabilities with respect to the manufacture of ceramic, tantalum, and advanced components as well as Interconnect devices. In order to reduce the cost of production, our strategy has included the transfer to and expansion of manufacturing operations in countries such as El Salvador, Malaysia, Mexico, China and the Czech Republic.    ﻿
+ Globally Coordinating our Marketing, Distribution, and Manufacturing Facilities. We believe that our global presence is an important competitive advantage as it allows us to provide quality products on a timely basis to our multi-national customers. We provide enhanced services and responsiveness to our customers by maintaining significant manufacturing operations in locations where we market the majority of our products. Our 20 manufacturing facilities are located in 11 different countries around the world. As our customers continue to expand their global production capabilities, we are ideally situated to meet their design and supply requirements.    ﻿
+ Products
+ ﻿
+ We offer an extensive line of passive components. Passive components do not require power to operate. Passive components adjust and regulate voltage and current, store energy, and filter frequencies. Sales of Passive Components represented approximately 67% of our net sales in fiscal 2017. KDP and KCD Resale represented approximately 22%, and Interconnect products, together with KCP Resale Connectors, represented approximately 11% of our net sales in fiscal 2017. The table below presents revenues for fiscal 2015, 2016 and 2017 by product group. Financial information concerning our Passive Components, KED Resale, and Interconnect segments is set forth in Note 15 to the consolidated financial statements elsewhere herein.
+ ﻿
+ ﻿
+ ﻿
+
+﻿ | | | | | | | 
+-----------------------------+-----------------------------+-----------+------+---+-----------+---+----------
+﻿ | | | | | | | 
+﻿ | Fiscal Year Ended March 31,
+Sales revenue (in thousands) | 2015 | | 2016 | | 2017 
+Ceramic Components | $ | 202,719 | | $ | 176,502 | $ | 188,568 
+Tantalum Components | | 355,974 | | | 311,888 | | 314,723 
+Advanced Components | | 359,315 | | | 333,693 | | 372,279 
+Total Passive Components | | 918,008 | | | 822,083 | | 875,570 
+Interconnect | | 134,610 | | | 111,609 | | 118,163 
+KCP Resale Connectors | | 70,741 | | | 23,751 | | 30,027 
+KDP and KCD Resale | | 229,869 | | | 238,086 | | 288,901 
+Total KED Resale | | 300,610 | | | 261,837 | | 318,928 
+Total Revenue | $ | 1,353,228 | | $ | 1,195,529 | $ | 1,312,661
+﻿ | | | | | | | 
+
+  ﻿
+ ﻿
+ Passive Components
+ ﻿
+ We manufacture and resell a full line of multi-layered ceramic and tantalum electrolytic capacitors in many different sizes and configurations. Our strategic focus on the growing use of passive components is reflected in our investment of approximately $109 million in facilities and equipment used to manufacture passive components during the past three fiscal years. Passive components accounted for approximately 67% of our net sales in fiscal 2017. We believe that sales of passive components will continue to expand in the worldwide electronics market because technological advances have been constantly expanding the number and type of applications for these products.
+ ﻿
+ Tantalum and Ceramic components are commonly used in conjunction with integrated circuits and are best suited for applications requiring low to medium capacitance values. However, with current capacitance range extensions, we are seeing more demand for higher capacitance (“High CV”) products that increase the demand for products we sell.  Capacitance is the measure of the capacitor's ability to store electric energy. Generally, ceramic capacitors are more cost-effective at lower capacitance values, and tantalum capacitors are more cost-effective at medium capacitance values. The net sales of tantalum and ceramic capacitors accounted for approximately 57% of our passive component net sales in fiscal 2017.
+ ﻿
+
+
+ 
+6
+
+We also offer a broad line of advanced passive component products to fill the special needs of our customers. Our family of advanced passive components includes film capacitors, high energy/voltage power capacitors, and varistors. Our advanced product engineers work with some customers’ in-house technical staffs to design and manufacture customized products to meet the specifications of particular applications. The manufacture of custom products permits us, through our research and development activities, to make technological advances, provide customers with design solutions to fit their needs, gain a marketing inroad with customers with respect to our complete product line, and, in some cases, develop products that can be sold to additional customers in the future. Sales of advanced products accounted for approximately 43% of passive component net sales in fiscal 2017.
+ ﻿
+ Interconnect
+ ﻿
+ We manufacture and resell high-quality electronic connectors and interconnect systems for use in various industries. Our product lines include a variety of industry-standard connectors as well as products designed specifically for our customers' unique applications. An expanding portion of the electronics market for AVX Interconnect products is the automotive market, with applications throughout a vehicle, including engine control, transmission control, audio, brakes, and stability and safety control systems. We produce fine pitch connectors used in portable devices such as smart phones, other cell phones, notebook computers, tablets, GPS, and other hand held devices. In addition, we offer specialty connectors designed to address customer specific applications across a wide range of products and end markets, including the expanding LED, LCD, and medical devices and hardware markets. We have invested approximately $28 million in facilities and equipment over the past three years, as we continue to focus on new product development and enhancement of production capabilities for our Interconnect business.  Sales of Interconnect products, including KCP Resale connector products, accounted for approximately 11% of net sales in fiscal 2017.  Approximately 20% of combined Interconnect and KCP Resale Connector net sales in fiscal 2017 consisted of connectors manufactured by Kyocera. Kyocera notified AVX in February 2014 of its intent, effective April 1, 2015 to market its connector products in Asia using Kyocera’s sales force rather than continuing to have AVX resell such products in Asia. AVX’s sales of Kyocera connector products in Asia were $1.1 million for the fiscal year ended March 31, 2016. For additional information regarding the Company’s relationship with Kyocera see “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Relationship with Kyocera and Related Transactions.”
+ ﻿
+ KED Resale
+ ﻿
+ We have a non-exclusive license to distribute and sell select Kyocera-manufactured electronic component and connector products to our customers in certain geographical regions outside of Japan. The Kyocera KDP, KCP and KCD electronic components we market and sell include ceramic capacitors, RF modules, frequency control devices, SAW devices, sensor products, actuators, and acoustic devices. Sales of these products accounted for approximately 24% of net sales in fiscal 2017. For additional information regarding the Company’s relationship with Kyocera see “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Relationship with Kyocera and Related Transactions.”
+ ﻿
+ AVX and Kyocera – Resale Sales Channel Changes
+ ﻿
+ Kyocera notified AVX pursuant to the Products Supply and Distribution Agreement in December 2016 of its intent, effective January 1, 2018, to market its manufactured passive and interconnect products globally using Kyocera’s sales force rather than continuing to have AVX resell such products in the Americas, Europe and Asia. Kyocera will pay commissions to AVX on sales by Kyocera, in the applicable territories, of products designed into customer applications by AVX prior to January 1, 2018 of 2.0% in calendar year 2018, 1.5% in calendar year 2019, and 1.0% in calendar year 2020. Sales of Kyocera resale products by AVX were $318.9 million and related operating profit was $17.1 million for the fiscal year ended March 31, 2017. 
+ ﻿
+ AVX notified Kyocera pursuant to the Products Supply and Distribution Agreement in February 2017 of its intent, effective April 1, 2018, to market its manufactured products in Japan using AVX’s sales force rather than continuing to have Kyocera resell such products in this territory. AVX will pay commissions to Kyocera on sales by AVX, in the applicable territory, of products designed into customer applications by Kyocera prior to April 1, 2018 of 2.0% in fiscal year 2019, 1.5% in fiscal year 2020, and 1.0% in fiscal year 2021. Sales of AVX resale products by Kyocera were $25.9 million for the fiscal year ended March 31, 2017.
+ ﻿
+
+
+ 
+7
+
+Marketing, Sales, and Distribution
+ ﻿
+ We place a high priority on solving customers’ electronic component design challenges and responding to their needs. In order to better serve our customers, we frequently designate teams consisting of marketing, field application engineering, research and development, and manufacturing personnel to work with customers to design and manufacture products to suit their specific requirements. We expense costs related to these activities as incurred.
+ ﻿
+ Approximately 29%, 27%, and 44% of our net sales for fiscal 2017 were to our customers in the Americas, Europe, and Asia, respectively. Financial information for these geographic regions is set forth in Note 15 to our consolidated financial statements elsewhere herein. The section “Risk Factors,” contained herein, provides a discussion of risks associated with our foreign operations.    ﻿
+ We market our products worldwide through our own dedicated direct sales personnel that serve our major OEM and EMS customers. We also have a large network of independent electronic component distributors and independent manufacturers’ representatives who sell our products throughout the world. We have regional sales and design application personnel in strategic locations to provide technical and sales support for these independent manufacturers’ representatives and independent electronic component distributors. We believe that this combination of sales channels provides a high level of market penetration and efficient coverage of our customers on a cost-effective basis.
+ ﻿
+ Our customers use our products in a wide variety of applications. In order to maximize opportunities, our engineering and sales teams maintain close relationships with OEM, EMS, and electronic component distributor customers.  Our largest customers may vary from year to year, and no customer has a long-term commitment to purchase our products.  During the fiscal years ended March 31, 2015, March 31, 2016 and March 31, 2017, no single customer accounted for more than 10% of our sales. As of March 31, 2016 and March 31, 2017, one customer represented 13% and 12%, respectively, of the Company’s accounts receivable balance. Because we are a supplier to several significant manufacturers in the broad-based electronic devices industries and because of the cyclical nature of these industries, the significance of any one customer can vary from one period to the next.
+ ﻿
+ We also have qualified products under various specifications approved and monitored by the United States Defense Electronic Supply Center (“DSCC”) and European Space Agency (“ESA”), and approved under certain foreign military specifications.
+ ﻿
+ Typically, independent electronic component distributors handle a wide variety of products and fill orders for many customers. The sales terms under non-exclusive agreements with independent electronic component distributors may vary by distributor and by geographic region. In the United States, Europe, and Asia, such agreements may include stock rotation and ship-from-stock and debit (“ship and debit”) programs. Stock rotation is a program whereby distributors are allowed to return qualified inventory semi-annually, for credit equal to a certain percentage, primarily limited to 5%, of the previous six months’ net sales. In the United States, we may use a ship and debit program under which we may grant pricing adjustments to assist distributors in meeting competitive prices in the marketplace on sales to their end customers. Ship and debit programs require a request from the distributor for a pricing adjustment for a specific part of a sale to the distributor’s end customer from the distributor’s stock. In addition, certain agreements with distributors may include special incentive discounts based on the amount of product ordered or shipped. Our agreements with independent electronic component distributors generally also require that we repurchase qualified inventory from the distributor in the event that we terminate the distributor agreement or discontinue a product offering.  
+ ﻿
+ We had a backlog of orders of approximately $228 million at March 31, 2015, $224 million at March 31, 2016, and $280 million at March 31, 2017. Firm orders, primarily with delivery dates within six months of order placement, are included in backlog. Many of our customers encounter uncertain and changing demand for their products. Customer-provided forecasts of product usage and anticipated usage of inventory at consignment locations are not included in backlog. If demand falls below customers’ forecasts, or if customers do not effectively control their inventory, they may cancel or reschedule their planned shipments that are included in our backlog, in many instances without any penalty. Backlog fluctuates from year to year due, in part, to changes in customer inventory levels, changes to consignment inventory arrangements, order patterns, and product delivery lead times in the industry. Accordingly, the backlog outstanding at any point in time is not necessarily indicative of the level of business expected in any ensuing period since many orders are placed and delivered within the same period. In addition, the increased use of vendor-managed inventory and similar consignment type arrangements tend to limit the significance of backlog as future use and sale of such inventory is not typically reflected in backlog.
+ ﻿
+
+
+ 
+8
+
+Research, Development, and Engineering
+ ﻿
+ Our emphasis on research and development is evidenced by the fact that most of our manufactured products and manufacturing processes have been designed and developed by our own engineers and scientists. Our research and development activities are carried out at facilities located in the United States, United Kingdom, Czech Republic, France, Israel, Malaysia, and Japan, although a certain level of innovation occurs at every one of our manufacturing sites.
+ ﻿
+ Our research and development effort and our operational-level engineering effort place a priority on the design and development of product extensions, innovative new products, and improved manufacturing processes as well as engineering advances in existing product lines and manufacturing operations. Other areas of emphasis include material synthesis and the integration of passive components for applications requiring reduced size and lower manufacturing costs associated with circuit board assembly. Research, development, and engineering expenditures were approximately $25 million, $28 million, and $31 million during fiscal 2015, 2016, and 2017, respectively. The level of such spending can fluctuate as new products are transferred to full-scale production and process enhancements are implemented.
+ ﻿
+ We own United States patents as well as corresponding patents in various other countries, and also have patent applications pending, although patents are not individually material to the successful operation of our business. For discussion regarding our licensing arrangement with Kyocera, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Relationship with Kyocera and Related Transactions.”
+ ﻿
+ Raw Materials
+ ﻿
+ The costs of our products are influenced by a wide variety of raw materials, including tantalum and other metals such as platinum, palladium, silver, nickel, gold, and copper used in our manufacturing processes. The costs of these materials are subject to significant price fluctuation. In some cases, raw materials cost increases may be offset by selling price increases, productivity improvements, and cost savings programs.
+ ﻿
+ We are a major consumer of the world’s annual production of tantalum. Tantalum powder and wire are principal materials used in the manufacture of tantalum capacitor products. We purchase tantalum raw materials as well as processed powder and wire from suppliers in various parts of the world at prices that are subject to periodic adjustment and variations in the market. The tantalum required to manufacture our products has generally been available in sufficient quantity. The limited number of tantalum material suppliers that process tantalum ore into capacitor-grade tantalum powder has, at times, led to higher prices during periods of increased demand and/or limited mining output.  
+ ﻿
+ Although most materials incorporated in our products are available from a number of sources, certain materials are available only from a relatively limited number of suppliers. Historically, we had a policy of not using tantalum sourced from the Democratic Republic of Congo (“DRC”), or any other area in which insurgents or similar groups benefit from the sale of minerals. As a key participant in Solutions for Hope, AVX was the first in its industry to validate a “closed tantalum pipe” process from the mine site to the customer. Furthermore, the “closed pipe” was validated under the Conflict-Free Smelter program in accordance with the principles of the Dodd-Frank legislation and the current Organization for Economic Cooperation and Development (“OECD”) guidelines. During 2016 and in the spirit of continuous improvement envisioned and enshrined by the OECD Due Diligence guidance, AVX continues to improve supply chain sustainability and reduce compliance cost by field-testing a new alternate traceability platform (“BSP”) and proof of concept of a geological science technique for mineral matching (Geological Passporting) in region. The result of the BSP pilot demonstrated that a new cost model is possible using technology for the reporting, analysis, chain of custody and Geo Passporting for validation. Please refer to the Solutions for Hope website for more information.
+ ﻿
+ Since December 2011, AVX has only sourced tantalum powder and wire used in its tantalum capacitors from smelters that are compliant with the EICC/GeSI conflict-free smelter program. In 2012, AVX began using Validated Conflict-Free Tantalum, which comes from verified sources in the DRC and surrounding countries.
+ ﻿
+ Our continued efforts affirm our commitment to supply conflict-free minerals to our customers and to comply fully with the OECD guidelines and United States Securities and Exchange Commission (“SEC”) regulations. 
+ ﻿
+
+
+ 
+9
+
+Competition
+ ﻿
+ Markets for our products are highly competitive. We encounter aggressive and able competition in our various product lines from both domestic and foreign manufacturers. Competitive factors in the markets include product quality and reliability, breadth of product line, customer service, technological innovation, global production presence, timely delivery, and price. We believe we are competitively positioned on each of these factors. The breadth of our product offering enables us to strengthen our market position by providing customers with one of the broadest selections of passive electronic components and interconnect products available from any one source. Our major competitors for passive electronic components include Murata
+ Manufacturing Co. Ltd., TDK Corporation, Kemet Corporation, Yageo Corporation, Taiyo Yuden Co. Ltd., Samsung Electronics, and Vishay Intertechnology, Inc. Our major competitors for certain electronic interconnect products include TE Connectivity, Amphenol Corporation, Molex Incorporated, and Delphi Connection Systems. Many other companies produce products in the markets in which we compete.
+ ﻿
+ Employees
+ ﻿
+ As of March 31, 2017, we employed approximately 10,800 full-time employees. Approximately 1,370 of these employees are employed in the United States, of which, approximately 220 are covered by collective-bargaining arrangements.  In addition, some foreign employees are members of trade and government-affiliated unions. Our relationship with our employee union groups is generally good. However, no assurance can be given that, in response to changing social and economic conditions and our actions, labor unrest or strikes will not occur.  
+ ﻿
+ Environmental Matters
+ ﻿
+ We are subject to federal, state, and local laws and regulations concerning the environment in the United States and to the environmental laws and regulations of the other countries in which we operate. These regulations include limitations on discharges into air and water; remediation requirements; chemical use and handling restrictions; pollution control requirements; waste minimization considerations; and hazardous materials transportation, treatment, and disposal restrictions. If we fail to comply with any of the applicable environmental regulations, we may be subject to fines, suspension of production, alteration of our manufacturing processes, sales limitations, and criminal and civil liabilities. Existing or future regulations could require us to procure expensive pollution abatement or remediation equipment, to modify product designs, or to incur expenses to comply with environmental regulations. Any failure to control the use, disposal, or storage, or to adequately restrict the discharge of hazardous substances, could subject us to future liabilities and could have a material adverse effect on our business. Based on our periodic reviews of the operating policies and practices at all of our facilities, we believe that our operations are currently in compliance with applicable environmental laws and regulations.    ﻿
+ We have been identified by the United States Environmental Protection Agency (“EPA”), state governmental agencies or other private parties as a potentially responsible party (“PRP”) under the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), or equivalent state or local laws, for clean-up and response costs associated with certain sites at which remediation is required with respect to prior contamination.  Because CERCLA and such state statutes authorize joint and several liability, the EPA or state regulatory authorities could seek to recover all clean-up costs from any one of the PRPs at a site despite the involvement of other PRPs.  At certain sites, financially responsible PRPs other than AVX also are, or have been, involved in site investigation and clean-up activities.  We believe that liability resulting from these sites would be apportioned between AVX and other PRPs.
+ ﻿
+ To resolve our liability at the sites at which we have been named a PRP, we have entered into various administrative orders and consent decrees with federal and state regulatory agencies governing the timing and nature of investigation and remediation.  As is customary, the orders and decrees regarding sites where the PRPs are not themselves implementing the chosen remedy contain provisions allowing the EPA to reopen the agreement and seek additional amounts from settling PRPs in the event that certain contingencies occur, such as the discovery of significant new information about site conditions.
+ ﻿
+ On October 10, 2012, the EPA, the United States, and the Commonwealth of Massachusetts and AVX announced that they had reached a financial settlement with respect to the EPA’s ongoing clean-up of the New Bedford Harbor in the Commonwealth of Massachusetts (the “harbor”). Under the terms of the settlement, AVX was obligated to pay $366.3 million, plus interest computed from August 1, 2012, in three installments over a two-year period for use by the EPA and the Commonwealth to complete the clean-up of the harbor. On May 26, 2015, we prepaid the third and final settlement installment of $122.1 million, plus interest of $1.1 million. 
+
+
+ 
+10
+
+On June 3, 2010, AVX entered into an agreement with the EPA and the City of New Bedford, pursuant to which AVX is required to perform environmental remediation at a site referred to as the “Aerovox Site” (the “Site”), located in New Bedford, Massachusetts. AVX has substantially completed its obligations pursuant to such agreement with the EPA and the City of New Bedford with respect to the satisfaction of AVX’s federal law requirements. Agreements with the state regulatory authorities are not concluded yet but are likely to include additional groundwater and soil remediation. We have a remaining accrual of $15.1 million at March 31, 2017, representing our estimate, including a $3.6 million charge in the current fiscal year, of the potential liability related to the remaining performance of environmental remediation actions at the Site and neighboring properties using certain assumptions regarding the plan of remediation. Since additional sampling and analysis may cause the state regulatory authority, the Massachusetts Department of Environmental Protection, to require a more extensive and costly plan of remediation, until all parties agree and remediation is complete, we cannot be certain there will be no additional cost relating to the Site.
+ ﻿
+ We had total reserves of approximately $16.8 million and $19.2 million at March 31, 2016 and March 31, 2017, respectively, related to various environmental matters and sites, including those discussed above. These reserves are classified in the Consolidated Balance Sheets as $7.4 million and $3.9 million in accrued expenses at March 31, 2016 and March 31, 2017, respectively, and $9.4 million and $15.3 million in other non-current liabilities at March 31, 2016 and March 31, 2017, respectively. The amounts recorded for identified environmental liabilities are based on estimates. Periodically we review amounts recorded and adjust them to reflect additional legal and technical information that becomes available. Uncertainties about the status of laws, regulations, regulatory actions, technology, and information related to individual sites make it difficult to develop an estimate of the reasonably possible aggregate environmental remediation exposure. Accordingly, these costs could differ from our current estimates.     ﻿
+ On April 19, 2016, the Canadian Ministry of the Environment and Climate Change (the “MoE”) issued a Director’s Order naming AVX, and others, as responsible parties with respect to a location in Hamilton, Ontario that was at one time the site of operations of Aerovox Canada, a former subsidiary of Aerovox Corporation, a predecessor of AVX. This Director’s Order follows a draft order issued on November 4, 2015. AVX has taken the position that any liability of Aerovox Canada for such site under the laws of Canada cannot be imposed on AVX. At present, it is unclear whether the MoE will seek to enforce such Canadian order against AVX, and whether, in the event it does so, AVX will have any liability under applicable law. AVX intends to contest any such course of action that may be taken by the MoE.
+ ﻿
+ We also operate, or did at one time, on other sites that may have potential future environmental issues as a result of activities at sites during AVX’s long history of manufacturing operations or prior to the start of operations by AVX. Even though we may have rights of indemnity for such environmental matters at certain sites, regulatory agencies in those jurisdictions may require us to address such issues. Once it becomes probable that we will incur costs in connection with remediation of a site and such costs can be reasonably estimated, we establish reserves or adjust our reserves for our projected share of these costs. A separate account receivable is recorded for any indemnified costs. Our environmental reserves are not discounted and do not reflect any possible future insurance recoveries, which are not expected to be significant, but do reflect a reasonable estimate of cost sharing at multiple party sites or indemnification of our liability by a third party. 
+ ﻿
+ We are not involved in any pending or threatened environmental proceedings that would require curtailment of our operations. We continually expend funds to ensure that our facilities comply with applicable environmental regulations. While we believe that we are in compliance with applicable environmental laws, we cannot accurately predict future developments and do not necessarily have knowledge of all past occurrences on sites that we currently occupy. New environmental regulations may be enacted and we cannot determine the modifications, if any, in our operations that any such future regulations might require, or the cost of compliance with such regulations. Moreover, the risk of environmental liability and remediation costs is inherent in the nature of our business and, therefore, there can be no assurance that material environmental costs, including remediation costs, will not arise in the future.
+ ﻿
+ Company Information and Website 
+ ﻿
+ We file annual, quarterly, and current reports, proxy statements, and other documents with the SEC under the Securities Exchange Act of 1934 (the “Exchange Act”). The public may read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet website that contains reports, proxy and information statements, and other information regarding issuers, including us, that file electronically with the SEC. The public can obtain any documents that we file with the SEC at http://www.sec.gov.
+ ﻿
+
+
+ 
+11
+
+In addition, our Company website can be found on the Internet at www.avx.com. Copies of each of our filings with the SEC on Form 10-K, Form 10-Q, and Form 8-K, and all amendments to those reports, can be viewed and downloaded free of charge as soon as reasonably practicable after the reports and amendments are electronically filed with or furnished to the SEC. To view the reports from our website, go to “Investors,” then to “Financial Reports.”
+ ﻿
+ The following corporate governance related documents are also available free on our website:
+ ﻿
+
+· | Code of Business Conduct and Ethics
+--+------------------------------------
+
+
+· | Code of Business Conduct and Ethics Supplement Applicable to the Chief Executive Officer, Chief Financial Officer, Controllers and Financial Managers
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Corporate Governance Guidelines
+--+--------------------------------
+
+
+· | Audit Committee Charter
+--+------------------------
+
+
+· | Compensation Committee Charter
+--+-------------------------------
+
+
+· | Special Advisory Committee Charter
+--+-----------------------------------
+
+
+· | Contact the Board – Whistleblower and Ethics Hotline Procedures
+--+----------------------------------------------------------------
+
+  ﻿
+ To review these documents, go to our website and select “About,” followed by “Corporate Information,” and then “Corporate Governance.”
+ ﻿
+ Executive Officers of the Registrant
+ ﻿
+ Our executive officers are appointed annually by our Board of Directors or, in some cases, appointed in accordance with our bylaws. Each officer holds office until the next annual appointment of officers or until a successor has been duly appointed and qualified, or until the officer’s death or resignation, or until the officer has otherwise been removed in accordance with our bylaws. The following table provides certain information regarding the current executive officers of the Company:
+ ﻿
+
+﻿ | | 
+---------------------------------------+-----+-----------------------------------------------------------------
+Name | Age | Position 
+John Sarvis........................... | 67 | Chief Executive Officer and President 
+John Lawing......................... | 66 | Senior Vice President and Chief Technology Officer 
+Kurt P. Cummings................. | 61 | Executive Vice President, Chief Financial Officer, and Treasurer
+Evan Slavitt......................... | 59 | Senior Vice President, General Counsel, and Secretary 
+Kathleen M. Kelly................. | 63 | Senior Vice President of Human Resources 
+Keith Thomas....................... | 62 | Senior Vice President of Corporate Development 
+Peter Venuto......................... | 64 | Senior Vice President of Sales 
+S. Willing King..................... | 54 | Senior Vice President of Tantalum Products 
+
+  ﻿
+ John Sarvis
+ ﻿
+ Chief Executive Officer and President since April 2015. Chairman of the Board since 2016. Vice President of Ceramic Products from 2005 to 2015. Divisional Vice President – Ceramics Division from 1998 to 2005. Prior to 1998, held various Marketing and Operational positions. Employed by the Company since 1973.
+ ﻿
+ John Lawing
+ ﻿
+ Senior Vice President and Chief Technology Officer since 2015. Vice President and Chief Technology Officer from April 2014 to 2015. President and Chief Operating Officer from 2013 to March 2014. Vice President of Advanced Products from 2005 to April 2013. Divisional Vice President of Advanced Products from 2002 to 2005 and Divisional Vice President of Leaded Products from 1997 to 2002. Prior to 1997, held positions in Engineering, Technical, Operational, and Plant management. Employed by the Company since 1981.    ﻿ Kurt P. Cummings
+ ﻿
+ Executive Vice President since 2016. Chief Financial Officer and Treasurer since 2000. Senior Vice President from 2015 to 2016. Vice President from 2000 to 2015.  Secretary from 1997 to 2016.  Corporate Controller from 1992 to 2000.  Prior to 1992, Partner with Deloitte & Touche LLP.
+ ﻿
+
+
+ 
+12
+
+Evan Slavitt
+ Senior Vice President, General Counsel and Secretary since 2016. Vice President of Business and Legal Affairs from 2007 to 2016. Trial lawyer in private practice in Massachusetts from 1987 to 2006. Assistant United States Attorney for the District of Massachusetts from 1983 to 1987. Trial Attorney with the Antitrust Division of the U.S. Department of Justice from 1981 to 1983.
+ ﻿
+ Kathleen M. Kelly
+ ﻿
+ Senior Vice President of Human Resources since 2015. Vice President of Human Resources from 2010 to 2015. Vice President of Administration from 2007 to 2010. Prior to the acquisition of American Technical Ceramics by the Company in 2007, served as Vice President – Administration and as Corporate Secretary of American Technical Ceramics from November 1989.
+ ﻿
+ Keith Thomas
+ ﻿
+ Senior Vice President of Corporate Development since 2016. Senior Vice President of Kyocera Electronic Devices from 2015 to 2016. President of Kyocera Electronic Devices from 2004 to 2016. Vice President of Kyocera Developed Products from 2001 to 2004. Divisional Vice President of Kyocera Developed Products from 1992 to 2001. Employed by the Company since 1980. 
+ ﻿
+ Peter Venuto
+ ﻿
+ Senior Vice President of Sales since 2015. Vice President of Sales from 2009 to 2015. Vice President of North American and European Sales from 2004 to 2009. Vice President of North American Sales from 2001 to 2004. Divisional Vice President of Strategic Accounts from 1998 to 2000. Director of Strategic Accounts from 1990 to 1997. Director of Business Development from 1987 to 1989. Employed by the Company since 1987.
+ ﻿
+ S. Willing King
+ ﻿
+ Senior Vice President of Tantalum Products since 2015. Vice President of Tantalum Products from 2013 to 2015. Deputy General Manager of Tantalum Products from 2012 to 2013. Vice President of Product Marketing from 2004 to 2012. Director of Product Marketing from 2000 to 2004. Prior to 2000, held positions in Technical Service, Sales, and Marketing. Employed by the Company since 1984.
+ ﻿
+ ﻿

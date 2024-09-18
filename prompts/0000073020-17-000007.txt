@@ -1,0 +1,353 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+OVERVIEW
+Northwest Natural Gas Company (NW Natural or the Company) was incorporated under the laws of Oregon in 1910. Our Company and its predecessors have supplied gas service to the public since 1859, and we have been doing business as NW Natural since 1997. We maintain operations in Oregon, Washington, and California and conduct business through NW Natural and its subsidiaries. References in this discussion to "Notes" are to the Notes to the Consolidated Financial Statements in Item 8 of this report.
+
+We have two core businesses: our regulated local gas distribution business, referred to as the utility segment, which serves residential, commercial, and industrial customers in Oregon and southwest Washington; and our gas storage businesses, referred to as the gas storage segment, which provides storage services for utilities, gas marketers, electric generators, and large industrial users from storage facilities located in Oregon and California. In addition, we have investments and other non-utility activities we aggregate and report as other. See Note 4 to the Consolidated Financial Statements for further information on total assets and results of operations for our segments for the years ended December 31, 2016, 2015 and 2014. 
+The utility business is our largest segment, while our gas storage businesses account for the majority of our remaining net income. The following table reflects the percentage allocation between segments and other as of December 31, 2016:
+
+ | | | Non-Utility(1) | | 
+ | Utility | | Gas Storage(2) | | Other | Total
+Assets | 91.1 | % | | 8.3 | % | 0.6 | % | 100.0 | %
+Net Income | 92.7 | % | | 7.3 | % | — | % | 100.0 | %
+
+
+(1) | We refer to our gas storage segment and other as non-utility as they are not included in our regulated gas distribution business; however, certain aspects of the gas storage segment and other may be regulated by the OPUC, WUTC, CPUC, or FERC.
+
+
+(2) | Our gas storage segment includes asset management services for both the utility and non-utility portion of our Mist gas storage facility.
+
+LOCAL GAS DISTRIBUTION "UTILITY"
+The utility is principally engaged in the regulated distribution of natural gas in Oregon and southwest Washington to over 725,000 customers with approximately 89% of our customers located in Oregon and 11% located in Washington. In total, we provide natural gas service to over 100 cities in 18 counties with an estimated population of 3.5 million in our service territory.
+
+
+We have been allocated an exclusive service territory by the OPUC and WUTC, which includes a major portion of western Oregon, including the Portland metropolitan area, most of the Willamette Valley, the Coastal area from Astoria to Coos Bay, and portions of Washington along the Columbia River. Portland serves as one of the largest international ports on the West Coast and is a key distribution center due to its comprehensive transportation system of ocean and river shipping, transcontinental railways and highways, and an international airport. Major businesses located in our service territory include retail, manufacturing, and high-technology industries. 
+NW Natural is deeply committed to environmental stewardship and leveraging the benefits of natural gas to support clean energy policies in the communities we serve. We are proud of distributing natural gas in an environmentally responsible manner to our customers and leading our industry on several fronts. From reducing carbon emissions in our distribution system by modernizing and removing cast iron and bare steel pipe to pioneering greater customer alignment on energy conservation through a decoupling mechanism that breaks the link between utility earnings and the quantity of natural gas sold - we have collaborated with regulators to drive environmentally responsible policies. In addition, we help our customers reduce or offset their natural gas usage through energy efficiency programs and our support of carbon-reduction biogas projects at dairies and farms.
+As Oregon transitions to a clean energy future with the elimination of coal-fired electric generation and new renewable energy standards, we believe natural gas will be critical to achieving this future. Natural gas is necessary to reliably integrate renewables, as it allows electric generation to adjust quickly when energy sources such as wind and solar fluctuate with natural variability. One example is our North Mist gas storage expansion project, which will provide no-notice gas storage services to an electric generation facility, allowing the facility to quickly draw on the storage and integrate more wind power into the electric grid. The North Mist expansion project will be considered as part of the utility since revenues will be earned under a cost of service tariff schedule with the OPUC. In addition, we plan to continue leveraging our modern system and existing infrastructure, help our customers continue reducing and offsetting their consumption, and work in our communities to replace more carbon intensive fuels.
+Customers
+We serve residential, commercial and industrial customers with no individual customer or industry accounting for more than 10% of our utility revenues. On an annual basis, residential and commercial customers typically account for 55% to 60% of our utility’s total volumes delivered and 90% of our utility’s margin. Industrial customers largely account for the remaining volumes and utility margin. The following table presents summary customer information as of December 31, 2016:
+
+
+5
+
+
+ | Number of Customers | % of Volumes | | % of Utility Margin (1)
+Residential | 656,855 | | 35 | % | 63 | %
+Commercial | 67,278 | | 21 | % | 27 | %
+Industrial | 1,013 | | 44 | % | 8 | %
+Other(1) | N/A | | N/A | | 2 | %
+Total | 725,146 | | 100 | % | 100 | %
+
+
+(1) | Utility margin is also affected by other items, including miscellaneous services, gains or losses from our gas cost incentive sharing mechanism, and other service fees.
+
+Generally, residential and commercial customers purchase both their natural gas commodity (gas sales) and natural gas delivery services (transportation services) from the utility. Industrial customers also purchase transportation services from the utility, but may buy the gas commodity either from the utility or directly from a third-party gas marketer or supplier. Our gas commodity cost is primarily a pass-through cost to customers; therefore, our profit margins are not materially affected by an industrial customer's decision to purchase gas from us or from third parties. Industrial and large commercial customers may also select between firm and interruptible service levels, with firm services generally providing higher profit margins compared to interruptible services.
+To help manage gas supplies, our industrial tariffs are designed to provide some certainty regarding industrial customers' volumes by requiring an annual service election, special charges for changes between elections, and in some cases, a minimum or maximum volume requirement before changing options. 
+Customer growth rates for natural gas utilities in the Pacific Northwest historically have been among the highest in the nation due to lower market saturation as natural gas became widely available as a residential heating source after other fuel options. We estimate natural gas is currently in approximately 60% of residential single-family dwellings in our service territory. Customer growth in our region comes from the following main sources: single-family housing, both new construction and conversions; multifamily housing new construction; and commercial buildings, both new construction and conversions. Single family new construction has consistently been our strongest performing source of growth. Over the last five years, our customer growth has recovered with the economy. Continued customer growth is closely tied to the comparative price of natural gas to electricity and fuel oil and the health of the Portland, Oregon and Vancouver, Washington economies. We believe there is potential for continued growth as natural gas is affordable, reliable, a clean fuel choice, and a preferred energy source in our service territory. See Note 4 for information on the utility's assets and results of operations.
+Competitive Conditions
+In our service areas, we have no direct competition from other natural gas distributors, but we compete with other forms of energy supply in each customer class. This competition among energy suppliers is based on price, efficiency, reliability, performance, preference, market conditions, technology, federal and state energy policy, and environmental impacts. 
+
+
+For residential and small to mid-size commercial customers, we compete primarily with providers of electricity, fuel oil, and propane.
+In the industrial and large commercial markets, we compete with all forms of energy, including competition from wholesale natural gas marketers. In addition, large industrial customers could bypass our local gas distribution system by installing their own direct pipeline connection to the interstate pipeline system. We have designed custom transportation service agreements with several of our largest industrial customers to provide transportation service rates that are competitive with the customer’s costs of installing their own pipeline; these agreements generally prohibit bypass. Due to the cost pressures confronting a number of our largest customers competing in global markets, bypass continues to be a competitive threat. Although we do not expect a significant number of our large customers to bypass our system in the foreseeable future, we could experience deterioration of utility margin if customers bypass or switch over to custom contracts with lower profit margins.
+Seasonality of Business
+Our utility business is seasonal in nature due to higher gas usage by residential and commercial customers during the cold winter heating months. Our other categories of customers experience seasonality in their usage, but to a lesser extent.
+Regulation and Rates
+The utility is subject to regulation by the OPUC, WUTC, and FERC. These regulatory agencies authorize rates and allow recovery mechanisms to provide our utility the opportunity to recover prudently incurred capital and operating costs from customers, while also earning a reasonable return on investment for investors. In addition, the OPUC and WUTC also regulate the system of accounts and issuance of securities by our utility.
+We file general rate cases and rate tariff requests periodically with the commissions to establish approved rates, an authorized ROE, an overall rate of return on rate base (ROR), an authorized utility capital structure, and other revenue/cost deferral and recovery mechanisms.
+In addition, under our Mist interstate storage certificate with FERC, the utility is required to file either a petition for rate approval or a cost and revenue study every five years to change or justify maintaining the existing rates for the interstate storage service. We filed a rate petition for our current rates in 2013 and received approval in 2014 for new maximum cost based rates effective January 1, 2014.
+
+The utility's most recent general rate case in Oregon was effective November 1, 2012, and the latest Washington rate case was effective January 1, 2009. During 2016, our approved rates and recovery mechanisms for each service area included:
+
+
+6
+
+
+ | Oregon | Washington
+Authorized Rate Structure: | | 
+ROE | 9.5% | 10.1% 
+ROR | 7.8% | 8.4% 
+Debt/Equity Ratio | 50%/50% | 49%/51% 
+Key Regulatory Mechanisms: | | 
+PGA | X | X 
+Gas Cost Incentive Sharing | X | 
+Interstate Storage Sharing | X | X 
+WARM | X | 
+Decoupling | X | 
+SIP(1) | X | 
+Pension Balancing | X | 
+Environmental Cost Deferral | X | X 
+SRRM | X | 
+
+
+(1) | Regulatory authority for SIP expired October 31, 2014, however, the bare steel replacement portion of the mechanism remained in place until the end of 2015 and was included in rates for the 2015-2016 PGA.
+
+For a complete discussion of regulatory matters, open dockets, current regulatory activities, and additional details on each rate mechanism, see Part II, Item 7, "Results of Operations—Regulatory Matters" and "Gas Storage".
+Gas Supply
+The utility strives to secure sufficient, reliable supplies of natural gas to meet the needs of customers at the lowest reasonable cost, while maintaining price stability and managing gas purchase costs prudently. This is accomplished through a comprehensive strategy focused on the following items:
+
+• | Diverse Supply - providing diversity of supply sources;
+
+
+• | Diverse Contracts - maintaining a variety of contract durations, types, and counterparties;
+
+
+• | Reliability - ensuring gas resource portfolios are sufficient to satisfy customer requirements under extreme cold weather conditions; and
+
+
+• | Cost Management and Recovery - employing prudent gas cost management strategies.
+
+Diversity of Supply Sources
+We purchase our gas supplies primarily from the Alberta and British Columbia areas of Canada and multiple receipt points in the U.S. Rocky Mountains to protect against regional supply disruptions and to take advantage of price differentials. For 2016, 63% of our gas supply came from Canada, with the balance primarily coming from the U.S. Rocky Mountain region. We believe gas supplies available in the western United States and Canada are adequate to serve our core utility requirements for the foreseeable future. We continue to evaluate the long-term supply mix based on projections of gas production and pricing in the U.S. Rocky Mountain region as well as other regions in North America; however, we believe the cost of natural gas coming from western Canada and the U.S. Rocky Mountain region will continue to track with broader U.S. market pricing. Additionally, the extraction of shale gas has increased the availability of gas supplies throughout North America for the foreseeable future.
+
+
+We supplement our firm gas supply purchases with gas withdrawals from gas storage facilities, including underground reservoirs and LNG storage facilities. Storage facilities are generally injected with natural gas during the off-peak months in the spring and summer and the gas is withdrawn for use during peak demand months in the winter. 
+The following table presents the storage facilities available for our utility supply:
+
+ | Maximum Daily Deliverability (therms in millions) | Designed StorageCapacity (Bcf)
+Gas Storage Facilities: | | 
+Owned Facility: | | 
+Mist, Oregon(1) | 3.1 | | 10.6
+Contracted Facilities: | | 
+Jackson Prairie, Washington(2) | 0.5 | | 1.1 
+Alberta, Canada(3) | 0.4 | | 2.5 
+LNG Facilities: | | 
+Owned Facilities: | | 
+Newport, Oregon | 0.6 | | 1.0 
+Portland, Oregon | 1.3 | | 0.6 
+Total | 5.9 | | 15.8
+
+
+(1) | The Mist gas storage facility has a total maximum daily deliverability of 5.4 million therms and a total designed storage capacity of about 16 Bcf, of which 3.1 million therms of daily deliverability and 10.6 Bcf of storage capacity are reserved for core utility customers.
+
+
+(2) | The storage facility is located near Chehalis, Washington and is contracted from Northwest Pipeline, a subsidiary of The Williams Companies.
+
+
+(3) | This resource does not add to our total peak day capacity, but mitigates price risks as it displaces equivalent volumes of heating season spot purchases.
+
+The Mist facility is used for both utility and non-utility purposes. Under our regulatory agreements with the OPUC and WUTC, non-utility gas storage at Mist can be developed in advance of core utility customer needs but is subject to recall by the utility when needed to serve utility customers as their demand increases. In 2016, the utility did not recall additional deliverability or associated storage capacity from the non-utility business to serve core utility customer needs. 
+In addition, we have the ability to recall pipeline capacity and supply resources from certain customers if needed to meet high demand requirements.
+Diverse Contract Durations and Types
+We have a diverse portfolio of short-, medium-, and long-term firm gas supply contracts and a variety of contract types including firm and interruptible supplies as well as supplemental supplies from gas storage facilities. 
+Our portfolio of firm gas supply contracts typically includes the following gas purchase contracts: year-round and winter-only baseload supplies; seasonal supply with an option to call on additional daily supplies during the winter heating season; and daily or monthly spot purchases.
+
+
+7
+
+During 2016, we purchased a total of 668 million therms under contracts with durations outlined in the chart below:
+
+Contract Duration (primary term) | Percent of Purchases
+Long-term (one year or longer) | 27 | %
+Short-term (more than one month, less than one year) | 35 | 
+Spot | 38 | 
+Total | 100 | %
+
+We renew or replace gas supply contracts as they expire. During 2016, only one supplier provided over 10% of our gas supply requirements. 
+Reliability
+The effectiveness of our gas distribution system ultimately rests on whether we provide reliable service to our core utility customers. To ensure our effectiveness, we develop a composite design year, including a seven day design peak event based on the most severe cold weather experienced during the last 30 years in our service territory. 
+Our projected maximum design day firm utility customer sendout totals are approximately 9.8 million therms. Of this total, we are currently capable of meeting about 55% of our maximum design day requirements with gas from storage located within or adjacent to our service territory, while the remaining supply requirements would come from gas purchases under firm gas purchase contracts and recall agreements. 
+To supplement near-term natural gas supplies, we can segment transportation capacity during the heating seasons, if needed. Pipeline segmentation is a natural gas transportation mechanism under which a shipper can leverage its firm pipeline transportation capacity by separating it into multiple segments with alternate delivery routes. The reliability of service on these alternate routes will vary depending on the constraints of the pipeline system. For those segments with acceptable reliability, segmentation provides a shipper with increased flexibility and potential cost savings compared to traditional pipeline service. During the 2015-2016 and 2016-2017 heating seasons, we segmented approximately 0.6 million therms per day of our firm pipeline transportation capacity that flowed from Stanfield, Oregon to various points south of Molalla, Oregon. 
+We believe our gas supplies would be sufficient to meet existing firm customer demand if we were to experience maximum design day weather conditions. We will continue to evaluate and update our forecasted requirements and incorporate changes in our Integrated Resource Plan (IRP) process. 
+
+
+The following table shows the sources of supply projected to be used to satisfy the design day sendout for the 2016-2017 winter heating season:
+
+Therms in millions | Therms | Percent
+Sources of utility supply: | | 
+Firm supply purchases | 3.4 | | 34 | %
+Mist underground storage (utility only) | 3.1 | | 32 | 
+Company-owned LNG storage | 1.9 | | 19 | 
+Off-system storage contract | 0.5 | | 5 | 
+Pipeline segmentation capacity | 0.6 | | 6 | 
+Recall agreements | 0.4 | | 4 | 
+Total | 9.9 | | 100 | %
+
+The OPUC and WUTC have IRP processes in which utilities define different growth scenarios and corresponding resource acquisition strategies in an effort to evaluate supply and demand resource requirements, consider uncertainties in the planning process and the need for flexibility to respond to changes, and establish a plan for providing reliable service at the least cost.
+In general, the IRP is filed biannually with both the OPUC and the WUTC. An update is filed in Oregon in the off year. The OPUC acknowledges the Company's action plan; whereas the WUTC provides notice that our IRP has met the requirements of the Washington Administrative Code. OPUC acknowledgment of the IRP does not constitute ratemaking approval of any specific resource acquisition strategy or expenditure. However, the Commissioners generally indicate that they would give considerable weight in prudence reviews to utility actions consistent with acknowledged plans. The WUTC has indicated the IRP process is one factor it will consider in a prudence review. We filed our 2016 IRP in both Oregon and Washington in August 2016. We received a letter of compliance from the WUTC in December 2016 and acknowledgment from the OPUC in February 2017. We plan to file an update to the IRP with the Oregon Commission in 2018.
+Gas Cost Management Strategy 
+The cost of gas sold to utility customers primarily consists of the following items, which are included in annual PGA rates: purchase price paid to suppliers; charges paid to pipeline companies to transport gas to our distribution system; costs paid to store gas; our gas reserves contracts; and gains or losses related to gas commodity derivative contracts.
+We employ a number of strategies to mitigate the cost of gas sold to utility customers. Our primary strategies for managing gas commodity price risk include:
+
+• | negotiating fixed prices directly with gas suppliers;
+
+
+• | negotiating financial derivative contracts that: (1) effectively convert floating index prices in physical gas supply contracts to fixed prices (referred to as commodity price swaps); or (2) effectively set a ceiling or floor price, or both, on floating index priced physical supply contracts (referred to as commodity price options such as calls, puts, and collars). See Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk—Credit Risk—Credit Exposure to Financial Derivative Counterparties";
+
+8
+
+
+• | buying physical gas supplies at a set price and injecting the gas into storage for price stability and to minimize pipeline capacity demand costs; and
+
+
+• | investing in gas reserves for longer term price stability. See Note 11 for additional information about our gas reserves.
+
+We also contract with an independent energy marketing company to capture opportunities regarding our storage and pipeline capacity when those assets are not serving the needs of our core utility customers. Our asset management activities provide cost savings that reduce our utility customer's cost of gas and opportunities to generate incremental revenues for our shareholders from a regulatory incentive-sharing mechanism, which are included in our gas storage segment.
+Cost Recovery
+Mechanisms for gas cost recovery are designed to be fair and reasonable, with an appropriate balance between the interests of our customers and shareholders. In general, utility rates are designed to recover the costs of, but not to earn a return on, the gas commodity sold. We minimize risks associated with gas cost recovery by resetting customer rates annually through the PGA and aligning customer and shareholder interests through the use of sharing, weather normalization, and conservation mechanisms in Oregon. See Part II, Item 7, "Results of Operations—Regulatory Matters—Rate Mechanisms" and "Results of Operations—Business Segments—Local Gas Distribution Utility Operations—Cost of Gas."
+Transportation of Gas Supplies
+Our local gas distribution system is reliant on a single, bi-directional interstate transmission pipeline to bring gas supplies into our distribution system. Although we are dependent on a single pipeline, the pipeline’s gas flows into the Portland metropolitan market from two directions: (1) the north, which brings supplies from the British Columbia and Alberta supply basins; and (2) the east, which brings supplies from Alberta as well as the U.S. Rocky Mountain supply basins.
+We incur monthly demand charges related to our firm pipeline transportation contracts. Our largest pipeline agreements are with Northwest Pipeline. These contracts are multi-year contracts with expirations ranging from 2018 to 2046. We actively work with Northwest Pipeline and others to renew contracts in advance of expiration to ensure gas transportation capacity is sufficient to meet our utility needs. 
+Rates for interstate pipeline transportation services are established by FERC within the U.S. and by Canadian authorities for services on Canadian pipelines.
+As mentioned above, our service territory is dependent on a single pipeline for its natural gas supply. Although supply has not been disrupted in the recent past, pipeline replacement projects and long-term projected natural gas demand in our region underscore the need for pipeline transportation diversity. In addition, there are potential industrial projects in the region, which could increase the demand for natural gas and the need for additional pipeline capacity and pipeline diversity. 
+
+
+Currently, there are various interstate pipeline projects proposed, including the Trail West Pipeline in which the Company has an interest, that could meet the forecasted demand for the region and our Company. However, the location of any future pipeline project will likely depend on the location of committed industrial projects. We will continue to evaluate and closely monitor the currently prospected projects to determine the best option for ratepayers. The Company also has an equity investment in Trail West Holdings, LLC (TWH) that is developing plans to build the Trail West pipeline. This pipeline would connect TransCanada Pipelines Limited’s (TransCanada) Gas Transmission Northwest (GTN) interstate transmission line to our local gas distribution system. If constructed, this pipeline would provide another transportation path for gas purchases from Alberta and the U.S. Rocky Mountains in addition to the one that currently moves gas through the Northwest Pipeline system. 
+Gas Distribution
+The primary goals of our gas distribution operations are safety and reliability of our system, which entails building and maintaining a safe pipeline distribution system. 
+Safety and the protection of our employees, our customers, and the public at large are, and will remain, our top priorities. We construct, operate and maintain our pipeline distribution system and storage operations with the goal of ensuring natural gas is delivered and stored safely, reliably, and efficiently. 
+NW Natural has one of the most modern distribution systems in the country with no identified cast iron pipe or bare steel main. We removed the final three miles of known bare steel from our system in 2015 and completed our cast iron pipe removal in 2000. Since the 1980s, we have taken a proactive approach to replacement programs and partnered with our Commissions on progressive regulation to further safety and reliability efforts for our distribution system. In the past, we had a cost recovery program in Oregon that encompassed the Company’s programs for bare steel replacement, transmission pipeline integrity management, and distribution pipeline integrity management. During 2016, we worked with the OPUC and other Oregon natural gas utilities to establish guidelines for future safety cost-recovery tracking programs. In October 2016, an all-party agreement for the docket was filed with the OPUC and is currently undergoing review. See Part II, Item 7, "Results of Operations—Regulatory Matters—System Integrity Program". 
+Natural gas distribution businesses are likely to be subject to even greater federal and state regulation in the future due to pipeline incidents involving other companies. Additional regulations from the U.S. Department of Transportation’s Pipeline and Hazardous Materials Safety Administration (PHMSA) are currently under development. During 2016 PHMSA issued final regulations regarding enhanced emergency order procedures, which became effective upon issuance. In addition, PHMSA issued final rules addressing underground storage and excess flow valves, with effective dates in 2017. We anticipate final regulations for the remaining rules to be issued in 2017, with effective dates in 2017 to 2018. Accordingly, we will continue to work diligently with industry associations as well as federal and state 
+
+
+9
+
+regulators to ensure the safety of our system and compliance with new laws and regulations. We expect the costs to our utility associated with compliance of federal, state, and local rules would be recoverable in rates.
+North Mist Gas Storage Expansion Project
+In Oregon, there is a need to integrate intermittent resources, such as wind and solar, into the power system with policymakers committing to the elimination of coal-fired electric generation and moving toward a 50% renewable electricity standard by 2040. New, flexible natural gas-fired electric generation facilities and associated gas storage are necessary to support the integration of renewable resources. To that end, we are expanding our gas storage facility near Mist, Oregon to provide innovative no-notice gas storage service. This expansion project will be dedicated solely to Portland General Electric (PGE) to support their gas-fired electric power generation facilities under an initial 30 year contract with options to extend, totaling up to an additional 50 years upon mutual agreement of the parties. 
+The expansion project includes a new reservoir providing up to 2.5 Bcf of available storage, an additional compressor station with design capacity of 120,000 decatherms of gas per day, no-notice service that can be drawn on rapidly, and a 13-mile pipeline to connect to PGE's gas plants at Port Westward. The current estimated cost of the expansion is approximately $128 million with a targeted in-service date of the winter of 2018-19, depending on completion of all construction and commissioning activities.
+We expect upon completion, revenues will be derived from a long term cost of service contract for storage services and are expected to be recognized on a straight-line basis. These revenues will be earned immediately under an established cost of service tariff schedule with the OPUC based on the utility’s current, authorized rate structure as determined in its latest rate case. Billing rates will be updated annually to the current depreciable asset level and forecasted operating expenses. 
+GAS STORAGE
+Our gas storage segment includes the following:
+
+• | the non-utility portion of the Mist gas storage facility near Mist, Oregon;
+
+
+• | our Gill Ranch gas storage facility near Fresno, California; and
+
+
+• | asset management services provided by an independent energy marketing company.
+
+In general, the supply of natural gas remains relatively stable over the course of a year, while the demand for natural gas typically fluctuates seasonally. Storage facilities allow customers to purchase and inject natural gas supplies during periods of low demand and withdraw these supplies for use or resale during periods of higher demand. These facilities allow us to capitalize on the imbalance of supply and demand and price volatility for natural gas. 
+See Note 4 for more information on gas storage assets and results of operations and Part II, Item 7, "Financial Condition—Capital Structure—Liquidity and Capital Resources".
+
+
+Gas Storage Facilities
+The following table provides information concerning the Company’s non-utility gas storage facilities:
+
+ | | Maximum 
+ | Designed StorageCapacity (Bcf) | Deliverability(Therms in millions/day(3) | | Injection(Therms in millions/day)(3)
+Mist Storage(1) | 5.4 | | 2.3 | | 0.8
+Gill Ranch Storage(2) | 15.0 | | 4.9 | | 2.4
+
+
+(1) | Approximately 5.4 Bcf of a total designed storage capacity of about 16 Bcf at Mist is currently available to our gas storage segment. The remaining 10.6 Bcf is used to provide gas storage for our local distribution business and its utility customers. In addition to designed storage capacity above, capacity may incrementally increase based on variations in the heat content of the stored gas. All storage capacity and daily deliverability currently developed for the gas storage segment at Mist is available for recall by the utility. In May 2015, the utility recalled approximately 0.3 million therms per day of deliverability and 0.7 Bcf of capacity for core utility customer use. There were no recalls by the utility in 2016. 
+
+
+(2) | Our share of the Gill Ranch facility is currently 15 Bcf out of a total capacity of 20 Bcf.
+
+
+(3) | Our share of the designed daily maximum injection and deliverability rates.
+
+Mist Storage Facility
+The Mist storage facility began operations in 1989 and currently consists of seven depleted natural gas reservoirs, 22 injection and withdrawal wells, a compressor station, dehydration and control equipment, gathering lines and other related facilities.
+SERVICES. Mist provides multi-cycle gas storage services to customers in the interstate and intrastate markets from the facility located in Columbia County, Oregon, near the town of Mist. The Mist field was initially converted to storage operations for our utility customers. Since 2001, gas storage capacity at Mist has also been made available to interstate customers by developing new incremental capacity in advance of core utility customer requirements to meet the demands for interstate storage service. These interstate storage services are offered under a limited jurisdiction blanket certificate issued by FERC. In addition, since 2005 we have offered intrastate firm storage services in Oregon under an OPUC-approved rate schedule as an optional service to eligible non-residential utility customers. 
+
+CUSTOMERS. For Mist storage services, firm service agreements with customers are entered into with terms typically ranging from 1 to 10 years. Currently, our gas storage revenues from Mist are derived primarily from firm service customers who provide energy related services, including natural gas distribution, electric generation, and energy marketing. Three storage customers currently account for all of our existing contracted non-utility gas storage capacity at Mist, with the largest customer accounting for about half of the total capacity. These three customers have contracts expiring at various dates through 2020. 
+COMPETITIVE CONDITIONS. Our Mist gas storage facility benefits from limited competition from other Pacific Northwest storage facilities primarily because of its geographic location. However, competition from other 
+
+
+10
+
+storage providers in Washington and Canada, as well as competition for interstate pipeline capacity, does exist. In the future, we could face increased competition from new or expanded gas storage facilities as well as from new natural gas pipelines, marketers, and alternative energy sources. 
+SEASONALITY. Mist gas storage revenues generally do not follow seasonal patterns similar to those experienced by the utility because most of the storage capacity is contracted with customers for firm service, which are primarily in the form of fixed monthly reservation charges and are not affected by customer usage. However, there is seasonal variation with Mist storage capacity and deliverability related to utility customers' lower demand during the spring and summer months. This surplus storage capacity and deliverability and related transportation capacity can be optimized under regulatory sharing agreements with the OPUC and WUTC. See "Asset Management" below.
+REGULATION. Our Mist facility is subject to regulation by the OPUC and WUTC. In addition, FERC has approved maximum cost-based rates under our Mist interstate storage certificate. We are required to file either a petition for rate approval or a cost and revenue study with FERC at least every five years to change or justify maintaining the existing rates for the interstate storage service. In December 2013, we filed for a rate petition, which was approved in 2014 with rates being effective January 1, 2014. See Part II, Item 7, "Results of Operations—Regulatory Matters".
+EXPANSION OPPORTUNITIES. We are currently expanding our Mist Storage facility to provide 2.5 Bcf of storage to the local electric company. See "North Mist Gas Storage Expansion Project" above. While there are additional expansion opportunities in the Mist storage field, further development is not contemplated at this time and expansion would be based on market demand, project execution, cost effectiveness, available financing, receipt of future permits, and other rights.
+Gill Ranch Storage Facility
+Gill Ranch Storage, LLC (Gill Ranch), our subsidiary, has a joint project agreement with Pacific Gas and Electric Company (PG&E) to develop and own the Gill Ranch underground natural gas storage facility near Fresno, California. Currently, Gill Ranch is the sole operator of the facility. The facility began operations in 2010 and consists of three depleted natural gas reservoirs, 12 injection and withdrawal wells, a compressor station, dehydration and control equipment, gathering lines, an electric substation, a natural gas transmission pipeline extending 27 miles from the storage field to an interconnection with the PG&E transmission system, and other related facilities. Gill Ranch owns the rights to 75% of the available storage capacity at the facility. Gill Ranch’s share of the facility currently provides 15.0 Bcf of working gas capacity.
+California has been impacted by challenging market conditions for gas storage, with contract prices in the region near historic lows and a greater number of competitors in the area compared to the Pacific Northwest region. Prices for the 2016-17 gas year showed slight improvement, however prices remained low relative to the pricing in our original long-term contracts which ended primarily in the 2013-14 gas storage year. In the future, we may see 
+
+
+improved pricing from an increase in the demand for natural gas driven by a number of factors, including changes in electric generation triggered by California's renewable portfolio standards, an increase in use of alternative fuels to meet carbon reduction targets, recovery of the California economy, growth of domestic industrial manufacturing, potential exports of liquefied natural gas from the west coast, and other favorable storage market conditions in and around California. These factors, if they occur, may contribute to higher summer/winter natural gas price spreads, gas price volatility, and gas storage values. We continue to explore opportunities to increase revenues by identifying higher value customers to provide with enhanced services. We may also look at other strategic alternatives that help capitalize on opportunities that fit our business-risk profile. 
+SERVICES. Gill Ranch provides intrastate, multi-cycle storage services in California at market-based rates under a CPUC-approved tariff that includes firm storage service, interruptible storage service, and park and loan storage services. Our Gill Ranch facility is not currently authorized to provide interstate gas storage services.
+CUSTOMERS. Customer contracts for firm storage capacity at Gill Ranch are as long as 27 years in duration; however, the majority of the contracted capacity is shorter term in nature due to market conditions. In the near-term, we expect Gill Ranch to contract for terms ranging from one to five years. For the 2016-17 gas storage year, Gill Ranch has several storage customers, with the largest single contract accounting for approximately 13% of our storage capacity. In the near term, we continue to expect shorter contract lengths reflecting current market prices and trends. 
+The California market served by Gill Ranch is larger, and has a greater diversity of prospective customers, than the Pacific Northwest market served by Mist. Therefore, we expect less sensitivity to any single customer or group of customers at Gill Ranch. Current Gill Ranch customers provide energy related services, including natural gas production, marketing, and electric generation.
+COMPETITIVE CONDITIONS. The Gill Ranch storage facility currently competes with a number of other storage providers, including local integrated gas companies and other independent storage providers (ISPs) in the northern California market. There are currently four ISPs authorized by the CPUC to provide storage services in California, with the Gill Ranch storage facility comprising approximately 12% of the storage capacity held by ISPs. An acquisition during 2016 consolidated approximately 80% of the storage capacity authorized by the CPUC to ISPs in California. Although this consolidation has not had an immediate impact on our storage business, the ultimate effect of this dominant market share on pricing and contracting levels for our Gill Ranch storage facility remains unknown and cannot be predicted at this time. 
+In addition, in October 2015 a significant natural gas leak occurred at an unaffiliated southern California gas storage facility that persisted through early 2016. At this time, we do not know the long-term effects of this incident on gas storage prices. The southern California market is largely independent from the northern California gas storage 
+
+
+11
+
+market due to transportation barriers. However, in response to this incident, new legislation was enacted in California in September 2016, which directed the California Department of Oil, Gas and Geothermal Resources (DOGGR) to develop new regulations for gas storage wells. In addition to the DOGGR legislation, similar efforts are underway at the federal level under the PHMSA, as discussed above in "Local Gas Distribution—Utility." While the regulations are still under development, and their ultimate impact is unknown, it is likely the PHMSA and pending DOGGR regulations will result in higher costs for all storage providers. As a result of the legislation and pending regulation, the nature of, and demand for, future storage contracts, costs of operating, and market values in California could be impacted and remain uncertain at this time. 
+If such new regulation and legislation require significant capital and on-going spending to upgrade or maintain the facility, we are unsuccessful in identifying new higher value customers, future storage values do not improve, an increased demand and other favorable market conditions for natural gas storage do not materialize, and/or volatility does not return to the gas storage market, this could have a negative impact on our future cash flows and could result in impairment of our Gill Ranch gas storage facility, which had a net book value of $196.9 million at December 31, 2016. We continue to assess these conditions along with other strategic alternatives and their impact on the value of the asset on an ongoing basis. See Note 2 of the Notes to Consolidated Financial Statements for more information regarding our accounting policy for impairment of long-lived assets.
+SEASONALITY. While the majority of our Gill Ranch revenues are not subject to seasonality, and although we expect much of the storage revenue at Gill Ranch to be in the form of fixed monthly demand charges, cash flows can fluctuate due to timing of asset management and other revenues. In addition, a significant portion of operating costs at Gill Ranch are subject to fluctuations based on periods when storage customers elect to inject or withdraw.
+REGULATION. Gill Ranch has a tariff on file with the CPUC authorizing it to charge market-based rates for the storage services offered. See Part II, Item 7, "Results of Operations–Regulatory Matters".
+EXPANSION OPPORTUNITIES. Subject to market demand, project execution, available financing, receipt of future permits, and other rights, the Gill Ranch storage facility can be expanded beyond the current combined permitted capacity of 20 Bcf without further expansion of the takeaway pipeline system. Taking these considerations into account and with certain infrastructure modifications, we currently estimate the Gill Ranch storage facility could support an additional 25 Bcf of storage capacity, bringing the total storage capacity to approximately 45 Bcf, of which our current rights would give us up to an additional 7.5 Bcf or ownership of a total of approximately 22.5 Bcf.
+Asset Management
+We contract with an independent energy marketing company to provide asset management services, primarily through the use of commodity exchange agreements and 
+
+
+pipeline capacity release transactions. The results are included in the gas storage segment, except for amounts allocated to our utility pursuant to regulatory sharing agreements involving the use of utility assets. Utility pre-tax income from third-party asset management services is subject to revenue sharing with core utility customers. See Part II, Item 7, "Results of Operations—Business Segments—Gas Storage".
+OTHER
+We have non-utility investments and other business activities which are aggregated and reported as other. Other primarily consists of: 
+
+• | an equity method investment in a joint venture to build and operate a gas transmission pipeline in Oregon. TWH is owned 50% by NWN Energy, a wholly-owned subsidiary of NW Natural, and 50% by TransCanada American Investments Ltd., an indirect wholly-owned subsidiary of TransCanada Corporation; 
+
+
+• | a minority interest in Kelso-Beaver Pipeline held by our wholly-owned subsidiary NNG Financial Corporation (NNG Financial); and
+
+
+• | other operating and non-operating income and expenses of the parent company that are not included in utility or gas storage operations.
+
+The pipelines referred to above are regulated by FERC. Less than 1% of our consolidated assets and consolidated net income are related to activities in other. See Note 4 for summary information for these assets and results of operations.
+ENVIRONMENTAL MATTERS 
+Properties and Facilities
+We own, or previously owned, properties and facilities that are currently being investigated that may require environmental remediation and are subject to federal, state and local laws and regulations related to environmental matters. These laws and regulations may require expenditures over a long timeframe to address certain environmental impacts. Estimates of liabilities for environmental costs are difficult to determine with precision because of the various factors that can affect their ultimate disposition. These factors include, but are not limited to, the following:
+
+• | the complexity of the site;
+
+
+• | changes in environmental laws and regulations at the federal, state and local levels;
+
+
+• | the number of regulatory agencies or other parties involved;
+
+
+• | new technology that renders previous technology obsolete, or experience with existing technology that proves ineffective;
+
+
+• | the ultimate selection of a particular technology;
+
+
+• | the level of remediation required;
+
+
+• | variations between the estimated and actual period of time that must be dedicated to respond to an environmentally-contaminated site; and
+
+
+• | the application of environmental laws that impose joint and several liabilities on all potentially responsible parties.
+
+
+12
+
+We have received recovery of a portion of such environmental costs through received insurance proceeds and seek the remainder of such costs through customer rates, and we believe recovery of these costs is probable. In Oregon, we have a mechanism to recover expenses, subject to an earnings test and allocation rules. See Part II, Item 7, "Results of Operations—Rate Matters—Rate Mechanisms—Environmental Costs", Note 2 and Note 15.
+Greenhouse Gas Matters
+We recognize our businesses are likely to be impacted by future requirements to address greenhouse gas emissions. Future federal and/or state requirements may seek to limit emissions of greenhouse gases, including both carbon dioxide (CO2) and methane. These potential laws and regulations may require certain activities to reduce emissions and/or increase the price paid for energy based on its carbon content. 
+Current federal rules require the reporting of greenhouse gas emissions. In September 2009, the EPA issued a final rule requiring the annual reporting of greenhouse gas emissions from certain industries, specified large greenhouse gas emission sources, and facilities that emit 25,000 metric tons or more of CO2 equivalents per year. We began reporting emission information in 2011. Under this reporting rule, local gas distribution companies like NW Natural are required to report system throughput to the EPA on an annual basis. The EPA also issued additional greenhouse gas reporting regulations requiring the annual reporting of fugitive emissions from our operations. 
+Similarly, the Clean Air Rule (CAR) was enacted by the state of Washington's Department of Ecology on September 15, 2016. The Washington rule caps the maximum greenhouse gas emissions allowed from stationary sources such as large manufacturers, as well as petroleum producers and natural gas utilities. For gas distribution utilities, the usage by their customers of natural gas is considered to produce emissions that are attributed to the utility. Entities exceeding the applicable limit must reduce their emissions, develop projects that would reduce emissions or purchase emission reduction units (ERUs) or renewable energy credits (RECs) or, to a limited extent, acquire allowances from out-of-state multi-sector greenhouse gases (GHG) programs. We anticipate that compliance by gas distribution utilities, such as NW Natural, would primarily be achieved through the purchase of ERUs, although there is significant uncertainty regarding ERU availability and price at this time. We filed legal action jointly with Avista Corporation, Cascade Natural Gas Corp. and Puget Sound Energy in late September 2016 to challenge the Washington rule based on flaws in its design. However, as CAR became effective January 1, 2017, we have commenced compliance efforts and also plan to pursue regulatory recovery of such costs. While there is still uncertainty regarding potential compliance costs, we expect to be able to recover these costs in rates, and as such do not expect this rule to materially affect our consolidated financial position and results of operations.
+The outcome of these or any additional federal and state policy developments in the area of climate change cannot be determined at this time, but these initiatives could produce a number of results including new regulations, legal 
+
+
+actions, additional charges to fund energy efficiency activities, or other regulatory actions. The adoption and implementation of any regulations limiting emissions of greenhouse gas from our operations could require us to incur costs to reduce emissions of greenhouse gases associated with our operations, which could result in an increase in the prices we charge our customers or a decline in the demand for natural gas. On the other hand, because natural gas is a low-carbon fuel, it is also possible future carbon constraints could create additional demand for natural gas for electric generation, direct use of natural gas in homes and businesses, and as a reliable and relatively low-emission back-up fuel source for alternative energy sources. Requirements to reduce greenhouse gas emissions from the transportation sector, such as those in Oregon’s clean fuel standard, could also result in additional demand for natural gas fueled vehicles.
+We continue to take proactive steps to collaboratively address future greenhouse gas emission matters, including actively participating in policy development in Oregon and, at the federal level, within the American Gas Association. We engage in policy development and in identifying ways to reduce greenhouse gas emissions in our own operations. We also help our customers reduce and offset their gas use, through partnership with the Energy Trust of Oregon offering efficiency programs and the Smart Energy program, which allows customers to voluntarily contribute funds to projects such as biodigesters on dairy farms that offset the greenhouse gases produced from their natural gas use.
+EMPLOYEES 
+At December 31, 2016, the utility workforce consisted of 611 members of the Office and Professional Employees International Union (OPEIU) Local No. 11, AFL-CIO, and 497 non-union employees. Our labor agreement with members of OPEIU covers wages, benefits and working conditions. On May 22, 2014, our union employees ratified a new labor agreement (Joint Accord) that extends to November 30, 2019, and thereafter from year to year unless either party serves notice of its intent to negotiate modifications to the collective bargaining agreement. 
+At December 31, 2016, our non-utility subsidiaries had a combined workforce of 15 non-union employees, of which the majority of our employees at the Gill Ranch facility voted to unionize as part of IBEW Local Union No. 1245. We are currently in the process of bargaining the first contract for 8 of these employees and the ultimate outcome of such negotiations is unknown at this time. Our subsidiaries receive certain services from centralized operations at the utility, and the utility is reimbursed for those services pursuant to a Shared Services Agreement.
+ADDITIONS TO INFRASTRUCTURE
+We make capital expenditures in order to maintain and enhance the safety and integrity of our pipelines, gate stations, storage facilities and related assets, to expand the reach or capacity of those assets, or improve the efficiency of our operations. We expect to make a significant level of capital expenditures for additions to utility and gas storage infrastructure over the next five years, reflecting continued investments in customer growth, distribution system 
+
+
+13
+
+improvements, technology, and an expansion at our North Mist gas storage facility. For the five-year period ending in 2021, capital expenditures for the utility are estimated to be between $850 and $950 million, which excludes any potential future gas reserves investments.
+Included in the five year period, 2017 utility capital expenditures are estimated to be between $225 and $250 million, including $80 to $90 million for our North Mist gas storage facility expansion, and non-utility capital investments of less than $5 million. Additional spend for gas storage and other investments during and after 2017 will depend largely on additional gas storage legislation and expansion opportunities. See additional discussion in Part II, Item 7 "Financial Condition—Cash Flows—Investing Activities". 
+EXECUTIVE OFFICERS OF THE REGISTRANT
+For information concerning our executive officers, see Part III, Item 10.
+AVAILABLE INFORMATION
+We file annual, quarterly and current reports and other information with the Securities and Exchange Commission (SEC). Reports, proxy statements and other information filed by us can be read, copied and requested through the SEC by mail at U.S. Securities and Exchange Commission, 100 F Street, N.E., Washington, D.C. 20549, or online at its website (http://www.sec.gov). You can obtain information about access to the Public Reference Room and how to access or request records by calling the SEC at 1-800-SEC-0330. The SEC website contains reports, proxy and information statements and other information we file electronically. In addition, we make available on our website (http://www.nwnatural.com), our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) and proxy materials filed under Section 14 of the Securities Exchange Act of 1934, as amended (Exchange Act), as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. 
+We have adopted a Code of Ethics for all employees and officers that is available on our website. We intend to disclose amendments to, and any waivers from the Code of Ethics on our website. Our Corporate Governance Standards, Director Independence Standards, charters of each of the committees of the Board of Directors and additional information about the Company are also available at the website. Copies of these documents may be requested, at no cost, by writing or calling Shareholder Services, NW Natural, One Pacific Square, 220 N.W. Second Avenue, Portland, Oregon 97209, telephone 503-226-4211 ext. 2402.
+
+
+14
+

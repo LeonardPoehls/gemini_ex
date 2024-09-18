@@ -1,0 +1,268 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+Overview
+ We are a leading provider of enterprise-class, cloud-based incentive compensation solutions for employee and sales performance management. We address a critical business need: to incentivize employees and align their behaviors with company goals. Our solutions allow organizations to make better strategic decisions, optimize behaviors, increase sales and employee performance, improve margins, increase operational efficiencies, mitigate risk, design better incentive compensation plans and reduce error rates in incentive compensation calculations. We were the first 100% cloud-based, multi-tenant provider focusing solely on the incentive compensation and employee and sales performance management market and we achieved our leadership position through domain expertise and innovative technology. We deliver our solutions through a Software-as-a-Service (SaaS) business model.
+ We believe that our solutions are strategic for our customers. We go beyond automation by providing our customers with commercially actionable insights so that they can optimize their employees’ behaviors. We believe that we are the first and only company to make commercially available insights derived from an empirical set of aggregated and anonymized data which helps customers make fact-based decisions to motivate employees and drive business performance. Our solutions help executives design, manage and analyze incentive programs and provide visibility into employee and incentive program performance. At the same time, employees use our solutions to monitor, estimate and track their own and their team’s performance in real-time and modify their behaviors to maximize their payout consistent with company goals.
+ The design and management of incentive compensation is often highly complex. Traditional systems such as spreadsheets, manual processes and homegrown solutions are inadequate to deal with the complexity associated with variable forms of pay, such as commissions, bonuses and non-cash rewards. According to an August 2014 research study by Aon Hewitt, 91% of organizations currently offer a variable pay program for their broad based employee populations and expect to spend 13% of payroll on variable pay. Further, according to Aon Hewitt, variable pay budgets and spending have nearly doubled in the last 20 years.
+ We have a diverse and rapidly growing customer base ranging from FORTUNE 50 enterprises to small, emerging companies in a variety of industries such as business & financial services, communications, high-tech manufacturing, life sciences, retail, travel & hospitality, media & internet and SaaS & traditional software, which provides us with large, unique, industry-specific data sets. Customers use our solutions to manage and incent a broad range of employees, from bank tellers to post office employees to sales people.
+ We strive to be a thought leader in incentives and employee performance, identifying and interpreting emerging trends, shaping and guiding industry dialogue, and creating and sharing best practices. Our thought leadership is based on our big-data insights as well as our significant industry experience. We deliver our thought leadership and innovation through the expertise of our employees as well as the authoring and dissemination of information about incentives that complement and leverage our technology solutions. We believe our thought leadership differentiates us and allows us to increase the value of our solutions to our customers.
+ As of January 31, 2017, we had approximately 297,000 subscribers, compared to approximately 266,000 subscribers as of January 31, 2016, representing an increase of approximately 12%. While approximately 56% of our customers were enterprise and mid-market companies, we derived approximately 92% of our revenue from enterprise and mid-market customers for the fiscal year ended January 31, 2017. As of January 31, 2017, we had approximately 980 customers.
+ We offer our solutions on a subscription basis, typically through non-cancellable contracts with one to three year terms, which provides us with visibility into a substantial portion of our future revenue. We had total revenue of $95.5 million, $76.0 million and $61.1 million for the fiscal years ended January 31, 2017, 2016 and 2015, respectively, resulting in year-over-year increases of 26% and 24%. Our subscription revenue for the fiscal years ended January 31, 2017, 2016 and 2015 was $73.0 million, $59.2 million and $47.3 million, respectively, resulting in year-over-year increases of 23% and 25%. Our professional services revenue for the fiscal years ended January 31, 2017, 2016 and 2015 was $22.5 million, $16.8 million and $13.8 million, respectively, resulting in year-over-
+ 4
+
+
+year increases of 34% and 22%. For the fiscal year ended January 31, 2017, our subscription services revenue accounted for 76% of total revenue and our professional services revenue accounted for the remaining 24%. We have made and expect to continue to make significant investments to support our growth and public company requirements, and accordingly have incurred net losses of $16.9 million, $24.7 million and $18.5 million for the fiscal years ended January 31, 2017, 2016 and 2015, respectively.
+ Our Solutions
+ We provide cloud-based incentive compensation solutions for employee and sales performance management. Our solutions include the following key attributes:
+  
+• | Automation. A fundamental purpose of automating incentive processes is to reduce errors and inefficiencies that result from manual or spreadsheet based systems. Our solutions automate costly and cumbersome processes, such as estimating and calculating commissions and bonuses, assigning sales territories, forecasting accruals and modeling business outcomes. As a result, our solutions enhance productivity by allowing companies to focus on the strategic aspects of incentive compensation. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Intuitive user experience. We designed the user interface and user workflows of our solutions to align with the way users naturally think and act. Our solutions are designed for use by the entire workforce, including top executives, sales, finance and human resources employees. Our focus on an intuitive and simple user experience enables the adoption of our solutions by even novice users with minimal training. We believe that we enable our customers to generate higher productivity and better business results through broad access to more timely and reliable information. For example, our solutions include gamification elements, such as leaderboards and badges, which encourage employees to exceed goals. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mobility. We offer mobile solutions for phones and tablets across the major operating systems so our subscribers have convenient, anytime, anywhere access to real-time performance information, allowing them to optimize their performance no matter where and when. We believe these characteristics result in greater user adoption and higher utilization of our solutions. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Scalable, secure and reliable cloud architecture. Our solutions are 100% cloud-based, built upon a multi-tenant, single instance architecture. A multi-tenant architecture is one that allows multiple customers to use the same hardware and software infrastructure. Our platform architecture allows all of our customers to use a single and most updated version of our solutions, which enables us to accelerate our speed of implementation, upgrades and support. Because we do not need to customize, make improvements or upgrade our solutions for individual customers, our customers benefit from greater scalability, reliability and performance. Our customers have access to Xactly Trust, our trust site that provides real-time availability monitoring of our solutions, including privacy and security information and uptime. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Data integration with other business applications. Our open application program interfaces (APIs) allow our customers to integrate our solutions into their existing business processes and systems. Our customers use our APIs to import data into our solutions from customer relationship management (CRM), enterprise resource planning (ERP), human capital management (HCM) and configure price quote (CPQ) solutions, such as those provided by Microsoft Corporation (Microsoft), Oracle Corporation (Oracle), salesforce.com, inc. (Salesforce), SAP AG (SAP) and Workday, Inc. (Workday), as well as to extract data from our solutions for use in CRM, finance and payroll solutions such as those provided by Automatic Data Processing, Inc., Ceridian HCM Holding Inc. (Ceridian) and Paychex, Inc. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Actionable big data. We believe that we are the only company that has empirical incentive compensation data combined with the associated metadata across companies and multiple industries. We anonymize and aggregate the data from the billions of transactions we process annually, allowing us to provide value-added, commercially actionable insights. Our customers can use this information to design optimal incentive compensation programs to drive the right behaviors and maximize business results. Metadata is the information necessary to interpret large amounts of data and relate sets of data to others to determine correlations. Without this metadata, it is extremely difficult to draw meaningful conclusions from big data. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+
+Key Customer Benefits
+ Finance leaders.    Our solutions help finance leaders gain control of incentive compensation, mitigate risk and increase accuracy through automation, which creates more efficient workflows. In addition, finance executives can make better strategic decisions, design optimal plans and better forecast and monitor the performance of their incentive compensation expenditures.
+ Compensation administrators.    Compensation administrators more quickly and accurately process incentive compensation using our solutions, leading to faster, more accurate financial closes with fewer disputes and greater trust from the sales teams they support. Moreover, they can add strategic value to their organizations by providing analyses and insights into compensation expenditures beyond simply managing the compensation process.
+ Sales leaders.    We help sales leaders inspire performance, drive top line results and align employee behaviors with company goals. Our solutions allow sales leaders to incent the right behaviors, bring visibility to front-line sales representatives, coach them to drive better results and adjust incentives to better compete in a complex, competitive environment.
+ Technology leaders.    We help chief information officers support business users more effectively while adding strategic value to the organization. Our customers are able to quickly implement and easily integrate our solutions with other systems and applications. Chief information officers can safely and securely scale their companies for growth since they do not have to manage costly hardware and are assured of always using the latest version of our solutions.
+ Human resources teams.    We help human resources teams inspire performance by enabling companies to bring incentive compensation not only to sales teams, but to all employees. With our solutions, human resources professionals can retain top talent by incenting and rewarding the right behavior and delivering incentives with timeliness, visibility and transparency.
+ Our Products
+ Our customers leverage our solutions to optimize incentive compensation by automating manual processes, streamlining workflows, providing visibility to users and delivering analyses and actionable insights. Our SaaS solutions are delivered through a scalable, secure cloud-based platform that allows for fast innovation benefiting all customers while keeping their information secure. Our solutions support finance, sales, compensation administrators, information technology and human resources personnel in designing, processing and managing incentive compensation to help achieve company goals.
+
+• | Xactly Incent Enterprise is our flagship solution and helps large enterprise and mid-market companies manage the critical elements of incentive compensation. Xactly Incent Enterprise helps finance teams take control of their incentive compensation process by automating calculations, streamlining workflows, such as plan documents and payment approvals, accurately forecasting compensation expenses and modeling compensation plans. Xactly Incent Enterprise delivers sales teams real-time visibility into performance against quotas as well as feedback on commissions. Quota dashboards, commission estimators and stacked rankings help focus sales representatives on achieving performance goals. Managers can also use these tools to run reports, analyze performance and identify any sales representatives who need coaching. Our users, including sales representatives, merchandizers, bank tellers, postal employees, wedding planners and retail clerks, can access Xactly Incent Enterprise through their desktop or mobile device anytime, anywhere. Key modules for Xactly Incent Enterprise include:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly eDocs & Approvals is a module that works in conjunction with Xactly Incent Enterprise and is Xactly’s automated document routing and approval solution. With Xactly eDocs & Approvals customers dynamically generate plan documents, certification letters, and payment files based on details provided by Xactly Incent Enterprise. Document routing, review, and approval processes are managed with customizable workflows to automate document management. Customers can choose from a variety of pre-built workflows, or alternatively, they can create their own using a simple and intuitive interface. Xactly eDocs & Approvals sends automatic email notifications and reminders when action is required and allows users to track document status.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+ 
+• | Xactly Analytics is a module that works in conjunction with Xactly Incent Enterprise and helps customers gain a deep understanding of their incentive compensation programs performance. With Xactly Analytics, customers see incentive data and reports in real-time and share these insights across the company without having to spend hours sifting through databases and spreadsheets. This increased visibility helps align employee behavior, which drives employee performance and helps reach company goals. With customized dashboards and reports customers have access to real-time intelligence and insights, therefore allowing them to make important business decisions or adjust business strategies to maximize sales performance and return on investments.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Incent Express is designed to help companies with generally fewer than 350 employees drive behavior to achieve company goals by creating, processing and managing their incentive compensation. This solution is built on the force.com platform offered by Salesforce and, like Xactly Incent Enterprise, delivers features that companies need to incent right with automated calculations, streamlined workflows, real-time visibility through dashboards and commission estimators, and an easy-to-use plan engine to build and modify compensation plans. Xactly Incent Express also has built-in gamification features with leaderboards, badges and other options to keep sales representatives engaged and focused on achieving their goals. Administrators, sales representatives and managers can use mobile devices to access important compensation information on demand.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Objectives is built for both sales and non-sales personnel, allowing managers and employees to collaboratively track and achieve individual and shared goals. Xactly Objectives enables managers and employees to clearly define goals while also aligning them to a company’s business objectives. Xactly Objectives provides visibility into, and feedback relating to, incentives that drive employee behavior. Through an intuitive user interface, managers easily input goals and values that employees can then track throughout the week, month, quarter or year. Employees gain visibility into how their work helps the business reach its objectives, and managers gain visibility into employee performance.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Territories enables companies to manage sales team alignment by assigning individual sales representatives to specific territories of sales operations, using metrics such as geography, customer size, vertical market, or a set of product offerings. The mapping interface portion of Xactly Territories is provided by one of our partners.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Insights enables our customers to create industry-specific benchmarks using our empirical set of aggregated and anonymized data. We gather empirical data, including incentive compensation structures, performance results, demographic and other data, from the billions of transactions that we process. Our customers are able to compare their compensation plans and practices with those of a peer group or other benchmark that they select. The commercial insights derived from our data help customers make fact-based decisions to motivate employees and drive business performance.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Quota automates and improves the quota-setting process based on corporate objectives and disseminates those quotas throughout an organization. With Xactly Quota, managers are able to assign quotas based on a range of inputs including past team performance, customer run-rates and territory potential. Managers are able to review and distribute their teams’ quotas. Once quotas are set, managers initiate a workflow approval process. Xactly Quota integrates with Xactly Incent Enterprise and Xactly Insights.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Incent Views brings visibility and understanding to the incentive compensation information trapped inside a customer’s spreadsheet, homegrown or third-party compensation system. Xactly Incent Views gives customers the ability to benefit from Xactly Incent Enterprise’s reporting, analytics and mobile features without the need to replace their existing systems. Xactly Incent Views integrates with Xactly Analytics, Xactly eDocs & Approvals and Xactly Insights.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Inspire is a solution that provides onboarding and coaching for sales personnel. Xactly Inspire assists in shortening the ramp time for new sales representatives and matching coaching actions with sales incentive metrics.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Xactly Connect is a solution that provides customers the ability to leverage their own internal IT resources to easily integrate the disparate data sources required for timely, accurate incentive compensation management.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 7
+
+
+Our Customers
+ Our customer base is diverse, and as of January 31, 2017 we had approximately 980 customers with subscribers located internationally across numerous industries such as business & financial services, communications, high-tech manufacturing, life sciences, retail, travel & hospitality, media & internet and SaaS & traditional software. No single customer accounted for more than 5% of our revenue in the fiscal years ended January 31, 2017, 2016 and 2015. 
+Professional Services
+ We believe our professional services are a strategic part of our business. We strive to provide our customers with high-quality configuration and implementation services in order to better ensure a successful customer experience.
+ We offer a range of professional services, which include assisting customers in implementing our solutions and optimizing their use, such as application configuration, system integration, data transformation and automation services, education and training services and strategic services. These offerings are designed to increase customer retention and ensure optimal use of our solutions. Our implementation and professional services engagements range in duration from a few weeks to several months, depending on the type and size of project. We use a mix of employees, consultants and partners to provide professional services.
+ We also offer training to both compensation administrators and other users. These training sessions are offered both over the internet and in-person at a central location in San Jose or on-site at our customers’ places of business. In addition, we regularly offer more advanced classes on how to use, administer and customize our solutions to customers.
+ As part of our professional services, our Xactly Strategic Services includes consulting offerings that advance our customers’ understanding of industry best practices. Xactly Strategic Services also includes compensation plan design, incentive compensation management program optimization and benchmarking through big data analytics and insights. Using Xactly Insights, research and onsite consulting, Xactly Strategic Services helps our customers achieve best practices throughout the incentive compensation lifecycle.
+ Customer Success and Support
+ A cornerstone of our strategy is to focus on customer success, helping to ensure high customer usage and retention rates. We believe that superior customer support is critical to generating growth in new customers, as well as new subscribers and sales of additional modules to existing customers. Our customer support functions are focused on ensuring that our customers use our solutions, and identifying, analyzing and solving problems related to our solutions and services.
+ Our technical support program provides customers with access to a broad knowledge base so they can better use our solutions. Our standard offering is included in the subscription fee and provides customers with case support and telephone support, along with access to a variety of resources, including a customer success portal and webinars. Our Premium and Premium Plus support offerings are provided at an additional cost and include services such as customer case management and telephone support 24 hours a day, seven days a week. Our customer support offerings are provided by technical support specialists located in San Jose, California, London, United Kingdom and Bangalore, India.
+ Sales and Marketing
+ We target companies of various sizes, ranging from FORTUNE 50 enterprises to small, emerging companies. We sell our solutions primarily through our direct sales force located in San Jose, California, Denver, Colorado, Washington D.C. and London, United Kingdom. Our direct sales organization, consisting of field representatives, inside sales representatives and account development representatives, is organized by geography, account size or industry vertical and is also responsible for selling our solutions, services and support to new and existing customers. 
+ 8
+
+
+Our marketing activities are designed to build awareness of our brand and solutions and to generate customer demand and leads. While our marketing programs have traditionally targeted finance executives and those in sales operations and senior sales roles, we are also increasingly targeting information technology and human resources professionals. We engage in a broad range of marketing activities and our principal marketing programs include:
+  
+• | engaging in online marketing activities, including through our website, direct email, online web advertising, blogs and webinars;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | participating in field marketing events for customers and prospects, including user conferences, trade shows and industry events;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | staffing business and account development representatives who help convert leads into new sales opportunities;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | engaging in public relations, media relations and analyst relations;
+--+---------------------------------------------------------------------
+
+
+• | engaging in cooperative marketing efforts with partners, including joint press announcements, joint trade shows, channel marketing campaigns and joint seminars; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | providing thought leadership by authoring and disseminating information about incentive compensation, sales and employee performance management.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition, we host our annual CompCloud global user conference where current and potential customers participate in programs designed to help drive business results through the use of our solutions. This conference features a variety of prominent keynote and customer speakers, panelists and presentations focused on businesses of all sizes, across a wide range of industries. Attendees also gain insight into our recent solution releases and enhancements and participate in interactive sessions that give them the opportunity to express opinions on new features and functionality.
+ Partnerships
+ An important element of our strategy is to establish and maintain relationships with key industry leaders to help us evangelize, enable and ensure the adoption and continued use of our solutions. We have established a network of relationships that broaden and complement our solution offerings and increase our value to our customers. These key partnerships break down into three categories:
+
+• | Platform partners allow us to interoperate with their APIs, which is an important part of our solutions strategy and includes providers such as Oracle, Salesforce, SAP and Workday.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Referral partners work closely with us on joint go-to-market strategies and refer new opportunities to us. Our key referral partners include, The Corporate Executive Board Company, Ceridian, DocuSign, Inc., FPX, LLC, Host Analytics, Inc., Intacct Corporation, PROS, Inc., Sage Software, Inc., Salesforce, SAP, SteelBrick, a Salesforce company, Wipro Limited and ZS Associates, Inc. (ZS Associates).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consulting and implementation partners engage with us on consulting and implementation services at both the strategic and tactical levels. Our key consulting and implementation partners include Canidium, LLC, Deloitte LLP, Lanshore LLC, OpenSymmetry, Inc, and ZS Associates.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technology Infrastructure and Operations
+ We believe that our cloud-based, SaaS solutions enable us to develop and deliver functionality to customers more efficiently than traditional on-premise enterprise software vendors can. We have designed true multi-tenant cloud solutions and we have built our solutions on a modular, secure, highly available and scalable platform.
+ We build our solutions using service-oriented architecture principles and employ proprietary and third-party technologies. Our applications are written in industry-standard software programming languages including a standardized Java-based development environment, Hadoop and SQL relational database query language. We use commercially available hardware and a combination of proprietary, open source and commercially available software to provide our service. We have a purpose-built, modular, service-oriented platform that allows us to 
+ 9
+
+
+balance customer workloads tuned to our specific environment, allowing us to continue to scale in a fault-tolerant fashion. The platform architecture is designed to allow us to provide the high levels of uptime required by our customers, and to meet or exceed our 99.7% uptime commitment in our service-level agreements, excluding planned downtime. Our customers can access our solutions through mobile devices or through any certified web browser without installing or downloading applets.
+ Our solutions treat all customers as logically separate tenants utilizing shared application services and databases. We are able to spread the cost of delivering our service across our user base. In addition, because we do not have to manage thousands of distinct applications or application versions with their own business logic and database schemas, we can rapidly scale our business. As a result, we are able to simultaneously and seamlessly update our solutions for all our customers.
+ Our solution is flexible. Every page is dynamically rendered for each user, adhering to role-based security settings, including dynamic currency conversion support. As a result, our solution can display different views of data based on a number of factors, including user, department and area of responsibility in the company. We have also developed extensive reporting and analytics functionality that provides near real-time analysis of a customer’s data.
+ Our solutions can be integrated into other applications using secure internet network protocols. Through our platform, we allow customers and partners to insert, update, delete and query information in our solutions. We also have mechanisms to protect and govern the use of our solutions to ensure that all customers, regardless of size, have access to our solutions.
+ Security is central to our solutions and includes physical security, network security, application security and security at our third-party data centers. Our security measures are audited as part of our Statements on Standards for Attestation Engagements No. 16 (SSAE-16) SOC 1 Type II attestations by a third-party auditor. In addition, our customers only interact with our solutions over secure internet protocols.
+ We serve all our customers and subscribers from primary data centers located in Virginia and Northern California. Both data centers are SSAE-16 SOC 2 Type II and SOC 1 Type II audited and are secured by around-the-clock guards, biometric access screening and escort-controlled access, and are supported by on-site backup generators in the event of a power failure, with fully redundant heating, ventilation and air conditioning systems.
+ Research and Development
+ Our ability to compete depends in large part on our continuous commitment to research and development and our ability to rapidly introduce new applications, technologies, features and functionality into our solutions. Our research and development efforts are focused on improving and enhancing our existing service offerings by working closely with our customers, conducting quality assurance testing and improving our core technology as well as developing new proprietary services and solutions. Performance, security, functional depth and breadth, and usability of our solutions drive our technology decisions and product development.
+ We devote a significant portion of our resources to research and development. Research and development expenses were $18.2 million, $15.7 million and $11.9 million for the fiscal years ended January 31, 2017, 2016 and 2015, respectively.
+ Competition
+ The market for incentive compensation solutions for employee and sales performance management is evolving, highly competitive and significantly fragmented. With the introduction of new technologies and the potential entry of new competitors into the market, we expect competition to increase and intensify in the future, which could harm our ability to increase sales, maintain or increase renewals and maintain our prices.
+ We compete primarily with companies offering incentive compensation and employee and sales performance management applications via hybrid cloud-based and on-premise solutions. We also compete with spreadsheets, homegrown systems, and toolsets and products developed by software providers that allow customers to build new 
+ 10
+
+
+applications that run on the customers’ current infrastructure or as hosted services. Our competitors include Callidus Software Inc. (Callidus), Cognos, a division of International Business Machines Corporation (Cognos) and Oracle, as well as several other privately held companies.
+ We believe the principal competitive factors in our market include the following:
+  
+• | technology architecture (multi-tenant SaaS versus on-premise or hosted);
+--+-------------------------------------------------------------------------
+
+
+• | level of customer satisfaction;
+--+--------------------------------
+
+
+• | ease of deployment;
+--+--------------------
+
+
+• | ease of use;
+--+-------------
+
+
+• | breadth and depth of application functionality;
+--+------------------------------------------------
+
+
+• | total costs of ownership;
+--+--------------------------
+
+
+• | pricing of solutions;
+--+----------------------
+
+
+• | brand awareness and reputation;
+--+--------------------------------
+
+
+• | sophistication of technology platform;
+--+---------------------------------------
+
+
+• | actionable insights through big data analytics;
+--+------------------------------------------------
+
+
+• | capability for customization, configurability, integration, security, scalability and reliability of applications;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+• | providing automated solutions instead of spreadsheets to address changes in accounting standards;
+--+--------------------------------------------------------------------------------------------------
+
+
+• | ability to innovate and respond to customer needs rapidly;
+--+-----------------------------------------------------------
+
+
+• | domain expertise;
+--+------------------
+
+
+• | size of customer base and level of user adoption; and
+--+------------------------------------------------------
+
+
+• | ability to integrate with legacy enterprise infrastructures and third-party applications.
+--+------------------------------------------------------------------------------------------
+
+Intellectual Property
+ We rely on a combination of copyrights, trademarks, service marks, trade secrets, confidentiality procedures and contractual restrictions to establish and protect our proprietary rights in our solutions and services. As of March 31, 2017, we had two issued U.S. patents and seven pending U.S. patent applications. We intend to pursue additional patent protection. We have registered trademarks for “Xactly,” the Xactly logo, “Inspire Performance,” and certain other marks in the U.S. and several other jurisdictions. We are also the registered holder of a variety of domestic and international domain names that include “xactlycorp.com” and similar variations. We license software from third parties for integration into our solutions, including open source software and other software available on commercially reasonable terms. All our employees and independent contractors are required to sign agreements acknowledging that all inventions, trade secrets, works of authorship, developments and other processes generated by them on our behalf are our property and assigning to us any ownership that they may claim in those works. In addition, we generally enter into confidentiality agreements with our employees, consultants, vendors and customers, and generally limit access to and distribution of our proprietary information.
+Government Regulation
+ We are subject to a number of federal, state and international laws and regulations regarding data governance and the privacy and protection of consumer data that affect companies conducting business on the internet. In particular, we historically relied upon the U.S.-EU and U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce, related to personal data of European Union (EU) residents. In October 2015, the U.S.-EU Safe Harbor was invalidated by the EU Court of Justice and as a result, we are in the process of undertaking appropriate changes to our practices with respect to personal data as a result of this ruling. The U.S. and EU have recently agreed to a data transfer agreement referred to as the U.S.-EU Privacy Shield, designed to replace the invalidated U.S.-EU Safe Harbor. The 
+ 11
+
+
+U.S.-EU Privacy Shield has recently become effective, but it is not clear that we will find it appropriate to utilize as a mechanism to legitimize data transfers from the European Economic Area (EEA) to the U.S. We are engaging in other measures to legitimize our transfers of personal data from the EEA to the U.S. in the interim. 
+ In addition, many of our customers and potential customers, including those in the healthcare, financial services and other industries are subject to substantial regulation in the U.S. and in foreign jurisdictions regarding their collection, use and protection of data and may be the subject of further regulation in the future. These various laws and regulations are often evolving and sometimes conflict. Many international and domestic laws require notification to users when there is a security breach of their sensitive personal data. Other domestic and foreign laws and regulations require the adoption and maintenance of information security standards to protect certain types of data. We expect the costs of compliance with these laws and regulations to increase in the future as a result of additional laws and regulations and changes in legal interpretation. Furthermore, any failure on our part to comply with these laws and regulations, or any laws or regulations that may be promulgated in the future, may subject us to significant liabilities and fines.
+ Employees
+ As of January 31, 2017, we had 450 employees, with 119 in research and development, 160 in sales and marketing, 128 in operations, customer support and professional services and 43 in general and administrative. Of these employees, 335 were located in the U.S. and 115 were located internationally. Our employees are not covered by collective bargaining agreements. We believe our employee relations are good.
+ XactlyOne Foundation
+ In May 2015, we established the XactlyOne Foundation as a non-profit organization, and we issued 50,000 shares of our common stock to it. The proposed programs of the XactlyOne Foundation include grants, volunteerism and other projects. We believe the XactlyOne Foundation will foster employee morale, strengthen our community presence and provide increased brand visibility. We incurred a non-cash expense of $0.5 million in fiscal 2016 equal to the fair value of the shares of our common stock issued to the XactlyOne Foundation.
+ Corporate Information
+ We were incorporated in the State of Delaware on March 1, 2005. Our principal executive offices are located at 300 Park Avenue, Suite 1700, San Jose, California 95110. Our telephone number at that location is (408) 977‑3132.
+ Our website is located at www.xactlycorp.com and our investor relations website is located at investors.xactlycorp.com. Our Annual Reports on Form 10‑K, Quarterly Reports on Form 10‑Q, Current Reports on Form 8‑K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act, are available free of charge on the Investors portion of our web site as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC). Further, a copy of this Annual Report on Form 10‑K is located at the SEC’s Public Reference Room at 100 F Street, NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0330.
+ Webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading “Corporate Governance.” The contents of our websites are not incorporated by reference into this Annual Report on Form 10‑K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only.
+ 12
+
+
+ 

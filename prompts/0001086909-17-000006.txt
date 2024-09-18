@@ -1,0 +1,278 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+
+Overview
+We are the leading global provider of software and services that enable telecommunications service providers to deliver hosted, cloud-based Unified Communications, or UC, to their enterprise customers.
+Traditionally, many enterprises have utilized premise-based private branch exchanges, or PBX’s, to connect their offices and people to public telephony networks. Hosted UC enables the delivery of PBX features without the need for premise-based equipment. Hosted UC can be delivered through service providers using their own internet protocol, or IP-based networks and their mobile networks, as well as over the public internet (also known as "over the top" or OTT). In addition to voice telephony, UC offers additional features such as full integration with mobile devices, high definition, or HD, voice and video calling and conferencing, instant messaging and presence, or IM&P, team collaboration and desktop sharing.
+We believe we are well positioned to enable service providers to capitalize on increasing demand by enterprises for such UC services by enabling them to efficiently and cost-effectively offer a broad suite of services to their end-users. Our service provider customers, who are located in more than 80 countries, are delivering services and have deployed over 13 million UC subscriber lines worldwide using our software. We count among our customers 25 of the top 30 telecommunications service providers globally, as measured by revenue for the year ended December 31, 2015. 
+BroadSoft Business 
+Our BroadSoft Business solution is a communications and collaboration offering that enables telecommunications service providers to offer businesses and other enterprises UC features and functionalities on a cloud-delivered basis without the need for traditional premise-based PBX equipment. Our technology is designed to meet service providers’ stringent requirements for service availability, network integration and scale and to address the needs of: various business segments, such as micro, small, medium and large enterprises; market segments such as hospitality, government, education, contact centers and healthcare; and industries requiring call center functionality.
+The capabilities of our BroadSoft Business offering can be accessed through desk phones, smartphones, tablets, laptops and PCs and as a result, BroadSoft Business provides full support for today’s distributed workforce and mobile employees. Our solution can also be deployed across multiple access networks and technologies, including fixed line/fiber and traditional mobile 3G networks, as well as voice over LTE, or VoLTE, networks and voice over wifi, or VoWiFi. BroadSoft Business includes our UC-One, Team-One and CC-One applications.
+
+• | UC-One: UC-One is our suite of cloud communications and collaboration solutions that provide integrated business, such as phone services, messaging and presence, audio and video conferencing, screen sharing, file sharing and virtual meeting rooms. The features work seamlessly across devices, allowing end-users to utilize the functionalities both in the office and using mobile devices. 
+
+
+• | Team-One: Team-One is our collaboration solution that allows users to chat, track notes, share files and organize projects into shareable workspaces. The Team-One solution integrates with more than 50 popular applications, including Google Drive and Salesforce. 
+
+
+• | CC-One: CC-One is our contact center solution. CC-One enables enterprises to have omni-channel interactions over web, email, chat and social media with customers, while also providing integrated collaboration between call center agents and the back office through voice, chat and video. CC-One functionality also includes predictive analytics, permitting more efficient routing of calls and analysis of agent and customer behavior. 
+
+The benefits of BroadSoft Business to enterprises and end users include:
+
+• | Solution Breadth and Flexibility. These applications are scalable and can be used by businesses of varying sizes, from very small businesses of two employees to the largest global enterprises with hundreds of thousands of employees in multiple locations. Capacity can be purchased as needed by enterprises in response to business and operational needs. 
+
+
+• | Multi-Location and Ease of Use. Because BroadSoft Business is cloud and IP-based, an enterprise can provide uniform communications functionality across its entire organization, enabling a consistent and simplified user experience. It also provides a single console to manage all the communication and collaboration needs for businesses with geographically dispersed offices and mobile workers, greatly streamlining business operations and reducing operational costs. 
+
+1
+
+
+• | Enhanced Mobility. Our solution provides the flexibility to work from the office, at home or on the move, with the full range of services available irrespective of location or end user device. 
+
+
+• | Business Continuity. Because BroadSoft Business is cloud-based, in the event an enterprise has a business interruption issue, the enterprise’s core communications and collaboration services would remain unaffected. 
+
+
+• | Openness. We have an active ecosystem of development partners who use our open APIs to create complementary offerings designed for specific market segments or industry verticals. 
+
+
+• | Lower Total Cost of Ownership. We believe that enterprises will experience a lower total cost of ownership compared to legacy premise-based solutions. Because BroadSoft Business is cloud-based, there are significantly lower capital investment requirements, fewer highly trained personnel required and reduced costs given the inherent flexibility of per-user based costs. 
+
+Our UC-One offering is available to service providers either as a BroadWorks software solution or as a BroadCloud software as a service, or SaaS, cloud-delivered solution. Team-One and CC-One are solely offered as SaaS cloud-delivered solutions.
+Software.  BroadWorks is our application server software offering, with the software generally deployed on industry-standard servers located in the service provider’s data centers. With BroadWorks implemented as an application server in its infrastructure, the service provider is responsible for the development and implementation of the overall solution and integration with the service provider’s network, operations, support and billing systems. This deployment model gives the service provider the maximum flexibility to define its UC-One offering. In this model, revenue is derived from perpetual software license and annual maintenance and support fees, as well as associated professional services. Since our inception, the majority of our revenue has been derived from such software licensing.
+BroadCloud. BroadCloud is our cloud SaaS platform, providing BroadWorks and associated managed services for service providers and other customers. In this model, we have implemented UC-One and other BroadWorks capabilities, as well as Team One and Contact Center One, within our own data centers and provide operations capabilities covering sales and order management, service delivery, device provisioning, customer service and billing. We believe that through BroadCloud, service providers can accelerate their deployments of BroadSoft Business services and reduce their capital expenditures and the internal costs of implementing UC services. Generally, service providers utilizing our BroadCloud offering pay us on a monthly recurring basis based on the total number of subscriber lines the service provider has deployed. We recently made a substantial investment in our BroadCloud platform such that we now offer two deployment models: (a) a fully managed services option where billing, provisioning and direct end user support is provided by us, and (b) a platform as a service, or PaaS, option, which is BroadWorks hosted by us without the associated managed services, for those service providers wanting to deploy their own provisioning systems, customer premise equipment, telephony and user experience. This PaaS service delivery model gives service providers greater control, flexibility and customization over the services and delivery of cloud solution, at a lower price point.
+Company
+We were incorporated in Delaware in 1998 and we began selling BroadWorks in 2001. We sell our products to service providers both directly and indirectly through distribution partners, such as telecommunications equipment vendors, value-added resellers, or VARs, and other distributors.
+Industry
+Traditionally, many enterprises have used premise-based PBX’s to connect their offices and people to the public telephone network. These PBX offerings were primarily voice communications based. We believe several trends are driving enterprises of all sizes to embrace the change from premise-based to cloud-based delivery of PBX functionality:
+
+• | The increasing demand by enterprises to move business applications to the cloud for operational savings, flexibility and expanded services;
+
+
+• | The desire by enterprises to drive greater team collaboration and workplace productivity through communications and collaboration tools;
+
+
+• | The demand by enterprises to offer broader communications services such as HD voice and video calling and conferencing across their organizations;
+
+
+• | The increasingly distributed nature of enterprises’ operations and workforces and the desire to provide fully integrated UC to them;
+
+
+• | The proliferation of mobile devices used by employees and other workers; and
+
+2
+
+
+• | The rapid expansion of high quality IP bandwidth, particularly the expansion of wireless bandwidth such as Wi-Fi and VoLTE.
+
+We believe that service providers are well-positioned to address these market demands. A number of our service provider customers have made significant investments in their IP-based and mobile networks. Many have a long track record of reliably delivering these business critical services. We believe that as UC solutions are increasingly being offered over fixed-line and mobile networks, service providers can achieve significant competitive advantages in delivering such services over their networks. Further, we believe service providers have a significant incentive to offer UC services to their enterprise customers as competitive and regulatory pressures have commoditized their historical revenue streams. In addition, we believe that larger service providers are becoming more focused on implementing transformations of their fixed and mobile networks from traditional circuit switched networks to their IP-based broadband networks. As these service providers embark on such projects, many are incorporating application servers like BroadWorks to enable them to offer enhanced business services that were previously offered over their circuit switched networks. 
+We believe this trend is evident in both fixed-line transformations and increasingly in service providers’ investment in their mobile VoLTE networks. We further believe this trend is a positive development for us, as service providers both replace services to their business users on their traditional networks and provide new business services. We believe we are well-positioned to meet carrier demand for these large network transformation projects, and have won several transformation projects around the world over the past year with Tier 1 service providers. These projects have contributed, and will continue to contribute, significant revenue and billings as we meet project milestones and provide professional services to our customers. We also believe these further enhance our role as a strategic partner to our service provider customers, while providing increased opportunities for license seat growth over a multi-year period with such customers.
+Demand for Voice and Multimedia Services
+Service providers are providing UC services to enterprise and consumer customers. Enterprise subscribers include small, medium and large businesses, universities and governments and range in size from a few end-users to tens of thousands. Consumer subscribers include individuals and families purchasing communications services for their personal and residential use.
+Enterprises
+Enterprises require communications features and functionality that are varied and, in many cases, complex. Four-digit dialing, multi-party conferencing and video conferencing are common enterprise needs. Historically, enterprises have purchased voice and data access from service providers and deployed customer premise-based equipment, or CPE, such as PBXs to help deliver this functionality. In the past, enterprises often choose PBXs because they frequently required greater features and functionality than could previously be obtained efficiently from service providers’ legacy voice networks.
+Using our core communications platform, we believe service providers can enhance the quality and functionality of their communications offerings and increase the volume of communication services delivered to customers as hosted offerings. Concurrently, we believe a number of trends are driving increased demand for hosted communication services, including:
+
+• | Shift towards Unified Communications and other collaboration tools. We believe enterprises expect their communication tools to address their, and their employees', desire for solutions that allow employees and teams to collaborate and to drive workplace productivity. This is the driving focus of our expanded BroadSoft Business portfolio of UC-One, Team-One and CC-One. 
+
+
+• | Increased acceptance of cloud-based services. Enterprises are increasingly obtaining mission-critical IT services, such as computing and storage, from the cloud. We believe the positive experiences and savings enterprises can achieve with cloud-based IT systems will drive enterprises to continue to move other important functions, such as communications services, into the cloud. 
+
+
+• | Mobile smartphones and tablets are driving accelerated change and increased adoption on UC and collaboration tools. As mobile and other communications services are increasingly integrated, the difficulty of using a CPE-based approach is compounded by the complexity of these additions. Enterprise and consumer users are demanding their communications services be integrated across their fixed-line, personal computer and mobile devices. Hosted services deliver communications services from a network, are centrally managed by or on behalf of the service provider and deliver uniform service across an enterprise. We believe it is far easier to offer integrated services for mobile devices in a hosted environment than in a CPE-based environment. Hosted services also enable enterprises to integrate employee-owned mobile devices within the enterprise (often referred to as “bring your own device”). 
+
+
+• | New IP-based 4G Wireless Networks. We believe all the trends described above will accelerate even further as service providers deploy and adapt 4G wireless networks, such as LTE networks. This 
+
+3
+
+transition will, we believe, become even more pronounced as service providers move to offering fully IP-based voice and telephony services, commonly referred to as VoLTE.
+
+• | Accelerating rate of technology change. Communications technology is evolving rapidly, with an increase in the number of ways people interact and the frequent introduction of new devices and services. Keeping pace with this change becomes difficult and expensive in a CPE-based environment where the investment to interoperate with new devices or provide new services must be fully borne by the enterprise. Furthermore, CPE vendors operate proprietary systems with typically higher prices and a limited selection of end-point devices. As new services are added, equipment upgrades are often required and, unless the equipment of all constituents within the enterprise is upgraded, functionality can remain limited. 
+
+The BroadSoft Solution
+To meet market opportunities and competitive challenges, many service providers are offering BroadSoft Business capabilities to their enterprise customers, with service providers doing so using one or more of our deployment options.
+BroadSoft’s offerings provide service providers several key advantages, including:
+
+• | Rapid delivery of feature-rich enterprise and consumer multimedia services. We believe our solutions provide the most extensive set of UC features and applications available for both enterprise and consumer applications. We also believe BroadWorks is the most feature rich application server for fixed-line, mobile and cable broadband access networks. Our BroadCloud SaaS platform allows service providers to quickly market to their customer's cloud-based PBX functionality as well as additional, complementary UC offerings and allows end-users to access UC services from a multitude of devices. 
+
+
+• | Demonstrated adoption globally across many service provider networks. We have service provider customers in more than 80 countries who have purchased and/or are delivering services utilizing our software. 
+
+
+• | Broad interoperability across network equipment vendors, network architectures and devices. BroadWorks interoperates with all significant network architectures, access types, infrastructures and protocols and integrates and interoperates with the major network equipment vendors’ core network solutions. 
+
+
+• | Extensive technology and device partner ecosystem. BroadWorks interoperates with more than 900 devices, including more than 800 CPE devices, such as IP phones, computer-based soft-phones, conferencing devices, IP gateways, mobile phones and consumer electronics. 
+
+
+• | Scalable architecture and carrier-grade reliability. Our applications are designed to scale to support hundreds of millions of subscribers with a carrier-grade level of reliability. 
+
+
+• | Leadership in emerging standards and requirements. We are actively involved in the development of the IP Multimedia Subsystem, or IMS, SIP and VoLTE standards, as well as several other standards that we expect to shape our market in the future. Our BroadWorks application server supports what we believe is the world’s largest IMS deployment, based on the number of subscribers. 
+
+Our Strategy
+Our goal is to strengthen our position as the leading global provider of software and services that enable service providers to deliver cloud-based UC to their enterprise customers. To achieve this goal, our strategy is to deliver an increasingly feature rich set of services to address the needs of a broader spectrum of business customer types and their end-users. Key elements of our strategy include:
+
+• | Accelerate the adoption of UC solutions by providing communications centric UC and collaboration capabilities. BroadSoft Business is driven by our vision of extending UC to help drive how enterprises and people communicate, interact and collaborate by integrating their communication and collaborative tools with contextual intelligence. We also intend to accelerate UC adoption and our service provider customers’ time to market by promoting and expanding our UC and collaboration offerings. Our BroadCloud SaaS solutions enables our service providers to offer UC features and functions through a service offering that we host and manage. We intend to expand the geographic availability of our BroadCloud SaaS offerings beyond the United States, United Kingdom, Germany, Japan and France. 
+
+
+• | Extend our technology leadership and product depth and breadth. We intend to continue to provide industry leading UC and collaboration solutions through product innovation and substantial investment in research and development 
+
+4
+
+for new features, applications and services. We believe that we can leverage our market position in UC to provide additional collaboration capabilities to our service provider customers and their end enterprise users.
+
+• | Improve brand awareness through our “Powered by BroadSoft” campaign. Our “Powered by BroadSoft” effort is intended to improve our brand awareness with end-users, and to assist our service provider customers in their selling efforts to end enterprise customers. 
+
+
+• | Broaden demand by enterprises and assist our service provider customers by developing more market segment directed UC offerings. We enable service providers to develop UC offerings targeted towards specific business segments, including small, medium and large enterprises and market segments such as hospitality, government, education, contact center and healthcare.
+
+
+• | Drive revenue growth by:
+
+
+• | Assisting our current service provider customers to sell more of their currently deployed BroadWorks and BroadCloud SaaS offerings. We support our service provider customers by regularly offering enhanced and new features to their current applications, as well as providing tools and training to help them market their services to subscribers. We have also launched our “Powered by BroadSoft” initiative which is designed to increase end-user awareness of our products. 
+
+
+• | Expanding our BroadCloud SaaS offering. We believe that service providers will increasingly find that using our BroadCloud SaaS offering to deliver UC solutions to their customers will accelerate their time to market and product introduction cycles. We have expanded our BroadCloud offerings to include full service offerings where we provide additional services to our service provider customers, such as provisioning and billing, as well as BroadCloud PaaS, a more limited, less expensive option where we provide cloud based access to BroadWorks without the business support capabilities of BroadCloud.
+
+
+• | Continuing to acquire new customers and increase usage by existing customers. Our customers are located around the world and include many of the top telecommunications services providers globally. We believe we are well positioned to continue to acquire new customers, particularly with the addition of our BroadCloud offerings and our focus on developing UC solutions based on enterprise size and vertical market segments. We also believe we will continue to expand our presence within our existing customers through their deployment of more of our offerings. 
+
+
+• | Pursuing selected acquisitions and collaborations that complement our strategy. We intend to continue to pursue acquisitions and collaborations that we believe are strategic to strengthen our industry leadership position, expand our geographic presence or allow us to offer new or complementary products or services. 
+
+Our Platform
+Service providers can offer their subscribers a comprehensive portfolio of enterprise and consumer communications services using BroadWorks and BroadCloud. We typically license and price BroadWorks on a per-subscriber, per-feature package basis and we typically sell our BroadCloud services on a per-month per-user basis. We can deploy BroadWorks or BroadCloud in a variety of network configurations, matching the needs of fixed-line, mobile and cable service providers.
+BroadSoft Enterprise Solutions
+BroadSoft Business
+Our BroadSoft Business solution includes three enterprise applications. We offer our UC-One offering to service providers either as a BroadWorks software solution, which is premise based at the customer, or as a hosted BroadCloud SaaS solution. Our team collaboration application, Team-One, and our contact center application, CC-One, are both solely offered on our BroadCloud platform.
+Hosted Unified Communications
+Hosted UC products, available as either software deployed within a service provider's network or on a SaaS basis hosted and managed by us, enable service providers to offer enterprises advanced IP PBX and UC features through a hosted service rather than through premise-based equipment, such as PBXs. As enterprise needs become more complex and as enterprise budgets are more closely controlled, we believe enterprise demand for cost-effective and feature-rich applications such as multimedia, mobility and UC is growing. We also believe the delivery of advanced IP PBX and UC features in a hosted model is simpler to implement and more cost efficient for both the service provider and enterprise customer than premise-based alternatives.
+The advanced IP PBX and UC features we offer to enterprises through hosted UC applications include:
+
+• | PBX functionality such as call control, call waiting, call forwarding and conference calling, in each case across multiple locations;
+
+5
+
+
+• | HD voice and video conferencing;
+
+
+• | UC features, such as IM&P and email integration and collaboration;
+
+
+• | integration of offerings across fixed-line and mobile devices and networks;
+
+
+• | integrated voice, video and fax messaging;
+
+
+• | enhanced features such as auto attendants, call centers and conferencing;
+
+
+• | open APIs for third-party application development that complements the core call control functionality;
+
+
+• | clients, which are devices and software that request information, for feature control and administration;
+
+
+• | regulatory functions such as emergency calling (E911) and lawful intercept (CALEA); and
+
+
+• | geographic redundancy and disaster recovery.
+
+SIP Trunking
+Our BroadWorks SIP Trunking solution enables service providers to provide IP interconnectivity and additional services to enterprises that already have premise-based PBXs. With SIP Trunking, service providers are able to bundle voice and data over a single converged IP pipe, creating a more economical offering than can be achieved with separate voice and data connections. We believe our solution enables service providers to differentiate their SIP Trunking service offerings and increase revenue by offering enhanced services such as UC, video, mobility, global four-digit dialing and business continuity.
+BroadSoft Xcelerate and Xtended Programs
+Our BroadSoft Xcelerate program focuses on and fosters successful go-to-market initiatives with our service provider customers, from target offers to sales and marketing efforts. Our go-to-market resources help service providers prepare to launch, market and sell their service offerings to their end-users. We generally seek to help our service providers accelerate the launch and deployment of our applications to their subscribers by providing them with a best-practices framework and resources such as templates and planning guides.
+Our BroadSoft Xtended program is designed to enable our service provider customers to create and/or deploy highly differentiated IP-based communications services using BroadWorks. BroadSoft Xtended is premised on two operating principles:
+
+• | Expanding familiarity with web services APIs. The powerful RESTful Xtended Services Interface, or Xsi, exposes our BroadWorks software to other applications; and 
+
+
+• | Maintaining community. An innovative developer community driven by the BroadSoft Xtended developer program. 
+
+Technology
+We have invested significant time and financial resources into the development of our suite of product offerings. Our BroadWorks code base comprises over twelve million lines of software code refined over 15 years and 22 major releases. While the predominant industry approach has been to use proprietary standards, which greatly limits interoperability, our technology strategy is to adopt and extend leading open standards with the objectives of providing the widest level of interoperability in the industry. Our products implement a diverse set of industry protocols such as SIP, DIAMETER, SNMP, SOAP and RESTful-based interfaces, allowing for the successful penetration of the service provider market across different types of architectures, access types and infrastructures.
+Our technology includes software-based server functions and software clients designed for scalability and performance. Our server functions provide a number of discrete capabilities, including call control and signaling, media processing and provisioning interfaces to back office infrastructure. Our software clients run on a variety of devices, including smartphones, tablets and personal computers. Our open interfaces allow service providers to quickly and easily integrate with mobile applications, back office systems, web portals and network infrastructure and also permits them to deploy applications that complement the functionality of the servers. Because the solution reaches the service provider’s subscribers, we believe this end-to-end integration is critical to ensure the usability, look and feel of the service offering is superior.
+The key elements of our technology are:
+
+• | SIP. We believe we have the industry’s most customer-tested and fully functioned SIP stack. Because we developed the software ourselves, we can rapidly customize it and resolve any related issues. We have developed SIP extensions for many advanced PBX functions such as advanced call control and bridged line appearances. Our SIP stack provides programmable controls on a per-device basis to allow 
+
+6
+
+for maximum compatibility and interoperability. We have validated our stack and deployed it with leading IMS core network vendors;
+
+• | Call control. We have developed a patented architecture for service definition, service execution, interface abstraction, event routing and service precedence. This provides an extensible pattern for creating and adding new services and/or interfaces without an impact on existing functionality. Interfaces are abstracted so that services can be written to work with any protocol. This approach yields a product we believe is easier to test and consequently has fewer defects. BroadSoft has evolved the service operating system to natively support the IMS call model; 
+
+
+• | Geographic redundancy. We have designed a geographically redundant solution tailored for call control that requires no special software and uses standard IP networking configurations with standard IP addressing. This solution supports seamless failover for server outages and IP networking issues. It also allows for placement of servers in any geography without distance limitations. The solution is supported by leading IMS core network vendors and session border controller vendors. Our BroadWorks solution has proven greater than 99.999% reliability with over ten years of historical data; 
+
+
+• | Common OAMP platform. BroadWorks has a common management container for all BroadSoft servers, providing consistent functions for operations, administration, management and provisioning, or OAMP. It supports identical carrier grade management interfaces on all servers and includes functions for command line interfaces, alarms, statistics, configuration, charging, security and provisioning. It is fully tested and validated with leading carrier network management systems and customer care systems and proven carrier grade in Tier 1 telecommunications service providers. It works on standard servers, as well as virtualized servers; 
+
+
+• | Media resource framework. We have developed a completely software-based media resource framework for dual-tone multi-frequency detection, media playback, recording, conferencing and repeating. The framework supports all de facto standard audio and video codecs. It supports the Internet Engineering Task Force, or IETF, and the 3rd Generation Partnership Project, or 3GPP, standard protocols, including the standard format for specifying interactive voice dialogues between a human and a computer, or VoiceXML, and call control extensible markup language, or CCXML, which provides telephony support to VoiceXML. The framework can be integrated with all leading voice recognition and text-to-speech engines. We believe using a completely software-based platform not only provides us with a technical advantage over our competition, but also a strong commercial advantage since we can bundle this technology with BroadWorks; 
+
+
+• | Client technology. We support a full suite of smartphone, tablet and personal computer voice over IP, or VoIP, clients. These clients provide audio and video calling, IM, presence, conferences, collaboration and service management. They are designed to be integrated with our network software and cloud services, providing a superior user experience; 
+
+
+• | IMS and VoLTE. Our products support IMS interfaces, adhering to a 3GPP specifications. We provide a fully functional Telephony Application Server (TAS) and Media Resource Function (MRF), supporting VoLTE and fixed-line applications. We have IMS deployments, providing both business and consumer applications; and 
+
+
+• | Network Function Virtualization (NFV). BroadWorks is a suite of Virtual Network Functions (VNFs) that are supported in an NFV environment. BroadWorks VNFs utilize standard IT virtualization technology. This allows our customers to consolidate their networks onto industry standard high volume servers, located in their data centers. 
+
+Global Support Services
+Providing a broad range of professional support services is an integral part of our business model. We offer services designed to deliver comprehensive support to our service provider customers and distribution partners through every stage of product deployment. Our services can be categorized as follows:
+
+• | Pre-sales support. Our worldwide sales engineering group works with our direct sales force to provide demonstrations, architecture consulting, interoperability testing and related services in connection with product sales opportunities to establish the capability, functionality, scalability and interoperability of our software with a service provider’s network; 
+
+7
+
+
+• | Professional services. Our professional services group provides installation services, such as planning, consulting and staging of software on the customer’s hardware, as well as network integration services, project management and remote upgrades. We also offer our customers the option of longer-term engagements in the form of “resident engineering” services. In addition, we offer a full suite of consulting services including network planning, network architecture definition, back office consulting and solution verification; 
+
+
+• | Global operations centers. We maintain operations centers in several locations around the world to provide our customers with product life-cycle services, such as platform support and maintenance services. We also host our BroadCloud SaaS offerings in select operations centers. Members of our technical assistance center and regional project management and professional services teams provide remote assistance to customers via these locations and our in-depth web support portal, including periodic updates for our software products and product documentation. To respond to our customers’ needs, our technical assistance personnel are available 24 hours a day, seven days a week and accessible by phone, e-mail and, when required, on-site via a professional services engagement; and 
+
+
+• | Training. We offer an array of training services to our customers, which include systems administration, provisioning and advanced diagnostic courses. We present these courses regularly at our regional centers and headquarters and we also can deliver versions of the courses at customer sites. We also offer product and feature training via streaming video courses, which we refer to as our eLearning offerings, as well as a full product certification program that is available through our BroadSoft University website. 
+
+We believe our commitment to providing high-quality services to our customers provides us with a competitive advantage by helping us to retain customers and to identify new revenue opportunities.
+Sales and Marketing
+We market and sell our products and services directly, through our internal sales force, and indirectly, through our distribution partners, such as VARs and system integrators. For the years ended December 31, 2016, 2015 and 2014, approximately 87%, 89% and 87%, respectively, of our revenue was generated through direct sales.
+Direct sales. Our direct sales team sells our products and services to service providers worldwide and supports the sales efforts of our various distribution partners.
+Distribution partners. We periodically enter into non-exclusive distribution or reseller agreements with distribution partners, such as VARs and system integrators. We predominantly engage with a distribution partner in connection with marketing to international service providers. Our agreements with our distribution partners typically have a duration of one to two years and provide for a full spectrum of sales and marketing services, product implementation services, technical and training support and warranty protection. These agreements generally do not contain minimum sales requirements and we ordinarily do not offer contractual rights of return or price protection to our distribution partners. Our partners include many of the largest networking and telecommunications equipment vendors in the world, as well as regionally focused system and network integrators. We may seek to selectively add distribution partners, particularly in countries outside the United States, to complement or expand our business.
+Marketing and product management. Our marketing and product management teams focus their marketing efforts on increasing our Company and brand awareness, heightening product awareness and specifying our competitive advantages, as well as generating qualified sales leads from existing and prospective customers. As part of marketing our products and services, we communicate enhancements and new capabilities, convey reference solutions that we develop with our partners and announce successful end-user market offerings jointly with our service providers. Within our industry, we work to influence next generation service architectures and service provider requirements globally by actively contributing to industry-related standards organizations, conferences, publications and analyst consulting services. Additionally, we work closely with service providers to develop subscriber loyalty and share successful best practices through user conferences, on-site seminars, our BroadSoft Xcelerate program, monthly webinars, social networking campaigns and newsletters.
+Customers
+We have several hundred service provider customers in more than 80 countries, including 25 of the top 30 telecommunications service providers globally, as measured by revenue in the year ended December 31, 2015, who are delivering services utilizing our software. These companies have either purchased products or services directly from us or have purchased our software through one of our distribution partners. Our customers are located around the world and include many of the top telecommunications service providers globally. Our customers include fixed-line, mobile, cable and Internet service providers. 
+8
+
+As a result of the diversity of service providers comprising our customer base, our products are used in a broad array of services, applications, network types and business models worldwide.
+Revenue from customers located outside the United States represented 48%, 38% and 51% of our total revenue in 2016, 2015 and 2014, respectively. For the year ended December 31, 2016, Verizon accounted for 10% of our total revenue. For the year ended December 31, 2015, no single customer exceeded 10% of our total revenue. For the year ended December 31, 2014, Telstra Corporation Limited accounted for 13% of our total revenue.
+Research and Development
+Continued investment in research and development is critical to our business. We have assembled a team of engineers primarily engaged in research and development, with expertise in various fields of communications and software development. Our research and development department is responsible for designing, developing and enhancing our software products and performing product testing and quality assurance activities, as well as ensuring the interoperability of our products with third-party hardware and software products. We also validate and produce solution guides for joint reference solutions with our partners that specify infrastructure components and management functions. We employ advanced software development tools, including automated testing, performance and capacity testing, source code control, requirements traceability and defect tracking systems. Research and development expense totaled $77.2 million, $60.7 million and $50.1 million for 2016, 2015 and 2014, respectively.
+Competition
+The market for IP application offerings is extremely competitive, rapidly evolving and subject to changing technology. We expect competition to persist and intensify in the future. We believe that the principal competitive factors in our industry include product features and performance, interoperability, time required for application deployment, scalability, customer support offerings, customer relationships, partner relationships, pricing and total deployment costs.
+Currently, we compete with network equipment companies such as Ericsson AB, GENBAND, Inc., Huawei Technologies Co. Ltd, Metaswitch Networks Ltd and Nokia Corporation for service provider customers.  Some of the network equipment companies with which we have non-exclusive distributor partnerships may also provide, as a package, their own network equipment in combination with application software that they have developed and which may compete with us. Additionally, we compete indirectly, through our service provider customers, with other companies that offer UC capabilities to enterprises, including Avaya, Inc, Cisco Systems, Inc., Microsoft Corporation and Mitel Networks Corporation, as well as over-the-top UC providers such as RingCentral, Inc. and 8x8, Inc. Some of the companies that offer UC capabilities may also offer such capabilities on a wholesale or reseller basis to service providers for those service providers to offer to their customers. Such arrangements may compete with our offerings to service providers.
+Many of our current and potential competitors may have significantly greater financial, technical, marketing and other resources than we do and may be able to devote greater resources to the development, promotion, sale and support of their products. Our competitors may also have more extensive customer bases and broader customer relationships than we do, including relationships with our potential customers. In addition, many of these companies have longer operating histories and greater brand recognition than we do.
+Intellectual Property
+Our success depends upon our ability to protect our core technology and intellectual property. To accomplish this, we rely on a combination of intellectual property rights, including patents, trade secrets, copyrights and trademarks, as well as customary confidentiality and other contractual protections. We have a number of United States and foreign patents and pending applications that relate to various aspects of our products and technology. While we believe that our patents have value, no single patent is essential to us or to any of our principal products or services. Our registered trademarks in the United States and a significant number of other countries throughout the world include BroadSoft and BroadWorks.
+In addition to the protections described above, we generally control access to and use of our proprietary software and other confidential information through the use of internal and external controls, including contractual protections with employees, consultants, customers and vendors, and our software is protected by U.S. and international copyright laws. We also incorporate a number of third-party software programs into our products, including BroadWorks, pursuant to license agreements. Our software is not substantially dependent on any third-party software, with the exception of database technology that is provided by Oracle pursuant to a license agreement expiring in 2020, although our software does utilize open source code. Notwithstanding the use of this open source code, we do not believe that our usage requires public disclosure of our own source code nor do we believe the use of open source code is material to our business.
+9
+
+We may not receive competitive advantages from the rights granted under our patent and other intellectual property rights. If our products, patents or patent applications are found to conflict with any patents held by third parties, we could be prevented from selling our products, our patents may be declared invalid or our patent applications may not result in issued patents. In foreign countries, we may not receive effective patent, copyright and trademark protection. We may be required to initiate litigation to enforce any patents issued to us, or to determine the scope or validity of a third party’s patent or other proprietary rights. In addition, we are currently subject to lawsuits, and in the future we may be subject to additional lawsuits by third parties seeking to enforce their own intellectual property rights. See Item 3, Legal Proceedings.
+We license our software to customers pursuant to agreements that impose restrictions on the customers’ ability to use the software, including prohibitions on reverse engineering and limitations on the use of copies. We also seek to avoid disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute nondisclosure and assignment of intellectual property agreements and by restricting access to our source code. Our employees and consultants may not comply with the terms of these agreements and we may not be able to adequately enforce our rights against these non-compliant parties.
+Employees
+As of December 31, 2016, we had 1,597 employees in 23 countries, 600 of whom were primarily engaged in research and development, 343 of whom were primarily engaged in sales and marketing, 468 of whom were primarily engaged in providing customer support, cloud operations and professional support services and 186 of whom were primarily engaged in administration and finance. As of December 31, 2016, we had 732 employees located in the United States. None of our employees is represented by a labor union or covered by a collective bargaining agreement. We consider our relationship with our employees to be good.
+Available Information
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, are available, free of charge, on our Investor Relations website at www.investors.broadsoft.com as soon as reasonably practicable following our filing of any of these reports with the SEC. You can also obtain copies free of charge by contacting our Investor Relations department at our office address listed below. The public may read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy, and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. The information posted on or accessible through these websites are not incorporated into this filing.
+Our Corporate Information
+Our principal executive office is located at 9737 Washingtonian Boulevard, Suite 350, Gaithersburg, Maryland 20878 and our telephone number is (301) 977-9440. Our website address is www.broadsoft.com.
+10
+

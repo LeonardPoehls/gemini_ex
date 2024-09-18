@@ -1,0 +1,252 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Overview
+Sonus helps the world's leading communications service providers and enterprises embrace the next generation of Session Initiation Protocol ("SIP") and 4G/LTE (Long Term Evolution)-based solutions, including Voice over Internet Protocol ("VoIP"), Voice over WiFi ("VoWiFi"), video and Unified Communications ("UC") by securing and enabling reliable and scalable Internet Protocol ("IP") networks. With customers around the globe and 20 years of experience transforming networks to IP, Sonus enables service providers and enterprises to capture and retain users and generate significant related return on investment. Sonus products include session border controllers ("SBCs"), diameter signaling controllers ("DSCs"), and VoWiFi solutions, which are supported by a global services team with experience in design, deployment and maintenance of some of the world's largest IP networks.
+Our solutions enable the delivery of real-time communication applications over wireline and wireless IP infrastructure with the same performance and quality level historically delivered from legacy voice time-division multiplexing ("TDM") technologies. Our original flagship product, the GSX9000 VoIP softswitch, helped usher in the VoIP revolution by providing a carrier-class IP telephony switch that would support the transition from circuit-switched to IP-based network communications. Other products soon followed, such as the Sonus Element Management Server and the Sonus PSX Centralized Routing & Policy Server, which allowed communications service providers to replace high-cost circuit-based and space-consuming network equipment with smaller and more cost-efficient IP-based servers. We leveraged this expertise in managing and scaling large VoIP networks and introduced one of the industry's first SBCs to address the growing need for secure interconnection between private communications networks and the public Internet. Our SBC products are the fastest-growing segment of our business, addressing the needs of mid- to large-sized enterprises from core infrastructures to branch offices, as well as the full spectrum of communications service providers, both large and small.
+Today Sonus provides communication solutions to service providers and enterprises that enable them to secure and unify their real-time communications infrastructures. Our solutions provide a secure way for our customers to link and leverage multivendor, multiprotocol communications systems and applications across their networks, around the world and in a rapidly changing ecosystem of IP-enabled devices such as smartphones and tablets. Our solutions help realize the intended value and benefits of UC platforms by enabling disparate communications environments, commonplace in most enterprises today, to work seamlessly together. Likewise, Sonus solutions secure the evolution to cloud-based delivery of UC solutions - both for service providers transforming to a cloud-based network and for enterprises using cloud-based UC. In 2016, we announced our comprehensive cloud portfolio, delivering a secure solution with elastic policy control and session management, automated scaling, innovative load balancing and high availability. 
+Our service provider customers include AT&T Inc., BICS (formerly known as Belgacom ICS), BT Group plc, CenturyLink, Inc., Colt Technology Services, Deutsche Telekom AG, KDDI Corporation, Level 3 Communications, Inc. (which announced that it will be acquired by CenturyLink, Inc.), Orange Business Services, Softbank Group Corp., TalkTalk Telecom Group PLC, Tata Communications Ltd., Verizon Communications Inc., Vonage Holdings Corp. and XO Communications, LLC (which was recently acquired by Verizon Communications Inc.). We have traditionally sold our products through a global direct sales force, with additional sales support from regional channel partners throughout the world. Our channel partner program, Sonus Partner Assure, expands our coverage of the service provider and enterprise markets.
+In 2012, in concert with Sonus Partner Assure, we enhanced our SBC 5200 to be more enterprise- and channel-centric and launched the SBC 5100 to address the requirements for smaller offices as a result of their VoIP and SIP deployments. The acquisition of Network Equipment Technologies, Inc. ("NET") in 2012 also provided us with the SBC 1000 and SBC 2000, along with strong expertise in the Microsoft Skype for Business and Lync market and a presence in the U.S. federal government market. Today, Sonus has more Skype for Business and Lync-qualified SBCs than any other vendor. In 2013, we introduced the industry’s first software-based SBC architected to deliver unlimited scalability and designed with advanced features, the Sonus SBC SWe (Software edition). In 2016, this product was named a “Cloud Computing Security Excellence Award” winner by Cloud Computing magazine and Miercom, an independent certification company, verified the performance of the SBC SWe in network function virtualization (“NFV”) environments through extensive testing.
+In 2014, with the acquisition of Performance Technologies, Incorporated ("PT"), we expanded and diversified our portfolio with an integrated Diameter and SS7 signaling solution and have delivered strategic value to service providers seeking to offer new multimedia services through mobile, cloud-based, real-time communications. Also in 2014, we announced our Sonus SBC 
+4
+
+7000 ("SBC 7000"), which is designed to address scalability requirements for real-time, multimedia communications with the capability to license up to 150,000 sessions. The SBC 7000 is purpose-built to support emerging services such as high definition ("HD") voice and video, Voice over Long-Term Evolution ("VoLTE") and Rich Communications Services ("RCS").
+In 2014, we announced our software-based DSC and software-based policy and routing engine ("PSX"). By the end of 2014, we had virtualized our SBC, DSC and PSX products, leading this aspect of the market as evolving network architectures transition to leveraging virtualized network functions as part of software-based, programmable networks.
+In 2015, we acquired from Treq Labs, Inc. ("Treq") certain assets related to its software-defined networking (“SDN”) business, which provides solutions that optimize networks for voice, video and UC for both enterprise and service provider customers. 
+On September 26, 2016, we acquired Taqua, LLC (“Taqua”), an early leader in next-generation IP switch technology with more than 400 installed systems and over four million subscribers worldwide. Taqua’s Virtualized Mobile Core (“VMC”) solution is expected to bolster our product offerings in the mobile communications space by providing an alternative to full IP-based multi-media services (“IMS”)/VoLTE as well as a solution for providers that would like to offer VoWiFi. The acquisition is also expected to expand our fixed portfolio by adding a Class 5 Softswitch (T7000) for network transformation projects. The acquisition is aligned with our growth strategy and network transformation initiatives. 
+Industry Background
+The single greatest capital cost for telecommunications service providers has been and continues to be their infrastructure. In order to leverage these capital investments and deliver new services such as triple-play (voice, television and Internet) bundles, service providers must consolidate their infrastructure from the costly, legacy Public Switched Telephone Network ("PSTN") infrastructures into the more efficient and flexible IP-based network models, which we believe are driving their revenue-growth objectives. Migrating from the PSTN to IP reduces costs by enabling the consolidation of voice, video and data within a single IP-based networking infrastructure. In an effort to further leverage service providers’ capital investments and deliver new IP-based services, we believe the telecommunications industry is undergoing another major transformation from hardware-centric IP-based networks toward software-centric programmable IP-based networks.
+The shift from PSTN- to IP-based communications began around 1996 and was driven by the desire of communications service providers to deliver new IP data services to grow their revenue. For most telecommunications service providers, the move to IP-based network communications presumed a strategic, phased migration. This strategy often involved deploying VoIP-based network equipment to enable the inter-networking between legacy TDM infrastructures and the new IP-based infrastructures. As a result, service providers typically found themselves operating hybrid networks that featured a mix of old (TDM) and new (IP/SIP) technology. The interoperability of these technologies introduced several issues, such as security, call control and quality of service requirements, which had to be addressed over a converged IP network that now carried not just data, but voice and multimedia data streams as well. Our original solution portfolio focused almost exclusively on helping telecommunications service providers successfully transition from TDM to all-IP communications while reducing costs and increasing revenue opportunities. As IP-to-IP communications have become more common, our product focus has naturally shifted from core network switching to SBCs and securing those communications. As 4G/LTE networks displace 3G and older wireless networks, creating additional security risks and network congestion, our product focus has shifted to DSCs and mobility solutions as well.
+While we anticipate that TDM-to-IP interoperability will remain a core requirement of communications networks for many years to come, communications service providers and enterprises face a new generation of potentially disruptive market trends, including cloud-based communications, UC, mobility/applications and NFV. Although hosted communications have been available for years, hosting them in the cloud represents a unique opportunity for service providers. This is a key trend currently affecting both enterprises and service providers. Local and long-distance voice, video, Interactive Voice Response ("IVR") systems and call recording are just a few examples of applications that are beginning to be delivered in this manner. Another key trend affecting enterprises and service providers is the demand by users for the unification of communication modalities such as voice, instant messaging ("IM"), short message service, video and web-sharing. A third key trend, which primarily impacts enterprises, is the move to mobility and secure applications as service providers are evolving their mobile networks to VoLTE and VoWiFi. Enterprises need to support the explosion of communications devices (e.g., tablets, smartphones, laptops) and third-party applications in their communications infrastructure. A fourth key trend, NFV, is the virtualization of certain products to enable network functionality, such as the SBC, PSX (and its derivatives) and DSC to run as software on commercial, off-the-shelf platforms to be hosted in public cloud infrastructure or within other network elements. The primary benefit of NFV for service providers is the ability to more rapidly innovate and deploy new cloud-based applications, service and infrastructure to meet their customers' evolving needs. We believe our software-based SBC, DSC, VMC and policy solutions are designed to help customers effectively address these trends as they migrate to the cloud.
+5
+
+Network Requirements and the Sonus Solutions
+The introduction of the Sonus GSX9000 Open Services Switch helped to change the perception that VoIP was an inferior alternative to the PSTN. That original commitment to quality, found in all of our solutions today, can be summed up in five solution attributes: Security, Reliability, Scalability, Interoperability and Simplicity.
+Security. IP communications networks must be secure against both internal and external attacks. Our SBCs and other networking products provide robust network security through a variety of methods including endpoint authentication, signaling and media encryption, prevention of denial-of-service ("DoS") and distributed DoS ("DDoS") attacks, Network Address Translation firewall support and user-defined security policies such as whitelisting and blacklisting. 
+Reliability. Communications service providers and enterprises operate complex, mission-critical networks. Our products are designed to offer the highest levels of quality and reliability, including:
+
+• | Full redundancy, designed for 5-nine's (99.999%) availability;
+
+
+• | Quality of service equal or superior to the PSTN;
+
+
+• | System hardware designed to comply with Network Equipment Building System Standards Level 3;
+
+
+• | Interworking between numerous signaling and media formats to support multivendor, global networks; and
+
+
+• | Sophisticated security, network monitoring and analytics capabilities.
+
+Scalability. Communications service providers and enterprises face challenging scalability requirements, with communications networks that may support tens or even hundreds of thousands of simultaneous sessions. To be economically attractive, new infrastructure investments must compare favorably with existing networks in terms of performance, cost per port, space occupation, power consumption and cooling requirements. Our software products are architected to scale simply and cost-effectively from a handful of sessions to a virtually unlimited number of simultaneous sessions in either hybrid or public cloud deployments. In addition, our hardware platforms offer unparalleled density and require significantly less space, power and cooling compared to legacy systems that do not scale. Our higher capacity platforms are designed to be more cost-efficient to operate and minimize management overhead.
+Interoperability. New network infrastructure equipment and software must often sustain the full range of network communications standards, supporting both data networking protocols as well as telephony protocols. Infrastructure solutions must also integrate seamlessly with existing operations support systems. Our products are designed to be compatible with a wide range of voice and data networking standards and interfaces, including:
+
+• | SS7 and other telephony signaling protocols, including numerous country variants, number translations (e.g., ENUM and DNS) and intelligent services routing;
+
+
+• | Call signaling standards such as SS7/SIGTRAN, SIP and its variants: BICC, MGCP and H.323;
+
+
+• | Narrowband and Wideband media encoding/decoding formats and standards such as G.711 and G.722;
+
+
+• | All bearer interfaces over both packet- and circuit-based bearers such as TDM, Optical and Ethernet;
+
+
+• | Management and accounting interfaces such as Radius, Diameter, SNMP and AMA;
+
+
+• | Interoperability with enterprise systems including Private Branch eXchanges ("PBXs"), IVR applications and Microsoft Lync Server; and
+
+
+• | Interoperability between 2G/3G networks and 4G/LTE networks.
+
+Simplicity. Our products are built on the idea of a simple, flexible architecture that allows communications service providers and enterprises to quickly deploy them individually in specific roles (e.g., as a standalone SBC) or collectively in broader solutions, such as international gateways, IP-based networks and 4G/LTE networks. This is accomplished through our unique, centralized SIP architecture as well as our commitment to third-party interoperability testing and certification, adherence to industry standards and our industry-leading global services organization.
+Sonus Products
+At December 31, 2016, our products included the following:
+Sonus Session Border Controllers
+Our portfolio of SBCs addresses security and interworking requirements for small, medium and large businesses as well as regional and global communications service providers. SBCs are the fastest-growing segment of our business and we offer a 
+6
+
+broad range of SBCs that scale from a handful of SIP sessions to hundreds of thousands of sessions and collectively represent the largest number of Skype for Business and Lync-certified SBCs than any other vendor on the market.
+We currently offer the following unique SBC products:
+
+• | Sonus SBC 1000 for small businesses and branch offices that require performance of up to 160 concurrent SIP sessions in a standalone SBC;
+
+
+• | Sonus SBC 2000 for mid-size enterprises, branch offices and regional Points of Presence that require performance of up to 600 concurrent SIP sessions in a standalone SBC;
+
+
+• | Sonus SBC 5110 for enterprises and service providers that require performance of up to 10,000 concurrent SIP sessions in a standalone SBC;
+
+
+• | Sonus SBC 5210 for enterprises and large national/global service providers that require performance of up to 64,000 concurrent SIP sessions in a standalone SBC;
+
+
+• | Sonus SBC 5400 for enterprises and large national/global service providers that require performance of up to 75,000 concurrent SIP sessions in a standalone SBC;
+
+
+• | Sonus SBC 7000 for real-time, multimedia communications that require performance of up to 150,000 sessions in a standalone SBC;
+
+
+• | Sonus SBC 9000 for large enterprises and service providers that require a hybrid gateway/SBC solution for a mix of TDM and IP voice traffic;
+
+
+• | SBC VX, a secure hybrid solution sold to the U.S. government and its agencies; and
+
+
+• | Sonus SBC SWe (Software edition), a software-based SBC for virtual environments, remote deployments and instances where virtualized software-based implementations are required.
+
+In 2016, the Sonus SBC 5110, SBC 5210 and SBC 7000 were Federal Information Processing Standard (FIPS) 140-2 validated, enabling U.S. government and other regulated customers to utilize these SBCs to secure mission-critical communications. This program is operated jointly by the United States National Institute of Standards and Technology and the Communications Security Establishment of Canada to specify the level of security needed to protect sensitive government data in computer and telecommunication systems. 
+Sonus GSX9000 Open Services Switch
+The Sonus GSX9000 Open Services Switch (the "GSX9000") bridges IP and TDM networks by converting any type of voice signal into IP packets and transmitting those IP packets over a data network. It then converts whatever type of signal is necessary to be deposited back onto non-IP networks and delivers such signal to its intended destination. The GSX9000 is designed to deliver voice quality that is equal or superior to that of the legacy circuit-switched public network. Further, it supports multiple voice encoding schemes used in circuit switches and delivers a number of other voice compression algorithms. The GSX9000 scales to very large configurations, such as those required by large national service providers. A single GSX9000 shelf is designed to support up to 22,000 simultaneous calls, while a single GSX9000 in a multiple-shelf configuration is architected to support 100,000 or more simultaneous calls. The GSX9000 also operates with our PSX Policy & Routing Server and with softswitches and network products offered by other vendors.
+Sonus T7000 Intelligent Switching System 
+The Sonus T7000 is a Class 5 end-office softswitch that provides residential and business voice services and is a next generation IP-IP Multimedia Processing Engine. Using the T7000, operators can transform their networks from older Nortel DMS, Lucent 5ESS and other switches to an IP-based Class 5 softswitch. The T7000 allows operators to meet regulatory requirements, satisfy the demand for new triple-play services, migrate to VoIP, lower operating costs, and generate new revenues with the RUS-listed, carrier-class Class 5 switching gateway. 
+Sonus Diameter Signaling Controllers
+The trend toward 4G/LTE networks and increasingly mobile-centric communications is expected to result in a significant rise in Diameter traffic in service provider networks. To address the anticipated growth of Diameter traffic in the network, Sonus offers its Diameter Signaling Controller, the Sonus DSC 8000. The DSC 8000 is designed to provide high performance, capacity, scalability and interoperability for 4G/LTE networks. The Sonus DSC solution is also available as a software-only product, DSC SWe, which can be run on common-off-the-shelf hardware and in virtual instances for superior price/performance. In 2016, Sonus made new SS7 security enhancements to its DSC 8000 products that are designed to discourage mobile device hacking.
+Sonus Signal Transfer Points
+The Sonus Signal Transfer Point ("STP") acts as the switch/router in an SS7 signaling network, managing and controlling all signaling traffic. The STP's vast array of network interfaces provide network planners the ability to design and implement SS7 
+7
+
+network architectures that meet both the physical and business requirements of their companies. These interfaces include TDM SS7 Links, Asynchronous Transfer Mode SS7 Links, High Speed "HSL" Annex "A" SS7 Links and the IP-based SISGTRAN Links.
+Sonus PSX Policy & Routing Server
+The Sonus PSX Policy & Routing Server (the "PSX") is the central routing and policy engine for our softswitch and distributed SBC solutions. The PSX plays an integral role in many of our network deployments, and provides both the call routing intelligence and policy intelligence for SIP sessions across the network. The PSX is unique in that it can act as a central control and provisioning point for hundreds of switches or SBCs, resulting in significant operational savings for our customers. The PSX is based upon a modular architecture that is designed for high performance and scalability, as well as interoperability with third-party gateways, devices and services. The PSX is an all-IP component and can perform most IP-based database lookups natively. The core PSX platform is also extensible through applications to address solutions such as Least Cost Routing, Number Portability and Breakout Gateway Control Functions (for hybrid IP Multimedia Subsystem networks). The PSX can also be deployed in virtualized environments as a software-only instance via the Sonus Virtualized PSX (SWe) product.
+Sonus WebRTC Services Solution
+Web Real-Time Communications ("WebRTC") is a technology that enables web browsers to participate in audio, video and data communications, without any kind of additional plug-ins or application downloads. A WebRTC-enabled browser or mobile application allows users to place a call, participate in multi-party video and audio conferencing, and engage in screen sharing collaboration. Any device that supports a WebRTC-enabled browser can be used to communicate with another WebRTC-enabled application over the Internet. WebRTC facilitates interoperability between different communication systems and helps enable UC by allowing users, servers and applications to connect the world of web communications to the world of UC. With the Sonus WebRTC Services Solution, customers can write WebRTC-enabled applications that securely interoperate with other WebRTC-enabled devices or with SIP endpoints.
+The Sonus WebRTC Services Solution includes:
+
+• | Sonus WebRTC Gateway (WRTC), which enables interworking from WebRTC to SIP, as well as signaling from WebRTC to WebRTC solutions; and
+
+
+• | Sonus WebRTC Software Development Kit (WRTC SDK), which provides application program interfaces for voice, video, IM, desktop share, session management, presence and conferencing.
+
+Sonus Network Management Solutions
+We offer our customers a variety of products to help manage and integrate our networked solutions with internal provisioning and billing systems, including:
+
+• | Sonus NetScore network performance analysis tool, which provides a real-time assessment of the state of a service provider's or enterprise's network, including quality of service, call delay, network effectiveness, congestion and efficiency;
+
+
+• | Sonus Element Management System for centralized management and provisioning of Sonus network elements; and
+
+
+• | Sonus DataStream Integrator for integration of call data records with back-office billing and accounting systems.
+
+Virtualized Mobile Core Solution
+Sonus’ VMC is a virtualized IMS services core that enables rapid deployment of next-generation voice and messaging services, including VoWiFi and VoLTE. Deployed in numerous mobile operator networks today, the VMC is a carrier-grade product that combines a number of standard IMS functions into one virtualized software solution, including:
+
+• | Telephony Application Server (TAS);
+
+
+• | IP Short Message Gateway (IP-SM-GW);
+
+
+• | Service Centralization and Continuity Application Server (SCC-AS);
+
+
+• | IP Multimedia Service Switching Function (IM-SSF);
+
+
+• | Media Resource Function (MRF); and
+
+
+• | Serving Call Session Control Function (S-CSCF).
+
+Sonus Global Services
+Sonus Global Services offers professional consulting and services that support our industry-leading IP communications solutions. Through a wide range of service offerings, our consultants provide the skill and expertise to help communications service providers and enterprises transform their communications networks, from network engineering and design through network integration and commissioning to network operations. We believe our service offerings accelerate our customers' 
+8
+
+return on investment, optimize their operational capability, enhance their network's performance and health, and help them generate new revenue. In addition to end-to-end design, integration and deployment services, our Global Services team offers customized engagements, training workshops, interoperability/verification testing and around-the-clock technical support worldwide.
+The Sonus Global Services team provides our customers with:
+
+• | A full-service portfolio including consulting, integration, deployment, migration, operation support, monitoring and managed services;
+
+
+• | Global reach through our worldwide service organization and partner presence in all major global markets;
+
+
+• | Program managers who use a disciplined methodology for all deployment and integration projects; and
+
+
+• | Consistent execution in the design, deployment and support of the world's largest and most advanced networks.
+
+In addition to global support teams, as of December 31, 2016, Sonus Global Services maintained regional service desks located in Westford, Massachusetts (United States), Tokyo (Japan), Prague (Czech Republic), Ottawa (Canada), Mexico City (Mexico) and Kuala Lumpur (Malaysia), and both a service desk and customer test center in Richardson, Texas (United States). 
+Sonus Market Strategy
+We see opportunity for securing real-time communications in the cloud for both communication service providers and enterprises. Communication service providers are transitioning their networks from hardware to NFV. In parallel, enterprise-based UC infrastructures are moving to cloud-based delivery systems. The trend toward cloud-based communications requires infrastructure investment by the enterprises who buy cloud services as well as the communications service providers that deliver cloud services. Our SBCs (whether virtual- or hardware-based) that are installed in service provider and enterprise networks enable these customers to deliver and secure real time communication services across and between multiple infrastructures and heterogeneous IP-PBX corporate environments. Additionally, when installed at the edge of service providers' and enterprises' networks, our SBCs allow service providers to securely and seamlessly deliver consolidated voice and data services to enterprises through SIP trunking services.
+We expect that communications service providers will continue to modernize their TDM peering and access networks to SIP, and to monetize their existing SIP trunking services by offering new cloud services, including hosted and managed UC infrastructure and applications that drive the need for more SBC sessions. We also anticipate that service providers will expand their cloud-based real time communication services, further driving a need for SIP and Diameter-based infrastructure equipment. To that end, we are partnered with companies such as BroadSoft, Inc., whose products allow service providers to increase their cloud application offerings, while using our SBCs and policy solutions to facilitate the integration of their networks and offerings.
+We currently sell our SBCs to enterprise customers for use at both the core and the edge of their networks, which allows them to set up a secure IP network with their service providers, consolidate dial plans and routing services and evolve from their legacy PBX infrastructures. In adopting cloud-based services, we expect that enterprises will continue to leverage their premise-based assets (e.g., PBXs) and, as such, will continue to need strong interworking and policy management to enable these cloud- and premise-based components to work together seamlessly. We believe that enterprises want UC solutions in their networks, and expect Microsoft's UC platform to play a key role in their communications productivity. We currently offer the broadest portfolio of Microsoft Skype for Business and Lync-qualified SBCs to enable enterprises to integrate Skype for Business with existing PBXs or facilitate their migration from a PBX to Skype for Business. Additionally, we have strong certified channel partners that continue to support customers' migrations to Skype for Business.
+As mobile networks continue to adopt LTE and deployments of the Internet of Things ("IoT") accelerate, our DSCs, along with our SBCs, provide the critical edge interconnection for deployment in these networks. Providing both security for and interoperability between carriers and service providers, we believe our single vendor solution for data, voice, media and authentication are well positioned for this high-growth area. In addition to the Diameter Edge function, our scalable DSC also can be used in the core of the network, providing Diameter Routing and load balancing to handle congestion management and reduce network complexity as traffic generated by mobile devices and the IoT increases.
+In addition to the adoption of LTE, we also anticipate a parallel adoption of VoWiFi. With a more congested radio access network (“RAN”) comes a need to expand coverage using WiFi. We believe our VoWiFi solution is well positioned to assist carriers in alternate coverage paradigms for their mobile subscribers.
+9
+
+We also plan to continue developing new solutions internally and through partnerships that allow our customers to stay ahead of the rapid technology shifts in the communications industry. Following are some key principles driving our product evolution:
+Expand our solutions to secure IP-based communications markets. The transformation from legacy TDM networks to all-IP networks has created new requirements for security, UC and media manipulation as well as an opportunity for creating IP-to-IP services at the network edge. The requirements for security go far beyond the legacy functionality of SBCs and include the operator's requirements for a border gateway to other IP networks as well as a wide variety of requirements associated with the need for enterprises to secure their own IP networks. The UC or multimedia nature of emerging services provides an opportunity for us to create innovative compliance and security solutions, both individually and with the help of partners.
+Expand and broaden our customer base by targeting specific market segments, such as enterprises and wireless operators. We plan to penetrate additional customer segments and believe that new and incumbent service providers will build out their VoIP infrastructures at different rates. The next-generation communications service providers, who are relatively unencumbered by legacy equipment, have been initial purchasers of our equipment and software. Other newer entrants, including wireless operators, cable operators and Internet service providers ("ISPs"), have also been early adopters of our products. Moreover, incumbents, including interexchange carriers, regional Bell operating companies and international operators, are adopting packet-voice technologies. Large enterprises are often operating voice networks that can be as complex as a small to mid-sized service provider, and we believe that our products are a good match for their needs for secure, reliable and scalable communications. We also continue to expand our SBC portfolio with the needs of the small and medium business customers in mind.
+Expand our global sales, marketing, support and distribution capabilities. As a primary supplier of network infrastructure solutions to Tier 1 service providers (a service provider that can reach every other network on the Internet without purchasing IP transit), we require a strong worldwide presence. We have an established sales presence throughout North America, Europe, Asia/Pacific, the Middle East, Africa, and Central/South America. We augment our global direct sales force by working with international partners in key markets around the world. Our expanded channel partner program was designed as a two-tiered structure to better support our growing and diverse community of SBC channel resellers.
+Leverage our technology leadership to attract and retain key communications service providers. As one of the first companies to offer carrier-class IP network solutions, we have worked with many of the world's leading communications service providers to help them develop their next-generation, IP-based multimedia networks. We expect service providers to select vendors that deliver leading technology and can maintain that technology leadership. We believe that our solutions are an integral part of our customers' network architectures, and we will continue to help these customers move forward as their networks grow and evolve. By working closely with leading service providers, we gain valuable knowledge about their requirements, and we will continue to use this knowledge to enhance our existing products and create new products that address the most important requirements of network operators globally.
+Sonus Customers
+Our solutions are deployed in many of the world's leading service provider and enterprise networks, including AT&T Inc., BICS (formerly known as Belgacom ICS), BT Group plc, CenturyLink, Inc., CITIC Telecom 1616 LTD., Deutsche Telekom AG, Inteliquent, Inc., Kellogg Company, KDDI Corporation, Level 3 Communications, Inc. (which announced that it is being acquired by CenturyLink, Inc.), NTT Communications Corp., Orange Business Services, RELX Group plc, Royal Dutch Shell plc, SoftBank Group Corp., State Street Corporation, TalkTalk Telecom Group PLC, Tata Communications Ltd., TeliaSonera AB, Telstra Corporation Limited, Verizon Communications Inc., and Vonage Holdings Corp. In recent years, we have seen a significant increase in the number of enterprise customers purchasing our SBC product portfolio as a result of our overall channel partner program.
+The table below provides information regarding our customer who accounted for 10% or more of our revenue for the years ended December 31, 2016, 2015 and 2014:
+
+ | Year ended December 31,
+ | 2016 | 2015 | 2014
+AT&T | 12% | 13% | 19% 
+
+Sales and Marketing
+10
+
+We sell our products through both direct sales and indirect channels globally, leveraging the assistance of resellers such as Verizon Communications Inc. and distributors such as ScanSource, Inc. and Westcon Group Inc. Sonus Partner Assure, our channel partner program, was designed to serve particular markets and provide our customers with opportunities to purchase our products in combination with related services and products.
+Product Research and Development
+We believe that strong product development capabilities are essential to our strategy of enhancing our core technology, developing additional applications, incorporating that technology into new products and maintaining comprehensive product and service offerings. Our research and development process leverages innovative technology in response to market data and customer feedback. We have introduced differentiated products to address market and customer needs, including the Sonus SBC 5100. In addition, with the acquisition of NET in 2012, we incorporated its SBC products into our product SBC portfolio as the Sonus SBC 1000 and the Sonus SBC 2000. Both the Sonus SBC 1000 and Sonus SBC 2000 received enhancements in 2016 that offer more cloud functionality and support for third-party applications while driving the cost of ownership down, resulting in more features and more power at a lower price point.
+In 2013, we introduced the first software-based SBC that was designed to feature advanced capabilities and unlimited scalability, the Sonus SBC SWe (Software edition). In 2014, we announced software-only versions of our PSX policy server and DSC products, as well as our most powerful SBC to date, the SBC 7000. In 2015, we introduced the Sonus WebRTC Services Solution and expanded our virtual product portfolio with virtual versions of Sonus NetScore and Sonus Element Management System. In 2016, we introduced enhancements to our comprehensive cloud solution with cloud-optimized versions of our PSX and EMS, a microservices architecture for our SBC SWe and innovative integrated analytics.
+We have assembled a team of highly skilled engineers with significant telecommunications and networking industry experience. Our engineers have deep experience in and with leading wireline and wireless telecommunications equipment suppliers, computer data networking and multimedia companies. Our engineering effort is focused on SBC and DSC product development, new applications and network access features for enterprises, solutions to support Unified and cloud-based communications services and next-generation wireless technologies. At December 31, 2016, we maintained research and development offices in Massachusetts, California, Illinois, Texas, New York and New Jersey in the United States; Kanata, Ontario Canada; Bangalore, India and Swindon, United Kingdom. We have made, and intend to continue to make, a substantial investment in research and development.
+Our research and development expenses were $72.8 million for the year ended December 31, 2016, $77.9 million for the year ended December 31, 2015 and $79.4 million for the year ended December 31, 2014.
+Competition
+The market for voice and multimedia network equipment remains competitive worldwide, but there are historical regional differences in services, regulations and business practices among sub-markets that can benefit individual vendors. Regardless of the region, the overall market is subject to rapid technological change, affected by new product introductions, changing customer demands, industry consolidation and other market activities of industry participants. To compete effectively, we must deliver innovative products that provide extremely high reliability and quality, deploy and scale easily and efficiently, interoperate with existing network infrastructures and multivendor solutions, provide effective network management, are accompanied by comprehensive customer support and professional services, provide a cost-effective and space-efficient solution for enterprises and service providers, meet price competition from low-cost equipment providers and offer solutions that are timely for the market and support where the industry is heading. We expect competition to persist and intensify in the future. Our primary sources of competition include vendors of networking and telecommunications equipment, such as ADTRAN, Inc., ALOE Systems Inc., AudioCodes Ltd., Avaya Inc., Cisco Systems, Inc., Dialogic Inc., Ericsson LM Telephone Company, F5 Networks, Inc., GENBAND Inc., Huawei Technologies Co. Ltd., Metaswitch Networks Corporation, Mitel Networks Corporation, Nokia Corporation, Oracle Corporation, Sansay, Inc., Technicolor SA, Xura, Inc. and ZTE Corporation.
+Although we believe we compete favorably because our solutions are widely deployed, highly scalable and cost-effective for our customers, some of our competitors have broader product portfolios than we have and are able to devote greater resources to the development, promotion, sale and support of their products. In addition, some of our competitors have more extensive customer bases and broader customer relationships than we have, including relationships with our potential customers and established relationships with distribution partners. Other smaller private and public companies are also focusing on similar market opportunities.
+11
+
+Please see generally the risks that are more fully discussed in Item 1A. Risk Factors for risks related to competition in our industry.
+Intellectual Property
+Intellectual property is fundamental to our business and our success, and we depend upon our ability to develop, maintain and protect our technology. Therefore, we seek to safeguard our investments in technology and rely on a combination of United States and foreign patent, trademark, trade secret and copyright law and contractual restrictions to protect the proprietary aspects of our technology and to defend us against claims from others. Our general policy has been to seek to patent those patentable inventions that we expect to incorporate in our products or that we expect will be valuable otherwise. We have a program to file applications for and obtain patents, copyrights and trademarks in the United States and in specific foreign countries where we believe filing for such protection is appropriate.
+At December 31, 2016, we held 221 U.S. patents with expiration dates ranging from February 2017 through March 2025, and had 39 patent applications pending in the United States. While we have 9 patents that are set to expire within the next two years, the expiration of these patents is not expected to have a material effect on our financial position or future operations since these patents do not relate to our current business strategy and therefore are not of material value to us. In addition, at December 31, 2016, we held 50 foreign patents with expiration dates ranging from June 2019 through October 2027, and had 13 patent applications pending abroad. We also had 24 registered trademarks in the United States, including Sonus, the Sonus logo, NetAssure, NetEng, NetScore, Promina and Tenor, and had two pending trademark applications in the United States at December 31, 2016. In addition to the protections described above, we seek to safeguard our intellectual property by:
+
+• | Protecting the source and object code for our software, documentation and other written materials under copyright laws and trade secret;
+
+
+• | Licensing our software pursuant to signed license agreements, which impose restrictions on others' ability to use our software; and
+
+
+• | Seeking to limit disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements.
+
+We have incorporated third-party licensed technology into certain of our current products. From time to time, we may be required to license additional technology from third parties to develop new products or to enhance existing products. Based on experience and standard industry practice, we believe that licenses to use third-party technology generally can be obtained on commercially reasonable terms. Nonetheless, there can be no assurance that necessary third-party licenses will be available or continue to be available to us on commercially reasonable terms. As a result, the inability to maintain, license or re-license any third-party licenses required in our current products, or to obtain any new third-party licenses to develop new products and enhance existing products could require us to obtain substitute technology of lower quality or performance standards or at greater cost. This could delay or prevent us from making these products or enhancements, any of which could seriously harm our business, financial condition and operating results.
+Please see generally the risks that are more fully discussed in Item 1A. Risk Factors for risks related to our intellectual property.
+Manufacturing
+As of December 31, 2016, we outsourced the manufacturing of our products to four manufacturers, one of which is primarily relied upon. Our contract manufacturers provide comprehensive manufacturing services, including assembly and testing of our products and procurement of component materials on our behalf. We believe that outsourcing our manufacturing enables us to preserve working capital, allows for greater flexibility in meeting changes in demand and enables us to be more responsive in delivering products to our customers. At present, we purchase products from our contract manufacturers on a purchase order basis.
+We and our contract manufacturers currently purchase several key components of our products, including commercial digital signal processors, from single or limited sources. We purchase these components on a purchase order basis.
+Please see generally the risks that are more fully discussed in Item 1A. Risk Factors for risks related to our manufacturing operations.
+12
+
+Backlog
+We sell products and services pursuant to purchase orders issued under master agreements that provide standard terms and conditions that govern the general commercial terms and conditions of the sale. These agreements typically do not obligate customers to purchase any minimum or guaranteed quantities, nor do they generally require upfront cash deposits. At any given time, we have orders for products that have not yet been shipped and for services (including our customer support obligations) that have not yet been performed. We also have orders relating to products that have been delivered and services that have been performed but have not yet been accepted by the customer under the applicable purchase terms. We include both of these situations in our calculation of backlog. A backlogged order may not result in revenue in the quarter in which it was booked, and the actual revenue recognized in a quarter may not equal the total amount of related backlog. Therefore, we do not believe that our backlog, as of any particular date, is necessarily indicative of actual revenue for any future period. In addition, we expect to derive a greater percentage of our revenue in the future from the enterprise market and through sales channels where speed of fulfillment is essential to winning business. Consequently, we expect to derive a lower percentage of our business from large service provider orders that are delivered over multiple quarters and years and we expect our backlog to decrease as a result. Our backlog was approximately $123 million at December 31, 2016 and approximately $114 million at December 31, 2015.
+Employees
+At December 31, 2016, we had a total of 1,152 employees. Except for our employees in France, our employees are not represented by any collective bargaining agreement. We believe our relations with our employees are good.
+Geographic and Segment Information
+We operate in a single segment. Operating segments are identified as components of an enterprise about which separate discrete financial information is available for evaluation by the chief operating decision maker in making decisions regarding resource allocation and assessing performance. To date, our chief operating decision maker has made such decisions and assessed performance at the company level, as one segment. Our chief operating decision maker is our President and Chief Executive Officer.
+Our classification of revenue by geographic area is determined by the ship-to location of our customers. The following table summarizes revenue by geographic area as a percentage of total revenue:
+
+ | Year ended December 31,
+ | 2016 | | 2015 | | 2014
+United States | 69 | % | | 71 | % | 71 | %
+Europe, Middle East and Africa | 13 | | | 13 | | 13 | 
+Japan | 10 | | | 10 | | 9 | 
+Other Asia Pacific | 5 | | | 4 | | 5 | 
+Other | 3 | | | 2 | | 2 | 
+ | 100 | % | | 100 | % | 100 | %
+
+Information regarding the geographic components of our property and equipment is provided in Note 8 of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K.
+Additional Information
+We were incorporated in August 1997 as a Delaware corporation. Our principal executive offices are located at 4 Technology Park Drive, Westford, MA 01886. Our telephone number at our principal executive office is 978-614-8100.
+This Annual Report on Form 10-K, as well as all other reports filed with or furnished to the United States Securities and Exchange Commission (the “SEC”), are available free of charge through our Internet site (http://www.sonus.net) as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. Information found on our website is not part of this report or any other report we file with or furnish to the SEC. The public may read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+13
+

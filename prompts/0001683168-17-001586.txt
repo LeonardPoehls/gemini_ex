@@ -1,0 +1,59 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. DESCRIPTION OF BUSINESS
+History and Organization
+ 
+We were formed by the filing of Articles of Incorporation with the Secretary of State of the State of Nevada on December 20, 2010, originally as Accend Media. On or about May 22, 2012, Accend Media, and Cloud Star Corporation (“Cloud Star”), a privately-held Nevada corporation headquartered in California, entered into an Acquisition Agreement and Plan of Merger (“Merger”). Prior to the Merger, Accend Media effectuated a five-for-one forward stock split on May 7, 2012. We changed our corporate name to Cloud Star Corporation upon consummation of the Merger on May 23, 2012. On May 28, 2013, we changed our corporate name to Cloud Security Corporation (“Cloud Security” or “Company”). The Merger was accounted for as a reverse acquisition with Cloud Star being treated as the acquirer for accounting purposes. Accordingly, for all periods presented in this Annual Report on Form 10-K (“Form 10-K”), the financial statements of Cloud Star have been adopted as the historical financial statements of the Company known as a change in reporting entity. Accordingly, Cloud Star’s October 17, 2011 formation date is considered the date of “Inception” in the financial statements.
+ 
+On December 8, 2014, we entered into a Stock Purchase Agreement (the “SPA”) with Goldenrise Development, Inc., a California corporation (“Goldenrise”). In connection with the SPA, we also agreed to effectuate a 1:100 reverse stock split of the Company’s issued and outstanding common stock (“Reverse Split”) which became effective on January 22, 2015. Under the SPA, we sold 12,000,000 shares of our common stock to Goldenrise for $180,000 which equated to approximately 92% of our outstanding shares. This transaction effectuated a change in control of the Company and the then officer and members of the board of directors resigned and were replaced by new management.
+ 
+On March 31, 2017, Goldenrise entered into a Stock Purchase Agreement (the “Agreement”) with Zhi Lu Peng, an individual (the “Purchaser”). Pursuant to the Agreement, Goldenrise agreed to sell and Purchaser agreed to purchase 12,000,000 restricted common stock shares of the Company (the “Shares”), representing approximately 92.12% of the Company’s outstanding shares of common stock. In consideration for the Shares, Purchaser will pay to Goldenrise a total of $400,000 as follows: (i) $100,000 upon the execution of the Agreement, and (ii) $300,000 on or before June 15, 2017 (the “Closing”). The Agreement is subject to certain customary conditions to Closing.
+  
+The transaction contemplated by the Agreement would effectuate a change in control of the Company should it ultimately close. Purchaser would own approximately 92.12% of the Company's issued and outstanding common stock. There are no arrangements or understandings among members of both the former and new control groups and their associates with respect to election of officers or other matters. The foregoing description of the Agreement is not complete and is qualified in its entirety by reference to the full text thereof, which was filed as Exhibit 10.1 to our Current Report on Form 8-K filed with the Commission on April 4, 2017.
+
+
+
+3
+-
+
+ 
+
+Overview and Business of Issuer
+ 
+We are an early stage security and information technology services and software company that delivers immediate, easy and secure access to computer desktops and other consumer electronic devices from remote locations.
+ 
+Our principal business has been the software development of MyComputerKey™; however, due to cash flow constraints, we have been unable to proceed with the further development of our software. We are currently evaluating the software infrastructure and interface for MyComputerKey™, Phase 1 (version 3) of MyComputerKey™ and additional cloud computing security applications.
+ 
+Due to enhanced competition in the software development market and advancements in technology made by our competitors, we have begun evaluating alternative business plans which we may elect to pursue in the future.
+ 
+Intellectual Property
+ 
+Our success depends in part on our ability to protect our intellectual property and proprietary technologies.  We plan to rely on a combination of trademark, copyright, trade secret and patent laws in the United States as well as confidentiality procedures and contractual provisions to protect our proprietary technology and our brand. We plan also to rely on copyright laws to protect any future computer programs and our proprietary databases. We currently own all rights and patents associated with the Invention titled, “Apparatus Systems and Methods for Virtual Desktop Access and Management”, described under patent application (U.S. Serial Number 13/173220) for systems and methods for accessing and managing a computer desktop, and with the invention titled, “System and Methods for One-Time Password Generation on a Mobile Computing Device”, described under patent application (U.S. Serial Number 61/832534) for process and methods of for one-time password on mobile computing devices rel. We have recorded a formal notice of assignment related to inventions/patent applications with the United States Patent and Trademark Office previously held in the name of former executives of the Company.
+ 
+The patented system described under Serial No. 61/173220 is comprised of a removable virtual desktop Key permitting remote access and management of various computing devices that are communicatively linked to the Company’s secured cloud network. The Key allows the user secured virtual access and management of their desktop interface through a secondary computer only through unique user identification validation and a series of encrypted security file authentications including a DRM signature, a number of login credentials, and a biometric data template so even if passwords are breached the Key remains uncompromised.
+ 
+The Company must actively manage risks related to maintaining its technology and systems which may be obsolete without further development. It may be more costly to upgrade obsolete technology and it may be more cost effective to fund the development of a replacement system or new technology all together.
+ 
+From time to time, we may encounter disputes over rights and obligations concerning intellectual property. Also, the efforts management has taken to protect our proprietary rights may not be sufficient or effective. Any significant impairment of our intellectual property rights could harm the business, the brand and reputation, and the ability to compete. Also, protecting our intellectual property rights could be costly and time consuming.
+ 
+Competition
+ 
+Our potential competitors include large software development and internet-cloud technology based companies that are developing and/or offer products similar to ours. Many of our potential competitors have substantially greater financial, technical, and human resources than we do, as well as greater experience in the development of software products and the commercialization of those products. Our competitors’ products may be more effective, or more effectively marketed and sold, than any products we may commercialize and may render our products obsolete or non-competitive before we can recover the expenses of their development and commercialization. We anticipate that we will continue to face intense and increasing competition as new products enter the market and advanced technologies become available. However, we believe that if we are able to further develop our patented products, we may have key potential advantages over competitive products that could enable our products to capture meaningful market share from our competitors.
+ 
+Industry Regulation
+ 
+Our business is subject to a wide range of complex U.S. and foreign laws and regulations related to privacy, data protection, and intellectual property, among others. These laws and regulations are constantly evolving and may be interpreted, applied, created, or amended, in a manner that could harm our business. Failure to comply with, or changes in, laws and regulations applicable to our businesses could have a materially adverse effect on our reputation, results of operations or financial condition, or have other adverse consequences.
+
+4
+-
+
+Marketing
+ 
+Because we are currently in the development stage of our software products and processes we have not engaged in any marketing activities. Upon the successful completion of development we intend to implement a comprehensive integrated plan to achieve our business objectives. Our primary objectives include building brand awareness, developing lead generation programs that will drive sales and revenue, and developing an infrastructure that supports and measures our marketing activities. Our marketing activities will be driven by our website, organic and paid search optimization, direct marketing, events, social media, and eMarketing focused on small and medium sized businesses and individuals.
+Employees
+ 
+We currently have no active employees. We utilize independent contractors on a part-time/as needed basis to assist in our development activities, marketing, and financial and accounting support. We are also dependent upon our officers and directors for our future business development. As our operations expand, we anticipate the need to hire additional employees, consultants and professionals; however, the exact number is not quantifiable at this time.
+Where You Can Find More Information
+ 
+We are required to file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”). These filings are not deemed to be incorporated by reference into this Form 10-K. You may read and copy any documents filed by us at the Public Reference Room of the SEC, 100 F Street, NE, Washington, D.C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. Our filings with the SEC are also available to the public through the SEC’s website at http://www.sec.gov.
+ 

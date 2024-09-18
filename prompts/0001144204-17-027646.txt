@@ -1,0 +1,341 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Description of the Business
+Overview
+ 
+The Company designs, manufactures, markets, sells or licenses and maintains its proprietary Turbulator systems for innovative liquid photopurification technology in the global marketplace (“SurePure Photopurification Technology” or our “Technology”). We have been engaged in these activities since 2005. Currently, our Technology uses Ultraviolet (“UV”) light in the C band (“UVC”) to process, preserve and sustain the natural quality of food ingredients, such as liquid egg and animal feed constituents, and beverage products, such as juices and concentrates, sugar syrup bases, alcoholic beverages and farm milk. In addition to the foregoing applications now in use, our SurePure Photopurification Technology is being tested for its capacity to reduce the microbial loads in turbid liquids intended for human consumption, such as dairy products, flavored water and coconut water, liquids with industrial applications, such as diesel and bio-ethanol, and liquids with pharmaceutical applications, such as eye preparations, saline drips and personal care products. 
+ 
+The use of UVC light energy with a specific wavelength to disinfect food surfaces, water and other beverages is well accepted. In 2001, the U.S. Food and Drug Administration (“FDA”) amended its regulations to permit the use of UVC light as a means of purification for water and fruit juices under certain conditions. There are multiple systems that effectively use UVC to purify or disinfect water and transparent liquids. Beverages and other liquids, such as milk and fruit juice, and water and other liquids used in industrial processes, are cloudy, opaque and contain suspended matter, and are often referred to as “turbid.” The ability to use UVC to purify turbid liquids requires technology that passes limited amounts of liquid at high flow rates very close to the UVC light source so that microbes and other pathogens in the liquid are exposed most directly and intensely to UVC waves. 
+ 
+Based on research that we have sponsored, we believe that our SurePure Photopurification Technology improves beverage and liquid food quality and safety by safely disinfecting these products beyond existing technology, such as conventional pasteurization. Because our Technology does not require heat to be generated for purification to occur and therefore requires less energy to operate, we also believe that it enables processors of food, beverages and industrial liquids that use our Technology to reduce their operating expenditures. Our research also leads us to believe that our SurePure Photopurification Technology can be applied to virtually every consumable beverage, many industrial and processing liquids and any liquid pharmaceutical products that may suffer from microbiological contamination. Consequently, the markets that we serve can encompass all industries that manufacture or distribute consumable beverages, industries that use water or other liquids in industrial processes in the manufacturing or processing of foods and beverages and industries that produce liquids that must meet standards for high levels of purification. 
+ 
+
+6
+-
+
+Our Industry
+ 
+Currently, conventional means for purifying dairy products, juices, wine, beer and other beverages are pasteurization and chemical. Pasteurization was developed in the nineteenth century and received widespread adoption in the late nineteenth and twentieth centuries. Pasteurization operates by heating milk or other liquid to a specific temperature level (generally, 73° C or 164° F, although the exact temperature will vary according to need) and holding the temperature constant for a specified period of time, during which period pathogen cells are ruptured as a result of the heat transferred by the liquid. As a result of the heating process, pasteurization transforms components of the liquid, including taste and other sensory attributes, and does not remove the ruptured microbes from the fluid. In order to create sufficient heat to raise the temperature of the liquid to meet pasteurization standards, large amounts of energy must be consumed and CO2 emissions are created.
+ 
+Another principal means for purifying liquids has been the addition of certain chemicals, such as sulfites and other preservatives. The addition of these elements often affects the taste and consistency of the liquid or food to be treated. Published research concludes that the additives used to achieve purification or preservation may lead to unhealthy or otherwise undesirable side effects among certain consumers. 
+ 
+Notwithstanding the general effectiveness of pasteurization and other means of purification, certain spore-forming bacteria, such as Bacillus, remain a serious concern in the food industry, since they can survive heat, chemicals, desiccation and radiation and can cause food poisoning and spoilage. Certain species of Bacillus, such as B. sporothermodurans, are heat resistant and can survive the process of pasteurization. We believe that the food and dairy industries are seeking alternative methods to render their products microbiologically safe for consumption against the widest possible range of microorganisms.
+ 
+Our Technology
+ 
+UVC occupies the light spectrum with wavelengths of 10 nanometers to 290 nanometers. UVC has been successfully used as a process for the disinfection of air, water and surfaces. In recent years, scientists have studied UVC irradiation technology as an alternative to heat (pasteurization) or chemically-based processes (preservatives) that currently are being used in the purification and/or sterilization or preservation of foods and liquids. Our Technology uses UVC waves to purify microbiologically sensitive turbid (cloudy or hazy fluids caused by individual particles (or suspended solids)) that are generally invisible to the naked eye by inactivating contaminating microorganisms, such as bacteria, yeasts, moulds and viruses in treated liquids. The UV wavelength most effective for killing microorganisms is between 254 and 260 nanometers. Based on this, our Technology employs UVC radiation at the germicidal wavelength of 254 nanometers of sufficient energy and duration to inactivate contaminating pathogens, including viruses. On the basis of research that we have sponsored, we believe that since our Technology transfers energy directly to microbial DNA, it also limits secondary effects on liquid proteins, enzymes and other components and concomitantly minimizes effects on nutritional, sensory and marketing attributes of the product being purified. 
+
+7
+-
+
+ 
+
+
+UVC light can penetrate the outer cell membranes of microorganisms, such as viruses, bacteria, mold and mildew. Exposure to UVC causes the DNA molecules of the microorganisms to become fused, or mutated. The mutations further result in the death of the organisms as their metabolic functions such as replication cannot be completed after the mutation results. In addition to being safe, our process is non-thermal, chemical-free, fast and replicable. 
+ 
+Our Product
+ 
+We provide our Technology, the Turbulator, to commercial clients for use in their plants. The Turbulator is a mechanical tube system within a double-walled stainless steel cylinder that creates turbulation in the fluid, moves the liquid to be purified in spiral flows over the source of the UVC at a specified distance from the source which maximizes the efficacy of the UVC waves, and ensures that all the liquid is exposed to the UVC source. Existing laminar flow systems, in which the liquid passes across a light source in sheets, do not allow for the sustained, controlled exposure that is necessary for effective purification, particularly for turbid liquids. The Turbulator system can be installed in parallel or series, resulting in a system that uses multiple lamps, with a modular approach enabling the treatment of a number of liquids requiring varying levels of exposure and flow rates. The proprietary design of the Turbulator is based on an internal lamp which is inserted into a quartz sleeve which in turn is placed inside a metal housing. Because of the proximity of the light source to the target liquid within the housing, there is a very high level of energy transfer to individual micro-organisms within the target liquid. The Turbulator system includes a data recording component which records quality assurance and other critical data relating to its operation. 
+
+8
+-
+
+ 
+
+We have designed the Turbulator system to maximize the range of liquids that our Technology can purify. The color and turbidity of the liquid being treated plays a role as UVC can only penetrate roughly 1 mm into juice and even less so into milk. The efficacy of the UVC is therefore dependent on the properties of the liquids being treated, including the color, viscosity, absorbance and presence of suspended solids. The Turbulator has been designed so that the necessary adjustments can be made to optimize its effectiveness in relation to the properties of the liquids being treated. Moreover, because of the design of the Turbulator and its components, our system can treat liquids where the use of heat as a purifying agent would be detrimental to the product. The Turbulator also allows the processor to set the precise exposure of a treated liquid to the UVC source, so that the exposure can match the exact purification requirements of the liquid. 
+ 
+The principal benefit of our SurePure Photopurification Technology is that it purifies liquids by inactivating pathogens without the use of heat energy. Because of the proprietary characteristics of the Turbulator system that control the flow of liquid over the UVC source, the Technology has been effective on all pathogens for which we have performed tests, including those that we believe are resistant to heat. In addition, we believe that our product has other benefits as well: 
+ 
+
+· | Because our Turbulator systems do not rely on the generation of heat or other intense energy to perform purification, they consume substantially less power and therefore lead to less power-related expense, both in terms of power inputs and cooling needs;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Because our Turbulator systems require substantially less power than conventional means of heat-based purification, they substantially reduce the carbon footprint of the process;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Because the liquids that have been purified have not been subject to significant change in temperature, the quality of the end product remains intact;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | For most liquids treated by our Technology, shelf life improves because we have inactivated the microbes and spores that result in spoilage;
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Because our Turbulator systems are effective in destroying pathogens, the need to use preservatives in the liquid product that has been treated is substantially reduced;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Because our Turbulator systems effectively purify liquids used in industrial processes for washing and rinsing, among other purposes, those liquids can then be reused, which substantially reduces water consumption and the need to dispose of waste products; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Because our Technology does not rely on heat, our Turbulator systems can possibly create new products in situations in which the application of heat has been a limiting factor in their purification.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+ 
+
+More than 2300 Turbulators have been installed since our inception in 2005 and either have been or are in operation or used in tests in the following locations: the United States, Europe, South America, Australia, India and South Africa. Each installed Turbulator system is comprised of one or more Turbulators. We continue to evaluate the performance of our Turbulator systems. As we gain customer feedback, we incorporate it into the design of new Turbulator installations.
+ 
+In certain geographic markets and for applications to certain liquids, we have not obtained or are not required to obtain governmental approvals for the sale or distribution of our Turbulator products. Accordingly, we or our distributors can market our Technology at the present time. In those markets and for those applications where governmental or similar approvals are required, our timelines for market entry are estimated to be between one and three years. See “—Regulation.” Rather, our principal task is to fund research by credible and competent third parties that will generate the scientific data that underpin our requests for clearance and that will convincingly demonstrate the efficacy, as well as what we believe to be the advantages of, our Technology. We believe that the aggregate cost of these reports will be approximately $100,000 during 2016.
+ 
+We do not, and do not expect in the near term, to manufacture Turbulator systems through a facility of our own. Rather, we rely on third-party manufacturers to build our Turbulator components to our specifications and for our final assembly. Our limited financial resources impair our ability to contract with manufacturers, since, among other things, our manufacturers generally require full payment before product delivery and installation. Our current manufacturers are located in France and South Africa. Our products are generally delivered to our customers at their particular industrial sites where our own personnel, supported by our third-party manufacturers, install and test the systems, and then provide training to the customer. The materials used to manufacture and assemble Turbulator systems are commodities and, at the current time, are not in short supply. If any of our suppliers were unable to provide components, we believe that there are sufficient backup sources for components that would permit us to maintain our pricing intact.
+ 
+Our Competitive Strengths
+ 
+Based on our proprietary patented SurePurePhotopurification Technology, we are attempting to become an industry leader in the liquids purification and treatment industry, but we will be able to remain an industry participant only if we can secure equity financing. We believe our competitive strengths include the following:
+
+· | Although UV light has long been used as a surface sterilizer and has been successfully applied to clear water, we have developed the first product that processes opaque or turbid liquids using UV light:
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10
+--
+
+
+§ | Our patented Turbulator design increases the liquid’s exposure to UVC, enabling greater efficacy and consistency in purification;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | The turbulent flow of the liquid over the UVC source for an extended period at controlled distances from the source ensures a non-fouling, self-cleaning system; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+§ | The multiple-lamp system used in the Turbulator system provides greater flexibility;
+--+-------------------------------------------------------------------------------------
+
+
+· | The Technology is an alternative to comparable heat - or chemical-based processes and has a greater microbiological efficacy than conventional, laminar-flow UV systems in turbid liquid applications; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | The Turbulator uses a low maintenance, non-fouling technology that offers significant process and energy savings.
+--+------------------------------------------------------------------------------------------------------------------
+
+ 
+The principal commercial benefits of our Technology and the systems that incorporate it include:
+ 
+
+· | an effective alternative to pasteurization;
+--+--------------------------------------------
+
+
+· | replacement of chemical and other preservatives;
+--+-------------------------------------------------
+
+
+· | significant savings of energy and water;
+--+-----------------------------------------
+
+
+· | extended shelf life of treated products;
+--+-----------------------------------------
+
+
+· | preservation of the taste, smell and look of the raw materials or finished products; and
+--+-----------------------------------------------------------------------------------------
+
+
+· | delivery of replicable, predictable germicidal efficacy.
+--+---------------------------------------------------------
+
+ 
+Notwithstanding the above advantages of our product, we nonetheless encounter and therefore must overcome serious challenges to further adoption and implementation of our Technology. As is the case with any business that seeks to replace an existing conventional modality, such as purification heat or preservatives, we have the burden of persuading customers and others of the superiority of the results that we produce and the value to our customers of the return on their investment in our technology. In applications, such as industrial application, where there is no regulatory involvement, we rely on various “cost/benefit” analyses to substantiate the case for acquiring and installing our system. In applications, such as dairy or foods, where there is regulatory involvement, we must demonstrate to the regulators that our Technology and its use of UVC either fits within the scope and application of existing rules and regulations, or, more often, we must persuade the regulators, by evidence they deem to be satisfactory, that they can amend or vary their regulations so that customers can employ our Technology. In many circumstances in which our technology is regulated, we prefer to present initially our Technology, as an adjunct to, and not as a replacement of, existing purification technologies. Although we believe that adjunct use will eventually lead to replacement, we do not yet have an established track record in this respect.
+ 
+
+11
+--
+
+Sales
+ 
+We have focused our sales efforts on “early adopter” global clients with multiple processing plants who have a substantial market share in their industries. Most of our sales activity takes place within our subsidiary SPO, as that company owns and administers all of our patents other than the South African patent. Most of our current sales arrangements are through SPO. During 2016, we generated approximately $1,200,000 of revenues under an existing customer agreement.
+ 
+During 2015, we also sold our Turbid Fluid Photopurification Technology to a producer of natural vegetable juices and an existing customer which supplies equipment to customers who produce milk for consumption by calves and other farm animals. We concluded the installation of an initial 360 Turbulator system for the producer of specialty animal feeds that placed an order during 2014, and during November 2015 we received an order for an additional 360 Turbulator unit from the same customer. During 2016 we installed the 360 Turbulator system ordered during November 2015.
+ 
+We rely predominately on direct sales, and also have distributors in certain limited international markets. To date, we have selected distributors by type of liquid and by geographic region. Currently, we are represented by approximately eight distributors, two of which are based in Africa. Putting into place a distribution network requires that we identify the appropriate players to serve the specific industries in which our end users operate, that we provide them with that equipment and training that enables them to both demonstrate and explain the advantages of our Technology and that we design our Turbulator systems so that they are a compelling offering that permits our distributors to effectively utilize their resources in placing our products. The customer sales cycle is long for any new technology and our distributors may face resistance as a result of the historical investment that customers have made in existing facilities. See “Item 1A. Risk Factors— Risks Relating to our Business, Financial Condition and Corporate Structure—We do not have an expansive or well developed distribution network.”
+ 
+We must raise sufficient working capital to support any distribution network that we establish.
+ 
+
+12
+--
+
+ 
+
+As of December, 2016, we have one existing customer license agreement which generates a non-material amount of revenue. Under that agreement we have licensed a Turbulator system to a U.S.-based manufacturer of equipment used to sterilize milk and milk components used in the feeding of calves with farm milk. The license expires in April 2018. Our ability to deliver and install equipment is dependent on financing the manufacturing and delivery of the equipment, either by the customer, internal working capital or a combination of both.
+ 
+We are currently in discussions with certain prospective customers, but cannot predict whether we will be able to enter into revenue-generating contracts with customers during 2017. Our sales cycle is long and often requires both the customer’s evaluation of our technology and negotiations with multiple levels and groups within a customer. Therefore, we cannot be certain of the timing of these contracts and the amount of revenues to be generated either on a period-by-period basis or over the life of the contract. See “Item 1A. Risk Factors— Risks Relating to our Business, Financial Condition and Corporate Structure—We face significant obstacles to the commercialization of SurePure Photopurification Technology and our Turbulator systems.”
+ 
+
+13
+--
+
+Marketing
+ 
+We have primarily utilized public relations, trade shows and customer trials to convert awareness into interest and purchase. Because our financial resources are extremely limited, however, we will not be able to utilize any of these methods unless we receive increased funding.
+ 
+Our strategy is to locate markets and market participants who require effective means for purifying liquids. In the past, we have focused on producers of milk and other dairy products, fruit juices, wine and sugar syrups in the United States, the United Kingdom, the European Union, South Africa and India. In each case, we sought to approach the strongest market participants and explain the advantages of our Technology as an adjunct to or as a replacement of existing conventional processes. To the extent that permitted uses of our Technology are subject to regulation that limits, restricts or prohibits the use of UVC as a means of purification of a specific liquid or food, we work with the customer in various tests to support an application to amend or replace the applicable regulation.
+ 
+Our technology was developed in South Africa. Since our management team is familiar with the dairy, fruit juice and wine industries in South Africa, we initially focused on the South African market. During the last six years, however, we have worked with customers in the United States, the United Kingdom and the European Union, as well as Australia, New Zealand, South America and Canada.
+ 
+Regulatory Matters
+ 
+The application of our SurePure Photopurification Technology to purify or disinfect milk, other dairy products and wine generally requires that we take various steps to obtain regulatory clearances in each of the jurisdictions in which we plan to market our Technology. The compliance measures that we are required to take differ based on whether we are seeking to have the Technology sold as an adjunct to pasteurization or as an alternative to pasteurization, the latter having a higher standard for clearance. Other uses of our Technology—industrial uses, for example—do not require compliance with regulations governing food or dairy products. Having obtained regulatory clearance in the European Union in January 2016, we are now pursuing compliance efforts principally in the United States of America and the Republic of South Africa in conjunction with commercial partners.
+United States of America
+ 
+In 2001, the FDA amended its regulations to permit the use of UVC to purify water and certain fruit juices, as long as certain performance characteristics are complied with. With regard to milk and other dairy products in the USA, we plan to market our Technology first as an adjunct to pasteurization. Specifically, we are applying to treat raw milk, which is milk prior to any pasteurization or any other similar process. Although we have not committed to doing so, we plan to pursue clearance from the FDA as an alternative to thermal pasteurization in the future. The timeline for this process may be as long as four to six years and will likely require that we devote additional resources to fund the necessary testing.
+
+14
+--
+
+ 
+
+The FDA classifies the use of UVC to treat milk or other food as a food additive, the use of which must be expressly permitted. The current FDA regulation that permits the use of ultraviolet radiation for the processing and treatment of food does not include the use of UV light as a means of purification of dairy products, although it does permit the use of UV light in treating potable water and juice products, as well as high fat-content food.
+ 
+In addition, the U.S. Food Drug and Cosmetic Act, which prohibits the manufacture or sale of misbranded foods, provides that any food that purports to be or is represented as pasteurized must have been subjected to a safe process or treatment that meets certain standards. We must satisfy these standards to the satisfaction of the FDA if our purification process does not satisfy the applicable FDA regulations. The submissions that we have made to date to the FDA related to dairy products have not produced a determination that our Technology satisfies its standards.
+ 
+As noted earlier, the FDA has approved the use of UVC light as a means of treating fruit juices. Our Turbid Fluid Photopurification Technology satisfies the requirements of this approval.
+ 
+We also are required to obtain FDA approval for the use of our Technology for wines or other alcoholic beverages before the Alcohol & Tobacco Tax & Trade Bureau will make any determinations with respect to the application of our Technology to purify those products.
+ 
+The Company has had a commercial relationship with Tamarac Biotics of Fresno, California (“Tamarack”).  Tamarack’s proposes to develop dairy products that retain the immune active proteins and other thermally sensitive compounds that are found in raw milk. Tamarack Biotics has utilized our SurePure Photopurification Technology for non-thermal pathogen reduction and also low temperature drying technologies that fully dry milk and milk concentrates into stable powders at temperatures not exceeding a cow's normal body temperature. Using equipment provided by the Company, Tamarack has developed the product known as TruActive NF. During the first quarter of 2017, Tamarack received a certification from an authorized expert classifying Tamarack’s product as “Generally Recognized as Safe” (GRAS) when used as a food ingredient at specified levels for the purposes specified by Tamarack. GRAS is an FDA designation that a chemical or substance added to food is considered safe by experts, and so is exempted from the usual food additive tolerance requirements. The Company expects to recieve an order for equipment from Tamarack during the second quarter of 2017.
+ 
+
+15
+--
+
+European Union
+ 
+In the European Union, before our Technology can be used commercially with respect to foods, food ingredients and beverages, it must receive clearance under Regulation (EC) No. 258/97 of the European Parliament and of the Council of 27 January 1997 Concerning Novel Foods and Novel Food Ingredients. A customer of ours that is a member company of the EU dairy industry submitted an application to the European Food Standards Agency (“EFSA”) on September 12, 2012. In its application, our customer claimed that its use of our Technology significantly increases the levels of Vitamin D in milk and extends the shelf life of dairy foods. On January 11, 2016 EFSA published an opinion stating that cow’s milk treated by our Technology after pasteurization in is safe under the intended conditions of use and finding that treatment by our Technology results in no other significant differences in nutrient content, EFSA’s opinion stated that the use of the technology does not give rise either to safety concerns or to concerns about microbiological quality. The opinion affirmatively stated that “UV-treated milk is comparable to non-UV-treated milk,” except for the significant increase in the vitamin D3 content, and that no adverse effects are expected from UV-treated milk in substitution for other milk that has been pasteurized.
+ 
+Republic of South Africa
+ 
+In South Africa, we are engaged in a process to draft or amend a series of regulations of the Ministry of Health that apply to various foods and foodstuffs. In May 2012 we filed an application to amend certain regulations relating to Milk and Dairy Products GN R1555 of 21 November 1998 applicable to milk and dairy products, wine, fruit juice and other microbiologically sensitive liquids to permit our Product to be used as an alternative to pasteurization. In the case of certain regulations, draft regulations have been published for comment in the government’s official publication. In other cases, publication of the regulations may not occur until we have responded to requests for further information from the government’s Directorate: Food Control, including information that relates to the disposition of applications that we have submitted in the US and the EU. The Directorate of Food Control, Department of Health is not prepared to make an application to the Minister of Health to amend the regulation until such time that we have received either FDA or Novel Food Approval. In addition, the Directorate has advised us that the Agricultural Products Standards Act will have to be amended to conform with any amendments to South Africa’s regulations relating to milk and dairy products. The Directorate has further advised that, due to constraints in its human resource capacity, it has requested the Dairy Standards Agency of South Africa to assist. The Dairy Standards Agency undertook a scientific review of our Technology and other similar technologies during late 2014. During late 2015, South Africa’s Department of Health endorsed ongoing studies of the use of SurePure’s ultra-violet photopurification as an alternative to pasteurization for the treatment to raw milk to make it safe for human consumption. If successful, the program will allow South Africa’s farmers to use the SurePure Photopurification Technology as an alternative processing method to purify, bottle and sell their raw milk. These studies are currently underway in conjunction with commercial partners.
+
+16
+--
+
+Competition
+ 
+Generally, we compete with a number of engineered services businesses who design and, in some cases, install purification systems for beverages, dairies, wineries and other manufacturers or processors of beverages. We also compete with those businesses that manufacture the systems that are used to pasteurize or otherwise purify beverages and other liquids. Both the service providers and manufacturers with which we compete generally are private companies, although a number are associated with large international conglomerates.
+ 
+We believe that the principal competitive factors in our industry that create barriers to entry include, but are not limited to, reliability, effectiveness of technology to achieve requisite levels of purification, reputation, availability of resources and regulatory compliance for certain applications. Our limited financial resources and lack of a clear financial future may also be factors that make it difficult for us to compete in this marketplace.
+ 
+We believe that any current thermal or chemical preservative process for liquids is a direct competitor to our business. Other developing processes, such as ultrasound, high-pressure or sterile filtration, are also a source of competitive threat.
+ 
+Our strategy for dealing with our competition is to gain commercial acceptance of our Technology by pursuing those applications, such as dairy, that have rigorous regulatory standards that must be met, and at the same time work with large international businesses to receive their backing for our Technology. We also focus our efforts to gain acceptance in emerging growth economies where we believe that our Technology has competitive advantages, such as requiring the use of less power than other means of purification and where there are a large number of “Greenfield” installations for our Technology.
+ 
+Intellectual Property
+ 
+Our patented Turbid Fluid Photopurification Technology is protected by patents which have been granted in 66 countries, including South Africa, United States, China, Japan, Australia and the countries of the European Union. A predecessor entity to SPHSA applied for our patents in October 2000. Each of the patents is based on the same international patent application and relates to the same invention. The patents will expire beginning on October 12, 2020. Our United States patent was granted on July 12, 2005 and will expire on October 12, 2020. If we do not have adequate funds, we may not be able to make the required payments to maintain our patents in all countries in which they have been issued.
+
+17
+--
+
+ 
+
+The applications for these patents were examined independently by each of the patent offices where patent applications were filed, and each of the examiners in the various countries conducted an independent international novelty search for related published technology and then assessed whether or not the invention was new and inventive and thus qualified for a patent. Each examiner decided independently at the end of his examination that a patent should be granted. Accordingly, we believe that it is unlikely that a third party could successfully challenge the validity of any of our patents, and we further believe that our patents are enforceable with respect to the claims that they describe. The costs of enforcing a patent against an alleged infringer vary significantly from the relatively minor cost of sending a simple cease-and-desist letter which could result in cessation of the infringement, to the significant cost of bringing and maintaining a full patent infringement action. \See “Item 1A. Risk Factors—We rely heavily upon our patents and other intellectual property.”
+ 
+
+We also own the registered trademark “SurePure” and “Turbulator” in various formats in the United States, South Africa, Switzerland and the EU.
+ 
+Research
+ 
+We have contracted for and funded research efforts regarding the use of UVC as employed by our SurePure Photopurification Technology in the purification of liquids generally, and foods and beverages in particular, at academic institutions throughout the world. Generally, we have commissioned research in areas such as flow dynamics, biochemistry and microbiology. We, and in one or two cases, our customers, have provided funding for the studies, which generally covered both direct costs as well as overhead, and we also have provided our equipment to the institutions. In certain cases, we have provided annual grants to academic institutions to study the effects of UVC energy on foods and beverages. The academic institutions that we contracted to perform studies of our Technology or that received grants from us include:
+
+Ø | University of Wisconsin – Madison, Wisconsin, United States of America
+--+-----------------------------------------------------------------------
+
+
+Ø | Cornell University – Ithaca, New York, United States of America
+--+----------------------------------------------------------------
+
+
+Ø | Queens College – Belfast, Northern Ireland
+--+-------------------------------------------
+
+
+Ø | Illinois Institute of Technology, Illinois, United States of America
+--+---------------------------------------------------------------------
+
+
+Ø | Campdens BRI – Gloucestershire, United Kingdom
+--+-----------------------------------------------
+
+
+Ø | University of Birmingham – Birmingham, United Kingdom
+--+------------------------------------------------------
+
+
+18
+--
+
+
+Ø | University of Stellenbosch – Stellenbosch , South Africa
+--+---------------------------------------------------------
+
+
+Ø | University of the Western Cape – South Africa
+--+----------------------------------------------
+
+
+Ø | Cape Peninsula University of Technology – Cape Town, South Africa
+--+------------------------------------------------------------------
+
+
+Ø | IFV – Bordeaux, France
+--+-----------------------
+
+ 
+By way of example, results of studies conducted at these institutions include the following:
+ 
+
+o | A 2008 published study that concluded that UVC radiation was successful in reducing bacterial counts in raw bovine milk, as well as apple juice, guava juice, pineapple juice and orange juice, while preserving the nutrients of the beverages being treated.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2010 unpublished study of the use of our Technology to produce grape juice and wine that is free of microorganisms that found that using the UVC treatment on grape juice and wine samples in five different wineries could provide wine significantly free of microorganisms (i.e., to the extent of less than 1 colony-forming unit per milliliter).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2011 published study that explains the effects of UVC radiation on microorganisms found in grape juice and wine products which found that our Technology “clearly indicated significant germicidal effect against the wine specific microorganisms; therefore, UVC radiation may stabilize grape juice and wine microbiologically in conjunction with reduced sodium dioxide levels” and that UVC radiation effectively inactivates wine-associated microorganisms such as Brettanomyces, Saccharomyces, Acetobacter, Lactrobacillus, Pediococcus and Oenococcus.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2011 published study that investigated the efficacy of UVC radiation technology to inactivate microorganisms in milk and concluded that UVC treatments produced microbial reductions similar to traditional heat pasteurization. The study also noted that UVC has the advantage of not producing chemical residues, by-products or radiation; is a cold process requiring very low maintenance at low cost; and does not require energy to produce heat.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2011 unpublished study currently under peer review that investigated whether UVC treatment could reduce the number of Alicyclobacillus acidoterrestris cells in water, fruit concentrate and grape concentrate and found that our Technology is a viable way to control contamination of juice concentrate by species of that bacterium.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2012 published study that examined the use of UVC light to inactivate microorganisms that found a 100% improvement in predicted microbial elimination due to the novel swirl design of our Turbulator.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A 2015 published study on the sapplication of ultraviolet technology to inactivate porcine parvovirus in liquid plasma. This study discusses the use of spray-dried porcine plasma and the benefit of UV photopurification in its production.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+19
+--
+
+ 
+
+We believe that these studies were undertaken by qualified scientists who were employed by academic institutions with experience in the areas of scientific endeavor that relates to our Technology. We also believe that these scientists performed their research in accordance with the ethical and scientific guidelines of their respective universities. Prior to being published, the results were reviewed by scientific peers and presented by journals with international following. Accordingly, we believe that we and others can rely on these studies as proof of the efficacy of our Technology as presented in the studies. We have presented these studies to regulators as evidence of the efficacy of our Technology.
+ 
+In addition to evaluating the results of our Technology as a means of purification, these studies also provided information with respect to certain critical process parameters, such as optimal dosage and flow rates. We plan to commission additional studies to gather additional information on these topics as well as certain toxicological and chemical safety studies. The methods to be used for our studies must comply with various regulatory standards. Any academic institutions with whom we might deal are likely to require that we fund these studies, and, accordingly, we will require additional financing so that we are able to pay all of the expenses and overhead costs that we are required to pay.
+ 
+Employees
+ 
+As of December 31, 2016, we employed 6 people directly. We continue to utilize the services of key academic and professional consultants in the areas of microbiology, biochemistry process engineering and manufacturing to enable us to grow the business and service our customer base on a global basis.
+
+20
+--
+

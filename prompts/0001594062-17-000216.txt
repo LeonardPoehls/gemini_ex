@@ -1,0 +1,315 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+Corporate History
+ 
+General
+ 
+World Moto, Inc. was incorporated on March 24, 2008 in the State of Nevada under the name Net Profits Ten Inc. Our original purpose was to market and distribute user-friendly interactive yearbook software for the military. On November 8, 2012, we amended our Articles of Incorporation to increase our authorized shares of common stock from 100,000,000 to 500,000,000 and our board of directors approved a stock dividend of 180 shares of common stock of the Company for each share of common stock issued and outstanding. On November 12, 2012, we amended our Articles of Incorporation to change our name from "Net Profits Ten Inc." to "World Moto, Inc.", which name change became effective on November 15, 2012, upon approval from the Financial Industry Regulatory Authority ("FINRA"). Effective January 18, 2015, we amended our Articles of Incorporation to increase our authorized shares of common stock from 500,000,000 to 1,000,000,000. On April 9, 2015 we further amended our Articles of Incorporation to increase our authorized shares of common stock from 1,000,000,000 to 2,000,000,000 shares. On October 13, 2015, we filed a Certificate of Designation which set forth the rights, preferences and privileges for a new class of preferred stock of the Company, to be known as Series A Convertible Preferred Stock. We are authorized to issue up to 5,000,000 shares of Series A Convertible Preferred Stock. Holders of Series A Convertible Preferred Stock shall be entitled to the number of votes equal to 51% of the total number of votes entitled to be cast on any matters requiring a stockholder vote. The shares of Series A Convertible Preferred Stock are convertible at a one to one ratio into shares of common stock. On October 13, 2015, we issued 4,000,000 shares of Series A Convertible Preferred Stock to Paul Giles, our Chief Executive Officer, and 1,000,000 shares of Series A Convertible Preferred Stock to Chris Ziomkowski, our Chief Technical Officer, as compensation for services rendered to the Company. On November 16, 2015, we further amended our Articles of Incorporation to increase our authorized shares of common stock from 2,000,000,000 to 4,000,000,000 shares.
+ 
+We were a shell company until the completion of the acquisition of the World Moto Assets described below, which was consummated on November 14, 2012.
+ 
+ 4
+ 
+On January 30, 2013, we established two wholly owned subsidiaries, World Moto Technologies, Inc. and World Moto Holdings, Inc. both of which were incorporated in the State of Nevada. These two subsidiaries were established, but have no operating activity to report to date. On February 4, 2013, World Moto Technologies Ltd. was organized under the laws of the Kingdom of Thailand. Its name was later changed to World Moto Co., Ltd. ("WM Co. Thailand"). WM Co. Thailand is owned in its entirety by World Moto, Inc., World Moto Technologies, Inc. and World Moto Holdings, Inc. and represents our operating entity for the purposes of research and development in the Southeast Asia region.
+ 
+ Organizational Chart
+ 
+
+Acquisition of World Moto Assets
+ 
+On September 1, 2012, we entered in an Asset Purchase Agreement ("Agreement") with World Moto (Thailand) Co., Ltd., a corporation established under the laws of the Kingdom of Thailand ("Old WM"), Chris Ziomkowski, the Chief Technical Officer of Old WM, and Paul Giles, the Chief Executive Officer of Old WM. The Agreement was consummated on November 14, 2012. Pursuant to the Agreement, we purchased from Old WM substantially all of the intellectual property and certain other specific intellectual property assets related to Old WM's initial product, the Moto-Meter (the "Assets"), which included three United States patent applications, the data related to the patent applications, certain software related to the operation of the Moto-Meter, and several URLs, trade-names and associated names related to the Moto-Meter and Old WM. As part of the transaction, Paul Giles and Chris Ziomkowski became the management of the Company immediately after the acquisition. The Assets did not include any plant and equipment, customer lists, suppliers or any other business and operational assets of Old WM, and we did not hire any employees of Old WM other than Paul Giles and Chris Ziomkowski. Old WM continues as a corporation, operating in Thailand. Moto-Meters are devices that provide metering of rides on motor scooters, motorcycles and similar types of transportation vehicles, and were initially developed by Old WM.
+ 
+The consideration paid for the Assets was an aggregate of 224,597,666 shares of common stock, then representing 60% of the outstanding shares of our common stock immediately after closing, and the assumption specified outstanding debt in the amount of approximately $75,000, which was converted into 576,923 shares of common stock at the closing, at a conversion rate of $0.13.
+ 
+ 5
+ 
+At the same time as the acquisition of the Assets, Mr. Marlon Liam, our former sole director and officer, agreed to extinguish $52,183 in obligations owed to him by the Company for the issuance of 401,415 shares of common stock, at a conversion rate of $0.13.
+ 
+The acquisition of the Assets was accounted for as a purchase of assets in accordance with Rule 11-01(d) of Regulation S-X and ASC 805-10-55-4. The Assets had a contract stated value of $100,000 based on several factors related to the shares issued as consideration, including the limited trading of the common stock, the restricted characterization of the securities with not less than a one year holding period before Rule 144 would apply, the absence of registration rights, and the determination of the value of the Assets by Old WM. No goodwill was recognized in the acquisition. No formal, independent valuation was obtained in connection with the purchase of the Assets. In accordance with Generally Accepted Accounting Principles, we valued the Assets at $0.
+ 
+Business
+ 
+We design, manufacture, market and sell Moto-Meter products and services, including the Moto-Meter and its related smartphone application, the Yes service and HailYes™ app, and Wheelies. We seek to address the need for fare metering and mobile commerce for motor scooters and motorcycle taxis. The use of these taxis is increasingly common in the developing world. Our planned products, however, will have increased functionalities over a standard fare meter commonly used in an enclosed taxicab.
+ 
+We have begun to manufacture and market our principal product, the Moto-Meter, which provides moto-taxi fare metering and other communication capabilities.  The Moto-Meter entered the production phase during the second quarter of 2015, and we began filling orders in October 2015. The Moto-Meter has the basic functions of a taximeter in an enclosed taxicab, but with additional characteristics that, over time, will permit mobile commerce, GPS tracking, advertising and other capabilities. In connection with our development of the Moto-Meter, we launched a smartphone application (the "App"), which connects directly to the Moto-Meter via a secure Bluetooth connection and can access real-time data from the Moto-Meter, giving customers the ability to view driver profiles and ratings before getting on a motorcycle taxi. As an element of mobile commerce, we have also introduced "Yes," a concierge service where persons can order products and have the products delivered to their address by motor scooter. The Yes service launched on March 9, 2015 in Bangkok, Thailand. We have also developed HailYes™, which is an integrated mobile platform that instantly connects consumers to transport and commerce services in a local community. On October 13, 2015, we announced the establishment of our HailYes™ licensee program, and subsequently entered license agreements with three licensees covering the areas of the greater Amsterdam metropolitan area in the Netherlands, Jambi City and Batam, Indonesia, and Kampala, Uganda. On November 16, 2015, we announced our launch of the iOS version of the HailYes™ app in Apple's App Store, beginning our process of actively marketing to consumers. In connection with the development and marketing of the HailYes™ app, we have suspended our planned expansion of our existing Yes delivery service into Malaysia and Cambodia at this time in order to avoid conflicting and overlapping marketing efforts. In addition to developing and marketing the Moto-Meter, the Yes service, and the HailYes™ app, we continue to focus on the development of our advertising product, Wheelies, which display static and streaming media on the wheels of motorcycles and automobiles. We have successfully completed a pre-production version of Wheelies, and have successfully completed testing. We currently use Wheelies in-house for advertising our other products, but we intend to build out sales to advertising agencies and large brands.
+ 
+In many parts of the world, the taxicab, as it is known in developed economies, is being superseded by motor scooters and motorcycle taxis. The growth in the use of motor scooters and motorcycle taxis is particularly prevalent in the heavily populated, faster growing Asian, African, and South American cities. While meters are ubiquitous in taxicabs, we believe there are no similar devices for motor scooters and motorcycle taxis. Thus, moto-taxi fares are un-standardized and must be calculated by hand or agreed upon or "haggled" before, during or after a trip, often leading to failed negotiations and clashes between drivers and passengers. In response to this problem, the Moto-Meter was developed. We believe this device will do for moto-taxis what the taximeter did for taxicabs more than 100 years ago. We currently have plans for two Moto-Meter models, one with an LED screen and the other an LCD monitor.
+ 
+We have entered the moto-meter market in Thailand, and we plan to expand to Indonesia and Vietnam, and then branch out to additional countries that have a high use of moto-taxis, including Brazil, countries throughout Africa, and other developing economies throughout the world. Moto-taxis are most common in economically developing and emerging growth countries. There also is increasing use of the moto-taxi in the developed world, such as in Paris and London, because of their convenience and speed. We plan on developing a distribution network of the Moto-Meter products through franchised dealers, resellers and brick and mortar storefronts in our selected markets. We have decided to utilize these types of vendors because aspects of the Moto-Meter include add-on products, and these vendors will be able to help with installation and provide explanations for use of such products.
+ 
+In late 2012, we collaborated with the Bangkok Governor's Office to carry out trials of the Moto-Meter product, which were conducted to test both the hardware and software of the meter and to determine how quickly it could be deployed throughout the city. We have not entered into any formal agreement with the Bangkok Governor's Office. The trials were carried out along a prominent thoroughfare in the heart of the city and received praise from both drivers and passengers. Based on the trials, we believe that there will be strong demand once the Moto-Meter enters full production. According to the Thai Ministry of Transportation, it is estimated that there are over 200,000 motorcycle taxis in Bangkok and an estimated 700,000 motorcycle taxis across the country. Once the Moto-Meter is in widespread use, we plan to use Bangkok as a flagship city as sales and marketing efforts are ramped up to enter other cities and areas across Thailand, as well as other major markets around the world.
+ 
+ 6
+ 
+We have entered into discussions with the office of the mayor of Montes Clare, Brazil, to mandate the use of Moto-Meters on all moto-taxis within the city of Montes Claros. Montes Claros is considered the "motorcycle taxi capital" of northern Brazil and an ideal city to launch the Moto-Meter in Brazil. We believe that a regulatory mandate here will act as a springboard into the potentially larger markets of Brazil's other highly populated cities. Although no agreement has yet been entered into with respect to the use of the Moto-Meter in Montes Claros, we intend to follow up with the office of the mayor of Montes Clares regarding the launch of the Moto-Meter in Brazil after we have established a full production timeline for the device. We have signed letters of intent for the distribution of our flagship product, the Moto-Meter with qualified distributors in 7 countries. The distributors were selected for their ability to both sell and support our products as well as to protect our brand image in strategic markets. We are continuing discussions with several other distributors out of the hundreds of retail agents and operators that have contacted us to express their interest in the Moto-Meter and associated products. The letters of intent authorize the distributors to sell and support our flagship product, the Moto-Meter, as well as establish priority for Wheelies and our future products and services. However, there are no minimum purchase requirements under the letters of intent and no obligations on distributors to purchase any of our products.
+ 
+In Africa, we established an office in Lagos, Nigeria. We have had previous discussions with HRH Oriteme Banigo (who is currently employed by UBA Plc), who informed us that certain government officials in Nigeria have expressed interest in the Moto-Meter. However, no formal agreements have been entered into with respect to the use of the Moto-Meter in Lagos. We have also established relationships with distributors in Africa who wish to incorporate the Moto-Meter into their proprietary solutions for transport and commerce throughout the continent. Establishing and maintaining a physical presence in Africa is essential for us as we enter the process of formalizing these discussions into a clear plan to introduce the Moto-Meter into Lagos and other cities across Africa. On November 4, 2013, we were awarded a patent on the Moto-Meter technology until 2033 in Nigeria, a country with more than 3 million motorcycle taxis. According to Reuters, there are "as many as one million motorcycle taxis in Lagos," a city of Nigeria, and estimates for the total number of motorcycle taxis in Nigeria exceed 3 million — a number that is equal to the total number of automobile taxis in the entire world.
+
+  In April 2016, we were awarded a patent on the Moto-Meter in 16 more countries throughout Africa, giving us coverage over an extensive area representing more than 50% of the continent by population. We intend to continue to expand our development and marketing efforts throughout Africa.
+ 
+During the second half of 2015, we transitioned from a company of development into a company of production and sales. Over the next twelve months, we intend to make a concerted effort to promote the Moto-Meter™ and HailYes™ app in high value markets throughout the world. We intend to advance our sales strategies by streamlining our operations and directing the majority of our resources to increased marketing and sales.  
+ 
+ Products
+ 
+Moto-Meter
+ 
+
+ 7
+ 
+Our principal product currently is the Moto-Meter, which has been introduced and brought into production in Thailand. Our first product is a light emitting diode (LED) model and once a market is established for that product, we will market a liquid crystal display as a premium model. The LED model is a portable/universal meter that is compact and easily swapped among vehicles. It is rugged and designed to work with all vehicle classes. The meter provides starting rate, time, total fare and distance measures. The device will have event data recording, Global Positioning System (GPS) functionality and advertising capacity. The premium product has added features, such as television and video display capability. Mobile commerce will also be an early stage enhancement, which will allow for electronic payment of the fare and also purchasing other products and services.
+ 
+
+The initial product, which is known as the Eagle, is waterproof, scratch resistant, made of high density plastic and similar in size to a modern GPS device; its dimensions are approximately 6" X 4" x 1". The Eagle model has a Universal Serial Bus (USB) style connector that plugs into a motorcycle or vehicle providing the meter with speed, distance, and sensor information while powering the unit. The device is capable of almost unlimited tariff options. Firmware upgrades and re-programmability are designed to be quick and simple. The life expectancy of the Eagle model is expected to be three to five years. The Eagle model will be sold with a one year warranty. The Eagle product will be sold as a kit, including the mount, installation kit, and cost of warranty.
+ 
+ The Moto-Meter is also designed to be tamper proof, with multiple independent, fully redundant tracking systems. These include a GPS and a completely self-contained inertial navigation system, in addition to the traditional speed sensors found on conventional taxi meters. Any one of the systems is enough to give an accurate record of the distance and waiting time by itself, but we believe all of them combined allow for an accuracy and reliability unsurpassed by other metering devices on the market today for similar uses.
+ 
+An enhancement to the standard Moto-Meter includes a persistence of vision advertising capability that works either independently or in conjunction with the Moto-Meter display to provide graphics displayed on a rotating wheel at speeds as low as 11km/h. Three rows of RGB color model (one red, one green and one blue) LED's are controlled via an advanced graphics processor that can sense wheel position and rotation speed during normal operations.
+ 
+The Moto-Meter also has an event data recorder, commonly known as a "black box." This is a first for motorcycles. The black box is a tiny unit that comes integrated with the Moto-Meter, or it can be sold separately as a safety device. This will allow monitoring location and rides, which can provide safety for riders and fleet tracking. The device automatically stores up to five years of trip data, which data are encrypted for security.
+ 
+We believe that the Moto-Meter has many advantages as a product. First, the Moto-Meter provides a certainty to the fare which will overcome the problems faced by the customer and driver where the fare is often undefined and has to be negotiated or "haggled." These negotiations often result in misunderstandings and inconsistencies which annoy both the driver and the customer. Second, the Moto-Meter will help authorities regulate fares, which will give communities and regulatory agencies an easy and affordable method of standardizing moto-taxi fares and supporting overall consumer and community satisfaction. Therefore, we believe we will obtain support for our product in the markets we address from regulators as well as customers and drivers.
+ 
+The primary disadvantage of the Moto-Meter when compared against its primary competition is the need to expend capital both for acquisition of the meter and for annual maintenance. However, we believe this is a minor inconvenience due to the increased efficiency that the Moto-Meter offers. When considering this drawback, it is also important to consider that the investment capital for the Moto-Meter can come from a variety of sources other than the driver or operator of the vehicle, such as governments, advertising agencies, charitable funds, or other organizations who are willing to fund the Moto-Meter in exchange for access to the usage data that our product offers. In fact, governments themselves may find that the tax receipts that could be generated by recording revenues from the Moto-Meter far outweigh the minor costs associated with purchase and maintenance. Also, in the event that no third party is available to subsidize the cost of the Moto-Meter and the entire acquisition cost falls to the owner or operator, we have plans to enlist the services of regional investment banks to help fund the initial capital outlays, as well as software provisions to disable the Moto-Meter if the owner or operator fails to meet the agreed upon repayment terms of the loan.
+ 
+ 8
+ 
+We plan on developing future products that complement the basic forms of Moto-Meters. These may include advertising, booking, delivery, electronic payment and similar products, devices and services, including the "App", the "Yes™" concierge capability and the "HailYes™" app (see below for more detailed descriptions). The basic Moto-Meter also provides event data recording and GPS positioning, which are valuable safety features.
+ 
+We are now accepting and filling orders from qualified global distributors and fleet operators for the Moto Meter™. The Moto-Meter has entered the production phase, and we began filling orders in October 2015. The global opening of sales came after several months of rigorous testing on the streets of Bangkok and with select partners. We believe that the ongoing quality assurance process demonstrated that the Moto-Meter™ can withstand the extreme hazards that it will be subjected to in the field. We believe that the testing additionally demonstrated that not only is the ruggedized device capable of withstanding the physical assaults of daily operations, but that the user experience from both passengers and drivers meets the standards that the company has set in order to begin general sales of the product. A preproduction launch to motorcycle taxi-operators in Thailand afforded an opportunity to gauge public opinion about the Moto-Meter™, and we have generally received a positive response from people from all walks of life, including motorcycle taxi drivers, students, celebrities, officials and business people. We are currently actively pursuing our goal of certifying the Moto-Meter™ with two administrative authorities in preparation for advancing negotiations on regulatory mandates. Negotiations for legislation mandating the Moto-Meter™ will be pursued in parallel with the general sales process. We anticipate expanding sales of Moto-Meter™ to Indonesia, Cambodia, Brazil, and countries throughout Africa over the next 12 months.
+ 
+In conjunction with the opening of sales for the Moto Meter, we launched a smartphone application (the "App"). The App connects directly to the Moto-Meter™ via a secure Bluetooth connection, and can access data from the meter in real-time, giving users the ability to view ratings and a profile of the driver before getting on the bike. During the ride, it provides continuous analysis on the fare and GPS location, augmenting the Moto-Meter's already significant anti-tampering security protocols, as well as transmitting the location to designated individuals or safety monitoring services. The application also has the ability to offer customized products and services to the users during the ride, with the purchase conveniently added to the fare. As credit card use is still limited in the demographic that usually engages motorcycle taxis for their daily mobility, this feature can often prevent a special trip to a convenience store to pay for the needed product.
+ 
+The App also has the ability to offer per trip insurance to motorcycle taxi passengers for a nominal fee. In much of the developing world, the operators of such taxis are often uninsured or underinsured, and additional third party insurance can either augment the user's own insurance or provide benefits to those whose own policies may restrict coverage. While optional insurance is common in the case of long distance travel such as with airlines, the ability to offer pay per trip micro insurance for local driving is a unique feature not currently offered. We anticipate that this type of novel service, which requires both a regulated and trusted device on the motorcycle plus a trusted device of the purchaser, will be a strong driver of Moto-Meter™ sales.
+ 
+We completed the verification build stage and pre-production phase with the Moto-Meter during the first half of 2015, and we began filling orders in October 2015. Entry into the production phase marks our transition from development to production. Additional engineering time generally shifts from product modifications to the continued development and refining of tooling and test fixtures necessary to guarantee the high quality required for mass manufacture. The verification build was completed in collaboration with Krystal Microsystems during September 2015, and we have begun discussions to plan the next production build subject to adequate funds.The estimated cost associated with the development and marketing of Moto-Meter during the next 12 months is $47,000. See page 16 of "Risk Factors" for further discussion of the risks related to our capital requirements.
+ 
+ Wheelies
+ 
+
+We are also focused on the development of our advertising product, Wheelies. Wheelies display static and streaming media on the wheels of motorcycles and automobiles, providing a new mobile medium for advertising, broadcasting, self-expression and publishing. Our Wheelies product has gone through extensive testing and is now ready to be sold on a limited basis.
+ 
+ 9
+ 
+We successfully completed a pre-production version of Wheelies, and have successfully completed testing. DMC was tasked with outsourced production of Wheelies after concluding an extensive proof of concept phase that included demonstrations of its capabilities to meet our rigorous standards for manufacture of printed circuit boards, injection molded components, conformal sealing and assembly of WheeliesWe moved into limited production of Wheelies, which involves low volume production runs of tens to hundreds of units in order to refine the production yields, increase the efficiency, and decrease warranty and support costs of the manufacturing process. DMC will provide their experienced research and development team to assist in the design of the automated test and analysis fixtures and programs required to optimize this system. We currently use the Wheelies in-house for advertising of our other products, and we are looking to build out sales to advertising agencies and large brand companies. On October 14, 2015, we announced the crowdfunding launch of Wheelies. The Kickstarter campaign introduced Wheelies to motorbike enthusiasts both in the United States and around the world at discounted pre-order prices for a limited time. While the Kickstarter project ultimately failed to meet the minimum funding goals set by the Company, it generated significant discussions within the motorcycle community and we plan to reintroduce this product once we have completed plans for launching the Moto-Meter.
+ 
+We believe the Wheelies technology has the potential to turn essentially any wheel in the world into a full color billboard or video screen. All digital content, including ads and videos, can be sequenced and triggered at a specific time, location, or manually under the command of an operator using gesture recognition and a wearable device. This gives Wheelies the ability to serve up highly targeted advertisements to different demographics.
+ 
+
+
+9
+ 
+
+We believe that by combining certain aspects of social networking and modern LED displays, the Wheelies technology offers the ability for new generations of consumers to connect with members of their local community using methods similar to those used by online services today. Unlike locally targeted internet forums, Wheelies can spread an idea quickly and easily to every corner of a region without restricting the message to select individuals who actively seek information from a specific website.
+ 
+The Wheelies product can be deployed independently or in conjunction with the Moto-Meter, Yes™ and HailYes™ products and services.
+ 
+The estimated cost associated with the development and marketing of Wheelies during the next 12 months is $3,000.
+ 
+ 10
+ 
+Yes™ and HailYes™
+ 
+We developed the Yes™ service further in 2015, mainly targeting developing countries where motorcycle use is more pervasive. Yes™ is a personal retail and delivery service superimposed on a mobile delivery infrastructure. A user may simply tap an app to obtain refreshments, toothpaste, diapers and other necessities, delivered anywhere in less than 20 minutes. We believe Yes™ will make brick and mortar commerce as convenient as the Internet.
+ 
+Shopping on the internet has already reached unprecedented levels of convenience. However, increasing competition in the e-commerce space has driven success in this marketplace to the final front - last mile delivery. With advantages on price and assortment having reached the point of diminishing returns, we believe the new online battle is being fought over the efficiency of getting a product to the consumer as quickly as possible and at the lowest possible cost. New one hour delivery services such as eBay now leverage brick and mortar stores to provide rapid delivery. However, they are discovering that this is a different market than they are used to. According to Sucharita Mulpuru at Forrester Research, it is an "H.R. issue, not a tech issue." Successful companies in this arena are likely to be ones that can combine technology with the ability to mobilize huge armies of experienced human "valets" that possess a work ethic to go beyond a script and service the customer in an individual fashion.
+ 
+Yes™ was conceived with this requirement in mind. We believe that we have the ability to access more than 20 million motorcycle taxi operators around the world, each having already been self-selected for their ability to provide exactly the qualities demanded by this profession. The preexisting nature of this human infrastructure means it can be accessed as necessary with minimal training during expansion into new geographical areas. Local commerce in much of the world is already facilitated by motorcycle taxis, so the drivers already understand the issues. Dr. Claudio Sopranzetti, a transportation expert from Harvard, describes their role as follows: "The drivers operate not only as transportation providers but also as messengers and personal assistants, paying bills and delivering commodities." Traditionally, however, these services have been offered individually, on an ad-hoc, undependable basis. We plan to develop Yes™ as the trusted brand for such services.
+ 
+The Yes™ service was developed in-house. The Yes™ service went through substantial testing and was launched in Thailand on March 9, 2015.
+ 
+During 2015, we also developed and launched HailYes™, which is an integrated mobile platform that instantly connects consumers to transport and commerce services in a local community. The HailYes™ app allows consumers to simply tap their smartphone to hail a ride, courier a package, or have refreshments delivered right to their doorstep in a matter of minutes. HailYes™ is freely available for download worldwide, allowing people to get a safe, affordable ride, or products and services delivered to their door by simply pressing a button on their phone.
+ 
+We initially began marketing HailYes™ to drivers in Bangkok, although we have begun to see downloads and interest in other parts of the world. On October 13, 2015, we announced the establishment of our HailYes™ licensee program, which gives interested parties the opportunity to use and market the HailYes™ e-hailing platform in their locality and receive the benefits of tourists and businessmen who use HailYes™ in their territory. Within one month after launching the licensee program, we entered license agreements with three licensees covering the areas of the greater Amsterdam metropolitan area in the Netherlands, Jambi City and Batam, Indonesia, and Kampala, Uganda. We have begun the process of actively marketing the HailYes™ app to consumers in Thailand and in the service areas of our initial licensees, and we anticipate that the first licensees will begin commercial operations of HailYes™ in the coming months. On November 16, 2015, we announced our launch of the iOS version of the HailYes™ app in Apple's App Store, ramping up our process of actively marketing to consumers. The iOS version of the HailYes™ app is the last major component of the HailYes™ platform, which also includes the existing HailYes™ Android apps and the HailYes™ licensee program.
+ 
+Over the next 12 months, we plan to continue to promote Yes™ and HailYes™ in high value markets around the world.
+ 
+The estimated cost associated with the development and marketing of Yes™ and HailYes™ during the next 12 months is $35,000
+ 
+Potential Revenue Lines and Distribution
+ 
+Our principal source of revenues is expected to come from the sale of the Moto-Meter, Wheelies units, and related products that can be used in conjunction with the Moto-Meter. We may also derive revenues from advertising partnerships with Wheelies units. Additional revenue may come from advertising displayed on the Moto-Meters. Revenues are also expected to come from our Yes™ and HailYes™ mobile commerce application services. Additional revenues may be generated from the booking services, which would include door to door, delivery, messenger, vehicle collection, errands and emergency road services. We expect to generate additional revenues from all four of our product lines within the next 12 months, including from the following agreements:
+ 
+ 11
+ 
+
+Lucky Distributors, Ltd.
+ 
+On December 19, 2012, we entered into a distribution agreement with Lucky Distributors, Ltd. ("Lucky"), a Thailand-based distribution company. Lucky has a regional network that currently provides parts and servicing for motorcycles and motor scooters. Lucky also is a preferred supplier for the Motorcycle Taxi Association of Thailand. Under the terms of the distribution agreement, Lucky has the non-exclusive rights to distribute, sell and service the Moto-Meter and Moto-Meter accessories throughout the country of Thailand and surrounding border markets. We believe Lucky's reputation and relationship with the moto taxi community will help to promote the Moto-Meter throughout Thailand.
+ 
+The distribution agreement is for a term of five years and may be terminated (i) by either party upon a substantial breach of the agreement, (ii) by us if Lucky undergoes a change in control, or (iii) by us at any time after three years. The products will be sold at prices stated at FOB our offices in Thailand and will not include transportation costs, which will be borne by Lucky. Lucky will use its best efforts to promote the sale and distribution of the products and we will assist Lucky with any advertising campaigns to be conducted. We also agree to indemnify Lucky from any losses relating to allegations that the products infringe upon any patents, copyrights, or proprietary right. This agreement is not revenue producing as yet, and we expect it to be producing revenues by the fourth quarter of 2017. 
+ 
+Product Licensing Arrangements
+ 
+Depending on the means of distribution and sale, there may be additional revenue opportunities from franchising and licensing of the Moto-Meter and its different capabilities. Additionally, we anticipate generating revenues from licensing our HailYes™ platform to licensees in various developing countries throughout the world.
+Manufacturing and Suppliers
+ 
+We subcontract manufacturing and believe that there are many manufacturers capable of providing and assembling the parts for the Moto-Meter, at a high quality level and efficient rate of production for prices that will work within the projected pricing of the Moto-Meter units. In the future, to assure adequate production and quality, we plan to manufacture the devices ourselves, either being fully responsible for the production or in conjunction with other contract manufacturers. While we believe there are many manufactures that can meet our requirements, we typically will work with only one or two at a time. Where useful, we plan to use just in time stock strategies for hardware, supplies and service parts to control margins and working capital requirements.
+ 
+Certain of the components in our devices will be supplied by contract suppliers to our specifications while other components will be provided by generic manufacturers. We believe there are adequate providers in both categories of suppliers.
+ 
+In January 2014, we contracted with DMC for production of our Wheelies LED display technology. DMC concluded an extensive proof of concept phase that included demonstrations of its capabilities to meet our rigorous standards for manufacture of printed circuit boards, injection molded components, conformal sealing and assembly of the Wheelies device. The successful completion of this phase and the subsequent agreement between the Company and DMC signified the beginning of the production stage of Wheelies.
+ 
+Our collaboration with DMC allowed us to move immediately into limited production of the Wheelies device, which involves low volume production runs of tens to hundreds of units in order to refine the production yields, increase the efficiency, and decrease warranty and support costs of the manufacturing process. We are looking to build out sales to advertising agencies and large brand companies, and we plan to continue to expand production and sales over the next 12 months.
+ 
+Regulations
+ 
+Moto-Meter
+ 
+We intend to market the Moto-Meter primarily into 4 countries over the next 12 months – Indonesia, Cambodia, Thailand and Brazil. We will rely primarily on our in-country distributors to apply for any licenses and certificates necessary in their specific regions, and we will support them with any results from testing laboratories and foreign compliance certificates.
+ 
+ 12
+ 
+Of these 4 regions, we believe that only Brazil has a specific metrology requirement which is governed by Brazil's National Institute of Metrology, Inmetro. We have completed the work to adapt the Moto-Meter electronics so that the product can pass all current and anticipated regulatory requirements of Inmetro, and we intend to submit the Moto-Meter for certification to Inmetro within the next 12 months. Although Thailand also has a metrology requirement for licensed metered taxis, motorcycle taxis are not considered licensed metered taxis and therefore no metrology requirement applies with regard to selling the Moto-Meter to motorcycle taxi operators in Thailand. Similarly, neither Indonesia nor Vietnam have a specific metrology requirement for motorcycle taxis. In these unregulated jurisdictions without a specific legal metrology requirement, we will certify the Moto-Meter to operate in accordance with the specifications described in the International Organization of Legal Metrology recommendation R-21. Since most of the world's taxi meter regulations are either heavily based on or directly copied from this standard it should provide a useful declaration for operating in countries that have not yet regulated the industry.
+ 
+In addition to metrology approvals, the Moto-Meter uses a 2.4GHz wireless interface for communication and therefore may be subject to radio frequency approvals. Use of this technology in Thailand, Indonesia, Vietnam and Brazil, requires a certificate of compliance from that jurisdiction's authority on radio frequency. Our research indicates that in all of these jurisdictions an approval from either a Federal Communications Commission ("FCC") conformance body under the relevant statutes of part 15 or a CE mark will allow the certification of the device without further testing under each country's radio frequency laws simply by making a formal application to the specific authority. We are currently in the process of selecting a Telecommunications Certification Body ("TCB") to begin approval of the Moto-Meter under the relevant FCC Part 15 standards and signing a declaration of conformity to use the CE mark. Failure to obtain approval from a jurisdiction's authority on radio frequency will disallow the use of the Moto-Meter's wireless interface in that jurisdiction until such time as approval can be obtained or a waiver is granted in the specific jurisdiction targeted for sales. We are not currently aware of any requirement that we believe will result in a failure of the Moto-Meter to obtain an FCC Part 15 compliance certificate or sign a declaration of conformity for a CE mark.
+ 
+Except for the requirements of an intentional transmitter in the 2.4 GHz spectrum, as an automotive product, the Moto-Meter is exempt from radiated emissions requirements under FCC Part 15.103. It is our understanding that Brazil, Thailand, Indonesia and Vietnam also recognize this exemption. Because of this, failure to obtain FCC certification will not result in a delay in sales, but may result in the inability of customers to use the wireless radio features of the device until approval can be obtained.
+
+
+  
+Wheelies
+ 
+We intend to market Wheelies over the next 12 months primarily as an advertising platform in Thailand. The technology may require permits and waivers to be used on public streets in Thailand. In the event that Wheelies are used in a fixed, outdoor location, such as on a stage at the entrance to a building, the only governing regulation is the fees that must be paid to acquire an outdoor signage tax permit. Permits are issued on a nondiscriminatory basis by the governing municipal authority and taxes are based purely on the area of the display medium.
+ 
+In the event Wheelies are used on public roads, they will be regulated by the Thailand Land Traffic Act of 1979 and associated ministerial regulations. Strict interpretation of these existing regulations limit any exterior vehicle lighting to headlamps, brake lights and turn signal indicators unless otherwise approved by the Department of Land Transport. In practice, however, we have observed that these rules are overly restrictive and not currently enforced. Vehicles with hundreds of variations of external lighting displays are common on the streets of Thailand. We do not currently intend on requesting a waiver from the Department of Land Transport before commencing advertising activities and therefore, it may be subject to penalties, such as fines, or even a prohibition on using the Wheelies technology on public streets until a waiver is obtained from the Department of Land Transport. Any of the foregoing results may have a material adverse effect on our Wheelies business in Thailand.
+ 
+Yes ™ and HailYes™
+ 
+Yes™ was launched in a 6 square kilometer area of the Wattana District in downtown Bangkok, Thailand on March 9, 2015. We began a campaign to establish Yes™ service points across the entire 1500 square kilometer region of Greater Bangkok, and intend to expand the coverage area to other areas of Bangkok in the coming months. Both e-commerce as well as messenger and delivery services are currently entirely unregulated in this region, and we are not aware of any legal or regulatory standards that would inhibit our ability to execute on our business plans related to this product.
+ 
+In March 2016, the Thai government publically confirmed that all motorcycle taxi ride hailing services operating in Thailand, such as HailYes™, are required to operate using only licensed and registered motorcycle taxi drivers and that they must charge fares that are in line with existing government tariffs.  We believe HailYes™ complies with all known regulations in Thailand.
+ 
+ 13
+ 
+Customers and Industry
+ 
+We have engaged in direct sales of the Moto-Meter to 9 customers and have signed letters of intent with 7 Moto-Meter resellers around the world. Our initial plan is to engage other resellers who will then on-sell the Moto-Meters to the moto-taxi owners, which may be individuals or fleet owners. As we gain brand and product awareness, we expect to sell directly to the owners of moto-taxis, thus expanding the customer base to the primary user. We intend to establish and control pricing so that there is minimum price competition within our markets.
+ 
+For advertisers, we believe Wheelies is a high impact medium for showcasing brands and businesses to new customers in locations of mass consumer exposure with the potential ability to target up to 400,000 people a day, per motorcycle. For retail buyers, we believe Wheelies is a personal medium of self-expression, and a fun way to share content, engage, collaborate and create entirely new experiences. We expect that retail buyers will eventually make up the largest portion of Wheelies users. Global sales of OEM motorcycle components and accessories represent a market worth approximately $50 billion annually.
+ 
+The global advertising industry is worth nearly $500 billion annually, with outdoor display type advertising as one of the fastest growing segments of the advertising industry. We believe that the appeal to advertisers together with the additional revenue streams available to agents, operators and drivers will result in demand for our products.
+ 
+Marketing
+ 
+We are using several channels to market our products including social media, direct sales and trade shows. The overall goal of the advertising will be to strengthen brand and product recognition, which will also support product distribution and sales. We will seek to overcome the general low image and poor customer perception of taxi products currently pervasive in the taxi meter industry. We will attempt to stand apart in our corporate image and our product quality and placement.
+ 
+We plan to use direct sales calls, presentations and appointments with regulatory agencies, associations, distributors, and operators of moto-taxi fleets to generate recognition and acceptance of our products. The use of public demonstrations to target users will also be deployed, which will be in conjunction with the cooperation of local municipal authorities. Once the Moto-Meter is established, we plan to promote our m-commerce services directly to the drivers, who might then start selling these services to their customers or the public.
+ 
+We also plan to follow a course of marketing that deploys word of mouth, guerilla marketing and viral marketing using various social networks and similar marketing methods. Since the deployment of the Moto-Meter is frequently on an independently owned vehicle, we understand that the acceptance of the benefits of the Moto-Meter by the individual owner-drivers as well as the owners and drivers of fleet owned vehicles and public authorities is important in gaining acceptance and use. As the benefits of more certain fares and the value of the related services become known to the customers of moto-taxis, we believe that they will also drive sales preferring to use vehicles out-fitted with the Moto-Meter for its benefits of safety, certainty of fare, m-commerce and other services.
+ 
+We plan to pay particular attention to the development of the Company's website and its Facebook page. As its representation on the Internet, these sites will increasingly be the first point of contact for potential customers in need of information. The primary website contains product information, detailed photos, purchase information and use information. In connection with our web presence, we will seek to maximize search engine optimization. This involves organically improving the quality and volume of traffic to a website through user searches on search engines such as Google and Yahoo.
+ 
+Print media and brochures are also being used in conjunction with sales, including at trade shows. We plan to distribute printed media to operators, potential customers, channel partners, associations and government agencies. The focus of the print media will be to highlight our Company, location, benefits of the Moto-Meter and contact information for further details and ordering.
+ 
+We plan to use trade shows, demonstration opportunities and similar venues to increase brand awareness and product understanding and recognition. These venues can also foster valuable business partnerships. One such trade show is the Taxicab, Limousine, and Paratransit Association. Generally, these trade shows are held on a regular annual basis and attract the important companies and users within the industry, which will provide a valuable venue for us to showcase the Company and our products.
+ 
+We also will seek to establish industry partnerships to help market the Moto-Meter. We have signed letters of intent for the distribution of our flagship product, the Moto-Meter with qualified distributors in 7 countries. The distributors were selected for their ability to both sell and support our products as well as to protect our brand image in strategic markets. We are continuing discussions with several other distributors out of the hundreds of retail agents and operators that have contacted us to express their interest in the Moto-Meter and associated products. The letters of intent authorize the distributors to sell and support our flagship product, the Moto-Meter, as well as establish priority for Wheelies and future products and services of World Moto.
+ 
+Over the next 12 months, we plan to make a concerted effort to promote the Moto-Meter™ and HailYes™ in high value markets around the world. Our active promotion will include a targeted social media campaign to reach end users and prospective customers, while the Company will continue to take advantage of other opportunities to raise awareness about our products and services.
+ 
+ 14
+ 
+Competition
+ 
+Since the Moto-Meter can be used for any class of vehicles, we may compete with manufacturers of automobile taximeters. Although a simple automobile taxi-meter can be adapted for use with a motor scooter or motorcycle, the Moto-Meter products have many more functions, and we believe at a higher level of quality and security. We are currently unaware of any other company that has successfully developed a similar-type product to the Moto-Meter.
+ 
+Notwithstanding the fact that we expect to be first to market in this industry, it is possible that other meter manufacturers may decide to address the moto-taxi market and develop products that will be able to compete with the Moto-Meter products. Such companies may have greater financial and engineering capabilities, which will make it more difficult for us to establish ourselves in various markets or offer substantial competition product offerings and pricing.
+ 
+The business of manufacturing and selling taximeters, however, is a low-profile business. Overall, we believe that competition within the industry of taximeters and related products is low, with just a few brands monopolizing sales and all of which are oriented towards taxicabs. These brands include Cygnus Automotive (UK) and Centrodyne (US). We believe the taximeter industry is largely stagnant, lacking innovation, and is constrained by legacy products and methods of business. Current manufacturers have existing products that they are improving incrementally, but we believe they are most concerned about maintaining product lines and market share within the taxicab industry, and as a result not targeting the moto-taxi industry.
+ 
+We also believe that we will be able to compete based on our intellectual property, some of which is subject to current patent applications in the United States. We plan to act to protect our intellectual property rights to safeguard our products and market share, and we plan to continue development of new proprietary products that will aid our competitive position. Our pricing strategy is currently geared to be competitive with products used in the taxicab industry, but as we ramp up our manufacturing and even take over manufacturing, we believe that we will be able to be even more price competitive.
+ 
+Intellectual Property
+ 
+We have filed for patent protection for our Moto-Meter technology (titled "Universal Vehicle Management System") in 61 countries throughout Asia, Africa, Europe and the Americas. These countries were carefully selected to cover the vast majority of the world's moto-taxi fleet and population. Nigeria was the first locality to complete its investigations and issue a patent. The patent was granted as filed, with no changes or office actions required on any of its 28 claims, and will remain in force until February 8, 2033. Subsequently, we were also granted a patent for the Moto-Meter in South Africa and Morocco, further expanding our intellectual property protection throughout Africa.
+ 
+Additionally, Mexico has officially signaled its intention to issue the patent as filed, with no changes required on any of its 28 claims. On January 10, 2014, the Instituto Mexicano de la Propiedad Industrial (IMPI), or the Mexican Patent Office, issued an official communication informing us that our Moto-Meter patent had met all requirements for patentability and successfully overcome the formal examination stage for issuing a patent. The application is now awaiting publishing in the IMPI's Official Gazette, and the formal patent may be issued thereafter.
+ 
+The Dominican Republic also granted our patent as filed, with no changes or office actions required on any of its 28 claims, which will remain in force until February 8th, 2031.
+ 
+In March 2016, the African Intellectual Property Organization granted the Company a patent on the Moto-Meter that covers the following 16 additional countries until 2031: Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Republic of the Congo, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Ivory Coast, Mali, Mauritania, Niger, Senegal, and Togo. The patent now covers approximately 40% of Africa.
+ 
+In April 2016, the State Intellectual Property Office of the People's Republic of China granted out patent on the Moto-Meter. The patent was granted as filed, with no changes, and we have until July 4, 2016 to pay the applicable registration fee and annual fee to secure the registration of the patent.
+ 
+The Moto-Meter patent now covers countries representing approximately two billion people, and approximately 40% of all motorcycle taxis in the world (equal to approximately 60 times the number of taxicabs in the United States).
+ 
+The remaining countries are currently in the substantive evaluation period and are expected to complete their investigations within the next 2 to 3 years. Based on our success to date, and the original favorable review from the Patent Cooperation Treaty Examiner, we expect to ultimately be awarded a patent in every targeted jurisdiction.
+ 
+ 15
+ 
+Patent Applications Completed Substantive Evaluation and Awaiting Publication
+ 
+Mexico – Patent No. 93533 (MX/2013/071677) - Universal Vehicle Management System
+ 
+We have received patents in the following countries:
+ 
+Nigeria- Patent No. 001031 (NG/C/2013/085) - Universal Vehicle Management System (Expires August 6, 2033)
+ 
+The Dominican Republic (expires February 8th, 2031)
+ 
+South Africa
+ 
+Morocco
+ 
+Benin
+ 
+Burkina Faso
+ 
+Cameroon
+ 
+Central African Republic
+ 
+Chad
+ 
+Republic of the Congo
+ 
+Equatorial Guinea
+ 
+Gabon
+ 
+Guinea
+ 
+Guinea-Bissau
+ 
+Ivory Coast
+ 
+ 
+Mali
+----
+
+
+Mauritania
+----------
+
+
+Niger
+-----
+
+
+
+ 16
+ 
+ 
+Senegal
+-------
+
+
+Togo
+----
+
+
+
+In addition to the patent protection that we seek, we also rely on the confidentiality of our operations, proprietary knowhow and trade secrets. We have implemented a program whereby all of our employees have signed non-disclosure agreements with respect to our intellectual property, which state that our employees' work is considered to be proprietary and owned by us. Where necessary, we will take steps to protect our intellectual property interests under the laws of the jurisdictions in which we operate and intend to operate. There can be no assurance that we will be able to enforce our rights if they are improperly taken by our employees or adopted by our competitors outside of sanctioned use and royalty agreements with us.
+ 
+We have not registered any trademarks at this time and are relying on common law trademark protection. However, as our business develops, we plan to develop specific trademarks for our products and services and seek registration of those marks with government authorities for their protection.
+ 
+In the fiscal year ended December 31, 2016, we spent $415,541 on research and development activities, in comparison to $415,541 in the fiscal year ended December 31, 2015. It is anticipated that for the 2016 fiscal year, we will devote approximately $45,000 to product development activities.
+ 
+Employees
+ 
+We have two executive employees: Paul Giles and Chris Ziomkowski. We currently have no employees at our WM Co. Thailand subsidiary to assist with product development and engineering.
+Corporate Information
+ 
+Our principal executive offices are located at: Sukhumvit13 No.19/125 Sukhumvit Suite,13 Floor, (Saengjan) Sukhumvit Rd, Klongtoey Nue,Wattana 10110 Bangkok. Our main telephone number is: (646) 840-8781 and our website is located at: http://www.worldmoto.com/.
+ 

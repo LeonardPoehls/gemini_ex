@@ -1,0 +1,67 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+Introduction
+ 
+We sell integrated financial and transaction processing services to businesses throughout the United States. We provide these services through our wholly-owned subsidiaries, eVance Processing Inc. (“eVance”) and Payprotec Oregon, LLC d/b/a Securus Payments (“Securus”). Through our eVance subsidiary, we provide an integrated suite of third-party merchant payment processing services and related proprietary software enabling products that deliver credit and debit card-based internet payments processing solutions primarily to small and mid-sized merchants operating in physical “brick and mortar” business environments, on the internet and in retail settings requiring both wired and wireless mobile payment solutions. We operate as an independent sales organization (“ISO”) generating individual merchant processing contracts in exchange for future residual payments. As a wholesale ISO, eVance has a direct contractual relationship with the merchant and takes greater responsibility in the approval and monitoring of merchants than do retail ISOs and we receive additional consideration for these services and risk. Securus operates as a retail ISO and receives residual income as commission for merchants it places with third party processors.
+ 
+eVance utilizes multiple processing partners including TSYS, Elavon, First Data Corporation and others. These relationships allow us to provide rapid clearing of payments, using traditional terminals, POS systems and mobile applications, including Apple Pay, Samsung Pay and Android Pay. 
+ 
+During 2015, we began offering merchant cash advances and loans through our Excel Business Solutions Inc. subsidiary, doing business as eVance Capital. We act as an ISO providing alternative financing and working capital solutions to small and medium sized businesses using a variety of third party funding sources. As an ISO we do not provide capital directly or take credit risk. We earn commissions from independent third parties by placing their financial products with our merchant customers. This portion of our business does not currently represent a significant portion of our revenues, costs or assets.
+ 
+We are actively seeking additional acquisition opportunities including, but not limited to, merchant services and residual revenue portfolios. Although management believes that there are multiple acquisition opportunities, there can be no assurance that we will be able to complete any of these transactions.
+ 
+Corporate History
+ 
+Excel Corporation (the “Company”) was organized November 13, 2010 as a Delaware corporation. The Company has three wholly owned subsidiaries, eVance Processing Inc., Excel Business Solutions, Inc. (d/b/a eVance Capital), and Payprotec Oregon, LLC (d/b/a Securus Payments), (“Securus”).
+ 
+On February 17, 2014, the Company entered into a Securities Exchange Agreement (the “SEA”) with Securus, Mychol Robirds and Steven Lemma, to purchase 90% of the membership interests of Securus and its subsidiary Securus Consultants, LLC. On April 21, 2014, the Company completed the acquisition of 100% of Securus pursuant to the SEA and through a Securities Exchange Agreement (“E-Cig Agreement) with E-Cig Ventures LLC. The Company issued 22,400,000 shares of common stock for the acquisition of Securus.
+ 
+
+1
+-
+
+ 
+
+
+On November 30, 2015, eVance Processing Inc. (“eVance”), a wholly owned subsidiary of the Company entered into an Asset Purchase Agreement (the “Purchase Agreement”) with Calpian, Inc. (“Calpian”), Calpian Residual Acquisition, LLC (“CRA”) and Calpian Commerce, Inc., a wholly owned subsidiary of Calpian (“CCI,” and collectively with Calpian and CRA, the “Sellers”). Pursuant to the Purchase Agreement, eVance acquired substantially all of the U.S. assets and operations of the Sellers. In consideration for the acquired assets, eVance assumed certain of the Sellers’ liabilities, including $8,279,916 of notes payable and certain of the Sellers’ outstanding contractual obligations.
+ 
+On April 30, 2016, Securus entered into a Purchase and Sale Agreement (the “2016 Purchase Agreement”) with Chyp LLC (“Chyp”). In connection with the 2016 Purchase Agreement, Chyp executed a three-year preferred marketing agreement with eVance. Chyp acquired substantially all of the operations of Securus including its sales and marketing operations located in Portland, Oregon and West Palm Beach, Florida. Securus retained approximately 5,000 merchants and related merchant processing residual portfolios.
+ 
+On November 2, 2016, the Company and certain of the Company’s subsidiaries entered into a Loan and Security Agreement (the “Loan Agreement”) with GACP Finance Co. LLC as administrative agent (“Agent”) and the other lenders as from time to time party thereto. The Loan Agreement has a three-year term and provides for term loan commitments of up to $25,000,000 consisting of an Initial Term Loan in the amount of $13,500,000 and a Delayed Draw Term Loan in the amount of $11,500,000 (each a “Loan” or together “Loans”). The Company used the proceeds from the Initial Term Loan to repay all of its existing secured debt. The Company intends to use the Delayed Draw Term Loan to fund acquisitions of portfolios of recurring residual revenues from credit and debit card transactions or companies that own these portfolios. Funding of the Delayed Draw Term Loan is subject to certain conditions including borrowing base limitations and further lender due diligence.
+ 
+The Industry, The payment processing industry provides merchants with credit, debit, gift, and loyalty card and other payment processing services, along with related information services. The industry continues to grow as a result of wider merchant acceptance, increased consumer use of bankcards, and advances in payment processing and telecommunications technology. According to The Nilson Report dated February 2016, combined consumer and commercial credit, debit, and prepaid cards generated $3.95 trillion in purchase volume in 2015, up 8.8% from 2014. The proliferation of bankcards has made the acceptance of bankcard payments a virtual necessity for many businesses, regardless of size, in order to remain competitive. This use of bankcards, enhanced technology and security initiatives, efficiencies derived from economies of scale and the availability of more sophisticated products and services to all market segments has led to a highly competitive and specialized industry.
+ 
+The detailed network of a credit card transaction includes several aspects: credit card associations (e.g.Visa and MasterCard); card issuers; merchants; merchant acquirers; processors; the consumers buying the goods and services; and merchants that are selling them. The card issuers distribute cards to consumers, bill them, and collect payment from them. The processor is responsible for delivering the transaction to the appropriate card issuer so that the customer is billed and the merchant receives funds for the purchase. The merchant acquirer recruits merchants to accept cards and provides the front-end service of routing the transaction to the network’s processing facilities. Merchant acquirers often delegate the actual processing to third-party service providers.
+ 
+Merchant acquirer revenue is primarily comprised of credit and debit card fees charged to merchants, net of association fees, otherwise known as Interchange, for payment processing services, including authorization, capture, clearing, settlement and information reporting of electronic transactions. Fees are calculated on either a percentage of the dollar volume of the transaction or a fixed fee or a hybrid of the two and are recognized at the time of the transaction.
+ 
+Bankcard processing revenue from contracted merchants is typically recurring in nature. The industry average term of a merchant processing contract is three years. Our combined product offerings in the form of receivable purchases and upgraded credit card terminal leases have the added value of establishing a longer-term relationship with the customer, as they have the ability to use us for many service needs.
+ 
+We anticipate the uptrend in credit card use to continue. As consumers age, we expect that they will continue to use the payment technology to which they have grown accustomed. Young consumers have become accustomed to using bankcards and other electronic payment methods for purchase including the growing use of mobile payments through cellphones and tablets. As these consumers, who have witnessed the wide adoption of card products, technology and the Internet, comprise a greater percentage of the population and increasingly enter the work force, it can be expected that purchases using card-based payment methods will comprise an increasing percentage of total consumer spending.
+ 
+The proliferation of credit and debit cards has made the acceptance of bankcards a necessity for businesses, both large and small, in order to remain competitive. As a result, many of these small to medium-sized businesses are seeking to provide customers with the ability to pay for merchandise and services using credit or debit cards, including those in industries that have historically accepted cash and checks as the only forms of payment for their products. Previously, larger acquiring banks have marketed credit card processing services to national and regional merchants and have not focused on small to medium-sized merchants, as small to medium-sized merchants have often been perceived as too difficult to identify and expensive to service. These merchants generally have a lower volume of credit card transactions and have traditionally been underserved by credit card processors.
+ 
+
+2
+-
+
+ 
+
+Market researchers expect dramatic growth in card-not-present transactions due to the rapid growth of the Internet. According to Forrester Research, US online sales were $341.7 billion in 2015 and projected to be $523 billion by 2020. This growth is based on the continued shift of sales away from traditional brick and mortar stores to online and catalog purchases and the trend is projected to continue. Furthermore, where concerns around secure transactions had once been in the forefront, as those concerns continue to subside, the reluctance to use bankcards will further diminish and the uptrend in bankcard volume will likely be bolstered.
+ 
+Sales and Marketing, We primarily use independent agents and other smaller ISOs to market our services. We intend to increase the number of independent agents and ISO’s that sell on our behalf. We may also gain additional agents through the acquisition of merchant portfolios or companies. We may also add to our direct sales channel for certain industry segments or customer profiles.
+ 
+Government Regulations, The industry in which we operate is subject to extensive governmental regulation. In particular, there are numerous laws and regulations restricting the purchase, sale, and sharing of personal information about consumers. The electronic payment processor is subject to regulation by federal, state and professional governing bodies. Prospective financial institution customers, including commercial banks and credit unions, operate in markets that are subject to rigorous regulatory oversight and supervision. As an ISO, we are less susceptible to these regulations than processors and banks because we do not have possession of customer level data.
+ 
+Competition, The payment processing industry is highly competitive. We compete with other ISOs for the acquisition of merchant agreements. Several sponsor banks and processors including First National Bank of Omaha, Chase Paymentech, L.P., Bank of America Merchant Services, First Data Corporation, Global Payments, Elavon Inc, as well as Wells Fargo, U.S. Bank and others, frequently solicit merchants directly or through their own network of ISOs. Competition is based upon a number of factors including price, service and product offerings. Many of these competitors are larger and have substantially greater resources than us. We believe we remain competitive to these processors and competitive ISOs through a combination of beneficial pricing and services to our merchant customers.
+Employees
+ 
+As of April 10, 2017, we have 31 full-time employees. Four of these employees are located in our corporate offices in Irving, Texas, 22 are employed by eVance, and five are employed by Excel Business Solutions. None of our employees are covered by collective bargaining agreements. We consider our employee relations to be satisfactory.
+
+3
+-
+

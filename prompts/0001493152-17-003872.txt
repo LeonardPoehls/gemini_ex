@@ -1,0 +1,315 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. Business.
+Background
+ 
+Rightscorp, Inc., a Nevada corporation, was incorporated in Nevada on April 9, 2010. Since the closing of the Reverse Acquisition on October 25, 2013 (discussed below), we have been the parent company of Rightscorp, Inc., a Delaware corporation.
+ 
+On October 25, 2013 (the “Merger Closing Date”), we entered into and closed an Agreement and Plan of Merger (the “Merger Agreement”), with Rightscorp Merger Acquisition Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of ours (the “Subsidiary”) and Rightscorp, Inc., a Delaware corporation (“Rightscorp Delaware”). Pursuant to the Merger Agreement, (i) the Subsidiary merged into Rightscorp Delaware, such that Rightscorp Delaware became a wholly-owned subsidiary of our company, (ii) we issued (a) 45,347,102 shares (the “Acquisition Shares”), of our common stock to the shareholders of Rightscorp Delaware, in exchange for all of the issued and outstanding shares of common stock of Rightscorp Delaware, (b) outstanding warrants to purchase 1,831,969 shares of common stock of Rightscorp Delaware were converted into outstanding warrants to purchase 5,312,703 shares of our common stock, and (iii) outstanding convertible notes in the aggregate amount of $233,844 (including outstanding principal and accrued interest thereon) of Rightscorp Delaware were amended to be convertible into shares of our common stock at a conversion price of $0.1276.
+ 
+Effective on the Merger Closing Date, pursuant to the Merger Agreement, Rightscorp Delaware became our wholly owned subsidiary. The acquisition of Rightscorp Delaware is treated as a reverse acquisition (the “Reverse Acquisition”), and the business of Rightscorp Delaware became our business.
+ 
+Rightscorp Delaware is a Delaware corporation formed on January 20, 2011.
+ 
+We are a technology company and have a patent-pending, proprietary method for collecting payments from illegal downloaders of copyrighted content via notifications sent to their internet service providers (ISPs).
+ 
+Our principal office is located at 3100 Donald Douglas Loop North, Santa Monica, CA 90405. Our telephone number is (310) 751-7510. Our website address is www.rightscorp.com.
+ 
+Overview
+ 
+According to Netnames, 22% of all internet traffic is used for peer-to-peer filesharing, the great majority of which infringes on copyrights, while according to Sandivine, 27% of all US internet upload traffic is peer-to-peer filesharing, the majority of which infringes on copyrights. We believe that this means that every creator of music, movies, TV shows, books and software is faced with the reality that their work, their property and their content may end up being distributed on the internet against their wishes, to their economic detriment and without receiving compensation. We protect copyright holders’ rights by seeking to assure they get paid for their copyrighted IP. We offer and sell a service to copyright owners under which copyright owners retain us to identify infringements and collect settlement payments from Internet users who have infringed on their copyrights. With Rightscorp, content creators have the opportunity to get compensated for copyright infringement and enforce their rights.
+ 
+Peer-to-peer content piracy continues to thrive and expand even as content creators face significant reductions in business and income. The amount of internet traffic used by peer-to-peer filesharing grew 18% from 674 Petabytes a month to 802 Petabytes a month from 2010 to 2013 (Sources: Cisco Visual Networking Index: Forecast and Methodology, 2010-2015; Cisco VNI: Forecast and Methodology, 2013 - 2018). One petabyte (PB) equals 1 million gigabytes (GB), which is the equivalent of 1.6 million CDs. Eight hundred Petabytes per month is the equivalent of 1.3 billion CDs per month. In 2013, Netnames found that the majority of peer-to-peer filesharing infringes on copyright, from 78.1% for music to 92.9% for television. Cisco forecasts that file sharing will grow 42% to 999 Petabytes per month by 2018. Rightscorp is tracking millions of US internet subscribers on the ISPs that do not forward Rightscorp notices. These millions of subscribers are repeatedly illegally distributing Rightscorp’s clients’ copyrights to users around the globe even after their ISPs have been sent millions of notices.
+ 
+After we receive an order from a client, our software monitors the global P2P file sharing networks to detect illegally distributed digital media. The technology sends automated notices of the infringing activity to ISPs and the ISP forwards these notices, which contain settlement offers, to their infringing customers. The notice to ISPs and settlement offers identify the date, time, title of copyrighted intellectual property and other specific technology identifiers to confirm the infringement by the ISPs customer. Infringers who accept our settlement offers then remit payment to us for the copyright infringement and we share the payments with the copyright owners.
+ 
+We generate revenues by retaining a portion of the settlement payments we receive from copyright infringers. Our customers, the copyright holders, benefit from our service as we share a portion of the settlement with them. This helps them recapture the revenues they lost when their copyrighted material was illegally copied and distributed. Current customers include, but are not limited to, BMG Rights Management, Round Hill Music, Shapiro/Bernstein and The Orchard. We have successfully obtained settlement payments from more than 180,000 individual cases of copyright infringement. To date, we have closed infringements and received settlement payments from subscribers on more than 233 ISPs including five of the top 10 US ISPs: Comcast, Charter, CenturyLink, Mediacom and Suddenlink. We believe ISPs that participate with us and our clients by forwarding notices of infringement achieve compliance with their obligations under Digital Millennium Copyright Act (or DMCA), as discussed below. Conversely, we believe that ISPs that do not participate and do not have a policy for terminating repeat infringers fail to comply with the DMCA, which may result in liability for them.
+ 
+
+4
+-
+
+Dependence on Major Customers
+ 
+For the year ended December 31, 2015, our contract with BMG Rights Management accounted for approximately 76% of our sales, and our contract with Warner Bros. Entertainment accounted for 13% of our sales. For the year ended December 31, 2016, our contract with Recording Industry Association of America accounted for approximately 44% of our sales, and our contract with BMG Rights Management accounted for 23% of our sales. Our standard contracts with customers are for initial terms which vary in length, typically between three months and one year, and renewals are at the discretion of the parties, or in some cases renew automatically in one month increments, subject to the right of either party to terminate upon 30 days’ notice.
+Legal Framework
+ 
+The challenge for copyright owners is that the legal framework now in place requires the copyright owner to monitor and notice and document each individual act of infringement against the copyright owner in order to protect its rights. We believe the content business views this as an insurmountable and costly task. As described above, our Rightscorp software provides a solution by monitoring the global P2P file sharing networks to detect illegally distributed digital media.
+ISP Safe Harbor
+ 
+Courts have found businesses that have been involved in contributing to copyright infringement liable for damages. In Fonovisa v. Cherry Auction, a swap meet run by Cherry Auction was held liable to Fonovisa (the copyright owner) for damages. As the Court observed, “it would be difficult for the infringing activity to take place in the massive quantities alleged without the support services provided by the swap meet, including the provision of space, utilities, parking, advertising, plumbing and customer service”.
+ 
+Section 512(i) of the DMCA provides a conditional safe harbor protection from such third party liability. It states as follows:
+ 
+
+● | (i) Conditions for Eligibility 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | (1) Accommodation of technology - The limitations on liability established by this section shall apply to a service provider only if the service provider: 
+ | (A) has adopted and reasonably implemented, and informs subscribers and account holders of the service provider’s system or network of, a policy that provides for the termination in appropriate circumstances of subscribers and account holders of the service provider’s system or network who are repeat infringers; and
+ | (B) accommodates and does not interfere with standard technical measures. 
+
+ 
+Thus, under federal law, ISPs are only eligible for “Safe Harbor” protection from vicarious liability from their subscribers’ copyright infringements if they have “reasonably implemented a policy that provides for the termination of subscribers who are repeat infringers.” Thus, we believe that ISPs have no liability for their role in copyright infringement on P2P networks until the copyright owner sends them a notice of a repeat infringer. In accordance with the DMCA, we have developed a technology and a process for identifying repeat infringers, documenting infringements and sending ISPs notice of repeat infringement and monitoring the termination, or lack thereof, of repeat infringers. As there is no case law regarding this “Safe Harbor” provision, ISPs’ interpretations of their responsibilities vary. We have utilized this Safe Harbor provision to obtain various levels of cooperation from ISPs, which in many cases include the forwarding of our notices and the termination of repeat infringers who do not accept our settlement offers. To qualify for the “Safe Harbor” protection, ISPs have an incentive to forward our notices and terminate repeat infringers, and infringers in turn have an incentive to accept our settlement offers, so as to avoid termination of services from the ISPs.
+ 
+Digital Copyrights & Piracy Background
+ 
+In 1999, Shawn Fanning, an 18 year old college student, changed the music industry with his creation of a digital file sharing program called Napster, a software program that allowed computer users to share and swap files, specifically music, through a centralized file server. By the spring of 2000, Napster had several hundred thousand users and by February 2001 had grown to over 50 million users.
+ 
+In September 2013, Netnames, a market research and consultancy firm, reported that P2P traffic that infringes on copyrights had become 24% of all internet traffic (not including traffic that infringes on pornographic copyrights). In other words, 24% of all Internet traffic was at the time made up of illegal downloading and distribution of mainstream, high-quality movies, music, games, and software. The report states that “worldwide, 432 million unique internet users explicitly sought infringing content during January 2013. Despite some discrete instances of success in limiting infringement, the piracy universe not only persists in attracting more users year on year but hungrily consumes increasing amounts of bandwidth.”
+ 
+
+5
+-
+
+
+In three key regions (North America, Europe, and Asia-Pacific), the absolute amount of bandwidth consumed by the infringing use of BitTorrent comprised 6,692 petabytes of data in 2013, an increase of 244.9% from 2011.
+ 
+In the same three regions, infringing use of BitTorrent in January 2013 accounted for:
+ 
+178.7 million unique internet users, an increase of 23.6% from November 2011; and
+ 
+7.4 billion page views, an increase of 30.6% from November 2011.
+ 
+According to the Global Internet Phenomena Report in Sandvine, 1H 2014, P2P file sharing accounted for approximately 27% of all North American upstream Internet traffic.
+ 
+Enacted in 1997, The Digital Millennium Copyright Act (or DMCA) heightened the penalties for copyright infringement on the Internet and established the eligibility for Safe Harbor from liability of the providers of on-line services for copyright infringement by their users.
+ 
+To combat online copyright infringement, the media industry and their partners have spent extraordinary amounts of money and resources searching for a technology breakthrough to protect copyrighted works. These technologies have often referred to as Digital Rights Management (or DRM). DRM technologies attempt to prevent digital music player technology from allowing reproduction. DRM suffers from the inherent problem that if a reasonably technologically savvy person can listen to a music file, he can find a way to make a copy that does not have the DRM technology. These efforts failed to stem the tide of illegal downloading, and the industry turned to aggressive litigation tactics. Notwithstanding the continued efforts of the media industry, including the use of DRM technologies, many popular TV and film properties are available in high quality online soon after release and in some cases prior to release. Thus, we do not believe that DRM technologies will be able to prevent widespread unauthorized use of copyrighted content.
+ 
+In 2002, the Recording Industry Association of America (or RIAA), the trade group that represents the U.S. Music Industry, filed the first lawsuits against individuals who were suspected of illegally downloading music. By October 2008, RIAA had filed 30,000 lawsuits against individual downloaders. By February 2012, most of the 30,000 cases settled out of court for between $3,000 and $5,000, and two cases were tried. Jamie Thomas received a judgment for $1.5m for distributing 24 songs and Joel Tenenbaum received a judgment for $675,000 for downloading and distributing 31 songs.
+ 
+Even with 30,000 lawsuits filed and millions of dollars collected, P2P traffic had still grown worldwide to represent more than 40% of all consumer Internet traffic in 2008. Then in December 2008, the RIAA announced that it would stop suing individual infringers.
+ 
+The P2P Landscape
+ 
+The P2P landscape has several distinct areas: protocols, networks, access tools, software businesses, open source developers, indexing and search sites and dark businesses.
+ 
+The most popular access tool is BitTorrent in the U.S. (uTorrent, Vuze, Frostwire).
+ 
+We believe the reason P2P is such a persistent and a prominent feature of the Internet is that it requires only a relatively small number of individual, voluntary users anywhere in the world for its existence. It requires no financing or fixed infrastructure to exist. The protocols are open specifications that any computer programmer can obtain and read to develop software for interacting with the different P2P networks. There are free access tools available for all networks. The networks are simply a collection of users who have downloaded and installed one of the many free access tools. There are operating companies like BitTorrent, Inc. that market and sell the BitTorrent software.
+ 
+A user downloads BitTorrent software or any number of other free BitTorrent clients, installs it on his computer, and searches for content on Google. The user simply types any artists’ name or the name of any movie or software followed by the word “torrent” into Google. For instance after entering “Adele Torrent” into Google, millions of web pages offering her music for free will be listed. The user selects the version they want from the web page link.
+ 
+Once a file has been requested and starts to download, the downloading computer also starts to upload pieces of the file to the network. In the P2P world, essentially, everyone is an uploader. On BitTorrent, once the “downloader” has obtained enough of the file, the computer becomes an uploader.
+ 
+Then, the BitTorrent website explains what happens next, including the encouragement to assist in distributing content:
+ 
+“When BitTorrent finishes downloading a file, the bar becomes solid green and the newly downloaded file becomes a new ‘seed’ —a complete version of the file. It will continue to seed the file to other interested users until you tell it not to by pausing it or removing the torrent from your queue. The more clients that seed the file, the easier it is for everyone to download it. So, if you can, please continue to seed the file for others by keeping it in your queue for a while at least.”
+ 
+Additionally, BitTorrent Private host/tracker sites such as Demonoid operate like public ones except that they restrict access to registered users and keep track of the amount of data each user uploads and downloads, in an attempt to reduce leeching.
+ 
+
+6
+-
+
+
+BitTorrent search engines allow the discovery of torrent files that are hosted and tracked on other sites; examples include Kick Ass Torrents, Torrentz, The Pirate Bay, Eztorrent and isoHunt. These sites allow the user to ask for content meeting specific criteria (such as containing a given word or phrase) and retrieve a list of links to torrent files matching those criteria.
+ 
+In 2008, it was revealed that just one BitTorrent hosting/tracker site was making $4 million a year on advertising. The USC-Annenberg Innovation Lab released a study in January 2012 that found many Internet ad networks profiting from piracy with Google #2 in the list. We believe P2P continues for several reasons, including that:
+ 
+
+● | It does not require any central organization that can be threatened or stopped; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | What centralization does exist can be located in offshore domiciles that do not respect international intellectual property; 
+● | In the U.S., ISPs cannot monitor (and hence interrupt) specific portions of their customers’ traffic without a warrant; 
+● | In the U.S., ISPs have no liability for failing to suspend or terminate subscribers who are repeatedly distributing copyrighted content unless the copyright owner has sent them notice of repeated infringement; and 
+● | Until we developed our software, there had been no scalable technology capable of identifying repeat infringers, recording infringements and sending notices of repeated infringement. 
+
+ 
+While this extraordinary proliferation of the use of the Internet has facilitated the ease of illegally sharing all digitized content, the exchange of music files via P2P sharing sites vastly exceeds all other areas of the entertainment consumption on a per-unit basis. Accordingly, we believe an expectation has been interwoven into the current generation of Internet users, which content is and should be free.
+ 
+Our Service & How it Works
+ 
+We have developed a technology that we sell as a service to copyright owners to collect settlement payments from consumers who have illegally downloaded copyrighted content. We are selling our services into the untapped market for monetizing billions of copyright violations worldwide.
+ 
+Our technology system monitors the global P2P file sharing networks and sends via email to ISPs notifications of copyright infringement by the ISPs’ customers with date, time, copyright title and other specific technology identifiers. Each notice also includes a settlement offer. We pay the copyright owner a percentage of these settlements. By accepting our settlement offers, infringers avoid potential legal action by the copyright holders. Our service provides ISPs a no-cost compliance tool for reducing repeat infringement on their network.
+ 
+Under our business model, the copyright owner signs a simple agreement authorizing us to monitor the P2P networks and collect settlement payments on its behalf. With respect to music, every mp3 file that is downloaded has at least two copyrights, a sound recording copyright and a publishing copyright. The publishing copyright is the right to use the song and is separate from the sound recording copyright which includes the right to place the song in a movie, re-record the song, or print the lyrics and melody on sheet music. Under U.S. copyright law, each copyright owner has the exclusive right to copy and distribute their respective copyrights. If someone uses “file sharing” software to “share” a specific song, they are violating the copyright owner’s exclusive right of copying and distribution, and they have incurred a potential civil liability.
+ 
+Our technology monitors the Internet all of the time looking for infringements. When it detects an infringement, we receive the following data:
+ 
+
+● | Date and Time of infringement; 
+--+---------------------------------------------------------
+● | Filename; 
+● | ISP Name; 
+● | IP Address; and 
+● | Additional information related to our trade secrets. 
+
+ 
+We send this data to the ISP in an automated computer format. The ISP is expected to send our communication to their subscriber. This notice is sent to the customer by its ISP, so it is clearly not “spam”.
+ 
+We have written, designed and we own the technology for:
+ 
+
+● | listening to the P2P networks and finding infringements; 
+--+-------------------------------------------------------------
+● | sending the DMCA notices; and 
+● | receiving payments. 
+
+
+7
+-
+
+
+The user who receives the notice reads that they could be liable for $150,000 in damages, but if they click on the link supplied, they can enter a credit card and they can settle the matter between them and the copyright owner for $30 per infringement. Repeat infringers are put on a list sent weekly to ISPs demanding that their service be terminated pursuant to 17 USC 512 (i). Once the user makes the settlement payment, they are removed from the list. If subscribers have had their service terminated, and have since settled their open infringement cases with us, their ISP is notified immediately so service can be restored.
+ 
+Once we receive the settlement amount, we split the payment half/half with the copyright owner, less certain costs. Most infringers receive and settle multiple infringement notices.
+ 
+Our current technology can send tens of millions of notices per month. We can quickly scale this system to send hundreds of millions notices per month.
+ 
+We provide a free compliance solution to ISPs to reduce their third-party liability for repeat copyright infringements occurring on their network. Every U.S. ISP has a Rightscorp web page “dashboard” that they can log into and in real-time see each subscriber account that is infringing copyright by copyright. The dashboard also displays the history of the repeat infringers on their network and gives them immediate feedback on those that have settled their cases with the copyright holder.
+ 
+We provide a free solution to every copyright holder. Every copyright holder who has retained us has a Rightscorp web page “dashboard” that they can log into and in real-time see each ISP subscriber account that is infringing copyright by copyright. The dashboard also displays the history of the repeat infringers on each ISPs network and gives them immediate feedback on infringers who have settled their cases with the copyright holder and those that continue to infringe after their ISP having received notice.
+ 
+Similar to an anti-virus software company, where new a virus appears and an anti-virus software has to investigate the new virus and update their software to address the new virus, we must update our software when new P2P technologies appear. For example, when we launched in 2011, Limewire, also known as Gnutella, was the dominant P2P platform for music piracy. In less than twelve months the dominant platform for music piracy shifted to BitTorrent. As a result, to maintain the efficacy of our software, we were required to write new software. We will seek to stay abreast of similar future changes. We cannot be certain of the cost and time that will be required to adapt to new peer-to-peer technologies.
+ 
+Product Roadmap
+ 
+Our “next generation” technology is called Scalable Copyright. Its implementation will require the agreement of the ISPs. We have had discussions with multiple ISPs about implementing Scalable Copyright, and intend to intensify those efforts. In the Scalable Copyright system, subscribers receive each notice directly in their browser. Single notices can be read and bypassed similar to the way a software license agreement works. Once the internet account receives a certain number of notices over a certain time period, the screen cannot be bypassed until the settlement payment is received. ISPs have the technology to display our notices in subscribers’ browsers in this manner. We provide the data at no charge to the ISPs. With Scalable Copyright, ISPs will be able to greatly reduce their third-party liability and the music and home video industries will be able to return to growth along with the internet advertising and broadband subscriber industries.
+Sales and Marketing
+ 
+Our sales process involves seeking to acquire more rights to monitor and collect settlements for infringements on specific copyrights. As we acquire more rights and incorporate them into our system, our revenues increase. For example, there are 26 million songs and other copyrighted works on Apple iTunes, all of which are rights that can potentially generate revenue for our company. We are approaching copyright holders in the music publishing, recorded music, motion picture, television, eBook publishing, video game, software and mobile application industries. We have the greatest penetration within the music publishing space where we are in significant discussions with the majority of major copyright holders.
+ 
+We are penetrating the music, motion picture, and software industry through our extensive personal contacts, referral partners and industry conferences. Christopher Sabec, our president, has been a successful entertainment executive and artist manager. In the music space, previously we have attended conferences such as MIDEM, Musexpo, and the National Music Publishing Association’s Annual Meeting where we have an opportunity to meet with industry decision makers. For 2015 and 2016, we identified the top decision makers and gatekeepers in the music publishing, recorded music, motion picture, eBook publishing industries. We reach out to these decision makers directly or through referral partners who make introductions. In some cases these referral partners may receive some compensation.
+ 
+We believe our value proposition is unique and attractive — rather than asking copyright holders to pay us, we pay copyright holders. The decision-maker is faced with a large amount of conflicting information surrounding the topic of peer-to-peer piracy. Our sales cycle is about communicating the following information to the decision-makers within a rights holding organization:
+ 
+
+● | U.S. ISPs have a safe harbor that is conditional on terminating repeat copyright infringers. 
+--+----------------------------------------------------------------------------------------------------------------------------------------
+● | Rightscorp has the technology to identify these repeat infringers. 
+● | ISPs either need to work with copyright holders to reduce repeat infringers identified by Rightscorp or face significant liability. 
+
+
+8
+-
+
+
+● | Without real sanctions, subscribers will largely ignore notices and continue to violate copyright law. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Graduated-response style interdiction is too costly to scale to any significant portion of total infringements and yields little or no results. 
+● | Due to the structure of the Internet, copyright cannot be enforced without participation of the ISPs. 
+● | ISPs have no incentive to participate in any meaningful way without copyright holders sending them notices. 
+● | The cost to send a meaningful amount of notices is prohibitive without our system. 
+● | Rightscorp, Inc. pays copyright holders while educating infringers that peer-to-peer file-sharing of their products is a violation of U.S. Federal law. 
+● | Our system provides due process through warnings with escalating sanctions that can resolve large numbers of copyright violations. 
+● | Peer-to-peer networks do not require search engines. A small percentage of requests for content originate from Google or Bing searches. We believe that attempts to get search engines to block links and sites will have no effect on piracy. 
+
+Growth Strategy
+ 
+We have several “touch points” in our revenue model where we seek to increase revenues.
+ 
+
+1. | By adding more copyrights we seek to detect infringements of, which increases the number of notices we send; 
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. | By increasing the number of ISPs who acknowledge our notices; 
+3. | By increasing the number of notices that each ISP confirms and forwards; 
+4. | By compelling the ISP to improve “throughput” processes. This may involve ISPs calling subscribers. Our goal is to get ISPs to deploy “re-direct” screens similar to the screen a hotel guest sees when he first uses the Internet in a hotel room. A repeat infringer would be redirected to the Rightscorp payment page and would be unable to browse the Internet until they have settled; 
+5. | By increasing response rates (the number of subscribers who have received notices and agree to settle). We may seek to do this through public relations, through examples in the press of infringers who were sued by copyright owners, by improving the educational and motivational aspects of the notice, web site and payment process and by having ISPs terminate repeat infringers until they settle; 
+6. | By sending non-compliant ISPs weekly termination demands to terminate service to non-responding repeat infringers pursuant to 17 USC 512 (i); and 
+7. | By giving copyright holders who wish to litigate the highest quality litigation support data that includes the history of the subscriber’s ISP being sent notices while they continue to violate copyright law. 
+8. | By protecting our Client’s copyrights outside the USA from P2P infringement. We expect to initiate coverage in Germany by Q2 2016. 
+
+ 
+We believe that if we are successful in our combined use of these strategies our revenues and margins could potentially increase exponentially.
+ 
+Intellectual Property
+ 
+We have 2 patents granted in Australia and Israel and 26 patent applications pending worldwide for our proprietary system of detecting and seeking settlement payments for repeat copyright infringers. The patent applications were filed between May 9, 2011 and January 12, 2016. The 26 patent applications include 5 U.S. patent applications, with each such patent application’s respective status before the U.S. Patent & Trademark Office (USPTO) detailed below, and 21 patent applications in countries such as Australia, Brazil, Canada, China, India, Israel, Japan, and the European Union. Should the European Patent Office grant a patent on one or more of the European patent applications, then the patent may be validated in one or more of the 27 European Union member states. The 5 US patent applications include patent applications 13/485,178, 14/945,551, 13/594,596 and 14/993,902, which contain the methods for identifying repeat infringers that we believe will create a significant barrier to entry for anyone attempting to market a scalable copyright monetization system in the peer-to-peer (P2P) space. In addition, the 5 U.S. patent applications also include U.S. Patent application 13/103,795 which includes methods for using peer-to-peer infringement data to sell legitimate products to infringers. The Australian patent, no. 2012236069, and Israeli patent, no. 229661, also contain a method for identifying repeat infringers that we believe will create a significant barrier to entry for anyone attempting to market a scalable copyright monetization system in the Australian P2P space. The Australian patent expires on April 2, 2032, and the Israeli patent expires on May 31, 2032.
+
+9
+-
+
+
+Country | Status | Application Number | Filing Date | Title | Action Status 
+--------+-----------+--------------------+-------------------+------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+US | Pending | 13/103,795 | May 9, 2011 | System and Method for Determining Copyright Infringement and Collecting Royalties Therefor | This application currently stands rejected by the USPTO. Applicant will submit a response to the USPTO’s rejection. . 
+US | Published | 13/485,178 | May 31, 2012 | System to Identify Multiple Copyright Infringements and Collecting Royalties | This application currently stands rejected by the USPTO. Applicant will submit a response to the USPTO . 
+US | Published | 13/594,596 | August 24, 2012 | System to Identify Multiple Copyright Infringements | This application currently stands rejected by the USPTO. The rejection is a Final Rejection*. Applicant wills submit a response with a Request for Continued Examination to the Final Rejection* in an attempt to overcome the USPTO’s rejections. 
+US | Published | 14/945,551 | November 19, 2015 | System to Identify a Computer on a Network | Previously filed provisional application 62/082,789 was converted to a nonprovisional application and filed to secure an effective filing date of November 21, 2014 for the subject matter disclosed by the patent application. 
+US | Pending | 14/993,902 | January 12, 2016 | System and Method to Verify Predetermined Actions by a Computer on a Network | Previously filed provisional application 62/102,354 was converted to a nonprovisional application and filed to secure an effective filing date of January 12, 2015 for the subject matter disclosed by the patent application. 
+
+
+10
+--
+
+
+*Final Rejection – a USPTO office action made by the examiner where the applicant is entitled to file an appeal to the PTAB or make a request for continued examination with, or without, amendment for consideration by the examiner.
+ 
+**Non-Final Rejection – a USPTO Office action made by the examiner where the applicant is entitled to reply and request reconsideration, with or without making an amendment.
+ 
+We have registered trademarks for Rightscorp (U.S. Trademark Registration Nos. 4681891 and 4681885) and plan to register a trademark for Scalable Copyright.
+ 
+Our software is copyrighted and contains trade secrets.
+ 
+Of the patent applications listed in the table above, the US versions of the applications filed on May 31, 2012, November 19, 2015 and January 12, 2016, are of greater importance to us than the others. We believe that the patent applications were rejected by the USPTO on invalid grounds and that the responses currently being prepared will ultimately succeed. However, we cannot assure you that we will in fact be proven correct in our belief. If these three applications are not successfully granted into patents, our business could be materially and adversely affected, as more fully described under the risk factor appearing under the heading “Our ability to protect our intellectual property and proprietary technology through patents and other means is uncertain and may be inadequate, which would have a material and adverse effect on us” above.
+ 
+Competition
+ 
+We potentially compete with companies in the copyright monetization space.
+ 
+The copyright monetization space is comprised of companies focused on new digital technologies, as well as existing established copyright monetization companies and societies. Examples of other pure-play digital copyright monetization companies are Soundexchange and TuneSat.
+ 
+TuneSat monitors hundreds of TV channels and millions of websites around the world, helping copyright holders collect millions of dollars that would otherwise have been lost. They are not focused on the peer-to-peer space.
+ 
+Soundexchange helps artists and copyright holders get compensated when their work is broadcast by non-interactive digital radio. Soundexchange has collected in excess of $1.5 billion annually.
+ 
+Companies in the multi-billion dollar legacy copyright monetization space include ASCAP, BMI, SESAC and the Harry Fox Agency.
+ 
+There are several companies in the anti-piracy space. Most of these companies specialize in litigation support. It would be a conflict of interest for them to be in the litigation support and settlement business. MarkMonitor (formerly DtecNet) currently provide the data to the RIAA that the RIAA uses for monitoring P2P activity on a fee for service business model. Irdeto also provides litigation support on a fee for service business model.
+ 
+We believe other competitors use more aggressive litigation that drives settlement through threats of costly lawsuits, which we believe is not a scalable model. One competitor is located in Los Angeles, CA. We are the only company that we are aware of that uses proprietary technology to detect repeat infringers and therefore we believe that we are the only company to have legal leverage with ISPs, compelling the ISP to deliver settlement notices by leveraging the DMCA. We do not send notices related to pornographic content.
+ 
+
+11
+--
+
+
+We are seeking to build and maintain our competitive advantage in the following four ways:
+ 
+
+● | First, we build and maintain competitive advantage by being first to market in the U.S. and by aggressively closing contracts to represent copyrighted intellectual property; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Second, we will maintain our advantage by building on our relationships with the ISPs. We will attend and speak at strategic trade shows to develop greater awareness of the ISPs’ liability and our no-cost solution to help them mitigate that liability. We will educate industry analysts who follow the ISPs that are public companies as to the significant liability that ISPs have; 
+● | Third, we have filed 28 full and provisional patents; and 
+● | Fourth, by developing a reputation of being a quality solution provider with copyright holders, developers of copyrighted intellectual property and ISPs we will develop and maintain a leadership position as a leading service provider. 
+
+ 
+Additionally, we send correspondence to the ISPs from time to time and as necessary to advise them that certain infringements have not ceased and that they should adopt, reasonably implement, and inform their subscribers and account holders of a policy that provides for the termination in appropriate circumstances of subscribers and account holders of their system or networks who are repeat infringers. In addition, we advise these ISP’s of certain liabilities that they may incur should they not change their practices.
+ 
+Certain other companies that may potentially compete with us, such as MarkMonitor and Irdeto (which provide certain “brand protection” and similar services) have greater financial resources and longer operating histories than us. It is possible that they may develop and offer services more directly competitive to ours, by developing and offering new methods of copyright monetization or anti-piracy technology that could take market share from us.
+ 
+We have not had any discussions regarding streaming service affecting our business. Data traffic used for filesharing in North America grew from 674 PB a month in 2010 to 801 PB a month 2013 and is forecast to grow between now and 2018 as shown in the table below.
+ 
+Global Consumer File-Sharing Traffic, 2010-2018
+ 
+Consumer File Sharing, 2013-2018
+ 
+
+ | 2013 | | 2014 | | 2015 | 2016 | 2017 | | 2018 | | CAGR 2013-2018
+-----------------------------+------+-------+------+-------+------+-------+------+-------+------+-------+---------------
+By Network (PB per Month) | | | | | | | | | | | 
+Fixed | | 6,044 | | 6,492 | | 6,729 | | 6,783 | | 6,744 | | 6,652 | 2 | %
+Mobile | | 41 | | 56 | | 74 | | 92 | | 112 | | 131 | 26 | %
+By Subsegment (PB per Month) | | | | | | | | | | | | | | 
+P2P file transfer | | 5,081 | | 5,254 | | 5,205 | | 4,946 | | 4,559 | | 4,088 | -4 | %
+Other file transfer | | 1,004 | | 1,294 | | 1,598 | | 1,929 | | 2,297 | | 2,696 | 22 | %
+By Geography (PB per Month) | | | | | | | | | | | | | | 
+Asia Pacific | | 2,560 | | 2,794 | | 2,935 | | 3,009 | | 3,041 | | 3,020 | 3 | %
+North America | | 802 | | 878 | | 951 | | 1,018 | | 1,073 | | 1,124 | 7 | %
+Western Europe | | 1,184 | | 1,181 | | 1,145 | | 1,130 | | 1,115 | | 1,086 | -2 | %
+Central and Eastern Europe | | 872 | | 951 | | 992 | | 956 | | 923 | | 891 | 0 | %
+Latin America | | 567 | | 634 | | 673 | | 672 | | 649 | | 608 | 1 | %
+Middle East and Africa | | 100 | | 110 | | 107 | | 90 | | 55 | | 54 | -12 | 
+Total (PB per Month) | | | | | | | | | | | | | | 
+Consumer file sharing | | 6,085 | | 6,548 | | 6,803 | | 6,875 | | 6,856 | | 6,784 | 2 | %
+
+Employees
+ 
+As of March 22, 2017, we had 11 employees, 8 of whom are full time.
+ 
+
+12
+--
+

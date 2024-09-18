@@ -1,0 +1,283 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | BUSINESS
+--------+---------
+
+ 
+EnSync, Inc. and its subsidiaries, which are often referenced as EnSync Energy for marketing and branding purposes (“EnSync Energy,” “we,” “us,” “our,” or the “Company”) is an energy innovation company whose technologies and capabilities are designed to deliver the least expensive, highest value and most reliable electricity. EnSync Energy’s modular technologies and services synchronize power sources to meet dynamic and evolving energy environments, enable real-time prioritization of distributed energy resources and provide grid stability and economic optimization. EnSync Energy offers integrated solutions from concept through design, project finance, commissioning, and operating and maintenance, serving the commercial and industrial (“C&I”) and multi-tenant building, utility and off-grid markets.
+ 
+Incorporated in 1998, EnSync Energy is headquartered in Menomonee Falls, Wisconsin, USA, with offices in Madison, Wisconsin, Petaluma, California, Honolulu, Hawaii and Shanghai, China.
+ 
+
+2
+-
+
+ 
+
+EnSync Energy develops and commercializes product and service solutions for the distributed energy generation market, including energy management systems, energy storage systems, applications and internet of energy platforms that link distributed energy resources with the grid network. These solutions are critical to the transition from a “coal-centric economy” to one reliant on renewable energy sources. EnSync Energy synchronizes conventional utility, distributed generation and storage assets to seamlessly ensure the least expensive and most reliable electricity available, thus enabling the future of energy networks.
+ 
+EnSync Energy delivers fully integrated systems utilizing proprietary direct current power control hardware, energy management software and extensive experience with energy storage technologies. Our internet of energy control platform adapts to ever-changing generation and load variables, as well as changes in utility prices and programs, aiming to ensure the means to make and/or save money behind-the-meter while concurrently providing utilities the opportunity to use distributed energy resource systems for various grid enhancing services.
+ 
+EnSync Energy’s systems can easily integrate distributed energy resources with the grid, island from the grid and serve as a microgrid, and be deployed as self-contained microgrids, delivering electricity to sites for which no grid exists. EnSync Energy brings vital power control and energy storage solutions to problems caused by the incorporation of increasingly pervasive renewable energy generating assets that are part of the grid power transmission and distribution network used in commercial, industrial and multi-tenant buildings. In addition to ensuring resilient and high-value electricity to off-takers, utilities can benefit from EnSync Energy’s systems by relying on such assets for visibility, aggregation and control as they begin to use distributed energy resources to ensure a more fortified grid via grid services. The Company also develops and commercializes energy management systems for off-grid applications such as island or remote power.
+ 
+Today there are generally three sources of electricity, particularly for behind-the-meter applications: conventional generation, generation from renewables and energy storage, the latter two of which are often referred to as distributed energy resources (“DERs”).
+ 
+On their own, each of these sources has limitations due to various factors such as cost, availability, resiliency and environmental impact. In a model environment, these disparate sources work in a synchronized manner, all three continually prioritized and optimized to always deliver the least expensive and most reliable electricity.
+ 
+However, the conventional approach of power electronics provides limited capability in terms of optimization, efficiency, scalability and the ability to accommodate ever-changing and evolving applications and policies. Further complicating the realization of the model environment is that a “one size fits all” approach to energy storage has been the norm, relying on single-storage technology for disparate applications, some of which need high power and some of which need high energy. The perfect battery to perform the approximately 15 different applications does not exist, and forcing one type of storage technology to attempt a variety of both power and energy applications is limiting, unreliable and costly.
+ 
+EnSync Energy’s energy management systems enable comprehensive functionality and provide for numerous applications that do away with limitations of conventional power electronics. EnSync Energy’s energy management systems are being developed to provide:
+ 
+
+· | active energy synchronization for any or all direct current (“DC”) and alternating current (“AC”) inputs and outputs;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | prioritization and optimization of all generating assets without system controllers and complex algorithms;
+--+------------------------------------------------------------------------------------------------------------
+
+
+· | management of every power and energy storage application and asset in simultaneous operation;
+--+----------------------------------------------------------------------------------------------
+
+
+· | modular, scalable, efficient and “future proof” energy management as a 20-year asset; and
+--+------------------------------------------------------------------------------------------
+
+
+· | aggregation and monetization of distributed energy resource assets to provide grid services.
+--+---------------------------------------------------------------------------------------------
+
+ 
+Our energy storage system expertise enables us to design and deploy customized systems using whatever storage technology is most effective and economical for the specific needs of the customer and application, including applications where the optimum solution utilizes multiple storage technologies in a hybrid configuration. EnSync Energy has commercialized the Matrix™ Energy Management System, a system that makes it very easy to create hybrid energy storage systems by effectively “auto-segregating” power and energy applications, and pulling from the optimal battery technology to do the job. By utilizing the proprietary EnSync Energy “Auto-Sync” DC-Bus architecture, the Matrix™ accomplishes this without the complexity of a central control system; a highly complicated task accomplished simply and cost-effectively.
+ 
+EnSync Energy’s portfolio of energy storage products includes a variety of technologies, including ZnBr flow batteries, numerous lithium ion chemistries, lead acid and aqueous batteries. EnSync Energy continually evaluates storage technologies for safety, operational and price performance, as our expertise in designing systems comprised of the optimal storage technologies with application specific objectives differentiates us in the marketplace.
+ 
+Hybrid power and energy storage is the best way to optimize both power and energy applications, and an enabling energy management system distills all of the complexity to a simple means of generating or saving money behind the meter through a variant of applications, including supply response, time-of-use, frequency regulation and back-up power.
+ 
+
+3
+-
+
+ 
+
+We believe our energy management solutions are a significant improvement over conventional, stick-built assets that cannot accommodate the dynamic evolution of rate structures, programs and capabilities. We believe our solution will allow our customers to future-proof a building with an energy management system that is flexible and scalable by simply adding drawers to a cabinet, with each drawer designated as photovoltaics (“PV”), DC lighting, a diesel generator or storage, to list a few options. “Hot swappable,” drawer-based architecture similar to that of a rack mount server, should allow optimal uptime and reliability.
+ 
+In some environments, such as remote micro grids, diesel generators could play the role of conventional generation. All of the aforementioned synchronization capabilities apply in such a scenario as well, and allow the diesel generators to operate at their optimal efficiency by eliminating inefficient load following. The system will operate the generators at optimal efficiency to charge the batteries, and then shut down the generators until possibly required again at some future point by simply running the generators only at optimal efficiency to charge the batteries.
+ 
+EnSync Energy is excited about the industry shift to comprehensive energy management for behind-the-meter applications. We believe firmly that synchronization of disparate generating assets for the purpose of power and energy through state-of-the-art energy management systems is opening up numerous possibilities, as well as markets, for owners and operators of buildings, utilities and micro grids.
+ 
+Our goal at EnSync Energy is to deliver the ability to lower the cost of electricity, create a more resilient grid infrastructure, prompt economic markets to leverage distributed assets and bring power to remote locales not served by traditional grid power.
+ 
+Power Purchase Agreements
+ 
+In addition to customer-direct systems sales, we recently began addressing our target markets as a developer and a financial packager through the use of power purchase agreements (“PPAs”). Navigant Research forecasts the annual market for solar plus energy storage distributed energy systems to grow to nearly $50 billion by 2026, with a 2017 to 2026 compound annual growth rate of more than 40 percent. Under this PPA structure, we agree to develop and supply a system that uses our and other companies’ products and the offtaker agrees to purchase electricity from the completed system at a fixed rate for typically a 20-year period. Through these arrangements, the offtaker receives the benefit of a low and fixed price for electricity without incurring the capital expenditures required to develop and build the system.
+ 
+Because building these PPA projects requires significant long-term capital outlays, we do not intend to own the PPA systems and seek to sell them to third parties once we have completed the site development process. Site development activities include: (i) finalizing the engineering design of the system, (ii) applying for and receiving the necessary permits for construction of the system and (iii) negotiation of an interconnection agreement with the local utility. This site development process typically takes three to four months.
+ 
+We typically do not begin construction of a specific project until it has been sold to a third party. Accordingly, during the site development process, we engage in a sale process and provide interested purchasers with information related to the system. The purchase price for a particular system is determined through a formula that we believe is customary in the solar industry that takes into account the revenue stream to be received from the offtaker discounted to present value based on customary internal rates of return for similar projects, the costs of completing, maintaining and administering the system and certain other factors.
+ 
+Once the system has been sold, we begin construction which includes procurement of the necessary equipment, physical construction and commissioning of the system. The construction period varies based on many internal and external factors, but is typically completed within six to nine months.
+ 
+Our sales agreement with the buyer of the system typically provides for us to receive an upfront payment and additional progress payments to be made based upon achievement of certain key construction and commissioning milestones.
+ 
+We recognize revenue from these PPA arrangements on a percentage of completion basis as we build out and commission the system. Any excess cash received from the system purchaser in excess of recognized revenue is recorded as billings in excess of costs and estimated earnings and carried as a liability on our consolidated financial statements. Based on our experience to date, we expect to recognize all revenue from a particular PPA system typically within 12 months of the signing of the related PPA agreement.
+ 
+We may also enter into a service agreement with the owner of a PPA system pursuant to which we provide ongoing administrative, operating and maintenance services. These agreements usually have a term which matches the PPA term. We recognize revenue from a service agreement ratably over the life of the related agreement.
+ 
+
+4
+-
+
+Target Markets
+ 
+EnSync Energy’s energy management systems, storage technologies and “internet of energy” products target a variety of applications in three primary markets: (1) C&I Buildings, Multi-tenant Structures and Communities; (2) Utility Grid Power Distribution; and (3) Microgrids. We believe our solutions will enable utilities to reduce construction of under-utilized “peak” power generating plants and incorporate more renewable energy generating assets into the grid. EnSync Energy’s ability to provide modular and configurable power control and storage solutions can be tailored to meet a variety of needs, whether it be shifting energy from low rate to high rate periods, or enabling complete grid independence.
+Commercial & Industrial Buildings, Multi-Tenant Structures and Communities
+ 
+EnSync Energy offers a revolutionary energy synchronization system that we believe enables a dramatic reduction in the cost of electricity and increases the financial returns of distributed generation systems in the C&I and multi-tenant structures and communities markets. Commercial and industrial buildings as well as multi-tenant structures have become a major opportunity for distributed generation assets to create "net zero" buildings, and provide utilities with sources of energy in critical peak or critical load situations. We believe we are the only company today that can provide complete C&I and multi-tenant building energy storage and energy management systems that unlock opportunities to generate income today, as well as "future proof" the building for any additional applications and requirements that are realized throughout the life of the asset. This includes energy management and hybrid energy storage systems.
+ 
+For the C&I market, EnSync Energy has introduced Matrix™ and Agile Hybrid systems engineered to:
+ 
+
+· | enable distributed intelligence and active control of inputs and outputs inside buildings;
+--+-------------------------------------------------------------------------------------------
+
+
+· | allow a building to be connected to others in a micro grid;
+--+------------------------------------------------------------
+
+
+· | provide seamless connectivity to the utility for smart export on demand and “internet of energy” capability; and
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+· | create a net-zero building and deliver cash generation opportunities.
+--+----------------------------------------------------------------------
+
+Utility Grid Power Distribution
+ 
+Utilities are faced with providing cheaper, cleaner and more reliable power as consumers transition away from a coal-centric economy which requires increased use of renewables. EnSync Energy utility-scale energy storage systems are designed to improve power quality, smooth output from intermittent generating assets, help reduce emissions, defer transmission, distribution and substation upgrades, and reduce costs associated with traditional generating plants.
+ 
+An integrated system that features zinc bromide flow battery technology can be partnered with Matrix™ power controls to provide for longer energy discharge applications prevalent in utility scale applications. EnSync Energy’s lithium ion battery systems can be deployed in utility applications requiring very high power for shorter discharge durations.
+ 
+EnSync Energy’s utility-scale flow batteries offer high energy density, are environmentally friendly, and are manufactured as 20-year assets.  Multiple container units can be modularly interconnected and configured with EnSync Energy’s inverter technology to deliver an end-to-end system for quick and simple installation. EnSync Energy’s designs are easily transferable and portable with simple site permitting in places that can be constructed not always accessible by traditional generating sources.
+ 
+Microgrids
+ 
+Microgrids are localized grids that can disconnect from the traditional grid to operate autonomously and help mitigate grid disturbances to strengthen grid resilience, and can play an important role in transforming the nation’s electric grid.
+ 
+Remote microgrids, in locations where utility power is not available, often use a combination of renewables, diesel generators and storage for their electricity requirements.
+ 
+Resiliency, independence, environmentally friendly and cost-effective operation are key requirements for today’s microgrid environments, and we believe that EnSync Energy is well-positioned to become the “go-to” microgrid enabling technology to deliver on these objectives. 
+ 
+Our Products
+ 
+These are disruptive times for the power industry, and the industry must adapt to meet the challenges of a grid built on old technology and inefficient transmission and distribution. With an abundance of renewable energy generation being realized in various domestic and international locations, problems utilizing power from renewables persist because the grid network cannot effectively utilize the additional and inherently variable generation propensity of renewables. The grid today simply is not designed to accommodate such influxes and its intrinsic variability. Additionally, peak demand is often not realized during periods of maximum wind or sun, leading to a condition where overbuilding of heavily under-utilized generation capacity is required to meet the load during the highest usage periods of the day. Energy storage systems that are capable of long discharge can shift significant amounts of energy from relatively lower demand to higher demand periods, reducing the need for build-out of low utilization “peak power” generation.
+
+5
+-
+
+ 
+
+EnSync Energy products are designed to address the increasingly overtaxed grid networks throughout the world by enabling variable power generation from renewable sources to be introduced in large amounts in an economical, clean and reliable manner, improving the quality of life for an energy hungry population.
+ 
+EnSync Energy products have also been instrumental in enabling breakthroughs in distributed energy and micro-grid deployment in grid interactive or completely off-grid applications. From island power installations in the Pacific region to remote off-grid power for military use and diesel displacement for back-up power for buildings and facilities in Hawaii, EnSync Energy’s advanced energy storage and power control systems deliver highly effective solutions for a variety of needs.
+ 
+Matrix™ Energy Management
+ 
+The Matrix™ Energy Management System is breakthrough technology as a “behind-the-meter” energy control system targeted specifically at the C&I and multi-tenant building markets. Matrix™ utilizes EnSync Energy’s patented “Auto-Sync” DC-Bus Modular Controls that enable simple integration of all AC and DC system inputs, and automatically route the generated electricity in the most efficient and cost-effective manner, in or out of the building. Matrix™ is modular and configurable, designed to meet the building owner’s needs today, as well as providing a “future proof” solution for potential applications tomorrow. Matrix™ enables complete distributed generation asset-to-utility communication for “smart export” and can be clustered in a secure network as a set of assets that enable real-time spot market electricity sales through EnSync Energy’s “internet of energy” platform. Serviceability is simple with “hot swappable” drawers that can be replaced without taking the entire distributed generation system off line. DC-DC, DC-AC and AC-DC transformers and communications drawers are all configurable to the same universal architecture in either single or multiple Matrix™ cabinets.
+ 
+The Matrix™ is a fully configurable UL certified system for the commercial and industrial markets as well as distributed assets in the electrical utility market. As the Matrix™ is considered a “platform”, it provides a roadmap for incorporation of features, functionality, capabilities and higher power ratings, whether created organically or from third parties.
+ 
+DER Flex™ Internet of Energy Control Platform
+ 
+EnSync Energy Systems is creating the future of electricity with innovative DER systems and internet of energy control platforms. DER Flex™ is a breakthrough software platform that seamlessly connects to DERs and intelligently controls the flow of electricity to maximize profit for the DER owner, and offers aggregation and monetization opportunities for providing utility grid services. State-of-the-art DER FlexTM software give users a wide range of capabilities to operate the system efficiently, document performance and gather information to intelligently refine the distributed resource structure and operations over time.
+ 
+DER FlexTM adapts easily to ever-changing generation and load variables, as well as changes in utility prices and programs. This ensures the means to make or save money behind-the-meter, while concurrently providing utilities the opportunity to use DERs for an array of grid enhancing services. DER FlexTM enables aggregation of multiple behind-the-meter sites and coordinates operation to ensure maximum efficiency and profitability by monetizing an owners DER fleet. Site specific operating requirements are maintained, while excess generation can be sold into the utility/independent system operator marketplace. Automation of these transactions means DER facility operators do not need to become experts in energy markets to maximize revenue. They can simply focus on monitoring the energy system’s performance, while receiving a revenue stream and benefiting from utility bill reductions.
+ 
+DER SuperModule™ System
+ 
+The DER SuperModule™ System is a self-contained DER system that integrates with any facility’s renewable generation, customer load and grid interconnection. The result is a “plug and play” solution for deploying the least expensive, highest value and most reliable electricity. Featuring the patented Matrix™ Energy Management technology and application specific combination of both power and energy storage, the DER SuperModuleTM System creates a high-performance distributed energy resource that today enables the grid network of tomorrow, and provides unparalleled capability for remote microgrid environments.
+ 
+From sub-500 kilowatt-hour to more than a megawatt-hour in size, the DER SuperModuleTM System enables the optimum initial system configuration, along with the ability to evolve over the lifetime of the installation to continually maximize new avenues that make or save money. With the changing nature of energy policies and available revenue streams, EnSync Energy’s innovative power controls and storage technologies, provided fully integrated within a container, provide the greatest performance advantages in developing environments.
+ 
+
+6
+-
+
+Agile Hybrid Advanced Energy Storage
+ 
+The Agile Hybrid Storage System is forward-looking technology that seamlessly combines a variety of storage units to meet a breadth of applications. EnSync Energy’s Agile Hybrid Series is an energy storage system optimized specifically for high performance, safety, longevity and ability to deliver both power and energy for all available behind-the-meter applications in commercial, industrial, multi-tenant and resort buildings.
+ 
+The Agile Hybrid Series features EnSync Energy’s flow battery which achieved third-party certification from a leading, globally-recognized test facility in China that validated the battery achieved performance at or beyond design and company specifications. Along with our flow battery, the Agile Hybrid Series integrates complementary storage technology best suited for the balance of applications, which is often Lithium-ion batteries because it marries well with renewable firming and other short-discharge, high-power applications, or aqueous storage technology for very long discharge durations at relatively low loads.
+ 
+Strategic Partners
+ 
+We continue to utilize strategic partners to maximize our speed to market with solutions, augment our capabilities and expand our global presence and plan to continue to evolve strategic relationships in geographic markets that offer rapid and substantial growth opportunities. Strategic partners offer numerous benefits, such as market entry and penetration, low-cost manufacturing, financial consideration, technical complement, government relationships and integration as well as support services.
+Competition
+ 
+As discussed elsewhere in this Business section of this Annual Report on Form 10-K, we believe our technologies and products provide us with certain competitive advantages in the markets we serve. However, even with these advantages, the market for renewable energy products and services is intensely competitive and continually impacted by evolving industry standards, rapid price changes and product obsolescence. Our competitors include many domestic and foreign companies, most of which have substantially greater financial, marketing, personnel and other resources than we do. Although we believe that the advantages described above and elsewhere in this Business section of this Annual Report on Form 10-K position us well to be competitive in our industry, as a small company, we are and will continue to be at a competitive disadvantage to most of our competitors, particularly for large utility contracts.
+Intellectual Property
+ 
+Our market position, in part, depends on our intellectual property (“IP”) portfolio and our ability to obtain and maintain intellectual property protection for our products, processes, technology and know-how. We seek to protect our IP by, among other methods, filing United States and foreign patent applications related to our proprietary technology, inventions and improvements that are important to the development and conduct of our business. We also rely on trademarks, trade secrets, know-how and continuing technological innovation to evolve and secure our proprietary position. When it is determined that a trade secret is the most prudent approach to IP protection, we employ confidentiality agreements with our employees, customers, prospective customers, consultants, advisors, contractors or any other person or entity requiring knowledge of our IP for technology development or business development reasons.
+ 
+We continue to have domestic and international patents issued on our power and energy control architecture known as the “Auto-Sync” modular DC-Bus, which is utilized in our Matrix™ Energy Management System and our new high power version of Matrix™ Energy Management System. As an extension of the auto-sync DC-Bus IP, we have further developed and filed IP for hybridization of multiple types of energy storage in a single system. Other system level IP has been developed and patents filed utilizing these concepts to retrofit existing PV systems with energy storage without impacting the existing equipment and/or operation, allowing a conversion from an uncontrollable to controllable PV power generation system. Additionally, we continue to have multiple patents allowed and pending on power conversion control concepts domestically and internationally related to renewable energy optimization.
+ 
+EnSync Energy continues to view the “internet of energy” as a key developing market. We have completed the design and development of the critical building blocks that can enable efficient and economic deployment and control of distributed generation and storage assets throughout the grid network, delivering high value to both utility as well as distributed generation asset owners. EnSync Energy’s control expertise and ability to leverage third-party data will be an enabling capability for a future where spot market buying and selling of electricity between asset owners and the utility is realized by an individual site or an aggregation of multiple sites. IP for this unique approach has been developed and patents have been filed. This advancement now allows EnSync Energy to be the “hub” through which electricity and communication between the generating assets and the utility passes.
+ 
+Our battery technology team has made significant progress and continues to advance our research and development of flow battery technology in the area of cell design, advanced cell materials and advanced electrolyte chemistries. This research has generated new IP resulting in several patent filings. This is an area where know-how, in addition to IP, is critical.
+ 
+
+7
+-
+
+ 
+
+EnSync Energy’s structured finance team has developed proprietary economic modeling capabilities to produce financial return scenarios and create the optimal structure for our PPA business. EnSync Energy’s advanced modeling factors load profiles and operating requirements, as well as all sources of electricity, including DERs such as solar, batteries (single technology and power + energy hybrid) and diesel generators, in conjunction with available utility resources.
+ 
+We have filed for multiple patents in areas of energy storage technology and applications and control technologies, both domestically and internationally. Our filings are intended to further our differentiation, as our ability to control complex functions in simple and economical ways is unique. Through the advanced development of our IP, our product and system solutions portfolio continues to expand. Areas such as hybridization of multiple storage technologies, concurrent control of multiple applications without the requirement for complicated control schemes, communications and control with utility power and energy management by site and by aggregation of sites and modular energy storage upgrades “seamlessly” into existing PV systems are all breakthroughs for the commercial and industrial building market. Additionally, our ongoing research in flow battery technology provides the foundation for the next generation of our flow battery products.
+ 
+To date EnSync Energy has more than 120 active patents allowed or pending domestically and internationally with more than 50 patent filings anticipated over the next year.
+ 
+We use trademarks on some of our products and systems, and have added registration of current and roadmap products this year in the United States and internationally.
+ 
+Advanced Engineering and Development
+ 
+Our key advanced engineering initiatives and achievements are:
+ 
+
+· | Completion of Matrix™ ETL certification to standard UL1741 and IEEE1547;
+--+-------------------------------------------------------------------------
+
+
+· | Completion of a fully integrated and modular Matrix™ includes PV DC/DC converters, battery DC/DC converters, DC/AC grid tie and off-grid inverters as a first of its kind;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Completion of the EnerSection 125kVa grid-tie inverter certification to Hawaiian Electric utility standards;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | Completion of the Matrix™ grid-tie inverter certification to Hawaiian Electric utility standards;
+--+--------------------------------------------------------------------------------------------------
+
+
+· | Completion of a high-efficiency DC/DC flow battery converter;
+--+--------------------------------------------------------------
+
+
+· | Completion of high power conversion for large C&I and utility scale flow battery, Lotte 500kWh flow battery;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | Completion of 3rd party validation of Agile Hybrid, EnerSection and Matrix™ products;
+--+--------------------------------------------------------------------------------------
+
+
+· | Design and development of the Higher Power version of the Matrix™ Energy Management System for utility scale markets;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | Design and development of a higher power, hybridized zinc bromide/Li-ion/Matrix™ system incorporating PV and other renewable and advanced energy generation capability into a set of standardized modules which may be mixed and matched to meet the needs of specific applications;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Design and development of EnSync Energy’s “internet of energy” control platform for seamless integration of distributed energy resources into the utility grid;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Design and development of additional Matrix™ modules to enhance the Matrix™ portfolio;
+--+---------------------------------------------------------------------------------------
+
+
+· | Design and development of advanced high-efficiency power converters; and
+--+-------------------------------------------------------------------------
+
+
+· | Research and development of advance flow battery materials and chemistries.
+--+----------------------------------------------------------------------------
+
+ 
+The goal of these initiatives is to deliver differentiated product and system solutions that enable the massive expansion of renewable energy generation and to provide optimal economic benefit to our customers.
+ 
+Our advanced engineering and development expense and cost of engineering and development revenues totaled approximately $5.8 million and $6.8 million for the years ended June 30, 2017 and June 30, 2016, respectively. We also had engineering and development revenues of approximately $175,000 and $369,000 for the years ended June 30, 2017 and June 30, 2016, respectively.
+ 
+
+8
+-
+
+Public Policy and Regulation
+ 
+Federal, state and local governmental authorities have provided economic incentives, such as system performance payments, renewable energy tax credits and feed-in tariffs, to support and accelerate the adoption of solar power solutions. In addition, many states have adopted renewable energy mandates, such as renewable portfolio standards which mandate that certain amounts of electricity delivered to customers must come from eligible renewable energy resources. Some states such as Hawaii and California, where we have focused business development efforts, have significantly expanded their renewable portfolio standards in recent years. Governmental support for the development and use of renewable energy resources, in particular solar power products and solutions, is critical to the success of our strategic initiatives, and the economic viability of solar power products and solutions as an alternative to traditional energy resources. However, some of these economic incentives and government mandates are scheduled to be reduced or to expire, and some could be eliminated altogether.
+ 
+Alternatively, governmental bodies may also impose tariffs on imported solar equipment, which may increase our supply costs. In August 2017, the International Trade Commission (“ITC”) heard a petition from two financially distressed solar manufacturers, Suniva and SolarWorld, requesting the imposition of duties and floor prices on certain imported solar equipment. The imposition of these and other similar measures, particularly on supplies we import from China, would significantly increase our cost of sales and potentially cause substantial disruption to the economic model of the solar power industry as a whole.
+ 
+We are closely monitoring developments in this matter and in public policy and regulatory matters as a whole and adjusting our business model, strategy and execution as appropriate to adapt to any such changes. However, these and other developments may adversely impact our corporate strategy, financial condition, results of operations and future prospects. For more information about the risks related to renewable energy and solar power public policies, see “Item 1A – Risk Factors” in this Annual Report on Form 10-K.
+ 
+Employees
+ 
+As of September 12, 2017, EnSync Energy and its subsidiaries had a total of 66 full-time employees in the United States and China. We expect staffing numbers to increase on an as-needed basis as our business grows in accordance with our business expansion plans. None of our employees are represented by a labor union or are subject to collective-bargaining agreements. We believe that our relationship with our employees is good.
+Available Information
+ 
+Our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K that we may file or furnish to the Securities and Exchange Commission (“SEC”) pursuant to Sections 13(a) or 15(d) of the Securities Exchange Act of 1934 as well as any amendments to any of those reports are available free of charge on or through our website as soon as reasonably practicable after we file them with or furnish them to the SEC electronically. Our website is located at www.ensync.com. In addition, you may receive a copy of any of our reports free of charge by contacting our Investor Relations department at our corporate headquarters.

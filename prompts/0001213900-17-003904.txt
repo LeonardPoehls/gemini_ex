@@ -1,0 +1,172 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. DESCRIPTION OF BUSINESS
+General
+ 
+We are a mobile location-based media platform serving businesses, advertisers and brands. Through our platform, our solutions allow marketers to create advertising content targeted to audiences, based on location, interests, behaviors and loyalty. Through the proliferation of mobile devices, we provide our customers with the ability to deliver actionable content in a real-time manner, while providing measurement and analytics that allow campaigns to be fluid and transaction driven.
+ 
+Our emphasis is on mobile location-based advertising that give brands, agencies and retailers the ability to transform digital marketing by delivering targeted mobile advertising campaigns based on geo-location, in-store traffic and customer response. Our platform launches enhancements to location-based advertising and drives focus on our core offerings and products, such as Real-Time Verified Walk-in, our proprietary mobile attribution engine. We believe our products give our clients the appropriate measurement, beyond click-through-rates to properly assess return on investment and alter advertising programs in real-time, which we believe can provide a meaningful difference in campaign results and visibility and a competitive advantage.
+ 
+Principal Products and Services
+ 
+Location Based Advertising – We use location-based mobile advertising including geo-fencing, verified walk-ins and behavioral targeting with analytics and optimization for the client. “Geo-fencing” targets customers within a certain radius of location and uses technology to push coupons, ads and promotions to mobile apps and mobile websites and drive foot traffic in real-time. Analytics and optimization allow clients to measure ad campaign performance and insight into key metrics, with a measurement system to track key metrics like user demographics, psychographics, CPM, click-throughs, time of engagement and foot traffic. Our platform allows brands to access the right audiences at the right time in the key locations ultimately driving traffic and sales.
+ 
+We provide a product to deliver location-based mobile advertisements directly to consumers’ smartphones for retailers and advertisers. We have found that by combining multiple real-time bidding networks with our ability to serve coupons, ads and promotions at times and places when consumers are most interested, we can create relevant content for consumers. We enable advertisers to deliver targeted ads in mobile applications, or Apps, to the smartphones of people within close proximity (approximately 15 feet) of a specific location. We launched this revenue stream in December 2013. Our revenue is driven by our sales of mobile advertising campaigns that feature advertisements on mobile devices. Our revenue is based on the same key media metrics as Internet advertising, which are the number of audience impressions and the CPM (cost per thousand) price to reach that audience.
+ 
+SITO Location Based Advertising includes the following features:
+ 
+
+● | Real-time Verified Walk-In: VWI platform provides closed-loop attribution and reporting, identifying consumers who have interacted with an ad on their mobile device and then walked into a physical location – all in real-time. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Device-Level Targeting: 
+--+-----------------------------------------------------------------
+
+
+o | Behavioral Targeting – Target consumers based on previous locations visited, demographics, CRM data, purchase history and interests 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Retargeting – Continue to engage a consumer with multiple touchpoints based on previous ad impression 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Cross-Device Audience Targeting – Unify and amplify your audience by reaching consumers on their desktops and mobile devices 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Location-Based Targeting: 
+--+-------------------------------------------------------------------
+
+
+o | In-Store Targeting – Reach consumers at the point of purchase 
+--+-------------------------------------------------------------------------------------------------------
+
+
+o | Proximity Targeting – Drive consumers in-store from any distance 
+--+----------------------------------------------------------------------------------------------------------
+
+
+o | Geo-conquesting – Target consumers at a competitor’s location 
+--+-------------------------------------------------------------------------------------------------------
+
+
+1
+-
+
+
+● | SITO LABS: Location, Audience and Behavior Sciences (LABS) enables companies to measure how their audience changes in real-time. Customized SITO LABS reports provide a transparent, in-depth analysis of your audience, breaking down location, purchase and demographic data against multiple control groups for selected targeted audiences. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Transparent Reporting In Real-time: Real-time reporting & data, custom attribution windows, daily lift in foot traffic, custom reports and real-time optimization tools provide a transparent, in-depth analysis of your audience. VWI Lift Report monitors an audience to show incremental lift and walk-ins directly as a result from exposure to an ad in real-time. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Background of Industry Growth and Potential
+ 
+Across the globe, the mobile channel is growing fast. People in every country are buying more and more advanced mobile devices, and businesses and consumers alike are using mobile phones for everyday activities such as checking the weather, taking advantages of discounts, shopping or sending and receiving financial information. As the use of mobile phones increases, e-Business and channel strategy professionals are challenged to determine how these devices integrate with their existing sales and service channels. Rapid adoption of the mobile channel is a critical driver of the need for e-Business professionals to evolve their strategy and operations to address agile mobile commerce.
+ 
+According to Statista, there will be 223 million smartphones and 172 million tablets in use in the U.S. by 2017 and 80% of consumers plan to conduct mobile commerce in the next 12 months. According to Com Score, approximately 68% of digital time is spent on mobile and approximately 59% of digital time is spent on mobile apps. According to BIA/Kelsey, Mobile has surpassed desktop in US digital ad spending since 2015, and is predicted to account for the majority of worldwide digital ad spending and become a $72 billion business by 2021. As mobile has grown, so has the power of location, BIA/Kelsey estimates that 45% of mobile advertising spending will be in location by 2021 and that location-targeted mobile ad spending to grow to $32.4 billion by 2021.
+ 
+Competition
+ 
+The mobile media and data communications market for products and services is competitive with the rapid growth and adoption of mobile data services, along with the increased demand for mobile marketing and advertising solutions.
+ 
+We compete with publicly traded companies providing similar service offerings to ours, including Facebook (FB), Twitter (TWTR), Tube Mogul (TUBE), Voltari (VLTC), Twilio (TWLO), and Mobivity (MFON) and private companies, including Ninth Decimal, PlaceIQ, xAd, Verve, ThinkNear.
+  
+We expect new market entrants, existing competitors and nontraditional players to introduce new products and services that compete with our products. Additionally, we face the risk that our customers may seek to develop in-house products as an alternative to those currently being provided by us.
+ 
+Certain Agreements
+ 
+Our business agreements consist primarily of customer agreements and carrier agreements. Customer agreements are typically agreements with companies which have sales relationships with the end users of the transacted media content or service application. These agreements typically involve a split of the fees received between the brand owner and us or a fixed fee per transaction. Carrier agreements are infrastructure in nature and establish the connection to the end user that enables us to deliver and collect payment for the transacted media content or service application.
+ 
+Of our revenue earned during the fiscal year ended December 31, 2016, approximately 19% was generated from contracts with one specific advertising agency.
+
+
+
+2
+-
+
+Intellectual Property Development
+ 
+Patents and Licenses for Operations
+ 
+We currently hold rights to multiple purchased and developed patents relating to certain aspects of accessing information on a mobile device, sending information to and between mobile devices, advertising and media streaming. We believe the ownership of such patents is an important factor in our existing and future business. We have 30 patents in the United States and Canada issued from May 2006 to March 2017.
+ 
+We regularly file patent applications to protect innovations arising from our research, development and design, and are currently pursuing multiple patent applications. Over time, we have accumulated a portfolio of issued patents, primarily in the U.S. No single patent is solely responsible for protecting our systems and services. We believe the duration of our patents is adequate relative to the expected lives of our systems and services.
+ 
+Because of technological changes in the industries in which we compete, current extensive patent coverage and the rapid rate of issuance of new patents, it is possible that certain components of our systems and services may unknowingly infringe existing patents or intellectual property rights of others.
+ 
+Patent Portfolio Development, Protection and Licensing.
+ 
+Our portfolio of intellectual property, comprised of the 30 patents referred to above, represents our many years of innovation in the wireless industry through patented technology developed by us, including patents granted to us by the U.S. Patent and Trademark Office, as well as patented technology we purchased from Microsoft and others.
+ 
+We established a separate subsidiary, SITO Mobile R&D IP, LLC, dedicated to the monetization of these assets, primarily through licensing. In recent months, we have increased our monetization efforts and are pursuing several available options.
+ 
+Our existing patents cover three broad categories:
+ 
+
+● | Digital Video and Audio Streaming and Advertising - these patents related to Over the Top (“OTT”) streaming services and protocols (e.g. HLS, MPEG DASH) as well as the notion of dynamic advertising insertion into these streams and the billing and tracking of ad-revenues thereof. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sending Information to and Between Mobile Devices - these patents relate to over-the-air provisioning of smartphones and mobile devices such that the customer, when transitioning over to new phones or modifying existing phones, can highly customize their phones, from carrier plan to interface to smartphone design features to content and form of delivery. While still an emerging market, carriers are unlocking carrier plans and it is expected in the short-term that consumers will be able to go online and pick their carrier plan of choice. We have patents in this area as well as smartphone back-up and synchronization patents that make up our mobility portfolio. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Accessing Information on a Mobile Device - this group of patents relates to features that offer users improved effectiveness in accessing information on a mobile device, whether content or services or advertising solutions. This includes technology from abbreviated dial codes for rapid access to services to providing ads and coupons to these links through to more efficient user interface features. Our patent litigation with Zoove Corporation, in which, in 2013, we settled a complaint we brought against Zoove Corporation for patent infringement, involved patents in this category. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In October 2014, pursuant to that certain Revenue Sharing and Note Purchase Agreement by and among the Company, SITO Mobile Solutions, Inc., our wholly-owned subsidiary, SITO Mobile R&D IP, LLC, our wholly-owned subsidiary, Fortress Credit Co. LLC, and CF DB EZ LLC, we granted a security interest in all of our assets, including our entire portfolio of patents, to secure $10,000,000 in senior secured notes issued by the Company to Fortress Credit Co. LLC (“Fortress”), and we entered into an intellectual property revenue sharing agreement that provides for proceeds from the sale or licensing of our patents to be used to reduce the outstanding borrowings from Fortress and for Fortress to receive a portion of the proceeds once all outstanding borrowings are repaid.
+ 
+
+3
+-
+
+Government Regulation
+ 
+We provide value-added and enabling platforms for carrier-based distribution of various software and media content, as well as notifications and other communications. Applicable regulations are primarily under the Federal Communications Commission and related to the operations policies and procedures of the wireless communications carriers. Messaging is regulated by, among other things, the Telephone Consumer Protection Act and safeguarding personal health information, moreover, is regulated by, among other things, the Privacy Rule of the Health Insurance Portability and Accountability Act. Given the growing and dynamic evolution of digital wireless products that can be offered to consumers over a wireless communication network, regulators could impose rules, requirements and standards of conduct on third-party content and infrastructure providers such as us. We are not currently aware of any pending regulations that would materially impact our operations.
+Corporate Overview
+ 
+We were incorporated in Delaware on May 31, 2000, under our original name, Hosting Site Network, Inc. On May 12, 2008, we changed our name to Single Touch Systems Inc. and on September 26, 2014, we changed our name to SITO Mobile, Ltd. On July 24, 2008, we acquired all of the outstanding shares of SITO Mobile Solutions, Inc., which was incorporated in Nevada on April 2, 2002.
+Employees
+ 
+We currently have 69 full-time employees, including our interim chief executive officer and interim chief financial officer, 7 employees serving as programmers and technical staff operators, 54 employees in sales and account management and 6 employees in administration. We currently have 2 part time employees. We expect to increase our future employee levels on an as-needed basis in connection with our expected growth.
+Recent Developments
+ 
+Discontinued Operations
+ 
+On February 7, 2017, the Company together with its wholly-owned subsidiary, SITO Mobile Solutions, Inc., entered into an asset purchase agreement pursuant to which the Company sold certain assets related to its legacy wireless applications business which completed the Company’s exit from its legacy non-core business.
+ 
+The assets and liabilities of our legal wireless applications are classified as held for sale on the consolidated balance sheet as of December 31, 2016 and the operating results of the wireless applications business are reflected as discontinued operations in the consolidated statements of earnings for the years ended December 31, 2016 and 2015.
+ 
+Resignation of CEO and CFO; Internal Inquiry
+ 
+On February 17, 2017, Jerry Hug resigned as Chief Executive Officer and director of the Company. Also, on March 10, 2017, Kurt Streams resigned as Chief Financial Officer of the Company. Following the resignation of Mr. Hug, our Audit Committee engaged an independent law firm and an accounting consulting firm to conduct an inquiry into the use of the Company's charge and debit cards, as well as certain cash withdrawals. The ongoing inquiry identified the misappropriation of company funds by each of Streams and Hug. The company is implementing stronger compliance with company policies and enhancements to its controls and procedures with respect to these matters.
+ 
+
+4
+-
+
+ Section 382 Tax Benefits Preservation Plan
+ 
+On April 3, 2017, our Board of Directors approved and adopted a Section 382 Tax Benefits Preservation Plan, dated as of April 3, 2017, by and between the Company and Continental Stock Transfer & Trust Company, as Rights Agent. Pursuant to the Section 382 Tax Benefits Preservation Plan, the Board declared a dividend of one preferred share purchase right or Right for each outstanding share of common stock, par value $0.001, of the Company. The dividend is distributable to stockholders of record as of the close of business on April 14, 2017.
+ 
+The Board adopted the Section 382 Tax Benefits Preservation Plan in an effort to diminish the risk that the Company’s ability to utilize its net operating loss carryovers or “NOLs” to reduce potential future federal income tax obligations may become substantially limited. Under the Internal Revenue Code of 1986, as amended and the regulations promulgated thereunder by the U.S. Treasury Department, these NOLs may be “carried forward” in certain circumstances to offset any current and future taxable income and thus reduce federal income tax liability, subject to certain requirements and restrictions. While the amount and timing of the Company’s future taxable income cannot be predicted with any certainty and, accordingly, the Company cannot predict the amount of these NOLs that will ultimately be used to reduce its income tax liability, to the extent that the NOLs do not otherwise become limited, these NOLs could be a potentially valuable asset to the Company. However, if the Company experiences an “ownership change,” within the meaning of Section 382 of the Code, or Section 382, its ability to utilize the NOLs may be substantially limited, and the timing of the usage of the NOLs could be substantially delayed, which could therefore significantly impair the value of those assets.
+ 
+The Section 382 Tax Benefits Preservation Plan is intended to act as a deterrent to any person or group acquiring beneficial ownership of 4.99% or more of the outstanding Common Stock without the approval of the Board. A person who acquires, without the approval of the Board, beneficial ownership (other than as a result of repurchases of stock by the Company, dividends or distributions by the Company or certain inadvertent actions by stockholders) of 4.99% or more of the outstanding Common Stock (including any ownership interest held by that person's Affiliates and Associates as defined under the Section 382 Tax Benefits Preservation Plan) could be subject to significant dilution. Stockholders who beneficially own 4.99% or more of the outstanding Common Stock prior to the first public announcement by the Company of the Board’s adoption of the Section 382 Tax Benefits Preservation Plan will not trigger the Section 382 Tax Benefits Preservation Plan so long as they do not acquire beneficial ownership of additional shares of the Common Stock (other than pursuant to a dividend or distribution paid or made by the Company on the outstanding shares of Common Stock or pursuant to a split or subdivision of the outstanding shares of Common Stock) at a time when they still beneficially own 4.99% or more of such stock. In addition, the Board retains the sole discretion to exempt any person or group from the penalties imposed by the Section 382 Tax Benefits Preservation Plan.
+ 
+Section 382 of the Internal Revenue Code imposes limitations on the future use of a company’s NOLs if it undergoes an “ownership change.” SITO Mobile's ability to benefit from its tax assets would be substantially limited by Section 382 if an “ownership change” occurred. A company experiences an “ownership change” for tax purposes if the percentage of stock owned by one or a group of its 5% stockholders (as defined for tax purposes) increases by more than 50 percentage points over a rolling three-year period over the lowest percentage of stock of such company owned by such stockholders at any time during that period. Based on information from SITO's external tax accountants, SITO currently believes that the percentage of stock owned by one or a group of its 5% stockholders (as defined for tax purposes) has increased by approximately 36 percentage points over a rolling three-year period.
+ 
+While SITO Mobile periodically monitors its NOLs and currently believes that an ownership change that would impair the value of its NOLs has not occurred, the complexity of Section 382’s provisions and the limited knowledge any public company has about the ownership of its publicly traded stock make it difficult to determine whether an ownership change has in fact occurred.
+
+ 
+Available Information 
+ 
+We maintain a website located at http://www.sitomobile.com. The contents of our website are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the U.S. Securities and Exchange Commission, or SEC, and any references to our websites are intended to be inactive textual references only. The following filings are available for download free of charge through our website as soon as reasonably practicable after we file them with the SEC: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, as well as any amendments to such reports and all other filings pursuant to Section 13(a) or 15(d) of the Securities Act. Additionally, copies of materials filed by us with the SEC may be accessed at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or at www.sec.gov. For information about the SEC’s Public Reference Room, contact 1-800-SEC-0330.
+
+5
+-
+

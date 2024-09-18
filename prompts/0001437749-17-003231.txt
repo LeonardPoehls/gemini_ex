@@ -1,0 +1,436 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Summary
+ 
+The iShares Commodity Optimized Trust (the “Trust”) is a Delaware statutory trust that issues units of beneficial interest (“Shares”) representing fractional undivided beneficial interests in its net assets. The Trust’s assets consist of long positions in exchange-traded index futures contracts of various expirations (the “Index Futures”) on the Bloomberg Roll Select Commodity Index (the “Bloomberg Roll Select CI”) together with cash, U.S. Treasury securities or other short-term securities and similar securities that are eligible as margin deposits for those Index Futures positions (the “Collateral Assets”).
+  
+iShares Delaware Trust Sponsor LLC, a Delaware limited liability company, is the sponsor of the Trust (the “Sponsor”). BlackRock Institutional Trust Company, N.A., an affiliate of the Sponsor, is the trustee of the Trust (the “Trustee”). The Trust is a commodity pool, as defined in the Commodity Exchange Act (the “CEA”) and the applicable regulations of the Commodity Futures Trading Commission (the “CFTC”), and is operated by the Sponsor, a commodity pool operator registered with the CFTC. BlackRock Fund Advisors (the “Advisor”), an indirect subsidiary of BlackRock, Inc. (“BlackRock”), serves as the commodity trading advisor of the Trust and is registered with the CFTC. The Trust is not an investment company registered under the Investment Company Act of 1940, as amended (the “Investment Company Act”). The Trust has delegated day-to-day administration of the Trust to the Trustee. The Trustee has delegated certain day-to-day administrative functions of the Trustee to State Street Bank and Trust Company (the “Trust Administrator”). Wilmington Trust, National Association, a national banking association, serves as the Delaware trustee of the Trust (the “Delaware Trustee”).
+  
+The Trust intends to offer Shares on a continuous basis. The Trust issues and redeems Shares only in one or more blocks of 50,000 Shares (“Baskets”). Only registered broker-dealers who have entered into an authorized participant agreement with the Trust (each, an “Authorized Participant”) may purchase or redeem Baskets, in exchange for Index Futures and Collateral Assets with an aggregate value equal to the net asset value per Share (“NAV”) of the Shares being purchased or redeemed. Owners of beneficial interest in Shares (“Shareholders”) who are not Authorized Participants have no right to redeem their Shares. In order to liquidate their investment in the Shares, Shareholders who are not Authorized Participants must generally sell their Shares in the secondary market, assuming that demand for their Shares exists. The price obtained by the Shareholders for the Shares may be less than the NAV of those Shares.
+  
+The activities of the Trust are generally limited to:
+  
+
+● | issuing Baskets in exchange for Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets);
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | consistent with its investment objective, establishing, maintaining and closing out positions in Index Futures and acquiring, holding and disposing of corresponding Collateral Assets;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | paying out of its assets any expenses and liabilities of the Trust not assumed by the Sponsor and
+--+--------------------------------------------------------------------------------------------------
+
+
+● | delivering proceeds consisting of Index Futures, cash and other Collateral Assets in exchange for Baskets surrendered for redemption.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Trust is a passive investor in Index Futures and the Collateral Assets held to satisfy applicable margin requirements on those Index Futures positions. The Advisor acts as the commodity trading advisor for the Trust, and is authorized to transact in Index Futures and acquire and dispose of the related Collateral Assets on the Trust’s behalf. The Trust does not engage in any activities designed to obtain a profit from, or to ameliorate losses caused by, changes in the level of the Bloomberg Roll Select Commodity Total Return Index (the “Index”) or the Bloomberg Roll Select CI or the value of the Collateral Assets. To the extent that the Trust accepts cash proceeds in connection with the creation of Shares, the Trust will use that cash to purchase additional Index Futures and Collateral Assets, in an amount that the Advisor determines will enable the Trust to achieve investment results that correspond with the Index. At any time when Index Futures of more than one expiration are listed on the Chicago Mercantile Exchange (the “CME” or the “Exchange”), the Sponsor will determine, pursuant to the terms of the trust agreement of the Trust (the “Trust Agreement”), which Index Futures will be transferred in connection with either the creation or redemption of Baskets.
+  
+The Sponsor maintains a website at www.ishares.com through which the Trust’s monthly account statements, annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (“Exchange Act”), can be accessed free of charge, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”). Additional information regarding the Trust may also be found on the SEC website at www.sec.gov. 
+ 
+Investment Objective of the Trust
+ 
+The Trust seeks to track the results of a fully collateralized investment in futures contracts on an index composed of a diversified group of commodities futures which attempts to minimize contango and maximize backwardation. The Trust seeks to track the investment results of the Index before fees and expenses of the Trust. The Trust holds long positions in Index Futures whose settlement value at expiration is determined based on the value of the Bloomberg Roll Select CI at that time. The Trust also earns interest on its non-cash Collateral Assets.
+ 
+The Bloomberg Roll Select CI incorporates the economic effect of rolling the contracts included in the applicable index. Rolling a futures contract means closing out a position in an expiring futures contract and establishing an equivalent position in a replacement futures contract on the same commodity. Markets for futures contracts can be in backwardation which means that futures contracts with distant delivery months are priced lower than those with nearer delivery months or can exhibit contango which means that futures contracts with distant delivery months are priced higher than those with nearer delivery months. The Bloomberg Roll Select CI employs a rolling methodology that seeks to minimize the effect of contango and maximize the effect of backwardation by selecting replacement futures contracts that exhibit the most backwardation or least contango, relative to its preceding contract, among those eligible futures contracts with delivery months of up to 273 calendar days until expiration. 
+ 
+ 
+1
+
+
+
+The Index, in turn, reflects the return of the Bloomberg Roll Select CI, together with the return on specified U.S. Treasury securities that are deemed to have been held to collateralize a hypothetical long position in the futures contracts comprising the Bloomberg Roll Select CI. The Index and the Bloomberg Roll Select CI are calculated based on the same commodities, though not always the same futures contracts, that are included in the Bloomberg Commodity Index (the “Bloomberg CI”) which is a liquidity- and production-weighted index of the prices of a diversified group of futures contracts on physical commodities. The Bloomberg CI, the Bloomberg Roll Select CI and the Index are administered, calculated and published by Bloomberg Finance L.P., and its affiliates (“Bloomberg”) who is also referred to in this report as the index administrator of the Bloomberg CI, the Bloomberg Roll Select CI and the Index (the “Index Administrator”). Certain intellectual property and other rights relating to the Bloomberg CI and related indices are owned by UBS Securities LLC (“UBS Securities”) including the right to remove Bloomberg as Index Administrator, and Bloomberg and UBS Securities are collectively referred to as the index providers (the “Index Providers”).
+ 
+If the Index Providers cease to maintain the Index, the Bloomberg CI or the Bloomberg Roll Select CI, the Trust may seek investment results that correspond generally, but are not necessarily identical, to the performance of a fully collateralized investment in a successor index or any other index that, in the opinion of the Sponsor, is reasonably similar to the Index.
+ 
+When establishing positions in Index Futures, the Trust is required to deposit initial margin with a value of approximately 3% to 10% of the value of each Index Futures position at the time it is established. These margin requirements are subject to change from time to time by the Exchange or UBS Securities, the clearing futures commission merchant (the “Clearing FCM”). Margin requirements established by the Clearing FCM may exceed minimum levels established by the Exchange. On a daily basis, the Trust is obligated to pay, or entitled to receive, variation margin in an amount equal to the change in the daily settlement level of its Index Futures positions. If the daily settlement level causes the value of the Trust’s Index Futures positions to decrease, the Trust is required to post variation margin with the Clearing FCM. Conversely, if the daily settlement level causes the value of the Trust’s Index Futures positions to increase, the Trust’s account with the Clearing FCM receives variation margin in an amount equal to the increase. 
+ 
+The Shares are intended to constitute an alternative means for investors to achieve investment exposure to the performance of the Index. Although the Shares are not the exact equivalent of an investment in the underlying futures contracts and U.S. Treasury securities represented by the Index, the Shares are intended to provide investors with an alternative method of participating in the commodities market. In addition, retail investors can gain exposure to the commodities underlying the Bloomberg Roll Select CI by purchasing individual or small lots of Shares through traditional brokerage accounts, without being subject to the significantly higher minimum contract sizes required for directly establishing a position in the underlying commodities or futures contracts. The Shares are eligible for margin accounts.
+ 
+Secondary Market Trading
+ 
+While the Trust anticipates that the price of the Shares will fluctuate in a manner that reflects changes in the Trust’s net asset value over time, at any given time the Shares may trade at, above or below the NAV. The NAV fluctuates primarily with changes in the market value of Index Futures. The NAV may also be affected as a result of fluctuations in the value of Collateral Assets, but this fluctuation is not expected to be significant because the Collateral Assets are expected to consist of cash and U.S. Treasury securities. The trading price of the Shares fluctuates in accordance with changes in the NAV, intraday changes in the value of the Index Futures and market supply and demand. The amount of the discount or premium in the trading price relative to the NAV may be influenced by non-concurrent trading hours between NYSE Arca, Inc. (“NYSE Arca”), the exchange on which the Shares trade, the Exchanges on which Index Futures trade and the principal commodities markets on which the futures contracts in the Bloomberg Roll Select CI trade. While the Shares are expected to trade on NYSE Arca until 4:00 p.m. (New York time), liquidity in the markets for the Index Futures and the futures contracts underlying the Bloomberg Roll Select CI is expected to be reduced whenever the principal markets for these contracts are closed. As a result, trading spreads, and the resulting premium or discount on the Shares, may widen during these gaps in market trading hours.
+Valuation of Index Futures; Computation of the Trust’s Net Asset Value
+ 
+The Sponsor has the exclusive authority to determine the net asset value of the Trust and the NAV, which it has delegated to the Trustee under the Trust Agreement. The Trustee determines the net asset value of the Trust and the NAV as of 4:00 p.m. (New York time), on each Business Day on which NYSE Arca is open for regular trading, as soon as practicable after that time. A Business Day is a day (1) on which none of the following occurs: (a) NYSE Arca is closed for regular trading, (b) the CME is closed for regular trading or (c) the Federal Reserve wire transfer system is closed for cash wire transfers, or (2) that the Trustee determines that it is able to conduct business.
+ The Trustee values the Trust’s long positions in Index Futures on the basis of that day’s settlement prices for the Index Futures held by the Trust as announced by the applicable Exchange. The value of the Trust’s positions in any particular Index Futures contract equals the product of (1) the number of such Index Futures contracts owned by the Trust, (2) the settlement price of such Index Futures contract on the date of calculation and (3) the multiplier of such Index Futures contract. If there is no announced settlement price for a particular Index Futures contract on a Business Day, the Trustee uses the most recently announced settlement price unless the Trustee, in consultation with the Sponsor, determines that such price is inappropriate as a basis for valuation. The daily settlement price for each Index Futures contract currently held by the Trust is established on each trading day by CME Group Inc., and its designed contract markets, including the CME, CBOT (Board of Trade of the City of Chicago, Inc.), NYMEX (New York Mercantile Exchange), COMEX and KCBT (the “CME Group”) staff, generally 2:40 p.m. (New York time).
+ 
+The Trustee values all other holdings of the Trust at (1) its current market value, if quotations for such property are readily available or (2) its fair value, as reasonably determined by the Trustee, if the current market value cannot be determined. 
+ 
+Once the value of the Index Futures and interest earned on the Trust’s non-cash Collateral Assets has been determined, the Trustee subtracts all accrued expenses and liabilities of the Trust as of the time of calculation in order to calculate the net asset value of the Trust.
+ 
+Once the net asset value of the Trust has been calculated, the Trustee determines the NAV by dividing the net asset value of the Trust by the number of Shares outstanding at the time the calculation is made. Any change to the NAV that may result from creation and redemption activity occurring on any Business Day is not reflected in NAV until the following Business Day.
+ 
+ 
+2
+
+
+
+The NAV for each Business Day on which NYSE Arca is open for regular trading is expected to be distributed through major market data vendors and published online at www.ishares.com or any successor thereto. The Trust updates the NAV as soon as practicable after each subsequent NAV is calculated.
+ 
+Trust Expenses
+ 
+The Sponsor has agreed under the Trust Agreement to pay the following administrative, operational and marketing expenses:
+ 
+
+● | the fees of the Trustee, the Delaware Trustee, the Advisor and their respective agents;
+--+----------------------------------------------------------------------------------------
+
+
+● | NYSE Arca listing fees;
+--+------------------------
+
+
+● | printing and mailing costs;
+--+----------------------------
+
+
+● | audit fees;
+--+------------
+
+
+● | fees for registration of the Shares with the SEC;
+--+--------------------------------------------------
+
+
+● | tax reporting costs;
+--+---------------------
+
+
+● | license fees and
+--+-----------------
+
+
+● | legal expenses relating to the Trust of up to $100,000 annually.
+--+-----------------------------------------------------------------
+
+ 
+The Trust is not expected to have other ordinary recurring administrative, operational or marketing expenses other than brokerage commissions and similar transaction fees, as described below.
+  
+In return for paying the expenses described above, the Sponsor receives a fee which accrues daily at an annualized rate of up to 0.75% of the net asset value of the Trust, as calculated before deducting fees and expenses based on the value of the Trust’s assets (the “Adjusted Net Asset Value”), is payable by the Trust monthly in arrears, and is subject to adjustment from time to time (the “Sponsor’s Fee”), except that the Sponsor’s Fee may not be adjusted to above 0.75% of the Adjusted Net Asset Value absent an amendment of the Trust Agreement and thirty day’s prior notice to registered holders of the Shares.
+ 
+The Sponsor and the Trustee may amend or terminate the Sponsor’s obligation to pay certain expenses of the Trust pursuant to the Trust Agreement.
+ 
+The Trust is responsible for paying any applicable brokerage commissions and similar transaction fees out of its assets. 
+ 
+The following expenses are paid out of the assets of the Trust:
+  
+
+● | any expenses of the Trust (including the Sponsor’s Fee) that are not assumed by the Sponsor;
+--+---------------------------------------------------------------------------------------------
+
+
+● | any taxes and other governmental charges that may fall on the Trust or its property;
+--+-------------------------------------------------------------------------------------
+
+
+● | any expenses of any extraordinary services performed by the Trustee or the Sponsor on behalf of the Trust or expense of any action taken by the Trustee or the Sponsor to protect the Trust and the rights and interests of holders of the Shares; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | any indemnification of the Sponsor, the Advisor or other agents, service providers or counterparties of the Trust.
+--+-------------------------------------------------------------------------------------------------------------------
+
+ 
+The Trustee is also entitled to charge the Trust for all expenses and disbursements incurred by the Trustee in connection with the actions described in the second and third bullet points above, including fees and disbursements of its legal counsel; provided that the Trustee is not entitled to charge the Trust for (1) expenses and disbursements that were incurred by it before the Shares were publicly traded and (2) fees of agents for performing services that the Trustee is required under the Trust Agreement to perform.
+ 
+The Trustee, at the direction of the Sponsor, may liquidate the Trust’s property from time to time as necessary to permit payment of the fees and expenses that the Trust is required to pay. The Trustee is not responsible for any depreciation or loss incurred by reason of the liquidation of Trust property made in compliance with the Trust Agreement.
+ 
+Creation of Baskets
+ 
+The Trust intends to offer Shares on a continuous basis on each Business Day, but issuances of new Shares may be suspended at any time. Shares may be offered only in Baskets of 50,000 Shares. Baskets are typically issued only in exchange for an amount of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) (the “Basket Amount”) for the Business Day on which the creation order was received by the Trustee. The Basket Amount for a Business Day has a per Share value equal to the NAV as of such day and the assets included in the Basket Amount are valued in the same manner and on the same basis as the Trust’s NAV calculations for its assets. Creation orders received after 2:40 p.m. (New York time) are not deemed to be received until the following Business Day. In limited circumstances and subject to the approval of the Trustee, Baskets may be created for cash equal to the NAV of the Shares constituting a Basket as determined on the date the related creation order was received, plus the costs incurred by the Trust in establishing the corresponding Index Futures positions and acquiring the related Collateral Assets. Creation orders for Baskets paid for solely in cash that are received after 10:00 a.m. (New York time) will be deemed received as of the following Business Day. The Trustee notifies the Authorized Participants of the Basket Amount on each Business Day.
+ 
+ 
+3
+
+
+
+Before the Trust issues any Baskets to an Authorized Participant, that Authorized Participant must deliver to the Trustee a creation order indicating the number of Baskets it intends to purchase and providing other details with respect to the procedures by which the Baskets are to be transferred. The Trustee expects to acknowledge the creation order unless it or the Sponsor decides to refuse the order.
+ 
+Upon the transfer of (1) the required consideration of Index Futures in the amounts and of the type specified by the Trustee, and cash (or, in the discretion of the Sponsor, other Collateral Assets) in the amounts specified by the Trustee, in each case to the accounts specified by the Trustee and (2) all transaction fees associated with creations (including but not limited to fees charged by the Exchange and the Clearing FCM) per Basket, the Trustee will deliver the appropriate number of Baskets to the Depository Trust Company (“DTC”) account of the Authorized Participant. The total transaction fees charged per Basket created may change from time to time.
+ 
+Only Authorized Participants can transfer the required consideration and receive Baskets in exchange. Authorized Participants may act for their own accounts or as agents for broker-dealers, custodians and other securities market participants that wish to create or redeem Baskets. An Authorized Participant is under no obligation to the Trust to create or redeem Baskets for itself or on behalf of other persons. An order for one or more Baskets may be placed by an Authorized Participant on behalf of multiple clients. As of the date of this report, UBS Securities LLC, Credit Suisse Securities (USA) LLC, Goldman Sachs & Co., Goldman Sachs Execution & Clearing L.P. and J.P. Morgan Securities LLC are the only Authorized Participants. The Sponsor and the Trustee maintain a current list of Authorized Participants.
+
+No Shares are issued unless and until the Trustee receives confirmation that the required consideration has been received in the account or accounts specified by the Trustee. It is expected that delivery of the Shares will be made against transfer of consideration on the next Business Day following the Business Day on which the creation order is received by the Trustee, which is referred to as a T+1 settlement cycle. If the Trustee has not received the required consideration for the Shares to be delivered on the delivery date, by 11:00 a.m. (New York time), the Trustee may cancel the creation order.
+ 
+The Trustee has the right to reject any creation order for any reason. The reasons for the rejection may include, among others, (1) the related order not being in proper form as described in the Authorized Participant agreement, (2) market conditions or other circumstances that make transactions in or delivery of the Shares or the Index Futures impossible or impractical, (3) a determination by the Trustee that the acceptance of the related order would have adverse tax or other consequences to the Trust or the Shareholders or (4) circumstances that would cause the acceptance of the related order to result in a violation of law in the opinion of counsel to the Trustee, the Sponsor or the Trust Administrator. Each Authorized Participant agreement provides that neither the Trustee nor any agents acting on its behalf will be liable to any person for rejecting a creation order.
+ 
+Redemptions of Baskets
+ 
+Authorized Participants may typically surrender Baskets in exchange only for an amount of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) equal to the value of the Basket Amount on the Business Day the redemption request is received by the Trustee. Redemption orders received after 2:40 p.m. (New York time) are not deemed to be received until the following Business Day. Holders of Baskets who are not Authorized Participants are not able to redeem their Baskets except through an Authorized Participant. It is expected that Authorized Participants may redeem Baskets for their own accounts or on behalf of Shareholders who are not Authorized Participants, but no Authorized Participant is under any obligation to the Trust to do so.
+ 
+Before surrendering Baskets for redemption, an Authorized Participant must deliver to the Trustee a request indicating the number of Baskets it intends to redeem and providing other details with respect to the procedures by which the assets representing the required Basket Amount are to be transferred. The Trustee expects to acknowledge the redemption order unless it or the Sponsor decides to refuse the redemption order.
+ 
+After the delivery by the Authorized Participant to the Trust’s DTC account of the total number of Shares to be redeemed by an Authorized Participant, the Trustee delivers to the order of the redeeming Authorized Participant redemption proceeds consisting of Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets). The assets included in the redemption proceeds are valued in the same manner and on the same basis as the Trust’s NAV calculations for its assets. In connection with a redemption order, the redeeming Authorized Participant authorizes the Trustee to deduct from the proceeds of redemption any and all transaction fees associated with redemptions.
+ 
+It is expected that delivery of the Index Futures and cash or other Collateral Assets to the redeeming Shareholder will be made against transfer of the Baskets on the next Business Day following the Business Day on which the redemption request is received by the Trustee, which is referred to as a T+1 settlement cycle. If the Trustee’s DTC account has not been credited with the total number of Shares to be redeemed pursuant to the redemption order by 11:00 a.m. (New York time), on the delivery date, the Trustee may cancel the redemption order.
+ 
+The Trustee has the right to reject any redemption order for any reason. The reasons for the rejection may include, among others, (1) the related order not being in proper form as described in the Authorized Participant agreement, (2) market conditions or other circumstances that make transactions in or delivery of the Shares or the Index Futures impossible or impractical, (3) a determination by the Trustee that the acceptance of the related order would have adverse tax or other consequences to the Trust or the Shareholders or (4) circumstances that would cause the acceptance of the related order to result in a violation of law in the opinion of counsel to the Trustee, the Sponsor or the Trust Administrator. Each Authorized Participant agreement provides that neither the Trustee nor any agents acting on its behalf will be liable to any person for rejecting a redemption order.
+ 
+Custody of the Trust Assets
+ 
+The Trust’s Index Futures and the Collateral Assets posted as margin for these Index Futures positions are held in the Trust’s account, established at its Clearing FCM. The Clearing FCM further transfers some or all of the Collateral Assets posted as margin for the Trust’s Index Futures positions to the Exchange.
+ 
+Substantially all of the Trust’s remaining assets consist of Collateral Assets held in the Trust’s accounts at the Trust Administrator.
+ 
+ 
+4
+
+
+
+Futures Contracts on the Bloomberg Roll Select CI
+ 
+The assets of the Trust consist of Index Futures and cash or other Collateral Assets used to satisfy applicable margin requirements for those Index Futures positions. Index Futures are exchange-traded index futures contracts on the Bloomberg Roll Select CI, and may include contracts of different terms and expirations. The Trust is expected to roll out of existing positions in Index Futures and establish new positions in Index Futures on an ongoing basis. Index Futures subsequently acquired by the Trust may have terms that differ from those of the Index Futures it currently holds, including transaction fees associated with the purchase and sale of these Index Futures. 
+  
+Creation and redemption of interests in the Trust are generally effected through exchanges for related positions (“EFRPs”). EFRPs involve contemporaneous transactions in futures contracts and the underlying cash commodity or a closely related commodity. In a typical EFRP, the participant taking the long position on the futures contract transfers the underlying commodity or other related position to the participant taking the short position on the futures contract. The Exchange on which Index Futures trade permits the execution of EFRPs consisting of simultaneous transfers of Index Futures and Shares. This mechanism generally is expected to be used by the Trust in connection with the creation and redemption of Baskets. 
+ 
+Specifically, it is anticipated that an Authorized Participant requesting the creation of additional Baskets typically will transfer Index Futures and cash (or, in the discretion of the Sponsor, other Collateral Assets) to the Trust in return for Shares. If an EFRP is executed in connection with the redemption of one or more Baskets, an Authorized Participant transfers to the Trust the Shares being redeemed and the Trust transfers to the Authorized Participant Index Futures and cash or other Collateral Assets. The Trust may include Index Futures with different terms and expirations in the creation and redemption of Baskets and the Index Futures included in creation Baskets may differ from those included in redemption Baskets. 
+ 
+With the approval of the Sponsor, Baskets may also be created or redeemed for cash, in which case the Authorized Participant will be responsible for the costs incurred by the Trust in establishing or liquidating the corresponding Index Futures position and acquiring or disposing of the related Collateral Assets.
+ 
+
+The Index, the Bloomberg CI and the Bloomberg Roll Select CI
+ 
+This section contains a description of the Index, the Bloomberg CI and the Bloomberg Roll Select CI. All information regarding the Index, the Bloomberg CI and the Bloomberg Roll Select CI contained in this report, including their respective compositions, methods of calculation, changes in their constituent components and historical performance, has been derived from information published or provided by the Index Providers and has not been independently verified.
+ 
+The Bloomberg Commodity IndexesSM are a joint product of Bloomberg and UBS Securities and have been licensed for use for certain purposes by the Trust. Bloomberg® is a trademark of Bloomberg and has been licensed for use for certain purposes by the Trust.
+ 
+The Index Providers 
+ 
+The Shares are not sponsored, endorsed, sold or promoted by the Index Providers in their capacities as such. None of the Index Providers, in their capacities as such, makes any representation or warranty, express or implied, to the owners of or counterparts to the Shares or any member of the public regarding the advisability of investing in securities or commodities generally or in the Shares particularly. The only relationship of the Index Providers, in their capacities as such, to the Trust is the licensing of certain trademarks, trade names and service marks and of the Index and the Bloomberg Roll Select CI, which is determined, composed and calculated by Bloomberg without regard to the Trust or the Shares. Bloomberg and the Index Committees may not take the needs of the Trust or the Shareholders into consideration in determining, composing or calculating the Index or the Bloomberg Roll Select CI. None of the Index Providers is directly responsible for or has participated in the determination of the timing of, prices at, or quantities of the Shares to be issued or in the determination or calculation of the equation by which the Shares are to be converted into cash, surrendered or redeemed, as the case may be. The Index Providers, in their capacities as such, are not responsible for the administration, marketing or trading of the Shares. Notwithstanding the foregoing, UBS Securities and its respective subsidiaries and affiliates may independently issue and/or sponsor financial products unrelated to the Shares currently being issued by the Trust, but which may be similar to and competitive with the Shares. In addition, UBS Securities and its subsidiaries and affiliates actively trade commodities, commodity indexes and commodity futures (including the Index and the Bloomberg Roll Select CI), as well as swaps, options and derivatives which are linked to the performance of such commodities, commodity indexes and commodity futures. It is possible that this trading activity will affect the value of the Index, the Bloomberg Roll Select CI and Shares.
+ 
+Purchasers of the Shares should not conclude that the inclusion of a futures contract in the Index is any form of investment recommendation of the futures contract or the underlying exchange-traded physical commodity by any Index Provider or any of their subsidiaries or affiliates. None of the Index Providers or any of their subsidiaries or affiliates has made any due diligence inquiries with respect to the futures contracts or physical commodities underlying the Index in connection with the Shares being offered hereby. None of the Index Providers or any of their subsidiaries or affiliates makes any representation that any information relating to the futures contracts or commodities underlying the Index contained in this report or any other publicly available information relating to such futures contracts or commodities, including, without limitation, a description of the factors that affect the prices of such futures contracts or commodities, are accurate or complete. 
+ 
+None of the Index Providers or any of their subsidiaries or affiliates guarantees the accuracy and/or completeness of the Index or any data related thereto and none of the Index Providers or any of their subsidiaries or affiliates shall have any liability for any errors, omissions or interruptions therein. None of the Index Providers or any of their subsidiaries or affiliates makes any warranty, express or implied, as to results to be obtained by the Trust, owners of Shares or any other person or entity from the use of the Index or any data related thereto. None of the Index Providers or any of their subsidiaries or affiliates makes any express or implied warranties and expressly disclaims all warranties of merchantability or fitness for a particular purpose or use with respect to the Index or any data related thereto. Without limiting any of the foregoing, in no event shall any Index Provider or any of their subsidiaries or affiliates have any liability for any lost profits or indirect, punitive, special or consequential damages or losses, even if notified of the possibility thereof.
+ 
+ 
+5
+
+
+
+The following summary with respect to the Index, the Bloomberg CI and the Bloomberg Roll Select CI has been prepared based on the Bloomberg Commodity IndexSM Methodology, dated as of December 2016 (the “Index Methodology”) and fact sheets, methodologies and other materials available publicly or otherwise provided by the Index Providers, and is subject to change. The Index Providers together own the rights to the Index, the Bloomberg CI and the Bloomberg Roll Select CI. The Index Providers have no obligation to consider the interests of holders of Shares in the Trust and have no obligation to continue to publish, and may discontinue the publication of, the Index, the Bloomberg CI or the Bloomberg Roll Select CI. 
+ 
+Current information regarding the market values of the Index, the Bloomberg CI and the Bloomberg Roll Select CI is currently distributed by major market data vendors, and is available from numerous sources, including at www.bloombergindexes.com. None of the Sponsor, the Advisor, the Trustee or the Trust makes any representation that such information about the Index, the Bloomberg CI or the Bloomberg Roll Select CI is accurate or complete. In addition, none of the Sponsor, the Advisor, the Trustee or the Trust accepts any responsibility for the calculation, maintenance or publication of, or for any error, omission or disruption in, the Index, the Bloomberg CI or the Bloomberg Roll Select CI. 
+ 
+Overview 
+ 
+The Index is the total return version of the Bloomberg Roll Select CI and reflects the returns of the Bloomberg Roll Select CI together with the returns from specified U.S. Treasury securities intended to reflect the returns of assets held to fully collateralize the futures contracts reflected in the Bloomberg Roll Select CI. The Bloomberg Roll Select CI itself is a version of the Bloomberg CI that incorporates the economic effect of an alternative rolling methodology, as described in more detail below. The Bloomberg CI itself forms the base commodities index from which the Bloomberg Roll Select CI and the Index are derived. Set forth below is a description of the how the Bloomberg CI is determined and calculated, a description of how the Bloomberg Roll Select CI is derived from the Bloomberg CI, and finally, a description of how the Index is derived from the Bloomberg Roll Select CI.
+The Bloomberg CI 
+ 
+The Bloomberg CI, from which the Bloomberg Roll Select CI is based, was created by AIG International Inc. in 1998 and acquired by UBS Securities in May 2009, at which time UBS Securities and Dow Jones Trademark Holdings, LLC entered into a joint marketing agreement to market the Dow Jones-UBS Commodity Index and related indexes. Dow Jones Trademark Holdings, LLC subsequently assigned its interest in the joint marketing agreement to DJI Opco, LLC. In 2014 the joint marketing agreement was terminated and UBS AG, UBS Securities and their affiliates (“UBS”) entered into a Commodity Index License Agreement with Bloomberg. Under the Commodity Index License Agreement, Bloomberg, on behalf of UBS Securities, calculates the Bloomberg CI and related indices and sub‑indices, including the Index and the Bloomberg Roll Select CI.
+ 
+The Bloomberg CI is a benchmark index composed of futures contracts on physical commodities, the selection and weighting of which are generally determined based on a lagging five-year average of the trading volume, adjusted by the historic U.S. dollar value of the futures contract being considered for inclusion in the index, and a lagging five-year average of production figures, adjusted by the historic U.S. dollar value of the related futures contracts, for the underlying commodities. The 24 commodities currently eligible for inclusion in the Bloomberg CI are: 
+ 
+
+Aluminum | Lead | Soybean Oil 
+----------+--------------+------------------
+Cocoa | Lean Hogs | Soybeans 
+Coffee | Live Cattle | Sugar 
+Copper | Natural Gas | Tin 
+Corn | Nickel | ULS Diesel 
+Cotton | Platinum | Unleaded Gasoline
+Crude Oil | Silver | Wheat 
+Gold | Soybean Meal | Zinc 
+
+  
+There are 20 commodities currently represented in the Bloomberg CI. Cocoa, lead, platinum and tin are the four eligible commodities which are not currently represented in the Bloomberg CI. For each of the 20 included commodities, specified futures contracts with specified delivery dates are designated for inclusion in the Bloomberg CI. The Bloomberg CI is reweighted and rebalanced annually, on a price-percentage basis, to reflect changes in trading volume and production figures. The selection and weighting of the Bloomberg CI’s constituents and its index methodology is intended to reflect the following four main principles: 
+ 
+
+● | Economic Significance. In order to achieve a fair representation of the relative importance of a diversified group of commodities to the world economy, the Bloomberg CI uses both liquidity data and U.S. dollar-weighted production data in determining the relative quantities of included commodities that are reflected in the calculation of the Bloomberg CI. Liquidity data reflects the amount of trading volume in the futures contracts on a commodity as a measure of the economic significance of that commodity, which is particularly relevant for storable commodities such as gold, the production figures for which do not reflect their economic importance relative to relatively non-storable commodities such as live cattle.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Diversification. In order to avoid disproportionate weighting of any particular commodity or sector, the Bloomberg CI tries to provide diversified exposure to commodities as an asset class by applying both minimum and maximum weights to component commodities and sectors.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continuity. In order to be responsive to the changing nature of commodity markets without completely reshaping the character of the Bloomberg CI from year to year, the Bloomberg CI seeks a balanced approach to provide a stable benchmark over time, through a combination of annual re-balancing, five‑year averaging of liquidity and production data, diversification rules for constituent commodities and other index features.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Liquidity. In order to provide a more liquid index, the Bloomberg CI explicitly includes the liquidity of the underlying commodities futures contracts as a weighting factor.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Bloomberg CI reflects the increased or decreased return associated with rolling futures contracts. Because futures contracts have scheduled expirations, or delivery months, and as one contract nears expiration it becomes necessary to close out the position in that delivery month and establish a position in a later available delivery month. This process is referred to as rolling the position forward. Rolls are traditionally accomplished by selling the position in the closest delivery month and purchasing a position of equivalent value in a later applicable delivery month. Markets for futures contracts can be in backwardation, which means that futures contracts with distant delivery months are priced lower than those with nearer delivery months, or can exhibit contango, which means that futures contracts with distant delivery months are priced higher than those with nearer delivery months. 
+ 
+ 
+6 
+
+
+ 
+As part of this roll process the weights applied to expiring futures contracts are reduced while correspondingly, the weights applied to the futures contracts that are replacing expiring futures contracts are increased. This roll simulation is generally conducted at the beginning of each month over the course of five business days, lasting from the sixth business day until the tenth business day of each month. The Bloomberg CI conducts its roll simulations each month by rolling out of the designated futures contracts expiring in that month and rolling into those designated futures contracts with the next closest designated delivery month. 
+ 
+The Bloomberg Roll Select CI 
+ 
+The Index Futures in which the Trust is investing are based on the Bloomberg Roll Select CI. The Bloomberg Roll Select CI is a version of the Bloomberg CI that tries to mitigate the effects of contango arising from the rolling process. Rather than incorporating the economic effect of rolling into the front-month futures contracts, the Bloomberg Roll Select CI incorporates the economic effect of rolling into applicable futures contracts that exhibit the least contango or, if applicable, the most backwardation, in each case relative to the contracts of the immediately preceding delivery month. 
+ 
+The Bloomberg Roll Select CI implements its rolling methodology by selecting from the eligible contracts for each commodity on its applicable contract selection date, the contract that exhibits the greatest amount of backwardation or least amount of contango, on an annualized basis, relative to the contract with the immediately preceding delivery date on the same commodity. This is accomplished by first dividing the price of each eligible contract from the price of the contract immediately preceding such eligible contract, to determine the percentage difference between the two prices. Because this price difference may be affected by the relative time between the eligible contract and its immediately preceding contract, this price difference is multiplied by 365 and divided by the number of actual days between the delivery dates of the two contracts, to arrive at a measure of the relative annualized contango/backwardation, (the “annualized spread”) exhibited between the eligible contract and the contract immediately preceding it. Based on a comparison of these annualized spreads, the eligible contract that has the highest annualized spread relative to its immediately preceding contract is the one selected as the contract for the Bloomberg Roll Select CI to establish new positions in. This roll selection process generally occurs every month on the fourth business day of the month. 
+ 
+The Bloomberg Roll Select CI utilizes a different designated contract selection process than the Bloomberg CI, and as a result the futures contracts comprising the Bloomberg Roll Select CI at any particular time may have different delivery months than those comprising the Bloomberg CI, and the levels of the Bloomberg Roll Select CI and the Bloomberg CI may correspondingly differ. In addition, as a result of this difference in rolling processes, both the performance of the Bloomberg Roll Select CI and the Bloomberg CI and the dollar-value weights of their respective underlying futures contracts are expected to differ over time. 
+  
+Although the Bloomberg Roll Select CI’s roll process is designed to mitigate the effects of contango and to take advantage of the effects of backwardation, there can be no assurance that the futures contracts selected for inclusion in the Bloomberg Roll Select CI will outperform the futures contracts selected for inclusion in the Bloomberg CI. For example, it is possible that the contracts included in the Bloomberg Roll Select CI could experience less appreciation or greater depreciation than the contracts included in the Bloomberg CI, particularly when the price of a contract included in either index is influenced by changing expectations of future supply and demand for the related commodity for such contract’s specific delivery month. Since the Bloomberg Roll Select CI tends to roll into futures contracts that demonstrate less contango or more backwardation relative to the futures contracts with delivery dates immediately preceding such futures contracts, the Bloomberg Roll Select CI may exhibit a tendency to roll into contracts exhibiting relatively lower pricing due to seasonal dips in the delivery month of the selected contract, seasonal upswings in the delivery month of the immediately preceding contract or short-term supply or demand shocks affecting either delivery month, without regard to whether the selected contract would be expected to appreciate relative to the contract expiring immediately before it. Additionally, the frequency with which the Bloomberg Roll Select CI rolls its futures contracts is expected to differ from that of Bloomberg CI. Due to these differences in the roll methodology, the Bloomberg Roll Select CI and the Index may not have the same individual component weights as the Bloomberg CI. 
+ 
+The Index 
+ 
+The Index is designed to reflect the returns on a fully collateralized investment in the Bloomberg Roll Select CI, by combining the returns of the Bloomberg Roll Select CI with the returns on cash collateral invested in three-month U.S. Treasury bills. 
+Bloomberg CI Index Composition and Methodology 
+ 
+The methodology for determining the composition and weighting of the Bloomberg CI and for calculating its value is subject to modification by Bloomberg or the Index Committees. Bloomberg makes the official calculations of the value of the Bloomberg CI. At present, this calculation is performed every fifteen seconds. 
+The Index Committees
+ 
+Bloomberg has established a Benchmark Oversight Committee (the “BOC”), which is the uppermost governance body with respect to the Bloomberg CI and consists of senior representatives from various Bloomberg business units. Voting members of the BOC do not directly participate in the index business.
+ 
+The BOC meets on a quarterly basis to review matters such as material risks, conflicts of interest, industry developments, client complaints and material index errors and restatements. To assist in its oversight, the BOC has established the Index Operating Subcommittee (the “IOS,” and together with the BOC, the “Index Committees”).
+ 
+The IOS is composed of senior benchmark and strategy index managers designated by the BOC. Members include Bloomberg personnel with significant index experience. The IOS meets at least monthly to address address matters such as new index approvals, periodic review of existing indices, index pricing, management of errors and restatements, identification and management of actual and potential conflicts of interest, approvals of changes to indices and approvals of cessation of indices.
+ 
+The IOS also consults with Index Advisory Councils on certain matters, as described below. The IOS reports to the BOC at least quarterly on all matters delegated to it.
+   Index Advisory Councils are composed of key market participants and other influential individuals to assist Bloomberg in setting index priorities, to discuss potential rules changes and to provide ideas for new products. Index Advisory Councils are generally constituted on an annual basis. While potential benchmark changes are discussed through this process, all feedback received is non-binding and all final decisions on benchmark index rules are made by the IOS (subject to BOC review) after the review period has ended. Members of Index Advisory Councils may include individuals with past or present relationships with the Sponsor, the Clearing FCM, an Authorized Participant, other entities involved with the operation of the Trust or their respective affiliates, such as past or present directors or officers of the foregoing entities.
+ 
+ 
+ 7
+
+
+  Index administration is subject to Bloomberg’s internal compliance function which periodically reviews various aspects of Bloomberg’s businesses in order to determine whether such businesses are adhering to applicable firm-wide policies and procedures, and assess whether applicable internal controls are functioning properly.
+ 
+Determination of Bloomberg CI Index Constituents 
+ 
+The composition of the Bloomberg CI is rebalanced by Bloomberg each year pursuant to the procedures set forth in the Index Methodology by index managers operating under the supervision of the Index Committees. Any material deviations or changes from established procedures are subject to review by the Index Committees. In addition, to the extent practicable, Bloomberg may solicit stakeholder feedback, including by means of the Index Advisory Council. Once approved, the new composition of the Bloomberg CI is publicly announced and takes effect in the month of January immediately following the announcement.
+ 
+The relative weight of a commodity eligible for inclusion in the Bloomberg CI, called its “CIP,” or its commodity index percentage, is initially determined based on (1) the relative production percentages of the commodities eligible for inclusion in the Bloomberg CI and (2) the relative liquidity of the futures contracts that Bloomberg has designated as the eligible reference contracts for those commodities. This initial CIP calculation is then adjusted to give effect to caps and floors on such CIPs and to adjust the weights for gold and silver, the relative production numbers of which are assumed to understate their economic significance. 
+ 
+The initial commodity production percentage of a commodity (“CPP”) is determined for each commodity by taking the five-year average of production figures for the related commodity, adjusted by the historic U.S. dollar value of the related designated contract, and dividing the result by the sum of such products for all eligible commodities. For natural gas, only North American production is used, to reflect the regional nature of this commodity. In cases where there is more than one designated contract for a particular commodity, this measurement is initially allocated to only one designated contract. There will typically be some time lag with respect to the production numbers that are reflected in the Bloomberg CI, because production data can often only be obtained on a delayed basis for many commodities. 
+ 
+This initial CPP calculation is then allocated to the designated contract or contracts corresponding to each commodity. In order to avoid double-counting commodities in the same commodity sector (e.g., a primary commodity and the commodity or commodities that are derived from such primary commodity), and to avoid double-counting in any commodity with more than one designated contract, the final CPPs of designated contracts within the same commodity sector are calculated by allocating among such designated contracts the initial CPP calculated for the primary commodity in such sector, based on the commodity liquidity percentages (as calculated below) for each designated contract for the commodities within that sector. As of the date of the Index Methodology, there were two commodity sectors represented in the Bloomberg CI – the first consisting of Crude Oil (WTI and Brent) as the primary commodity, with ULS Diesel and RBOB Gasoline as its derivatives, and the second consisting of Soybeans as the primary commodity, with Soybean Oil and Soybean Meal as its derivatives. In addition, two commodities were represented by more than one designated contract as of the date of the Index Methodology, with crude oil represented by the contract for Light, Sweet Crude Oil (WTI) traded on NYMEX and the contract for Brent Crude Oil traded on ICE, and wheat represented by the contract for Soft Wheat (Chicago) traded on CBOT and Hard Red Winter Wheat (Kansas) traded on KCBT. 
+ 
+The commodity liquidity percentage (“CLP”) for each designated contract is determined by taking a five-year average of the product of annual trading volume (adjusting for the number of applicable units of the commodity, e.g., barrels or metric tons, per contract) of such designated contract and the related historic U.S. dollar value for such contract, and dividing the result by the sum of such products for all designated contracts. The historic annual volume data used to calculate CLP for each designated contract for the Bloomberg CI is an average computed on the basis of historical annual volume data for the five years up to and including the year prior to the applicable calculation period, typically the third or fourth calendar quarter of the year preceding such year of calculation. In some cases, such as copper, the related CLP may be calculated using the trading volume for a contract other than the designated contract, and certain adjustments are made to LME contracts to reflect differences in their trading hours and the time periods during which they may be traded. In addition, as in the case of crude oil and wheat, more than one reference contract may be designated for a particular commodity.
+ 
+The initial CIP for each designated contract is equal to 1/3×CPP + 2/3×CLP for that designated contract. In order to calculate the final CIPs, the following further adjustments are made: 
+ 
+
+● | First, any designated contract with a CIP of less than 0.4% is reduced to zero;
+--+--------------------------------------------------------------------------------
+
+
+● | Second, if any commodity sector (as described above) consists of designated contracts with CIPs totaling more than 25%, the CIPs of such designated contracts are reduced such that the total of such CIPs equal 25%;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Third, if the CIP (or combined CIPs, in the case of a commodity with more than one designated contract) of the designated contract(s) for any particular commodity is greater than 15%, such CIP (or the total of the combined CIPs) is reduced to 15%;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fourth, if any commodity group (as described below) consists of designated contracts with CIPs totaling more than 33%, the CIPs of such designated contracts are reduced such that the total of such CIPs equals 33%;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Fifth, the CIPs for the designated contracts for each of gold and silver are set to equal the lesser of its CLP and 15%;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sixth, any designated contract with a CIP of less than 2% is increased to 2%; and
+--+----------------------------------------------------------------------------------
+
+
+● | Seventh, if any designated contract has a ratio of CIP (after giving effect to the first six steps above) to CLP greater than 3.5, its CIP is reduced so that it equals the CIP that would cause the CIP to CLP ratio to equal 3.5, which may reduce the CIP of a designated contract to below 2%.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+For each of the first six steps above, in order to keep the sum of the CIPs for each of the commodities equal to 100% after each step is completed, the aggregate adjustment to the CIPs of affected designated contracts is accompanied by a corresponding increase or reduction, as applicable, that is allocated equally to the CIPs of the other commodity sectors (then, if applicable, further allocated equally to the designated contracts within such commodity sector), other than those eliminated under step one or capped under steps two through four. For the seventh and final step, the aggregate reduction in CIP resulting from this step is accompanied by a corresponding increase, allocated equally to the CIPs of the designated contracts still in the Bloomberg CI with CIP to CLP ratios below 2.0, other than those capped under steps two through four.
+
+ 
+8
+
+
+
+Any CIP reduction to a commodity with more than one designated contract is allocated equally among such commodity’s designated contracts. Any aggregate reduction to a commodity sector or commodity group under steps two or four is allocated to the designated contracts within such commodity sector or commodity group to preserve the relative weights of the CIPs of the designated contracts within such commodity sector or commodity group as calculated immediately prior to making any adjustments under such step. For the purposes of step four, the current commodity groups for commodities eligible for inclusion in the Bloomberg CI are as follows: 
+
+
+Commodity Group: | Commodities: 
+------------------+---------------------------
+Energy | Crude Oil (WTI and Brent) 
+ | Natural Gas 
+ | ULS Diesel 
+ | Unleaded Gasoline 
+Precious Metals | Gold 
+ | Platinum 
+ | Silver 
+Industrial Metals | Aluminum 
+ | Copper 
+ | Lead 
+ | Nickel 
+ | Tin 
+ | Zinc 
+Livestock | Live Cattle 
+ | Lean Hogs 
+Grains | Corn 
+ | Soybeans 
+ | Soybean Oil 
+ | Soybean Meal 
+ | Wheat (Chicago and Kansas)
+Softs | Cocoa 
+ | Coffee 
+ | Cotton 
+ | Sugar 
+
+ 
+The commodities and related designated contracts currently included in the Bloomberg CI and their respective CIPs as of January 31, 2017 are as follows: 
+ 
+
+Commodity | Designated Contract | Exchange | Units | Price Quote | CIP | 
+----------------------+---------------------------------------------+----------+----------------+-------------------+-------+--
+Aluminum | High Grade Primary Aluminum | LME | 25 metric tons | USD/metric ton | 4.57 | %
+Coffee | Coffee “C” | ICE | 37,500 lbs | U.S. cents/pound | 2.38 | 
+Copper | Copper | COMEX | 25,000 lbs | U.S. cents/pound | 7.59 | 
+Corn | Corn | CBOT | 5,000 bushels | U.S. cents/bushel | 7.41 | 
+Cotton | Cotton | ICE | 50,000 lbs | U.S. cents/pound | 1.45 | 
+Crude Oil | Brent Crude Oil | ICE | 1,000 barrels | USD/barrel | 7.82 | 
+Crude Oil | WTI Crude Oil | NYMEX | 1,000 barrels | USD/barrel | 7.18 | 
+Gold | Gold | COMEX | 100 troy oz. | USD/troy oz. | 11.17 | 
+Lean Hogs | Lean Hogs | CME | 40,000 lbs | U.S. cents/pound | 2.09 | 
+Live Cattle | Live Cattle | CME | 40,000 lbs | U.S. cents/pound | 3.98 | 
+Natural Gas | Henry Hub Natural Gas | NYMEX | 10,000 mmbtu | USD/mmbtu | 7.98 | 
+Nickel | Primary Nickel | LME | 6 metric tons | USD/metric ton | 2.54 | 
+Silver | Silver | COMEX | 5000 troy oz. | USD/troy oz. | 4.11 | 
+Soybeans | Soybeans | CBOT | 5,000 bushels | U.S. cents/bushel | 5.84 | 
+Soybean Meal | Soybean Meal | CBOT | 100 short tons | USD/short ton | 2.90 | 
+Soybean Oil | Soybean Oil | CBOT | 60,000 lbs | U.S. cents/pound | 2.81 | 
+Sugar | World Sugar No. 11 | ICE | 112,000 lbs | U.S. cents/pound | 3.40 | 
+ULS Diesel | ULS Diesel | NYMEX | 42,000 gallons | U.S. cents/gallon | 3.83 | 
+Unleaded Gasoline | Reformulated Blendstock for Oxygen Blending | NYMEX | 42,000 gallons | U.S. cents/gallon | 3.76 | 
+Wheat | CBOT Wheat | CBOT | 5,000 bushels | U.S. cents/bushel | 3.32 | 
+Wheat | KCBT Wheat | KCBT | 5,000 bushels | U.S. cents/bushel | 1.18 | 
+Zinc | Special High Grade Zinc | LME | 25 metric tons | USD/metric ton | 2.69 | 
+
+
+
+
+ 
+9
+
+
+
+Calculation of the Bloomberg CI 
+ 
+The level of the Bloomberg CI was set to be equal to 100 as of December 31, 1990. Subsequent levels of the Bloomberg CI are determined by multiplying the level of the Bloomberg CI as of the previous day by a fraction equal to (1) the weighted average value (“WAV”) of the Bloomberg CI as of the current day divided by (2) the WAV of the Bloomberg CI as of the previous day, subject to adjustment for roll periods as described below. The WAV of the Bloomberg CI on any given day is calculated by summing the products of the settlement prices of the designated contracts for each commodity multiplied by the commodity index multiplier (“CIM”) of such designated contract. 
+ 
+The CIMs of the designated contracts in the Bloomberg CI are determined annually, generally on the fourth business day of each year (the “CIM Determination Date”). On the CIM Determination Date, initial CIMs (“ICIMs”) are calculated for each designated contract by multiplying such contract’s CIP by 1,000, then dividing such product by the contract’s settlement price as of the CIM Determination Date. To determine the final CIM for each designated contract for the new year, each ICIM is multiplied by an adjustment factor, which is a fraction equal to (1) the WAV of the Bloomberg CI as of the CIM Determination Date, as calculated using the CIMs from the prior year, divided by (2) 1,000. This adjustment factor is intended to preserve WAV continuity from one year to the next. 
+ 
+During roll periods, which generally occur during the sixth through tenth business days of each month, the level of the Bloomberg CI is calculated using a blended WAV formula that reflects the fact that the Bloomberg CI is rolling out of expiring contracts and into replacement contracts. The WAV associated with the existing index components (the “Old WAV”) begins weighted at 100% as of the business day preceding the roll period and decreases by 20% on each subsequent business day until reduced to zero; it has no further effect on the level of the Bloomberg CI by the fifth business day of such roll period. The WAV associated with the new index components (the “New WAV”) begins weighted at 0% as of the business day preceding the roll period and increases by 20% on each subsequent business day such that by the fifth business day of such roll period, the level of the Bloomberg CI is determined based entirely on the New WAV. 
+ 
+Accordingly, during a roll period, the level of the Bloomberg CI on any given day can be calculated as the product of the level of the Bloomberg CI as of the previous day, multiplied by a fraction equal to: (1) Old WAV× (1-0.2n) + New WAV × (0.2n), using the Old WAV and New WAV values as of such day, divided by (2) Old WAV × (1-0.2n) + New WAV × (0.2n), using the Old WAV and New WAV values as of the previous day. The variable “n” in this equation represents the number of business days that have elapsed for such roll period through and including the relevant date of determination.
+ 
+Calculation of the Bloomberg Roll Select CI 
+ 
+The Bloomberg Roll Select CI will be calculated using the same general methodology as the Bloomberg CI and using the same CIPs and CIMs used in connection with calculating the Bloomberg CI. However, because the roll process for the Bloomberg Roll Select CI is different from that of the Bloomberg CI, its constituent futures contracts may differ from those included in the Bloomberg CI. This difference is expected to cause the dollar-value weights and the weighted average value of the futures contracts included in each index to differ over time, and, as a result, cause the performance of the two indices to diverge. 
+ 
+Calculation of the Index 
+ 
+The Index combines the returns of the Bloomberg Roll Select CI with assumed returns on U.S. Treasury securities calculated based on the most recent weekly auction high rate for 13 week (3 Month) U.S. Treasury bills, as reported on the website www.treasurydirect.gov published by the Bureau of the Public Debt of the U.S. Treasury, or any successor source. The level of the Index, which was set at a hypothetical level of 100 as of December 31, 1990, can be calculated on any given day as the product of the level of the Index as of the previous day, multiplied by the sum of (1) 1.00 plus (2) the positive or negative percentage return on the Bloomberg Roll Select CI on such day plus (3) the daily return based on the auction high rate for 13 week (3 month) U.S. Treasury bills described above.
+ 
+

@@ -1,0 +1,107 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+General
+ 
+Since 1983, Helios and Matheson Analytics Inc. (“Helios and Matheson”, the “Company”, “we”, “us” or “our”) has provided high quality information technology, or IT, services and solutions to Fortune 1000 companies and other large organizations. The Company offers its clients an enhanced suite of services of predictive analytics with technology at its foundation enriched by data science. The Company is headquartered in New York City and has an office in Bangalore India. The Company's common stock is listed on The NASDAQ Capital Market (“NASDAQ”) under the symbol “HMNY”. Our website address is www.hmny.com. Information on our website is not a part of this report.
+Change in Controlled Company Status
+ 
+Prior to the merger between our wholly-owned subsidiary, Zone Acquisition, Inc. (“Zone Acquisition”), and Zone Technologies, Inc. (“Zone”), as described below, we were a controlled company as defined by Rule 5615(c)(1) of the NASDAQ Listing Rules because Helios and Matheson Information Technology Ltd., our former parent (referred to in this report as “HMIT”), was the beneficial owner of approximately 75% of our outstanding common stock. Upon consummation of the merger on November 9, 2016, we ceased to be a controlled company.
+Merger with Zone Technologies, Inc.
+ 
+On November 9, 2016 (the “Closing Date”), we completed the merger contemplated by the previously disclosed Agreement and Plan of Merger, dated as of July 7, 2016, among us, Zone and Zone Acquisition, as amended by the Waiver and First Amendment to Agreement and Plan of Merger dated as of August 25, 2016 and the Acknowledgment of Satisfaction of Condition and Second Amendment to Agreement and Plan of Merger, dated as of September 21, 2016 (collectively, the “Merger Agreement”).
+ 
+On the Closing Date, we issued 1,740,000 shares of our common stock as merger consideration pursuant to the Merger Agreement, which represented an exchange ratio of 0.174 shares of our common stock for each share of Zone common stock outstanding, and Zone Acquisition, our wholly-owned subsidiary, was merged into Zone, with Zone surviving the merger as our wholly-owned subsidiary.
+ 
+Zone is the developer of the proprietary RedZone Map, a GPS-driven, real-time crime and navigation map application whose goal is to enhance personal safety worldwide by providing users with real time crime data and a platform for alerting other users to criminal and other safety related occurrences in a navigation map format. Zone’s mapping lets users be pro-active when traveling, allowing them to enter a number of different cautionary items such as traffic problems, police sightings, road hazards, accidents and road closures. It also allows users to report a crime and to video upload live incidents.
+ 
+Zone’s business model has four components. The first component is providing user access to public safety information. Zone’s goal is to enhance the personal safety of its users by providing crime data to anyone using a mobile or stationary mapping application for navigation. Zone also provides tools for examining such things as neighborhoods for possible relocation, schools to attend, travel planning and lodging selection. The second component, when implemented, will provide enterprise business solutions, such as choosing a route for trucking and delivery services based on crime mapping analytics. The third component, when implemented, will be geared towards providing law enforcement agencies with tools to better understand crime patterns and to engage with their jurisdiction(s) more meaningfully. The fourth component, when implemented, will be to work with governmental agencies using advanced mapping and geo-fencing for counter-terrorism efforts.
+ 
+While RedZone Map is a fully functioning app available for free in the Apple App Store and the Google Play Store, we have not yet derived any advertising revenues from the app and we do not expect to begin to derive revenues until the second half of 2017.
+ 
+ 
+1
+
+
+
+Industry Background
+ 
+Rapid technological advances and the wide acceptance and use of the Internet as a driving force in commerce accelerated the growth of the IT industry. These advances, including more powerful and less expensive computer technology, fueled the transition from predominantly centralized mainframe computer systems to open and distributed computing environments and the advent of capabilities such as relational databases, imaging, software development productivity tools, and web-enabled software. These advances expand the benefits that users can derive from computer-based information systems and improve the price-to-performance ratios of such systems. As a result, an increasing number of companies are employing IT in new ways, often to gain competitive advantages in the marketplace, and IT services have become an essential component of many companies’ long-term growth strategies. The same advances that have enhanced the benefits of computer systems rendered the development and implementation of such systems increasingly complex, popularizing the partnering with IT service providers like us for application development, support and related services.
+ 
+In the past 6 to 8 years, we have seen a significant change in the volume, velocity and variety of data due to emerging technologies in computing power and with the proliferation and use of smart phones. This has unleashed the potential of Big Data, a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications. The amount of data in the world is growing fast. Traditional digital databases are challenged to capture, store, search, share, analyze, and visualize this data deluge. Companies are relentlessly innovating to satisfy the increasingly demanding 21st century customer who lives many lives at once – online, mobile, global, local, blurring the lines between work and play, spoilt for choice and hungry for meaning and connection. It is now essential for businesses and IT organizations to work hand-in-hand to leverage the potential of Big Data – deepen customer engagement, realize operational efficiencies and institutionalize data driven decision making.
+ 
+Strategy 
+ 
+We endeavor to provide high-quality, value-based offerings in the areas of application value management, application development, integration, independent validation, infrastructure and information management and analytics services. We believe that our integrated service of Big Data technology, advanced analytics, extensive domain expertise in the areas of financial services and healthcare, including engaging data visualization, empowers our clients to unlock the value of data to make better decisions. We believe that our intense focus on client satisfaction, business aware solutions and guaranteed delivery provides tangible business value to our client base across banking, financial services, insurance and healthcare verticals.
+ 
+Our goal is to realize consistent growth and competitive advantage through the following strategic initiatives:
+ 
+Expand Existing Client Market Share. We are endeavoring to expand our penetration and market share within our existing client base through client focused sales and marketing initiatives allowing us to offer existing clients a broad suite of technology and analytics services.
+ 
+Expand Client Base. One of our goals is to expand our client base, particularly in the financial services sector. We are endeavoring to broaden the geography of our client base by offering services to many of our existing clients in their offices outside of New York and New Jersey and using such contacts as a gateway into new geographies. During the second quarter of 2016, we began working with credit unions in Silicon Valley, California to transform their current systems to include data analytics and insights that will enhance the customer experience and modernize their legacy systems. We are also working with Terafina to implement an Omni Channel Sales and Service platform for the largest credit union in southeastern Washington state to help grow the credit union’s membership and enhance its relationships with its existing members.
+ 
+Global Delivery. We are dedicated to providing a flexible delivery model to our clients, which allows for dynamically configurable “right shoring” of service delivery based on each client’s needs.
+ 
+ 
+2
+
+
+
+Operational Efficiency. We keep a tight rein on discretionary expenditures and selling, general and administrative expenses to enhance our competitiveness.
+ 
+Merger with Zone Technologies, Inc. Through the merger with Zone, we intend to leverage our artificial intelligence capabilities and deep learning and analytics expertise to enable RedZone Map to further enhance and expand its crime mapping capabilities globally. We believe that integrating our technology with RedZone Map will allow for a faster, more accurate and more precise mapping application. We intend to employ the latest tools to ingest crime data and to classify, normalize and unify the data as single source of truth (SSOT) to be analyzed using deep machine learning and artificial intelligence techniques to generate context related signals and draw insights.
+ 
+Our Operations
+ 
+Currently, in addition to our continuing development of our RedZone Map app, our IT services include application value management, application development, integration, independent validation, infrastructure, information management and analytics services. 
+Clients
+ 
+Our IT clients consist primarily of Fortune 1000 companies and other large organizations. Our IT clients operate in a diverse range of industries with a concentration in the banking, financial services and automotive industries. Four of the Company’s top five clients measured by revenue for the year ended December 31, 2016 have been clients for over five years. The revenues of the Company’s top four clients represented approximately 91.3% of the revenues for the twelve-month period ended December 31, 2016 and 90.2% of the revenues for the twelve-month period ended December 31, 2015. No other client represented greater than 10% of the Company’s revenues for such periods. During 2017, the Company expects that a significant portion of its revenues will continue to come from these clients. As indicated above, the Company continues to work to expand its client base by offering services to many of its existing clients in their offices outside of New York and New Jersey and using such contacts as a gateway into new geographies. 
+ 
+100% and 98.5% of the Company’s revenues were derived from IT clients within the United States for the years ended December 31, 2016 and December 31, 2015, respectively.
+ 
+Sales and Marketing
+ 
+The Company’s IT services and solutions marketing strategy is to develop long-term mutually beneficial relationships with existing and new clients that will lead the Company to become a preferred provider of IT and data analytics services. The Company seeks to employ a “cross selling” approach where appropriate to expand the number of services utilized by a single client. Other sales and marketing methods include client referrals, networking, and attendance at conferences. 
+Competition
+ 
+The market for IT consulting and data analytics services is intensely competitive, affected by rapid technological advances and includes a large number of competitors. The Company's competitors include the consulting divisions of the “Big Four” accounting firms, major offshore outsourcing companies, systems consulting and implementation firms, application software development firms, management consulting firms, divisions of large hardware and software companies, and niche providers of IT and data analytics services. Many of these competitors have significantly greater financial, technical and marketing resources than the Company. Competition imposes significant pricing pressures on the Company. The Company does not represent a significant competitive presence in the industry.
+ 
+The Company believes that the principal competitive factors in the IT services and data analytics market include breadth of services offered, industry and technology knowledge, expertise, intellectual property, cost competitiveness, quality of service and responsiveness to client needs. A critical component of the Company’s ability to compete in the marketplace is its ability to attract, develop, motivate and retain skilled professionals.
+ 
+ 
+3
+
+
+
+Employees
+ 
+As of December 31, 2016, the Company had 19 employees in the United States, all of whom are full-time. Twelve of these employees were technology consultants and 7 were executive, financial, sales and administrative personnel. None of the Company’s employees are represented by a labor union and the Company has never incurred a work stoppage. In addition to these employees the Company, on an as-needed basis, retains the services of independent contractors. On January 1, 2017, the Company hired 8 employees who had provided services to Zone prior to the merger.
+ 
+As of December 31, 2016, the Company had 7 employees in its Indian subsidiary. These include support staff in the human resources, finance and administrative functions.
+ 
+Intellectual Property Rights
+ 
+Intellectual Property Rights Related to the Company’s Legacy Business
+ 
+The Company relies upon a combination of nondisclosure and other contractual arrangements and trade secret, copyright and trademark laws to protect its proprietary rights and the proprietary rights of third parties from whom the Company licenses intellectual property, but there can be no assurance that the steps taken by the Company in this regard will be adequate to deter misappropriation of proprietary information or that the Company will be able to detect unauthorized use and take appropriate steps to enforce its intellectual property rights. In addition, the Company is subject to the risk of litigation alleging infringement of third-party intellectual property rights. Any such claims could require the Company to spend significant sums in litigation, pay damages, develop non-infringing intellectual property or acquire a license to the intellectual property which is the subject of the asserted infringement.
+ 
+HMIT granted us a non-exclusive, perpetual, royalty-free right to use the name “Helios and Matheson” and related trademarks, service names and service marks. HMIT may terminate our right to use the name and related trademarks and service marks upon each of the following events: (i) we consummate a business combination or merger, pursuant to which we are not the surviving corporation, or we consummate a sale of all or substantially all of our assets without the consent or approval of HMIT or (ii) we file, or become a debtor subject to, a bankruptcy proceeding which proceeding or filing was not commenced by HMIT or consented to by HMIT.
+ 
+All ownership rights to software developed by us in connection with a client engagement are typically assigned to the client. In limited situations, we may retain ownership or obtain a license from the client, which permits us or a third party to market the software for the joint benefit of the client and the Company or for the sole benefit of the Company.
+ 
+Intellectual Property Rights Related to Zone’s Business
+ 
+Zone has two trademarks registered in the European Union (Stylized Eyes Design and REDZONE MAP) and one registered trademark in the United Kingdom (Stylized Eyes Design) and has pending applications to register both trademarks in the United States and Israel and a pending application to register REDZONE MAP in the United Kingdom. The name “RedZone Map” has been registered with the State of Florida as a fictitious business name.
+Seasonality
+ 
+The Company’s business has not been affected by seasonality. 
+ 
+ 
+4
+
+
+
+Government Regulation
+ 
+We are not currently subject to direct regulation by any governmental agency other than laws and regulations applicable to businesses generally, such as regulations requiring a business license, federal and state anti-discrimination in employment laws and workplace safety laws and regulations.

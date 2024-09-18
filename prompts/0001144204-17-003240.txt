@@ -1,0 +1,108 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+Our Direction and Strategy
+ 
+Since its inception in 1996, Crossroads, a Delaware corporation, has been a prolific creator of intellectual property. As pioneers in data storage, our engineers created some of the industry’s most important breakthroughs, many of which are still utilized today by technology leaders. The patents we authored are the result of investing heavily in research and development. This strategic focus resulted in Crossroads gaining unique and extensive knowledge of data storage and data management technologies. Therefore, protecting our proprietary technology is vital to our business strategy. More than 50 companies have licensed our technology since 2000 and Crossroads has been paid more than $61 million for the right to use our inventions. We believe there are additional companies who would benefit from a license to our technology.
+ 
+On March 22, 2016, we announced the sale of our product business and all related assets to Canadian-based StrongBox Data Solutions, Inc. (“SDSI”) for gross proceeds of $1.9 million in cash. Under the purchase agreement, the Company sold and transferred all of the assets related to the Company’s product and support services division, including its StrongBox and SPHiNX products. As part of the purchase agreement, 27 of Crossroads’ employees transitioned to SDSI, and 10 employees were terminated in a reduction in force (“RIF”). Included in the transfer were assignments of ongoing contracts. In the event SDSI failed to perform such contracts, or their other assumed obligations under the purchase agreement, parties to such contracts or obligations could seek damages from the Company under certain circumstances. Depending on the claim for damages, the Company could have a claim for indemnification against SDSI pursuant to the purchase agreement. Any such indemnification claim would be subject to the provisions of the purchase agreement, as well as SDSI’s ability to pay.
+ 
+Technology Licensing
+ 
+We generate revenue when companies using our technology agree to pay us either an upfront licensing fee, or a combination of upfront fees and ongoing licensing fees for the use of our intellectual property. Our licensing and litigation agreements sometimes include provisions to cross-license patents from other companies, further enhancing our intellectual property assets and product capabilities. The Company’s intellectual property assets are identified in two distinct categories. The first category, known as the ‘972 patent family, consists of 31 patents and pending patents that are primarily concentrated around access controls. The second category, known as the non-‘972 patents, consists of 140 patents and pending patents that are primarily directed to five product families: optimizing command processing, enabling interoperability, managing networks, enhancing tape libraries, and improving data systems. On March 22, 2016, we announced that Crossroads, in partnership with Fortress Investment Group LLC (“Fortress”), signed an agreement with AQUA Licensing (“AQUA”) to market and sell the non-‘972 patent portfolio. AQUA will receive a commission on any revenue realized from the non-‘972 patent portfolio. The Company can provide no assurance regarding the timing or value of a transaction, or even if one will occur.
+The ‘972 Patent Family
+ 
+The ‘972 patent family has been the focus of years of litigation and licensing campaigns. As of October 31, 2016, approximately 50 companies have licensed ‘972 patents from Crossroads. Of these, 17 companies licensed our patents without litigation and the remaining companies took licenses as a result of litigation-related settlements. All lawsuits initiated by Crossroads have been filed in the U.S. District Court for the Western District of Texas.
+
+1
+-
+
+ 
+
+One of the litigated cases in the Western District Court of Texas went through a jury trial. The jury reached a verdict that the asserted patents were valid and infringed by the defendant. The jury awarded damages to Crossroads that consisted of 3% and 5% of product sales as reasonable royalties on two different infringing products made by the defendant. The case was appealed to the U.S. Court of Appeals for the Federal Circuit, and the jury’s verdict was affirmed. In another case, we received a default judgment against the defendant and were entitled to an award of royalties. Upon request in another case, the U.S. Patent and Trademark Office (the “U.S. Patent Office”) conducted a re-examination of certain patents within the ‘972 patent family. The U.S. Patent Office examined over two hundred prior art references and ultimately re-certified the patentability of the claims of those patents. In the course of our lawsuits to date, the U.S. District Court has construed the meaning of several terms within the claims of the ‘972 patent family and in each instance the rulings were in favor of Crossroads.
+ 
+We entered into an agreement with TQ Zeta LLC, an affiliate of Techquity, and Intrepidus Holdings LLC (collectively, “Techquity”), in which Techquity will share in the revenue generated from the ‘972 patent litigation. For consideration of $10.0 million received, Techquity received the rights to 52% of the first $20 million in licenses, settlement, or award proceeds from the ‘972 patents, 40% of the proceeds between $20 and $100 million, and 12% of proceeds above $100 million.
+ 
+The Non-‘972 Patent Family
+ 
+Our non-‘972 patent family comprises five distinct patent categories:
+ 
+
+· | “Optimized Command Processing” relating to techniques for ensuring that data and messages flow smoothly through the network;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+· | “Enabling Interoperability” relating to facilitating communication between different protocols and networks;
+--+-------------------------------------------------------------------------------------------------------------
+
+
+· | “Managing the Network” relating to methods for diagnosing and correcting network errors;
+--+-----------------------------------------------------------------------------------------
+
+
+· | “Enhancing Tape Libraries” relating to enhancing and optimizing operation of tape storage for Storage Area Networks (SANs); and
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+· | “Improving Data Systems” relating to techniques for optimizing file systems and database usage in SANs.
+--+--------------------------------------------------------------------------------------------------------
+
+ 
+In connection with a loan from CF DB EZ LLC, an affiliate of Fortress, the non-‘972 patents were assigned to a limited partnership controlled by Fortress, and are subject to a security interest granted to Fortress in connection with a secured credit agreement entered into with Fortress in July 2013. Certain terms in the Fortress agreement permit us to recover full control of the assets in return for the payment of a monetization call option of up to $2 million dollars. We are evaluating strategic alternatives related to the non-‘972 patent portfolio, including the possibility of exercising our rights in the agreement to regain full control of the patents. Crossroads fully paid off all debt obligations under the Fortress credit agreement on October 30, 2015.
+ 
+In November 2013, the Company hired a third-party patent consulting firm to analyze the non-‘972 patents. The firm was paid a flat fee and tasked to provide an unbiased, fact-based professional opinion on the monetization potential of the portfolio. This firm determined that the 117 patent assets reviewed comprise 78 patent families and the average remaining life on these patents at that time exceeded 10 years. Certain of the non-‘972 patents likely apply to technology that complies with four industry standards. Because these industry standards are widely used, we believe that dozens of companies may have used, or may be using, the technology described in our patents without authority or properly beinglicensed. Crossroads can provide no assurances regarding the accuracy of the assumptions underlying this analysis, our ability to recover any royalties or licensing fees relating to these patents, or the timing for any such royalties or licensing fees.
+ 
+In August 2014, the Company hired an intellectual property law firm to provide consulting services related to Crossroads’ non-‘972 patent portfolio. The firm was asked to validate key assumptions, propose a detailed monetization strategy and timeline, identify potentially infringing companies and products, develop detailed claims charts, and estimate revenue opportunities associated with each potentially infringing company. The firm’s work was completed in 2015.
+ 
+
+2
+-
+
+ 
+
+Crossroads has not yet begun an active licensing program for the non-‘972 patent family. Because we have not developed a licensing strategy, nor identified which potentially infringing companies to pursue, we have not created a budget for litigation or monetization of our non-‘972 patent portfolio. In parallel with AQUA’s efforts to market and sell the non-‘972 patent portfolio, we will continue to evaluate alternative strategies. Various monetization alternatives available to us include the following:
+ 
+
+· | a sale of all or a portion of the patent family;
+--+-------------------------------------------------
+
+
+· | pursuing litigation against companies we believe are infringing our rights under this patent family in order to encourage these companies to take a license to our technology (whether alone or in partnership with a law firm or firms that may take a contingent recovery);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | one or more strategic partnerships with a patent monetization company, in which case we would share a portion of the license revenues with the strategic partners taking responsibility for some or all expenses related to licensing (including litigation); or
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | entering into arrangements with lenders or financial partners in order to fund litigation.
+--+-------------------------------------------------------------------------------------------
+
+ 
+We are carefully reviewing these and other options to monetize the portfolio. Other options may become available to us and we will review those alternatives appropriately.
+ 
+Employees
+ 
+As of October 31, 2016, we had 5 general and administrative employees. None of our employees are represented by a labor union, and we consider current employee relations to be good.
+Environmental Compliance
+ 
+To date, we have not been the subject of any material investigation or enforcement action by either U.S. or foreign environmental regulatory authorities. Further, because we did not engage in primary manufacturing processes like those performed by our suppliers who are industrial manufacturers and currently do not have a product business, we believe that costs related to our compliance with environmental laws should not materially adversely affect us.
+Competition
+ 
+During the 19 years Crossroads has been in business, the competitive pressures have been great. We believe that several companies misappropriated our proprietary technology in the early formative years of the Company, thereby forcing Crossroads to engage in multiple capital raises and legal actions to enforce its intellectual property rights.
+Legal Proceedings
+ 
+The Company is and may become involved in various lawsuits as well as other certain legal proceedings that have not been fully resolved and arise in the ordinary course of business. These are proceedings to which we are a party in our own name or proceedings that have been brought against the Company. Information regarding certain material litigation proceedings is provided in Item 3 “Legal Proceedings” of this Annual Report on Form 10-K.
+Properties
+ 
+In accordance with the terms of the March 22, 2016 sale of our product division, the Company’s office space and equipment lease obligations have been assigned to SDSI.
+
+3
+-
+
+Available Information
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are available on our website at www.crossroads.com, as soon as reasonably practicable after such reports are electronically filed with the Securities and Exchange Commission (“SEC”). Additionally, our Standards of Professional Practice and Ethical Conduct, Code of Ethics for Senior Management and Financial Employees, Audit Committee Charter, Compensation Committee Charter and Nominating and Corporate Governance Committee Charter may be accessed through the website. Reports and other information we file with the SEC may also be viewed at the SEC’s website at www.sec.gov or viewed or obtained at the SEC Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The Company’s website and the information contained therein or connected thereto shall not be deemed to be incorporated into this Annual Report on Form 10-K.
