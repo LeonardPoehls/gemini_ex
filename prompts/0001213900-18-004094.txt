@@ -1,0 +1,532 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+ 
+Nexeon MedSystems, Inc. is a neuromodulation medical device manufacturing company focused on the development and commercialization of its neurostimulation technology platform for the treatment of various disorders via electrical stimulation of tissues associated with the nervous system. Our consolidated operations include operations of the following wholly-owned subsidiaries: Nexeon Medsystems Europe, SARL (“Nexeon Europe”), Nexeon Medsystems Puerto Rico Operating Company Corporation (“NXPROC”), Nexeon Medsystems Belgium, SPRL (“NMB”), which owns and operates Medi-Line, S.A. (“Medi-Line”) and Pulsus Medical LLC. Nexeon Europe is the holding company for NXPROC and NMB. NXPROC is focused on advanced computational biology and deep learning utilization associated with the Internet of Medical Things (“IoT”) technology. Pulsus Medical, LLC conducts research and development related to cardiovascular disease technology.
+
+
+Business Overview
+ 
+We are a medical device company focused on the development, manufacturing, and commercialization of neurostimulation technology for the treatment of various neurological disorders through electrical stimulation of neural tissues. Our neurostimulation technology platform, has the potential to provide treatment to patients in several established neurostimulator markets including Deep Brain Stimulation (“DBS”), Peripheral Electrical Nerve Stimulation (“PENS”), Sacral Nerve Stimulation (“SNS”), Spinal Cord Stimulation (“SCS”), Vagus Nerve Stimulation (“VNS”), and other emerging neurostimulator markets.
+ 
+Our first commercial application of our platform will be the Viant™ Deep Brain Stimulation System (the “Viant™ System”). We will pursue regulatory approval of the Viant™ System for Parkinson’s Disease in the United States, and for Parkinson’s Disease, Essential Tremor, and Dystonia in Europe.
+ 
+The Viant™ System continues to meet critical milestones in its development program. In the first quarter of 2017, we completed the ISO 13485 certification process, which is a pivotal hurdle prior to regulatory submissions to the CE Mark authorities. Design verification, process validation and testing requirements are nearly complete, and management expects we will complete the technical file in 2018 with the exception of some longer duration biocompatibility and shelf life tests. The Company expects to receive a CE Mark in 2019. As related to the United States, in early 2018, we completed the pre-submission meetings with the FDA to determine scope of requirements for approval of the Viant™ System and as a result of that meeting Nexeon intends to submit an FDA Premarket Approval (“PMA”) application without a clinical study.
+ 
+We have also advanced our platform for use in neurostimulation using non-dilutive, international, National Institutes of Health (“NIH”), and state grants. In the first quarter of 2018, we successfully completed and delivered the final tranche of devices to Galvani Bioelectronics (a joint venture between GlaxoSmithKline (“GSK”) and Verily, a subsidiary of Alphabet, Inc., formerly Google) for use in preclinical studies under the Galvani Bioelectronics Initiative.
+ 
+We have additional opportunities to license the platform to companies focused on enhancements to a comprehensive system offering for closed-loop, chronic disease therapeutics, including advanced computational biology, deep learning utilizing Internet of Medical Things technology, imaging solutions, e-health programs, and big data management and optimization, among others.
+ 
+We were incorporated in the State of Nevada on December 7, 2015. Our principal corporate office is located at 1910 Pacific Avenue, Suite 20000, Dallas, Texas 75201 and our phone number is (844) 919-9990. Our website is www.nexeonmed.com.
+ 
+Market Overview
+ 
+The neurostimulation market is comprised of four large markets (SCS; SNS; DBS; and VNS), along with several smaller, emerging markets, each focused on the treatment of a particular disease state through delivery of electrical stimulation to particular targeted sites in the body. We plan to compete in the DBS market with our Viant™ system, and we are evaluating our strategic options for competing in the PENS, SCS, SNS, and VNS markets. According to the Grandview Market Research report, the combined SCS, DBS, and SNS market sizes were approximately $3 billion for 2016.
+
+1
+-
+
+Our Neurostimulation Technology Platform
+ 
+Our neurostimulator technology platform was developed to provide the most innovative capabilities currently available on the market and to provide physicians and patients with improved solutions and tailored treatment options. Our platform is fundamental to the design of the Viant™ DBS System and provides the foundation for the development of future products. The key value propositions of our platform include:
+
+● | Innovative core technology. The engine of our neurostimulator technology platform, the implantable pulse generator (“IPG”), is based on more than 10 years of development. The custom-made chip was developed using our advanced engineering and design capabilities to have a broad spectrum of electrical outputs. | Figure 1 – Select Components of the NNS™ Device
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------
+● | Multiple independent current sources. Our neurostimulator technology platform can deliver stimulation from 16 independent current sources across a broad range of frequencies and pulse widths. This capability optimizes current delivery and improves field control allowing for current steering and precision therapy. 
+● | Advanced sensing capabilities. Advanced sensing capabilities provide the ability to capture biopotentials to monitor the physiologic response to stimulation, and support research towards the development and optimization of adaptive or closed-loop deep brain stimulation. The recorded signals can be processed on the IPG, or streamed for subsequent storage and analysis.
+● | Customized programmability. The technologies in our platform are designed to allow physicians to easily configure therapy to maximize clinical efficiency. These products are capable of documenting feedback from patients, and thereby providing physicians and patients with the flexibility to select from several different stimulation programs and optimize treatment. 
+
+
+● | Rechargeability. The majority of neurostimulators on the market are not rechargeable requiring periodic replacement. Our neurostimulator platform is rechargeable to reduce the need for replacement surgeries and enable biopotential recording without concern of shortening the device life. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Diverse lead portfolio. Our diverse lead portfolio includes a family of directional leads for targeted DBS therapy, and a self-sizing cuff electrode for stimulation of peripheral nerves. Our platform can deliver tailored therapy to a wide spectrum of patients. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Upgradeable technology enables next generation offerings. Our Neurostimulation System’s proprietary chip set and hardware is capable of being configured for use in next generation treatment offerings due to its flexible stimulation and recording capabilities. It can deliver higher frequencies and a broader array of stimulation patterns than all devices currently on the market. Upgrades can be provided to previously implanted patients via a software or firmware upgrade. We believe these capabilities provide a solid foundation for new treatment options in DBS and other neuromodulation therapies. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Product – The Viant™ Deep Brain Stimulation System 
+ 
+The Viant™ DBS device is designed to deliver effective therapeutic results faster, and to sustain them for the long-term. Viant™ is designed to deliver multiple current source stimulation, combined with sensing capabilities, in a single rechargeable device. Viant™’s on-board sensing capabilities have been developed to provide clinicians with the ability to measure and analyze the brain activity adjacent to the DBS leads to quickly and confidently locate the best location to stimulate in a matter of minutes rather than hours using current trial-and-error programming schemes. Clinicians can then focus their efforts on using Viant™’s multiple current source stimulator to take full advantage of the capabilities of directional leads.
+ 
+Viant™’s sensing capabilities were also designed to enable clinicians and researchers to capture and stream brain recordings to an external device for subsequent analysis. The software in Viant™, and the products in Nexeon’s platform, can be transcutaneously updated, so that physicians and patients will be able to benefit from the latest technology as it becomes available without the need for replacement revision surgery.
+ 
+The Viant™ DBS system consists of implantable and external components (Figure 1 above) that work synergistically to deliver precise electrical pulses with specified parameters to target brain structures. Remote controls for the physician and for the patient enable communication with the implant. Each remote control offers different options. The energy source of the system can be recharged through the skin after device implantation by use of the patient remote control in combination with a charger. We currently anticipate CE Mark approval and commercial launch of the device in major European markets in 2019. US approval would potentially occur after CE Mark approval.
+ 
+
+2
+-
+
+Viant™ Implantable Components
+ 
+
+● | Implantable Pulse Generator: The IPG (stimulator) contains a rechargeable battery and electronics that generate precise electrical pulses that are carried by the extensions and leads to the brain. The IPG has 16 independent current sources and can be connected to one or two extensions. It is a programmable device and can deliver customized programs for each patient. The IPG is surgically implanted under the skin in the chest. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Directional Leads: The leads are thin, insulated cables that carry electrical pulses from the IPG to the brain. On one end of the lead is a connector to make mechanical and electrical connection with an extension, and on the other end is an array of electrodes to deliver the electrical pulses to the brain structure. The Nexeon directional lead has segmented electrode contacts arranged in a 1-3-3-1 pattern to facilitate current steering during DBS therapy. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Extensions: The extensions are thin, insulated cables that connect on one end with the IPG, and on the other end with a lead. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Viant™ External Components
+
+
+
+● | Patient Remote Control (RC): The patient RC is a rechargeable, cellphone-sized device that works like a remote control and allows patients to adjust their stimulation within prescribed limits, change programs, monitor their IPG battery level and status; and when connected to the charger, transcutaneously charge their IPG. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Charger: The charger is used to charge the implanted IPG. To charge, the charger is connected to the RC, and placed over the implanted IPG. The system continuously monitors the charging process and optimizes it for safe and efficient charging. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Clinician Programmer (CP): The CP allows clinicians to communicate with the IPG and optimize stimulation parameters and current steering for each individual patient. Clinicians can also interrogate the integrity of the IPG and electrode leads. The CP has a database that keeps individual patient records with all programmed parameters and recorded data. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Surgical Accessories: The Viant™ DBS System also includes various accessories for implantation such as tunneling tools, lead fixation devices, and torque wrenches to assist the physician in the surgical procedure. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competition
+ 
+The medical device industry is intensely competitive, subject to rapid change and highly sensitive to the introduction of new products and other market activities of industry participants. We intend to compete in the DBS market for movement disorders. In the U.S. and European DBS market, the competitors include Abbott Laboratories, formerly known as St. Jude Medical (“Abbott”), Boston Scientific, and Medtronic.  Abbott, Boston Scientific and Medtronic are publicly-traded companies or divisions of publicly-traded companies, all of whom have significantly greater resources than we have. In addition, these competitors also have established operations, long commercial histories, more extensive relationships with physicians, and wider product offerings within neuromodulation and other medical device product categories than we have. This may provide these competitors with greater negotiating power with customers and suppliers and with more opportunities to interact with the stakeholders involved in purchasing decisions.  Furthermore, although we have no current plans to enter the Chinese market, PINS Medical and SceneRay Corporation are established Chinese DBS companies that could begin to distribute their products in Europe and/or the United States. In addition, Aleva Neurotherapeutics has announced its intention to enter the European DBS market in late 2018, and other companies may likewise attempt to bring new products or therapies to this market. All of these companies will continue to develop new products that directly compete with our products, and their greater resources may allow them to respond more quickly to new technologies, new treatment indications or changes in customer requirements. For all of these reasons, it may be more difficult to compete successfully against these or future competitors.
+ 
+We believe the primary competitive factors in the neurostimulation market are:
+ 
+
+● | Technological innovation, product enhancements and speed of innovation 
+--+---------------------------------------------------------------------------
+
+
+● | Sales force experience and access 
+--+--------------------------------------
+
+
+● | Ease of use 
+--+----------------
+
+
+● | Product support and service 
+--+--------------------------------
+
+
+● | Clinical studies and research 
+--+----------------------------------
+
+
+● | Effective marketing and education 
+--+--------------------------------------
+
+
+3
+-
+
+
+● | Pricing and reimbursement rates 
+--+------------------------------------
+
+
+● | Product reliability, safety and durability 
+--+-----------------------------------------------
+
+
+● | Company brand recognition 
+--+------------------------------
+
+Our Competitive Strengths
+ 
+
+● | Comprehensive Offerings. We can support our customers’ new product offerings from product concept through market introduction and thereafter, by providing seamless design, engineering, prototyping and manufacturing offerings. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Single Source for Complete Systems. We assist our customers in developing new implants, and we design and produce neurostimulator systems for specific neurological disease. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Precision Manufacturing Expertise. Our extensive expertise and knowhow enable us to produce large volumes of specialized products to our customers’ precise standards, which we believe makes us a supplier of choice to the largest orthopedic companies as well as addressing the broader needs of smaller customers. Our core production competencies include net shaped forging, precision casting, thermo forming, precision sheet metal working and machining/ finishing. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Over the past several years, we have developed high precision machining capabilities to better serve the spine implant market. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Quality and Regulatory Compliance. Our quality systems are based upon and are in compliance with International Organization for Standardization (“ISO”) requirements and, where applicable, United States Food and Drug Administration (“FDA”) regulations. We believe our level of quality and regulatory compliance systems meet or exceed our customers’ expectations. We continue investing in this area to strengthen our leadership position. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Customers. Our OEM Solutions business supplies products primarily to manufacturers in the medical device market. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Strategy
+ 
+To successfully achieve our objectives, we are pursuing the following strategy:
+ 
+
+● | Complete Viant™ development and transfer to manufacturing. We will continue to invest in completing the development and building the manufacturing capacity necessary to support the approval and commercial launch of the Viant™ DBS System. We will continue to partner with contract manufacturers to utilize their manufacturing capabilities and achieve operating efficiencies. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Build our sales and marketing organization. In the second quarter of 2018, we will begin to build our international sales organization through a combination of distributors, independent sales agents, and a limited number of direct employees in anticipation of a 2019 launch in major European markets. Our representatives will target movement disorder specialists located primarily at large academic centers, as well as their referring network of neurologists in countries with existing reimbursement coverage for these therapies. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Submit Viant System for FDA Approval and CE mark. Upon completion of the product dossier, we will submit to the FDA for a pre-market approval and to the notified body, DEKRA, for CE Mark. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Invest in research and development to further drive product innovation. We are investing in preclinical and clinical research to demonstrate and further the innovation of our Viant™ DBS device. We anticipate this investment may result in further product innovations and expanded labeling and new indications for the Viant™ DBS System. These innovations are expected to include next generation IPG capabilities, additional lead offerings, and advancements in algorithmic programming. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Regulatory
+ 
+In the European Economic Area (EEA) we are subject to the requirements of the EU Active Implantable Medical Devices Directive 90/385/EEC (“AIMDD”) which mandate that our product receive a CE Mark prior to being placed on the market in the EEA. To obtain a CE Mark, we must prepare a technical file for our product, and undergo a conformity assessment by a notified body, which is an organization authorized under the AIMDD to conduct conformity assessments. Following successful completion of a conformity assessment the notified body will grant a CE Mark.
+ 
+We expect to complete the Viant™ DBS System technical file in the first half of 2019 and submit it for a conformity assessment with our notified body, DEKRA Certification B.V., shortly thereafter. While there have been some recent increases in the stringency of the relevant EU regulatory requirements, and there can be no assurances, absent unanticipated additional requirements or delays, we currently anticipate receiving the CE Mark for the Viant™ DBS System in the first half of 2019.
+ 
+The Viant™ DBS System is classified as a Class III medical device under the Food and Drug Act. The Food and Drug Act requires submission and FDA approval of a PMA application before marketing of a Class III device can begin. The PMA application process is considerably more demanding than the Class I and Class II 510(k) premarket notification process. The Company has used the FDA’s pre-submission process to engage the FDA to clarify the path to ultimate product approval. At this time, the Company intends to submit to the FDA in 2019 for a PMA for the Treatment of Parkinson’s Disease without a clinical study.
+ 
+
+4
+-
+
+Sales and Marketing
+ 
+We currently have no sales force as we are engaged in completing the product and preparing to make regulatory submissions. In 2017, we hired a Vice President of Sales and Marketing to develop and execute our detailed commercial plan. We intend to build a US-based marketing team to promote awareness of our products by training and educating physicians, exhibiting at tradeshows and conducting focused promotions.
+ 
+We expect to begin to build our international sales organization in late 2018. To achieve operating efficiencies, we expect to use a combination of distributors, independent sales agents, and a limited number of direct employees. Our representatives will target movement disorder specialists located primarily at large academic centers, as well as their referring network of neurologists in countries with existing reimbursement coverage for these therapies.
+ 
+Product Development Pipeline
+ 
+We have invested significant finances and effort towards engineering/product development of the first generation auricular vagus nerve stimulation (“aVNS”) device. In early 2017, we received Ethics Committee and Competent Authority approval to examine the effects of aVNS on cardiac activity in healthy adults. The study was completed in Belgium at the Universite’ Catholique de Louvain under the principal investigator Jean-Benoit Le Polain (Cardiac Electrophysiologist). We enrolled 20 healthy subjects that received right ear cymba concha stimulation during simultaneous telemetric ECG monitoring (Polar H7). Each subject underwent 10 min of baseline ECG recording, 10 min of aVNS+ECG recording, and 10 min of recovery ECG recording (no aVNS). All subjects received biphasic stimulation at 5 Hz (separate trials), pulse duration of 200 µs, and personalized current intensity (average = 2.7 mA). In comparison to baseline ECG, we observed significant increase heart rate variability (HRV) during aVNS: increased R-R interval (19 of 20 subjects, p<0.001), and increased root mean square of successive differences (RMSSD; 14 of 20 subjects, p<0.001). Additionally, aVNS demonstrated a significant increase in the high frequency component (parasympathetic activity) of HRV (13 of 20 subjects, p<0.001).
+
+
+The aVNS system is a non-invasive, battery-operated, self-administered device to transcutaneously stimulate the auricular branch of the vagus nerve (ABVN). The device is composed of a handheld generator and one earpiece. The earpiece makes electrical contact with the skin via specially designed disposable self-adhesive hydrogel electrodes. One electrode is designed to be placed into the Cymba Concha which is innervated by the ABVN.
+ 
+According to the Journal of Cardiology, Atrial fibrillation (AF) is the most common cardiac arrhythmia, and is associated with substantial risk of mortality. According to the Journal of Cardiology, AF currently affects more than 2.5 million Americans and the affected population is steadily growing with our aging society. AF independently increases the risk of stroke by 4- to 5-fold, is an independent risk factor for stroke recurrence, and is responsible for at least 15-20% of all ischemic strokes. In addition to its associated health risks and diminished quality of life, AF is a financial burden on the US Healthcare system, with annual Medicare costs currently estimated at $16 billion.
+
+
+This study is designed as a prospective, single-center pilot study to assess the feasibility of aVNS with the Nexeon MedSystems aVNS system as a treatment for paroxysmal AF. Each subject will be screened and then undergo a 30-day baseline evaluation to document pre-treatment AF burden. If subject does not have a ICP or ILR, subjects will be given a HM (LiveTec, Total Medical Solutions, Netherlands) to achieve 30-day baseline evaluation, and monitoring during and after treatment. Subjects meeting the requisite documented AF burden in the baseline phase will be trained to use the Nexeon MedSystems aVNS system and Brain HQ online cognitive training software. This visit will be classified as “Day 0.” The subject will be instructed to deliver therapy with the Nexeon MedSystems aVNS system at home for 30 minutes per day for a total of 30 days (± 5 days). Concurrently, subjects will be instructed to use Brain HQ at home for ~5 minutes per day for a total of 30 days (± 5 days). Subjects will be randomly assigned into 1 of 2 groups; Group 1 (n=10) begins Brain HQ cognitive training before stimulation, Group 2 (n=10) begins Brain HQ cognitive training after stimulation. At the Day 30 visit, the auricular stimulation will stop; the subjects will return to the clinic for ICP, ILR, or HM interrogation to document AF during the treatment phase, blood marker collection, and cognitive assessments. The subject will return to the clinic for a 60-day visit, study participation will end at this visit. The expected duration of subject participation is approximately 3 months from enrollment until the end of study participation.
+
+Research and Development
+ 
+For the years ending December 31, 2017 and December 31, 2016, our research and development expenses were $2,942,981 and $759,502, respectively, primarily reflecting the costs associated with our research and discovery efforts related to the design and development of our proposed medical devices. It is expected that the Company’s research and development activities and related expenses will increase significantly in the future as we increase the scope and rate of such efforts and begin more expensive development activities, including clinical trials and similar studies as required by the relevant regulatory authorities in our targeted jurisdictions (i.e. the United States and European Union).
+
+
+Original Equipment Manufacturer, Medi-Line S.A.
+ 
+On September 1, 2017, we acquired NMB which owns and operates Medi-Line and the Medi-Line medical device and is an Original Equipment Manufacturer (“OEM”). Medi-Line provides high quality and efficiency in the development, engineering, and manufacturing of medical devices for the med-tech and pharmaceutical industries. Medi-Line makes up our OEM Solutions segment.
+ 
+
+5
+-
+
+Product Line
+ 
+Medi-Line currently manufactures radiopharmacy and urology products and provides worldwide production and supply chain capabilities for these products to its customers. Medi-Line offers a wide range of services, including product and process development, validation and verification, technical and regulatory file writing, packaging, biocompatibility, and sterilization support services. Customers of Medi-Line are active in fields as diverse as urologic implants, neurosurgery, interventional gastro-enterology, implantable neurostimulation, radiopharmacy, PET Scan imagery, special high added value catheters, as well as microthin cuff catheters.
+Facilities
+ 
+Our OEM Solutions segment has manufacturing facilities in two facilities in Belgium. We continue to make investments to modernize our production facilities, improve our production processes and develop superior technical skills that complement our manufacturing capabilities. These investments have allowed us to continue to improve the quality of our products, increase our manufacturing capacity and improve our efficiency. We currently manufacture our neurostimulator system in our class 10,000 clean room in Niel, Belgium.
+ 
+We operate our OEM business out of a building in Liege, Belgium. This building consists of two clean rooms validated (1 cleanroom assembly ISO class 7 or C 1 cleanroom ISO class 8 or D) offering 600m2 of production space to meet industry quality requirements of medical devices. Our manufacturing processes include:
+ 
+
+○ | Extrusion (range of tubes starting at 0.25mm OD in a wide selection of raw materials; 
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+○ | Injection Molding (complex component injection in most thermoplastics); 
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+○ | Assembly (bonding, welding, finishing, packaging); 
+--+--------------------------------------------------------------------------------------------
+
+
+○ | Disposable devices; 
+--+-------------------------------------------------------------
+
+
+○ | Catheter & catheter-like products; 
+--+----------------------------------------------------------------------------
+
+
+○ | Radiopharmacy single use supplies; 
+--+----------------------------------------------------------------------------
+
+
+○ | Surgical devices; 
+--+-----------------------------------------------------------
+
+
+○ | Implants: active & non-active; 
+--+------------------------------------------------------------------------
+
+
+○ | Clean room manufacturing Class C (ISO7); and 
+--+--------------------------------------------------------------------------------------
+
+
+○ | Extrusion, injection molding. 
+--+-----------------------------------------------------------------------
+
+ 
+The majority of products that we produce are customized to the unique specifications of our customers. Our ability to maintain flexible operations is an important factor in maintaining high levels of productivity. We endeavor to use “just-in-time” manufacturing and flexible manufacturing cells in our production processes. Just-in-time manufacturing is a production technique that minimizes work-in- process inventory and manufacturing cycles. Manufacturing cells are clusters of individual manufacturing operations and work stations grouped in a circular configuration, with the operators placed centrally within the configuration. Cell manufacturing provides flexibility by allowing efficient changes to the number of operations each operator performs, which enhances our ability to maintain product volumes that are consistent with our customers’ requirements and reduce our level of inventory.
+ 
+Sales and Marketing
+ 
+Our OEM Solutions sales and marketing efforts have been limited to date, with most new business coming in the form of referrals. We intend to grow our business by emphasizing our design and engineering expertise, internally developed products, manufacturing capabilities, international distribution network and ability to provide customers with a comprehensive product offering. We present our products to customers in a concept which offers the customer a collaborator for developing complete implant, instrument and case solutions while working to create and respond to opportunities for any one of our product offerings. We believe there is an opportunity to leverage our existing relationships among our customer base to achieve greater penetration of our customized products.
+Quality Assurance
+ 
+We maintain a comprehensive quality assurance and quality control program, which includes the control and documentation of all material specifications, operating procedures, equipment maintenance and quality control methods. Our quality systems are based upon FDA requirements and the ISO standards for medical device manufacturers. We believe that all our facilities are currently in substantial compliance with regulations applicable to them.
+ 
+All aspects of the supply chain are integrated into our overall quality system. Our suppliers are evaluated and audited to assure compliance with all international trade compliance quality standards. Relative to our manufacturing processes we maintain and adhere to specific standard operating procedures within our quality systems to ensure compliance with our customers’ requirements for their products. Our deep brain neurostimulator business likewise operates under a comprehensive quality system to ensure compliance with all product quality and customer obligations. The suppliers we utilize in the distribution process are evaluated and audited to assure compliance to all international trade compliance quality standards.
+ 
+We are not aware of any significant quality issues or concerns, although if we experience a breakdown in our quality systems that result in the sale or manufacture of noncompliance products we could incur costs and loss of business, recalls, lawsuits or other adverse results.
+ 
+
+6
+-
+
+Customers
+ 
+In our OEM Solutions business, we sell to over 40 customers. Sales to our 2 largest customers represented 76% sales revenue in 2017. All sales are shipped directly to our customers.
+Intellectual Property
+ 
+We rely on a combination of patent, trade secret, copyright, trademark and other intellectual property to protect our proprietary rights. The patents have been deliberately written to provide broad and specific protection. Issued and pending U.S. and foreign method and technology patents protect the Company’s intellectual property. Our strategy to create temporal barriers to others and to protect proprietary positions is to continue to acquire and file for U.S. and foreign patent applications related to our technology, inventions, and improvements to enhance our business and competitive advantages. Continuing to rigorously analyze competitive IP applications and their prosecution history will ensure that this freedom to operate position remains viable. As development of new products and prosecution of pending patent applications progresses, we will continue to strategically file additional applications, including continuations, continuations-in-part, and divisional applications, to protect the new developments and those already being prosecuted.
+ 
+We possess a patent portfolio for each of our products under development ensuring the ability to operate, which is critical to successful commercialization of our platforms. In addition, maintaining a focus in the Internet of Medical Things allows us to utilize issued and pending patents for maximum commercial benefit and growth.
+ 
+In addition to patent protection, we utilize other available intellectual property rights to protect our developments. For example, we utilize copyrighted software, manuals, and reports. We also maintain many trade secrets that are essential to our business. We have implemented procedures to maintain such secrecy required of such trade secrets. Finally, we have filed for and obtained several trademark registrations related to the branding of our products. This multifaceted approach provides us with what we believe to be the maximum protection available for our product development.
+ 
+
+7
+-
+
+ 
+
+The following patents and applications relate to our technology for communicating between an implantable medical device and a remote computer system or health care provider.
+ 
+
+US 6385593 | Apparatus and method for automated invoicing of medical device systems 
+-------------------+-------------------------------------------------------------------------------------
+US 6804558 | System and method of communicating between an implantable medical device 
+US 7076303 | Apparatus and method for automated invoicing of medical device systems 
+DE 60321826.1 | Seamless communication between an implantable medical device and a remote system 
+EP 15853585 B1 | Seamless communication between an implantable medical device and a remote system 
+
+ 
+The following patents and applications relate to our micro-perforated balloon catheter system for use in the treatment of restenosis associated with hemodialysis.
+ 
+
+NANOTUBE-REINFORCED BALLOONS FOR DELIVERING PATENTS 
+-------------------------------------------------------
+US 8187221 | Therapeutic agents within or beyond the wall of blood vessels, and methods of making and using same 
+JP 5481479 | Therapeutic agents within or beyond the wall of blood vessels, and methods of making and using same 
+EP 9771434.9 | Therapeutic agents within or beyond the wall of blood vessels, and methods of making and using same 
+
+
+IRIS FILTER-SHEATH CATHETER SYSTEM FOR EMBOLISM PROTECTION PATENTS 
+----------------------------------------------------------------------
+US 8728113 | Interventional catheter for retrograde use having embolic protection capability and methods of use 
+US 8257384 | Interventional catheter for retrograde use having embolic protection capability and methods of use 
+US 7837702 | Interventional catheter for retrograde use having embolic protection capability and methods of use 
+EP 6847981.5 | Interventional catheter for retrograde use having embolic protection capability and methods of use 
+
+
+APPARATUS AND METHODS FOR RENAL STENTING PATENTS 
+----------------------------------------------------
+US 8702744 | Apparatus and methods for renal stenting 
+EP 6770151.6 | Apparatus and methods for renal stenting 
+AU 2006244070 | Apparatus and methods for renal stenting 
+JP 4990887 | Apparatus and methods for renal stenting 
+
+
+METHODS AND APPARATUS FOR TREATING AN INJURED NERVE PATHWAY PATENTS 
+-----------------------------------------------------------------------
+US 7842304 | Methods and apparatus for treating an injured nerve pathway 
+US 8603512 | Methods and apparatus for treating an injured nerve pathway 
+
+
+SYSTEMS AND METHODS FOR ATRAUMATIC IMPLANTATION OF BIO-ACTIVE AGENTS PATENTS 
+--------------------------------------------------------------------------------
+US 7632262 | Systems and methods for atraumatic implantation of bio-active agents 
+US 8377032 | Systems and methods for atraumatic implantation of bio-active agents 
+EP 9736537.3 | Systems and methods for atraumatic implantation of bio-active agents 
+EP 5773060.8 | Systems and methods for atraumatic implantation of bio-active agents 
+EP 11150671.3 | Systems and methods for atraumatic implantation of bio-active agents 
+AU 2005274775 | Systems and methods for atraumatic implantation of bio-active agents 
+JP 4774403 | Systems and methods for atraumatic implantation of bio-active agents 
+
+
+APPARATUS AND METHODS FOR TREATING TISSUE USING PASSIVE INJECTION SYSTEMS PATENTS 
+-------------------------------------------------------------------------------------
+US 7338471 | Apparatus and methods for treating tissue using passive injection systems 
+US 7862551 | Apparatus and methods for treating tissue using passive injection systems 
+AU 2005274774 | Apparatus and methods for treating tissue using passive injection systems 
+JP 4934029 | Apparatus and methods for treating tissue using passive injection systems 
+GB & FR 1773440 | Apparatus and methods for treating tissue using passive injection systems 
+DE 602005030269.7 | Apparatus and methods for treating tissue using passive injection systems 
+
+
+IMPLANTABLE DEVICE FOR TREATING DISEASE STATES AND METHODS OF USING SAME PATENTS 
+------------------------------------------------------------------------------------
+US 7651696 | Implantable device for treating disease states and methods of using same 
+
+
+METHODS AND APPARATUS FOR TREATING INFARCTED REGIONS OF TISSUE FOLLOWING PATENTS 
+-------------------------------------------------------------------------------------------------------------------------
+US 7819856 | Acute myocardial infarction 
+US 8062283 | Acute myocardial infarction 
+
+
+APPARATUS FOR THE DELIVERY OF DRUGS OR GENE THERAPY PATENTS 
+---------------------------------------------------------------
+US 7648495 | Into a patient's vasculature and methods of use 
+
+
+8
+-
+
+ 
+
+The following is a list of the Siemens originated patents underlying the license for the intellectual property which relates to IOT technology as described by a system of interrelated computing devices, mechanical and digital machines, objects, animals, and/or people that have unique identifiers and a subsequent ability to transfer data over a network without requiring human-to-human or human-to-computer interaction. This technology can be utilized in a wide variety of medical device applications, most notably in hospitals, nursing facilities, or patients’ homes.
+ 
+
+Country | Patent # | Apln. # | Pub. # 
+--------+------------------+------------------+------------
+AUSTRIA | AT521160 | 5109169.2 | EP1646185 
+AUSTRIA | AT530961 | 3735054.3 | EP1470457 
+AUSTRIA | AT615998 | 5108954.8 | EP1643324 
+AUSTRIA | AT334459 | 4100499.5 | EP1494191 
+BELGIUM | BE1494191 | 4100499.5 | EP1494191 
+BRASIL | PI0710612 | BR0710612 | 
+BRASIL | | PI0821881-1 | 
+CANADA | 2647652 | 2647652.0 | 2647652 
+CANADA | 2662014 | 2662014.0 | 2662014 
+CANADA | 2711225 | 2711225.0 | 2711225 
+CANADA | 2836941 | 2836941.0 | 2836941 
+CHINA | | 200780032280.2 | CN101512976
+CHINA | CN101422019 | 200780012887.4 | 101422019 
+CHINA | CN101971568 | 200880123790.5 | 101971568 
+CHINA | | 201410392441.0 | CN104243248
+EPO | EP1470456 | 3707570.2 | EP1470456 
+EPO | EP1470457 | 3735054.3 | EP1470457 
+EPO | EP1494191 | 4100499.5 | EP1494191 
+EPO | EP1626532 | 5012617.6 | EP1626532 
+EPO | EP1643324 | 5108954.8 | EP1643324 
+EPO | EP1646185 | 5109169.2 | EP1646185 
+EPO | EP2225854 | 8869509.3 | EP2225854 
+EPO | | 7101252.0 | EP1783959 
+EPO | | 7774303.7 | EP2005713 
+EPO | | 13172203.5 | EP2642696A3
+EPO | | 13172204.3 | EP2642697A3
+FINLAND | FI1470456 | 3707570.2 | EP1470456 
+FRANCE | FR1470456 | 3707570.2 | EP1470456 
+FRANCE | FR1470457 | 3735054.3 | EP1470457 
+FRANCE | FR1626532 | 5012617.6 | EP1626532 
+FRANCE | FR1643324 | 5108954.8 | EP1643324 
+FRANCE | FR1646185 | 5109169.2 | EP1646185 
+FRANCE | FR2225854 | 8869509.3 | EP2225854 
+FRANCE | FR1494191 | 4100499.5 | EP1494191 
+GERMANY | | 10317962.3 | 
+GERMANY | DE602005029532.1 | 5109169.2 | EP1646185 
+GERMANY | DE602005039869.4 | 5108954.8 | EP1643324 
+GERMANY | DE602005042990.5 | 5012617.6 | EP1626532 
+GERMANY | DE602008030307.1 | 8869509.3 | EP2225854 
+GERMANY | DE60330750.7 | 3707570.2 | EP1470456 
+GERMANY | DE60338908.2 | 3735054.3 | EP1470457 
+GERMANY | DE502004001017.2 | 4100499.5 | EP1494191 
+GERMANY | | 112007001804.0 | 
+GREECE | GR1494191 | 4100499.5 | EP1494191 
+IRELAND | IE1494191 | 4100499.5 | EP1494191 
+IRELAND | 1470456 | 3707570.2 | 1470456 
+ITALY | IT1470457 | 3735054.3 | EP1470457 
+ITALY | IT1626532 | 5012617.6 | EP1626532 
+ITALY | IT1643324 | 5108954.8 | EP1643324 
+ITALY | IT1646185 | 5109169.2 | EP1646185 
+ITALY | IT2225854 | 8869509.3 | EP2225854 
+ITALY | IT1494191 | 4100499.5 | EP1494191 
+MEXICO | MX313282 | MX/a/2010/007211 | 
+MEXICO | MX322526 | MX/a/2013/010239 | 
+
+
+9
+-
+
+
+Country | Patent # | Apln. # | Pub. # 
+---------------+---------------+-------------------+---------------
+NETHERLANDS | NL1470456 | 3707570.2 | EP1470456 
+NETHERLANDS | NL1470457 | 3735054.3 | EP1470457 
+NETHERLANDS | NL1626532 | 5012617.6 | EP1626532 
+NETHERLANDS | NL1643324 | 5108954.8 | EP1643324 
+NETHERLANDS | NL1646185 | 5109169.2 | EP1646185 
+NETHERLANDS | NL1494191 | 4100499.5 | EP1494191 
+SOUTH KOREA | 100989017 | 1020087024880.0 | 
+SOUTH KOREA | 101272384 | 1020107014107.0 | 
+SOUTH KOREA | KR101202914B1 | 1020107014718.0 | 
+SPAIN | ES2270271 | 4100499.5 | EP1494191 
+SWEDEN | SE1470456 | 3707570.2 | EP1470456 
+SWEDEN | SE1470457 | 3735054.3 | EP1470457 
+SWEDEN | SE1626532 | 5012617.6 | EP1626532 
+SWEDEN | SE1643324 | 5108954.8 | EP1643324 
+SWEDEN | SE1646185 | 5109169.2 | EP1646185 
+SWEDEN | SE2225854 | 8869509.3 | EP2225854 
+SWEDEN | SE1494191 | 4100499.5 | EP1494191 
+SWITZERLAND | CH1470456 | 3707570.2 | EP1470456 
+SWITZERLAND | CH1470457 | 3735054.3 | EP1470457 
+SWITZERLAND | CH1626532 | 5012617.6 | EP1626532 
+SWITZERLAND | CH1643324 | 5108954.8 | EP1643324 
+SWITZERLAND | CH1646185 | 5109169.2 | EP1646185 
+SWITZERLAND | CH2225854 | 8869509.3 | EP2225854 
+SWITZERLAND | CH1494191 | 4100499.5 | EP1494191 
+UNITED KINGDOM | GB1470456 | 3707570.2 | EP1470456 
+UNITED KINGDOM | GB1470457 | 3735054.3 | EP1470457 
+UNITED KINGDOM | GB1626532 | 5012617.6 | EP1626532 
+UNITED KINGDOM | GB1643324 | 5108954.8 | EP1643324 
+UNITED KINGDOM | GB1646185 | 5109169.2 | EP1646185 
+UNITED KINGDOM | GB2225854 | 8869509.3 | EP2225854 
+UNITED KINGDOM | GB1494191 | 4100499.5 | EP1494191 
+US | | 60/352,452 | 
+US | 8131399 | 10/353,142 | 
+US | 8538589 | 13/366,095 | 
+US | | 10/353,110 | 
+US | | 10/672,527 | 
+US | 7860495 | 10/915,034 | 
+US | | 12/629,548 | 
+US | 8200273 | 12/953,244 | 
+US | 7139239 | 10/958,770 | 
+US | 7437596 | 11/538,654 | 
+US | 7664573 | 10/952,705 | 
+US | 7746887 | 11/402,743 | 
+US | | 60/823,788 | 
+US | 9030315 | 11/846,218 | 
+US | | 60/823,909 | 
+US | | 60/823,912 | 
+US | 8264371 | 11/969,111 | 
+US | | 12/124,452 | 
+US | | 61/037,739 | 
+US | 8224282 | 12/406,799 | 
+US | 8350691 | 12/269,136 | 
+US | 7363036 | 10/824,800 | 
+WO/PCT | | PCT/US2003/002556 | WO/2003/064933
+WO/PCT | | PCT/US2003/002559 | WO/2003/065136
+WO/PCT | | PCT/US2007/007984 | WO/2007/123738
+WO/PCT | | PCT/US2007/077107 | WO/2008/027964
+WO/PCT | | PCT/US2008/013746 | WO/2009/088429
+
+Employees
+ 
+As of December 31, 2017, we have 62 full-time employees and 3 consultants. None of our employees or consultants are represented by a labor union or covered by a collective bargaining agreement. We have employment agreements with all full-time employees. We consider our relationship with our employees to be very good.
+
+10
+--
+

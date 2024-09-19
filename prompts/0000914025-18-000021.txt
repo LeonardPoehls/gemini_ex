@@ -1,0 +1,218 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.  BUSINESS
+COMPANY BACKGROUND
+
+Plantronics, Inc. (“Plantronics,” “Company,” “we,” “our,” or “us”) is a leading global designer, manufacturer, and marketer of lightweight communications headsets, audio solutions, telephone headset systems, other communication endpoints, and accessories for the business and consumer markets under the Plantronics brand.  We operate our business as one segment. 
+Our headsets are communications tools that provide a hands-free connection to communication or entertainment devices and freedom of movement for our users.  We use a variety of technologies to develop high quality products that meet our customers needs for communications or personal entertainment.  Our headsets are widely used with applications such as Unified Communications & Collaboration ("UC&C"), in contact centers, offices and homes, with mobile devices and Internet Protocol (IP) telephony, for gaming, and for other specialty applications.  Our major product categories are Enterprise, which includes corded and cordless communication headsets, audio processors, and telephone systems; and Consumer, which includes Bluetooth and corded products for mobile device applications, personal computer ("PC") and gaming headsets. We also offered specialty products marketed for hearing impaired individuals under our Clarity brand, which was included in our Consumer product category until the divestiture of Clarity on July 1, 2017. 
+We ship our products to approximately 80 countries through a network of distributors, retailers, resellers, wireless carriers, original equipment manufacturers (“OEMs”), and telephony and other service providers.  We have well-developed distribution channels in North America, Europe, and some parts of the Asia Pacific region where use of our products is widespread.  Our distribution channels in other geographic regions are less mature, and while we primarily serve the Enterprise markets in those regions, we continue to expand into mobile, gaming and computer audio, and other categories in those regions and other international locations.  While not always the case, revenues from our Consumer category are typically seasonal, with the third fiscal quarter typically being the strongest due to the holiday shopping season.
+Plantronics was founded and incorporated in 1961 and most recently became a public company in 1994. Plantronics is incorporated in the State of Delaware and is listed on the New York Stock Exchange ("NYSE") under the ticker symbol "PLT". 
+
+Our principal executive offices are located at 345 Encinal Street, Santa Cruz, California, 95060.  Our telephone number is (831) 426-5858.  Our Company website is www.plantronics.com.  
+In the Investor Relations section of our website, investor.plantronics.com, we provide free access to the following filings: our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. This access is provided directly or through a link on our website, shortly after these documents are electronically filed with, or furnished to, the Securities and Exchange Commission. In addition, documents regarding our corporate governance, code of conduct, and the charters of the standing committees of our Board of Directors are also accessible in the Investor Relations section of our website.
+ 1
+
+MARKET INFORMATION
+
+General Industry Background
+
+Plantronics operates predominantly in the electronics industry and focuses on the design, manufacture, and distribution of audio solutions for business and consumer applications.  We develop enhanced communication products for offices, contact centers, mobile devices, cordless phones, computers and gaming consoles.  We offer our products under one brand – Plantronics.
+The proliferation of voice communications applications across people's daily lives makes communications headsets a key driver of efficiency, ergonomic comfort and safety for our users.  The increased adoption of new and existing technologies, such as UC&C, Bluetooth, Voice over Internet Protocol ("VoIP"), Digital Signal Processing ("DSP"), and Digital Enhanced Cordless Telecommunications (“DECT™”), each of which is described below, has contributed to demand for our headsets and other audio solutions in new and evolving markets: 
+
+• | UC&C includes the categories of Unified Communications ("UC") (IP telephony, instant messaging, presence, unified messaging) as well as Team collaboration (persistent chat and team workspaces, integrated UC, application integrations) and Meetings (integrated audio, video and web conferencing). UC&C seeks to provide seamless connectivity and user experience for enterprise workers regardless of their location and environment, improve overall business efficiency and provide more effective collaboration among an increasingly distributed workforce. 
+
+
+• | Bluetooth wireless technology is a short-range communications protocol intended to replace the cables connecting portable and/or fixed devices while maintaining high levels of security. The key features of Bluetooth technology are ubiquity, low power, and low cost. The Bluetooth specification defines a uniform structure for a wide range of devices to connect and communicate with each other. Bluetooth standard has achieved global acceptance such that any Bluetooth enabled device, almost anywhere in the world, can connect to other Bluetooth enabled devices in proximity. 
+
+
+• | VoIP is a technology that allows a person to communicate using a broadband internet connection instead of a regular (or analog) telephone line. VoIP converts the voice signal into a digital signal that travels over the internet or other packet-switched networks and then converts it back at the other end so that the caller can speak to anyone with another VoIP connection or a regular (or analog) phone line. 
+
+
+• | DSP is a technology that delivers acoustic protection and optimal sound quality through noise reduction, echo cancellation, and other algorithms which improve transmission quality.
+
+
+• | DECT is a wireless communications technology that optimizes audio quality, lowers interference with other wireless devices, and digitally encrypts communication for heightened call security.
+
+Solutions 
+
+UC&C solutions continue to represent our primary area of focus. Our portfolio of solutions, which combines hardware with highly innovative sensor technology and software functionality, provides the ability to reach people using the mode of communication that is most effective, on the device that is most convenient, and with control over when and how people can be reached. In addition we have recognized the importance of supporting remote and mobile work styles that are more prevalent in UC&C environments and the trend toward open plan offices which causes unique noise challenges for office-based work styles. We have invested in a full portfolio of solutions to manage noise including specially tuned noise-canceling microphones to minimize transmission of background noise on calls and headsets that feature active noise-canceling technology to reduce distractions in open plan environments. Finally, our solutions allow users to transition calls seamlessly between PCs, smartphones, tablets, and desk phones, without interrupting the conversation or reducing the audio quality. We believe we are still early in the UC&C solutions market adoption cycle and that UC&C systems will become more commonly adopted by enterprises to reduce costs and improve collaboration. We believe our solutions will be an important part of the UC&C environment through the offering of contextual intelligence, a full portfolio of products designed according to quantitatively researched global work styles, and a unique software-as-a-service solution that allows customers to manage Plantronics audio device assets as well as track UC&C adoption down to the endpoint level. 
+ 2
+
+Our products enhance communications by providing the following benefits:
+
+• | Sensor technology that allows calls to be answered automatically when the user wears the headset, switches the audio from the headset to a mobile device when the user removes the headset and, with some softphone applications, updates the user's presence
+
+
+• | Smarter Working capability through seamless communications and high quality audio across a mobile device, desk phone, and PC with a single audio endpoint which allows users to communicate from a wide array of physical locations and increases productivity when away from a traditional office environment
+
+
+• | A convenient means for connecting various applications and voice networks, whether between land lines and mobile devices, or between PC-based communications and other networks
+
+
+• | Better sound quality that provides clearer conversations on both ends of a call through a variety of features and technologies, including noise-canceling microphones, DSP, and more
+
+
+• | Wireless freedom, allowing people to be on calls without cords or cables and to easily switch from public to private spaces
+
+
+• | Multi-tasking benefits that allow people to use computers and mobile devices, including smartphones or other devices, while talking hands-free 
+
+
+• | UC&C integration of telephony, mobile technologies, cloud-based communications, and PC applications, while providing privacy greater than traditional speakerphones
+
+
+• | Generating analytics our customers desire
+
+
+• | Compliance with hands-free legislation and enhanced roadway safety by allowing users to drive while talking on a mobile phone
+
+
+• | Voice command and control that allows users to take advantage of voice dialing and/or other voice-based features which make communications and the human/electronic interface more natural and convenient
+
+Product Categories
+Our audio solutions are designed to meet the needs of offices (ranging from enterprise to remote working), contact centers, mobile devices (such as mobile phones, smartphones, and tablets), computer and gaming, residential, and other applications.  Our customers' needs are increasingly overlapping as work styles and lifestyles change, and people use devices for multiple functions such as communication, music, and video entertainment.  We serve our customers' needs through our product categories listed below.
+Enterprise
+
+The Enterprise market comprises our largest revenue stream and we believe it also represents our largest growth opportunity. We offer a broad range of audio communications solutions which include high-end, ergonomically designed headsets, audio processors, and other contact center systems.  Our end-users comprise enterprise employees and small office, home office, and remote workers.  Growth in this market comes from the following three main factors:
+
+• | Increasing deployment of UC&C solutions
+
+
+• | Robust job market
+
+
+• | Growing awareness of the benefits of using headsets and the benefits of wireless solutions
+
+Contact centers are some of our most mature customers and, although they are adopting UC&C to help improve productivity and reduce costs, we expect contact center demand to grow slowly over the long-term.   As UC&C adoption continues to increase, we expect to continue leading in new product performance by creating solutions that combine hardware and software for an improved customer experience. 
+
+ 3
+
+Consumer
+
+The consumer market for communications headsets is currently going through a transition. Large brands are dominating this space in several ways: high growth is being seen in music-first brands that also allow communications, as well as headsets or ear buds that are bundled with smart phones. Our strategy is to focus on consumer categories where audio quality and communications is important to the customer.  The use of mono mobile headsets has experienced a notable decline in recent years, while the use of stereo Bluetooth technology has increased as individuals want to remain wireless without compromising on stereo sound quality. Our mono and stereo Bluetooth headsets merge technological innovations with style, because we believe style shapes consumers' purchasing decisions within the wearable technology space. A key focus in our stereo Bluetooth headsets is "noise-canceling" solutions which are increasingly popular and strengthen our relevance in premium immersive technology experiences. We are taking a disciplined approach in the consumer market by routinely refreshing our product offerings and being more selective in our product placement. 
+We believe future growth opportunities exist in gaming headsets where audio quality and communications are highly valued by customers. The current popularity of multi-player console games is driving secular growth in this space. We believe we are gaining solid traction in the console gaming space and have become a credible player in this category of the consumer market. Gaming headsets, whether used for interactive on-line or console gaming, or switching between music and phone calls for multi-functional devices, represent an opportunity in a distinct user market. As these users' needs converge, our headsets need to be compatible with PCs, mobile phones, tablets, gaming consoles, and various combinations of these devices.  
+FOREIGN OPERATIONS
+
+In Fiscal Years 2016, 2017, and 2018, net revenues outside the U.S. accounted for approximately 44%, 45%, and 49%, respectively, of our total net revenues.  Revenues derived from foreign sales are generally subject to additional risks, such as fluctuations in exchange rates, increased tariffs, the imposition of other trade restrictions or barriers, the impact of adverse global economic conditions, and potential currency restrictions.  In Fiscal Year 2018, consolidated net revenues were favorably impacted by fluctuations in exchange rates resulting in an increase of approximate $9 million (net of the effects of hedging).
+We continue to engage in hedging activities to limit our transaction and economic exposures, and to mitigate our exchange rate risks.  We manage our economic exposure by hedging a portion of our anticipated Euro ("EUR") and British Pound Sterling ("GBP") denominated sales and our Mexican Peso ("MXN") denominated expenditures, which together constitute the most significant portion of our currency exposure.  In addition, we manage our balance sheet exposure by hedging EUR, GBP, Australian Dollar ("AUD"), and Canadian Dollar ("CAD") denominated cash, accounts receivable, and accounts payable balances. Excess foreign currencies not required for local operations are converted into U.S. Dollars ("USD"). While our existing hedges cover a certain amount of exposure for Fiscal Year 2019, long-term strengthening of the USD relative to the currencies of other countries in which we sell may have a material adverse impact on our financial results. In addition, our results may be adversely impacted by future changes in foreign currency exchange rates relative to original hedging contracts generally secured 12 to 24 months prior. See further discussion on our business risks associated with foreign operations under the risk titled, "We are exposed to differences and frequent fluctuations in foreign currency exchange rates, which may adversely affect our revenues, gross profit, and profitability" within Item 1A Risk Factors in this Form 10-K.
+Further information regarding our foreign operations, as required by Item 101(d) of Regulation S-K, can be found in Note 18, Geographic Information, of our Notes to Consolidated Financial Statements in this Form 10-K.
+COMPETITION
+
+The market for our products is competitive and some of our competitors have greater financial resources than we do, as well as more substantial production, marketing, engineering and other capabilities to develop, manufacture, market, and sell their products.
+
+One of our primary competitors in the Enterprise market is GN Audio, a subsidiary of the GN Group, a Danish telecommunications conglomerate that competes with us in the Enterprise and Consumer markets and, to a lesser extent, in the gaming category.  Other competitors in the Enterprise market include Sennheiser Communications, Logitech and regional companies who offer products for the computer, office and/or contact center. In addition, Apple, Bose, Logitech, LG, Motorola and Samsung are significant competitors in the consumer headset category. In addition, Turtle Beach, Logitech, and Razer are competitors in the gaming category.
+ 4
+
+We believe the principal factors to be successful and competitive in each of the markets we serve are as follows:
+
+• | Understanding emerging trends and new communication technologies, such as UC&C, and our ability to react quickly to opportunities as they arise
+
+
+• | Alliances and integration/compatibility with major UC&C vendors
+
+
+• | Ability to design, manufacture, and sell products that deliver on performance, style, comfort, features, sound quality, simplicity, price, and reliability
+
+
+• | Ability to create and monetize software solutions from headset analytics that allow businesses to improve IT and employee performance through insights derived from the analytics
+
+
+• | Brand name recognition and reputation
+
+
+• | Superior global customer service, support, and warranty terms
+
+
+• | Effective and efficient global distribution channels
+
+We believe our products and strategy enable us to compete effectively based on these factors. 
+RESEARCH AND DEVELOPMENT 
+
+The success of our new products is dependent on a number of factors, including appropriate new product selection, timely completion and introduction, cost-effective manufacturing, quality and durability, acceptance of new technologies, and general market acceptance.  See further discussion regarding our business risks associated with our manufacturers under the risk titled, "Our business will be materially adversely affected if we are unable to develop, manufacture, integrate and market new products in response to changing customer requirements and new technologies" within Item 1A Risk Factors in this Form 10-K. 
+During Fiscal Years 2016, 2017, and 2018, we incurred approximately $90.4 million, $88.3 million, and $84.2 million, respectively, in research, development, and engineering expenses.  Historically, we have conducted most of our research, development, and engineering with an in-house staff and a limited use of contractors.  Key locations for our research, development, and engineering staff are in the U.S., Mexico, China, and the United Kingdom. 
+During Fiscal Year 2018, we developed and introduced innovative products that enabled us to better address changing customer demands and emerging trends.  Our goal is to bring the right products to customers at the right time utilizing best-in-class development processes.
+
+The products we are developing require significant technological knowledge and the ability to rapidly develop the products in intensely competitive and transforming markets. We believe our deep technological knowledge and intellectual property gives us a competitive advantage. We furthermore continually strive to improve the efficiency of our development processes through, among other things, strategic architecting, common platforms, and increased use of software and test tools. 
+SALES AND DISTRIBUTION
+
+We maintain a worldwide sales force to provide ongoing global customer support and service.  To support our customers' needs, we have a well-established, multi-level distribution network in North America, Europe, and in some parts of the Asia Pacific region where use of our products is widespread. Our distribution channels in other regions are less mature and we primarily serve the Enterprise market in those regions. 
+Our global commercial sales channel includes technology and electronics distributors, and national and regional resellers.  Our resellers typically offer a wide variety of products from multiple vendors to other resellers as well as end users.  Our commercial distribution channel generally maintains an inventory of our products.  Our distribution of specialty products includes distributors, retail, government programs, and health care professionals.
+
+Our retail channel consists of both traditional and online consumer electronics retailers, consumer product retailers, office supply distributors, wireless carriers, catalog and mail order companies, and mass merchants.  Our headsets are sold through retailers to corporate customers, small businesses, and individuals who use them for a variety of personal and professional purposes.  Revenues from this channel are seasonal, with our third fiscal quarter typically being the strongest quarter due to holiday seasonality.
+ 5
+
+
+We have a diverse group of customers located throughout the world.  Our principal channel partners are distributors, retailers, and carriers.  Our commercial distributors and retailers represent our first and second largest sales channels in terms of net revenues, respectively.  One customer, Ingram Micro Group, accounted for 10.9% of consolidated net revenues in each of Fiscal Years 2018 and 2017. No customer accounted for more than 10% of our consolidated net revenues in Fiscal Year 2016.
+Our distributors, resellers, system integrators, managed service providers, e-commerce partners, telephony and computer equipment providers resell our commercial headsets and end point products. Wireless carriers, retailers, and e-commerce partners also sell our consumer headsets as Plantronics-branded products. Carriers purchase headset products from us for use by their own customer service representatives and in some cases, also offer headsets to their customers.    
+We have also established strong UC&C alliances with leading providers of UC&C software solutions, and these alliances enhance the sales and distribution of our products to large enterprises deploying UC&C solutions. In some cases, these partners also resell our solutions to customers as part of a broader communications solution. 
+Our products may also be purchased directly from our website at www.plantronics.com.
+We continue to evaluate our logistics processes and implement new strategies to further reduce our transportation costs and improve lead-times to customers. Currently, we have distribution centers in the following locations:
+
+• | Tijuana, Mexico, which provides logistics services for products destined for customers in the U.S., Canada, Asia Pacific, Middle East, and Latin America regions
+
+
+• | Prague, Czech Republic, which provides logistics services for products shipped to customers in our Europe and Africa regions
+
+
+• | Suzhou, China, which provides logistics services for products shipped to customers in Mainland China
+
+
+• | Melbourne, Australia, which provides logistics services for products shipped to the retail channel in Australia and New Zealand
+
+
+• | Tokyo, Japan, which provides logistics services for products shipped to customers in Japan
+
+With respect to the above locations, we use third party warehouses in the Czech Republic, Australia, and Japan. We also operate warehouse facilities in Mexico and China. 
+BACKLOG
+
+Our backlog of unfilled orders was $18.6 million and $26.4 million at March 31, 2017 and 2018, respectively. We include all purchase orders scheduled for future delivery in backlog.  We have a “book and ship” business model whereby we fulfill most orders within 48 hours of receipt. As a result, our net revenues in any fiscal year depend primarily on orders booked and shipped in that year. In addition, our backlog is occasionally subject to cancellation or rescheduling by the customer on short notice with little or no penalty.  Therefore, there is a lack of meaningful correlation between backlog at the end of a fiscal year and the following fiscal year's net revenues. Similarly, there is a lack of meaningful correlation between year-over-year changes in backlog as compared with year-over-year changes in net revenues. As a result, we do not believe that backlog information is material to an understanding of our overall business. 
+MANUFACTURING AND SOURCES OF MATERIALS
+
+Our manufacturing operations consist primarily of assembly, testing and packaging, which are performed in our facility in Tijuana, Mexico.  We outsource the manufacturing of our Bluetooth products to third party manufacturers in China. We also outsource the manufacturing of a limited number of our other products to third parties, typically in China and other countries in Asia.  For a further discussion of the business risks associated with our manufacturers see the risk titled, "We have significant manufacturing, assembly and packaging operations in Mexico and rely on third party manufacturers located outside of U.S., and a significant amount of our revenues are generated internationally, each of which subjects our business to risks of international operations" within Item 1A Risk Factors in this Annual Report on Form 10-K.
+ 6
+
+We purchase the components for our products primarily from suppliers in Asia, Mexico, and U.S., including proprietary custom integrated circuits, electrical and mechanical components, and sub-assemblies.  A majority of the components and sub-assemblies used in our manufacturing operations are obtained, or are reasonably available, from dual-source suppliers, although we do have a number of sole-source suppliers.
+We procure materials to meet forecasted customer requirements.  Special products and certain large orders are quoted for delivery after receipt of orders at specific lead time.  We maintain a minimum level of finished goods based on estimated market demand, in addition to inventories of raw materials, work in process, sub-assemblies, and components.  In addition, a substantial portion of the raw materials, components, and sub-assemblies used in our products are provided by our suppliers on a consignment basis.  Refer to “Off Balance Sheet Arrangements and Contractual Obligations”, within Item 7, Management's Discussion and Analysis, in this Annual Report on Form 10-K for additional details regarding consigned inventories. We write down inventory items determined to be either excess or obsolete to their net realizable value.
+ENVIRONMENTAL MATTERS
+
+We are subject to various federal, state, local, and foreign environmental laws and regulations, including those governing the use, discharge, and disposal of hazardous substances in the ordinary course of our manufacturing process.  We believe that our current manufacturing and other operations comply in all material respects with applicable environmental laws and regulations. We are required to comply and we believe are currently in compliance with the European Union (“EU”) and other Directives on the Restrictions of the use of Certain Hazardous Substances in Electrical and Electronic Equipment (“RoHS”) and on Waste Electrical and Electronic Equipment (“WEEE”) requirements.  Additionally, we believe we are compliant with the RoHS initiatives in China and Korea; however, it is possible that future environmental legislation may be enacted or current environmental legislation may be interpreted to create an environmental liability with respect to our facilities, operations, or products. See further discussion of our business risks associated with environmental legislation under the risk titled, "We are subject to environmental laws and regulations that expose us to a number of risks and could result in significant liabilities and costs" within Item 1A Risk Factors of this Form 10-K. 
+INTELLECTUAL PROPERTY
+
+We obtain patent protection for our technologies when we believe it is commercially appropriate.  As of March 31, 2018, we had approximately 800 worldwide utility and design patents in force, expiring between calendar years 2018 and 2042.
+We intend to continue seeking patents on our inventions when commercially appropriate. Our success will depend in part on our ability to obtain patents and preserve other intellectual property rights covering the design and operation of our products.  See further discussion of our business risks associated with our intellectual property under the risk titled, "Our intellectual property rights could be infringed on by others, and we may infringe on the intellectual property rights of others resulting in claims or lawsuits. Even if we prevail, claims and lawsuits are costly and time consuming to pursue or defend and may divert management's time from our business" within Item 1A Risk Factors of this Form 10-K.
+
+We own trademark registrations in the U.S. and in a number of other countries with respect to the Plantronics trademarks, as well as the names of many of our products and product features.  We currently have pending U.S. and foreign trademark applications in connection with certain new products and product features and may seek copyright protection where we believe it is applicable.  We own a number of domain name registrations and intend to seek more as appropriate.   We also attempt to protect our trade secrets and other proprietary information through comprehensive security measures, including agreements with customers and suppliers, and proprietary information agreements with employees and consultants. See further discussion of our business risks associated with intellectual property under the risk titled "Our intellectual property rights could be infringed on by others, and we may infringe on the intellectual property rights of others resulting in claims or lawsuits. Even if we prevail, claims and lawsuits are costly and time consuming to pursue or defend and may divert management’s time from our business."
+POLYCOM ACQUISITION
+On March 28, 2018, we announced a definitive Stock Purchase Agreement (the “Purchase Agreement”) with Triangle Private Holdings II, LLC (“Triangle”) and Polycom, Inc. (“Polycom”) a privately-held company, pursuant to which, subject to the satisfaction or waiver of certain conditions set forth therein, we will purchase from Triangle all of the issued and outstanding shares of capital stock of Polycom (the “Polycom Transaction”).
+
+We believe this acquisition will enhance the Plantronics position with our channel partners, customers, and strategic alliance partners by allowing us to pursue additional opportunities across the UC&C market in both hardware end points and services. The addition of Polycom’s product and services portfolio, is expected to enable us to accelerate our strategic vision of becoming 
+ 7
+
+a global leader in communications and collaboration experiences. We believe this acquisition will position us to capture additional opportunities through data analytics and insight services across a broad portfolio of communications endpoints.
+EMPLOYEES
+
+On March 31, 2018, we employed approximately 4,003 employees worldwide, including approximately 2,905 employees at our manufacturing facility in Tijuana, Mexico.  To our knowledge, no employees are currently covered by collective bargaining agreements.
+EXECUTIVE OFFICERS OF THE REGISTRANT
+Set forth in the table below is certain information regarding the executive team of Plantronics:
+
+NAME | AGE | POSITION 
+Joe Burton | 53 | President and Chief Executive Officer 
+Pamela Strayer | 49 | Senior Vice President and Chief Financial Officer 
+Mary Huser | 54 | Senior Vice President, General Counsel and Corporate Secretary
+Jeff Loebbaka | 56 | Senior Vice President, Global Sales 
+Shantanu Sarkar | 49 | Senior Vice President, Enterprise Line of Business 
+
+
+Mr. Burton joined Plantronics in 2011 as Senior Vice President of Engineering and Development and Chief Technology Officer and was promoted to various positions including Executive Vice President and Chief Commercial Officer before being named President and Chief Executive Officer and appointed to our Board of Directors in 2016. Prior to joining Plantronics, Mr. Burton held various executive management, engineering leadership, strategy, and architecture-level positions. From 2010 to 2011, Mr. Burton was employed by Polycom, Inc., a global provider of unified communications solutions for telepresence, video, and voice, most recently as Executive Vice President, Chief Strategy and Technology Officer and, for a period of time, as General Manager, Service Provider concurrently with his technology leadership role. From 2001 to 2010, Mr. Burton was employed by Cisco Systems, Inc., a global provider of networking equipment, and served in various roles with increasing responsibility including Vice President and Chief Technology Officer for Unified Communications and Vice President, SaaS Platform Engineering, Collaboration Software Group. He holds a Bachelor of Science degree in Computer Information Systems from Excelsior College (formerly Regents College) and attended the Stanford Executive Program.
+Ms. Strayer joined Plantronics in 2012 as Senior Vice President and Chief Financial Officer. She is responsible for all aspects of the Company's financial management, in addition to managing the information technology and investor relations organizations.  Prior to joining Plantronics, from 2005 to 2012, Ms. Strayer held senior financial management roles at Autodesk, Inc., a world leading software design and services company.  Most recently, Ms. Strayer served as Autodesk's Vice President of Finance, Corporate Controller, and Principal Accounting Officer.  Prior to Autodesk, Ms. Strayer held senior finance positions at Epiphany, Inc., a developer of customer relationship management software and Informix Software, Inc., a developer of database software for computers. She also worked in audit services at KPMG, LLP.  Ms. Strayer holds a bachelor's degree in Business Administration from The Ohio State University and is a California licensed Certified Public Accountant.
+
+Ms. Huser joined Plantronics in March 2017 as Senior Vice President, General Counsel and Corporate Secretary. Prior to joining Plantronics, Ms. Huser served as Vice President, Deputy General Counsel at BlackBerry, a mobile-native security software and services company, and General Counsel of its Technology Solutions division from 2013 to 2014 and again during 2016 until she joined Plantronics. Before BlackBerry, during 2015, Ms. Huser was Senior Vice President, Legal for McKesson Corporation, a global healthcare supply chain, retail pharmacy, specialty care and information technology company. Prior to that time, she was a partner, office managing partner and practice group leader at Bingham McCutchen LLP, an international law firm, from 1988 to 2007 and again from 2010 to 2013. Ms. Huser also served as Vice President, Deputy General Counsel of eBay, Inc., an online global commerce leader, from 2008 to 2010. Ms. Huser graduated from the University of Wisconsin - Madison, with a Bachelor of Business Administration, Accounting and Marketing and holds a Juris Doctorate from Stanford Law School.
+Mr. Loebbaka joined Plantronics in October 2017 as Senior Vice President, Global Sales. Prior to joining Plantronics, from March 2016 to June 2017, Mr. Loebbaka served as Chief Commercial Officer at Spruce Finance, Inc., a consumer finance company. Before Spruce Finance, he served as Senior Vice President, Global Sales, Marketing and Service, at Enphase Energy, an energy management and solutions technology company, from 2010 to 2015. Previously, he held roles of ever increasing responsibility in sales and marketing at Seagate Technology, PLC, an industry leading company focused on core elements of data storage in the enterprise and consumer markets, including Senior Vice President of Europe, Middle East and Africa and earlier as a Senior Vice President of Global Channel Sales and Corporate Marketing. Mr. Loebbaka has also held General Manager and other senior sales 
+ 8
+
+and marketing management roles at Adaptec, a computer storage products company, Brunswick Corporation, a leading global designer, manufacturer and marketer of recreation products company, and Apple, Inc., a multinational technology company. Mr. Loebbaka holds an MBA from The Kellogg School of Management at Northwestern University and a Bachelor of Science degree in Mechanical Engineering from the University of Illinois at Urbana-Champaign.
+Mr. Sarkar joined Plantronics in 2011 as Vice President, Software and Firmware and was promoted through ever increasing roles and responsibilities to his current role as Senior Vice President, Enterprise Line of Business. Before joining Plantronics, Mr. Sarkar led the Advanced Technology, Strategy and Corporate Development Team at Polycom in 2011 and worked at Cisco for 14 years leading engineering teams, strategy, worldwide UC standards engagement, mergers and acquisitions, advanced technology for collaboration, and product development in the Cisco Voice Technology Group. Mr. Sarkar holds a M.S. in Computer Science from The Ohio State University and a Bachelor of Science degree in Computer Science from the Indian Institute of Technology, Kharagpur, India.
+Executive officers serve at the discretion of the Board of Directors.  There are no family relationships between any of the directors and executive officers of Plantronics.
+
+ 9
+

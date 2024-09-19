@@ -1,0 +1,254 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. BUSINESS
+ 
+EnSync, Inc. and its subsidiaries, which are often referenced as EnSync Energy or EnSync for marketing and branding purposes (“EnSync Energy,” “EnSync”, “we,” “us,” “our,” or the “Company”) is a renewable energy systems and services company whose innovative and differentiated technologies and capabilities are designed to deliver the least expensive, highest value and most reliable electricity. With the Company’s May 2018 announcement of the EnSync Home Energy System, we now serve all three major markets in the renewable energy space: Residential Energy Systems, Commercial Energy Systems and Independent Utility Energy Systems. Our systems utilize highly configurable modules, that together with our Auto-Sync DC Bus and DER FlexTM internet of energy control platform, enable simple design, configuration and deployment of mass-customized systems that meet the specific needs of each project with the best possible economics in a highly dynamic environment with multiple economic value streams. We are vertically integrated, from lead generation to system design and deployment, to warranty and operating and maintenance services. We typically utilize a 20-year PPA structure where the offtaker contracts to purchase electricity from a completed system owned by a third-party that acquires the PPA from us. We also sell systems directly to the end customer or through our channel partners.
+ 
+
+2
+-
+
+ 
+
+Incorporated in 1998, EnSync is headquartered in Menomonee Falls, Wisconsin, USA, with offices in Madison, Wisconsin, Petaluma, California, Honolulu, Hawaii and Shanghai, China.
+ 
+Energy Market Trends and Inflection Points
+ 
+A fundamental shift is taking place in the way energy is generated, distributed and consumed in the U.S. and other world markets. Government policies at the federal and state level continue in aggregate to support the mass proliferation of renewable energy generation. Concurrently, legacy carbon emitting and nuclear energy sources of generation are being decommissioned. With renewable generation being intermittent in nature, and peak generation being either mid-day for solar or at night for wind, there is now a large issue with mismatch of supply and demand since peak consumption is in the early evening and shortly after sunrise. This mismatch of supply and demand is creating challenges for the overall grid system. So while government policies are strongly incentivizing renewable generation, there is now a realization that energy storage should be coupled with renewable energy generation in order to more effectively match supply and demand. There is a push to do this at the utility level, but recently also a significant push to create solar plus energy storage installations that are distributed closer to the source of electricity demand, including at commercial buildings and residential properties. Distributing the solar plus energy storage installations closer to the demand makes sense both from an efficiency standpoint, as there are far fewer line losses, as well as from a grid reliability perspective. These solar plus storage assets are referred to as distributed energy resources (“DERs”), and this trend from simple solar distributed generation systems (“DG Systems”), that are on or off based upon when the sun is shining, to DERs which can give more control over the generated electricity use, is one of the most exciting developments in the energy market in the last 50 years. Navigant Research forecasts the annual market for solar plus energy storage distributed energy systems to grow to nearly $50 billion by 2026, with a compound annual growth rate of more than 40 percent in such period. DERs can feature generation as large as 5 MW or as small as can fit on a single family, residential property. However, the integration of solar and energy storage systems into a residence or building that has a highly dynamic load during the day creates a complexity that requires sophisticated, efficient power electronics and control systems. This complexity is what enables EnSync to develop highly differentiated DER system solutions.
+ 
+There is also an additional market inflection based upon a widespread trend towards democratization in tightly controlled legacy industries, where consumer behavior and choice is driving radical market fragmentation. This trend cannot be understated as consumer behavior often vastly overwhelms other factors that change entire industries. Ridesharing, cord cutting with cable companies, streaming music and peer-to-peer property rentals are just a few examples of the breathtaking pace of change and push for independence that has taken place across legacy, tightly controlled markets. There is almost no market imaginable that is more ripe for disruption and democratization than energy generation and consumption, and consumers wanting to take control from the utility. A key driver for these types of massive market disruptions is not only the desire for individual control, but also the cost of the inputs. For residential and commercial DERs, the decreasing cost of solar modules and lithium-ion batteries, both of which have dropped by 80% since 2010, is expected to accelerate this shift. This trend towards self-generation will be transformative and with its products, services and business models, EnSync is poised to drive and capitalize on this trend.
+ 
+Our Products and Technology
+ 
+We leverage core, differentiated technologies and business models that are largely common across Residential Energy Systems, Commercial Energy Systems and Independent Utility Energy Systems markets. We have a track record of bringing not only leapfrog innovation to the energy market, but being able to commercialize that innovation for successful customer and business results.
+ 
+MatrixTM Energy Management System with Auto-Sync DC-Bus
+ 
+Our MatrixTM Energy Management System is breakthrough technology as a behind-the-meter energy control system targeted specifically at the Commercial Energy Systems and Residential Energy Systems markets. MatrixTM delivers comprehensive functionality with power management and control capability for performing multiple, simultaneous applications each delivering economic value by saving money, selling grid services or providing resiliency. The MatrixTM provides:
+ 
+
+· | active energy synchronization for any or all direct current (“DC”) and alternating current (“AC”) inputs and outputs;
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | prioritization and optimization of all generating assets without system controllers and complex algorithms;
+--+------------------------------------------------------------------------------------------------------------
+
+
+· | management of every power and energy storage application and asset in simultaneous operation; and
+--+--------------------------------------------------------------------------------------------------
+
+
+· | modular, scalable, efficient and future proof energy management as a 20-year asset.
+--+------------------------------------------------------------------------------------
+
+ 
+MatrixTM utilizes our patented Auto-Sync DC-Bus, enabling simple integration of all AC and DC system inputs, and automatically routing the generated electricity in the most efficient and cost-effective manner, in or out of the building. MatrixTM is modular and configurable, designed to meet the building owner’s needs today, as well as providing a future proof solution for potential applications tomorrow. It also enables complete DER asset-to-utility communication for smart export, or no export, and can be clustered in a secure network as a set of assets that in the future will be able to perform real-time spot market electricity sales through our DER FlexTM internet of energy control platform to the utility, grid operator or peers in a networked community.
+ 
+
+3
+-
+
+ 
+
+MatrixTM is elegant in its simplicity and reliability as there are no complex control algorithms that need to be developed for specific use cases. Its modularity and scalability enables mass customization for any sized installation or application set from residential energy systems to large-scale commercial energy systems. MatrixTM is a key differentiator in the Commercial Energy Systems market for DERs, and a major advantage incorporated into our recently announced EnSync Home Energy System.
+ 
+Home Energy System
+ 
+In May 2018, we formally launched the Company's leapfrog EnSync Home Energy System for property developers and residential customers, which will allow for a completely integrated system with solar, energy storage, power electronics and an internet of energy control platform that delivers state-of-the-art functionality and modularity, with industry benchmark economics, safety and system efficiency. Chief advantages relative to other residential energy systems in the U.S. market are:
+
+· | advanced lithium-ion batteries that feature a safer battery chemistry;
+--+-----------------------------------------------------------------------
+
+
+· | 9 kW of AC power, which is enough to power the entire home for nearly all homeowners;
+--+--------------------------------------------------------------------------------------
+
+
+· | True Peer-to-PeerTM energy exchange with the EnSync DC-Link for a significant increase in generated photovoltaic (“PV”) utilization at multi-family, multi-unit residential developments;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | unequaled modularity and configurability, with up to three 9 kWh energy storage batteries and 9 kW of PV being possible;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+· | state-of-the-art power electronics for the highest efficiency available; and
+--+-----------------------------------------------------------------------------
+
+
+· | an industry leading internet of energy control platform, DER FlexTM, with capabilities that have been proven in our commercial energy systems installations.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+DER SuperModule™ System
+ 
+The DER SuperModule™ System is a self-contained DER system that integrates with any facility’s renewable generation, customer load and grid interconnection. The result is a plug and play solution for deploying the least expensive, highest value and most reliable electricity. Featuring the patented Matrix™ Energy Management technology and application specific combination of both power and energy storage, the DER SuperModuleTM System creates a high-performance DER that today enables the grid network of tomorrow, and provides unparalleled capability for remote microgrid environments.
+ 
+From sub-500 kWh to more than 1 MWh in size, the DER SuperModuleTM System enables the optimum initial system configuration, along with the ability to evolve over the lifetime of the installation to continually maximize new avenues that make or save money. With the changing nature of energy policies and available revenue streams, our innovative power controls and storage technologies, fully integrated within a container, provide the greatest performance advantages in developing environments.
+ 
+DER FlexTM Internet of Energy Control Platform
+ 
+The DER Flex™ is a breakthrough internet of energy control platform that seamlessly connects owners of DERs for the Commercial and Residential Energy Systems markets to real time information, system reporting and other vital functions for asset management. It also provides access to market information such as utility rate data, utility ancillary services rates, real time wholesale energy prices so the asset owner can monetize exported electricity, and weather forecast data for optimizing system performance. For example, if it is going to be a sunny morning, but a cloudy afternoon, the DER FlexTM can automatically charge the batteries so that they can discharge and compensate for the low solar afternoon. DER FlexTM uses utility grade hardware and standard utility communication protocols, providing a secure communication link between the DER and the utility. DER FlexTM allows multiple DERs to be aggregated into a larger generation source by the utility or grid operator. This ensures the means to make or save money behind-the-meter (also referred to as the customer side of the meter), while concurrently providing utilities the opportunity to use DERs for an array of grid enhancing services. Automation of these transactions means DER facility operators do not need to become experts in energy markets to maximize revenue. They can simply focus on monitoring the energy system’s performance, while receiving a revenue stream and benefiting from utility bill reductions.
+
+4
+-
+
+ 
+
+True Peer-to-PeerTM Energy Exchange with DC-Link
+ 
+Many multi-family, multi-unit properties are composed of dwellings that have a low electricity load, such as normally exists in one and two bedroom units. With utility net metering credits being significantly reduced or eliminated, it is almost impossible to install solar on these low load units because too much of the solar generation is exported to the grid for little or no credit and it will overwhelm any PV related savings. Energy storage can help alleviate this problem, but cannot by itself solve all the problems, especially if the residents are gone much of the daytime, or are frequently traveling. In this case, the battery will quickly charge to capacity and any excess gets exported to the grid. Also, if the development is a rental property, 10-15% vacancy rates are typical and once the battery is fully charged, the electricity will just be exported to the grid for zero credit since there is no grid electricity consumption to offset. In summary, the economics of deploying solar in large multi-unit, multi-family properties is becoming challenging, if not impossible, especially in regions that have reduced net metering credits.
+ 
+With the breakthrough of the EnSync Home Energy System and True Peer-to-PeerTM energy exchange technology, individual residential units can be networked into a community utilizing a physical DC-Link that connects the units behind their respective meters. Each unit can be configured with an optimum amount of solar generation and battery storage for the energy demands of that individual unit. Should any unit have excess solar generation that cannot be stored by the battery system, that electricity is available for use by any other unit in the network. Impacts of micro-loading, extended absences and time of day surpluses or shortages for any individual unit can be aggregated across the overall population of residences in the networked community. Low load units can be served by the overall DC-Link electricity and may not even need PV at all. The payoff for this property-wide generation efficiency is simple, lower grid electricity consumption and maximum utilization of your solar generation across the development. The EnSync Home Energy System and True Peer-to-PeerTM energy exchange technology can be deployed for new greenfield developments or existing properties.
+ 
+Concurrent with our May 2018 entry into the Residential Energy Systems market, EnSync also announced the first project deployment for True Peer-to-PeerTM at Keahumoa Place, an approximately 300 unit affordable housing development in Oahu, Hawaii. This installation is the first of its kind in the U.S.
+ 
+Hybrid Energy Storage Systems
+ 
+There are potentially a dozen or more applications that can be performed by a DER in any given commercial installation. Each application must be optimized for performance and economics to either make or save the most money. Some of these applications require high power for short duration many times a day, while others require energy for long durations at lower frequencies, usually only once a day. We utilize hybrid battery storage systems so that all potential customer applications benefitting from batteries can be addressed with the most reliable, cost effective and longest lifetime solution. This unique capability to incorporate both power and energy batteries into the same DER, with them being independently controlled without complex software algorithms, is a strong market differentiator and driver of increased DER system value.
+Target Markets
+ 
+Our energy management systems, storage technologies and internet of energy control platform targets a variety of applications in three primary markets: Residential Energy Systems, Commercial Energy Systems and Independent Utility Energy Systems.
+Residential Energy Systems
+ 
+In March 2018, GTM Research (“GTM”) forecasted that the market for deployed residential energy storage system capacity in the U.S. would grow at a compound annual growth rate (“CAGR”) of more than 80% from 2018 through 2023, compared to the overall U.S. storage market growth of approximately 50% CAGR. GTM also forecasts that nearly 7.0 GWh of energy storage batteries will be installed in the residential market during this period. We estimate that this translates into an approximate U.S. residential energy storage system served market size of approximately $6.5 billion over this same period of time. We believe that by 2021, the Residential Energy Systems market in the U.S. will be larger in value and capacity deployed than the Commercial Energy Systems market. In May 2018, we formally launched the Company's leapfrog EnSync Home Energy System for property developers and residential customers, which will allow for a completely integrated system with solar, energy storage, power electronics and an internet of energy control platform that delivers state-of-the-art functionality and modularity, with industry benchmark economics, safety and system efficiency.
+ 
+Our initial focus is the market for multi-family, multi-unit residential properties, where our differentiation is maximized. In 2020 and beyond, we expect to expand the market by building a developer network for the product. By 2021, we expect our Residential Energy Systems business to surpass the Commercial Energy Systems business in size.
+ 
+
+5
+-
+
+Commercial Energy Systems
+ 
+We provide revolutionary energy systems that enable a dramatic reduction in the cost of electricity and increases the financial returns for commercial building installations, including DERs, DG Systems and systems for data centers. Our systems create net zero buildings and provide utilities with sources of energy in critical peak or critical load situations.
+
+· | High-Performance DERs: Our DER SuperModuleTM System is a self-contained DER system that integrates with any building’s renewable generation, load and grid interconnection. The result is a plug and play solution for deploying the least expensive, highest value and most reliable electricity.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Solar DG Systems: We install a large number of DG Systems for commercial buildings, in cases where the installation has a very high load that consumes all solar or a rate structure that does not benefit from installation of a DER. We custom engineer the systems for the specific building opportunity, then work with a network of partners on the installation and commissioning.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Modular Data Centers: The MatrixTM platform is ideal for the head-end and hub type of data centers deployed by multi-system operators in the U.S. that manage voice, video and data streaming. These data centers benefit from the MatrixTM being capable to easily scale to the needs of the data center, based upon 50 kW power blocks, as well as its ability to enable the industry to transition to a 380V DC architecture from the current higher cost 48V DC. The modular nature of our product enables the tailoring of the system to the specific needs of a location without incurring a large amount of expenses performing customer engineering.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Independent Utility Energy Systems
+ 
+We are engaged in providing energy systems that effectively perform as a proxy for a utility. These independent utility energy systems can be solar only, solar plus energy storage, or even energy storage by itself. For example, in the third quarter of fiscal 2018, we announced our entry into the Illinois market and plan to target community solar installations as part of that state’s renewable energy resource plan. Residents in the utility service territory where the installation is located can subscribe to the power being produced. We are partnering with entities established in the state that will contract with the subscribers for the power from the installations that are designed and deployed by us.
+ 
+Off-grid, micro-utility systems are another focus of EnSync, with markets such as Africa being ideal for our products and services. Our modular technologies and analytic capabilities meet the complexities of the burgeoning microgrid market in African countries, where energy demand is growing rapidly, but traditional electricity infrastructure is often lacking. Thousands of microgrids will be required throughout the continent in order to provide electricity to the many millions of people who currently lack access to electricity.
+ 
+Multiple Business Models
+ 
+Power Purchase Agreements
+ 
+The majority of our business is addressed through the use of PPAs. Under this PPA structure, we agree to develop and supply an energy producing system and the building owner or offtaker agrees to purchase the electricity from the completed system at a contracted rate, usually for a 20-year period. Through these arrangements, the offtaker receives the benefit of a low and contracted price for electricity without incurring the capital expenditures required to develop and build the system.
+ 
+Because building these PPA projects requires significant long-term capital outlays, we do not intend to own the PPA projects, but rather seek to sell them to third-party investors once we have completed the site development process. Site development activities include: (i) finalizing the engineering design of the system, (ii) applying for and receiving the necessary permits for construction of the system and (iii) negotiation of an interconnection agreement with the local utility. This site development process typically takes three to four months.
+ 
+We typically do not begin construction of a specific PPA project or procure materials until the PPA project has been sold to a third-party. Accordingly, during the site development process, we engage in a sale process and provide interested purchasers with information related to the system. The purchase price for a particular system is determined through a formula that we believe is customary in the solar industry, taking into account the revenue stream to be received from the offtaker, discounted to present value based on customary internal rates of return for similar projects, the costs of completing, maintaining and administering the system and certain other factors.
+ 
+Once the system has been sold, we begin construction which includes procurement of the necessary equipment, physical construction and commissioning of the system. The construction period varies based on many internal and external factors, but is typically completed within six to nine months.
+ 
+Our sales agreement with the buyer of the system typically provides for us to receive an upfront payment and additional progress payments to be made based upon achievement of certain key procurement, construction and commissioning milestones.
+ 
+
+6
+-
+
+ 
+
+We recognize revenue from these PPAs on a percentage of completion basis as we build out and commission the system. Costs and estimated earnings in excess of billings represent amounts earned and reimbursable under contracts with the system purchaser and is carried as an asset on our consolidated financial statements. Any excess cash received from the system purchaser in excess of recognized revenue is recorded as billings in excess of costs and estimated earnings and is carried as a liability on our consolidated financial statements. Based on our experience to date, we expect to recognize all revenue from a particular PPA project typically within 12 months of the signing of the related PPA.
+ 
+We may also enter into a service agreement with the owner of a PPA project pursuant to which we provide ongoing administrative, operating and maintenance services. These agreements usually have a term which matches the PPA term. We recognize revenue from a service agreement ratably over the life of the related agreement.
+ 
+Direct Sales
+ 
+We sell entire systems, including energy storage, energy management systems, PV distributed generation and the internet of energy control platform in their entirety, directly to customers. In these cases, the customers are generally directly procuring the system and taking any associated tax credits. In some instances, we sell components of systems to an intermediary doing the overall project development for the end customer, such as a MatrixTM Energy Management System being sold for a specific customer opportunity.
+ 
+Strategic Partners
+ 
+We continue to utilize strategic partners to maximize our speed to market with solutions, augment our capabilities and expand our global presence, and plan to continue to evolve strategic relationships in geographic markets that offer rapid and substantial growth opportunities. Strategic partners offer numerous benefits such as market entry and penetration, low-cost manufacturing, financial consideration, technical complement, government relationships and integration as well as support services.
+Competition
+ 
+As discussed elsewhere in this Business section of this Annual Report on Form 10-K, we believe our technologies and products provide us with certain competitive advantages in the markets we serve. However, even with these advantages, the market for renewable energy products and services is intensely competitive and continually impacted by evolving industry standards, rapid price changes and product obsolescence. Our competitors include many domestic and foreign companies, most of which have substantially greater financial, marketing, personnel and other resources than we do. Although we believe that the advantages described above and elsewhere in this Business section of this Annual Report on Form 10-K position us well to be competitive in our industry, as a small company, we are and will continue to be at a competitive disadvantage to most of our competitors, particularly for large utility contracts.
+Intellectual Property
+ 
+Our market position, in part, depends on our intellectual property (“IP”) portfolio and our ability to obtain and maintain intellectual property protection for our products, processes, technology and know-how.  We seek to protect our IP by, among other methods, filing U.S. and foreign patent applications related to our proprietary technology, inventions and improvements that are important to the development and conduct of our business.  We also rely on trademarks, trade secrets, know-how and continuing technological innovation to evolve and secure our proprietary position.  When it is determined that a trade secret is the most prudent approach to IP protection, we employ confidentiality agreements with our employees, customers, prospective customers, consultants, advisors, contractors or any other person or entity requiring knowledge of our IP for technology development or business development reasons.
+ 
+We continue to have domestic and international patents issued on our power and energy control architecture known as the Auto-Sync DC-Bus, which is utilized in our Matrix™ Energy Management System and most recently our Home Energy System. As an extension of the Auto-Sync DC-Bus IP, we have further developed and filed IP for hybridization of multiple types of energy storage in a single system.  Other system level IP has been developed and patents filed utilizing these concepts to retrofit existing PV systems with energy storage without impacting the existing equipment and/or operation, allowing a conversion from an uncontrollable to controllable PV power generation system.  We continue to expand our Auto-Sync DC-Bus IP into system level operation of DC distribution as True Peer-to-PeerTM energy exchange. Additionally, we continue to have multiple domestic and international patents allowed and pending on power conversion control concepts related to renewable energy optimization.
+ 
+We continue to view the internet of energy as a key developing market.  We have ongoing efforts towards expanding capability for Commercial and Residential Energy Systems, in addition to utility asset management.  Our control expertise and ability to leverage third-party data will be an enabling capability for a future where spot market buying and selling of electricity between asset owners and the utility is realized by an individual site or an aggregation of multiple sites.  IP for this unique approach has been developed and patents have been filed.  This advancement now allows us to be the hub through which electricity and communication between the generating assets and the utility passes.  
+ 
+
+7
+-
+
+ 
+
+Our structured finance team has developed proprietary economic modeling capabilities to produce financial return scenarios and create the optimal structure for our PPA business.  Our advanced modeling factors load profiles and operating requirements, as well as all sources of electricity, including DERs such as solar, batteries (single technology and power plus energy hybrid) and diesel generators, in conjunction with available utility resources.
+ 
+We have filed in the U.S. and internationally for multiple patents in areas of energy storage technology and applications and control technologies.  Our filings are intended to further our differentiation, as our ability to control complex functions in simple and economical ways is unique.  Through the advanced development of our IP, our product and system solutions portfolio continues to expand.  Areas such as hybridization of multiple storage technologies, concurrent control of multiple applications without the requirement for complicated control schemes, communications and control with utility power, energy management by site and by aggregation of sites, and modular energy storage that upgrades seamlessly into existing PV systems are all breakthroughs for the commercial and industrial building market.  Additionally, we continue to advance our energy storage research and development.
+ 
+To date, we have had more than 120 patents allowed or that are pending domestically and internationally, and we continue to add to this portfolio.
+ 
+We use trademarks on some of our products and systems and have added registration of current and roadmap products this year in the U.S. and internationally.
+ 
+Advanced Engineering and Development
+ 
+Our most recent key advanced engineering initiatives and achievements are:
+ 
+
+· | completion of leapfrog EnSync Home Energy System for property developers and residential customers;
+--+----------------------------------------------------------------------------------------------------
+
+
+· | completion of innovative True Peer-to-PeerTM energy exchange with DC-Link validation;
+--+--------------------------------------------------------------------------------------
+
+
+· | completion of the EnSync Home Energy System certification to the following specifications of all national and local safety and electrical codes, including UL9540, UL1642, UL1973, UN38.3, UL1741, UL1741 SA, HECO RULE 14 (SRD v1.1), CPUC-CA Rule 21, UL1998, CSA STD. C22.2 NO. 107.1, CEC/SB1, IEEE1547 and CE Mark pending;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | completion of DER SuperModuleTM commercialization, with integrated MatrixTM Energy Management System, energy storage system and DER FlexTM internet of energy control platform;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | completion of 3rd party validation of DER SuperModuleTM;
+--+---------------------------------------------------------
+
+
+· | design and development of the higher power version of the MatrixTM Energy Management System for utility scale markets; and
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+· | design and development of our DER Flex™ internet of energy control platform for the EnSync Home Energy System, providing seamless integration into the utility grid and interface to the home.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The goal of these initiatives is to deliver differentiated product and system solutions that enable the massive expansion of renewable energy generation and to provide optimal economic benefit to our customers.
+ 
+Public Policy and Regulation
+ 
+Federal, state and local governmental authorities have provided economic incentives such as system performance payments, renewable energy tax credits and feed-in tariffs, to support and accelerate the adoption of solar power solutions. The Investment Tax Credit (“ITC”) provides a 30% federal tax credit for residential and commercial solar projects through 2019, and gets reduced to 26% for 2020 and 22% for 2021. In 2022, the ITC for residential projects will be reduced to zero while commercial projects will be 10%. In addition, many states have adopted renewable energy mandates such as renewable portfolio standards, which mandate that certain amounts of electricity delivered to customers must come from eligible renewable energy resources. Some states such as Hawaii, California and Illinois, where we have focused business development efforts, have significantly expanded their renewable portfolio standards in recent years. Governmental support for the development and use of renewable energy resources, in particular solar power products and solutions, is critical to the success of our strategic initiatives, and the economic viability of solar power products and solutions as an alternative to traditional energy resources. However, some of these economic incentives and government mandates are scheduled to be reduced or expire, and some could be eliminated altogether.
+ 
+Alternatively, governmental bodies may also impose tariffs on imported solar equipment, power electronics modules and batteries, which may increase our supply costs. Imposition of any of these or other similar measures, particularly on supplies we import from China, would significantly increase our cost of sales and potentially cause substantial disruption to the economic model of the solar power industry as a whole.
+ 
+
+8
+-
+
+ 
+
+We are closely monitoring developments in public policy and regulatory matters as a whole and adjusting our business model, strategy and execution as appropriate to adapt to any such changes. However, these and other developments may adversely impact our corporate strategy, financial condition, results of operations and future prospects. For more information about the risks related to renewable energy and solar power public policies, see “Item 1A – Risk Factors” in this Annual Report on Form 10-K.
+ 
+Employees
+ 
+As of June 30, 2018, we had a total of 64 full-time employees in the U.S. and China. We expect staffing numbers to increase on an as-needed basis as our business grows in accordance with our business expansion plans. None of our employees are represented by a labor union or are subject to collective-bargaining agreements.
+Available Information
+ 
+Our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K that we may file or furnish to the Securities and Exchange Commission (“SEC”) pursuant to Sections 13(a) or 15(d) of the Securities Exchange Act of 1934 as well as any amendments to any of those reports are available free of charge on or through our website as soon as reasonably practicable after we file them with or furnish them to the SEC electronically. Our website is located at www.ensync.com. In addition, you may receive a copy of any of our reports free of charge by contacting our Investor Relations department.

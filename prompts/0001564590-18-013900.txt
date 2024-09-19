@@ -1,0 +1,187 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business. 
+Overview 
+ Our mission is to provide large organizations and cloud service providers with an enterprise cloud platform that offers public cloud capabilities inside their own data centers and that can also connect to public cloud services.   
+ Our highly-differentiated and extensible enterprise cloud platform combines data management software, web services and a range of all-flash and hybrid storage systems. Our enterprise cloud platform not only delivers many of the benefits of public cloud infrastructure, but also gives organizations the control and functionality they need to run both enterprise and cloud-native application in their own private cloud. 
+ Enterprise cloud technology provides customers with the flexibility to easily scale workloads up and down, automation and resource pooling.  Our customers use our enterprise cloud platform for a variety of workloads and use cases, including virtualized desktop infrastructure, or VDI, development and test environments, or DevOps, which are sometimes referred to as Continuous Integration Continuous Delivery, or CI/CD, and other virtualized workloads, including virtualized servers, databases, and mixed workloads. Organizations use our platform to build agile development environments, run mission-critical enterprise applications and connect with public cloud services. We enable users to guarantee the performance of their organization’s applications, automate common IT tasks to reduce operating expenses, troubleshoot across compute, storage and network, predict their organization’s needs to scale, and provide needed elasticity on demand. Our platform enables organizations to easily scale to support tens of thousands of virtual machines on a single system across multiple hypervisors and containers and to connect to public cloud environments. 
+ Our solution helps our customers optimize infrastructure by significantly simplifying deployment and operations, which can lead to substantial reductions in capital expenditures and operating expenses. We sell many of our software products separately from our core enterprise cloud platform solution, enabling our customers to tailor their infrastructure to their specific needs. 
+ We have historically generated revenue from the sale of our products and related support and maintenance offerings. Our product revenue, which is generally recognized upon shipment, is derived from sales of our all-flash and hybrid storage systems and stand-alone software licenses for use in connection with our systems. While purchasing support is not mandatory, substantially all products shipped have been purchased together with a support contract, which includes software patches, bug fixes, updates, upgrades, hardware repair and replacement parts, and technical support. Support and maintenance revenue is recognized over the term of the support contracts. To date, substantially all of our customers have either renewed their support and maintenance subscriptions or have purchased new support and maintenance subscriptions together with replacement products. The average length of our support and maintenance contracts is approximately two years. 
+ Revenue increased from $86.0 million in fiscal 2016 to $125.1 million in fiscal 2017, and to $125.9 million in fiscal 2018, representing year-over-year growth of 45% and 1%, respectively. Revenue increased $14.8 million in the first half of fiscal 2018 compared to the first half of fiscal 2017, which was offset by a $14.0 million decrease in revenue in the second half of fiscal 2018 compared to the second half of fiscal 2017. Our net loss was $101.0 million, $105.8 million, and $157.7 million in fiscal 2016, 2017, and 2018, respectively. Total assets decreased from $158.1 million as of the end of fiscal 2016 to $104.9 million as of the end of fiscal 2017, and to $76.2 million as of the end of fiscal 2018, representing year-over-year change of 34% and 27%, respectively.
+ In December 2017, we announced that we were in the process of considering strategic options to deliver value to our stockholders and had retained investment bank advisors to assist us in this process.
+In March 2018, our board of directors, or the Board, approved a restructuring and reduction in force plan of approximately 20% of our global workforce. We expect to substantially complete the restructuring in our first quarter of fiscal 2019, which ended on April 30, 2018.
+ 3
+
+
+In March 2018, we announced that the Board had named Tom Barton as Chief Executive Officer and as a member of the Board, and his appointment became effective on April 2, 2018. Ken Klein transitioned from his role as our Chief Executive Officer and as a member of the Board in connection with Tom Barton joining the Company.
+ On May 15, 2018, we appointed Tom Barton as interim Chief Financial Officer, in addition to his existing roles with the Company.
+ Our Products and Technologies
+ Tintri Enterprise Cloud Platform
+ The Tintri enterprise cloud platform consists of our proprietary Tintri CONNECT architecture, Tintri software and Tintri storage systems. Customers combine the Tintri platform with their choice of server, network hardware and virtualization or cloud infrastructure software to build enterprise clouds within their own data centers and support other virtualized workloads.
+Tintri CONNECT Architecture
+ Tintri CONNECT is a proprietary software architecture purpose-built for virtualized and cloud applications. The Tintri CONNECT architecture powers our complete range of Tintri systems and is the platform on which we offer a diverse set of Tintri software solutions. Specifically, Tintri CONNECT architecture uses the virtual machine or the container as the basis for all storage services down to the lowest levels of the hardware. This allows for all storage actions and analytics to operate at the VM and container level, including quality of service, or QoS, replication, cloning, snapshots and other key policies. Each Tintri array appears as a single pool of storage called a datastore, rather than as a collection of LUNs and volumes. Even our largest capacity array appears as a single large datastore to virtualization and cloud management tools, and can support multiple concurrent virtualization or cloud environments without partitioning. Through its VM and container level visibility, the Tintri platform can greatly simplify the interaction between the virtualized infrastructure, the applications running on that infrastructure, and the underlying storage serving that infrastructure. 
+Tintri Software
+ Tintri OS
+ Tintri OS, through its VM-level visibility capabilities, can greatly simplify the interaction between the virtualized infrastructure and the VM running on top of it, and the underlying storage serving that infrastructure. Rather than aggregating virtualized applications with various QoS requirements into a shared LUN, Tintri OS can assign each application its own I/O lane using algorithms and eliminate the competition between virtualized applications for resources. A storage administrator can also set minimum and maximum thresholds at the virtualized-application level to define specific QoS levels. Tintri OS incorporates a number of data protection and high availability features, including protection against double-drive failures, failed drive rebuild even under data read-error scenarios and real-time error correction.
+Tintri Global Center
+ Tintri Global Center is an intelligent data and system management product that assists administrators in policing their infrastructure, simplifying capacity planning, visualizing resource utilization, reducing bottlenecks in the IT network outside of the storage system, and simplifying policy management and enforcement.
+ VM Scale-out
+ Tintri Global Center Advanced product adds our VM Scale-out software which creates resource pools of Tintri storage systems and intelligently optimizes the location of every application across those pools. 
+ Tintri Analytics: Predictive Analytics
+ In addition to our real-time and historical analytics capabilities, which are integrated into the Tintri CONNECT architecture and available to all customers on-premises, we also offer predictive analytics that uses in-
+ 4
+
+
+memory big data technologies, such as ElasticSearch, to help customers model their current and future storage requirements.
+ ReplicateVM: Replication for Data Protection and Disaster Recovery
+ We offer support for array-level replication, including asynchronous and synchronous modes. Asynchronous replication supports one-to-one, many-to-one and one-to-many with recovery point objectives, or RPO, as low as 15 minutes. Synchronous replication offers zero RPO. Traditional replication operates at the LUN level, leading to “hitchhikers,” which are VMs that are unintentionally replicated because they share a LUN with an application that is targeted for replication, wasting overall storage capacity. ReplicateVM allows our customers to replicate only the intended VMs. ReplicateVM also allows each VM to have a unique replication policy, and customers can set standard policies for VMs that are preserved even when they migrate between VMstores. In addition, by operating at the VM level and offering compression and deduplication of data, ReplicateVM reduces WAN bandwidth and other data transfer requirements.
+SyncVM: Copy Data Management
+ We allow the flexible use of fast and storage-efficient VM snapshots. Storage administration teams can recover point-in-time snapshots of individual VMs and rapidly restore files based on those snapshots. Application development teams can update multiple child-clones of applications from a master application image, reducing time required to set up a new application environment. We also offer advanced snapshot management for copy data management, allowing flexible point-in-time recovery for applications, file level restore from snaps and update of child applications from a master application snapshot for testing and development, or test/dev, and DevOps use cases.
+ SecureVM: Encryption of data-at-rest
+ We offer built-in encryption for data-at-rest, and support manual key rotation and SafeNet enterprise key management (a separate product sold by a third-party vendor). With SecureVM, the encryption key can be rotated by the customer, assuring that data on physical drives is unrecoverable if a key or physical drive is compromised. This capability allows many of our customers in finance, health care, government and other industries to meet data protection and regulatory requirements.
+ Tintri Cloud Connector
+ Tintri Cloud Connector allows customers to use either public cloud storage such as Amazon S3 or an on-premises object storage such as IBM Cloud Object Storage (formerly CleverSafe) for storing snapshots to extend retention periods and provide another tier of data protection and locality.
+Tintri Software Suite
+ This suite includes Tintri Global Center Advanced (delivering Tintri VM Scale-out software), ReplicateVM, SyncVM, SecureVM, Tintri Cloud Connector, plus all the tool kits and plug-ins to a diverse set of third-party ecosystems including VMware, Microsoft, RedHat and OpenStack. It also includes Tintri API support for PowerShell, Python and REST API.
+ 5
+
+
+Tintri Ecosystem
+
+Our ecosystem partners and integration points extend the value of the Tintri platform for our customers, and include:
+  
+• | VMware. Our products include support for vSphere, Horizon with View, PowerCLI, vRealize Orchestrator, vRealize Operations, vRealize Automation, vCloud Director and vSphere Integrated Containers, and deep integration with many other VMware solutions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Microsoft. Our products include support for Hyper-V, System Center Virtual Machine Manager (SCVMM), System Center Operations Manager (SCOM), PowerShell, Microsoft Applications (Exchange, SQL Server, SharePoint, etc.) and Server Message Block 3 (SMB3);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Red Hat. Our products include support for Red Hat OpenStack and Red Hat Virtualization;
+--+----------------------------------------------------------------------------------------
+
+
+• | Citrix. Our products include support for XenDesktop, Unidesk and XenServer;
+--+----------------------------------------------------------------------------
+
+
+• | Cisco. Our products include support for UCS Director; and
+--+----------------------------------------------------------
+
+
+• | OpenStack. Our products include support for commercial OpenStack distributions as well as open-source OpenStack beginning with the “Liberty” release.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Other ecosystem partners include Brocade, Cohesity, Commvault, Docker, IBM, Mirantis, Rubrik, and Veeam. Scripting support includes PowerShell, PowerCLI, Python SDK and APIs.
+ Tintri Storage Systems
+ We market a range of enterprise-grade storage systems, including our Tintri EC6000 all-flash systems, our T800 hybrid-flash systems, and our T1000 all-flash system. 
+ 6
+
+
+Our Customers
+ Our customers include leading enterprises across a broad range of industry segments, including education, financial services and insurance, healthcare, manufacturing and automotive technology, as well as cloud service providers (CSPs). As of January 31, 2018, our customer base consisted of more than 1,500 customers, including 7 of the top 15 Fortune 100 companies and 21 of the Fortune 100 companies.
+Customer Use Cases
+ Our customers use our enterprise cloud platform for a variety of workloads and use cases.
+ Enterprise Cloud.  Tintri’s architecture and RESTful APIs allow for tight integration into a customer’s broader enterprise cloud ecosystem—including hypervisor, compute, network, cloud management software and even public cloud (via Tintri Cloud Connector).  For customers, Tintri serves as a foundational element used to realize the potential of enterprise cloud agility and scale.
+ Virtualized Desktop Infrastructure (VDI). Since the Tintri OS uses VMs and containers as units of management, Tintri is able to isolate each virtual desktop in its own “lane”. That prevents conflict over resources and eliminates latency associated with boot storms and anti-virus scans (typical of conventional storage). Tintri’s density also allows organizations to manage up to 7,500 virtual desktops in just two rack units, using less power, cooling and other resources than other solutions.
+ Virtualized Servers and Databases. Tintri auto-quality of service, or QoS, capabilities allow customers to ensure that servers and databases receive the resources they need for predictable performance. And Tintri Analytics makes it possible for customers to identify the root cause of performance issues in real-time, across storage, compute and network. Predictive analytics allow customers to model the impact and resource requirements of adding server and database virtual machines to their environment.
+ DevOps. In most DevOps workloads, there is pressure to speed development cycles. Tintri’s RESTful APIs allow for integration into the broader DevOps stack, and automation makes it possible to spin up and tear down test environments comprised of thousands of virtual machines in minutes. This allows DevOps organizations to enable continuous testing and delivery, shortening development cycles.
+ Customer Support
+ We offer product support for all of our customers, including those customers who purchase our products through our channel partners. Customers may choose to purchase support plan upgrades, which provide them with accelerated shipment and installation of replacement parts. We also provide proactive support services that alert customers to potential product failures before they occur. Our support and services contracts are offered for periods of one to five years. We subcontract with third-party service providers to provide onsite hardware repair and replacement for our customers.
+Sales and Marketing
+ Sales. We sell our products predominantly through joint sales efforts made in conjunction with our channel partners. Our sales organization is responsible for large-account acquisition and overall market development, which includes managing our relationships with our channel partners, working with our channel partners in acquiring and supporting customers, and acting as the liaison between our customers and our marketing and product development teams.
+ As of January 31, 2018, we had direct sales teams located in nine countries. Our sales representatives typically become increasingly productive over several quarters as they are trained and learn to sell our products.
+ Our sales organization is supported by sales enablement engineers, specialist system architects and technical marketing personnel. These personnel have deep technical expertise and responsibility for pre-sales technical support, solutions engineering for our customers and technical training for our channel partners.
+ 7
+
+
+Distribution Channel Partners. We work with channel partners who help us market and sell our products to customers. This joint sales approach provides us with the benefit of direct relationships with substantially all of our customers and expands our reach through the relationships of our channel partners. Our channel partners are further supported by our distributors, who work together on a non-exclusive basis to market our products, identify and close sales opportunities, and provide pre-sales and post-sales services to our customers.
+ As of January 31, 2018, we had 447 channel partners. This distributed partner community includes both national and regional partners in the Americas and partners in EMEA, Japan and APAC. To promote channel productivity, we operate a formal accreditation program for the sales and technical professionals of our channel partners. Our channel partners include Ahead, Arrow, Avnet, CarahSoft, CDW, Champion, Fujitsu, Nuvias, Promark and SHI.
+ Approximately 90% of our revenue in fiscal 2018 was derived from sales to our channel partners.  One of our channel partners represented 26% of our revenue in fiscal 2018. Approximately 89% and 85% of our revenue in fiscal 2016 and 2017, respectively was derived from sales to our channel partners, and no single channel partner represented more than 10% of our revenue in fiscal 2016 and 2017. 
+ Marketing. Our marketing is focused on building our brand reputation and market awareness, communicating product and service advantages, driving customer demand and generating leads for our sales force and channel partners. Our marketing team designs and implements a wide range of activities and initiatives, including social media, digital marketing, community events, partner co-marketing and integrated marketing campaigns. In addition, we manage “Tintricity Hub,” an online community of customers that share best practices, trade ideas and provide referrals. Over 50% of our advocates are active in any given month. As of January 31, 2018, there were more than 1,600 Tintricity Hub members from approximately 750 companies.
+Technology Partners
+ As a storage and data management platform company, we work with a rich ecosystem of technology partners to deliver world-class solutions to our mutual customers. Our technology partners include software and infrastructure partners such as Brocade, Cisco, Citrix, Cohesity, Commvault, Docker, IBM, Microsoft, Mirantis, OpenStack, Red Hat, Rubrik, Veeam, and VMware. In addition, we work closely with our technology partners through co-marketing and lead-generation activities in an effort to broaden our marketing reach. We also sell our solutions under an original equipment manufacturer arrangement with Fujitsu, who distributes our solutions on a non-exclusive basis in Japan.
+ We have and expect to continue to work closely with many of our technology partners through joint marketing and demand generation activities in an effort to broaden our marketing reach and help us win new and retain existing customers. We also jointly validate solutions, often with the expert help of our channel partners, to deliver qualified complete solutions to our customers.
+ Research and Development
+ Our research and development efforts are focused primarily on improving existing products and developing new products. Our products integrate both software and hardware innovations, and accordingly, our research and development teams employ both software and hardware engineers in the design, development, testing, certification and support of our products. As of January 31, 2018, and before giving effect to the restructuring plan that we announced in March 2018, we employed 139 software and hardware engineers with expertise in storage and IT infrastructure. A majority of our research and development team members are based in Mountain View, California. We also design, and certify our products to ensure interoperability with a variety of third-party software, hypervisor and networking components.
+ We believe that innovation and timely development of new features and products is essential to meeting the needs of our customers and improving our competitive position. We plan to dedicate significant resources to our continued research and development efforts.
+ 8
+
+
+Manufacturing
+ We contract with an offshore subsidiary of Flex to manufacture all of our storage products. Flex purchases components from our approved list of suppliers and builds our hardware appliances according to our specifications. The outsourcing of our hardware manufacturing extends from prototypes to full production and includes activities such as material procurement, software implementation and final assembly and testing. Once the completed products are manufactured and tested, Flex arranges the shipment of our products directly to our customers.
+ Our contract manufacturer generally manages the procurement of the components and parts used in our products. We also engage in direct sourcing of certain strategic components. While our preference is to select components and materials that are available from multiple sources, we utilize a number of components that are available from only one source. Generally, neither we nor our contract manufacturer have written agreements with these sole-source component providers to guarantee the supply of the key components used in our hardware products. We generally do not have long-term supply commitments from our suppliers. We generally order our components on a “build to order” basis, and do not maintain any significant inventory of the components used in our products. However, we regularly monitor the supply of components and the availability of qualified and approved alternative sources. We provide nine-month forecasts to Flex (the first three months of which are binding) so that they can purchase key components in advance of their anticipated use, with the objective of maintaining an adequate supply of those components.
+ Except for the binding portion of forecasts mentioned above, our manufacturing services agreement with Flex does not provide for any specific volume purchase commitments and orders are placed on a purchase order basis. We work closely with Flex to meet our product delivery requirements and to manage the manufacturing process and quality control.
+ Our agreement with Flex is terminable at any time by us with 90 days’ notice or by Flex with 120 days’ notice and Flex has no obligation to provide services transitioning our manufacturing processes to another manufacturer. Although the contract manufacturing services required to manufacture and assemble our products may be readily available from a number of established manufacturers, it is time consuming and costly to qualify and implement contract manufacturer relationships. As a result, if Flex or our sole-source component suppliers suffer an interruption in their businesses, or experience delays, disruptions or quality control problems in their manufacturing operations, or we have to change or add additional contract manufacturers or suppliers of our sole-sourced components, our ability to ship our products to our customers could be delayed, and our business, operating re
+sults and financial condition could be adversely affected.
+ Competition
+ We operate in the intensely competitive IT infrastructure market that is characterized by constant change and innovation. Changes in application requirements, IT infrastructure trends and the broader technology landscape result in evolving customer requirements for architecture, performance, manageability and scalability, and organizations may require new features from enterprise cloud platforms and storage systems. Our main competitors fall into two categories:
+
+• | large IT infrastructure vendors consisting primarily of Dell EMC and NetApp, and also Hitachi Data Systems, HP Enterprise, IBM and VMware who each offer a broad range of storage systems targeting various use cases and end markets; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | smaller specialized IT infrastructure companies, including companies that offer solutions powered entirely or partially by flash memory technology, such as Nimble Storage, a Hewlett Packard Enterprise company, Nutanix and Pure Storage.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ As our market grows, we expect that the market will attract new startups and more highly specialized vendors, as well as larger vendors that may continue to acquire or bundle their products more effectively.
+ 9
+
+
+We believe the principal competitive factors in the storage market are as follows:
+  
+• | product features, enhancements and capabilities, including ease of use, performance, manageability, reliability and ability to store and process physical and/or virtualized workloads;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | business impact, including application time to market and rapid scalability;
+--+-----------------------------------------------------------------------------
+
+
+• | product economics and value to customer, including cost of acquisition (capital expenses) and ongoing management and maintenance costs (operating expenses);
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | customer experience, from marketing and pre-sales through sales engagement, purchase and shipment, support and customer community;
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | product interoperability with broader third-party ecosystem, including hypervisor, cloud and networking vendors; and
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | global sales and distribution capability.
+--+------------------------------------------
+
+ We believe we compete favorably with our competitors on the basis of these factors. Our competitive strengths include the simplicity and performance of our advanced stand-alone software products packaged within enterprise-grade hardware, which leads to operating efficiencies and an improved customer experience; our high-quality, referenceable customer base; and our open architecture and ecosystem integration, which provides greater flexibility to operate a variety of storage platforms, form factors and hypervisors.
+ Intellectual Property
+ Our success depends in part upon our ability to protect our core technology and intellectual property. To establish and protect our technology, intellectual property and proprietary rights, we rely on a combination of intellectual property rights, including patent, copyright, service mark, trademark and trade secret laws, as well as confidentiality procedures and contractual restrictions.
+ As of January 31, 2018, we had eleven issued patents and 56 pending patent applications in the United States and internationally. Our issued patents have expiration dates ranging from 2030 to 2035.
+ We generally control access to and use of our proprietary hardware, software and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers and partners, and our software is protected by U.S. and international copyright laws.
+ The steps we have taken to protect our core technology, intellectual property and intellectual property rights may not be adequate. Any of our issued patents or trademarks or other intellectual property rights may be challenged, invalidated or circumvented, and we may not be able to prevent third parties from infringing them. Despite our efforts to protect our trade secrets and other technology and intellectual property through intellectual property rights, licenses, and confidentiality agreements, unauthorized parties may still copy or otherwise obtain and use our technology and intellectual property, including our software. In addition, we intend to expand our international operations, and effective patent, copyright, trademark, and trade secret protection may not be available or may be limited in foreign countries.
+ The IT infrastructure industry is characterized by the existence of a large number of patents, trademarks, copyrights and other intellectual property rights, and by frequent litigation based on allegations of infringement or other misappropriation of intellectual property rights. From time to time, third parties, including our competitors and non-practicing entities, have claimed and may in the future claim that our products or technologies may infringe their intellectual property rights and may assert patent, copyright, trade secret and other claims based on intellectual property rights against us and our customers, suppliers and channel partners. We cannot assure you that our products, services or business do not infringe or misappropriate such rights of such third-party claimants. Although we generally attempt to limit our liability to indemnify third parties against intellectual property infringement claims, we are party to a number of agreements pursuant to which we are obligated to indemnify certain third parties. We expect that intellectual property rights infringement or misappropriation claims may increase as the number of products and competitors in our market increase. In addition, to the extent that we gain greater visibility 
+ 10
+
+
+and market exposure as a public company, we face a higher risk of being the subject of intellectual property rights infringement or misappropriation claims from third parties. Any third-party intellectual property rights claims against us could significantly increase our expenses and could have a significant and negative impact on our business, operating results and financial condition. See “Risk Factors” for additional information.
+ Employees
+ We believe that the expertise of our people and our corporate culture are important to our success as a technology leader. As of January 31, 2018, we had 445 employees in the United States and internationally, of which 277 employees were based in our corporate headquarters in Mountain View, California. None of our employees are represented by a labor organization or are a party to any collective bargaining agreement. We consider our relationship with our employees to be good.
+ In March 2018, the Board approved a restructuring and reduction in force plan of approximately 20% of our global workforce. We expect to substantially complete the restructuring in our first quarter of fiscal 2019, which ended on April 30, 2018. We believe that further such reductions are likely to be required in the near term dependent on developments in our financial condition. 
+ Backlog
+ Our typical fulfillment time on an order is approximately three days, and consequently we do not have a meaningful backlog at any point in time. 
+ We typically accept and ship orders within a short time frame. In general, customers may cancel or reschedule orders without penalty, and delivery schedules requested by customers in their purchase orders vary based upon each customer’s particular needs. As a result, we do not believe that our backlog at any particular time is a reliable indicator of future revenue.
+Seasonality
+ In general, our sales are subject to seasonal trends. Our fourth fiscal quarter, ending January 31, typically has the highest revenue of any of our fiscal quarters, and our first fiscal quarter, ending April 30, typically has the lowest revenue of any of our fiscal quarters. We believe that this seasonality results from a number of factors, including the budgeting, procurement and deployment cycles of many of our customers. Our rapid historical growth may have reduced the impact of seasonal or cyclical factors that might have influenced our business to date. To the extent our revenue growth slows, seasonal or cyclical variations in our operations may become more pronounced and may affect our business, operating results and financial condition.
+Corporate Information
+ We were incorporated in Delaware in June 2008. Our principal executive offices are located at 303 Ravendale Drive, Mountain View, California 94043. Our telephone number at that location is (650) 810-8200. Our website address is www.tintri.com. Information on our website is not part of this report and should not be relied upon in determining whether to make an investment decision.
+ The Tintri design logo and the marks “Tintri,” “VMstore,” “Tintri OS,” “Tintri Global Center,” “ReplicateVM,” “SecureVM,” “SyncVM” and “VM Scale-out” are the property of Tintri. This Annual Report on Form 10-K contains additional trade names, trademarks and service marks of other companies. We do not intend our use or display of other companies’ trade names, trademarks or service marks to imply a relationship with, or endorsement or sponsorship of us by, these other companies.
+ Available Information
+ Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as 
+ 11
+
+
+amended (the Exchange Act), are filed with the Securities and Exchange Commission (the SEC). We are subject to the informational requirements of the Exchange Act and file or furnish reports, proxy statements and other information with the SEC. Such reports and other information filed by the Company with the SEC are available free of charge on the Company’s website at ir.tintri.com as soon as reasonably practicable after they have been electronically filed with, or furnished to, the SEC.
+ You may obtain copies of this information by mail from the Public Reference Section of the SEC, 100 F Street, N.E., Room 1580, Washington, D.C. 20549, at prescribed rates. You may obtain information on the operation of the public reference rooms by calling the SEC at 1-800-SEC-0330. The SEC also maintains an Internet website that contains reports, proxy statements and other information about issuers, like us, that file electronically with the SEC. The address of that website is www.sec.gov. 
+ The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
+ 

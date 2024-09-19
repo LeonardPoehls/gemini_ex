@@ -1,0 +1,866 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | BUSINESS
+--------+---------
+
+ Overview
+ 
+ MetaStat is a precision medicine company dedicated to improving survival of patients with aggressive cancer. Despite significant advances in the war against cancer, effective treatment and prevention of cancer metastasis remains an unmet medical need. The metastatic spread of cancer is responsible for over 90% of solid tumor cancer-related deaths. Our therapeutic focus targets a critical metastatic pathway in solid tumors responsible for driving tumor resistance and the spread of aggressive cancer. We are leveraging our core expertise in understanding the tumor microenvironment and drivers of the metastatic cascade to develop anti-metastatic therapeutics pared with companion diagnostics tests. MetaStat’s goal is to transform the treatment of aggressive cancer into a manageable disease through therapies that target the metastatic spread of cancer and improve survival.
+  
+ MetaStat’s drug discovery program is focused on developing novel first-in-class drug candidates that target the MENA pathway. Elevated expression of the MENA protein splice-derived variants or isoforms in tumors have been shown in clinical studies to be significantly associated with metastasis and decreased survival. We are discovering and developing therapeutic product candidates based on a different approach making the MENA protein a druggable target. We are not targeting MENA directly, but rather the MAPKAPK2 pathway responsible for activation of MENA. Our diagnostic tests are clinically validated as prognostic markers of metastasis and identify patients at risk for recurrence who are likely to benefit from our anti-metastatic therapy.
+  
+ In 2017, we demonstrated inhibition of the MAPKAPK2 kinase reverses MENA-induced metastatic phenotypes to MENA-null levels in studies of metastatic Triple Negative Breast Cancer (TNBC) and fibroblast cell lines. In February 2018, we announced top-line results from preclinical studies showing dissemination and cancer metastasis was reduced by 50% or more in vivo following inhibition of MAPKAPK2 in preclinical models of aggressive breast cancer. Administration of the MAPKAPK2 inhibitor alone significantly blocked distant metastasis similar to the published effects of MENA deficiency in the MMTV-PyMT mouse model. MAPKAPK2 is a downstream terminal serine-threonine kinase in the p38/MAPK signaling pathway and is associated with inflammatory disease, metastasis and in the resistance mechanism to antitumor agents. Several biopharmaceutical companies have advanced p38 inhibitors into clinical studies, however, none have been approved due to adverse side effects likely associated with the role of p38 in the regulation of more than 60 substrates with different physiological functions. We believe MAPKAPK2 is a more attractive drug target because it is a terminal kinase with fewer substrates and is downstream of p38 in the p38/MAPK pathway. The goal of our small molecule discovery program over the next 12-18 months is to identify 1-2 lead candidates to advance into investigational new drug (IND)-enabling studies for clinical development. We intend to develop our drugs for use as a monotherapy or in combination with other medications to treat patients with MENA-positive solid tumors. Our MENA diagnostic assay will be used to screen patient’s tumors for expression of MENA INV, the pro-metastatic MENA splice-variant for inclusion in clinical studies of our anti-metastatic drug candidates. We plan to study a range of MENA-positive cancers including pancreatic, glioblastoma, bladder, colorectal and triple negative breast cancer.
+  
+ The MENA diagnostic assay is a tissue-based quantitative immunofluorescence (QIF) test that measures expression of the pro-metastatic MENA splice-variant, which is significantly associated with poor outcomes and metastasis in Early Stage Breast Cancer (ESBC) and Squamous Cell Carcinoma of the Lung. We intend to use this test as a companion precision medicine diagnostic assay to select patients for treatment with our anti-metastatic therapeutic. In April 2018, we completed methods development and optimization utilizing our proprietary monoclonal antibody (mAbs) specific for the pro-metastatic MENA protein splice-valiant. In January 2017, results from a preclinical study were published in Molecular Cancer Therapeutics (Oudin et al., 2017) demonstrating a novel mechanism for taxane resistance in MENA-positive metastatic TNBC. Results from this study demonstrated MENA expression conferred resistance to the taxane paclitaxel and treatment failed to attenuate growth of MENA driven metastatic lesions. The MENA biomarker is common to most epithelial solid tumors. Analysis of data from The Cancer Genome Atlas (TCGA) RNAseq database show expression of pro-metastatic MENA protein splice-variant is common to many solid tumors and higher levels are found in more aggressive tumors with poor 5-year survival rates including pancreatic adenocarcinoma and BRCA mutation-positive breast cancer.
+ 
+
+  
+-2-
+
+
+
+
+Our CLIA-certified diagnostic, MetaSite Breast™, is an immunohistochemistry test (IHC) that measures micro-anatomical intravasation sites (TMEM) within the tumor microenvironment which are clinically validated as prognostic markers of metastasis in hormone receptor-positive (HR+) ESBC. In November 2017, results a second prospective-retrospective validation study were published in npj Breast Cancer (Sparano et al., 2017) demonstrating the clinical validity of MetaSite Breast™ assay in patients with HR+ HER2-negative breast cancer for early recurrence within 5 years of diagnosis. In addition, the study demonstrated MetaSite Breast™ provides complementary prognostic information to Oncotype Dx Recurrence Score. High MetaSite Scores were associated with a 9.7-fold higher risk of distant recurrence and 6.1-fold higher risk of overall recurrence if the Oncotype Dx Recurrence Score was low. In July 2017, results from a study published in Science Translational Medicine (Karagiannis et al., 2017) showed neoadjuvant chemotherapy (NAC) can induce breast cancer metastasis through a TMEM-mediated mechanism. This study suggests that MetaSite Breast™ might also be useful in predicting the development of pro-metastatic changes in the tumor microenvironment in response to NAC. There are currently no tests that can monitor or predict response to NAC.
+ 
+ Business Strategy
+ 
+Our goal is to become a leading precision medicine company focused on improving the survival of patients with aggressive cancer. Our research team is discovering and developing and therapeutics and companion diagnostics that target a critical metastatic pathway responsible for driving tumor resistance and the spread of aggressive cancer. Key elements of our integrated therapeutic and companion diagnostic (Rx/Dx) development strategy are to:
+ 
+   ● 
+ Continue advancing our therapeutic discovery and development program focused on the MENA protein isoform drug target. Our therapeutic strategy is based on directly targeting the MENA pathway through inhibition of MENA expression or activity and indirectly, through inhibition of the MAPKAPK2 pathway responsible for activation of MENA.
+
+
+   ● 
+ Explore business development and collaborative research opportunities with innovative companies developing compelling new modalities. We intend to seek out and work with groups developing new technologies that address previously considered undruggable targets including RNA interference (RNAi), CRISPR, and targeted protein degradation.
+
+
+   ● 
+ Pursue development and regulatory strategy-based treatment of patients with MENA-positive cancer. We intend to pursue a pan-cancer development and regulatory strategy for our anti-metastatic therapeutics based on seeking accelerated approval for treatment of patients whose cancer are positive for MENA expression rather than the location of the body in which the tumor originated.
+
+
+   ● 
+ Develop the  MENA diagnostic assay as a companion diagnostic test to identify and select appropriate patient populations with MENA-positive solid tumors most likely to benefit from our targeted anti-metastatic therapy. Companion diagnostic tests are used as a companion to a therapeutic drug to determine the applicability to a specific patient and if that patient is likely to respond. The MENA diagnostic assay will enable accelerated drug development and reduced risk by allowing for selection of responder patient populations to ant-MENA drug therapy.
+
+
+  
+-3-
+
+
+
+
+  ●
+   Expand the market opportunity for the MENA diagnostic assay to include prognostic diagnostic and companion diagnostic applications. Complete clinical validation of MENA diagnostic assay as a prognostic marker for risk of distant metastasis in patients with early stage solid cancers and for use as a predictive marker for drug response to Receptor Tyrosine Kinase (RTK) inhibitors that target EGFR, HGFR, IGF-R1 and other key receptors, as well as cytotoxic chemotherapeutics, including anti-microtubule agents, such as docetaxel, paclitaxel and albumin-bound paclitaxel.
+
+ 
+  ●
+   Commercialize our therapeutics and diagnostic assays . Through our exclusive license agreements and company sponsored patent applications we own the world-wide rights to our products. We seek commercialization partners that have existing commercialization infrastructure, established distribution channels, and strong relationships with our target audience in the medical community. Our goal is to avoid the cost and risk associated with building a new sales and marketing infrastructure. Initially, we plan to build the necessary commercial infrastructure only when needed to supplement partnerships and not economically available through third party vendors. As profitability and market penetration grow, we may supplement our strategic partnership or contract sales organization (CSO) strategy with a phased-in internal sales and marketing efforts.
+
+
+
+ Scientific Background and Technology
+ 
+Our product candidates target the MENA pathway, where MENA INV, the pro-metastatic MENA splice-variant, MENA INV, plays a critical role in solid tumors by promoting tumor dissemination, metastasis and cancer cell resistance. The MENA pathway is a novel mechanism and represents first-in-class target for drug development.
+ 
+MENA is a naturally occurring pro-motility protein which plays a key role in cell migration and embryogenesis. It belongs to the Ena/VASP (enabled/VASO) family being encoded by the MENA gene located on chromosome 1. MENA facilitates and organizes formation, extension and navigation of growing nerve fibers through tissue to link with other neurons, forming the proper circuits needed for a functional nervous system. Ena/VASP proteins such as MENA are involved in these embryonic processes where dynamic actin reorganization is necessary, such as neural closure, phagocytosis, hemostasis, chemotaxis, cell migration, cell-cell and cell-matrix adhesions, fibrillogenesis, or fibroblastic motility. MENA expression decreases from embryonic to adult life and MENA INV is largely absent from normal tissue.
+ 
+The MENA gene can be alternatively spliced to produce multiple splice-variants or isoforms of which the MENA 11a and MENA INV isoforms dominate. Alternative splicing is the process by which exons within a pre-mRNA transcript of a gene are differentially spliced, resulting in multiple protein isoforms being encoded by a single gene. Post-transcriptional processing of the MENA gene provides an opportunity for gene regulation and increases the functional informational capacity of the gene. These small differences in MENA structure produce large differences in MENA protein function. The MENA gene corresponds to a 570-amino acid protein with the MENA INV isoform containing a supplementary exon corresponding to a 19-amino acid addition to the EVH1 domain of the protein. MENA 11a contains a supplementary exon corresponding to a 21-amino acid addition to the EVH2 domain of the protein. The invasive MENA isoform, MENA INV, and the less dangerous MENA isoform, MENA 11a, play distinct roles in cancer morphology. MENA INV promotes invasion and metastasis by helping cancer cells subvert normal regulatory networks regulating cell motility and increases sensitivity to the chemo-attractant EGF by up to forty (40x) times. MENA INV attenuates RTK signaling allowing cancer cells to respond to lower EGF concentrations. MENA INV expressing tumor cells are significantly less cohesive and have discontinuous cell-cell contacts compared to MENA 11a expressing tumor cells. In preclinical studies published in Breast Cancer Research (Roussos et al., 2010), PyMT mice that express MENA all succumb to systemic metastasis while the majority of MENA-null knockout mice that lack expression of the MENA protein and its splice-variants survive. Illustrated below is Kaplan-Meir survival curve showing percentage of mice from each genotype (n=12-25) that are not moribund (mice that did not developed tumors or mice that had small tumors that did not immobilized them). MENA knockout mice had significantly improved survival compared to wild type mice that express MENA (p=0.01).
+ 
+  
+-4-
+
+
+
+
+
+
+
+Source: Breast Cancer Research 2010 12:R101 (Roussos et al.; licensee BioMed Central Ltd. 2010;https://doi.org/10.1186/bcr2784)
+ 
+Aggressive tumors hijack this embryonic motility mechanism through upregulation of MENA and overexpression of the alternatively spliced mRNA pro-metastatic MENA INV isoform. Consequently, MENA is overexpressed in primary and metastatic cancers, and is particularly overexpressed in migratory and disseminating subpopulations of tumor cells. Until now the development of anti-metastatic therapies has been slow and historically hampered by the lack of understanding of the biology behind the metastatic cascade. Our proprietary and patented platform technologies are derived from novel ways of observing cancer cell behavior in living functioning tumors in live animals and are based on the discovery of a common pathway for the development of aggressive or metastatic cancer in solid epithelial-based tumors. These discoveries are the result of nearly 20 years of study and collaboration among four scientific/academic institutions, including Massachusetts Institute of Technology (MIT), Albert Einstein College of Medicine (AECOM), Cornell University (Cornell), and the IFO-Regina Elena Cancer Institute in Rome, Italy (IFO-Regina). This collaboration has enabled us to understand the underlying biology, including the direct mechanisms of action and specific micro-environmental factors that drive systemic metastasis and drug resistance to certain cancer treatments.
+ 
+Recently, it was discovered MENA is activated through the p38/MAPK pathway and inhibition of MAPKAPK2 kinase results in a reversal of the MENA-dependent phenotypes in vitro and in vivo. In 2017, we demonstrated inhibition of the p38/MAPK pathway reverses MENA-dependent phenotypes of invasion, fibronectin deposition, and metastasis in vitro in cell line studies using MDA-MB-231 metastatic Triple Negative Breast Cancer (TNBC) and MVD7 fibroblasts engineered to express MENA at levels equivalent to that found in vivo. In February 2018, we announced cancer metastasis was reduced by 50% or more in vivo following inhibition of MAPKAPK2 in studies using orthotopic MDA-MD-231 transplant and syngeneic MMTV-PyMT models of MENA-positive aggressive breast cancer.
+  
+  Novelty and Innovative Medicine Targeting First-in-Class Mechanism
+  
+  Novel first-in-class drugs are innovative medicines that use a novel mechanisms of action that serve unmet medical need. MENA and its splice variants are found in the cytoplasm and not on the surface of cells and have historically been considered to be undrugable by conventional means such as mAbs and small molecules. Our ability to target this novel first-in-class mechanism in made possible through indirect inhibition of MAPKAPK2-dependent MENA activation. Our unique therapeutic approach is to target this critical metastatic pathway and block tumor cell dissemination and the metastatic spread of cancer which is responsible for more than 90% of solid tumor cancer-related deaths. Despite the number and variety of clinically available anticancer therapies there are currently no approved MAPKAPK2 inhibitors or anti-metastatic drugs.
+ 
+The biopharmaceutical industry has increasingly focused on the same core set of targets as evidenced by the exploding immune-oncology space, with 2,000 active clinical programs and greater than 150 PD-L1/PD-1 checkpoint inhibitor mAbs in development. Current cancer therapies, including newer targeted therapies and immunotherapies are still evaluated for efficacy predominantly by their ability to reduce tumor size and induce pathologic complete response (pCR). Unfortunately, reduction of tumor size is not predictive of anti-metastatic effect which explains why patients with pathologic complete response (pCR) can undergo disease recurrence. We are addressing an untapped field in oncology through discovering and developing first-in-class anti-metastatic therapies targeting the novel MENA pathway.
+ 
+  
+-5-
+
+
+
+
+Kinases and their Role in Cancer
+ 
+ Kinases are enzymes that play an important role in regulating cellular functions, signaling pathways and communication of cells with their environments. Dysregulated protein kinases are implicated in a large number of diseases including cancer and autoimmune diseases. Many cancers are driven by genetic mutations that cause abnormal activity of kinases which contribute to uncontrolled cell growth. Kinase inhibitors act by blocking the abnormal activity of these enzymes and has proven to be a highly successful therapeutic strategy. Since the first approval in 2001, kinase inhibitors have become an important therapeutic class playing a central role in precision medicine and forming the backbone of targeted therapies in oncology. A total of 39 kinase inhibitors have been approved by the Federal Drug Administration or FDA with an estimated 2016 combined annual sales of $20 billion.
+  
+  The p38/MAPK signaling pathway has been a therapeutic target for inflammatory disease and cancer for many years because of its involvement in pro-inflammatory cytokine production, metastasis and cell-cycle regulation. Several biopharmaceutical companies have advanced p38 inhibitors into clinical studies, however, none have been approved due to adverse side effects likely associated with the role of p38 in the regulation of more than 60 substrates with different physiological functions. Recently, p38/MAPK has been implicated in activation of the MENA pathway. The MAPKAPK2 serine/threonine-specific terminal kinase is a more favorable downstream target in the p38/MARK signaling pathway. Compared to upstream kinases in the pathway, MAPKAPK2 has considerably fewer substrates and fewer off-target effects. Unlike preclinical studies of p38 knockout mice, the health and fertility of MAPKAPK2 mice are unaffected. In addition, MAPKAPK2 deficient mice were shown to have reduced joint damage in a collagen-induced arthritis model and no indication of asthma in a lung ovalbumin sensitization model.
+  
+ The success of individual kinase inhibitors can be limited by the development of drug resistance. The mechanisms of acquired drug resistance include target receptor mutation, activation of secondary bypass pathways or histologic transformation. Our therapeutic strategy is likely to bypass the selection pressures responsible for driving resistance since neither MAPKAPK2 nor MENA gene knockouts are embryonically lethal. Furthermore, our inhibitors target tumor cell phenotypes associated with the metastatic spread of cancer unlike most cytotoxic chemotherapeutic drugs which are used to kill tumor cells.
+  
+ For these reasons we believe developing MAPKAPK2 kinase inhibitors represent a particularly promising approach as a therapeutic strategy to target the MENA pathway.
+  
+  MENA and its Role in Driving Resistance Mechanisms to Anti-tumor Therapies
+ 
+  Taxane-based anti-microtubule drugs, including paclitaxel and docetaxel are widely used and highly efficacious as single chemotherapy agents or in combination with other chemotherapeutic drugs to treat breast, lung, ovarian, pancreatic and other cancers. Taxanes interfere with the normal breakdown of microtubules which are critical cytoskeletal structures that mediate cell division. In vitro and in vivo studies have demonstrated increased expression of the pro-metastatic MENA splice-variant desensitize cells to taxane-based treatments. In January 2017, results from a preclinical study published in Molecular Cancer Therapeutics (Oudin et al., 2017) demonstrated a novel mechanism for taxane resistance in MENA-positive metastatic TNBC. These results showed MENA INV expression conferred resistance to the taxane paclitaxel and treatment failed to attenuate growth of MENA driven metastatic lesions. MENA INV expression alters the ratio of dynamic and stable microtubule populations in paclitaxel-treated cells. MENA INV expression also increases MAPK signaling in response to paclitaxel treatment. Decreasing MAPK signaling through administration of a MAPKAPK2 inhibitor could restore paclitaxel sensitivity by driving microtubule stabilization in MENA INV-expressing cells. These results reveal a novel mechanism of taxane resistance in highly metastatic breast cancer cells and identify a potential combination therapy to overcome such resistance.
+  
+  In July 2017, results published in Science Translational Medicine (Karagiannis et al., 2017) from a preclinical study of mice transplanted with MMTV-PyMT breast cancers demonstrated paclitaxel treatment promotes dissemination of circulating tumor cells (CTCs) and metastasis in a MENA-dependent manner.
+ 
+  
+-6-
+
+
+
+
+
+ From Neoadjuvant chemotherapy induces breast cancer metastasis through a TMEM-mediated mechanism, By Karagiannis et al., Science Translational Medicine 05 Jul 2017;Vol. 9, Issue 397, eaan0026  DOI: 10.1126/scitranslmed.aan0026. Reprinted with permission from American Association for the Advancement of Science (AAAS).
+ 
+  As shown above MENA knockout recipient mice (MENA-/-) grafted with MENA-positive MMTV-PyMT tumors do not develop CTCs or lung metastases after treatment with vehicle control or paclitaxel. In comparison, recipient mice (MENA+/+) grafted with MENA-positive MMTV-PyMT tumors develop CTCs and lung metastasis with significant increases in CTC dissemination and lung metastasis after paclitaxel treatment. This study also demonstrated patients treated with neoadjuvant chemotherapy consisting of paclitaxel followed by doxorubicin plus cyclophosphamide undergo pro-metastatic changes in their tumor microenvironment that can induce breast cancer metastasis through a MetaSite (TMEM)-mediated mechanism. We believe there is a substantial opportunity for anti-MENA therapeutics to be used in combination with taxane therapy to overcome MENA-dependent paclitaxel resistance and/or block paclitaxel-induced tumor cell dissemination. Further, we believe our MetaSite Breast™ assay and MENA diagnostic assay could be used to monitor or predict response to taxane-based NAC.
+  
+  MENA has also been shown to constitutively associate with the tyrosine phosphatase PTP1B to mediate a novel negative feedback mechanism that attenuates RTK signaling. On EGF stimulation, complexes containing MENA and PTP1B are recruited to the EGF receptor, or EGFR, causing receptor dephosphorization (the removal of phosphate groups that can prevent ligation) and leading to decreased motility responses. When the pro-metastatic MENA protein splice-variant is expressed, PTP1B recruitment to the EGFR is impaired, providing a mechanism for growth factor sensitization to EGF, as well as HGF and IGF, and increased resistance to EGFR and Met inhibitors. MENA INV disrupts this negative feedback mechanism to drive sensitivity to EGF, HGF, and IGF growth factors and resistance to RTK inhibitors that target EGFR, HGFR (c-Met), and IGF-R1. Disruption of this attenuation by MENA INV sensitizes tumor cells to low growth factor concentrations, thereby increasing the migration and invasion responses that contribute to metastasis. We believe there is a substantial opportunity for anti-MENA therapeutics to be used in combination with EGFR, HGFR and IGF-R1 inhibitors to overcome drug resistance and/or increase the proportion of patients who respond to these medications. Further, we believe our MENA diagnostic assay could be used to predict initial response to RTK inhibitors and monitor for the development of therapeutic resistance.
+ 
+ Cancer Background
+ 
+Cancer is a complex disease characterized most simply by uncontrolled growth and spread of abnormal cells. Cancer remains one of the world's most serious health problems and is the second most common cause of death in the United States after heart disease. The American Cancer Society, or ACS estimates in 2018, there will be nearly 1.74 million new cases of cancer and approximately 610,000 deaths from cancer in the United States alone.
+ 
+  
+-7-
+
+
+
+
+ When dealing with cancer, patients and physicians need to develop strategies for local, regional, and distant control of the disease. Ultimately, however, aggressive cancer that spreads or “metastasizes" to other parts of the body is responsible for more than 90% of all cancer related deaths in patients with such common types of solid tumors as breast, lung, prostate and colon. The most common methods of treating cancer are surgery, radiation and drug therapy, or a combination of these methods, with varying degrees of benefit and side effects that may not always justify the expense and burden of the therapy. Our therapeutic drugs target the MENA pathway, common to a type of cancer called carcinoma which are malignancies of epithelial tissue and represent approximately 80-90% of all cancer cases. Our product candidates have the potential to have broad pan-cancer applicability.
+   
+ Prior to the advent of personalized medicine, most cancer patients with a specific type and stage of cancer received the same treatment, which historically consisted of cytotoxic chemotherapies, including taxanes, such as paclitaxel and docetaxel. These chemotherapies kill rapidly proliferating cancer cells through non-specific mechanisms, such as deterring cell metabolism or causing damage to cellular components required for survival and rapid growth. While these drugs have been effective in the treatment of some cancers, many unmet medical needs remain. This approach is not optimal as some treatments worked well for some patients but not for others. Differences in the genome and how these genes are expressed, called the expressome, explain many of these differences in response to treatment. The convergence between understanding the expressome and our ability to identify and develop biomarkers for certain disease is accelerating growth and interest in personalized medicine and the attractiveness of our intergraded Rx/Dx strategy.
+  
+ Advances in personalized medicine and cancer treatment are progressing rapidly and are enabling a shift in clinical treatment from a one-size-fits-all approach to one that is highly individualized. Recently, more targeted therapies and immunotherapies have represented some of the most promising agents in development for the treatment of cancer. Targeted therapies are drugs that block the growth and spread of cancer by interfering with specific molecules that are involved in the growth, progression and spread of cancer. Targeted therapies, such as RTK inhibitors that selectively target kinase signaling pathways, are designed to preferentially kill cancer cells and spare normal cells, improve efficacy and minimize side effects. RTK inhibitors typically have less severe side effects than cytotoxic chemotherapies, however, a main limitation is that a significant number of patients do not respond to treatment, and the emergence of secondary drug resistance for those patients that do show an initial benefit. The use of predictive biomarkers allows oncologists to better understand and overcome drug resistance through the clinical assessment of rational therapeutic drug combinations. We believe identification of patients with our MetaSite Breast™ and MENA diagnostic tests followed by combination therapy with our MAPKAPK2 inhibitor anti-MENA therapeutics have the potential to overcome drug resistance and protect patients from chemotherapy-induced tumor cell dissemination.
+ 
+  Product Pipeline
+  
+ MetaStat’s product development programs are focused on developing novel first-in-class drug candidates and companion diagnostic tests that target the MENA pathway.
+  
+  Therapeutics (Rx)
+  
+  MENA is activated through the p38/MAPK pathway and inhibition of MAPKAPK2 kinase results in a reversal of the MENA-dependent phenotypes in vitro and in vivo in studies of metastatic TNBC and fibroblast cell lines. In February 2018, we announced top-line results from preclinical studies showing cancer metastasis was reduced by 50% or more in vivo following inhibition of MAPKAPK2 in models of aggressive breast cancer. MetaStat will present results from these in vitro and in vivo studies at the American Association of Cancer Research (AACR) Cancer Dormancy and Residual Disease conference to be held June 19-22, 2018 in Montreal, QC, Canada.
+  
+ MAPKAPK2 is a downstream terminal serine/threonine-specific kinase in the p38/MAPK signaling pathway and is associated with inflammatory disease, metastasis and in the resistance mechanism to antitumor agents. Currently our discovery efforts are focused on lead-optimization of non-ATP competitive inhibitors screened for efficacy in inhibiting MENA activity with superior selectivity and potency to the ATP-competitive research tools used in our preclinical proof-of-concept studies. The goal of our small molecule discovery program over the next 12-18 months is to identify 1-2 lead candidates to advance into investigational new drug (IND)-enabling studies for clinical development.
+  
+ The goal of treatment with anti-MENA therapeutics is to reduce the activity or expression of the pro-metastatic MENA splice variant and thereby reverse the MENA-dependent cancer phenotypes of drug resistance, tumor cell invasion, dissemination, and metastasis. In targeting the movement of tumor cells from the primary site to distant sites, we are directly addressing the major contributor to the deaths of cancer patients. Since elevated expression of pro-metastatic MENA splice variant also drives resistance to certain RTK inhibitors and cytotoxic chemotherapeutics, co-administration of an effective anti-MENA therapeutic provides an opportunity to expand the utility and effectiveness of these drugs by addressing a significant challenge to the clinical management of advanced cancers. We intend to develop our drugs for use as a monotherapy or in combination with other medications to treat patients with MENA-positive solid tumors. Our MENA diagnostic assay will be used to screen patient’s tumors for expression of the pro-metastatic MENA splice-variant for inclusion in clinical studies of our anti-metastatic drug candidates. We plan to study a range of MENA-positive cancers including pancreatic, glioblastoma, bladder, colorectal and triple negative breast cancer.
+  
+
+  
+-8-
+
+
+
+
+  Diagnostics (Dx)
+  
+  MENA Diagnostic Assay
+  
+ The MENA diagnostic assay is a tissue-based quantitative immunofluorescence (QIF) test that measures expression of the pro-metastatic MENA protein splice-variant which is significantly associated with poor outcomes and metastasis in Early Stage Breast Cancer (ESBC) and Squamous Cell Carcinoma of the Lung.
+  
+ We intend to use the MENA diagnostic assay as a companion diagnostic test to select patients for treatment with our anti-metastatic therapeutic. In April 2018, we completed methods development and optimization utilizing our proprietary monoclonal antibody specific for the pro-metastatic MENA protein splice-valiant. In January 2017, Oudin et al., published results from a preclinical study demonstrating a novel mechanism for taxane resistance in MENA-positive metastatic Triple-negative Breast Cancer (TNBC). Results from this study demonstrated MENA expression conferred resistance to the taxane paclitaxel and treatment failed to attenuate growth of MENA driven metastatic lesions. Data from an analysis of TCGA RNAseq database show expression of the pro-metastatic MENA protein splice-variant is common to many solid tumors and higher levels are found in more aggressive tumors with poor 5-year survival rates including pancreatic adenocarcinoma and BRCA mutation-positive breast cancer.
+  
+  Companion diagnostic to predict RTK inhibitor drug response
+  
+ MENA participates in a mechanism that attenuates RTK signaling by interacting with the tyrosine phosphatase PTP1B and the 5‟ inositol phosphatase SHIP2. Elevated expression of MENA INV disrupts this regulation, and results in a pro-metastatic phenotype characterized by increased RTK activation signaling from low ligand stimulation and resistance to targeted RTK inhibitors. A main limitation of therapies that selectively target kinase signaling pathways is a significant number of patients do not respond and for those patients that do respond the emergence of secondary drug resistance after an initial benefit. We believe the MENA diagnostic assay has the potential to be used as a highly actionable clinical biomarker and/or companion diagnostic to predict response to targeted RTK inhibitors.
+  
+  Companion diagnostic to predict anti-microtubule drug response
+  
+ In January 2017, results from a preclinical study published in Molecular Cancer Therapeutics (Oudin et al., 2017) demonstrated a novel mechanism for taxane resistance in MENA-positive metastatic TNBC. These results demonstrated MENA expression conferred resistance to the taxane paclitaxel and treatment failed to attenuate growth of MENA driven metastatic lesions. There is a significant clinical need to develop biomarkers that predict response to initial treatment or the development of secondary resistance to taxane-based chemotherapy, while minimizing the risk of unnecessary side effects. We believe the MENA diagnostic assay has the potential to be used as a highly actionable clinical biomarker and/or companion diagnostic to predict response to taxane-based drugs.
+  
+  Liquid blood-based biopsy
+  
+  There is excitement within the oncology community about the promise of liquid biopsy assays for their potential to improve cancer diagnosis and optimize patient care. Should the prognostic and predictive role of the MENA diagnostic assay be clinically validated using FFPE tissue for patients treated with RTKs and taxane-based chemotherapies, we believe there will be a compelling need for the development of a blood-based version of the MENA diagnostic assay. In addition to allowing for repeat non-invasive testing, a blood-based MENA diagnostic assay would be especially useful for patients with advanced cancer undergoing multiple cycles of treatment to predict initial drug response or the development of secondary resistance. We intend to evaluate the potential for developing the blood-based version of the MENA diagnostic assay through collaborative research and development partnerships with companies developing compatible exosome and/or CTC technology platforms.
+  
+  MetaSite Breast™ Assay
+  
+ Our CLIA-certified diagnostic, MetaSite Breast™, is an immunohistochemistry test (IHC) that measurs micro-anatomical intravasation sites (TMEM) at blood vessels within the tumor microenvironment which are clinically validated as prognostic markers of metastasis in hormone receptor-positive (HR+) early stage breast cancer (ESBC). The MetaSite Breast™ test has been analytically validated under CLIA, tested in 6 clinical studies in over 1,700 patients, and is available for clinical use in most states. The MetaSite Breast™ test is a tissue-based IHC assay performed on formalin-fixed paraffin-embedded, or FFPE tissue from a biopsy that directly identifies and quantifies the active sites of the metastatic process. The MetaSite Breast™ test is intended for patients with early stage (stage 1-3) invasive breast cancer who have node-negative or node-positive (1-3), ER-positive, HER2-negative disease.
+  
+
+  
+-9-
+
+
+
+
+
+  Mechanism of action for use as a prognostic diagnostic to predict risk of cancer metastasis
+  
+  In order for breast cancer tumor cells to enter a blood vessel (intravasate), three types of cells must self-assemble in apposition to each other in individual three-cell structures located at blood vessels within the tumor microenvironment. This structure termed a “MetaSite™”, is composed of a M2 tumor associated macrophage (protumoral macrophage or type of immune cell), a tumor cell that expresses the pro-metastatic MENA splice variant and an endothelial cell (cells that lines blood vessels). We have demonstrated in clinical studies the number of MetaSites™ correlates with increased risk of cancer metastasis.
+  
+  This structure termed a “MetaSite™”, is composed of an endothelial cell (cells that lines blood vessels), a protumoral tumor associated macrophage (a type of immune cell), and a tumor cell that expresses the MENA protein. We have demonstrated in clinical studies that the number of MetaSites™ correlates with increased risk of cancer metastasis.
+  
+  MetaSite Breast™ Clinical Studies
+  
+  In November 2017, the results of a second prospective-retrospective validation study were published in npj Breast Cancer (Sparano et al., 2017) demonstrating the clinical validity of the MetaSite Breast™ assay in patients with HR+ HER2-negative breast cancer for early recurrence within 5 years of diagnosis. The ECOG 2197 Cohort Study is a prospectively designed retrospective study (n=600) in an independent cohort of ESBC patients treated with surgery, 4 cycles of adjuvant chemotherapy (doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 (AC) or docetaxel 60 mg/m2 (AT)) and endocrine therapy. Results from this study revealed a significant positive association between continuous MetaSite Score and distant recurrence-free interval (DRFI) p=0.001 and recurrence-free interval (RFI) p=0.00006 in HR-positive HER2-negative disease in years 0-5 and by MetaSite Score tertiles for DRFI (p=0.04) and RFI (p=0.01). Proportional hazards models including clinical covariates (N0 vs. N1; T1 vs. T2; high vs. int. vs. low grade) also revealed significant positive associations for continuous MetaSite Score with RFI (p=0.04), and borderline association with DRFI (p=0.08). In addition, the study demonstrated MetaSite Breast™ provides complementary prognostic information to Oncotype Dx Recurrence Score. High MetaSite Scores were associated with a 9.7-fold higher risk of distant recurrence (95% confidence intervals [CI] 1.8, 54.1) and 6.1-fold higher risk of overall recurrence (95% CI 1.3, 27.8) if the Oncotype Dx Recurrence Score was low (RS<18). Patients with intermediate MetaSite Score (MS=6-17) and low Recurrence Score (RS<18) results had approximately 4.7-fold greater risk (HR=4.7, 95%CI=0.9-24.2) of distant metastasis compared to patients with low MetaSite Score (MS<6) results.
+  
+  In July 2017, results from a study published in Science Translational Medicine (Karagiannis et al., 2017) showed neoadjuvant chemotherapy (NAC) can induce breast cancer metastasis through a TMEM-mediated mechanism. The result of this study suggests that MetaSite Breast™ might also be useful in predicting the development of pro-metastatic changes in the tumor microenvironment in response to NAC. There are currently no tests that can monitor or predict response to NAC.
+  
+ In December 2016, we presented results from the Kaiser Permanente Cohort Study conducted by MetaStat, that demonstrated MetaSite Score was a statically significant predictor of distant metastasis and a binary cutpoint was able to discriminate high and low risk patient groups when adjusted for clinical factors. Independent verification and clinical validation of MetaStat’s fully automated and analytically validated tissue-based MetaSite Breast™ test for risk of cancer metastasis in HR-positive HER2-negative ESBC. The Kaiser Permanente Cohort Prognostic Study is a case-control nested cohort of 3,760 patients diagnosed with ESBC from the Kaiser Permanente Northwest Health Care System in which 464 tumor samples were tested using the MetaSite Breast™ assay. MetaSite Score was a statistically significant predictor of distant metastasis (p=0.039) in patients with HR-positive HER2-negative disease. Using predefined cutpoints based on tertiles for the control group in the overall study population (n=282), MetaSite Score was significantly associated with distant metastasis for the high (MS>41) versus low (MS<13) score tertiles (OR=2.94; 95%CI=1.62-5.41, P=0.0005) and the intermediate (MS=13-41) versus low score tertiles (OR=2.24; 95%CI=1.23-4.13, P=0.009). A binary cut-point for the high-risk group (MS>14) was significant with a 2-fold higher risk (OR=2.1, 95%CI=1.06-3.96) of distant metastasis versus the low risk group and adjusted for clinical covariates (P=0.036).
+  
+ In December 2015, we presented results from the analytic validation study of our fully-automated commercial MetaSite Breast™ assay at the Tumor Metastasis meeting of the American Associations for Cancer Research (AACR). The reliability of our commercial MetaSite Breast™ test was supported by confirming the test’s analytical accuracy, reproducibility, and precision. Reproducibility across operators, instruments and different sections of a tumor sample ranged from 91% to 97% and analytical precision was found to be greater than 97% with a mean percent coefficient of variation (%CV) of 6.6% (n=35). Our commercial MetaSite Breast™ assay showed a high degree of analytical accuracy with the reference standard with AUCs of 0.84 and 0.90 for low and high risk cut-points, respectively. The gold standard method was originally developed at AECOM, where results from their study published in August 2014 in the Journal of the National Cancer Institute (Rohan et al., 2014) demonstrated the number of MetaSites™ in tumors was predictive of metastatic disease in ER-positive breast cancer.
+ 
+  
+-10-
+
+
+
+
+ 
+  In December 2015, we presented results from the analytic validation study of our fully-automated commercial MetaSite Breast™ assay at the Tumor Metastasis meeting of the American Associations for Cancer Research (AACR). The reliability of our commercial MetaSite Breast™ test was supported by confirming the test’s analytical accuracy, reproducibility, and precision. Reproducibility across operators, instruments and different sections of a tumor sample ranged from 91% to 97% and analytical precision was found to be greater than 97% with a mean percent coefficient of variation (%CV) of 6.6% (n=35). Our commercial MetaSite Breast™ assay showed a high degree of analytical accuracy with the reference standard with AUCs of 0.84 and 0.90 for low and high risk cut-points, respectively. The gold standard method was originally developed at AECOM, where results from their study published in August 2014 in the Journal of the National Cancer Institute (Rohan et al., 2014) demonstrated the number of MetaSites™ in tumors was predictive of metastatic disease in ER-positive breast cancer.
+
+In September 2015, we announced topline data from a prospectively defined case-controlled nested cohort of 3,760 patients with invasive ductal carcinoma of the breast diagnosed between 1980 and 2000 followed through 2010 from the Kaiser Permanente Northwest health care system. Of the 3,760 patients treated in this cohort, we received 573 breast cancer tissue blocks of which 481, representing 259 case-controlled pairs, were usable and included in the study. In this study, the MetaSite Breast™ Score was found to be significantly and directly associated with increased risk of distant metastasis in ER-positive, HER2-negative invasive breast cancer for both high (>35 MetaSites™) versus low (<12 MetaSites™) MetaSite™ scores (OR = 3.4; 95% CI = 2.8-4.1; P=0.0002) as well as between intermediate (12-35 MetaSites™) and low MetaSite™ scores (OR=3.24; 95% CI = 2.6-3.9; P=0.0006). This study demonstrated the MetaSite Breast™ Score predicted risk of distant metastasis in ER-positive, HER2-negative early stage invasive breast cancer independent of traditional clinical factors. Data from this study was presented at the San Antonio Breast Cancer Symposium (SABCS) in December 2016.
+ 
+
+In August 2014, the positive results of a 481-patient clinical study demonstrating the prognostic utility of the MetaSite Breast™ assay was published in the Journal of the National Cancer Institute (Rohan et al., 2014) In a case-controlled nested prospective-retrospective study, a cohort of 3,760 patients was examined with invasive ductal breast carcinoma diagnosed between 1980 and 2000 and followed through 2010. The association between the MetaSite™ score from the MetaSite Breast™ assay and risk of distant metastasis was prospectively examined.  A total of 481 blocks representing 259 case-controlled pairs were usable and selected for inclusion in this study. Control and case subjects had very similar distributions with respect baseline characteristics such as age and tumor size.  Results from this study demonstrated a statistically significant association between increasing MetaSite™ score and risk of metastasis in the ER-positive, HER2-negative subpopulation (N=295) (OR high vs. low tertile = 2.70, 95% CI=1.39 to 5.26, Ptrend 0.004; OR per 10-unit increase in MetaSite™ score = 1.16, 95% CI = 1.03 to 1.30). The absolute risk of distant metastasis for the low, medium and high-risk groups was estimated to be 5.9% (95% CI=5.1-6.9%), 14.1% (95% CI=13.0-15.0%), and 30.3% (95% CI=26.1-35.4%), respectively. Statistical significance was not achieved in the triple negative (TNC) (N=98) or HER2-positive subpopulations (N=75). The conclusion from this study was the MetaSite™ score predicted the risk of distant metastasis in ER-positive, HER2-negative breast cancer patients independently of traditional clinicopathologic features such as age and tumor size.
+ 
+In April 2009, the positive results of a clinical study using the MetaSite Breast™ assay on patient tumor samples with invasive breast cancer was published in Clinical Cancer Research (Robinson, et al., 2009). In this case-controlled 5-year retrospective study, a cohort of 60 patients with invasive ductal breast carcinoma, including 30 patients who developed metastatic disease was studied using the MetaSite Breast™ assay.  The results from this study demonstrated MetaSite™ score density was statistically significantly greater in patients who subsequently developed systemic metastasis compared with the patients who had only localized breast cancer (median, 105 vs. 50, respectively; P=0.00006). For every 10-unit increase in MetaSites™ the odds ratio of systemic metastasis increased by 1.9 (95% confidence interval, 1.1-3.4). The number of MetaSites™ observed per patient ranged from 12 to 240 and the odds of metastasis nearly doubled for every increase of 10 MetaSites™.  Importantly, the MetaSite™ score density was not correlated with tumor size, lymph node metastasis, lymphovascular invasion, or hormone receptor status.
+
+
+  
+-11-
+
+
+
+
+ Competition
+ 
+The life sciences, biotechnology and molecular diagnostic industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary technologies and products. Any therapeutic, companion diagnostic and prognostic diagnostic product candidates that we are able to successfully develop and commercialize will compete with both existing therapies and diagnostics and new therapies and diagnostics that may become available in the future. While we believe that our technology and scientific knowledge provide us with competitive advantages, we face potential competition from many different sources, including pharmaceutical, specialty pharmaceutical and biotechnology companies, both large and small molecular diagnostic companies, academic institutions and governmental agencies and public and private research institutions, among others.
+ 
+We plan to compete in segments of the pharmaceutical, biotechnology and other related markets that pursue personalized medicine approaches to treating cancer. There are many companies presently developing therapies for cancer in the field of precision medicines, including divisions of large pharmaceutical companies, specialty pharmaceutical and biotechnology companies of various sizes, including Pfizer Inc., Merck & Co., Inc., Novartis Pharmaceuticals Corp., F. Hoffmann-La Roche Ltd, Bristol-Myers Squibb Company, Eli Lilly and Company, AstraZeneca, PLC, Amgen, Inc., Biogen, Inc., Genentech, Inc., Celgene Corp., Bayer AG, Takeda Pharmaceutical Company Limited, through its wholly owned subsidiary ARIAD Pharmaceuticals, Inc., Clovis Oncology, Inc., Ignyta, Inc., and Deciphera Pharmaceuticals LLC, among many others.
+ 
+We believe our main diagnostic competition will be from a number of private and public companies that offer molecular diagnostic tests, including gene profiling and expression in multiple cancers indications, including companies such as Genomic Health, Inc., Agendia Inc., BioTheranostics, Inc., Exact Sciences, Inc. GenomeDx Biosciences Inc., Hologic Inc., Myriad Genetics, Inc., NanoString Technologies Inc., NeoGenomics, Inc., Novartis AG, Qiagen N.V., Roche Diagnostics, a division of Roche Holding, Ltd, Siemens AG, Veridex LLC, a Johnson & Johnson company, Celera Corporation, and GE Healthcare, a business unit of General Electric Company, as well as others. Commercial laboratories, such as Laboratory Corporation of America Holdings and Quest Diagnostics Incorporated, with strong distribution networks for diagnostic tests, may also compete with us. We may also face competition from Illumina, Inc. and Thermo Fisher Scientific Inc., both of which have announced their intention to enter the clinical diagnostics market as well as other companies and academic and research institutions. We may also face completion from companies focused on liquid biopsies and pan-cancer clinical diagnostics, such as Danaher Corporation and its Cepheid, Inc. subsidiary, Foundation Medicine, Inc., Guardant Health, MDx Health, Inc., Metamark Inc., Natera Inc. and Response Genetics, Inc., among many others.
+ 
+Our competitors may develop and market therapeutic, companion diagnostic and prognostic diagnostic products or other novel technologies that are more effective, safer, more convenient or less costly than any that may be commercialized by us, or may obtain regulatory approval for their products more rapidly than we may obtain approval for ours. Many of our present and potential competitors have widespread brand recognition, distribution and substantially greater financial and technical resources and development, production and marketing capabilities than we do. If we are unable to compete successfully, we may be unable to gain market acceptance and therefore revenue from our therapeutics and diagnostics may be limited.
+ 
+  
+-12-
+
+
+
+
+ Patents and Intellectual Property
+ 
+We believe that clear and extensive patent coverage and protection of the proprietary nature of our technologies is central to our success. Our intellectual property strategy is intended to develop and maintain a competitive position and long-term value through a combination of patents, patent applications, copyrights, trademarks, and trade secrets. We have invested and will continue to invest in our intellectual property portfolio, which has been partially accomplished in conjunction with the resources of our Licensors. This applies to both domestic and international patent coverage.
+ 
+Four (4) patents in the United States, and three (3) international patents have been issued covering key aspects of our core MENA biomarker technologies for epithelial-based solid tumors including breast, lung, prostate and colorectal. These patents expire between 2028 and 2031.
+ 
+We have and intend to continue to file additional patent applications to strengthen our therapeutic and diagnostic intellectual property rights, as well as seek to add to our intellectual property portfolio through licensing, partnerships, joint development and joint venture agreements.
+ 
+Our employees and key technical consultants working for us are required to execute confidentiality and assignment agreements in connection with their employment and consulting relationships. Confidentiality agreements provide that all confidential information developed or made known to others during the course of the employment, consulting or business relationship shall be kept confidential except in specified circumstances. Additionally, our employment agreements provide that all inventions conceived by such employee while employed by us are our exclusive property. We cannot provide any assurance that employees and consultants will abide by the confidentiality and assignment terms of these agreements. Despite measures taken to protect our intellectual property, unauthorized parties might copy aspects of our technology or obtain and use information that we regard as proprietary.
+ 
+As part of our intellectual property strategy, we are reviewing our license agreements and related patents and patent applications to determine applicability with our integrated Rx/Dx product development strategy.
+ 
+ License Agreements
+ 
+In August 2010, we entered into a License Agreement (the “License Agreement”) with AECOM, MIT, Cornell and IFO-Regina. The License Agreement covers patents and patent applications, patent disclosures, cell lines and technology surrounding discoveries in the understanding of the underlying mechanisms of systemic metastasis in solid epithelial cancers, including our core diagnostic technologies, including the MetaSite Breast™ and MENA diagnostic assays.  The License Agreement calls for certain customary payments such as a license signing fee, reimbursement of patent expenses, annual license maintenance fees, milestone payments, and the payment of royalties on sales of products or services covered under the agreement. See “Contractual Obligations” in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section for more information regarding our financial obligations related to the License Agreement.
+ 
+Effective March 2012, we entered into a second license agreement (the “Second License Agreement”) with AECOM. The Second License Agreement covers patent and patent applications, patent disclosures, and other technology surrounding discoveries in the understanding of the underlying mechanisms of systemic metastasis in solid epithelial cancers, including the isolation (capture of), gene expression profile (the “Human Invasion Signature”) and chemotherapeutic resistance of metastatic cells. The Second License Agreement requires certain customary payments such as a license signing fee, reimbursement of patent expenses, annual license maintenance fees, milestone payments, and the payment of royalties on sales of products or services covered under such agreements. See “Contractual Obligations” in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section for more information regarding our financial obligations related to the Second License Agreement.
+ 
+  
+-13-
+
+
+
+
+Pursuant to both the License Agreement and the Second License Agreement, we have the right to initiate legal proceedings on our behalf or in the Licensors’ names, if necessary, against any infringer, or potential infringer, of a licensed intellectual property who imports, makes, uses, sells or offers to sell products. Any settlement or recovery received from any such proceeding shall be divided eighty percent (80%) to us and twenty percent (20%) to the Licensors after we deduct from any such settlement or recovery our actual counsel fees and out-of-pocket expenses relative to any such legal proceeding. If we decide not to initiate legal proceedings against any such infringer, then the Licensors shall have the right to initiate such legal proceedings. Any settlement or recovery received from any such proceeding initiated by the Licensors shall be divided twenty percent (20%) to us and eighty percent (80%) to the Licensors after the Licensors deduct from any such settlement or recovery their actual counsel fees and out-of-pocket expenses relative to any such legal proceeding.
+ 
+Effective December 2013, we entered into two separate worldwide exclusive license agreements with MIT and its David H. Koch Institute for Integrative Cancer Research at MIT and its Department of Biology, AECOM, and Montefiore Medical Center (“Montefiore” and, together with MIT and AECOM, the “Alternative Splicing Licensors”). The diagnostic license agreement (the “Alternative Splicing Diagnostic License Agreement”) and the therapeutic license agreement (the “Alternative Splicing Therapeutic License Agreement” and, together with the Diagnostic License Agreement, the “2014 Alternative Splicing License Agreements”) covers pending patent applications, patent disclosures, and technology surrounding discoveries of alternatively spliced mRNA and protein isoform markers for the treatment and/or prevention of cancer through the epithelial-mesenchymal transition (EMT) in epithelial solid tumor cancers. The 2014 Alternative Splicing License Agreements call for certain customary payments such as a license signing fee, reimbursement of patent expenses, annual license maintenance fees, milestone payments, and the payment of royalties on sales of products or services covered under the agreement.  See “Contractual Obligations” in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section for more information regarding our financial obligations related to the Alternative Splicing License Agreements.
+ 
+Further, pursuant to the 2014 Alternative Splicing License Agreements, we have the right to initiate legal proceedings on our behalf or in the Licensors’ names, if necessary, against any infringer, or potential infringer, of any licensed intellectual property who imports, makes, uses, sells or offers to sell products. Any settlement or recovery received from any such proceeding shall be divided 80% to us and 20% to the Licensors after we deduct from any such settlement or recovery our actual counsel fees and out-of-pocket expenses relative to any such legal proceeding. If we decide not to initiate legal proceedings against any such infringer, then the Licensors shall have the right to initiate such legal proceedings. Any settlement or recovery received from any such proceeding initiated by the Licensors shall be divided 20% to us and 80% to the Licensors after the Licensors deduct from any such settlement or recovery their actual counsel fees and out-of-pocket expenses relative to any such legal proceeding.
+ 
+Effective June 2014, we entered into a License Agreement (the “Antibody License Agreement”) with MIT. The Antibody License Agreement covers proprietary technology and know-how surrounding monoclonal and polyclonal antibodies specific to the Mena protein and its isoforms. The Antibody License Agreement calls for certain customary payments such as a license signing fee, reimbursement of patent expenses, annual license maintenance fees, milestone payments, and the payment of royalties on sales of products or services covered under the agreement.  See “Contractual Obligations” in the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” section for more information regarding our financial obligations related to the Antibody License Agreement. As part of our intellectual property strategy, we have terminated certain license agreements and patent applications related to non-core technologies.
+ 
+ Partnerships and Collaborations
+ 
+In connection with our business strategy, we may enter into exclusive and/or non-exclusive research and development and other collaboration or partnership agreements.
+ 
+ Celgene Corporation
+ 
+On August 22, 2016, we executed a pilot materials transfer agreement (the “MTA”) with Celgene Corporation (“Celgene”) to conduct a mutually agreed upon pilot research project (the “Pilot Project”). On September 29, 2016, we entered into an amendment (the “Amendment”) to the MTA (the “Amendment,” and together with the MTA, the “Research Agreement”), which provided for milestone payments to MetaStat of up to approximately $973,000. Under the terms of the Research Agreement, Celgene provided certain proprietary materials to the Company and the Company evaluated Celgene’s proprietary materials in the Company’s metastatic cell line (in vitro) and animal (in vivo) nonclinical models. The Pilot Project was successfully completed in January 2018. See Note 11 for accounting treatment related to the Research Agreement.
+ 
+  
+-14-
+
+
+
+
+ Albert Einstein College of Medicine and Montefiore Medical Center
+ 
+Effective January 9, 2015, we executed a collaboration agreement (the “Collaboration Agreement”) with AECOM and Montefiore Medical Center (“Montefiore,” and together with AECOM, the “Institutions”) to collaborate on research projects (the “Research Projects”) including conducting studies that establish the clinical validity and clinical utility of MetaStat’s prognostic diagnostic tests, including the MetaSite Breast™ test, the MENA diagnostic assay, and a combined test. The term of the Collaboration Agreement is five years, which may be terminated by either party with thirty days written notice.
+ National Institutes of Health, National Cancer Institute
+ 
+Effective September 21, 2016, we executed an agreement with the National Institutes of Health, National Cancer Institute (the “NCI"), whereby the NCI will contract with MetaStat to perform the MetaSite Breast™ and MENA diagnostic analysis of breast cancer tumor tissue as part of a clinical study. In addition, MetaStat will collaborate with the Department of Cancer Epidemiology and Genetics (DCEG) at the NCI on interpretation of the study analysis and dissemination of results.
+ Government Regulation
+ 
+Regulation by governmental authorities in the United States, at the federal, state and local level, and in and other countries is a significant factor in the research and clinical development, testing, manufacture, commercialization, marketing and advertising, distribution and post-approval monitoring and reporting, among others of both pharmaceuticals and diagnostic tests.
+ Therapeutic Regulation
+ 
+ United States Drug Approval Process
+ 
+In the United States, the FDA regulates drugs under the FDCA, and implementing regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval, may subject an applying company to a variety of administrative or judicial sanctions.
+ 
+Before a drug may be marketed in the U.S., the FDA generally requires the following:
+ 
+  ●
+  completion of preclinical laboratory tests, animal studies and formulation studies in compliance with good laboratory practice, or GLP, regulations;
+
+
+  ●
+  submission of an Investigational New Drug or IND application to the FDA, which must become effective before human clinical trials may begin;
+
+
+  ●
+  approval of each phase of the proposed clinical trials and related informed consents by an IRB, at each clinical site where such trial will be performed;
+
+
+  ●
+  performance of adequate and well-controlled human clinical trials in accordance with good clinical practice, or GCP, standards and regulations to establish the safety and efficacy of the proposed drug for each indication;
+
+
+  ●
+  submission of a New Drug Application, or NDA to the FDA;
+
+
+  ●
+  satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current good manufacturing practice, or cGMP, requirements and to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity; and
+
+
+  ●
+  FDA review and approval of the NDA.
+
+
+  
+-15-
+
+
+
+
+ Preclinical Studies and IND
+ 
+Preclinical studies include laboratory evaluation of product chemistry and formulation, as well as in vitro and animal studies to assess the potential for AEs and, in some cases, to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations for safety/toxicology studies. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical trials, among other things, to the FDA as part of an IND. Some long-term preclinical testing, such as animal tests of reproductive AEs and carcinogenicity, may continue after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the trial on clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence.
+ 
+ Clinical Trials
+ 
+Clinical trials involve the administration of the investigational new drug to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written protocols detailing, among other things, the objectives of the trial, the parameters to be used in monitoring safety, and the safety and effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review. The IRB must review and approve, among other things, the study protocol and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. In addition, a sponsor must provide information regarding most clinical trials to be disclosed on http://clinicaltrials.gov, a website maintained by the National Institutes of Health.
+ 
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined:
+ 
+  ●
+  Phase 1: The drug is initially introduced into healthy human subjects or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness;
+
+
+  ●
+  Phase 2: The drug is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage; and
+
+
+  ●
+  Phase 3: The drug is administered to an expanded patient population in adequate and well-controlled clinical trials to generate sufficient data to statistically confirm the efficacy and safety of the product for approval for specified indications, to establish the overall risk-benefit profile of the product and to provide adequate information for the labeling of the product.
+
+
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA, and more frequently if serious adverse events, or AEs occur. The FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients.
+ 
+  
+-16-
+
+
+
+
+Pursuant to the 21st Century Cures Act, which was enacted on December 13, 2016, the manufacturer of an investigational drug for a serious or life-threatening disease is required to make available, such as by posting on its website, its policy on evaluating and responding to requests for expanded access. This requirement applies on the later of 60 days after the date of enactment or the first initiation of a Phase 2 or Phase 3 trial of the investigational drug.
+ 
+ Marketing Approval
+ 
+Assuming successful completion of the required clinical testing, the results of the preclinical studies and clinical trials, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the product for one or more indications. Under federal law, the submission of most NDAs is subject to a substantial application user fee.
+ 
+The FDA generally conducts a preliminary review of all NDAs to determine if they are sufficiently complete to permit substantive review within the first 60 days after submission before accepting them for filing. The FDA may request additional information in connection with this preliminary review rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is subject to further review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA has agreed to specified performance goals in the review of NDAs. Under these goals, the FDA has committed to review most such applications for non-priority products within 10 months, and most applications for priority review products, that is, drugs that the FDA determines represent a significant improvement over existing therapy, within six months. The FDA may also refer applications for novel drugs or products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. The FDA is not required to adhere its review time goals, and its review could experience delays that cause those goals to not be met.
+ 
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and are adequate to assure consistent production of the product within required specifications. In addition, before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP and integrity of the clinical data submitted.
+ 
+The testing and approval process for each product candidate requires substantial time, effort and financial resources, and each may take many years to complete. Data obtained from preclinical and clinical activities are not always conclusive and may be susceptible to varying interpretations, which could delay, limit or prevent regulatory approval. The FDA may not grant approval of an application for a product candidate on a timely basis, or at all. Further, applicants often encounter difficulties or unanticipated costs in their efforts to develop product candidates and secure necessary governmental approvals, which could delay or preclude the marketing of those products.
+ 
+After the FDA’s evaluation of the NDA and inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA, the FDA may then issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval and refuse to approve the NDA.
+ 
+  
+-17-
+
+
+
+
+ Programs for Expedited Review and Approval
+ 
+The FDA has developed certain programs and designations that enable NDAs for product candidates meeting specified criteria to be eligible for certain expedited review and approval processes such as fast track designation, priority review, accelerated approval, and breakthrough therapy designation. Even if a product qualifies for one or more of these programs, the FDA may later decide that the product no longer meets the conditions for qualification or decide that the time period for FDA review or approval will not be shortened. These include Fast Track Designation, Priority Review, Accelerated Approval, and Breakthrough Therapy Designation.
+ 
+In addition to the expedited review and approval programs and designations, the FDA also recognizes certain other designations and alternative approval pathways that afford certain benefits, such as the orphan drug designation and alternative types of NDAs under the Hatch-Waxman Act.
+ 
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to drugs intended to treat a rare disease or condition, which is generally defined as a disease or condition that affects fewer than 200,000 individuals in the United States. Orphan drug designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the generic identity of the drug and its potential orphan use are disclosed publicly by the FDA. Orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review and approval process. The first NDA applicant to receive FDA approval for a particular active moiety to treat a particular disease with FDA orphan drug designation is entitled to a seven-year exclusive marketing period in the United States for that product and for that indication. During the seven-year exclusivity period, the FDA may not approve any other applications to market the same drug for the same orphan indication, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity, such that it is shown to be safer, more effective or makes a major contribution to patient care. Orphan drug exclusivity does not prevent the FDA from approving a different drug for the same disease or condition, or the same drug for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the NDA application user fee.
+ 
+   
+ Combination Products
+
+
+The FDA regulates combinations of products that cross FDA centers, such as drug, biologic or medical device components that are physically, chemically or otherwise combined into a single entity, as a combination product. The FDA center with primary jurisdiction for the combination product will take the lead in the premarket review of the product, with the other center consulting or collaborating with the lead center. The 21st Century Cures Act, or Cures Act, amended the provisions of the FDCA relating to the regulation of combination products to, among other things, require the FDA to conduct the premarket review of any combination product under a single application whenever appropriate.
+ 
+In practice, the FDA’s Office of Combination Products, or OCP, determines which center will have primary jurisdiction for the combination product based on the combination product’s “primary mode of action.” A mode of action is the means by which a product achieves an intended therapeutic effect or action. The primary mode of action is the mode of action that provides the most important therapeutic action of the combination product, or the mode of action expected to make the greatest contribution to the overall intended therapeutic effects of the combination product.
+ 
+It is often difficult for the OCP to determine with reasonable certainty the most important therapeutic action of the combination product. In those difficult cases, the OCP will consider consistency with other combination products raising similar types of safety and effectiveness questions, or which center has the most expertise to evaluate the most significant safety and effectiveness questions raised by the combination product.
+ 
+If a combination product sponsor disagrees with OCP’s primary mode of action determination, the Cures Act permits the sponsor to request that the FDA provide a substantive rationale for its determination. The sponsor can then propose one or more studies to establish the relevance of the chemical action in achieving the product’s primary mode of action and the FDA and the sponsor will collaborate to reach agreement on the design of such studies within 90 calendar days. If the sponsor conducts the agreed-upon studies, the FDA must consider the resulting data when reevaluating the product’s primary mode of action.
+ 
+  
+-18-
+
+
+
+
+ Post-Market Drug Regulation
+ 
+If the FDA approves a drug product for commercial marketing, it may limit the approved indications for use of the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess a drug’s safety and/or other factors after approval, require testing and surveillance programs to monitor the product after commercialization and/or patients using the product for observation of the product’s long-term effects, or impose other conditions, including distribution restrictions or other risk management mechanisms, including Risk Evaluation and Mitigation Strategies, or REMS, which can materially affect the potential market and profitability of the product. Any approved product is also subject to requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion, labeling, and reporting of adverse experiences with the product. The FDA may prevent or limit further marketing of a product based on the results of post-market studies or surveillance programs. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testing requirements and FDA review and re-approval.
+ 
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon drug developers and their manufacturers. Accordingly, manufacturers must continue to expend time, money and effort in the areas of production and quality control to maintain cGMP compliance.
+ 
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including AEs of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information, imposition of post-market studies or clinical trials to assess new safety risks or imposition of distribution or other restrictions under a REMS program. Other potential consequences of a failure to comply with regulatory requirements during or after the FDA approval process include, among other things:
+ 
+  ●
+  restrictions on the marketing or manufacturing of the product, product recalls or complete withdrawal of the product from the market;
+
+
+  ●
+  fines, warning or untitled letters or holds on post-approval clinical trials;
+
+
+  ●
+  refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of product license approvals;
+
+
+  ●
+  product seizure or detention, or refusal to permit the import or export of products; or
+
+
+  ●
+  consent decrees, injunctions or the imposition of civil or criminal penalties.
+
+
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off label uses, and a company that is found to have improperly promoted off label uses may be subject to significant liability.
+ 
+  
+-19-
+
+
+
+
+ Diagnostic Regulation
+ 
+The United States Food and Drug Administration, or the FDA, regulates the sale or distribution, in interstate commerce, of medical devices, including in vitro diagnostic test kits or IVDs, such as our companion diagnostics. Devices subject to FDA regulation must undergo pre-market review prior to commercialization unless the device is of a type exempted from such review. Additionally, medical device manufacturers must comply with various regulatory requirements under the Federal Food, Drug and Cosmetic Act, or FDCA, and regulations promulgated under that Act, including quality system review regulations, unless exempted from those requirements for particular types of devices. Entities that fail to comply with FDA requirements can be liable for criminal or civil penalties, such as recalls, detentions, orders to cease manufacturing and restrictions on labeling and promotion.
+ 
+Clinical laboratory services, such as our prognostic diagnostic tests are currently not subject to FDA regulation, but IVDs and analyte-specific reagents and equipment used by these laboratories may be subject to FDA regulation. Clinical laboratory tests that are developed and validated by a laboratory for use in examinations the laboratory performs itself are called “home brew” tests or more recently, Laboratory Developed Tests, or LDTs. LDTs are subject to the Clinical Laboratory Improvement Amendments of 1988, or CLIA.
+ 
+Beginning in January 2006, the FDA began indicating its belief that LDTs were subject to FDA regulation as devices and issued a series of guidance documents intending to establish a framework by which to regulate certain laboratory tests. In September 2006, the FDA issued draft guidance on a new class of tests called "In Vitro Diagnostic Multivariate Index Assays", or IVDMIAs. Under this draft guidance, specific tests could be classified as either a Class II or a Class III medical device, which may require varying levels of FDA pre-market review depending on intended use and the level of control necessary to assure the safety and effectiveness of the test. In July 2007, the FDA posted revised draft guidance that addressed some of the comments submitted in response to the September 2006 draft guidance. In May 2007, the FDA issued a guidance document "Class II Special Controls Guidance Document: Gene Expression Profiling Test System for Breast Cancer Prognosis." This guidance document was developed to support the classification of gene expression profiling test systems for breast cancer prognosis into Class II. In addition, the Secretary of the Department of Health and Human Services, or HHS, requested that its Advisory Committee on Genetics, Health and Society make recommendations about the oversight of genetics testing. A final report was published in April 2008. In June 2010, the FDA announced a public meeting to discuss the agency's oversight of LDTs prompted by the increased complexity of LDTs and their increasingly important role in clinical decision making and disease management. The FDA indicated that it is considering a risk-based application of oversight to LDTs. The public meeting was held in July 2010 and further public comments were submitted to the FDA in September 2010. In June 2011, the FDA issued draft guidance regarding "Commercially Distributed In Vitro Diagnostic Products Labeled for Research Use Only or Investigational Use Only," which was finalized in November 2013.
+ 
+In October 2014, the FDA published two draft guidance documents that, if finalized, would implement a regulatory approach for most LDTs. In the draft guidance documents, the FDA stated that it had serious concerns regarding the lack of independent review of the evidence of clinical validity of LDTs and asserted that the requirements under CLIA do not address the clinical validity of any LDT. The draft guidance documents proposed to impose a risk-based, phased-in approach for LDTs similar to the existing framework for in vitro diagnostic devices. In January 2017, the FDA released a discussion paper synthesizing public comments on the 2014 draft guidance documents and outlining a possible approach to regulation of LDTs. The discussion paper has no legal status and does not represent a final version of the LDT draft guidance documents. In the discussion paper, the FDA states that there is “a growing consensus that additional oversight of LDTs is necessary.” Similar to the FDA’s 2014 draft guidance, the FDA’s discussion paper proposes a risk-based framework that would require most LDTs to comply with most of the FDA’s regulatory requirements for medical devices. Unlike the draft guidance, however, the discussion paper proposes to exempt currently marketed LDTs from premarket review, requiring only new or modified tests to be approved or cleared by the agency. In addition, the FDA proposed requiring LDTs to comply with only a subset of the medical device Quality System Regulation, or QSRs and proposed other changes from the 2014 draft guidance. We cannot predict whether the FDA will take action to regulate LDTs under the new administration or what approach the FDA will seek to take.
+ 
+  
+-20-
+
+
+
+
+Legislative proposals have been introduced in Congress or publicly circulated, each of which would implement differing approaches to the regulation of LDTs. We cannot predict the ultimate form of any such guidance or regulation and the potential impact on our prognostic diagnostic tests or materials used to perform our prognostic diagnostic tests. If pre-market review is required, our business could be negatively impacted until such review is completed and clearance to market or approval is obtained.  FDA could require we seek pre-market clearance or approval for tests currently under development delaying product commercialization or following product launch to require that we stop selling our tests. If our tests are allowed to remain on the market but there is uncertainty about our tests, if they are labeled investigational by the FDA, or if labeling claims the FDA allows us to make are limited, orders or reimbursement may decline. The regulatory approval process may involve, among other things, successfully completing additional clinical trials and submitting a pre-market clearance notice or filing a pre-market application, or PMA with the FDA. If pre-market review is required by the FDA, there can be no assurance that our tests will be cleared or approved on a timely basis, if at all, nor can there be assurance that labeling claims will be consistent with our current claims or adequate to support continued adoption of and reimbursement for our tests. Ongoing compliance with FDA regulations would increase the cost of conducting our business, and subject us to inspection by the FDA and to the requirements of the FDA and penalties for failure to comply with these requirements. We may also decide voluntarily to pursue FDA pre-market review of our tests if we determine that doing so would be appropriate.
+ 
+While we expect all materials used in our tests to qualify according to CLIA regulations, we cannot be certain that the FDA might not enact rules or guidance documents which could impact our ability to purchase materials necessary for the performance of our tests. Should any of the reagents obtained by us from vendors and used in conducting our tests be affected by future regulatory actions, our business could be adversely affected by those actions, including increasing the cost of testing or delaying, limiting or prohibiting the purchase of reagents necessary to perform testing.
+ 
+ Regulation of Medical Devices and In Vitro Diagnostic Devices (IVDs) – Companion Diagnostics
+ 
+We may seek to develop or seek to partner with third parties to develop in vitro companion diagnostics for use in selecting the patients that we believe will respond to certain drugs. We expect our MENA companion diagnostic tests will be regulated by the FDA as an IVD, companion diagnostic. As defined by the FDA, an IVD companion diagnostic is a medical device that provides information that is essential for the safe and effective use of a corresponding drug or biological product. An IVD companion diagnostic helps a health care professional determine whether a therapeutic product’s benefits to patients will outweigh any potential side effects or risks.
+ 
+In August 2014, the FDA issued guidance that addresses issues critical to developing in vitro companion diagnostics. The guidance states that if safe and effective use of a therapeutic product depends on an in vitro diagnostic, then the FDA generally will require approval or clearance of the diagnostic at the same time that the FDA approves the therapeutic product. In July 2016, the FDA issued a draft guidance intended to assist sponsors of the drug therapeutic and in vitro companion diagnostic device on issues related to co-development of the products. The FDA generally requires in vitro companion diagnostics intended to select the patients intended to receive a cancer treatment to obtain approval of a PMA approval, for that diagnostic simultaneously with approval of the drug. 
+ 
+To be commercially distributed in the United States, a medical device, including IVDs, must receive either 510(k) clearance, de novo authorization, or PMA approval from the FDA prior to marketing. There are three classes of medical devices recognized by the FDA, Class I (low risk), Class II (moderate risk), and Class III (high risk).
+ 
+Class I devices are those for which reasonable assurance of safety and effectiveness can be provided by adherence to the FDA’s general controls for medical devices, which include applicable portions of the FDA’s Quality System Regulation, or QSR, requirements, facility registration and product listing; reporting of adverse medical events or AEs; and appropriate, truthful, and non-misleading labeling, advertising and promotional materials. Many Class I devices are exempt from premarket regulation; however, some Class I devices require premarket clearance by the FDA through the 510(k) premarket notification process discussed below.
+ 
+Class II devices are subject to the FDA’s general controls, and any other special controls, such as performance standards, post-market surveillance, and FDA guidelines, deemed necessary by the FDA to provide reasonable assurance of the devices’ safety and effectiveness. Premarket review and clearance by the FDA for Class II devices are accomplished through the 510(k) premarket notification procedure, although some Class II devices are exempt from the 510(k) requirements. Premarket notifications are subject to user fees unless a specific exemption applies. To obtain 510(k) clearance, a manufacturer must submit a premarket notification demonstrating that the proposed device is “substantially equivalent” to a predicate device, which is a previously cleared 510(k) device or a preamendment device that was in commercial distribution before May 28, 1976, for which the FDA has not yet called for the submission of a PMA. In determining substantial equivalence, the FDA assesses whether the proposed device has the same intended use and technical characteristic as the predicate device, or whether the proposed device has different technological characteristics, but the information submitted in the premarket notification demonstrates the device is as safe and effective as a legally marketed device and does not raise different questions of safety and effectiveness than the predicate device. The FDA may request additional information, including clinical data. Under the FDCA, a manufacturer must submit a premarket notification at least 90 days before introducing a device into interstate commerce, but the FDA’s review of the premarket notification can take significantly longer. If the FDA determines that the device is substantially equivalent to the predicate device(s), the subject device may be marketed. However, if the FDA determines that a device is not substantially equivalent to the predicate device(s), then the device would be regulated as a Class III device, discussed below. If a manufacturer obtains a 510(k) clearance for its device and then makes a modification that could significantly affect the device’s safety or effectiveness, a new premarket notification must be submitted to the FDA.
+ 
+  
+-21-
+
+
+
+
+Class III devices are those deemed by the FDA to pose the greatest risk, such as those for which reasonable assurance of the device’s safety and effectiveness cannot be assured solely by the general controls and special controls described above and that are life-sustaining or life-supporting. Some preamendment Class III devices for which the FDA has not yet required a PMA require the FDA’s clearance of a premarket notification in order to be marketed. However, most Class III devices are required to undergo the PMA process in which the manufacturer must demonstrate reasonable assurance of the safety and effectiveness of the device to the FDA’s satisfaction. A PMA application must provide valid scientific evidence, typically extensive preclinical and clinical trial data, and information about the device and its components regarding, among other things, device design, manufacturing, and labeling. PMA applications (and supplemental PMA applications) are subject to significantly higher user fees than 510(k) premarket notifications. Some PMA applications are exempt from a user fee, for example, a small business’s first PMA.
+ 
+A PMA for an IVD typically includes data from preclinical studies and well-controlled clinical trials. Preclinical data for an IVD includes many different tests, including how reproducible the results are when the same sample is tested multiple times by multiple users at multiple laboratories. The clinical data need to establish that the test is safe and effective for the proposed intended use in the indicated population. In addition, the PMA must include information regarding the test’s clinical utility, meaning that an IVD provides information that is clinically meaningful. Such information must be provided even if the clinical significance of the biomarker is obvious. The applicant may also rely upon published literature or submit data to the FDA to show clinical utility.
+ 
+A PMA also must provide information about the device and its components regarding, among other things, device design, manufacturing and labeling. The sponsor must pay an application fee to the FDA upon submission of a PMA, which is approximately $250,000 for 2017. As part of the PMA review, the FDA will typically inspect the manufacturer’s facilities for compliance with QSR requirements, which impose elaborate testing, control, documentation and other quality assurance procedures.
+ 
+Upon submission, the FDA determines if the PMA is sufficiently complete to permit a substantive review, and, if so, the FDA accepts the application for filing. The FDA then commences an in-depth review of the PMA. The entire process can typically take multiple years from submission of the PMA to approval but may take longer. The review time is often significantly extended as a result of the FDA asking for more information or clarification of information already provided. The FDA also may respond with a not approvable determination based on deficiencies in the PMA application and require additional clinical trial or other data that are often expensive and time-consuming to generate and can substantially delay approval.
+ 
+During the review period, an FDA advisory committee, typically a panel of clinicians, may be convened to review the PMA application and recommend to the FDA whether, or upon what conditions, the device should be approved. Although the FDA is not bound by the advisory panel decision, the panel’s recommendation is important to the FDA’s overall decision-making process.
+ 
+If the FDA’s evaluation of the PMA is favorable, the FDA typically issues an approvable letter requiring the applicant’s agreement to specific conditions, such as changes in labeling, or specific additional information, such as submission of final labeling, in order to secure final approval of the PMA. If the FDA concludes that the applicable criteria have been met, the FDA will issue a PMA approval for the approved indications, which can be more limited than those originally sought by the applicant. The PMA approval can include post-approval conditions that the FDA believes necessary to ensure the safety and effectiveness of the device, including, among other things, restrictions on labeling, promotion, sale and distribution. Failure to comply with the conditions of approval can result in an enforcement action, including the loss or withdrawal of the approval.
+ 
+Even after approval of a PMA, a new PMA or PMA supplement may be required in the event of a modification to the device, its labeling or its manufacturing process. Supplements to a PMA often require the submission of the same type of information required for an original PMA, except that the supplement is generally limited to the information needed to support the proposed change from the product covered by the original PMA.
+ 
+  
+-22-
+
+
+
+
+After a PMA application is submitted and found to be sufficiently complete, the FDA begins an in-depth review of the submitted information. During this review period, the FDA may request additional information or clarification of information already provided. The FDA also may convene an advisory panel of outside experts to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. In addition, the FDA generally will conduct a pre-approval inspection of the manufacturing facility to ensure compliance with the QSR. The FDA can delay, limit, or deny approval of a PMA application for many reasons.
+ 
+Failure to comply with applicable regulatory requirements can result in enforcement action by the FDA, which may include any of the following sanctions: public warning letters, fines, injunctions, civil or criminal penalties, recall or seizure of products, operating restrictions, partial suspension or total shutdown of production, delays in or denial of 510(k) clearance or PMA applications for new products, challenges to existing 510(k) clearances or PMA applications, and a recommendation by the FDA to disallow a device manufacturer from entering into government contracts. The FDA also has the authority to request repair, replacement, or refund of the cost of any device manufactured or distributed. In the event that a supplier fails to maintain compliance with a device manufacturer’s quality requirements, the manufacturer may have to qualify a new supplier and could experience manufacturing delays as a result. We believe that products we may develop in the future for use as companion diagnostic tests are likely to be regulated as Class III devices requiring PMA approval.
+ 
+ Clinical Trials and IDEs
+ 
+A clinical trial is almost always required to support a PMA. For significant risk devices, the FDA regulations require that human clinical investigations conducted in the U.S. be approved via an Investigational Device Exemption, or IDE, which must be approved before clinical testing may commence. In some cases, one or more smaller IDE studies may precede a pivotal clinical trial intended to demonstrate the safety and efficacy of the investigational device. A 30-day waiting period after the submission of each IDE is required prior to the commencement of clinical testing in humans. The FDA may disapprove, or approve with conditions, the IDE within the 30-day period. If disapproved, the clinical trial may not begin until the deficiencies noted by the FDA are addressed, and another IDE is submitted to the FDA for approval. If approved with conditions, the sponsor must address the conditions prior to commencement of the trial. If the FDA does not respond to the sponsor within the 30-day period, the IDE is deemed approved and the clinical study may commence.
+ 
+IVD trials usually do not require an IDE approval, so long as, among other things, the results of the IVD test are not used diagnostically without confirmation of the test results by another, medically established diagnostic product or procedure. For a trial where the IVD result directs the therapeutic care of patients with cancer, we believe that the FDA would likely consider the investigation to require an IDE application.
+ 
+An IDE application must be supported by appropriate data, such as laboratory test results, showing that it is safe to test the device in humans and that the testing protocol is scientifically sound. The IDE application must also include a description of product manufacturing and controls, and a proposed clinical trial protocol. The FDA typically grants IDE approval for a specified number of patients. All clinical studies of investigational devices, regardless of whether IDE approval is required, require approval from an institutional review board, or IRB.
+ 
+During the clinical trial, the sponsor must comply with the FDA’s IDE requirements for investigator selection, trial monitoring, reporting and record keeping. The investigators must obtain patient informed consent, rigorously follow the investigational plan and study protocol, control the disposition of investigational devices and comply with all reporting and record keeping requirements. These IDE requirements apply to all investigational devices, whether considered significant or nonsignificant risk. Prior to granting PMA approval, the FDA typically inspects the records relating to the conduct of the study and the clinical data supporting the PMA for compliance with applicable requirements.
+ 
+Clinical trials must be conducted: (i) in compliance with federal regulations; (ii) in compliance with good clinical practice, or GCP, an international standard intended to protect the rights and health of patients and to define the roles of clinical trial sponsors, investigators, and monitors; and (iii) under protocols detailing the objectives of the trial, the parameters to be used in monitoring safety, and the effectiveness criteria to be evaluated.
+ 
+  
+-23-
+
+
+
+
+The FDA may order the temporary, or permanent, discontinuation of a clinical trial at any time, or impose other sanctions, if it believes that the clinical trial either is not being conducted in accordance with FDA requirements or presents an unacceptable risk to the clinical trial patients. An IRB may also require the clinical trial at a study site to be halted, either temporarily or permanently, for failure to comply with the IRB’s requirements, or may impose other conditions.
+ 
+Although the QSR does not fully apply to investigational devices, the requirement for controls on design and development does apply. The sponsor also must manufacture the investigational device in conformity with the quality controls described in the IDE application and any conditions of IDE approval that the FDA may impose with respect to manufacturing.
+ 
+Investigational IVDs may only be distributed for use in an investigation, and the labeling must prominently contain the statement “For Investigational Use Only. The performance characteristics of this product have not been established.”
+ 
+   
+ Expedited Access Pathway Program
+
+
+In April 2015, the FDA issued a final guidance document establishing the Expedited Access Pathway, or EAP program. The EAP program is intended to speed patient access to devices (including companion diagnostics) that demonstrate the potential to address unmet medical needs for life threatening or irreversibly debilitating diseases or conditions and are subject to PMA approval or de novo authorization. In order to be accepted into the EAP program, a sponsor must demonstrate to the FDA’s satisfaction that the device is intended to treat or diagnose a life-threatening or irreversibly debilitating disease or condition and that it addresses an unmet need. The sponsor must also submit an acceptable draft Data Development Plan. Once accepted into the program, the FDA intends to engage with sponsors of EAP devices earlier and more interactively during the device’s development, assessment, and review. The FDA will also work with the device sponsor to try to reduce the time and cost from development to an approval decision. Elements of the EAP program may include priority review, interactive review, senior management involvement, and assignment of a case manager.
+ Post-Market Device Regulation
+ 
+After a device obtains FDA approval and is on the market, numerous regulatory requirements apply. These requirements include the QSR, labeling regulations, the FDA’s general prohibition against promoting products for unapproved or “off-label” uses, the Medical Device Reporting regulation, which requires that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur, and the Reports of Corrections and Removals regulation, which requires manufacturers to report recalls and field actions to the FDA if initiated to reduce a risk to health posed by the device or to remedy a violation of the FDCA.
+ 
+The FDA enforces these requirements by inspection and market surveillance. If the FDA finds a violation, it can institute a wide variety of enforcement actions, ranging from a public warning letter to more severe sanctions such as fines, injunctions and civil penalties; recall or seizure of products; operating restrictions, partial suspension or total shutdown of production; refusing requests for PMA approval of new products; withdrawing PMA approvals already granted; and criminal prosecution.
+ 
+ Clinical Laboratory Improvement Amendments of 1988, or CLIA – Prognostic Diagnostics
+ 
+LDTs, such as our prognostic diagnostic tests, are subject to the Clinical Laboratory Improvement Amendments of 1988, or CLIA, and are not currently regulated as medical devices under the FDCA. Under CLIA, a laboratory is any facility which performs laboratory testing on specimens derived from humans for the purpose of providing information for the diagnosis, prevention or treatment of disease, or the impairment of, or assessment of health. We have a current certificate of accreditation under CLIA to perform high complexity testing of our prognostic diagnostic tests for breast cancer.
+ 
+  
+-24-
+
+
+
+
+As a clinical reference laboratory as defined under CLIA, we are required to hold a certificate applicable to the type of work we perform and comply with certain standards. CLIA further regulates virtually all clinical laboratories by requiring they be certified by the federal government and comply with various operational, personnel, facilities administration, quality, and proficiency requirements intended to ensure that their clinical laboratory testing services are accurate, reliable, and timely. Laboratories must register and list their tests with The Centers for Medicare & Medicaid Services, or CMS, the agency that oversees CLIA. CLIA compliance and certification is also a prerequisite to be eligible to bill for services provided to governmental payor program beneficiaries and for many private payors. CLIA is user-fee funded. Therefore, all costs of administering the program must be covered by the regulated facilities, including certification and survey cost.
+ 
+To renew our CLIA certificate, we will be subject to survey and inspection every two years to assess compliance with program standards and may be subject to additional inspections without prior notice. The standards applicable to the testing which we perform may change over time. We cannot assure that we will be able to operate profitably should regulatory compliance requirements become substantially costlier in the future. If our clinical reference laboratory falls out of compliance with CLIA requirements, we may be subject to sanctions such as suspension, limitation or revocation of our CLIA certificate, as well as directed plan of correction, state on-site monitoring, civil money penalties, civil injunctive suit or criminal penalties. Additionally, we must maintain CLIA compliance and certification to be eligible to bill for tests provided to Medicare beneficiaries. If we were to be found out of compliance with CLIA program requirements and subjected to sanction, our business would be harmed.
+ 
+CLIA provides that a state may adopt laboratory regulations that are more stringent than those under federal law, and a number of states have implemented their own more stringent laboratory regulatory requirements. State laws may require that laboratories meet certain personnel qualifications, specify certain quality control procedures, meet facility requirements, or prescribe record maintenance requirements.
+ 
+If regulated by the FDA, we believe that our LDTs would likely be regulated as either Class II or Class III devices. Accordingly, premarket review—either a 510(k), de novo application, or a PMA—would likely be required for our tests if the FDA no longer applies its enforcement discretion to LDTs and our tests do not qualify as grandfathered tests that are exempted from premarket review. While the data requirements are typically greater for Class III devices, the data required for Class II devices has increased, and it is likely that some amount of clinical data (retrospective or prospective or both) would be required for any type of submission to the FDA. Ongoing compliance with FDA regulations would increase the cost of conducting our business, subject us to inspection by the FDA and to the requirements of the FDA and penalties for failure to comply with the requirements of the FDA. We cannot assure you that our current prognostic diagnostic products and other future products will not require 510(k) clearance or PMA approval in the future, or, in such an event, that such approval or clearance would be forthcoming. Should any of the clinical laboratory device reagents obtained by us from vendors and used in conducting our home brew test be affected by future regulatory actions, we could be adversely affected by those actions, including increased cost of testing or delay, limitation or prohibition on the purchase of reagents necessary to perform testing.
+ 
+ Massachusetts and Other States’ Laboratory Testing
+ 
+Our clinical reference laboratory is located in Boston, Massachusetts. Accordingly, we are required to be licensed by Massachusetts, under Massachusetts laws and regulations, as well as CLIA under CMS regulations, which both establish standards for:
+ 
+  ●
+  Day-to-day operation of a clinical laboratory, personnel standards including training and competency of all laboratory staff;
+
+
+  ●
+  Physical requirements of a facility, including, policies and procedures; and safety;
+
+
+  ●
+  Equipment; and
+
+
+  ●
+  Quality control, including quality assurance; and proficiency testing.
+
+
+  
+-25-
+
+
+
+
+In 2015, we received the necessary certifications and licenses from both CLIA and Massachusetts for our clinical reference laboratory to perform testing services of our prognostic diagnostic breast cancer tests.
+ 
+If a laboratory is not in compliance with Massachusetts statutory or regulatory standards, or CLIA regulations as mandated by CMS, the Massachusetts State Department of Health and/or CMS may suspend, limit, revoke or annul the laboratory’s Massachusetts license, and CLIA certification, censure the holder of the license or assess civil money penalties. Additionally, statutory or regulatory noncompliance may result in a laboratory’s operator being found guilty of a misdemeanor. In the event that we should be found not to be in compliance with Massachusetts or CLIA laboratory requirements, we could be subject to such sanctions, which could harm our business.
+ 
+California, New York, Florida, Maryland, Pennsylvania and Rhode Island require out-of-state laboratories, which accept specimens from those states to be licensed in each state. We have received licensing from Massachusetts, California, Florida, Pennsylvania and Rhode Island and are currently seeking licensing from New York and Maryland. From time to time, we may become aware of other states that require out-of-state laboratories to obtain licensure in order to accept specimens from the state, and it is possible that other states do have such requirements or will have such requirements in the future. If we identify any other state with such requirements or if we are contacted by any other state advising us of such requirements, we intend to follow instructions from the state regulators as to how we should comply with such requirements.
+ 
+ Additional Regulations and Environmental Matters
+ 
+ Health Insurance Portability and Accountability Act (HIPAA) and HITECH
+ 
+Under the administrative simplification provisions the federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, or the HITECH Act, the United States Department of Health and Human Services (HHS) issued regulations that establish uniform standards governing the conduct of certain electronic health care transactions and protecting the privacy and security of protected health information used or disclosed by health care providers and other covered entities, such as MetaStat. Three principal regulations with which we are required to comply have been issued in final form under HIPAA: privacy regulations, security regulations, and standards for electronic transactions, which establish standards for common health care transactions. The privacy and security regulations were extensively amended in 2013 to incorporate requirements from the HITECH Act.
+ 
+The privacy regulations cover the use and disclosure of protected health information by health care providers and other covered entities. They also set forth certain rights that an individual has with respect to his or her protected health information maintained by a health care provider, including the right to access or amend certain records containing protected health information, or to request restrictions on the use or disclosure of protected health information. The security regulations establish requirements for safeguarding the confidentiality, integrity, and availability of protected health information that is electronically transmitted or electronically stored.
+ 
+The HITECH Act, among other things, established certain protected health information security breach notification requirements. A covered entity must notify affected individual(s) and the HHS when there is a breach of unsecured protected health information. The HIPAA privacy and security regulations establish a uniform federal “floor” that health care providers must meet and do not supersede state laws that are more stringent or provide individuals with greater rights with respect to the privacy or security of, and access to, their records containing protected health information. Massachusetts, for example, has a state law that protects the privacy and security of personal information of Massachusetts residents that is more prescriptive than HIPAA.
+ 
+These laws contain significant fines and other include civil and criminal penalties for wrongful use or disclosure of protected health information. Additionally, to the extent that we submit electronic health care claims and payment transactions that do not comply with the electronic data transmission standards established under HIPAA and the HITECH Act, payments to us may be delayed or denied.
+ 
+We have policies and procedures to comply with these regulations. The requirements under these regulations may change periodically and could have an adverse effect on our business operations if compliance becomes substantially costlier than under current requirements.
+ 
+  
+-26-
+
+
+
+
+In addition to federal privacy regulations, there are a number of state and international laws governing confidentiality of health information that may be applicable to our operations. The United States Department of Commerce, the European Commission and the Swiss Federal Data Protection and Information Commissioner have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union and Swiss law that adequate protection is given to personal information transferred from the European Union or Switzerland to the United States. The European Commission and Switzerland have also recognized the Safe Harbor Principles as providing adequate data protection.
+ 
+New laws governing privacy may be adopted in the future as well. We have taken steps to comply with health information privacy requirements to which we are aware that we will be subject. However, we cannot provide assurance that we will be in compliance with diverse privacy requirements in all of the jurisdictions in which we do business. Failure to comply with privacy requirements could result in civil or criminal penalties, which could have a materially adverse impact on our business.
+ 
+ Federal and State Physician Self-Referral Prohibitions
+ 
+We will be subject to the federal physician self-referral prohibitions, commonly known as the Stark Law, and to similar state restrictions such as the California's Physician Ownership and Referral Act, or PORA. Together these restrictions generally prohibit us from billing a patient or any governmental or private payer for any test when the physician ordering the test, or any member of such physician's immediate family, has an investment interest in or compensation arrangement with us, unless the arrangement meets an exception to the prohibition. Both the Stark Law and PORA contain an exception for compensation paid to a physician for personal services rendered by the physician. We would be required to refund any payments we receive pursuant to a referral prohibited by these laws to the patient, the payer or the Medicare program, as applicable.
+ 
+Both the Stark Law and certain state restrictions such as PORA contain an exception for referrals made by physicians who hold investment interests in a publicly traded company that has stockholders’ equity exceeding $75 million at the end of its most recent fiscal year or on average during the previous three fiscal years, and which satisfies certain other requirements. In addition, both the Stark Law and certain state restrictions such as PORA contain an exception for compensation paid to a physician for personal services rendered by the physician.
+ 
+However, in the event that we enter into any compensation arrangements with physicians, we cannot be certain that regulators would find these arrangements to be in compliance with Stark, PORA or similar state laws. In such event, we would be required to refund any payments we receive pursuant to a referral prohibited by these laws to the patient, the payer or the Medicare program, as applicable.
+ 
+Sanctions for a violation of the Stark Law include the following:
+ 
+  ●
+  denial of payment for the services provided in violation of the prohibition;
+
+
+  ●
+  refunds of amounts collected by an entity in violation of the Stark Law;
+
+
+  ●
+  a civil penalty of up to $15,000 for each service arising out of the prohibited referral;
+
+
+  ●
+  possible exclusion from federal healthcare programs, including Medicare and Medicaid; and
+
+
+  ●
+  a civil penalty of up to $100,000 against parties that enter into a scheme to circumvent the Stark Law’s prohibition.
+
+
+  
+-27-
+
+
+
+
+These prohibitions apply regardless of the reasons for the financial relationship and the referral. No finding of intent to violate the Stark Law is required for a violation. In addition, under an emerging legal theory, knowing violations of the Stark Law may also serve as the basis for liability under the Federal False Claims Act.
+ 
+Further, a violation of PORA is a misdemeanor and could result in civil penalties and criminal fines. Finally, other states have self-referral restrictions with which we have to comply that differ from those imposed by federal and California law. It is possible that any financial arrangements that we may enter into with physicians could be subject to regulatory scrutiny at some point in the future, and we cannot provide assurance that we will be found to be in compliance with these laws following any such regulatory review.
+ 
+ Federal, State and International Anti-kickback Laws
+ 
+The Federal Anti-Kickback Law makes it a felony for a provider or supplier, including a laboratory, to knowingly and willfully offer, pay, solicit or receive remuneration, directly or indirectly, in order to induce business that is reimbursable under any federal health care program. A violation of the Anti-kickback Law may result in imprisonment for up to five years and fines of up to $250,000 in the case of individuals and $500,000 in the case of organizations. Convictions under the Anti-kickback Law result in mandatory exclusion from federal health care programs for a minimum of five years. In addition, HHS has the authority to impose civil assessments and fines and to exclude health care providers and others engaged in prohibited activities from Medicare, Medicaid and other federal health care programs.
+ 
+Actions which violate the Anti-kickback Law or similar laws may also involve liability under the Federal False Claims Act, which prohibits the knowing presentation of a false, fictitious or fraudulent claim for payment to the United States Government. Actions under the Federal False Claims Act may be brought by the Department of Justice or by a private individual in the name of the government.
+ 
+Although the Anti-kickback Law applies only to federal health care programs, a number of states have passed statutes substantially similar to the Anti-kickback Law pursuant to which similar types of prohibitions are made applicable to all other health plans and third-party payers.
+ 
+Federal and state law enforcement authorities scrutinize arrangements between health care providers and potential referral sources to ensure that the arrangements are not designed as a mechanism to induce patient care referrals and opportunities. The law enforcement authorities, the courts and the United States Congress have also demonstrated a willingness to look behind the formalities of a transaction to determine the underlying purpose of payments between health care providers and actual or potential referral sources. Generally, courts have taken a broad interpretation of the scope of the Anti-kickback Law, holding that the statute may be violated if merely one purpose of a payment arrangement is to induce future referrals.
+ 
+In addition to statutory exceptions to the Anti-kickback Law, regulations provide for a number of safe harbors. If an arrangement meets the provisions of a safe harbor, it is deemed not to violate the Anti-kickback Law. An arrangement must fully comply with each element of an applicable safe harbor in order to qualify for protection.
+ 
+Among the safe harbors that may be relevant to us is the discount safe harbor. The discount safe harbor potentially applies to discounts provided by providers and suppliers, including laboratories, to physicians or institutions where the physician or institution bills the payer for the test, not when the laboratory bills the payer directly. If the terms of the discount safe harbor are met, the discounts will not be considered prohibited remuneration under the Anti-kickback Law. We anticipate that this safe harbor may be potentially applicable to any agreements that we enter into to sell tests to hospitals where the hospital submits a claim to the payer.
+ 
+The personal services safe harbor to the Anti-kickback Law provides that remuneration paid to a referral source for personal services will not violate the Anti-kickback Law provided all of the elements of that safe harbor are met. One element is that, if the agreement is intended to provide for the services of the physician on a periodic, sporadic or part-time basis, rather than on a full-time basis for the term of the agreement, the agreement specifies exactly the schedule of such intervals, their precise length, and the exact charge for such intervals. Failure to meet the terms of the safe harbor does not render an arrangement illegal. Rather, such arrangements must be evaluated under the language of the statute, taking into account all facts and circumstances.
+ 
+  
+-28-
+
+
+
+
+In the event that we enter into relationships with physicians, hospitals and other customers, there can be no assurance that our relationships with those physicians, hospitals and other customers will not be subject to investigation or a successful challenge under such laws. If imposed for any reason, sanctions under the Anti-kickback Law or similar laws could have a negative effect on our business.
+ 
+ Other Federal and State Fraud and Abuse Laws
+ 
+In addition to the requirements that are discussed above, there are several other health care fraud and abuse laws that could have an impact on our business. For example, provisions of the Social Security Act permit Medicare and Medicaid to exclude an entity that charges the federal health care programs substantially in excess of its usual charges for its services. The terms “usual charge” and “substantially in excess” are ambiguous and subject to varying interpretations.
+ 
+Further, the Federal False Claims Act prohibits a person from knowingly submitting a claim, making a false record or statement in order to secure payment or retaining an overpayment by the federal government. In addition to actions initiated by the government itself, the statute authorizes actions to be brought on behalf of the federal government by a private party having knowledge of the alleged fraud. Because the complaint is initially filed under seal, the action may be pending for some time before the defendant is even aware of the action. If the government is ultimately successful in obtaining redress in the matter or if the plaintiff succeeds in obtaining redress without the government’s involvement, then the plaintiff will receive a percentage of the recovery. Finally, the Social Security Act includes its own provisions that prohibit the filing of false claims or submitting false statements in order to obtain payment. Violation of these provisions may result in fines, imprisonment or both, and possible exclusion from Medicare or Medicaid programs.
+ 
+ Corporate Practice of Medicine
+ 
+Numerous states have enacted laws prohibiting business corporations, such as MetaStat, from practicing medicine and employing or engaging physicians to practice medicine, generally referred to as the prohibition against the corporate practice of medicine. These laws are designed to prevent interference in the medical decision-making process by anyone who is not a licensed physician. For example, California’s Medical Board has indicated that determining what diagnostic tests are appropriate for a particular condition and taking responsibility for the ultimate overall care of the patient, including providing treatment options available to the patient, would constitute the unlicensed practice of medicine if performed by an unlicensed person. Violation of these corporate practice of medicine laws may result in civil or criminal fines, as well as sanctions imposed against us and/or the professional through licensure proceedings. Typically, such laws are only applicable to entities that have a physical presence in the state.
+ Compliance with Environmental Laws
+ 
+We expect to be subject to regulation under federal, state and local laws and regulations governing environmental protection and the use, storage, handling and disposal of hazardous substances. The cost of complying with these laws and regulations may be significant. Our planned activities may require the controlled use of potentially harmful biological materials, hazardous materials and chemicals. We cannot eliminate the risk of accidental contamination or injury to employees or third parties from the use, storage, handling or disposal of these materials. In the event of contamination or injury, we could be held liable for any resulting damages, and any liability could exceed our resources or any applicable insurance coverage we may have.
+ Other Regulations
+ 
+The U.S. Occupational Safety and Health Administration has established extensive requirements relating to workplace safety for health care employers, including requirements to develop and implement programs to protect workers from exposure to blood-borne pathogens by preventing or minimizing any exposure through needle stick or similar penetrating injuries.
+ 
+  
+-29-
+
+
+
+
+ Foreign Regulation
+ 
+To obtain marketing approval of a drug under European Union regulatory systems, we may submit marketing authorization applications, or MAAs, either under a centralized or decentralized procedure. The centralized procedure provides for the grant of a single marketing authorization that is valid for all European Union member states. The centralized procedure is compulsory for medicines produced by specified biotechnological processes, products designated as orphan medicinal products, and products with a new active substance indicated for the treatment of specified diseases, and optional for those products that are highly innovative or for which a centralized process is in the interest of patients. Under the centralized procedure in the European Union, the maximum timeframe for the evaluation of an MAA is 210 days, excluding clock stops, when additional written or oral information is to be provided by the applicant in response to questions asked by the Scientific Advice Working Party of the Committee of Medicinal Products for Human Use, or the CHMP. Accelerated evaluation might be granted by the CHMP in exceptional cases, when a medicinal product is expected to be of a major public health interest, defined by three cumulative criteria comprising the seriousness of the disease, such as heavy disabling or life-threatening diseases, to be treated; the absence or insufficiency of an appropriate alternative therapeutic approach; and anticipation of high therapeutic benefit. In this circumstance, the European Medicines Agency, or EMA, ensures that the opinion of the CHMP is given within 150 days.
+ 
+The EMA grants orphan drug designation to promote the development of products that may offer therapeutic benefits for life-threatening or chronically debilitating conditions affecting not more than five in 10,000 people in the European Union. In addition, orphan drug designation can be granted if the drug is intended for a life threatening, seriously debilitating or serious and chronic condition in the European Union and without incentives it is unlikely that sales of the drug in the European Union would be sufficient to justify developing the drug. Orphan drug designation is only available if there is no other satisfactory method approved in the European Union of diagnosing, preventing or treating the condition, or if such a method exists, the proposed orphan drug will be of significant benefit to patients. Orphan drug designation provides opportunities for free protocol assistance, fee reductions for access to the centralized regulatory procedures before and during the first year after marketing authorization and between 6 and 10 years of market exclusivity following drug approval.
+ 
+The decentralized procedure for submitting an MAA provides an assessment of an application performed by one-member state, known as the reference member state, and the approval of that assessment by one or more other member states, known as concerned member states. Under this procedure, an applicant submits an application, or dossier, and related materials, including a draft summary of product characteristics, and draft labeling and package leaflet, to the reference member state and concerned member states. The reference member state prepares a draft assessment and drafts of the related materials within 120 days after receipt of a valid application. Within 90 days of receiving the reference member state’s assessment report, each concerned member state must decide whether to approve the assessment report and related materials. If a member state cannot approve the assessment report and related materials on the grounds of potential serious risk to public health, the disputed points may eventually be referred to the European Commission, whose decision is binding on all member states. Prior to submitting an MAA for use of drugs in pediatric populations, the EMA requires submission of, or a request for waiver or deferral of, a Pediatric Investigation Plan.
+ 
+In the European Union, new chemical entities qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. This data exclusivity, if granted, prevents regulatory authorities in the European Union from assessing a generic (abbreviated) application for eight years, after which generic marketing authorization can be submitted but not approved for two years. Even if a compound is considered to be a new chemical entity and the sponsor is able to gain the prescribed period of data exclusivity, another company nevertheless could also market another version of the drug if such company can complete a full MAA with a complete human clinical trial database and obtain marketing approval of its product.
+ 
+ Healthcare Reform
+ 
+Containing healthcare expenditures is a major trend in the U.S. and the rest of the world. Both government authorities and third-party payors have attempted to control costs by limiting coverage and the amount of reimbursement for particular medical products, including therapeutics and diagnostics, implementing reductions in Medicare and other healthcare funding, and applying new payment methodologies. For example, in March 2010, the Affordable Care Act or ACA was enacted, which, among other things, subjected drug manufacturers to new annual fees based on pharmaceutical companies’ share of sales to federal healthcare programs; created a new Patient Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research; creation of the Independent Payment Advisory Board, which has authority to recommend certain changes to the Medicare program that could result in reduced payments for prescription drugs; and establishment of a Center for Medicare Innovation at the CMS to test innovative payment and service delivery models to lower Medicare and Medicaid spending.
+ 
+  
+-30-
+
+
+
+ 
+ The recent presidential and congressional elections in the U.S. could result in significant changes in, and uncertainty with respect to, legislation, regulation and government policy that could significantly impact our business and the healthcare industry. While it is not possible to predict whether and when any such changes will occur, a variety of initiatives to repeal or significantly reform key provisions of the ACA have been introduced in Congress or otherwise proposed. Most notably, Congress enacted legislation in 2017 that eliminates the ACA’s “individual mandate” beginning in 2019, which may significantly impact the number of covered lives participating in exchange plans. We expect that the new U.S. President and Congress will continue to seek to modify, repeal, or otherwise invalidate all, or certain provisions of the ACA. Any changes will likely take time to unfold, and could have an impact on coverage and reimbursement for healthcare items and services covered by plans that were authorized by the ACA. However, we cannot predict the ultimate content, timing or effect of any healthcare reform legislation or the impact of potential legislation on us.
+  
+ In addition, other legislative changes have also been proposed and adopted in the U.S. to reduce healthcare expenditures. These changes include aggregate reductions of Medicare payments to providers of 2% per fiscal year that, due to subsequent legislative amendments, will remain in effect through 2025 unless additional action is taken by Congress. The American Taxpayer Relief Act of 2012 was signed into law in January 2013, which, among other things, further reduced Medicare payments to several types of providers, including hospitals, imaging centers and cancer treatment centers, and increased the statute of limitations period for the government to recover overpayments to providers to five years from three. Recently there has been heightened scrutiny over the manner in which manufacturers set prices for their marketed products.
+  
+  We expect that additional federal and state healthcare reform measures will be adopted in the future, any of which could limit the amounts that federal and state governments will pay for healthcare products and services, which could result in reduced demand for our therapeutic and diagnostic products or additional pricing pressures. Other potentially significant changes in policy include the possibility of modifications and elimination of programs and reductions in staffing at the FDA and other government agencies, and initiatives to contain or reduce governmental spending in the healthcare area, including Medicare and Medicaid reimbursement. We cannot predict what future healthcare initiatives will be introduced or implemented at the federal or state level, or how any future legislation or regulation may affect us.
+ 
+ Reimbursement
+ 
+Sales of any of our therapeutic and companion diagnostic product candidates that may be approved will depend, in part, on the extent to which the cost of the products will be covered by government and third-party payers. Third party payers may limit coverage to an approved list of products, or formulary, which might not include all drug products approved by the FDA for an indication. Any product candidates for which we obtain marketing approval may not be considered medically necessary or cost-effective by third party payers, and we may need to conduct expensive pharmacoeconomic studies in the future to demonstrate the medical necessity and/or cost effectiveness of any such product.
+ 
+The reimbursement environment is evolving as regulators and payors try to establish new rules and frameworks for the reimbursement of molecular diagnostic tests. There has been an increased interest in implementing cost containment programs to limit government-paid health care costs, including price controls and restrictions on reimbursement. Continued interest in and adoption of such controls and measures and tightening of restrictive policies in jurisdictions with existing controls and measures, could limit payments for product candidates we are developing.
+ 
+Our prognostic diagnostic tests are expected to be offered as a clinical laboratory service. Revenue for clinical laboratory diagnostics may come from several sources, including commercial third-party payers, such as insurance companies and health maintenance organizations (HMOs), government payers, such as Medicare and Medicaid in the United States, patient self-pay and, in some cases, from hospitals or referring laboratories who, in turn, may bill third-party payers.
+ 
+The proportion of private payers compared to government payers such as Medicaid/Medicare will impact the average selling price (discounting), length of payables, and losses due to uncollectible accounts receivable. Working with relevant medical societies and other appropriate constituents to obtain appropriate reimbursement amounts by all payers will be key. The objective of this effort will be to ensure the amount paid by Medicare and other payers for our assays accurately reflects the technology costs, the benefit that the analysis brings to patients, and its positive impact on healthcare economics. In order to gain broad reimbursement coverage, we expect substantial resources will need to be devoted to educating payers such as Kaiser Permanente, Aetna, United Healthcare, and others on the following attributes of our prognostic diagnostic assays, including, but not limited to:
+ 
+  ●
+  test performance (specificity, selectivity, size of the risk groups);
+
+
+  ●
+  clinical utility and effectiveness;
+
+
+  ●
+  peer-reviewed publication and consistent study outcomes;
+
+
+  ●
+  patient and physician demand; and
+
+
+  ●
+  improved health economics.
+
+
+  
+-31-
+
+
+
+
+Billing codes are the means by which Medicare and private insurers identify certain medical services that are provided to patients in the United States. CPT codes are established by the American Medical Association (AMA). The amounts reimbursed by Medicare for the CPT codes are established by the Centers for Medicare & Medicaid Services (CMS) using a relative value system, with recommendations from the AMA's Relative Value Update Committee and professional societies representing the various medical specialties.
+ 
+Reimbursement for our prognostic diagnostic tests will be based on:
+ 
+  ●
+  eligibility for reimbursement under well-established medical billing CPT code 88361;
+
+
+  ●
+  reimbursement under the CPT miscellaneous procedure code; or
+
+
+  ●
+  qualification under any applicable new molecular diagnostic codes currently under consideration.
+
+
+As part of our longer-term reimbursement strategy, we or any potential partners may choose to apply for a unique CPT code once our prognostic diagnostic assays are commercially available and health economic data have been established.
+ 
+ Well-established medical billing CPT code 88361
+ 
+CPT code 88361 is specific to computer-assisted image analysis and went into effect in 2004. Our prognostic diagnostic tests involve both a technical and professional component. The technical component involves preparation of the patient sample and scanning the image, while the professional component involves the physician's reading and evaluation of the test results. Since our prognostic diagnostic tests will be billed as a service, we anticipate payments for both the professional and technical components. The actual payment varies based upon a geographic factor index for each state and may be higher or lower than the Medicare national amounts in particular cases based on geographic location.
+ 
+CMS coding policy defines the unit of service for each IHC stain charge is one unit per different antigen tested and individually reported, per specimen. Medicare contractors cannot bill for multiple service units of CPT code 88361 (Immunohistochemistry, each antibody) for “cocktail” stains containing multiple antibodies in a single “vial” applied in a single procedure, even if each antibody provides distinct diagnostic information. We believe this CMS policy is not applicable to our procedure because our multiple stain reaction involves multiple separate steps of multiple primary antibodies binding followed by counterstaining.
+ 
+ CPT Miscellaneous Procedure Code
+ 
+Tests that are billed under a non-specific, unlisted procedure code are subject to manual review of each claim. Claims are paid at a rate established by the local Medicare carrier in Massachusetts and based upon the development and validation costs of developing the assays, the costs of conducting the tests, the reimbursement rates paid by other payers and the cost savings impact of the tests. Because there is no specific code or national fee schedule rate for the test, payment rates established by the local Medicare contractor may be subject to review and adjustment at any time.
+Sales and Marketing
+ 
+We have not yet established a sales and marketing infrastructure. For any of our therapeutic or companion diagnostic product candidates for which we may in the future receive marketing approvals, we may seek to commercialize the product ourselves or through one or more strategic commercialization collaborations.
+ 
+  
+-32-
+
+
+
+
+Our prognostic diagnostic tests are expected to be offered as a clinical laboratory service through our CLIA-certified laboratory located in Boston, Massachusetts. We plan to implement a de-risked commercialization strategy based on non-exclusive agreements with strategic distribution partners and/or CSOs in the U.S. and distributors in Europe and throughout the rest-of-world.
+ 
+We aim to enter into agreements with commercialization or strategic partners that have existing commercialization infrastructure, established distribution channels, and strong relationships with our target audience in the medical community. We aim to avoid the cost and risk associated with building a new sales and marketing infrastructure.
+ 
+ Manufacturing
+ 
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities. We expect to rely on third parties for the manufacture of any therapeutic product candidates for preclinical and clinical testing, as well as for commercial manufacture of any products that we may commercialize.
+ 
+Our state-of-the-art CLIA-certified reference laboratory is located at 27 Drydock Avenue in Boston, MA. Our CLIA-certified laboratory is our primary location for our diagnostic testing and data analysis of patient tumor samples. Although the science behind our diagnostic technology is cutting edge and sophisticated, a key competitive advantage of our approach is that we have simplified our testing methods and procedures based on established immunohistochemical, or IHC, and quantitative immunofluorescence, or QIF techniques and utilize common inexpensive materials.
+ 
+The MENA diagnostic assays use widely available QIF techniques to identify individual cell types, allowing the test to interrogate tumor cells separately within tumor microenvironment rather than measuring homogenous biopsies containing tumor and non-tumor cell types. This staining technique uses antibodies that recognize or detect MENA. The antibodies used are detected by labeling the different antibody types different fluorescent dyes that allow the operator to measure and quantify the levels selectively within the tumor cells on the slide. We believe this approach to diagnosis and prognosis of cancer is more cost effective than many genomic-based approaches currently on the market that utilize heterogeneous mixtures of tumor and stromal cells in patient samples. We believe the most economical way to enter the market with the MENA diagnostic assay will be through contract manufacturing the manufacturing of MENA mAbs and other QIFs.
+ 
+The MetaSite Breast™ assay uses widely available IHC dyeing techniques to identify individual cell types. This staining technique uses antibodies that recognize individual cell types. By attaching different dye colors to different antibody types, the operator can view different cell types on a single slide. We believe this approach to diagnosis and prognosis of cancer is more cost effective than many genomic-based approaches currently on the market. We believe the most economical way to enter the market with the MetaSite Breast™ test will be through contract manufacturing for these IHCs.
+ 
+ Employees
+ 
+We currently have six full-time employees. In addition, we utilize outside consultants to support certain elements of our research and development, information technology, and general and administrative operations. From time to time we have also engaged several consulting firms involved with public relations, investor relations and other functions.
+ Insurance
+ 
+We have general and umbrella liability insurance, employment practices liability insurance as well as directors and officers (D&O) insurance in amounts that we believe comply with industry standards.
+ Legal Proceedings
+ 
+We are not engaged in any material litigation, arbitration or claim, and no material litigation, arbitration or claim is known by our management to be pending or threatened by or against us that would have a material adverse effect on our results from operations or financial condition.
+ 
+  
+-33-
+
+
+
+
+ Corporate Structure
+ 
+We were incorporated on March 28, 2007 under the laws of the State of Nevada. From inception until November of 2008, our business plan was to produce and market inexpensive solar cells and in November 2008, our board of directors determined that the implementation of our business plan was no longer financially feasible. At such time, we discontinued the implementation of our prior business plan and pursued an acquisition strategy, whereby we sought to acquire a business. Based on these business activities, until February 27, 2012, we were considered a "blank check" company, with no or nominal assets (other than cash) nor operations.
+ 
+MetaStat BioMedical, Inc. (“MBM”) (formerly known as MetaStat, Inc.), our wholly owned Delaware subsidiary, was incorporated in the State of Texas on July 22, 2009 and re-incorporated in the State of Delaware on August 26, 2010. MBM was formed to allow cancer patients to benefit from the latest discoveries in how cancer spreads to other organs in the body. The Company’s mission is to become an industry leader in the emerging field of personalized cancer therapy.
+ 
+On February 27, 2012 (the “Closing Date”), we consummated a share exchange as more fully described below, whereby we acquired all the outstanding shares of MBM and, MBM became our wholly owned subsidiary. From and after the share exchange, our business is conducted through our wholly owned subsidiary, MBM, and the discussion of our business is that of our current business which is conducted through MBM.
+ 
+Prior to April 9, 2012, our company name was Photovoltaic Solar Cells, Inc. For the sole purpose of changing our name, on April 9, 2012, we merged with a newly-formed, wholly owned subsidiary incorporated under the laws of Nevada called MetaStat, Inc. As a result of the merger, our corporate name was changed to MetaStat, Inc. In May 2012, we changed the name of our Delaware subsidiary to MetaStat BioMedical, Inc. from MetaStat, Inc.
+ 
+ Share Exchange
+ 
+On the Closing Date, we entered into a Share Exchange Agreement (the “Exchange Agreement”) by and among us, MBM, the holders of all outstanding shares of MBM (the “MBM Shareholders”) and Waterford Capital Acquisition Co IX, LLC, our principal shareholder (the “Company Principal Shareholder”), whereby we acquired all of the outstanding shares of MBM (the “MBM Shares”) from the MBM Shareholders. In exchange, we issued to the MBM Shareholders an aggregate of 1,224,629 shares of our common stock (the “Exchange Shares”), equal to 95.6% of our outstanding shares of common stock after such issuance. As a result of the transactions contemplated by the Exchange Agreement (collectively, the “Share Exchange”), MBM became our wholly owned subsidiary. Pursuant to the Exchange Agreement, we assumed warrants to purchase up to 52,035 shares of MBM’s common stock, with exercise prices ranging between $22.50 and $30.00 per share on a 2.2-for-1 basis, equivalent to 114,475 shares of our common stock with exercise prices ranging from $10.20 to $13.65 per share. Immediately prior to the Share Exchange, we converted approximately $336,075 of debt owed to the Company Principal Shareholder into 20,640 shares of our common stock (the “Debt Conversion”) and issued an aggregate of 2,400 shares of our common stock to certain of our officers, directors and consultants in consideration for services rendered to us, leaving 56,000 shares of our common stock outstanding immediately prior to the issuance of the Exchange Shares. Additionally, immediately prior to the Share Exchange, we issued five-year warrants to purchase up to an aggregate of 23,334 shares of our common stock at an exercise price of $21.00 per share, of which warrants to purchase 22,500 shares were issued for a purchase price of $21,000 and warrants to purchase 834 shares were issued for services rendered to us prior to the Share Exchange (the “Warrant Financing”). We used the proceeds of the Warrant Financing to pay off all of our liabilities prior to the Share Exchange. On the Closing Date, we assumed MBM’s 2012 Omnibus Securities and Incentive Plan (the “2012 Incentive Plan”) and reserved 74,453 shares of our common stock for the benefit of our employees, nonemployee directors and consultants. All 33,834 options outstanding under the 2012 Incentive Plan were converted, on a 2.2-for-1 basis, into the right to receive options to purchase up to 74,434 shares of our common stock with an exercise price of $10.20 per share.
+ Principal Executive Offices
+ 
+Our principal executive office and clinical reference laboratory are located at 27 Drydock Ave., 2nd Floor, Boston, Massachusetts 02210, We have additional executive offices at 401 Park Ave. South, 10th Floor, New York, New York 10016. Our corporate telephone number is (617) 531-6500 and our website is http://www.metastat.com. Information contained on our website does not constitute part of, and is not deemed incorporated by reference into, this Form 10-K.
+  
+   
+-34-
+
+
+
+ 
+ 
+ 

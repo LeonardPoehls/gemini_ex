@@ -1,0 +1,321 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+Overview 
+ We are a leading web-based consumer shopping, enrollment and retention platform for health insurance distribution. Our solutions offer a personalized health insurance shopping experience that recommends the best fit insurance plan based on an individual’s preferences, health status, preferred providers, medications and expected out-of-pocket costs. Our customers are payers, brokers, government agencies, and web-based insurance marketplace operators, who distribute health and ancillary insurance. Our solutions automate key functions in the insurance distribution process, allowing our customers to price and present plan options accurately to consumers and efficiently enroll, renew and manage plan members. 
+ The United States health insurance marketplace continues to experience structural changes that alter how health insurance is purchased and distributed. Consumer access to and plan choices for health insurance continues to grow. As a result, consumers need effective decision-support tools to help them optimize their health insurance choices. Concurrently, the traditional distribution approaches for health plans and brokers have had to evolve from offering a more limited set of plans to employers through group coverage to cost-effectively selling insurance in the more fragmented individual market and in public and private exchanges.  These exchanges are essentially online marketplaces sponsored either by a non-government entity, such as an employer, insurance broker or other distributor (in the case of private exchanges) or by a federal or state government entity (in the case of public exchanges).  This evolution calls for technology solutions that allow individuals and businesses to compare products and make purchases directly from health plans in a way that is cost-effective for health plan distributors. 
+ In 1999 we incorporated in Delaware, and since then, we have provided technology-enabled health plan sales automation solutions. As of December 31, 2017, our customer base included more than 70 health plans, including 20 of the top 25 health plans (based on total enrollment). Our personalized health insurance shopping experience is available to the approximately 53 million Medicare beneficiaries through our provision of shopping, price comparison, plan ranking and enrollment software for Medicare.gov and 1-800-Medicare call center agents.
+ As further discussed below under “Related Party Transactions—Merger Agreement,” on January 4, 2018, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with entities affiliated with Francisco Partners, pursuant to which those entities have agreed to pay $0.35 per share for each share of our common stock not held by our existing preferred investors, Francisco 
+ 1
+
+
+Partners and Chrysalis Ventures, and their affiliates (the “Merger”). Upon completion of the Merger, we will become a privately-held company.
+ Industry Background 
+ The United States health insurance industry is responsible for the administration of healthcare benefits to over 178 million individuals covered by employer-based health insurance and is experiencing a structural transformation in which shopping for and enrollment in health insurance products is transitioning from a wholesale or group-based distribution model to an individual or retail-oriented consumer marketplace. This transformation, in conjunction with regulatory and competitive pressure on distribution and overhead costs, places substantial new business and technology requirements on health plans, brokers and aggregators and has created an attractive opportunity in the markets we serve. 
+ Consumer-Centric Marketplace
+ We believe the role of the consumer will only continue to be more important. Responsibility for health insurance purchasing will largely fall to individuals and will place a continued importance on better, more informed decision-making.
+ There is a continued evolution of health insurance technology toward supporting more effective and consumer-friendly solutions that help consumers to better compare and enroll in plans based on their actual healthcare needs and to optimize their increased health insurance responsibility and spend. 
+ Pressure to Manage Distribution Costs and Operating Expenses 
+ While health plans and brokers need to support a more individualized and fragmented health insurance shopping and enrollment process, they are under increasing pressure to lower distribution costs. Federal regulations brought about as part of the Patient Protection and Affordable Care Act, or PPACA, had a material effect on health plan profitability and increased the competition for gaining and retaining members. This forced health plans to find better ways to manage areas of non-medical cost structure, such as sales commissions and internal information technology development. As a result, health plans have undertaken efforts to lower brokerage commissions and to implement innovative third-party technologies to reduce investment in internally-developed software. Similarly, brokers who now face depressed commissions from health plans need to leverage technology-based, automated processes to sell more cost-effectively and to identify product cross-selling opportunities, such as with ancillary products, as part of the plan selection process. 
+Increasing Opportunity for Technology 
+ As shopping and enrollment in health insurance transitions to an individual, retail-oriented consumer marketplace, we believe there is opportunity for intuitive, web-based technologies to automate and lower the cost of health insurance distribution, as well as increase enrollment opportunities and member retention. 
+The Connecture Sales Automation Solution 
+ Our leading web-based consumer shopping, quoting, enrollment and engagement solutions support a range of health insurance products and services, including Group, Individual and Medicare coverage, with a focus on providing a consumer-centric experience. We simplify the health plan and prescription drug shopping experience with data-driven tools that empower consumers to make smarter, more personalized coverage choices. For health plan, broker and exchange operator customers, we deliver powerful and unified distribution solutions that we believe help them increase their revenue opportunity as they serve a growing, but fragmented population, while also reducing the costs associated with acquiring new and retaining current members. 
+ 
+2
+
+
+
+We automate the following key functions of the health and ancillary insurance distribution process for our customers: 
+  
+• | Rate Setting and Modeling: prices and presents plan options accurately to consumers;
+--+-------------------------------------------------------------------------------------
+
+
+• | Shopping and Quoting: allows consumers to view and compare plans, including estimated premiums, out-of-pocket costs and plan benefits;
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Application and Enrollment: streamlines application and enrollment operations, eliminating manual processes and paper processing;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Renewal Management: streamlines the renewal process, eliminating manual processes and paper processing;
+--+--------------------------------------------------------------------------------------------------------
+
+
+• | Member Management: updates plan offering details based on members’ work or life changes; and
+--+---------------------------------------------------------------------------------------------
+
+
+• | Exchange Integration: connects to state and federal exchanges to determine subsidy eligibility.
+--+------------------------------------------------------------------------------------------------
+
+ We believe the breadth, depth and scale of our solutions across key functional areas are critical to our success in the complex and changing health insurance marketplace. In particular, our personalized and data-driven shopping experience helps customers make better health insurance purchasing decisions. Our web-based solutions are designed to maximize enrollment and member retention opportunities, and our technology enables rapid deployment of benefits and engagement technology to help our customers adapt to evolving market needs and build stronger relationships with their members.
+ Our Competitive Strengths 
+ We believe we have the following key competitive strengths: 
+ Health plan shopping and enrollment leadership 
+ While the health insurance industry is in the midst of adapting to rapidly changing requirements, and many start-up competitors are struggling to adapt to the uncertain future direction of the PPACA, we have built our flexible platform infrastructure to be relevant over the long-haul, no matter the political environment. We have nearly a two-decade history in the technology-enabled health plan shopping and enrollment marketplace serving individuals both under and over-65, including the following: 
+
+• | Leadership in the commercial under-65 health insurance market;
+--+---------------------------------------------------------------
+
+
+• | Over ten years as the web-based technology solution for Medicare.gov;
+--+----------------------------------------------------------------------
+
+
+• | Relationships with a broad range of health plans and brokers, including 20 of the top 25 health plans (based on total enrollment).
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+ Domain and technology development expertise 
+ The health insurance market is characterized by high levels of regulation and complexity. There are many plan types and configurations available to individuals and ensuring that the options are presented and marketed effectively is key. Further, our technology assists our customers to compete more effectively by allowing them to introduce new products and change pricing and benefit designs dynamically. We also believe that our solutions allow our customers to more effectively enter new markets and distribute new products faster and more efficiently. We believe our depth of knowledge and our proven ability to innovate positions us to be a leader in our industry. 
+ Configurable and scalable solutions to meet customer needs 
+ Many of our solutions are designed to handle both high degrees of configurability and significant growth in users without requiring major software re-engineering or capital expenditures by our customers. Our solutions are cost-effective for our customers because we offer a platform that is comprehensive across key sales automation functions, but also has individual software applications that can integrate with common existing customer software applications. We deliver quick deployment solutions in the cloud as well as large scale enterprise solutions. Today, our technology is used by many of the largest health plans and brokers to power their critical shopping and enrollment functions. We also power the country’s largest multi-payer exchange, Medicare.gov, and successfully handle more than two million Medicare Advantage and Medicare Part D enrollments annually. 
+ Large database of health plan and drug cost information and ancillary products 
+ We believe that our large database of health plan and drug cost information enables us to deliver higher value to our customers and consumers alike. We are a primary source of health plan and pharmacy data for Medicare products available on Medicare.gov and 
+ 3
+
+
+the broad range of our health plan relationships makes us a valuable and extensive source of permission-based health plan information. These data are critical for consumers to make difficult decisions about trade-offs between plan premiums vs. out-of-pocket costs, physician networks and pharmaceutical formularies. Our large dataset of health plan and drug cost information powers our empirically-driven recommendations engine that we believe provides consumers with more precise decision-support tools. In addition, our platform also supports many ancillary products such as dental, life insurance, critical illness and wellness which allows health plans and brokers to sell a more customized package of insurance products, thereby helping to differentiate the consumer shopping experience and maximize our customers’ revenue opportunity. 
+ Reportable Segments 
+ Our reportable segments, Enterprise/Commercial, Enterprise/State, Medicare and Private Exchanges are based on software and service offerings. Financial information for our reportable segments is included in Note 14 of the Notes to Consolidated Financial Statements included in Part II, Item 8: “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K. 
+ Our portfolio of web-based software solutions allows customers to offer solutions for Group, Individual and Medicare markets. Each application is modular and functions independently, yet can integrate together to create a comprehensive and robust solution. Our portfolio of solutions is summarized below by reportable segment.
+ Enterprise Commercial Solution for Health Plans 
+ Connecture’s primary Enterprise Commercial solution automates sales and enrollment processing in order to allow health plans to operate more cost-effectively, extend reach and provide a better consumer and/or employer/broker experience. The full consumer lifecycle for sales automation is managed, from business acquisition through renewals. Our platform allows a broad range of consumers (individual plan sales, group sales, or single health plan private exchanges) to make better health insurance decisions. Consumers, brokers and other agents can more easily shop for, purchase and renew insurance. The software solution can be configured for any size of health plan and streamlines workflow for health insurance distribution and automates multiple lines of business, including health, dental, group life, vision, accidental death and dismemberment, short-term disability and long-term disability. The solution is web-based, secure and scalable. 
+ Key capabilities offered by our Enterprise Solution for the Individual Market: 
+ Shopping 
+ The Shopping application allows for the capture of consumer information, the comparison of plans and viewing of rates. In addition, users can retrieve previously saved quotes, copy and create new quotes and indicate acceptance of plans online. The functionality supports all the applicable rules related to open enrollment, metal tier plan information and member-level rate display. 
+ The solution also offers a Plan Advisor Tool which allows the consumer, broker or sales representative to shop and compare plans, products and key benefit features via an interactive “guided shopping” experience based on questions around the consumer’s individual risk tolerance, ability to pay more up-front/higher deductible, personal health factors, desired add-on plans or riders. These questions are then rated and scored and plans are presented based on how the consumer answered each question. There are also subsidy and cost calculators to help the prospective member gauge financial cost of their healthcare choices.
+ Enrollment 
+ An Online Application steps the user through an easy to navigate electronic application. Questions (or fields) can be standard or dynamic. Enrollment enables the health plan to combine enrollment forms for multiple products into one online application. Once an electronic application has been started, the user can save and return at a later time to complete it. A consumer can also receive assistance with completing the application from the broker or sales representative. The broker or sales representative may aid in determining the best coverage fit for his or her customer, based on presented plan details and prices. The broker or sales representative can start the online application process for his or her customer and then forward the application to the customer for completion. eSignature is also supported. 
+Administrative Review 
+ Applications that do not meet the health plan’s established rules will be routed to an internal user where they can review and approve, withdraw or indicate that an applicant is not eligible for the coverage requested. To expedite the approval process, administrative reviewers can also edit individual new business enrollments. For example, enrollments held for approval due to circumstances such as home address checks, health plan specific configuration checks or attachment uploads can be edited to allow the process to continue moving forward. 
+ 4
+
+
+Renewals 
+ The renewal application is comprised of a series of workflow steps which will allow for the automatic initiation of the renewal process without manual intervention; health plans, however, can also configure business rules to denote renewal groups and subject such groups to the manual renewal process. Functionality includes renewal import, renewal quoting and acceptance, renewal export, package generation and distribution, recommended and alternate plan mapping and agent/broker PDF generation. 
+Member Management
+ The member management application allows members the ability to update their profiles with work and life event changes at any point throughout the year through an online portal. The system will track the requested change of coverage through a defined approval process. 
+ The member is able to perform the following functions within the system: 
+  
+• | View and modify subscriber and dependent information (e.g., name, address, phone numbers, e-mail, student status, date of birth, gender, social security number);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Add and remove dependents from coverage;
+--+-----------------------------------------
+
+
+• | View current benefits and rates;
+--+---------------------------------
+
+
+• | View address information; and
+--+------------------------------
+
+
+• | View and modify payment information.
+--+-------------------------------------
+
+ Health plans can also determine unique business rules to determine if administrative review is necessary for specific policy changes. 
+ Key capabilities offered by our Enterprise Solution for the Group Market:
+ Quoting 
+ New Business Quoting provides a guided workflow to capture basic employer demographic information and employee census details in order to view available plans and corresponding rates. Within each new business quote, the user can view the composite/age rates, estimated premiums, plan benefits and benefit comparisons. 
+ It also provides a guided workflow designed specifically for defined contribution in addition to traditional defined benefit plans. Users can initiate a defined contribution quote by selecting an array of plans options. These options are defined by the health plan and configured within the product server and rate repository. The collection of employer demographics and census information can serve both defined contribution and defined benefit quoting. 
+ Employer and Employee Shopping 
+ The Shopping application allows for the capture of basic consumer information, the comparison of plans and viewing of rates. In addition, users can retrieve previously saved quotes, copy and create new quotes and indicate acceptance of plans online. The functionality supports any of the mandated rules related to open enrollment, metal tier plan information and member-level rate display. 
+ The solution for groups also offers a Plan Advisor Tool, which allows employee-consumers, or the human resources administrator at the employer or the broker or sales representative working with them, to shop and compare plans, products and key benefit features via an interactive “guided shopping” experience based on questions around their own individual risk tolerance, ability to pay more up-front/higher deductible, personal health factors, desired add-on plans or riders, etc. These questions are rated and scored. Plans are presented based on how the consumer answers each question. There is both a subsidy calculator and a cost calculator to help the prospective member gauge financial risk. 
+ Enrollment and Renewals 
+ Developed specifically for the group market, the solution leverages common capabilities from the Individual applications and delivers necessary functionality tailored for employer group and employee enrollment. Comprehensive functionality also supports the group renewal process. 
+ 5
+
+
+Group Policy Administration 
+ The Group Policy Administration application allows human resources administrators and members the ability to update profiles with work and life event changes at any point throughout the year through an online portal. The system tracks the requested change of coverage through a defined approval process. 
+Other Capabilities 
+ We offer single-health plan private exchanges as an extension to the Enterprise Commercial solution. These private exchanges enable insurance health plans to offer more choices to their employer customers. They facilitate an array of defined contribution and defined benefit plans, promote flexibility and consumer personalization and include medical and ancillary products in the consumer offering. We enable a one-stop shopping and enrollment experience that allows employers to make available to their employees a list of plans and benefits for consideration, pricing, selection and enrollment, including recommendation of best fit plans. 
+ We also offer integration of a health plan’s consumer enrollment website to the Federal exchange through a Direct Enrollment capability currently supported by the Federal exchange, which provides the health plans the opportunity to maximize member retention by presenting only their Qualified Health Plans. 
+ Medicare Solution 
+ We provide innovative, web-based Medicare plan comparison and enrollment tools for health plans, Pharmacy Benefit Managers, or PBMs, pharmacies, field marketing organizations, or FMOs, and call centers. These products are used by the Medicare population through commercial health plans, retiree transition exchanges (group to individual, group to group) provided by benefits consulting firms and Medicare.gov. 
+ Key capabilities offered for our Medicare solution include: 
+ Consumer Plan Comparison and Shopping 
+ The plan comparison and shopping solution is deployable in multiple portal website configurations including consumer, agent/broker and call center representative. The application supports the most common Medicare plan options including Medicare Advantage, or MA, Medicare Advantage Prescription Drug, or MAPD, Prescription Drug, or PDP, and Medicare Supplement plans. In addition to operating as a stand-alone website, the offering can also be made available as an Application Programming Interface or API. This allows the customer to embed the functionality within their existing internet assets without the need for a separate website. 
+Plan Comparison and Retention 
+ Our Medicare solution utilizes features from the shopping application to improve the efficiency of the policy renewal process. Medicare beneficiaries can receive their forms pre-populated with their personal information from the new business enrollment process, seeing plan options and cost estimates built on known information, such as age and pharmaceutical drug utilization. These pre-filled forms minimize potential errors and can expedite the enrollment process. Beneficiaries are also offered a Short Enrollment Request Form to facilitate enrolling in a different plan offered by the same health plan (when allowed by Centers for Medicare and Medicaid Services, or CMS). 
+On-line Enrollment 
+ The On-line Enrollment application can be fully integrated with the solution. The application unifies multiple distribution channels (e.g., brokers, field marketing organizations, call centers, etc.) into a single automated application submission to the health plan. Reporting is also available on an integrated basis. Common Medicare plan options including MA, MAPD, PDP and Medicare Supplement plans are supported with dynamic form generation coupled with extensive customization options. 
+Mobile Field Enrollment 
+ In many cases brokers and agents are in the field and do not have access to the internet at the time of meeting with prospective beneficiaries. Our Mobile Field Enrollment application allows the user to store the enrollment data locally on their tablet and sync with the health plan once they are online. Customer information can also be loaded from the agent/broker’s contact address book located on their tablet. In addition to enrollment forms, other sales information, including presentations and scope of appointment forms are available electronically on the tablet as well. 
+ 6
+
+
+Private Exchange Solutions 
+ Our Private Exchange reportable segment provides benefit consultants, brokers, exchange operators and aggregators with group defined-contribution benefit exchange solutions. Our solutions enable users to provide their employer and individual customers with a compliant benefit shopping, enrollment and post-enrollment benefits management experience. Brokers are empowered with a custom-branded private exchange environment that provides analytics and decision support. Our Private Exchange solutions expand upon our single-plan shopping and enrollment tools by allowing users to compare plans, premiums and products from among multiple health plans within a specific geography. Our solutions also allow customers to sell individual, group and Medicare health insurance. 
+ Through our RxHealth Insurance Agency, Inc. and ConnectedHealth, LLC subsidiaries, we are a CMS-approved Web-broker Entity, which allows us to assist customers online with (i) completing enrollment in Qualified Health Plans offered in the individual market through the Federal Exchange; (ii) applying for tax credits and cost sharing reductions for Qualified Health Plans; and (iii) other customer service assistance related to health insurance coverage and enrollment processes through the Federal Exchange. Using Web-broker Entity services allows brokers, agencies and aggregators to provide a CMS-approved technology platform to consumers shopping for Qualified Health Plans.
+ Key capabilities offered for our Private Exchange solutions include: 
+ Under 65 Plan Comparison and Enrollment 
+ Building upon our shopping and enrollment applications, our Private Exchange applications deliver individual consumer and group quoting in a multi-payer configuration. The ability to intake an employer’s employee roster is supported to pre-fill demographic information and decrease process time. Brokers can monitor in-progress activity of the employees and analyze their sold group business, as well as create customized proposals for their customers. 
+ Consumers and employees are provided medical plan decision support, including demographic and health condition analysis, provider network lookup, financial/out-of-pocket decision modeling, out-of-pocket cost calculator and drug comparison services as described below. In addition to medical products, ancillary and supplemental products (e.g., dental, vision, disability, etc.) are also supported in a single user shopping experience. Once the end-user has made plan selections, electronic enrollment during both annual open enrollment and special enrollment periods is available. 
+ The solution includes integration with third-party benefits administration, consumer-directed health account management (FSA/HSA), call center services and population health and wellness management vendors. 
+ Retiree Group Plan Comparison and Enrollment 
+ Developed for the employer seeking to transition its retirees from its current group coverage to individual Medicare plans, the retiree group plan comparison application allows for the creation of customized employer websites. The roster of eligible retirees can be pre-populated prior to making the site available for the retiree to select a new coverage plan. Health plans that have been selected by the employer are displayed to the retiree. Our Private Exchange solutions not only include technology, but also a repository of participating health plan and ancillary health plan data and integration connectivity. This repository enables the broker and exchange operator to deploy an offering quickly by avoiding an independent sourcing effort. 
+Enterprise State Solution for State Exchanges 
+ We have offered to state governments a solution that enabled states the ability to create public health insurance exchanges under PPACA. The state solution was customized for the government exchange market and includes three major functional components that facilitate plan selection: 
+
+• | Individual or AHBE Shopping and Enrollment Applications—Intuitive tools that help consumers examine, compare and enroll in the best insurance options available for them and their families. Our individual shopping solution for state exchanges includes a range of plan comparison, consumer decision support and provider search tools.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Small Group or SHOP Exchanges—For employer and employee shopping, quoting and enrollment.
+--+------------------------------------------------------------------------------------------
+
+ Due to limited market opportunities, we have continued to reduce our focus and dependency on this segment. As of December 31, 2017, we provide limited professional services to support one remaining customer. 
+ 7
+
+
+Engagement Tools
+ Drug Compare 
+ We offer our customers, including PBMs, private exchanges and the federal government’s Medicare.gov website, a member engagement tool for drug pricing comparison called DrugCompare. We believe DrugCompare is one of the most widely-used and comprehensive drug pricing comparison database in the industry. The DrugCompare application presents dose equivalent therapeutic alternatives that are priced according to the shopper’s or member’s benefit and formulary. Lower cost formulary options are suggested, including direct generics, generic alternatives, brands, over the counter drugs, pill-splitting and alternative dosing schedules. Side-by-side pricing and safety comparisons are provided, as well as alerts regarding potential medication management interactions for a member. Our data network includes the ability to comparison shop across the country in retail and mail-order pharmacy locations.
+Professional Services and Customer Support 
+ We deliver and support the Connecture platforms and solutions utilizing teams of highly qualified industry and technical personnel. We have implementation teams in place to ensure seamless deployment and effective utilization of our solutions. Once deployed, our production support team is able to help customers with the option of maintaining various business rules, rates, plans and products on their own utilizing our proprietary tools, or having us maintain the platform on their behalf.  And through working with our software application maintenance teams, customers are able to complete regular upgrades to the licensed applications, including updates for common regulatory items and new functionality. 
+Customers 
+ Our customers include many of the nation’s leading commercial and Medicare health plans, public and private exchanges and PBMs. Our customer contracts are generally only cancellable by the customer in an instance of our uncured breach, although some of our customers (including government customers) are able to terminate their respective contracts without cause or for convenience, or lack of adequate funding, generally with 30 days’ written notice, which we believe is customary for government contracts. Of our top 20 customers by 2017 revenue, some customers can terminate their contract for convenience upon written notice. These customers represented $31.7 million, or 40.4% of our Contracted Backlog balance as of December 31, 2017.
+Sales and Marketing 
+ We sell substantially all of our software solutions through our direct sales organization, comprised of health plan-focused and exchange-focused field sales professionals. These sales efforts are supported by multi-channel marketing tactics including modern digital outreach, websites, email, hosted webinars, print media, event marketing and public relations. 
+ We generate prospect leads, accelerate sales opportunities and build brand awareness through our marketing programs and strategic relationships. Our marketing programs target insurance and benefits executives, technology professionals and government department leaders as well as pharmaceutical benefits managers as direct outreach, but also address other influencers through nurturing programs and public relations. 
+ For a discussion of our contracted backlog, see the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” including the subsections titled “Overview” and “Key Financial and Operating Performance Metrics.”
+ Competition 
+ While we do not believe any single competitor provides the breadth or the depth of the comprehensive Connecture solution set, we do face non-traditional competition from various sources. 
+ Our competition includes: 
+  
+• | insurance health plans and national brokers that have invested in internally developed customer acquisition and retention solutions;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | various niche software vendors;
+--+--------------------------------
+
+
+• | systems integrators and large consulting firms;
+--+------------------------------------------------
+
+
+• | third party administrators and call centers that may look to add technology capabilities; and
+--+----------------------------------------------------------------------------------------------
+
+
+• | general enterprise resource planning or CRM software vendors.
+--+--------------------------------------------------------------
+
+ 8
+
+
+We believe that we are differentiated primarily on the following factors: 
+  
+• | user experience and personalization;
+--+-------------------------------------
+
+
+• | breadth and depth of application functionality;
+--+------------------------------------------------
+
+
+• | nearly 20 years of longevity as a company in this market and domain expertise in health insurance, benefits and healthcare consumerism, as well as in commercial and government sectors;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | capability for customization through configuration, integration, security, scalability and reliability of applications;
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+• | size and variety of customer base;
+--+-----------------------------------
+
+
+• | extensive health plan and API data network;
+--+--------------------------------------------
+
+
+• | cloud-based and on-premise delivery model options;
+--+---------------------------------------------------
+
+
+• | ability to integrate with legacy enterprise infrastructures and third-party applications such as CRM, and rapidly innovate and respond to customer needs and regulatory requirements.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We believe that we compete effectively based upon these criteria. Nonetheless, the increasing acceptance of automated solutions in the health insurance marketplace and the adoption of more sophisticated technology and legislative reform will likely result in increased competition. 
+ Within the business segments that we serve, examples of our competitive positions include: 
+  
+• | Enterprise/Commercial:
+--+-----------------------
+
+ While we do not believe that any single competitor is dominant in this segment, we believe that we are seen as a leader in the individual and small group markets. We believe the larger group market has more competitive pressures and the field of players includes large, established enrollment management firms and core health plan administrative companies.
+  
+• | Medicare:
+--+----------
+
+ We believe that we are a leading technology solution vendor in this segment. This position is reflected in our role as the shopping technology for Medicare.gov, as well as the number of Medicare health plans we support, which as of December 31, 2017, was over 50 health plans. Additionally, we believe that we currently have a strong competitive position relative to other Medicare shopping and enrollment solutions, although some large health plans may possess the capability to develop their own solution that would compete with us, rather than procuring a solution externally. 
+  
+• | Private Exchange:
+--+------------------
+
+ We believe this segment is relatively immature and the competitive environment is still evolving. As such, no competitor, or small group of competitors is dominant in the segment. A range of technology, benefits administration and call center vendors support private exchanges to varying degrees and these vendors differ as to the scope of software and services provided. We believe that our technology capabilities are robust and that our history of working with health plans in single and multi-plan solutions provide us an advantage, as well as our experience in the retiree exchange business. In addition, our flexible and scalable technology allows us to meet the unique needs of customers ranging from large national brokers to smaller regional customers. 
+  
+• | Enterprise/State:
+--+------------------
+
+ Due to limited market opportunities, we have continued to reduce our focus and dependency on this segment. As of December 31, 2017, we provide limited professional services to support one remaining customer. 
+ Technology Infrastructure and Operations 
+ We have primarily deployed our software solutions using hosted and software-as-a-service, or SaaS, models. Our customers typically access our software via the web or mobile devices, rather than by installing software on their premises. Through both our single-tenant and multi-tenant platforms, our customers have options as to the configuration that best meets their needs. The multi-tenant approach provides significant operating leverage and improved efficiency as it helps us to reduce our fixed cost base and minimize unused capacity on our hardware. In addition, we believe our software architecture gives us an advantage over vendors of legacy systems, who may be using a less flexible architecture that would require significant time and expense to update. Our enterprise customers utilize a single-tenant software application which allows improved configurability and support for a variety of unique integrations.
+ 9
+
+
+We host our applications and serve our hosted customers from several data centers and hosting providers in different locations. We rely on third-party vendors to operate these data centers and provide services, which are designed to host mission-critical computer systems and have industry-standard measures in place to minimize service interruptions. Our technical operations staff manages the technology stacks supporting our platforms and uses automated monitoring tools throughout our system to detect unusual events or malfunctions that could interfere with our customers’ use of the Connecture solutions. We monitor application health by verifying that the applications, interfaces and supporting middleware are operational. If our monitoring tools detect a problem, they notify our technical operations staff, who respond immediately to diagnose and resolve the problem. We take the security of our data and our systems very seriously, and we focus on minimizing the risk of vulnerabilities in our system at the levels of software design and system and network administration. 
+ Research and Development 
+ We believe that successfully developing and selling innovation is key to our long-term growth. Research and development expenses were $16.7 million, $22.3 million, and $22.7 million for the years ended December 31, 2017, 2016 and 2015, respectively. 
+Compliance and Certifications 
+ We voluntarily obtain third-party security examinations relating to security and data privacy. In addition, on an annual basis, we have a qualified security assessor complete an audit of compliance against the Payment Card Industry Data Security Standards, or PCI-DSS, applicable to Level 2 service providers. These standards focus on application and network security controls for companies that process, transmit or store credit card data on behalf of customers. As of December 31, 2017, we have demonstrated compliance with PCI-DSS 3.2 as determined by a qualified security assessor. During the year ended December 31, 2017, we also obtained our most recent independent SSAE16 SOC2® Report—Report on Controls at a Service Organization Relevant to Security, Availability, Process Integrity, Confidentiality or Privacy with no exceptions noted. We meet the requirements for a Business Associate as required by the Health Insurance Portability and Accountability Act, or HIPAA.
+Intellectual Property 
+ We rely on a combination of trade secret, copyright and trademark laws, license agreements, confidentiality procedures, confidentiality and nondisclosure agreements and technical measures to protect the intellectual property used in our business. We generally enter into confidentiality and nondisclosure agreements with our employees, consultants, vendors and customers. We also seek to control access to and distribution of our software, documentation and other proprietary information. 
+ We use several registered trademarks for our products and services, such as “Connecture,” “DRX,” “DestinationRX” “InsureAdvantage,” and “ConnectedHealth,” which are registered marks of Connecture in the United States. Through claimed common law trademark protection, we also protect other marks which identify our services, such as RxHealth, and we have reserved numerous domain names, including “connecture.com.” 
+ We also rely on certain intellectual property rights that we license from third parties. 
+ Government Regulation 
+ The healthcare and health insurance industries are highly regulated and entities are required to comply with extensive and complex United States laws and regulations at the federal and state levels. Although many regulatory and governmental requirements do not directly apply to our business, our customers are required to comply with a variety of United States laws, and we may be impacted by these laws as a result of our contractual obligations. We have attempted to structure our operations to comply with applicable legal requirements, but there can be no assurance that our operations will not be challenged or impacted by enforcement initiatives. 
+ Requirements of PPACA 
+ In March 2010, then-President Obama signed into law the Patient Protection and Affordable Care Act, or PPACA. As enacted, PPACA has impacted how healthcare services are covered, delivered and reimbursed through expanded coverage of uninsured individuals, reduced Medicare program spending and insurance market reforms. 
+ While many of the provisions of PPACA have not been directly applicable to us, PPACA, as enacted, has affected the business of many of our customers. Health plans and large employers have experienced changes in the numbers of individuals they insure as a result of Medicaid expansion and the creation of state and national exchanges. Although we are unable to predict with any reasonable certainty or otherwise quantify any future likely impact of PPACA on our business model, financial condition or results of operations, changes in the business of our customers and the number of individuals they insure may negatively impact our business. While in 
+ 10
+
+
+2017 the PPACA remained in force, efforts under the current presidential administration have modified and may continue to modify, substantially change, or possibly repeal the PPACA in its entirety. For example, the tax reform bill (known as the Tax Cuts and Jobs Act of 2017) that was enacted into law in December 2017 has removed the individual mandate and associated tax penalties of the PPACA.
+ Requirements Regarding the Confidentiality, Privacy and Security of Personal Information 
+ HIPAA and Other Privacy and Security Requirements.
+There are numerous federal and state laws and regulations related to the privacy and security of personal health and other sensitive information. In particular, regulations promulgated pursuant to HIPAA established privacy and security standards that limit the use and disclosure of individually identifiable health information and require the implementation of administrative, physical and technological safeguards to ensure the confidentiality, integrity and availability of individually identifiable health information in electronic form. Health plans, healthcare clearinghouses and most providers are considered by the HIPAA regulations to be “Covered Entities.” With respect to our operations, we are a Business Associate of our health plan customers and we are directly subject to the privacy and security regulations and oversight established under HIPAA. We enter into written Business Associate Agreements with our customers, under which we are required to safeguard individually identifiable health information and comply with restrictions on how we may use and disclose such information.
+ Violations of the Privacy Standards and Security Standards might result in civil and criminal penalties, and the American Recovery and Reinvestment Act of 2009 (ARRA) increased the penalties for HIPAA violations and strengthened the enforcement provisions of HIPAA. For example, ARRA authorizes state attorneys general to bring civil actions seeking either injunctions or damages in response to violations of Privacy Standards and Security Standards that threaten the privacy of state residents. Additionally, some health plans interpret HIPAA requirements differently than we do, and as our customers are the Covered Entity under HIPAA we may be required to comply with their interpretations. 
+ We might not be able to adequately address the business risks created by HIPAA implementation. Furthermore, we are unable to predict what changes to HIPAA or other laws or regulations might be made in the future or how those changes could affect our business or the costs of compliance. 
+ In addition to the Privacy Standards and Security Standards, most states have enacted patient confidentiality laws that protect against the disclosure of confidential medical and/or health information, and many states have adopted or are considering further legislation in this area, including privacy safeguards, security standards and data security breach notification requirements. Such state laws, if more stringent than HIPAA requirements, are not preempted by the federal requirements and we are required to comply with them. Additionally, other laws or standards may apply to our operations, including requirements related to handling certain financial information, federal tax information, or FTI, and payment card association operating rules with respect to credit card data. 
+ Failure by us to comply with any state standards regarding patient privacy may subject us to penalties, including civil monetary penalties and, in some circumstances, criminal penalties. Such failure may injure our reputation and adversely affect our ability to retain customers and attract new customers. 
+ Medicare and Medicaid Regulatory Requirements 
+ We have contracts with insurance health plans who offer Medicare Managed Care (also known as Medicare Advantage or Medicare Part C) and Medicaid managed care plans. We also have contracts with insurance health plans who offer Medicare prescription drug benefits (also known as Medicare Part D) plans. The activities of the Medicare plans are regulated by CMS, and Medicaid is regulated at both the state and federal level. Though our health plan customers remain responsible to comply with CMS and other regulatory requirements, we operate as a First Tier, Downstream & Related Entity, or FDR, in support of our Medicare customers. Some of the activities that we might perform, such as the enrollment of beneficiaries, may be subject to CMS and/or state regulation, and such regulations may force us to change the way we do business or otherwise restrict our ability to provide services to such plans. Moreover, the regulatory environment with respect to these programs has become, and will likely continue to become, increasingly complex. 
+ Financial Services-Related Laws and Rules 
+ Financial services and electronic payment processing services are subject to numerous laws, regulations and industry standards, some of which might impact our operations and subject us, our vendors and our customers to liability as a result of the solutions we offer. In addition, our solutions might be impacted by payment card association operating rules, certification requirements and rules governing electronic funds transfers. If we fail to comply with applicable payment processing rules or requirements, we might be subject to fines and changes in transaction fees and may lose our ability to process credit and debit card transactions or facilitate other types of billing and payment solutions. Moreover, payment transactions processed using the Automated Clearing House Network, or 
+ 11
+
+
+ACH, are subject to network operating rules promulgated by the National Automated Clearing House Association and to various federal laws regarding such operations, including laws pertaining to electronic funds transfers, and these rules and laws might impact our billing and payment solutions. 
+ Insurance Broker Laws 
+ Insurance laws in the United States are often complex, and states have broad authority to adopt regulations regarding brokerage activities. These regulations typically include the licensing of insurance brokers and agents and govern the handling and investment of customer funds held in a fiduciary capacity. We and our broker/agency customers may be subject to some of these regulations, and may not be able to fully comply. 
+ ERISA and Third-Party Administrator Laws 
+ The Employee Retirement Income Security Act of 1974, as amended, or ERISA, regulates how employee benefits are provided to or through certain types of employer-sponsored health benefits plans. ERISA is a set of laws and regulations that is subject to periodic interpretation by the United States Department of Labor as well as the federal courts. 
+ Numerous states in which we do business have adopted regulations governing entities engaged in third-party administrator, or TPA, activities. TPA regulations typically impose requirements regarding enrollment into benefits plans, claims processing and payments and the handling of customer funds. Although we do not believe we are currently acting as a TPA, changes in state regulations could result in us being obligated to comply with such regulations, which might require us to obtain licenses to provide TPA services in such states. 
+ Employees 
+ As of December 31, 2017, we had 320 employees, all of whom are based in the United States. We consider our current relationship with our employees to be good. None of our employees is represented by a labor union or is a party to a collective bargaining agreement. 
+Quarterly Trends and Seasonality 
+ Our overall operating results, including cash flow from operations, fluctuate from quarter to quarter as a result of a variety of factors, some of which are out of our control. These fluctuations are primarily driven by an increase in the third and fourth quarters in activity at our customers in preparation for and during the annual insurance enrollment cycle, which occurs annually during our fourth quarter. Our historical results should not be considered a reliable indicator of our future results of operations. 
+Available Information 
+ Our Internet address is www.connecture.com and our investor relations website is located at http://investors.connecture.com. We make available free of charge on our investor relations website under the headings “Financials” and “SEC Filings” our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after such materials are electronically filed with (or furnished to) the SEC. Information contained on our websites is not incorporated by reference into this Annual Report on Form 10-K. In addition, the public may read and copy materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site, www.sec.gov, that includes filings of and information about issuers that file electronically with the SEC. 

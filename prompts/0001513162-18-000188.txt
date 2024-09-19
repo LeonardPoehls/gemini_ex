@@ -1,0 +1,135 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Overview
+  Neah Power Systems, Inc. (NPWZ) is engaged in the development and sale of renewable energy solutions using our direct methanol micro fuel cell technology, our reformer technology, and our silicon based rechargeable battery technology. This allows us to generate hydrogen using our Formira reformer technology, use that hydrogen, or use methanol directly, using the fuel cell technology, and then store that energy using the silicon based rechargeable lithium battery. We are developing solutions specifically targeted for the military, transportation vehicles, and portable electronics applications. Our long-lasting, efficient and safe power solutions include devices, such as notebook PCs, military radios, and other power-hungry computer, entertainment and communications products. 
+ 
+ We use a unique patented, silicon-based design for our micro fuel cells and our  battery that create higher power densities and enables lighter-weight, smaller form-factors, and will potentially create more cost effective manufacturing and potentially lower product costs. With our Formira Hydrogen on demand system, a reformer platform for direct on-site generation of hydrogen gas, customers will be able carry a liquid with a better safety profile and generate hydrogen gas at point of use rather than carrying high pressure hydrogen gas cylinders. The hydrogen is designed to be consumed directly by a fuel cell, using either our silicon based fuel cell, or commercially available proton exchange membrane (PEM) fuel cells. 
+
+
+ We currently are doing our battery development at a third party facility in Beaverton, OR, and the Company is primarily focused on the battery development at this time. We are using a variety of consultants for business development, who are located worldwide, and who are compensated based on commercial success. We currently operate out of Bothell, Washington.
+ 
+ Due to the greater commercial interest in rechargeable battery systems, we are primarily focusing our limited resources on the development and marketing of our lithium battery technology while at the same time exploring licensing opportunities for the fuel cell and hydrogen markets. 
+ 
+We have an intellectual property portfolio consisting of 13 issued patents, 2 patent applications pending issuance, and 13 additional patent applications in process, that are being developed and various trade secrets for our proprietary technology. 
+ Strategy and Current Business 
+ Due to the generally low interest in fuel cell and hydrogen generation technology worldwide, we are exploring various licensing avenues for supplying product to regions which include India, China, and parts of Europe. Given the potential of our silicon based technology in the rechargeable lithium battery space, we have redirected our efforts to those products and markets.
+ Our business model includes the potential to license the manufacturing of our fuel cells or to purchase product directly from the Company. We believe that our licensing strategy will be particularly attractive to customers who have access to their own manufacturing capacity, because our products can be manufactured with existing equipment used in the semiconductor industry without significant capital outlays for new equipment.
+ The deployment of our business strategy has been delayed due to the availability of capital and our inability to raise sufficient capital to fund ongoing operations, sales and marketing and production. Assuming we are able to continue to obtain sufficient financing, we intend to focus on production and delivery of products to customers and sales efforts. We intend to continue to develop business relationships and demonstrate our technology to potential leading edge adopters.
+ Our Patented Silocon Based Fuel Cell and Battery Technology
+ Our silicon based fuel cell design utilizes a patented porous silicon electrode structure and circulating liquid streams of fuel, oxidant and electrolyte that produce the chemical reactions needed to generate power. We believe that our use of porous silicon and liquid oxidant is unique in the fuel cell industry. In final form, our products can be packaged in plastic casings to create self-contained systems that retain the excess water produced during operation and prevent contamination to the cathode as occurs in traditional Proton Exchange Membrane (PEM) based direct methanol fuel cells. 
+ Our silicon based rechargeable lithium battery uses the same basic silicon architecture and then uses lithium on the anode, and a variety of different materials on the cathode. The cathode materials typically drive the end application of the battery, like the use of LCO for consumer devices, for example. This architecture is unique to what is used in the industry, and we believe it leverages the strengths of the microchip manufacturing infrastructure, in terms of capital efficient manufacturing, economies of scale, and the use of depreciated factories for the production of the products.
+ Our BuzzBar technology is targeted for low power applications and uses air from the surrounding ambient in its current implementation. We are also exploring the use of the silicon based technology for these low power, consumer oriented applications. The BuzzBar product is based on an Anion Exchange Membrane, and uses some processing steps from the silicon fuel cell technology to build a cost effective product for consumer oriented applications. 
+ Our silicon based fuel cell technology was developed to address various issues seen with the incumbent PEM-based direct methanol fuel cells. We believed an entirely new design approach was necessary to achieve the power density, manufacturability, cost and reliability, and the unique ability to operate in anaerobic (non air-breathing) environments required by portable electronic devices and transportation applications. Furthermore, since our design is based largely on standard silicon wafer processing, we believe that it should have significant manufacturing advantages over traditional fuel cells. Compared to competing direct methanol fuel cell technologies that use carbon-based electrodes and solid PEMs, we believe that our fuel cells silicon-based approach will deliver higher power output, lower cost for the equivalent size of fuel cell, a cost efficient manufacturing model that is used by the semiconductor industry, and aerobic and anaerobic operations.
+ 4
+   
+ Comparison between Porous Silicon Fuel Cells and PEM-Based Designs
+ We believe that the principal advantages of our porous silicon fuel cell approach over PEM-based designs include:
+ ·        Our use of porous silicon electrodes and the liquid electrolyte eliminate a range of possible failure modes that have hampered introduction of PEM-based systems. These include degradation of the PEM membrane, crossover of methanol fuel and degradation of the cathode catalyst, damage to the cathode catalyst by exposure to airborne contaminants such as sulfur, and flooding or alternatively drying out of the cathode catalyst. We believe that these advantages will allow our fuel cells to operate in a broader range of environmental conditions, in all orientations, with high reliability.
+ ·        The use of silicon technology allows us to make use of existing silicon production infrastructure, with reduced need to create specialized production facilities. We can also use standard silicon technology to optimize the dimension of the pores for high power, while optimizing the thickness to reduce cost and overall dimensions of the fuel cell.
+ ·        The larger reaction area, coupled with the use of oxidizer at the cathode, leads to greater available power density, which reduces the size and cost of the fuel cell system.
+ ·        Our technology allows us to create alternative product designs that do not require interactions with the environment for operation. This allows the use of our fuel cell products for applications like sensor networks that require operation without breathing air or expelling gases.
+ ·        Water created in the fuel cell reaction is retained in the fuel cartridge and not vented where it can damage the host device.
+ We believe that the principal disadvantages of our approach consist of the following factors:
+ ·        Our approach requires both the fuel cell and the cartridge to contain acids at corrosive concentrations, but at concentrations lower than those extant in various liquid acid batteries. It is therefore important to ensure that users of the technology are safely separated from these acids.
+ ·        The need to select materials compatible with the chemistry.
+  Comparison between our Porous Silicon rechargeable lithium battery and other rechargeable lithium battery designs
+ We believe that the principal advantages of our Porous Silicon battery approach over conventional rechargeable lithium batteries are :
+ ·         The use of proven micro chip manufacturing technologies to produce our batteries, makes our technologies capital efficient, not requiring a large outlay of capital to produce our battery.
+ ·         The larger reaction area, leads to greater available power density, and more efficient reactions.
+ ·         Our porous silicon architecture allows us to use a variety of cathode materials to serve a variety of different markets.
+ ·         We believe the battery will be more inherently safe due to the architecture of the battery, and the mix of materials used by the battery.
+ We believe that the principal disadvantages of our approach consist of the following factors:
+ ·         We need to continue to run extensive testing to demonstrate the lifetime of the battery, and to quantify the benefits over time.
+ ·         Due to the inherently different structure of the battery, customers might have certain hesitation to adopt such new architecture.
+ 
+As an ongoing effort to increase the competitiveness of our product, we are focused on the following continuous improvement programs:
+ ·         Reduce the cost of the product;
+ ·         Continue development of current and new technologies;
+ ·         Outsource the manufacturing of various key components;
+ 5
+   
+
+Our Industry
+ 
+NEAHs proprietary fuel cell and battery technologies offer a number of compelling advantages compared to current fossil-fuel and battery-powered solutions, enabling the company and its licensed partners and distributers to tap into a number of large and growing markets in the military, transportation, and portable electronics applications sectors as described below.
+ Pourous silicon fuel cells, batteries, and Formira HOD® system markets
+ 
+·        Military Applications
+ Neah believes that the market for military applications of Neah Products will be a significant driver of its revenues, as reflected in market research by Frost & Sullivan, as well as managements own internal marketing estimates.  As the commitment of governments worldwide to clean energy in compliance with global emissions reduction policies increases, so will the pace of adoption of efficient fuel cell and energy storage solutions by military and other homeland defense forces.  Neah Products can serve as highly effective primary, secondary and backup power solutions for both mission critical and mission support requirements.  Neah Products can also be deployed along coastlines, and in other isolated areas, to enable wide-area surveillance and security monitoring, which have become key priorities for rapidly developing emerging nations in Africa, Asia and the Middle East.  Neahs products uniquely addresses the demand for power systems that can operate in anaerobic (non-air) environments, such as that required in underwater, underground, close quarters, high altitude, and no-atmosphere applications specific to military and defense requirements. 
+·        Community Power  Micro-Grids
+ Globally, over 1.4 billion people lack access to electricity.  Due to the slow pace of electricity infrastructure penetration in rural areas of emerging nations of Africa, Middle East and Asia, remote fuel cell micro-grid power plants have emerged as an increasingly viable alternative.  Two basic models of distribution to the community have emerged in the marketplace over the last 5 years; the energy hub and the micro-grid. In countries with high population density such as India and Bangladesh the micro-grid model can be cost-effective, but it is more difficult in most of Africa without substantial subsidies. The less capital-intensive and scalable approach is to create an energy hub which requires beneficiaries to travel to a central point.  Neah and its distribution partners intend to use this scaling effect of mobile telecommunications and infrastructure to market its systems to government utilities and private utility service providers to provide millions of underserved communities access to vital energy services.
+·        Telecommunications - Back-Up Power
+ Neah expects its power generation and energy storage products will capture a major share of the tower power market, as telecommunications and utilities companies continue to convert to fuel cell systems to provide remote and back-up power for their service infrastructure. In terms of addressable market size, telecom towers consume the energy equivalent of 1% of the worlds electricity, costing up to USD136 billion per annum (MIT Technology Review).  The industrys growth markets are largely in developing countries, where 3 out of every 4 new base stations will be deployed over the next decade, a significant portion of which will be constructed in off-grid locations  which is ideal for fuel cell and hybrid powered renewable energy systems.
+·        Transportation & Aerospace
+ Neah expects that it will be a significant player with its porous silicon battery and Formira HOD® System in providing energy storage and hydrogen generation technologies for the rapidly growing transportation and aerospace markets.  The largest growth segment is the electric vehicle (EV) market, which includes hybrid and electric automobiles (powered by both fuel cells and/or batteries), and the small manned EV market, which includes everything from e-bikes to electric microEVs, and is expected to reach over USD33 billion by 2025. Aerospace applications include power systems for unmanned aerial vehicles (UAVs).
+·        Consumer Electronics and Mobile Devices
+ Recent trends continue to demonstrate a need for better and longer lasting power solutions to close the power gap - the difference between power capacity and power need - thus enhancing mobility and productivity.  Based on user demand, mobile electronics companies continue to add features for richer experiences. Users are also more dependent on these mobile devices and are using them longer without access to outlet power. Market research indicates that the size of the consumer market for fuel cells as battery replacements is estimated to reach USD6 billion per year by 2020.  
+·        Industrial Applications
+ With regard to mainstream commercial and industrial applications, Neahs fuel cells and batteries can be designed to be placed anywhere, as well as integrated with critical equipment, sensors and other electrical devices through teaming and co-development agreements.  Neahs PowerChip® Fuel Cell and Formira HOD® System, together with its energy storage solutions, will be marketed as clean energy solutions for customers requiring distributed or micro-grid power to operate facilities and equipment installed at remote installations, as well as to power specialized high value equipment used in facility monitoring and management, including surveillance, site incursion control, and infrastructure/asset protection.  Target customers shall include those involved in security, environmental, agriculture, mining and manufacturing.  
+Competition
+ The development and marketing of fuel cells, batteries, and fuel cell systems is extremely competitive. In many cases, we may compete directly with alternative energy, fuel cell, and entrenched power-generation and power-storage technologies. In addition, a number of firms throughout the world have established fuel cell development programs and battery technologies. Competitors range from development stage companies to major domestic and international companies. Many of our competitors have:
+ ·         substantially greater financial, technical, marketing and human resource capabilities;
+ ·         established relationships with original equipment manufacturers;
+ ·         name-brand recognition; and
+ ·         established positions in the markets that we have targeted for penetration.
+ 
+6
+   
+These or other companies may succeed in developing and bringing to market products or technologies that are more cost-effective than those we develop or that would render our products and technology obsolete or non-competitive in the marketplace.
+ Our Proprietary Rights and Intellectual Property
+ We rely primarily on patents and contractual obligations with employees and third parties to protect our proprietary rights. We continue to seek appropriate patent protection for our proprietary technologies by filing patent applications in the U.S. and in certain foreign countries. As of the date of this Annual Report on Form 10-K, we own or control 13 issued patents, 3 patent applications pending issuance, and 13 additional patent applications in process. Listed below are Neahs patents and patent pending applications. All intellectual property is wholly owned by Neah and is not licensed to, or otherwise owned by, any third-parties.
+ In addition to the patents listed below, we have filed two patent applications and six patent disclosures related to the silicon based lithium battery. We have requested confidential treatment on these applications / disclosures.
+ 
+Patent No. | Title | Status 
+-----------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------
+6641948 | Fuel Cells Having Silicon Substrates and/or Sol-Gel Derived Support Structures | Granted 
+6852443 | Fuel Cells Having Silicon Substrates and/or Sol-Gel Derived Support Structures | Granted 
+7157177 | Porous Fuel Cell Electrode Structures Having Conformal Electrically Conductive Layers Thereon | Granted 
+7198864 | Silicon-Based Fuel Cell Electrode Structures | Granted 
+6720105 | Metallic Blocking Layers Integrally Associated with Fuel Cell Electrode Structures and Fuel Cell Electrode Stack Assemblies | Granted 
+6808840 | Silicon-Based Fuel Cell Electrode Structures and Fuel Cell Electrode Stack Assemblies | Granted 
+7968248 | Liquid-Liquid Fuel Cell Systems Having Flow-Through Anodes and Flow-By Cathodes | Granted 
+6924058 | Hydrodynamic Transport and Flow Channel Passageways Associated with Fuel Cell Electrode Structures and Fuel Cell Electrode Assemblies | Granted 
+7105245 | Fuel Cell System Reactant Supply and Effluent Storage Cartridges | Granted 
+6811916 | Fuel Cell Electrode Pair Assemblies and Related Methods | Granted 
+7118822 | Fuel Cell Electrode Pair Assemblies and Related Methods | Granted 
+7205665 | Porous Silicon Undercut Etching Deterrent Masks and Related Methods | Granted 
+9184463 B2 | Nitric Acid Regeneration Fuel Cell Systems | Granted 
+ | Nitric Acid Regeneration Fuel Cell Systems | Patent Pending
+ | Nitric Acid Regeneration Fuel Cell Systems | Patent Pending
+ | Nitric Acid Regeneration Fuel Cell Systems | Patent Pending
+ | Nitric acid regeneration fuel cell systems | Patent Pending
+ | Flow management in fuel cell configurations | Patent Pending
+ | Charging system containing a fuel cell and battery with materials and methods of assembly for a fuel cell utilizing an anionic exchange membrane and fuel cell cartridge designs | Patent Pending
+ | Charging system containing a fuel cell and battery with materials and methods of assembly for a fuel cell utilizing an anionic exchange membrane and fuel cell cartridge designs | Patent Pending
+ | Charging system containing a fuel cell and battery with materials and methods of assembly for a fuel cell utilizing an anionic exchange membrane and fuel cell cartridge designs | Patent Pending
+ | Passive proton exchange membrane fuel cell | Patent Pending
+ | Method and system for simultaneously charging an energy storage device from multiple energy input devices | Patent Pending
+ | Catalytic Hydrogel | Patent Pending
+ | Polymer Bound Solid Metal Complex Catalyst for Hydrogen Reforming From Fromic Acid | Patent Pending
+ | Passive Proton Exchange Membrane Fuel Cell | Patent Pending
+ | Method and system for simultaneously charging and energy storage device from multiple energy input devices | Patent Pending
+ | Devise and related method for assembling a battery using porous, structured silicon | Patent Pending
+ | Reformer Device and Method related to obtaining Hydrogen from Formic Acid | Patent Pending
+
+ 
+Our financial success will depend in large part on our ability to:
+ ·         obtain patent and other proprietary protection for our intellectual property;
+ ·         enforce and defend patents and intellectual property once obtained;
+ ·         operate without infringing on the patents and proprietary rights of third parties; and
+ ·         preserve our best known methods and trade secrets;
+ There is a number of existing U.S. patents covering PEM-based direct methanol fuel cells held by several organizations. We believe our fuel cell design and technology do not conflict with these patents and are independently protectable.
+ 7
+   
+Research and Development
+ We conduct our research and development, marketing and sales activities at our headquarters in Bothell, Washington and at leased facilities in Oregon. Contingent upon the receipt of adequate financing, we plan to continue investing in research and development, marketing, and sales. We anticipate that these efforts, and resulting costs, will increase in future years compared to prior years due to increased product development related to specific customer products and to additional improvements to our technology. For the years ended September 30, 2016 and 2015, our expenses related to research and development were $423,912 and $1,320,837 respectively.
+Employees
+ As of September 30, 2016, we had 2 employees, including one executive officer and one technical employee.  We also had an additional executive officer who is a part time contractor and not an employee. We continue to use part-time staff composed of former full-time employees, and contractors for various technical and administrative services. We expect to continue to use outside business development consultants, whose compensation will be based on revenue opportunities they create.
+History
+ Our company was incorporated in the State of Nevada on February 1, 2001 under the name Growth Mergers, Inc. Effective March 9, 2006, we entered into an Agreement and Plan of Merger, as amended on April 10, 2006, whereby Growth Acquisitions, Inc., a Washington corporation and wholly-owned subsidiary of Growth Mergers, Inc., merged with and into Neah Power Systems, Inc., a Washington corporation (Neah Power Washington). Following the merger, Growth Mergers, Inc. changed its corporate name to Neah Power Systems, Inc. By virtue of this merger, Neah Power Washington became our wholly-owned subsidiary.
+ The purpose of the merger was to enable Neah Power Washington, as Growth Mergers, Inc.s subsidiary, to access the capital markets via a public offering. Our common stock currently trades on the OTC Pink market under the symbol NPWZ.
+ Available Information
+ The Company chose to file a Form 15 on May 15, 2017, terminating its obligation to file current, quarterly and annual SEC reports. The Company intends to maintain its non-reporting status for the foreseeable future, and will evaluate its various options based upon future business development. Prior to May 15, 2017, we were subject to the information requirements of the Exchange Act and file annual, quarterly and current reports, and other information with the SEC. You may read and copy these reports on our website, www.neahpower.com, and at the SECs Public Reference Room at 100 F Street, NE, Washington, DC 20549. Please call the SEC at 1-800-SEC-0330 or email the SEC at publicinfo@SEC.gov for more information on the operation of the public reference room. Our SEC filings are also available at the SECs website at http://www.sec.gov.  In addition, we make available, without charge, through our website (www.neahpower.com), electronic copies of our SEC filings, as soon as reasonably practicable after we electronically file such reports or amendments with, or furnish information to, the SEC.
+ 8
+   
