@@ -1,0 +1,637 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+Overview
+ 
+Immune Pharmaceuticals Inc., together with its subsidiaries (collectively, “Immune” or the “Company” or “us,” “we,” or “our”) is a clinical stage biopharmaceutical company specializing in the development of novel targeted therapeutic agents in the fields of immunology, inflammation, dermatology and oncology.
+ 
+Our lead product candidate is bertilimumab, a first-in-class, fully human, anti-eotaxin-1 antibody, currently in phase 2 clinical trials for bullous pemphigoud (“BP”) and ulcerative colitis (“UC”). Also, we are developing “NanoCyclo,” a topical nano-encapsulated formulation of cyclosporine, for the treatment of atopic dermatitis (“AD”) and psoriasis.
+ 
+Our pain portfolio includes AmiKet and AmiKet Nano, a topical analgesic cream containing amitriptyline and ketamine for the treatment of postherpetic neuralgia (“PHN”) and diabetic peripheral neuropathy (“DPN”). We are determining the optimal path forward for this program.
+ 
+Our oncology portfolio includes Ceplene, which is approved in the European Union for the maintenance of remission in patients with Acute Myeloid Leukemia (“AML”) and Azixa and crolibulin, two clinical-stage, vascular disrupting agents (“VDA”) which have demonstrated encouraging preliminary proof of concept study results. In addition, we have two oncology platform assets, consisting of a bispecific antibody platform and a nanotechnology combination platform, which we refer to as “NanomAbs.” We intend to divest these oncology assets, which are held in our oncology-focused subsidiary, Cytovia Inc (“Cytovia”).
+ 
+Our current product portfolio is summarized below: 
+ 
+Summary of Immune’s Asset Portfolio 
+ 
+
+Program | | Primary Indication(s) | | Status 
+----------------------+--------------------+------------------------------+---------------------------+-------------
+Bertilimumab | | Bullous Pemphigoid | | Phase 2 
+ | Ulcerative colitis | | Phase 2 
+NanoCyclo | | Atopic Dermatitis, Psoriasis | | Preclinical 
+Ceplene/IL-2 | | Acute Myeloid Leukemia | | Phase 3 (US)
+ | | | Approved (European Union)
+Crolibulin | | Solid Tumors | | Phase 2 
+Azixa | | Glioblastoma multiforme | | Phase 2 
+NanomAbs | | Solid Tumors | | Preclinical 
+Bispecific Antibodies | | Oncology | | Preclinical 
+AmiKet/AmiKet Nano | | Neuropathic Pain | | Phase 2 
+Lido PAIN | | Pain | | Phase 2 
+
+ 
+Ceplene®, LidoPain®, Epicept®, AmiketTM, and AzixaTM are trademarks that we own. This Annual Report on Form 10-K contains references to our trademarks. Solely for convenience, trademarks and trade names referred to in this report, including logos, artwork and other visual displays, may appear without the ® or ™ symbols, but such references, or the lack thereof, are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. We do not intend our use or display of other companies’ trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies.
+ 
+History- Reverse Merger
+ 
+On August 25, 2013, Immune Pharmaceuticals Ltd., a privately held Israeli company (“Immune Ltd.”) consummated a merger transaction (the “Merger”) with EpiCept Corporation (“EpiCept”), a Delaware corporation, pursuant to a definitive Merger Agreement and Plan of Reorganization, dated as of November 7, 2012, as amended (the “Merger Agreement”) by and among EpicEpt, EpiCept Israel Ltd., an Israeli company and a wholly-owned subsidiary of EpiCept (“Merger Sub”) and Immune Ltd. Pursuant to the Merger Agreement, Merger Sub merged with and into Immune Ltd., following which Immune Ltd. became a wholly-owned subsidiary of EpiCept and the former stockholders of Immune Ltd. received shares of EpiCept, which constituted a majority of the outstanding shares of Immune. EpicCept changed its name to Immune Pharmaceuticals Inc. upon consummation of the Merger.
+
+4
+-
+
+ 
+
+Reverse Stock-Split
+ 
+On April 12, 2017, following receipt of shareholder approval, we announced a reverse stock split of our shares of common stock at a ratio of 1-for-20. Beginning with the opening of trading on April 13, 2017, our common stock began trading on a post-split basis on the Nasdaq Capital Market (“Nasdaq”). Our shareholders ratified the effectiveness of the April 2017 reverse stock split pursuant to Delaware General Corporation Law Sec. 204 at our Annual Meeting of Stockholders, held in relevant part on February 23, 2018, and the ratification proposal received the affirmative vote of the majority of the outstanding shares of our common stock as of the Record Date (as such term is defined in our Definitive Proxy Statement filed with the Securities and Exchange Commission (“SEC”) on January 26, 2018). All share and per share amounts in this Form 10-K have been reflected on a post-split basis.
+ 
+Business Strategy
+ 
+Our business strategy is to develop novel therapeutics with the potential to treat or prevent immunologic and inflammatory diseases. We intend to obtain revenues from licensing fees, milestone payments, development fees, royalties and/or sales related to the use of our drug candidates or intellectual property for specific therapeutic indications or applications.
+ 
+In April 2017, we announced a corporate restructuring with the objective of prioritizing and segregating our research and development efforts on our core assets, bertilimumab and NanoCyclo product candidates, while streamlining our operations by divesting or spinning off our non-core assets, including our oncology asset portfolio consisting of Ceplene, Azixa, crolibulin, NanomAbs and our bispecific antibody platform. We announced our plan to pursue a spin-off of Cytovia Inc. (“Cytovia”) our oncology focused subsidiary into a separate, stand-alone company, under the management and leadership of our founder and former Chief Executive Officer, Dr. Daniel Teper. We intend to develop bertilimumab for a variety of indications and NanoCyclo for the treatment of AD and moderate psoriasis. We are evaluating AmiKet and AmiKet Nano for the treatment of PHN and DNP and will determine an optimal path forward for this program.
+ 
+ Cytovia will focus on the development and commercialization of novel oncology and hematology therapeutics. Consistent with our objective to preserve our capital to support development of bertilimumab and NanoCyclo, Cytovia, led by Dr. Teper, is seeking separate capitalization from third-party sources for Cytovia’s start-up costs, expenses of the spin-off, payment of costs related to Ceplene and other relevant items. This capitalization from third party sources is a prerequisite to further continuation of the spin–off process. If the necessary capitalization is not obtained in the near future, we do not expect to pursue completion of the spin-off process and instead will determine the optimal path forward to monetize these assets. This strategy will allow us to focus our resources and build upon our promising clinical stage pipeline in immunotherapy and dermatology related indications and thereby unlock our intrinsic value.
+ 
+Products and Programs 
+ 
+Bertilimumab
+
+Our lead product candidate, bertilimumab, is a first-in-class, human monoclonal antibody that targets eotaxin-1, a chemokine that plays a role in both innate and adaptive immune responses and modulates the cross-talk between key cells involved in inflammation. Chemokines are small proteins that can act as chemical attractants of inflammatory cells to sites of inflammation and infection. We licensed all non-ocular uses of bertilimumab from iCo Therapeutics Inc. in 2011.
+
+5
+-
+
+ 
+
+Eotaxin-1 has been shown to be a chemoattractant for eosinophils, which are inflammatory cells that play an important role in the pathogenesis of allergic airway diseases, inflammatory bowel disease, skin conditions and potentially in many other conditions. By neutralizing eotaxin-1, bertilimumab may prevent the migration and activation of eosinophils, thus helping to relieve inflammatory conditions associated with eotaxin-1. Bertilimumab has potential applications as a treatment for a variety of allergic and inflammatory diseases, including BP, inflammatory bowel disease, AD, and asthma, among others.Bertilimumab was shown to have biological activity in a variety of preclinical studies, with high affinity and specificity for human eotaxin-1 and was safe and well-tolerated in primates. In a phase 1 clinical study consisting of a single intravenous (“IV”) administration to healthy volunteers, bertilimumab demonstrated excellent safety and tolerability (no significant adverse events and no anti-bertilimumab antibodies) and demonstrated an elimination half-life consistent with biweekly dosing. In phase 2 studies, bertilimumab has been safely administered via intravenous, intranasal and ocular routes of administration and has shown activity in patients with allergic rhinitis. Currently, bertilimumab is being studied in two active clinical programs, BP and UC.
+ 
+We believe that if successfully developed and approved by the United States Food and Drug Administration (“FDA”), European Medicines Agency (“EMA”) or other regulatory authorites, bertilimumab could address both large and orphan underserved markets that have limited treatment alternatives.
+ 
+Bertilimumab and Bullous Pemphigoid 
+ 
+Published studies have suggested that eotaxin-1 plays a role in the pathogenesis of BP. Therefore, bertilimumab, which blocks eotaxin-1 has the potential to be an effective therapeutic agent for BP patients.
+ 
+In October 2015, we submitted an Investigational New Drug Application (“IND”) to the FDA for the study of bertilimumab in patients with BP. In February 2016, we launched a phase 2a clinical trial, IMNP BP-01, “Evaluation of Safety, Efficacy and Pharmacodynamic Effect of Bertilimumab in Patients with Bullous Pemphigoid” (ClinicalTrials.gov Identifier: NCT02226146). This trial is an open-label, single arm study in adults with moderate to extensive BP being conducted at sites in the United States and Israel. The primary end point is safety and secondary endpoints include a variety of efficacy measures related to clinical signs and symptoms and tapering of systemic corticosteroids. Subjects in this study receive bertilimumab IV at a dose of 10 mg/kg on days 0, 12 and 28 and are followed for a total of 84 days. In addition, they receive oral prednisone at a maximum initial dose of 30 mg/day, which is to be tapered rapidly according to the subject’s clinical status.
+ 
+In February 2017, we reported results from the first three subjects enrolled in the study and in September 2017, we announced results from the first six subjects enrolled. These results were presented at the Late-Breaking Research Forums during the 2018 American Academy of Dermatology Annual Meeting in San Diego, CA in February 2018.
+ 
+The interim analysis showed that the six subjects in the study experienced a decline in the Bullous Pemphigoid Disease Area Index (BPDAI) Total Activity Score of 85% (p=0.0096). All six subjects in the study achieved a greater than 50% reduction in their BPDAI Total Activity Score by the final assessment, and four of the six patients had a greater than 90% reduction. Bertilimumab was well tolerated in all six subjects and no serious adverse events were reported. Moreover, these six subjects received approximately 30 mg per day less prednisone over the course of the study than they would have been expected to receive in a standard BP treatment regimen.
+ 
+In October 2014, we requested Orphan Drug Designation from the FDA for the use of bertlimumab in treating BP. The FDA did not grant the request because the application lacked data from a disease-specific animal model or clinical trials. In February 2017, we filed a new request, including preliminary results from three subjects in the BP-01 clinical trial. In August 2017, the FDA indicated that the additional clinical data that we provided was not sufficient to support an Orphan Drug Designation. We will determine the timing of a new request based on our assessment of the robustness of the supporting data. We do not intend to disclose the timing or content of any subsequent Orphan Drug Designation requests submitted to FDA or any other regulatory agency.
+ 
+Bertilimumab and Ulcerative Colitis 
+ 
+Published studies have suggested that eotaxin-1 plays a role in the pathogenesis of UC. In June 2015, we initiated a phase 2 study, IMNP UC-01, “Evaluation of Safety, Efficacy, Pharmacokinetics and Pharmacodynamics of Bertilimumab in Patients with Active Moderate to Severe Ulcerative Colitis” (ClinicalTrials.gov Identifier: NCT01671956) at sites in Israel. In 2016, we expanded the study to include sites in Russia.
+ 
+IMNP UC-01 is a randomized, double blind, placebo-controlled trial in adult patients with active moderate-to-severe UC. Subjects are randomized in a 2:1 ratio to receive bertilimumab or placebo and receive bertilimumab 10 mg/kg IV or placebo on days 0 and 14 and 28, and are followed for safety and efficacy measures for 12 weeks. The primary end point is clinical response assessed by the Mayo Clinic Ulcerative Colitis Disease Index at 8 weeks. Secondary end points include assessment of mucosal injury and clinical remission.
+ 
+
+6
+-
+
+ 
+
+NanoCyclo
+ 
+In January 2016, we entered into a worldwide exclusive licensing agreement with BioNanoSim Ltd. (“BNS”) an Israeli company led by Professor Simon Benita, former Head of the Drug Research Institute at the Hebrew University of Jerusalem, for the development of a topical nano-encapsulated formulation of cyclosporine.
+ 
+Cyclosporine, an oral immunosuppressive drug used for organ transplantation and the treatment of a variety of immunologic diseases, does not penetrate the skin and thus has never been developed to treat dermatological inflammatory conditions such as atopic dermatitis and psoriasis. The NanoCyclo technology is designed to deliver cyclosporine into the epidermis and dermis. NanoCyclo has shown efficacy in several preclinical models of skin inflammation.
+ 
+We are conducting additional preclinical efficacy and toxicity studies on NanoCyclo to select a formulation to move forward into clinical development. Because cyclosporine is no longer patent-protected and is approved for systemic administration, NanoCyclo potentially could be developed under the FDA’s 505(b)(2) pathway, which is typically a faster process than the traditional 505(b)(1) regulatory submission required for new chemical entities. We intend to develop NanoCyclo as a topical treatment for atopic dermatitis and psoriasis.
+ 
+AmiKet and AmiKet Nano
+
+AmiKet is a topical analgesic cream containing two FDA-approved drugs: amitriptyline, an antidepressant often used to treat chronic pain disorders; and ketamine, an N-methyl-D-aspartic acid (“NMDA”) antagonist that is used as an intravenous anesthetic. AmiKet has completed phase 1 and 2 clinical trials involving 1,700 patients for the treatment of neuropathic pain. In 2010, the FDA granted AmiKet Orphan Drug Designation for the treatment of PHN. A PHN phase 3 clinical trial has been designed based on prior clincial studies, including a phase 2 trial that showed comparable efficacy of AmiKet and oral gabapentin (ClinicalTrials.govIdentifier: NCT00475904). In addition to PHN, AmiKet may be developed for the treatment of DPN and chemotherapy-induced neuropathic pain.
+ 
+We are conducting research on a new and improved formulation of AmiKet, which we refer to as “AmiKet Nano,”utilizing a proprietary and patent-protected nano-encapsulation technology developed by Professor Benita and licensed from Yissum Research Development Company, the technology transfer company of the Hebrew University of Jerusalem, Ltd. AmiKet Nano may offer similar efficacy or improved efficacy with lower doses of amitriptyline and ketamine, thus improving the therapeutic index and safety profile of the program. We are determining the optimal path forward for this program.
+ 
+LidoPAIN
+ 
+LidoPAIN is an adhesive-backed, lidocaine-based patch for the treatment of acute lower back pain. In 2003, our predecessor, EpiCept Corporation, entered into a license agreement with Endo Pharmaceuticals Inc. (“Endo”) pursuant to which it granted to Endo the exclusive worldwide right to commercialize LidoPAIN and to use certain of our patents for the development of certain other non-sterile, topical lidocaine patches, including Lidoderm, Endo’s non-sterile topical lidocaine-containing patch for the treatment of chronic lower back pain. In July 2015, the license agreement was amended. We transferred to Endo its previously licensed patents related to the use of topical lidocaine in acute and chronic back pain and Endo granted to us a royalty-free, non-exclusive, fully transferable license to those patents. Endo will make undisclosed milestone payments to us if Endo receives approval for a back-pain indication for a lidocaine-based product. We regained full exclusive rights to develop, commercialize and license LidoPAIN. We intend to divest this non-core asset.
+ 
+Oncology
+ 
+In April 2017, we announced our plan to pursue a spin-off of Cytovia, our oncology subsidiary, into a separate, stand-alone company. Our oncology programs include the following:
+Ceplene   
+Ceplene (histamine dihydrochloride), our lead oncology product candidate, is a first-in-class, small molecule, targeting the Histamine-2 Receptor. Ceplene was approved for marketing in Europe in 2008 and Israel in 2010 and has been granted Orphan Drug Designation in the United States and E.U. for the treatment of AML.
+ 
+We acquired the rights to Ceplene in the United States and Israel in the Merger. On June 15, 2017, we entered into an Asset Purchase Agreement with Meda Pharma Sarl, a Mylan NV company, to repurchase assets relating to Ceplene, including the right to commercialize Ceplene in Europe and to register and commercialize Ceplene in certain other countries (the “Asset Purchase Agreement”). Cytovia intends to undertake commercialization efforts in Europe, Asia and Latin America.
+ 
+
+7
+-
+
+ 
+
+Cytovia intends to develop Ceplene for use in combination with low dose Interleukin-2 (“IL-2”) (Proleukin®) to overcome immunosuppression in AML and potentially other malignancies. Ceplene is thought to suppress tumor growth by inhibiting NOX-2, in turn inhibiting macrophage and leukemic cell reactive oxygen species production, allowing IL-2 activation of natural killer (“NK”) and cytotoxic T cells, with consequent leukemic cell death. Data from a European study presented at the American Association of Cancer Research Annual Meeting in April 2016 demonstrated that Ceplene in conjunction with IL-2 is active in monocytic forms of AML.
+ 
+Cytovia plans to finalize a phase 3 protocol for a single pivotal study assessing overall survival in AML to support an NDA filing in the United States for Ceplene in remission maintenance in AML. The study will compare Ceplene plus low dose IL-2 to placebo plus low dose IL-2. The primary end point will be overall survival at 2 years with a secondary end point of Leukemia Free Survival. An independent interim analysis will be conducted at one year for both futility, and to assess the one-year efficacy based on Event Free Survival.
+ 
+Crolibulin
+
+Crolibulin is a novel small molecule VDA and apoptosis inducer for the treatment of patients with solid tumors and is a novel microtubule destabilizer that is selective for pathologic vasculature. Crolibulin has shown promising vascular targeting activity with potent anti-tumor activity in preclinical in vitro and in vivo studies and in a Phase I clinical trial conducted in part by the National Cancer Research Institute. The molecule has been shown to induce tumor cell apoptosis and selectively inhibit growth of proliferating cell lines, including multi-drug resistant cell lines. Murine models of human tumor xenografts demonstrated crolibulin inhibits growth of established tumors of a number of different cancer types. In preclinical animal tumor models, combination therapy has demonstrated synergistic activity with cytotoxic drugs as well as anti-angiogenic drugs. This may support further development of crolibulin in cancers other than anaplastic thyroid cancer, including but not limited to refractory ovarian cancer and neuro-endocrine tumors.
+Azixa
+
+Azixa (verubulin) is a novel microtubular destabilizer that functions as a VDA. It evades multidrug resistance pumps, thus crossing the blood-brain-barrier and achieving high central nervous system concentrations. In phase 1 and 2 clinical trials in glioblastoma multiforme (“GBM”), evidence of objective response was seen, including in patients who had failed previous bevacizumab (Avastin) therapy. Azixa has Orphan Drug Designation for GBM in the United States.
+ 
+NanomAbs
+
+NanomAbs is an antibody-drug conjugate platform that allows the targeted delivery of combinations of chemotherapeutics into cancer cells. NanomAbs is potentially capable of generating novel drugs with enhanced profiles as compared to stand-alone antibodies. The technology conjugates monoclonal antibodies to drug loaded nanoparticles to target drugs to specific cells. NanomAbs selectively accumulates in diseased tissues and cells, resulting in higher drug accumulation at the site of action with minimal off-target exposure.
+ 
+Bispecific Antibodies
+
+In December 2015, we published data regarding a novel bispecific antibody platform for the production of tetravalent IgG1-like bispecific antibodies. The prototype bispecific antibody retained effector functions and mediated redirect killing of target cells by cytokine induced killer T cells demonstrating direct anti-cancer effects in vitro as well as anti-tumor activity and improved survival in a mouse xenograft model of disseminated leukemia. We believe that this platform may be used to generate novel bispecific antibodies against immuno-oncology targets. This work was developed by a collaborative European consortium and funded in part by a European grant.
+
+8
+-
+
+Material Agreements 
+ 
+Bertilimumab
+ 
+iCo Therapeutics Inc. 
+ 
+In December 2010, iCo Therapeutics Inc. (“iCo”) granted Immune an option to sub-license the use and development of bertilimumab for all human indications, other than ocular indications, pursuant to a Product Sublicense Agreement. iCo obtained exclusive license rights to intellectual property relating to bertilimumab pursuant to a license agreement with Cambridge Antibody Technology Group Plc dated December 20, 2006, and to which we became a party. On June 24, 2011, we exercised our option and obtained a worldwide license from iCo pursuant to the Product Sublicense Agreement. We paid iCo $0.5 million and issued to iCo common stock and warrants to purchase our common stock.  iCo is entitled to $32.0 million in milestone payments plus royalties on future development and sales of bertilimumab. Milestones include the first dosing in a phase 3 clinical trial, filing a Biologics License Application/Marketing Authorization Application (“BLA/MMA”) and approval of a BLA/MAA in any indication and the achievement of $100 million in aggregate sales of licensed products for use in IBD.  The term of the license lasts until the expiration of all payment obligations on a country-by-country basis, being on the later to occur of (a) the tenth (10th) anniversary of the first commercial sale of a licensed product in an applicable country or (b) the expiration date in such country of the last to expire of any issued iCo patent that includes at least one valid claim that claims the particular licensed product or its manufacture or use, at which point the license will be deemed fully paid, perpetual and irrevocable with respect to that country.  iCo retains the worldwide exclusive right to the use of bertilimumab (iCo-008) for all ocular applications.  
+Lonza Sales AG
+ 
+In May 2012, Lonza Sales AG (“Lonza”) granted us a non-exclusive worldwide license (the “Lonza License”) under certain know-how and patent rights to use, develop, manufacture, market, sell, offer, distribute, import and export bertilimumab produced through the use of Lonza’s system of cell lines, vectors and know-how. We are not obligated to manufacture bertilimumab through the use of Lonza’s system.
+ 
+We agreed to pay Lonza (i) a royalty of 1% of the net selling price of bertilimumab manufactured by Lonza; or (ii) an annual payment of approximately $0.1 million (first payable upon commencement of phase 2 clinical trials) plus a royalty of 1.5% of the net selling price of bertilimumab if it is manufactured by us or one of our strategic partners; or (iii) an annual payment of approximately $0.5 million (first payable upon commencement of the relevant sublicense) plus a royalty of 2% of the net selling price of bertilimumab if it is manufactured by any party other than Lonza, us or one of our strategic partners. The royalties are subject to a 50% reduction based on the lack of certain patent protections, including the expiration of patents, on a country-by-country basis.  Unless earlier terminated, the license agreement continues until the expiration of the last enforceable valid claim to the licensed patent rights, which began to expire in 2014 and continued to expire between 2015 and 2016, or for so long as the System Know How (as defined in the License) is identified and remains secret and substantial, whichever is later. We considered the System Know How as secret and substantial as of December 31, 2017 and accordingly, the license remains in effect as of that date.
+ 
+For the year ended December 31, 2017, there were no payments due related to this license.
+ 
+On June 27, 2011, we entered into a manufacturing agreement with Lonza for the manufacture of bertilimumab for use in our phase 2 bertilimumab clinical trials.  See “Manufacturing” below.
+ 
+We completed the manufacturing of bertilimumab with Lonza in 2016 and intend to manufacture further supplies of bertilimumab with another manufacturer. Therefore, we do not intend to utilize the Lonza License in the future and will not be subject to the royalty obligations contained therein.
+ 
+NanoCyclo
+ 
+BioNanoSim Ltd 
+
+In January 2016, our wholly owned subsidiary, Immune Ltd., entered into a definitive research and license agreement with BNS, a Yissum spin-off company. We obtained from BNS an exclusive worldwide sublicense, with a right to further sublicense, for the development, manufacturing and commercialization of certain inventions and research results regarding Yissum’s patents in connection with nanoparticles for topical delivery of cyclosporine-A (NanoCyclo) for all topical skin indications. As consideration for the grant of the license, we are required to pay the following consideration:
+ 
+
+· | an annual maintenance fee of $30,000, commencing on January 1, 2021, which will increase by 30% each year up to a maximum annual maintenance fee of $0.1 million and may be credited against royalties or milestone payments payable in the same calendar year;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | a license fee in the amount of $0.5 million, paid in 2016;
+--+-----------------------------------------------------------
+
+
+· | royalties on net sales of products (as such term is defined in the License) by us of up to 5%, subject to certain possible reductions in certain jurisdictions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+
+· | sublicense fees in the amount of 18% of any non-sales related consideration received by us from a sublicense or an option to receive a sublicense for the products and/or the licensed technology (as such terms are defined in the license); and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | milestone payments of up to approximately $4.5 million and 250,000 shares of our common stock (12,500 shares after giving effect to the April 2017 Reverse Stock Split) upon the achievement of certain regulatory, clinical development and commercialization milestones. In the event that we receive consideration from a sublicensee for any such milestones, we will pay to BNS the higher of either (a) the amount of the particular milestone payment or (b) the amount of the sublicense fees that are due for such sublicensee consideration paid to us.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In addition, we are obligated to reimburse BNS within 60 days for expenses relating to patent fees and will sponsor a 12-month research program to prepare the program for IND submission.
+ 
+In November 2017, we issued 250,000 shares valued at $225,000 to BNS without giving effect to the impact of the April 2017 Reverse Stock Split because we decided that the importance of the NanoCyclo program and the need to maintain a positive working relationship with BNS warranted ignoring the impact of the Reverse Split and instead issuing 250,000 Shares to BNS as if the Reverse Split had not occurred.
+ 
+For the year ended December 31, 2016, we paid a license fee of $0.5 million and approximately $0.2 million in research fees. For the year ended December 31, 2017, we paid approximately $0.3 million in research fees.
+ 
+AmiKet and AmiKet Nano 
+ 
+Dalhousie University
+ 
+In July 2007, we entered into a license agreement with Dalhousie University (“Dalhousie”) under which we obtained an exclusive license to certain patents for the topical use of tricyclic anti-depressants and N-methyl-D-aspartate (“NMDA”) receptor antagonists as topical analgesics for neuralgia. These and other patents cover the combination treatment consisting of amitriptyline and ketamine in AmiKet. We obtained worldwide rights to make, use, develop, sell and market products utilizing the licensed technology in connection with passive dermal applications. We are obligated to make payments to Dalhousie upon achievement of specified milestones and royalties based on annual net sales derived from the products incorporating the licensed technology. In April 2014, we entered into a Waiver and Amendment to the license agreement pursuant to which Dalhousie agreed to irrevocably waive our obligation to pay maintenance fees. In exchange, we agreed to pay Dalhousie royalties of 5% of net sales of licensed technology in countries in which patent coverage is available and 3% of net sales in countries in which data protection is available. Also, we agreed to amend the timing and increase the amounts of the milestone payments payable under the license agreement.
+Yissum 
+ 
+In June 2015, we entered into a definitive research and license agreement with Yissum. We obtained an exclusive, worldwide license from Yissum, with certain sublicensing rights, to make commercial use of certain of Yissum’s patents and know-how in connection with a topical nano-formulated delivery of AmiKet for the development, manufacturing, marketing, distribution and commercialization of products based on the technology. As consideration for the grant of the license, we are required to pay the following consideration:
+
+· | an annual maintenance fee of $30,000 commencing on June 25, 2020, which maintenance fee shall increase by 30% each year, up to a maximum annual maintenance fee of $0.1 million and may be credited against royalties or milestone payments payable in the same calendar year;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | royalties on net sales of products (as such term is defined in the license) by us in the amount of up to 3%, subject to certain possible reductions in certain jurisdictions;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | milestones payments of up to approximately $4.5 million upon the achievement of certain regulatory, clinical development and commercialization milestone; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | reimbursement of related patent fees
+--+-------------------------------------
+
+ 
+In addition, we agreed to fund an annual research program in the amount of approximately $0.5 million, plus VAT and any applicable taxes, commencing on October 1, 2015 (or such other time as mutually agreed between the parties). The results of the research, including any patents or patent applications will automatically be licensed to us.
+ 
+
+10
+--
+
+ 
+
+For the year ended December 31, 2016, we paid research fees of approximately $0.1 million. As of December 31, 2017, $250,000 is due to Yissum for research fees.
+ 
+Oncology
+ 
+Ceplene 
+ 
+Meda Pharma SARL 
+ 
+On June 15, 2017, we entered into an Asset Purchase Agreement (the “Asset Purchase Agreement”) with Meda Pharma SARL, a Mylan N.V. company (“Meda”) to repurchase assets relating to Ceplene (histamine dihydrochloride), including the right to commercialize Ceplene in Europe and to register and commercialize Ceplene in certain other countries, for a fixed consideration of $5 million payable in installments over a three-year period. The assets acquired from Meda include rights to marketing authorizations, trademarks, patents, and other intellectual property related to Ceplene and its use. Under the terms of the Asset Purchase Agreement, we have agreed to pay Meda a fixed price, which is payable in installments, as well as additional amounts contingent on the achievement of certain milestones.
+Daniel Kazado
+ 
+On June 15, 2017, substantially contemporaneous with the entry into the Asset Purchase Agreement, we entered into a Standby Financing Agreement (the “Standby Financing Agreement”) with Daniel Kazado (the “Standby Financer”), a member of our Board of Directors and a beneficial owner of our capital stock. Currently, we intend to finance the $5.0 million financial obligations contemplated by the Asset Purchase Agreement through Cytovia on a basis that is on terms that are acceptable to our board of directors and without recourse to us. The Standby Financer will support the financial obligations of the Company to pay the fixed consideration installments, in the aggregate amount of $5,000,000, due under and in accordance with the terms of the Asset Purchase Agreement. In the event that Cytovia has not obtained funding on terms reasonably acceptable to us (including, without limitation, that such funding be on a basis that is without recourse to us), then, pursuant to the terms of the Standby Financing Agreement, at or prior to each installment date, the Standby Financer shall lend us or Cytovia (as determined in the discretion of our Board of Directors) an amount in immediately available funds equal to the fixed consideration installment payment then due and payable under the Asset Purchase Agreement (the “Standby Commitment”). The loan made by the Standby Financer in respect of such fixed payment shall be evidenced by a promissory note in an aggregate principal amount equal to the amount of funds lent by the Standby Financer. The Standby Commitment shall expire on the earliest of (a) satisfaction in full by the Standby Financer of his obligations under the Standby Financing Agreement, (b) Cytovia having obtained funding on terms reasonably acceptable to us and (c) the Company having been fully discharged of and released from all liability of all of its obligations under the Asset Purchase Agreement.
+Pint Pharma International S.A. On July 10, 2017, Cytovia entered into an exclusive licensing agreement (the “Licensing Agreement”) with Pint Pharma International S.A. (“Pint”) a specialty pharmaceutical company focused on Latin America and other markets, for the marketing, commercialization and distribution of Ceplene throughout Latin America (the “Territory”, as more fully defined in the Licensing Agreement) through Pint and one or more of its affiliates. Pursuant to the Licensing Agreement, Cytovia is entitled to (i) 35% of Ceplene net sales in the Territory (ii) a milestone payment of $0.5 million when net sales of Ceplene in the Territory reach $10.0 million in any calendar year and (iii) a milestone payment of $1.25 million when net sales of Ceplene in the Territory reach $25.0 million in any calendar year (collectively, the “Ceplene Payments”). Cytovia further granted Pint and its affiliates certain sublicensing rights to Ceplene, and a right of first refusal on any new products of Cytovia within the Territory during the term of the Licensing Agreement. With regard to any regulatory approvals and filings related to the commercialization of Ceplene within the Territory, Pint shall be the applicant, holder of such regulatory approvals and will be responsible for the content of such regulatory submissions, as well as all costs and expenses related to, among other items delineated in the Licensing Agreement, the fees, filings, compliance, registration and maintenance of such required regulatory approval matters. Cytovia shall be responsible for providing (or if in the control of a third party, to ensure such third party provides) all appropriate documentation, samples and other information in support of Pint in connection with its regulatory submissions, compliance and maintenance matters in the Territory concerning the Ceplene product(s).
+ 
+Additionally, in connection with the Licensing Agreement, the parties agreed that Pint Gmbh, an affiliate of Pint, will separately enter into an investment agreement, pursuant to which Pint Gmbh will make an investment of $4.0 million at series A valuation into Cytovia in exchange for an equity interest in Cytovia. Dr. Massimo Radaelli, Executive Chairman of Pint, will also join the board of Cytovia upon completion of the investment and effective spin off of Cytovia from us, if and as consummated.
+ 
+
+11
+--
+
+ 
+
+NanomAbs
+ 
+Yissum 
+ 
+In April 2011, we entered into a license agreement with Yissum, which includes patents, research results and know-how developed by Professor Simon Benita related to the NanomAbs technology. Yissum granted us an exclusive license, with a right to sub-license, to make commercial use of the licensed technology in order to develop, manufacture, market, distribute or sell products derived from the license. As consideration for the grant of the license, we are required to pay the following consideration:
+
+· | royalties in the amount of up to 4.5% of net sales;
+--+----------------------------------------------------
+
+
+· | beginning on the sixth anniversary, an annual license maintenance fee between $30,000 for the first year and up to a maximum of $0.1 million thereafter;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | research fees of at least $0.3 million for the first year and at least $0.1 million from the second year through the sixth year (but, not to exceed $1.8 million in the aggregate);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | milestone payments of up to $8.6 million, based on the attainment of certain milestones, including IND application submission, patient enrollment in clinical trials, regulatory approval and commercial sales;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | sub-license fees in amounts up to 18% of any sub-license consideration; and
+--+----------------------------------------------------------------------------
+
+
+· | equity consideration in the amount of 8% of our shares of common stock on a fully diluted basis.
+--+-------------------------------------------------------------------------------------------------
+
+ 
+The license expires, on a country-by-country basis, upon the later of the expiration of (i) the last valid licensed patent, (ii) any exclusivity granted by a governmental or regulatory body on any product developed through the use of the licensed technology or (iii) the 15-year period commencing on the date of the first commercial sale of any product developed through the use of the licensed technology.  Upon the expiration of the license, we will have a fully paid, non-exclusive license to the licensed technology.
+ 
+For the year ended December 31, 2017, we paid research fees of approximately $0.1 million.
+ 
+Bispecific Antibodies
+ 
+SATT Sud-Est
+ 
+In January 2017, we entered into an exclusive patent sub-license agreement with SATT Sud-Est, (“SATT”) a French technology transfer office of the five universities of the Provence-Alpes-Cote-d’Azur and Corsica regions in France, relating to certain patents covering the development, use, manufacture and commercialization of monoclonal and bispecific antibodies targeting components of the tumor microenvironment and angiogenic factors. In addition, SATT agreed to grant us an exclusive option relating to the pro-angio vascular endothelial growth factor (“VEGF”) invention to be filed as a patent application during the term of the agreement. We will have a month after the filing of the patent to exercise the option. In consideration of the sub-license and option agreement, we agreed to pay an approximately $0.2 million upfront payment, with $0.1 million payable in January 2017 and the remainder payable in three equal quarterly payments thereafter beginning in March 2017. As of December 31, 2017, we have not made any payments. In addition, we agreed to certain milestone and royalty payments for each monoclonal and bispecific product developed.
+Atlante Biotech SAS 
+ 
+In December 2015, we entered into an exclusive license with Atlante Biotech SAS (“Atlante”) relating to the patents and know-how for a new format of bispecific antibody platform. The technology, the result of a collaborative European consortium led by Dr. Jean Kadouche and funded by a European grant, developed the novel platform for the production of tetravalent IgG1-like bispecific antibodies. A prototype bispecific antibody utilizing the platform was shown to retain effector functions and mediate redirect killing of target cells by cytokine induced killer T cells. Moreover, the bispecific antibody demonstrated direct in-vitro and in-vivo anti-cancer effects in tumor models and improved survival in a mouse xenograft model of disseminated leukemia.
+
+12
+--
+
+Other Material Agreements
+ 
+MabLife SAS 
+ 
+In March 2012, we acquired from MabLife SAS (“MabLife”), a biotechnology company specializing in research and development of antibody-based therapeutics for the treatment of cancers, autoimmune and inflammatory disorders, all right, title and interest in and to the patent rights, technology and deliverables related to the anti-Ferritin monoclonal antibody (“AMB8LK”), including its nucleotide and protein sequences, its ability to recognize human acid and basic ferritins, or a part of its ability to recognize human acid and basic ferritins.  The consideration was: $0.6 million payable in six equal installments (total payments to date totaled $0.2 million) and royalties of 0.6% of net sales of any product containing AMB8LK or the manufacture, use, sale, offering or importation of which would infringe on the patent rights with respect to AMB8LK.  We are required to assign the foregoing rights back to MabLife if it fails to make any of the required payments, is declared insolvent or bankrupt or terminates the agreement.
+ 
+In February 2014, we acquired from MabLife all rights, titles and interests in and to the secondary patent rights related to the use of anti-ferritin monoclonal antibodies in the treatment of some cancers, Nucleotide and protein sequences of an antibody directed against an epitope common to human acidic and basic ferritins, monoclonal antibodies or antibody-like molecules comprising these sequences.
+ 
+During the first quarter of 2015, MabLife informed us that it had filed for bankruptcy. On May 30, 2017, we received a summons from the bankruptcy court-liquidator to appear before the commercial court of Evry, France on September 19, 2017. In December 2017, we reached an agreement with the bankruptcy court-liquidator to settle all amounts due to Mablife for a payment of approximately $0.2 million. We paid the settlement amount in January 2018 and are awaiting confirmation by the commercial court.
+ 
+Endo Pharmaceuticals Inc. 
+ 
+In December 2003, EpiCept entered into a license agreement (“License Agreement”) with Endo Pharmaceuticals Inc. (“Endo”) under, which EpiCept granted Endo (and its affiliates) the exclusive (including as to EpiCept and its affiliates) worldwide right to commercialize LidoPAIN, adhesive-backed, lidocaine-based patch for the treatment of acute lower back pain. EpiCept also granted Endo worldwide rights to use certain of EpiCept’s patents for the development of certain other non-sterile, topical lidocaine patches, including Lidoderm, Endo’s non-sterile topical lidocaine-containing patch for the treatment of chronic lower back pain. We assumed the License Agreement upon the Merger. 
+ 
+Under the License Agreement, we are entitled to receive milestone payments of up to $52.5 million upon the achievement of various milestones relating to product development, regulatory approval and sales-based royalties on sales of LidoPAIN and Endo’s own back pain product, if covered by our patents. Royalties are payable until generic equivalents to the LidoPAIN product are available or until expiration of the patents covering LidoPAIN, whichever is sooner. Also, we are eligible to receive milestone payments from Endo of up to $30 million upon the achievement of specified regulatory and net sales milestones of Lidoderm, Endo’s chronic lower back pain product candidate, if covered by our patents. The License Agreement terminates upon the later of the conclusion of the royalty term, on a country-by-country basis, and the expiration of the last applicable EpiCept patent covering licensed Endo product candidates on a country-by-country basis. Either party may terminate the agreement upon an uncured material breach by the other or, subject to the relevant bankruptcy laws, upon a bankruptcy event of the other.
+ 
+In July 2015, we amended the License Agreement. We transferred to Endo its previously licensed patents related to the use of topical lidocaine in acute and chronic back pain and Endo granted to us a royalty-free, non-exclusive, fully transferable license to those patents. Endo will make undisclosed milestone payments to us if Endo receives approval for a back pain indication for a lidocaine-based product. We regained full exclusive rights to develop, commercialize and license LidoPAIN.
+ 
+Dr. Jean Kadouche and Alan Razafindrastita
+ 
+In December 2011, Dr Jean Kadouche sold, assigned and transferred to us the entire right, title and interest for all countries, in and to any and all patents and inventions related to mice producing human antibodies and a method of preparation of human antibodies (the “Human Antibody Production Technology Platform”) for 40,000 shares of our common stock and $20,000 (paid to Dr. Kadouche and Alan Razafindrastita).  Through the Human Antibody Production Technology Platform and additional laboratory work, human immune systems and specific cell lines were introduced in mice, enabling the mice to produce human monoclonal antibodies. 
+
+13
+--
+
+Shire BioChem Inc. 
+ 
+In connection with the Merger, we acquired a license agreement for the rights to the MX2105 series of apoptosis inducer anti-cancer compounds from Shire BioChem Inc. (“Shire BioChem”), (formerly known as BioChem Pharma, Inc.). Under the license agreement, we are required to pay Shire BioChem a portion of any sublicensing payments we receive if we relicense the series of compounds or make milestone payments to Shire BioChem totaling up to $26.0 million and pay a royalty on product sales if we develop the compounds internally for the treatment of a cancer indication.
+Intellectual Property 
+ 
+We seek to protect our product candidates and our technology through a combination of patents, trade secrets, proprietary know-how, regulatory exclusivity and contractual restrictions on disclosure.
+ 
+We own or license rights with respect to patents and patent applications relating to bertilimumab, NanoCyclo, AmiKet and AmiKet Nano, Ceplene, antibodies and other product candidates. The patent positions for our product candidates and platforms include 24 granted United States patents, 113 granted foreign patents, 12 pending United States applications, and 26 pending foreign patent applications. We intend to seek patent term extensions in the United States for approved products. The length of the patent term extension will vary and is related to the length of time the drug is under regulatory review while the patent is in force.
+ 
+Our patent positions are as follows:
+ 
+
+· | A license to a patent family that covers a composition of matter of bertilimumab and a method of using bertilimumab to screen for an antibody or antibody fragment that binds eotaxin-1, including: four registered patents in the United States and registered patents in Europe (Switzerland, Germany, France, United Kingdom (UK), and Ireland), Brazil, Canada, Israel, Australia, Japan, New Zealand and Singapore, and one pending patent application in the United States. The U.S. patents will expire, without extension between March 2021 and August 2022. The foreign patents and patents granted with respect to pending patent applications in this family will expire, without extension, in March 2021.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to a patent application family that covers a method for treating an inflammatory bowel disease with an anti-human eotaxin antibody, including bertilimumab in the United States, Europe, Australia, Canada, China, Israel, and New Zealand. Any patents granted with respect to the pending patent application will expire, without extension, in March 2034.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | A license to a PCT patent application that covers a method for treating altered hepatic function and/or insulin resistance with an anti-human eotaxin antibody, including bertilimumab. Any patents granted with respect to the pending PCT patent application will expire, without extension, in June 2037.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to a provisional patent application that covers a method for treating bullous pemphigoid with reduced or no corticosteroids via administration of an anti-human eotaxin antibody, including bertilimumab.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | A license to a patent family that covers polymer-based nanoparticles for the dermal or systemic delivery of therapeutic compounds, including: registered patents in Australia, China, Israel, and Japan and pending patent applications in Canada, China, Europe, India, South Korea, and the U.S. Any patents granted with respect to this pending patent application will expire, without extension, in January 2032.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | A license to a provisional patent application that covers a powder comprising polymer-based nanoparticles and topical and ophthalmic formulations of nanoparticles. Any patents granted with respect to this pending patent application will expire, without extension, in February 2039.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to several families of patents related to the AmiKet product, including four granted U.S. patents, as well as granted patents in Canada, Chile, Hong Kong, Israel, Mexico, New Zealand, and Singapore. Patent applications for this family are pending in Mexico. These granted patents and any patents granted with respect to any pending patent applications will expire, without extension, between 2018 and 2023. These patents and patent application have claims directed to topical uses of tricyclic antidepressants, such as amitriptyline, and NMDA receptor antagonists, such as ketamine, as treatments for relieving pain, including neuropathic pain.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+14
+--
+
+
+· | A license to a patent family that covers Lidopain anesthetic patch, including 2 granted U.S. patents, a granted Mexico patent, and a pending Mexico patent application. These granted patents and any patents granted with respect to any pending patent applications will expire, without extension, between March 2020 and March 2021.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to patents covering the synthesis of histamine dihydrochloride (Ceplene) and its use for treating cancer, including five granted U.S. patents, as well as a registered Australian, European (Austria, Belgium, Cyprus, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Monaco, Netherlands, Portugal, Spain, Sweden, Switzerland, and UK), Canadian, China, Hong Kong, Indian, Israel, and Japanese patents. The U.S. patents will expire in January 2019 and October 2021, and the other patents will expire in December 2019. There are pending PCT and US Provisional patent applications as well. Any patents granted with respect to any pending patent applications will expire, without extension in 2037 and 2038, respectively.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to U.S., China, India, Japanese, and South Korean patents related to Azixa and uses thereof. The U.S. composition and methods patents will expire, without extension, in November 2026 and January 2030, respectively. The other patents will expire in July 2024.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to U.S. and Canadian patents and European and Canadian patent applications related to crolibulin, structurally related analogs, and uses thereof. The U.S. patents will expire, without extension, between July 2022 and November 2029. The granted Canadian patent and any pending patent applications will expire in July 2027.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | A license to a patent family that covers bispecific antibodies, including granted US and China patents, as well as pending Canadian, European, Indian, Japanese, Mexican, and Korean patent applications. The U.S. patent will expire, without extension, in March 2033, while the other patent and any patents granted with respect to any pending patent applications will expire, without extension, in July 2032.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All rights, title and interest in and to the U.S. and European (Germany, Switzerland, Spain, UK, Italy, and France) registered patents that cover an anti-ferritin antibody composition of matter and/or methods of use for targeting of a molecule to certain tumors and for localizing a tumor in a subject. The European patents directed to the use will expire, without extension, in January 2020. The U.S. patent, which benefits from patent term adjustment from the United States Patent and Trademark Office (“USPTO”), will expire in January 2022. The European patents directed to the composition of matter will expire, without extension, in September 2027. The U.S. composition of matter patent, which benefits from patent term adjustment from the USPTO, will expire in July 2030.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We seek to protect our proprietary information by requiring our employees, consultants, contractors, outside partners and other advisers to execute, as appropriate, nondisclosure and assignment of invention agreements upon commencement of their employment or engagement. Also, we require confidentiality or material transfer agreements from third parties that receive our confidential data or materials.
+ 
+Our commercial success will depend in part on obtaining and maintaining patent protection and trade secret protection of our technologies and product candidates as well as successfully defending these patents against third-party challenges. We have various compositions of matter and use patents, which have claims directed to our product candidates or their methods of use. Our patent policy is to pursue, maintain, defend, retain and secure patents and patent rights, whether developed internally or licensed from third parties, for the technology, inventions and improvements related to our core portfolio of product candidates and that are or may be commercially important to the development of our business. Also, we rely on trade secrets, technical know-how and continuing innovation to develop and maintain our competitive position.
+ 
+The pharmaceutical, biotechnology and other life sciences industries are characterized by the existence of a large number of patents and frequent litigation based upon allegations of patent infringement. We believe that our current activities fall within the scope of the exemptions provided by 35 United StatesC. Section 271(e) in the United States and Section 55.2(1) of the Canadian Patent Act, each of which covers activities related to developing information for submission to the FDA and its counterpart agency in Canada. The possibility of an infringement claim against us increases as potential products progress toward commercialization. We attempt to ensure that our product candidates and the methods we employ to manufacture them do not infringe other parties’ patents and other proprietary rights, yet competitors or other parties may assert that we have infringed on their patents or other proprietary rights.
+ 
+
+15
+--
+
+ 
+
+We rely on trade secrets and technical know-how to develop and maintain our competitive position. We seek to protect our proprietary processes, in part, through confidentiality and invention assignment agreements with our employees, consultants, scientific advisors, contractors and commercial partners. Also, we seek to preserve the integrity and confidentiality of our data, trade secrets and technical know-how by maintaining physical security of our premises and physical and electronic security of our information technology systems. Such agreements or security measures are not immune from breach, and we may not have adequate remedies for any breach. Furthermore, our trade secrets may become known or be independently discovered by competitors or others.
+ 
+Manufacturing
+
+We do not own or operate manufacturing facilities for any of our product candidates, nor do we plan to develop our own manufacturing operations in the foreseeable future. We depend on third party contract manufacture organizations for all of our bulk drug substance and drug candidates for our preclinical and clinical trials.
+ 
+Where applicable, manufacturers of our products are required to comply with applicable Good Manufacturing Practices (“GMP”) regulations, which require, among other things, quality control and quality assurance, as well as the corresponding maintenance of records and documentation. In addition, changes to the manufacturing process generally require prior Regulatory Health Authority approval before being implemented. We take responsibility to ensure that all of the processes, methods and equipment are compliant with GMP for drugs on an ongoing basis, as mandated by the FDA and other regulatory authorities, and conduct audits of our vendors, contract laboratories and suppliers.
+ 
+The raw materials that we use to manufacture our product candidates are readily available commodities commonly used in the pharmaceutical industry.
+ 
+Bertilimumab
+ 
+Lonza has manufactured all of our bertilimumab phase 2 clinical trial material pursuant to a manufacturing agreement that we signed with Lonza in 2011. In addition, we rely on certain third parties to perform filling, finishing, labeling, packaging, distribution, laboratory testing and other services related to the manufacture of our bertilimumab clinical supply.
+ 
+In 2014, we entered into an agreement with Probiogen AG to develop a new Chinese Hamster Ovary (“CHO”) derived cell line for the manufacture of bertilimumab with improved characteristics, including higher yield, as compared to the bertilimumab derived from the manufacturing process utilized by Lonza. In 2015, we transferred the CHO cell line to STC Biologics for the development of the new manufacturing process for bertilimumab.
+ 
+Ceplene
+ 
+Currently, Lonza manufactures our clinical and commercial supply of Ceplene. Cytovia plans to qualify a backup manufacturer in the near future.
+ 
+Contract Research Organizations
+ 
+We outsource our clinical trial activities to Clinical Research Organizations (“CROs”). We utilize CROs that comply with guidelines from the International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use, which attempt to harmonize the FDA and the EMA regulations and guidelines. We create our drug development plans and manage our CROs according to the specific requirements of the drug candidate under development. We ensure that our CROs comply with relevant federal regulations, including 21 C.F.R. parts 50, 54, 56, 58 and 318, which pertain to, among other things, institutional review boards, informed consent, financial conflicts of interest by investigators, good laboratory practices and submission of IND applications.
+Marketing, Sales and Commercialization
+
+We do not have any internal sales, marketing or distribution infrastructure or capabilities. We intend to pursue commercialization relationships, including strategic alliances and licensing, with pharmaceutical companies and other strategic partners, which are equipped to market and/or sell our products if we receive regulatory approval for any of our product candidates. We may out-license some or all of our worldwide patent rights to more than one party to achieve the fullest development, marketing and distribution of any of our product candidates. 
+
+16
+--
+
+Environmental Matters
+ 
+We and our agents and service providers, including manufacturers, may be subject to various environmental, health and safety laws and regulations, including those governing air emissions, water and wastewater discharges, noise emissions, the use, management and disposal of hazardous, radioactive and biological materials and wastes and the cleanup of contaminated sites. We believe that our business, operations and facilities, including, to our knowledge, those of our agents and service providers, are being operated in compliance in all material respects with applicable environmental and health and safety laws and regulations.
+Government Regulation
+ 
+The FDA and comparable regulatory authorities in state and local jurisdictions and in other countries impose substantial and burdensome requirements upon companies involved in the clinical development, manufacture, marketing and distribution of drugs, such as the drugs that we are developing. These agencies and other federal, state and local entities regulate the research and development, testing, manufacture, quality control, safety, effectiveness, labeling, storage, record keeping, approval, advertising and promotion, distribution, post-approval monitoring and reporting, sampling and export and import of our drug candidates.
+ 
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act (the “FDCA”) and the implementing of regulations in the FDCA. The processes, rules, regulations and requirements of other regulatory agencies, such as that of the EMA which regulates drug approvals in the European Union, are similar though not identical to those of the FDA (see “International Regulations” below).
+ 
+The process of obtaining regulatory approvals and the subsequent compliance with applicable federal, state, local and foreign statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable United States requirements at any time during the product development process, approval process or after approval, may subject an applicant to a variety of administrative or judicial sanctions, such as the FDA’s refusal to approve pending New Drug Applications (“NDAs”) or Biologics License Applications (“BLAs”) withdrawal of an approval, imposition of a clinical hold, issuance of warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement or civil or criminal penalties.
+ 
+The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+ 
+
+· | completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA’s good laboratory practice (“GLP”) regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to the FDA of an IND which must become effective before human clinical trials may begin;
+--+----------------------------------------------------------------------------------------------------
+
+
+· | approval by an independent institutional review board (“IRB”) at each clinical site before each trial may be initiated;
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+· | performance of adequate and well controlled human clinical trials in accordance with good clinical practice (“GCP”) requirements to establish the safety and efficacy of the proposed drug product for each indication;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | submission to the FDA of an NDA;
+--+---------------------------------
+
+
+· | satisfactory completion of an FDA advisory committee review, if applicable;
+--+----------------------------------------------------------------------------
+
+
+· | satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current GMP requirements and to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | FDA review and approval of the NDA.
+--+------------------------------------
+
+
+17
+--
+
+ 
+
+Preclinical studies include laboratory evaluation of product chemistry, toxicity and formulation, as well as animal studies to assess potential safety and efficacy. An IND sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data and any available clinical data or literature, among other things, to the FDA as part of an IND. Some preclinical testing may continue even after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to one or more proposed clinical trials and places the clinical trial on a clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence.
+ 
+Clinical trials involve the administration of the investigational new drug to human patients under the supervision of qualified investigators in accordance with GCP requirements, which include the requirement that all research patients provide their informed consent in writing for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the trial, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. In addition, an IRB at each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health (the “NIH”) for public dissemination on their www.clinicaltrials.gov website.
+ 
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined:
+ 
+
+· | Phase 1 clinical trial: The drug is initially introduced into healthy human volunteers or patients with the target disease or condition and tested for safety, dosage tolerance, absorption, metabolism, distribution, excretion and, if possible, to gain an early indication of its effectiveness.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 2 clinical trial: The drug is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Phase 3 clinical trial: The drug is administered to an expanded patient population, generally at geographically dispersed clinical trial sites, in well controlled clinical trials to generate enough data to statistically evaluate the efficacy and safety of the product for approval, to establish the overall risk-benefit profile of the product, and to provide adequate information for the labeling of the product.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and more frequently if serious adverse events occur. Each of phase 1, phase 2 and phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients.
+ 
+A drug being studied in clinical trials may be made available to individual patients in certain circumstances. Pursuant to the 21st Century Cures Act (the “Cures Act”) which was signed into law in December 2016, the manufacturer of an investigational drug for a serious disease or condition is required to make available, such as by posting on its website, its policy on evaluating and responding to requests for individual patient access to such investigational drug. This requirement applies on the latest of 60 calendar days after the date of enactment of the Cures Act or the first initiation of a phase 2 or phase 3 trial of the investigational drug.
+ 
+Assuming successful completion of the required clinical testing, the results of the preclinical studies and clinical trials, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the product for one or more indications. In most cases, the submission of an NDA is subject to a substantial application user fee. Under the Prescription Drug User Fee Act (“PDUFA”) guidelines that are currently in effect, the FDA has a goal of ten months from the date of “filing” of a standard NDA for a new molecular entity to review and act on the submission. This review typically takes twelve months from the date the NDA is submitted to FDA because the FDA has approximately two months to make a “filing” decision.
+ 
+In addition, under the Pediatric Research Equity Act of 2003 (“PREA”) as amended and reauthorized, certain NDAs or supplements to an NDA must contain data that are adequate to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements.
+ 
+
+18
+--
+
+ 
+
+The FDA also may require submission of a risk evaluation and mitigation strategy (“REMS”) plan to ensure that the benefits of the drug outweigh its risks. The REMS plan could include medication guides, physician communication plans, assessment plans, or elements to assure safe use, such as restricted distribution methods, patient registries, or other risk minimization tools.
+ 
+The FDA conducts a preliminary review of all NDAs within the first 60 days after submission, before accepting them for filing, to determine whether they are sufficiently complete to permit substantive review. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. The FDA reviews an NDA to determine, among other things, whether the drug is safe and effective and whether the facility in which it is manufactured, processed, packaged or held meets standards designed to assure the product’s continued safety, quality and purity.
+ 
+The FDA may refer an application for a novel drug to an advisory committee. An advisory committee is a panel of independent experts, including clinicians and other scientific experts, that reviews, evaluates and provides a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions.
+ 
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with Current Good Manufacturing Practice (“cGMP”) requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA may inspect one or more clinical trial sites to assure compliance with GCP requirements.
+ 
+After evaluating the NDA and all related information, including the advisory committee recommendation, if any, and inspection reports regarding the manufacturing facilities and clinical trial sites, the FDA may issue an approval letter, or, in some cases, a complete response letter. A complete response letter generally contains a statement of specific conditions that must be met in order to secure final approval of the NDA and may require additional clinical or preclinical testing in order for FDA to reconsider the application. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. If and when those conditions have been met to the FDA’s satisfaction, the FDA will typically issue an approval letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications.
+ 
+Even if the FDA approves a product, it may limit the approved indications for use of the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess a drug’s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution and use restrictions or other risk management mechanisms under a REMS, which can materially affect the potential market and profitability of the product. The FDA may prevent or limit further marketing of a product based on the results of post-marketing studies or surveillance programs. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes, and additional labeling claims, are subject to further testing requirements and FDA review and approval.
+ 
+Under the Orphan Drug Act of 1983, the FDA may grant orphan designation to a drug or biologic intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States, or more than 200,000 individuals in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for this type of disease or condition will be recovered from sales in the United States for that drug. Orphan drug designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the name of the sponsor, identity of the drug or biologic and its potential orphan use are disclosed publicly by the FDA. The orphan drug designation does not shorten the duration of the regulatory review or approval process, but does provide certain advantages, such as a waiver of PDUFA fees, enhanced access to FDA staff and potential waiver of pediatric research requirements.
+ 
+
+19
+--
+
+ 
+
+If a product that has orphan drug designation subsequently receives the first FDA approval for the disease for which it has such designation, the product is entitled to orphan product exclusivity, which means that the FDA may not approve any other applications, including a full NDA, to market the same drug or biologic for the same indication for seven years, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity. Orphan drug exclusivity does not prevent FDA from approving a different drug or biologic for the same disease or condition, or the same drug or biologic for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the application user fee. A designated orphan drug may not receive orphan drug exclusivity if it is approved for a use that is broader than the indication for which it received orphan designation. In addition, exclusive marketing rights in the United States may be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantities of the product to meet the needs of patients with the rare disease or condition.
+ 
+Drugs manufactured or distributed pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims are subject to prior FDA review and approval. There also are continuing, annual user fee requirements for any marketed products and the establishments at which such products are manufactured, as well as new application fees for supplemental applications with clinical data.
+ 
+The FDA may impose a number of post-approval requirements as a condition of approval of an NDA. For example, the FDA may require post-marketing testing, including Phase 4 clinical trials, and surveillance to further assess and monitor the product’s safety and effectiveness after commercialization.
+ 
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP requirements and impose reporting and documentation requirements upon the sponsor and any third-party manufacturers that the sponsor may decide to use. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance.
+ 
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in mandatory revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical trials to assess new safety risks; or imposition of distribution or other restrictions under a REMS program. Other potential consequences include, among other things:
+ 
+
+· | restrictions on the marketing or manufacturing of the product, complete withdrawal of the product from the market or product recalls;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | fines, warning letters or holds on post-approval clinical trials;
+--+------------------------------------------------------------------
+
+
+· | refusal of the FDA to approve pending NDAs or supplements to approved NDAs, or suspension or revocation of product approvals;
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+· | product seizure or detention, or refusal to permit the import or export of products; or
+--+----------------------------------------------------------------------------------------
+
+
+· | injunctions or the imposition of civil or criminal penalties.
+--+--------------------------------------------------------------
+
+ 
+The FDA strictly regulates marketing, labeling, advertising and promotion of products that are placed on the market. Drugs may be promoted only for the approved indications and in accordance with the provisions of the approved label. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses, and a company that is found to have improperly promoted off-label uses may be subject to significant liability.
+ 
+
+20
+--
+
+Coverage and Reimbursement
+ 
+Sales of our drug candidates, if approved, will depend, in part, on the extent to which such products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly limiting coverage or reducing reimbursements for medical products and services. In addition, the United States government, state legislatures and foreign governments have continued implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Third-party payors decide which therapies they will pay for and establish reimbursement levels. Third-party payors often rely upon Medicare coverage policy and payment limitations in setting their own coverage and reimbursement policies. However, decisions regarding the extent of coverage and amount of reimbursement to be provided for any drug candidates that we develop will be made on a payor-by-payor basis. Each payor determines whether or not it will provide coverage for a therapy, what amount it will pay the manufacturer for the therapy, and on what tier of its formulary it will be placed. The position on a payor’s list of covered drugs, or formulary, generally determines the co-payment that a patient will need to make to obtain the therapy and can strongly influence the adoption of such therapy by patients and physicians. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. Decreases in third-party reimbursement for our drug candidates or a decision by a third-party payor to not cover our drug candidates could reduce physician usage of our drug candidates, once approved, and have a material adverse effect on our sales, results of operations and financial condition.
+Other Healthcare Laws 
+ 
+We are subject to healthcare regulation and enforcement by the federal government and the states and foreign governments in which we conduct our business, including our clinical research, proposed sales, marketing and educational programs. Failure to comply with these laws, where applicable, can result in the imposition of significant civil penalties, criminal penalties, or both.
+ 
+The United States laws that may affect our ability to operate, among others, include: the federal Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) as amended by the Health Information Technology for Economic and Clinical Health Act, which governs the conduct of certain electronic healthcare transactions and protects the security and privacy of protected health information; certain state laws governing the privacy and security of health information in certain circumstances, some of which are more stringent than HIPAA and many of which differ from each other in significant ways and may not have the same effect, thus complicating compliance efforts; the federal healthcare programs’ Anti-Kickback Statute, which prohibits, among other things, persons from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual for, or the purchase, order or recommendation of, any good or service for which payment may be made under federal healthcare programs such as the Medicare and Medicaid programs; federal false claims laws which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment from Medicare, Medicaid, or other third-party payors that are false or fraudulent; federal criminal laws that prohibit executing a scheme to defraud any healthcare benefit program or making false statements relating to healthcare matters; the Physician Payments Sunshine Act, which requires manufacturers of drugs, devices, biologics, and medical supplies to report annually to the United States Department of Health and Human Services information related to payments and other transfers of value to physicians (defined to include doctors, dentists, optometrists, podiatrists and chiropractors) and teaching hospitals, and ownership and investment interests held by physicians and their immediate family members; and state law equivalents of each of the above federal laws, such as anti-kickback and false claims laws which may apply to items or services reimbursed by any third-party payor, including commercial insurers.
+ 
+In addition, many states have similar laws and regulations, such as anti-kickback and false claims laws that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, to the extent that our product is sold in a foreign country, we may be subject to similar foreign laws.
+ 
+Healthcare Reform 
+ 
+Current and future legislative proposals to further reform healthcare or reduce healthcare costs may result in lower reimbursement for our products. The cost containment measures that payors and providers are instituting and the effect of any healthcare reform initiative implemented in the future could significantly reduce our revenues from the sale of our products.
+
+21
+--
+
+ 
+
+For example, implementation of the Patient Protection and Affordable Care Act, as amended by the Health Care Education Reconciliation Act, collectively the Affordable Care Act (“PPACA”) has substantially changed healthcare financing and delivery by both governmental and private insurers, and significantly impacted the pharmaceutical industry. The PPACA, among other things, established an annual, nondeductible fee on any entity that manufactures or imports certain specified branded prescription drugs and biologic agents, revised the methodology by which rebates owed by manufacturers to the state and federal government for covered outpatient drugs under the Medicaid Drug Rebate Program are calculated, increased the minimum Medicaid rebates owed by most manufacturers under the Medicaid Drug Rebate Program, extended the Medicaid Drug Rebate program to utilization of prescriptions of individuals enrolled in Medicaid managed care organizations, and provided incentives to programs that increase the federal government’s comparative effectiveness research. Since its enactment there have been judicial and Congressional challenges to certain aspects of the PPACA. Some of the provisions of the PPACA have yet to be implemented, and there have been judicial and Congressional challenges to certain aspects of the PPACA. In addition, the current administration and Congress will likely continue to seek legislative and regulatory changes, including repeal and replacement of certain provisions of the PPACA. Prior to the 2016 United States elections, regulations under the PPACA were expected to continue to be drafted, released, and finalized through the next several years. However, throughout 2017 President Trump and members of Congress sought to repeal and replace the PPACA and implement regulatory changes to limit the PPACA and other healthcare reform programs enacted under President Obama’s administration. For example, in January 2017, President Trump signed an Executive Order directing federal agencies with authorities and responsibilities under the PPACA to waive, defer, grant exemptions from, or delay the implementation of any provision of the PPACA that would impose a fiscal or regulatory burden on states, individuals, healthcare providers, health insurers, or manufacturers of pharmaceuticals or medical devices. Another example is the recent United States tax reform legislation enacted by Congress and signed into law by President Trump, The Tax Cuts and Jobs Act of 2017, which repealed the requirement that individuals maintain health insurance coverage or face a penalty (known as the “individual mandate”). President Trump’s administration, Alex Azar, head of Health and Human Services, and Congress will likely continue to seek legislative and regulatory changes to reform healthcare, including repeal and replacement of certain provisions of the PPACA.
+ 
+In addition, other legislative changes have been proposed and adopted since the PPACA was enacted. In August 2011, then President Obama signed into law the Budget Control Act of 2011, which, among other things, created the Joint Select Committee on Deficit Reduction to recommend to Congress proposals for spending reductions. The Joint Select Committee did not achieve a targeted deficit reduction of at least $1.2 trillion for the years 2013 through 2021, triggering the legislation’s automatic reduction to several government programs. This includes reductions to Medicare payments to providers of 2% per fiscal year, which went into effect in April 2013 and, due to subsequent legislative amendments, will remain in effect through 2025 unless additional Congressional action is taken. Additionally, in January 2013, then President Obama signed into law the American Taxpayer Relief Act of 2012, which, among other things, reduced Medicare payments to several providers and increased the statute of limitations period for the government to recover overpayments to providers from three to five years. More recently, there has been heightened governmental scrutiny over the manner in which manufacturers set prices for their marketed products. For example, there have been several recent Congressional inquiries and proposed bills designed to, among other things, bring more transparency to drug pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for drug products.
+ 
+We expect additional federal and state, as well as foreign, healthcare reform measures will be adopted in the future, any of which could result in reduced demand for our products or additional pricing pressure.
+ 
+International Regulations
+ 
+Whether or not we obtain FDA approval for a product, we must obtain approval of a product by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The approval process varies from country to country, and the time may be longer or shorter than that required for FDA approval. The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement also vary greatly from country to country. Although governed by the applicable country, clinical trials conducted outside of the United States typically are administered with the three-phase sequential process described above under “Government Regulation—United States” However, the foreign equivalent of an IND is not a prerequisite to performing pilot studies or phase 1 clinical trials.
+
+22
+--
+
+ 
+
+Under European Union regulatory systems, we may submit marketing authorization applications either under a centralized or decentralized procedure. The centralized procedure, which is required for oncology products and is available for medicines produced by biotechnology or which are highly innovative, provides for the grant of a single marketing authorization that is valid for all member states. This authorization is a marketing authorization application. The decentralized procedure provides for mutual recognition of national approval decisions. Under this procedure, the holder of a national marketing authorization may submit an application to the remaining member states. Within 90 days of receiving the applications and assessment report, each member state must decide whether to recognize approval. This procedure is referred to as the mutual recognition procedure.
+ 
+In addition, regulatory approval of prices is required in most countries other than the United States We face the risk that the resulting prices would be insufficient to generate an acceptable return to us, our shareholders or our collaborators.
+ 
+Research and Development
+ 
+We have devoted substantial efforts and resources to advancing our intellectual property estate and scientific research and drug development. Generally, research and development expenditures are allocated to specific research projects. Due to various uncertainties and risks, it is not possible to accurately predict future spending or time to completion by project or project category. Research and Development costs were $5.5 million and $8.3 million during the fiscal years ended December 31, 2017 and 2016, respectively. We will require additional investments in research and development to bring our product candidates to market. 
+Competition
+
+We operate in highly competitive segments of the biopharmaceutical markets. We face competition from many different sources, including commercial pharmaceutical and biotechnology companies, academic institutions, government agencies, and private and public research institutions. Many of our competitors have significantly greater financial, product development, manufacturing and marketing resources than we possess. Large pharmaceutical companies have extensive experience in clinical testing and obtaining regulatory approval for drugs. As a result, these companies may obtain marketing approval more rapidly and may be more effective in selling and marketing their products than us. Smaller or early stage companies may prove to be significant competitors, particularly through collaborative arrangements with large, established companies. Also, many universities and private and public research institutes are active in cancer research, some in direct competition with us. Adequate protection of intellectual property, successful product development, adequate funding and retention of skilled, experienced and professional personnel are among the many factors critical to our success.
+Employees
+ 
+As of March 15, 2018, our workforce consisted of five full time United States and two full time Israeli employees.
+ 
+Corporate and Available Information
+ 
+Immune (formerly EpiCept) was incorporated in Delaware in March 1993. Immune Ltd., incorporated in Israel in July 2010, entered into a definitive merger agreement with EpiCept in November 2012, which was completed on August 25, 2013. Our principal executive offices are located at 550 Sylvan Avenue, Suite 101, Englewood Cliffs, NJ 07632. Our telephone number is (201) 464-2677, and our website address is www.immunepharma.com.
+ 
+The information contained in, or accessible through our website does not constitute a part of and is not deemed or otherwise incorporated by reference in this Annual Report on Form 10-K. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports, are available to you free of charge through the “Investors — SEC Filings” section of our website as soon as reasonably practicable after such materials have been electronically filed with, or furnished to, the Securities and Exchange Commission. Our shares of common stock are listed on The Nasdaq Capital Market under the symbol “IMNP.”
+ 

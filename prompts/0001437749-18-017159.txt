@@ -1,0 +1,423 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+ 
+Forward-Looking Statements
+ 
+This Annual Report on Form 10-K includes a number of forward-looking statements that reflect management's current views with respect to future events and financial performance. Forward-looking statements are projections in respect of future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as “may,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates.” “predicts,” “potential” or “continue” or the negative of these terms or other comparable terminology. Those statements include statements regarding the intent, belief or current expectations of us and members of our management team, as well as the assumptions on which such statements are based. Prospective investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risk and uncertainties, and that actual results may differ materially from those contemplated by such forward-looking statements. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled “Risk Factors” set forth in this Annual Report on Form 10-K for the fiscal year ended May 31, 2018, any of which may cause our company’s or our industry’s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. These risks include, by way of example and without limitation:
+ 
+
+● | our ability to successfully commercialize our products and services on a large enough scale to generate profitable operations;
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | our ability to maintain and develop relationships with customers and suppliers;
+--+--------------------------------------------------------------------------------
+
+
+● | our ability to successfully integrate acquired businesses or new brands;
+--+-------------------------------------------------------------------------
+
+
+● | the impact of competitive products and pricing;
+--+------------------------------------------------
+
+
+● | supply constraints or difficulties;
+--+------------------------------------
+
+
+● | general economic and business conditions;
+--+------------------------------------------
+
+
+● | our ability to continue as a going concern;
+--+--------------------------------------------
+
+
+● | our need to raise additional funds in the future;
+--+--------------------------------------------------
+
+
+● | our ability to successfully recruit and retain qualified personnel;
+--+--------------------------------------------------------------------
+
+
+● | our ability to successfully implement our business plan;
+--+---------------------------------------------------------
+
+
+● | our ability to successfully acquire, develop or commercialize new products and equipment;
+--+------------------------------------------------------------------------------------------
+
+
+● | intellectual property claims brought by third parties; and
+--+-----------------------------------------------------------
+
+
+● | the impact of any industry regulation.
+--+---------------------------------------
+
+ 
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, or performance. Readers are urged to carefully review and consider the various disclosures made by us in this report and in our other reports filed with the Securities and Exchange Commission (the “SEC”). We undertake no obligation to update or revise forward-looking statements to reflect changed assumptions, the occurrence of unanticipated events or changes in the future operating results over time except as required by law. We believe that our assumptions are based upon reasonable data derived from and known about our business and operations. No assurances are made that actual results of operations or the results of our future activities will not differ materially from our assumptions.
+ 
+As used in this Annual Report on Form 10-K and unless otherwise indicated, the terms “Company,” “we,” “us,” and “our” refer to Solbright Group, Inc. (formerly known as Arkados Group, Inc.) and our wholly-owned subsidiaries: Arkados, Inc. and Solbright Energy Solutions, LLC (formerly Arkados Energy Solutions, LLC). Unless otherwise specified, all dollar amounts are expressed in United States dollars.
+ 
+ 4
+
+
+
+Corporate History
+ 
+Solbright Group, Inc. (formerly Arkados Group, Inc.), a Delaware corporation, was incorporated on May 7, 1998. We underwent a significant restructuring after December 23, 2010 when substantially all of our then-existing assets were acquired by STMicroelectronics, Inc., a Delaware corporation (“ST Micro”). We currently carry out our activities through our wholly-owned subsidiaries, Arkados, Inc., a Delaware corporation (“Arkados”) and Solbright Energy Solutions, LLC (formerly Arkados Energy Solutions, LLC), a Delaware limited liability company (“SES”). We deliver technology solutions for building and machine automation and energy conservation and provide energy conservation services such as LED lighting retrofits, HVAC system retrofits and solar engineering, procurement and construction services. Our focus is towards the development and commercialization of an Internet of Things software platform that supports Big Data applications that complement our energy management services that lower costs for commercial and industrial facilities owners and managers.
+ 
+On May 1, 2017, we acquired substantially all of the assets and certain liabilities of SolBright Renewable Energy, LLC (“SolBright RE”), used in the operation of SolBright RE’s solar engineering, procurement and construction business (the “SolBright Assets”).
+ 
+On July 30, 2018, the Company, entered into an Agreement and Plan of Merger and Reorganization (“Merger Agreement”) with Iota Networks, LLC, an Arizona limited liability company and a direct wholly owned subsidiary of the Company (the “Merger Sub”), M2M Spectrum Networks, LLC, an Arizona limited liability company (“M2M”), and Spectrum Networks Group, LLC, an Arizona limited liability company and the majority member of M2M. Pursuant to the terms of the Merger Agreement, Merger Sub will merge with and into M2M (the “Merger”), a dedicated Internet of Things (IoT) network access and IoT solutions company, with M2M continuing as the surviving entity and a wholly owned subsidiary of the Company. On September 5, 2018, we closed the Merger which was deemed effective on September 1, 2018. In connection with the Merger, on August 30, 2018, we filed a Schedule 14C Information Statement notifying shareholders of record on August 3, 2018, of the Company’s proposed name change from “Solbright Group, Inc.” to “Iota Communications, Inc.”
+ 
+Our Strategy 
+ 
+We seek to combine technology products and energy services that can position our company to be a leading provider for turnkey, cutting-edge solutions that immediately bring value to our customers by reducing costs, conserving energy and seamlessly integrating our product offerings into their existing systems. In order to effectively compete in today’s markets, we believe businesses need to continually focus on increasing productivity and efficiency - essentially getting more from less. We believe that one of the main areas where businesses can increase their efficiency is in the management of their long-term assets, particularly machinery and real estate. New technology advancements are able to help owners more efficiently manage the operations and maintenance of these assets, which may reduce the cost of ownership and extend the life of such assets, which may result in a higher return on assets, increased productivity and a higher return on investment. Our solutions and software seek to capitalize on these technology enhancements by leveraging the network of physical objects connected to the internet that have the ability to process information and communicate with the external world. This area of technology is referred to as Industrial Internet of Things (“IIoT), and we apply IIoT principals to help commercial customers increase their return on investment in facilities by reducing energy and maintenance costs, extending asset life and enhancing sustainability.
+ 
+We believe, in terms of energy efficiency, that applying an IIoT approach by using internet-connected gateways and sensors to gather data, extract intelligence and enable more efficient usage of energy-consuming machines and devices can reduce energy expenditures by up to 25% and potentially much more when combined with implementing other energy conservation measures, such as conversion to LED lighting and installation of commercial solar. According to Gartner Group, there will be over 21 billion “things” connected to the internet by 2020, or in other words, 3 things per each human being on earth. In addition to energy efficiency, IIoT can reduce operating expenses, particularly operating and maintenance of long term assets. Furthermore, IIoT may also enhance conditions within the workplace and increase productivity and sustainability. Many businesses are increasingly under pressure to continue to squeeze more productivity from operations in order to remain competitive, and social pressures are forcing businesses to do so while caring for our environment. By employing IIoT solutions to optimize conditions and increase productivity, businesses may be able to balance their goals to increase productivity with maintaining a cleaner, safer environment for workers and the community in which they operate.
+ 
+ 5
+
+
+
+Our corporate strategy is to leverage the capabilities of our technology platform to enhance the offerings of our service business and deliver a unique value proposition to our commercial customers defined in terms of return on investment, operational cost savings and unmatched service. Since beginning these undertakings in 2013, we have developed our ArkticTM software platform, which is unique in its open, scalable and interoperable design. We have integrated this software with hardware products of Tatung Company of America, Inc. (“Tatung”). Our services business has completed a number of large scale LED lighting projects and is expanding its services to include oil-to-natural gas boiler conversions and solar PV system installations. In addition, through our acquisition of the SolBright Assets, our strategic focus within the solar industry has been strengthened to significantly increase our design-build competencies for commercial solar projects to enable us to develop solutions to simplify technically challenging projects and deliver unparalleled service and quality to our clients.
+ 
+We believe our combination of technology products, energy services and commercial solar business has positioned our Company as a source for turnkey, cutting-edge solutions that immediately bring value to our customers by reducing costs, conserving energy and seamlessly integrating into their existing systems and has set the stage for additional improvements in the future.
+ 
+Arkados
+ 
+Arkados, our software development subsidiary, was organized in 2004. It develops proprietary, cloud-based device and system management software solutions, which we refer to as the ArkticTM software platform, and delivers software services and support. ArkticTM is an open, scalable and interoperable software platform that supports industrial applications, including applications for smart manufacturing, measurement and verification, as well as predictive analysis, or data gathering for baselining machine performance data and reporting of anomalies. Arkados has licensed its software directly to Tatung for use in their manufacturing facility, as well as through SES to end customers as part of an integrated solution with Tatung hardware products.
+ 
+Efficient software technology enables innovative smart monitoring of devices and features energy management and intelligent control over cloud services. We believe this is ideal for many IIot applications as follows:
+ 
+
+● | Smart Building – data gathering and analysis to improve performance of commercial building systems, such as lighting, HVAC, access control and energy management. Data includes temperature, humidity, illumination and air quality, including CO2 and Volatile Organic Compounds.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Smart Machine – data gathering and analysis to improve industrial and commercial machinery performance. Data includes, but is not limited to, temperature, humidity, vibration, energy consumption and run cycles.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Smart Manufacturing – data gathering and analysis to improve efficiency for manufacturing items. Data includes, but is not limited to, specific machine performance, input/output measurements and defect analysis.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SES
+ 
+SES, our energy conservation services subsidiary, was organized in 2013 and commenced operations in early 2015. SES provides energy conservation services and solutions, including solar engineering, procurement and construction, to commercial and buildings throughout the eastern United States. These services include energy consumption assessments and recommendations, as well as acting as the general contractor for light-emitting diode (“LED”) lighting retrofits, oil-to-natural gas boiler conversions and solar photovoltaic (“PV”) system installation. SES also markets and sells the technology solutions of Arkados to help building owners save money. SES sells its services directly to building owners and managers.
+ 
+SES focuses on the systems throughout commercial and industrial buildings that consume large amounts of energy and operates as an engineering, procurement and construction general contractor, directly with commercial, institutional and industrial clients. After the completion of an energy efficiency audit, we offer customers recommendations on reducing energy demand costs (such as converting to LED lighting), reducing energy supply costs (such as installing a solar PV system) and improving the efficiency across all systems using our advanced building automation system. Additionally, SES’s aim is to increase the return on investment of heating plants and solar PV systems by offering long-term operating and maintenance agreements to clients, supported by cutting-edge tools built on the Arktic™ software platform.
+ 
+ 6
+
+
+
+As a consequence of our acquisition of the SolBright Assets, we have augmented our existing energy service business with solar engineering, procurement and construction. Through SES we have integrated these offerings. SES is a turnkey developer of solar photovoltaic and solar thermal projects for long term, stable, distributed power solutions. We expect that SES’s primary market focus will be military and commercial scale projects, primarily in the 100 kWp to 5,000 kWp size range. SES will offer market assessment, design/engineering, installation, operation and maintenance/monitoring, financing and project ownership (where desired). We believe that SES will have distinct competitive advantages, for ground, parking canopy and roof-top solar applications that ensure continuity with existing/new roof warranties. SES expects to offer a broad range of U.S. and internationally manufactured products, including zero-penetration rooftop solar solutions and innovative, space-leveraging parking canopy/parking garage solar solutions and ground mount systems.
+ 
+From site assessments to permitting, incentive program guidance and advocacy, feasibility analyses, interconnection studies, lease or purchase agreement execution, full service financing, engineering, procurement, construction, and operations and maintenance after project commissioning, SES will strive to be a full service turnkey development firm that will offer, among other things, an industry unique single-point-of-contact for facilities managers to address both roofing and solar service and warranty related requirements.
+ 
+SES provides the following products and services in the named sectors:
+ 
+Renewable Energy Services:
+ 
+
+● | Engineering, Procurement and Construction
+--+------------------------------------------
+
+
+● | Existing Asset/Building Portfolio Analyses
+--+-------------------------------------------
+
+
+● | Site Evaluations & Feasibility Studies
+--+---------------------------------------
+
+
+● | Energy Audits & Assessments
+--+----------------------------
+
+
+● | Third Party System Verification
+--+--------------------------------
+
+
+● | Budgetary & Financial Modeling/Projections
+--+-------------------------------------------
+
+
+● | Federal/State/Treasury Incentive Navigation
+--+--------------------------------------------
+
+
+● | Conventional and Private Investor Financing
+--+--------------------------------------------
+
+
+● | Project Management
+--+-------------------
+
+
+● | Utility Coordination
+--+---------------------
+
+
+● | Local, State, Federal Authority Coordination
+--+---------------------------------------------
+
+
+● | Leasing & Power Purchase Agreements
+--+------------------------------------
+
+
+● | SREC Contracts
+--+---------------
+
+
+● | RFP management
+--+---------------
+
+Renewable Energy Systems:
+ 
+
+● | Crystalline Panel Photovoltaics
+--+--------------------------------
+
+
+● | Free Standing Parking Canopy Systems
+--+-------------------------------------
+
+
+● | Ground Mount PV Farms
+--+----------------------
+
+
+● | Pre-cast Parking Deck Canopy Systems
+--+-------------------------------------
+
+
+● | Landfill PV Expertise
+--+----------------------
+
+
+● | Solar Hot Water Systems
+--+------------------------
+
+
+● | Solar Tracking Systems & Arrays
+--+--------------------------------
+
+
+● | Thin Film Building Integrated Photovoltaics
+--+--------------------------------------------
+
+
+● | High Wind Zone Mounting Solutions
+--+----------------------------------
+
+
+● | Rooftop Power Plants
+--+---------------------
+
+ 
+Construction Service/Management:
+ 
+
+● | Solar Integration – Existing and New Construction
+--+--------------------------------------------------
+
+
+● | Parking Canopy Footings/Piers/Steel Erection
+--+---------------------------------------------
+
+
+● | Roofing - New Construction & Design-Build
+--+------------------------------------------
+
+
+● | Re-Roofing & Roof Renovations
+--+------------------------------
+
+
+● | Electrical Permitting and Installation
+--+---------------------------------------
+
+
+● | Associated Site Work
+--+---------------------
+
+
+● | Warranty Repair Services
+--+-------------------------
+
+
+● | Value Engineering
+--+------------------
+
+
+● | Operation & Maintenance
+--+------------------------
+
+ 
+ 7
+
+
+
+Competitive Advantage:
+ 
+SES provides turnkey project development, project management, technology expertise, utility compliance, contract administration, procurement and integration expertise to the emerging field of solar energy. SES provides skills, manpower and experience supporting the government, military, industrial and commercial building spaces. SES’s mission is to design, build and exceed expectations as a top tier, power-generating facility constructor throughout the Southeast, Mid-Atlantic, New England and military sites nationwide.
+ 
+We believe that our key competitive advantages in the solar space include:
+ 
+
+● | Comprehensive, turnkey project expertise
+--+-----------------------------------------
+
+
+● | Experienced design-build team
+--+------------------------------
+
+
+● | Solution based offering – exclusive and non-exclusive product options
+--+----------------------------------------------------------------------
+
+
+● | Registered PE stamped/sealed drawings
+--+--------------------------------------
+
+
+● | Existing manufacturer’s roof warranty preservation
+--+---------------------------------------------------
+
+
+● | Extensive safety documentation and fall protection plans
+--+---------------------------------------------------------
+
+
+● | NABCEP certified installation personnel
+--+----------------------------------------
+
+
+● | Simplified facilities management: Single point of contact for service and warranty on all renewable energy assets.
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+● | Single entity contract leadership, implementation and accountability
+--+---------------------------------------------------------------------
+
+
+● | Exceptional U.S.-based sourcing partnerships for solar (including foundations, structural steel, roofing, site work, pile driving).
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Industry leading EMR rates and safety records
+--+----------------------------------------------
+
+
+● | Local, regional and super-regional implementation and service capabilities
+--+---------------------------------------------------------------------------
+
+
+● | Comprehensive project development resources from concept to financing
+--+----------------------------------------------------------------------
+
+
+● | Bondable
+--+---------
+
+ 
+With our SolBright’s history of experience in the military market, we believe that SES now possesses specific competitive advantages in this sector, including:
+ 
+
+● | UFC experience and compliance knowledge base
+--+---------------------------------------------
+
+
+● | FAR/BAA/Davis-Bacon/Certified Payroll compliance
+--+-------------------------------------------------
+
+
+● | Experienced and successful design-build and “mid project mod pick-up” team
+--+---------------------------------------------------------------------------
+
+
+● | Expedited submittal process
+--+----------------------------
+
+
+● | SOW related spec sections and approved training submittals
+--+-----------------------------------------------------------
+
+
+● | Locally and regionally based workforce – with existing base clearances
+--+-----------------------------------------------------------------------
+
+
+● | Small business entity status (self-certified, CCR, ORCA, SAM)
+--+--------------------------------------------------------------
+
+Target Markets, Sales and Marketing
+ 
+Arkados
+ 
+Our target market consists of commercial and industrial facilities’ owners and managers. While we can operate nationally, our primary geographic focus is the Eastern United States with a focus on health care, retail, office, education and municipal properties.
+ 
+We currently anticipate conducting the majority of our future sales in conjunction with the sales activities of SES. The scope of our sales activities for Arkados will include acting as a technical sales representative and providing technology support and implementation services and other services in support of the activities of SES.
+ 
+SES
+ 
+We developed a direct sales force to focus mainly on opportunities in the Northeastern region of the United States. These sales activities target commercial facilities owners and managers of virtually all kinds, including commercial office buildings, hospitals, schools, warehouses, hotels, etc. We expect to regularly work with partners in the construction and property management industries to reach the end customers. For the foreseeable future, we expect to maintain our focus on the current region and penetrate the large number of opportunities that exist there. We anticipate supplementing our direct sales force with other representatives and channel partners. The scope and development of our sales and marketing organization will depend, among other things, on the amount of capital available to us in the future.
+ 
+ 8
+
+
+
+With respect to SES’s solar business, our target market consists of commercial and industrial facilities’ owners and managers. While we can operate nationally, our primary geographic focus is the Eastern United States with a focus on health care, retail, office, education and municipal properties.
+ 
+Competition
+ 
+Arkados
+ 
+Arkados faces competition in the IIoT market for smart building/smart grid industries segments from multiple companies. There are several large players within the smart building market including, but not limited to, Johnson Controls, Siemens, Honeywell International and General Electric. These companies provide sophisticated building management systems for large commercial facilities and have essentially dominated the playing field for many years. We believe the landscape, however, is changing as technology advances and legacy systems become outdated and expensive to maintain. As the paradigm shifts to open and scalable solutions for building management, we believe that Arkados can gain a competitive advantage over time. Initially, we seek to integrate our systems as a value-added upgrade or enhancement to existing management systems. In the future, depending on conditions, we may seek to expand our offerings to compete head on with the larger players.
+ 
+Additionally, there are early stage technology companies that represent direct competition to Arkados, including Optimum Energy and Enertiv. These companies are focused on data gathering and analytics to improve building efficiency and ultimately save money. We believe that we are unique initially in our approach. Our turnkey solutions are very flexible and highly customizable. Secondly, we believe that our business model and strategic relationships allow us to be price competitive, which drives higher return on investment for our customers. Finally, we believe that the best competitive advantage is high customer satisfaction and that our dedication to delivering the best, most innovative solutions to our customers ultimately allows us to compete favorably.
+ 
+SES
+ 
+The competition for LED lighting and building automation solutions is highly competitive. Large LED lighting companies such as General Electric, Phillips and Cree, as well as a large number of China-based manufacturers, represent significant competition to SES for LED lighting. In addition, companies such as Johnson Controls, Rockwell Automation and Schneider Electric represent significant competition to SES for building automation solutions. While these companies potentially represent sources of product for SES as a system integrator, there are situations where these companies are competing directly with SES, particularly for large commercial customer opportunities. We also face competition from a large number of Energy Savings Companies (“ESCOs”) in the Northeast region of the United States.
+ 
+The competition related to the SolBright Assets business is highly competitive. Large companies such as SolarCity, SunPower, Vivint Solar and others represent significant competition to SES as fully-integrated solar companies. While these companies potentially represent sources of product for SES as an EPC company, there are situations where these companies are competing directly with SES, particularly for large commercial or utility-grade solar installations.
+ 
+Research and Development
+ 
+Arkados
+ 
+Research and development in a rapidly changing technology environment is one of the keys to our success. We allocate resources as much as possible within our current operational limits to explore and exploit advancements in mobile and cloud computing, data processing technologies, wireless and broadband technologies and energy storage technologies that will lead to new products and services within our core competencies. These include the development of new software with a focus on M2M bridges, building networks and the Internet of Things within the smart building/smart machine areas via our strategic partnerships. We plan to engage in certain activities in pursuit of further commercial development as opportunities arise from these relationships.
+ 
+ 9
+
+
+
+In 2015, we introduced our Process and Event Management System for Smart Factory, or PEMS-SF. This system is intended to improve efficiency of a factory by use of Arkados’ software solutions residing in the factory’s computer systems and in Arkados’ cloud computing platform. This was the introduction of what we now call our Arktic™ software platform.
+ 
+In May 2016, our focus shifted to applying our Arktic™ platform to the commercial building market to complement our energy services business, and we rolled out a new product for smart buildings called Energy Management Panel, or EMP. EMP is a measurement and verification process for quantifying the savings achieved by energy conservation measures. We expect to also continuously explore ways of improving this initial version of the EMP and expand new product offerings in the future.
+ 
+Arkados and SES had aggregate research and development expenses of $2,650 and $68,439 for the years ended May 31, 2018 and 2017, respectively.
+ 
+Intellectual Property
+ 
+We maintain the federal registration of our “Arkados” trademark and own the “Arktic” trademark through use in commerce. In addition, through the acquisition of the SolBright Assets, we own the corporate name and logo for “SolBright Renewable Energy, LLC,” the slogan “The most dependable EPC in the industry,” the tradenames “SolBright” and “SolBright Renewable Energy” and the website www.solbrightre.com. Other than the foregoing, we do not own any other patents, licenses or trademarks.
+Government Approvals and Regulations
+ 
+We are not subject to any governmental regulation and are not required to maintain any specific licenses.
+ 
+Employees
+ 
+As of September 18, 2018, we had 9 full-time employees. We intend to hire additional staff and to engage consultants in general administration on an as-needed basis. We also intend to engage experts in operations, finance and general business to advise us in various capacities. None of our employees are covered by a collective bargaining agreement, and we believe our relationship with our employees is good to excellent.
+ 
+Our future success depends, in part, on our ability to continue to attract, retain and motivate highly qualified technical, marketing, and management personnel. However, we currently continue to rely on the services of independent contractors for much of our sales/marketing. We believe technical, accounting and other functions are also critical to our continued and future success.
+ 

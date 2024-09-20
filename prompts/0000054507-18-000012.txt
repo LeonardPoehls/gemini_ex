@@ -1,0 +1,162 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+GENERAL
+Overview
+We are the largest electric utility in Kansas. Unless the context otherwise indicates, all references in this Annual Report on Form 10-K to “the Company,” “we,” “us,” “our” and similar words are to Westar Energy, Inc. and its consolidated subsidiaries. The term “Westar Energy” refers to Westar Energy, Inc., a Kansas corporation incorporated in 1924, alone and not together with its consolidated subsidiaries.
+We provide electric generation, transmission and distribution services to approximately 708,000 customers in Kansas. Westar Energy provides these services in central and northeastern Kansas, including the cities of Topeka, Lawrence, Manhattan, Salina and Hutchinson. Kansas Gas and Electric Company (KGE), Westar Energy’s wholly-owned subsidiary, provides these services in south-central and southeastern Kansas, including the city of Wichita. Both Westar Energy and KGE conduct business using the name Westar Energy. Our corporate headquarters is located at 818 South Kansas Avenue, Topeka, Kansas 66612.
+Strategy
+We expect to continue operating as a vertically integrated, regulated electric utility. Significant elements of our strategy include maintaining a flexible, clean and diverse energy supply portfolio. In doing so, we continue to expand renewable generation, build and upgrade our energy infrastructure and develop systems and programs with regard to how our customers use energy and interact with us. In addition, we entered into an amended and restated agreement and plan of merger with Great Plains Energy that provides for a merger of equals between the two companies. The closing of the merger is subject to customary closing conditions, including receipt of regulatory approvals. See “Item 1A. Risk Factors” and Note 3 of the Notes to Consolidated Financial Statements, “Pending Merger,” for additional information.
+OPERATIONS
+General
+As noted above, we supply electric energy at retail to customers in Kansas. We also supply electric energy at wholesale to municipalities and electric cooperatives in Kansas, and have contracts for the sale or purchase of wholesale electricity with other utilities.
+Following is the percentage of our revenues by customer classification. Classification of customers as residential, commercial and industrial requires judgment and our classifications may be different from other companies. Assignment of tariffs is not dependent on classification. 
+
+ | Year Ended December 31,
+ | 2017 | | 2016 | | 2015
+Residential | 32 | % | | 33 | % | 31 | %
+Commercial | 28 | % | | 29 | % | 29 | %
+Industrial | 16 | % | | 16 | % | 16 | %
+Wholesale | 12 | % | | 12 | % | 13 | %
+Transmission | 11 | % | | 9 | % | 10 | %
+Other | 1 | % | | 1 | % | 1 | %
+Total | 100 | % | | 100 | % | 100 | %
+
+7
+
+The percentage of our retail electricity sales by customer class was as follows:
+
+ | Year Ended December 31,
+ | 2017 | | 2016 | | 2015
+Residential | 32 | % | | 33 | % | 33 | %
+Commercial | 38 | % | | 39 | % | 39 | %
+Industrial | 30 | % | | 28 | % | 28 | %
+Total | 100 | % | | 100 | % | 100 | %
+
+Generating Capability and Firm Capacity Purchases
+We have 6,602 megawatts (MW) of generating capability in service. Further, we purchase electricity pursuant to long-term contracts from renewable generation facilities with an installed design capacity of 1,232 MW. See “Item 2. Properties” for additional information about our generating units. Our generating capability and net generation by source as of December 31, 2017, are summarized below.
+
+Source | Capability (MW) | Percent ofTotal Capability | | Net Generation(MWh) | Percent of Total Net Generation 
+Coal | 3,250 | | 41 | % | 14,855,367 | 54 | %
+Nuclear | 552 | | 7 | % | 5,004,571 | 18 | %
+Natural gas/diesel | 2,370 | | 31 | % | 1,712,307 | 6 | %
+Renewable (a) | 1,662 | | 21 | % | 6,161,823 | 22 | %
+Total | 7,834 | | 100 | % | 27,734,068 | 100 | %
+
+_______________
+
+(a) | Due to the intermittent nature of wind generation, 230 MW of net accredited generating capacity is associated with our wind generation facilities.
+
+In 2017, we generated or purchased the equivalent of 58% of our total retail sales from emission-free resources. These resources also made up 40% of our total net generation. 
+In March 2017, we completed construction and placed into operation Western Plains Wind Farm, a wind generating facility with a designed installed capability of 281 MW.
+Our aggregate 2017 peak system net load of 5,242 MW occurred in July 2017. Our net accredited generating capacity, combined with firm capacity purchases and sales and potentially interruptible load, provided a reserve margin of 17% above system peak responsibility at the time of our 2017 peak system net load, which satisfied Southwest Power Pool, Inc. (SPP) planning requirements.
+Under wholesale agreements, we provide firm generating capacity to other entities as set forth below.
+
+Utility (a) | Capacity (MW) | Expiration
+Mid-Kansas Electric Company, LLC | 174 | | January 2019 
+City of Chanute | Up to 45 | | December 2020
+Midwest Energy, Inc. | 115 | | May 2022 
+Kansas Power Pool | 59 | | December 2022
+Midwest Energy, Inc. | 150 | | May 2025 
+Total | 543 | | 
+
+_______________
+
+(a) | Under a wholesale agreement that expires in May 2039, we provide base load capacity to the city of McPherson, Kansas, and in return the city provides peaking capacity to us. During 2017, we provided approximately 95 MW to, and received approximately 144 MW from, the city. The amount of base load capacity provided to the city is based on a fixed percentage of its annual peak system load. The city is a full requirements customer of Westar Energy. The agreement for the city to provide capacity to us is treated as a capital lease. 
+
+8
+
+Fuel Matters
+The effectiveness of a fuel to produce heat is measured in British thermal units (Btu). The higher the Btu content of a fuel, the smaller the volume of fuel that is required to produce a given amount of electricity. We measure the quantity of heat consumed during the generation of electricity in millions of British thermal units (MMBtu).
+The table below provides our weighted average cost of fuel, including transportation costs.
+
+ | 2017 | | 2016 | | 2015
+Per MMBtu: | | | | | 
+Nuclear | $ | 0.64 | | | $ | 0.68 | | $ | 0.66
+Coal | 1.80 | | | 1.80 | | | 1.77 
+Natural gas | 3.55 | | | 3.24 | | | 3.64 
+Diesel | 12.51 | | | 11.51 | | | 15.55
+All generating stations | 1.74 | | | 1.76 | | | 1.74 
+Per MWh Generation: | | | | | 
+Nuclear | $ | 6.45 | | | $ | 6.91 | | $ | 6.72
+Coal | 20.25 | | | 19.71 | | | 19.78
+Natural gas/diesel | 34.29 | | | 31.80 | | | 37.16
+All generating stations | 18.16 | | | 18.37 | | | 18.44
+
+Our wind production, which produced 22% of our total generation, has no associated fuel costs and is, therefore, not included in the table above. 
+Fossil Fuel Generation
+Coal
+Jeffrey Energy Center (JEC): The three coal-fired units at JEC have an aggregate capacity of 2,175 MW, of which we own or lease a combined 92% share, or 2,001 MW. We have a long-term coal supply contract with Blackjewel Marketing and Sales, LLC to supply coal to JEC from surface mines located in the Powder River Basin (PRB) in Wyoming. The contract contains a schedule of minimum annual MMBtu quantities or assesses a charge to the extent the minimum quantities are not achieved. All of the coal used at JEC is purchased under this contract, which expires December 31, 2020. The contract provides for price escalation based on certain costs of production. The price for quantities purchased in excess of the scheduled annual minimum is subject to redetermination every five years to provide an adjusted price for the ensuing five years that reflects the market prices at the time of redetermination. The most recent price adjustment was effective January 1, 2018.
+The BNSF Railway Company (BNSF) and Union Pacific Railroad Company transport coal to JEC under long-term rail transportation contracts. The terms of these contracts continue through December 31, 2020, at which time we plan to enter into new contracts. These contracts provide for minimum annual deliveries or assess a charge to the extent the minimum deliveries are not achieved. The contract price in each contract is subject to price escalation based on certain costs incurred by the railroads.
+La Cygne Generating Station (La Cygne): The two coal-fired units at La Cygne have an aggregate generating capacity of 1,398 MW. Our share of the units is 50%, or 699 MW, of which we either own directly or consolidate through a variable interest entity (VIE). La Cygne uses primarily PRB coal but one of the two units also uses a small portion of locally-mined coal. The operator of La Cygne, Kansas City Power & Light Company (KCPL), arranges coal purchases and transportation services for La Cygne. Approximately 90% of La Cygne’s PRB coal requirements are under contract for 2018. About 80% of those commitments under contract are fixed price for 2018. As the PRB coal contracts expire, we anticipate that KCPL will negotiate new supply contracts or purchase coal on the spot market.
+All of the La Cygne PRB coal is transported under KCPL’s rail transportation agreements with BNSF through 2018 and Kansas City Southern Railroad through 2020. These contracts provide for minimum annual deliveries or assess a charge to the extent the minimum deliveries are not achieved.
+9
+
+Lawrence and Tecumseh Energy Centers: Lawrence and Tecumseh Energy Centers have an aggregate generating capacity of 550 MW. We purchase PRB coal for these energy centers under a contract with Arch Coal, Inc. that provides for 100% of the coal requirements for these facilities through 2019. The contract provides for minimum annual deliveries or assesses a charge to the extent the minimum deliveries are not achieved. BNSF transports coal for these energy centers under a contract that expires in December 2020. 
+Natural Gas
+We use natural gas as a primary fuel at our Gordon Evans, Murray Gill, Hutchinson, Spring Creek and Emporia Energy Centers and at the State Line facility. We can also use natural gas as a supplemental fuel in the coal-fired units at Lawrence and Tecumseh Energy Centers. Natural gas accounted for approximately 7% of the total MMBtu of fuel we consumed and approximately 15% of our total fuel expense in 2017. From time to time, we may enter into contracts, including the use of derivatives, in an effort to manage the cost of natural gas. For additional information about our exposure to commodity price risks, see “Item 7A. Quantitative and Qualitative Disclosures About Market Risk.”
+We maintain a natural gas transportation arrangement for Hutchinson Energy Center with Kansas Gas Service. The agreement has historically expired on April 30 of each year and is renegotiated for an additional one-year term. We meet a portion of our natural gas transportation requirements for Gordon Evans, Murray Gill, Lawrence, Tecumseh and Emporia Energy Centers through firm natural gas transportation capacity agreements with Southern Star Central Gas Pipeline (SSCGP). We meet all of the natural gas transportation requirements for the State Line facility through a firm transportation agreement with SSCGP. The firm transportation agreement that serves Gordon Evans and Murray Gill Energy Centers expires in April 2020, and the agreement for Lawrence and Tecumseh Energy Centers expires in April 2030. The agreement for the State Line facility extends through October 2022, while the agreement for Emporia Energy Center is in place until December 2028, and is renewable for five-year terms thereafter. We meet all of the natural gas transportation requirements for Spring Creek Energy Center through an interruptible month-to-month transportation agreement with ONEOK Gas Transportation, LLC. 
+Diesel
+We use diesel to start some of our coal generating stations, as a primary fuel in the Hutchinson No. 4 combustion turbine and in our diesel generators. We purchase No. 2 diesel in the spot market. We maintain quantities in inventory that we believe will allow us to facilitate economic dispatch of power and satisfy emergency requirements. We do not use significant amounts of diesel in our operations.
+Nuclear Generation
+General
+Wolf Creek is a 1,174 MW nuclear power plant located near Burlington, Kansas. KGE owns a 47% interest in Wolf Creek, or 552 MW. Wolf Creek’s operating license, issued by the NRC, is effective until 2045. Wolf Creek Nuclear Operating Corporation, an operating company owned by each of the plant’s owners in proportion to their ownership share of the plant, operates the plant. The plant’s owners pay operating costs proportionate to their respective ownership share. 
+Fuel Supply
+Wolf Creek has on hand or under contract all of the uranium and conversion services needed to operate through March 2027. The owners also have under contract all of the uranium enrichment and all of the fabrication services required to operate Wolf Creek through March 2027 and September 2025, respectively. All such agreements have been entered into in the ordinary course of business. 
+Operations and Regulation
+Plant performance, including extended or unscheduled shutdowns of Wolf Creek, could cause us to purchase replacement power, rely more heavily on our other generating units and/or reduce amounts of power available for us to sell in the wholesale market. Plant performance also affects the degree of regulatory oversight and related costs. 
+10
+
+Wolf Creek normally operates on an 18-month planned refueling and maintenance outage schedule. As authorized by our regulators, incremental maintenance costs of planned refueling and maintenance outages are deferred and amortized ratably over the period between planned refueling and maintenance outages. In the fall of 2016, Wolf Creek underwent a planned refueling and maintenance outage. Our share of the outage costs was approximately $24.2 million. In early 2018, Wolf Creek will undergo a planned maintenance outage. We expect our share of the outage to be approximately $21.8 million.
+
+The NRC evaluates, monitors and rates various inspection findings and performance indicators for Wolf Creek based on safety significance. Although not expected, the NRC could impose an unscheduled plant shutdown due to security or safety concerns. Those concerns need not be related to Wolf Creek specifically, but could be due to concerns about nuclear power generally or circumstances at other nuclear plants in which we have no ownership.
+See Note 14 of the Notes to Consolidated Financial Statements, “Commitments and Contingencies,” and “Item 1A. Risk Factors,” for additional information regarding our nuclear operations.
+
+Wind Energy
+Wind is our primary source of renewable energy. As of December 31, 2017, we owned approximately 430 MW of designed installed wind capability and had under contract the purchase of wind energy produced from approximately 1,225 MW of designed installed wind capability. In March 2017, we placed Western Plains Wind Farm into service, a wind generating facility with a designed installed capability of 281 MW.
+Purchased Power
+In addition to generating electricity, we also purchase power.  Factors that cause us to purchase power include contractual arrangements, planned and unscheduled outages at our generating plants, favorable wholesale energy prices compared to our costs of production, weather conditions and other factors. In 2017, purchased power comprised approximately 32% of our total fuel and purchased power expense. Our weighted average cost of purchased power per Megawatt hour (MWh) was $23.01 in 2017, $24.82 in 2016 and $27.28 in 2015. 
+Transmission
+Regional Transmission Organization
+The Federal Energy Regulatory Commission (FERC) requires owners of regulated transmission assets to allow third parties non-discriminatory access to their transmission systems. We are a member of the SPP RTO and transferred the functional control of our transmission system, including the approval of transmission service, to the SPP. The SPP coordinates the operation of our transmission system within an interconnected transmission system that covers all or portions of 14 states. The SPP collects revenues for the use of each transmission owner’s transmission system. Transmission customers transmit power purchased and generated for sale or bought for resale in the wholesale market throughout the entire SPP system. Transmission capacity is sold on a first come/first served non-discriminatory basis. All transmission customers are charged prices applicable to the transmission system in the zone where energy is delivered, including transmission customers that may sell power inside our certificated service territory. The SPP then distributes as revenue to transmission owners the amounts it collects from transmission users less an amount it retains to cover administrative expenses. 
+Southwest Power Pool Integrated Marketplace
+We participate in the SPP Integrated Marketplace (IM), which is similar to organized power markets currently operating in other RTOs. The IM impacts how we commit and sell the output from our generation facilities and buy power to meet the needs of our customers. The SPP has the authority to start and stop generating units participating in the market and selects the lowest cost resource mix to meet the needs of the various SPP customers while ensuring reliable operations of the transmission system.
+Transmission Investments
+We own a 50% interest in Prairie Wind Transmission, LLC (Prairie Wind), which is a joint venture between us and Electric Transmission America, LLC, which itself is a joint venture between affiliates of American Electric Power Company, Inc. and Berkshire Hathaway Energy Company. In 2014, Prairie Wind completed construction on, and energized, a 108-mile 345 kV double-circuit transmission line that is now being used to provide transmission service in the SPP. 
+11
+
+We continue to evaluate and participate in transmission planning activities in accordance with FERC Order No. 1000, which revised FERC’s process for planning enhancements and expansions of the electric transmission grid and the corresponding process for allocating costs thereof, in areas we believe it makes sense to do so. We believe we have opportunities to develop transmission infrastructure, including projects pursuant to which we, as the incumbent, have a right of first refusal and those projects that are subject to the Order No. 1000 competitive processes. However, we currently have no investments associated with Order No. 1000 in our forecasted capital expenditure table, and the merger will change the manner and extent to which we continue to participate in the Order No. 1000 process.
+
+Regulation and Our Prices
+Kansas law gives the Kansas Corporation Commission (KCC) general regulatory authority over our retail prices, extensions and abandonments of service and facilities, the classification of accounts, the issuance of some securities and various other matters. We are also subject to the jurisdiction of FERC, which has authority over wholesale electricity sales, including prices, the transmission of electric power and the issuance of some securities. We are subject to the jurisdiction of the NRC for nuclear plant operations and safety. Regulatory authorities have established various methods permitting adjustments to our prices for the recovery of costs. For portions of our cost of service, regulators allow us to adjust our prices periodically through the application of a formula that tracks changes in our costs, which reduces the time between making expenditures or investments and reflecting them in the prices we charge customers. However, for the remaining portions of our cost of service, we must file a general rate review, which lengthens the period of time between when we make and recover expenditures and a return on our investments. See Note 4 of the Notes to Consolidated Financial Statements, “Rate Matters and Regulation,” for information regarding our rate proceedings with the KCC and FERC.
+Environmental Matters
+We are subject to various federal, state and local environmental laws and regulations. Environmental laws and regulations affecting our operations are overlapping, complex, subject to changes, have become more stringent over time and are expensive to implement. Such laws and regulations relate primarily to air quality, water quality, the use of water and the handling, disposal and clean-up of hazardous and non-hazardous substances and wastes, including coal combustion residuals (CCRs). These laws and regulations oftentimes require a lengthy and complex process for obtaining licenses, permits and approvals from governmental agencies for new, existing or modified facilities. If we fail to comply with such laws, regulations and permits, or fail to obtain and maintain necessary permits, we could be fined or otherwise sanctioned by regulators, and such fines or the cost of sanctions may not be recoverable in our prices. We have incurred and will continue to incur capital and other expenditures to comply with environmental laws and regulations.
+See “Item 1A. Risk Factors” and Notes 4 and 14 of the Notes to Consolidated Financial Statements, “Rate Matters and Regulation - KCC Proceedings - Environmental Costs” and “Commitments and Contingencies - Environmental Matters,” respectively, for more information regarding environmental trends, risks and laws and regulations.
+Safety and Health Regulation
+The safety and health of our employees is vital to our business. We are subject to a number of federal and state laws and regulations, including the Occupational Safety and Health Act of 1970. We have measures in place to promote the safety and health of our employees and to monitor our compliance with such laws and regulations. 
+Information Technology
+We rely upon information technology networks and systems to process, transmit and store electronic information, and to manage or support a variety of business processes and activities, including the generation, transmission and distribution of electricity, supply chain functions and the invoicing and collection of payments from our customers. These networks and systems are in some cases owned or managed by third-party service providers. Cybersecurity breaches, criminal activity, terrorist attacks and other disruptions to our information technology infrastructure, including infrastructure owned by third-parties we utilize, could interfere with our operations, could expose us or our customers or employees to a risk of loss and could expose us to liability or regulatory penalties or cause us reputational damage or other harm to our business. We have taken measures to secure our network and systems, but such measures may not be sufficient, especially due to the increasing sophistication of cyberattacks. See “Item 1A. Risk Factors” for additional information.
+SEASONALITY
+12
+
+Our electricity sales and revenues are seasonal, with the third quarter typically accounting for the greatest of each. Our electricity sales are impacted by weather conditions, the economy of our service territory and other factors affecting customers’ demand for electricity.
+EMPLOYEES
+As of February 14, 2018, we had 2,205 employees, 1,117 of which were covered by a contract with Locals 304 and 1523 of the International Brotherhood of Electrical Workers that extends through June 30, 2018.
+ACCESS TO COMPANY INFORMATION
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K are available free of charge either on our Internet website at www.westarenergy.com or through requests addressed to our investor relations department. These reports are available as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC. The information contained on our Internet website is not part of this document.
+EXECUTIVE OFFICERS OF THE COMPANY
+
+
+Name | Age | Present Office | | Other Offices or PositionsHeld During the Past Five Years
+Mark A. Ruelle | 56 | | Director, President and Chief Executive Officer (since August 2011) | | 
+Bruce A. Akin | 53 | | Senior Vice President, Power Delivery (since January 2015) | | Westar Energy, Inc.Vice President, Power Delivery (February 2012 to December 2014) 
+Jerl L. Banning | 57 | | Senior Vice President, Operations Support and Administration(since January 2015) | | Westar Energy, Inc.Vice President, Human Resources and IT (January 2014 to December 2014)Vice President, Human Resources (February 2010 to December 2013)
+John T. Bridson | 48 | | Senior Vice President, Generation and Marketing (since January 2015) | | Westar Energy, Inc.Vice President, Generation (February 2011 to December 2014) 
+Gregory A. Greenwood | 52 | | Senior Vice President, Strategy (since August 2011) | | 
+Anthony D. Somma | 54 | | Senior Vice President, Chief Financial Officer and Treasurer (since August 2011) | | 
+Larry D. Irick | 61 | | Vice President, General Counsel and Corporate Secretary (since February 2003) | | 
+Kevin L. Kongs | 55 | | Vice President, Controller (since November 2013) | | Westar Energy, Inc.Assistant Controller (October 2006 to November 2013) 
+
+Executive officers serve at the pleasure of the board of directors. There are no family relationships among any of the executive officers, nor any arrangements or understandings between any executive officer and other persons pursuant to which he was appointed as an executive officer.
+13
+

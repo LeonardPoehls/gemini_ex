@@ -1,0 +1,325 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+Company Overview 
+ 
+We are a provider of advanced renewable power generation and power conversion technology for the distributed energy sector. We design, manufacture and service a suite of proven permanent magnet direct-drive (“PMDD”) wind turbine platforms for the distributed wind market, as well as power converters for battery energy storage applications. Starting in 2016, we now provide integrated energy storage solutions and commenced efforts, in 2017, to develop sites for energy storage projects to provide end users with turn-key distributed energy solutions. Historically, we licensed our utility-class wind turbine platform, which uses the same PMDD technology as our distributed turbines, to large manufacturers. In October 2016, we completed the transfer of these technology rights, which enabled us to focus our efforts on the distributed energy business. With our predecessor companies dating back to 1974, we have decades of experience in developing proven innovative energy solutions in the power generation and conversion space.
+ 
+Our PMDD wind turbine technology is based on a simplified architecture that utilizes a unique combination of a permanent magnet generator and direct-drive design. The permanent magnet generator provides higher efficiency and higher energy capture than units that utilize a traditional gearbox design. Importantly, our direct-drive turbine design requires significantly fewer moving parts than traditional geared turbines, which increases reliability due to reduced maintenance and downtime costs. Since our early days of pioneering this technology, PMDD has become an industry standard.
+ 
+Our current sales are primarily in the small wind subset of the distributed wind market, which is commonly known to consist of turbines with rated capacities of 500 kW output or smaller. Based on the number of turbines that we have sold and installed to date, we consider ourselves a leader in the U.S., U.K., and Italy in the largest sub-segment of this market in terms of energy output, turbines ranging in size from 50 kW to 100 kW. Since the introduction of our second generation 60 kW and 100 kW PMDD wind turbines in late 2008, we have sold over 800 of these turbines. To date, these units, in the aggregate, have run for over twenty million hours. Our distributed wind customers include financial investors and project developers, but also the end users themselves such as farms, schools, municipalities, businesses, remote villages, and U.S. military installations.
+ 
+Historically, our largest markets for wind turbines have been the UK and Italy. Sales of our turbines in these countries, have been driven and supported by government sponsored feed-in-tariff programs or economic incentives. Unfortunately, the Italian feed-in-tariff for distributed wind that boosted sales in 2017 expired on June 30, 2017 without extension. Uncertainty in the marketplace regarding the status of a new feed-in-tariff and prolonged delays surrounding the drafting, approval, adoption and ultimately the implementation of a new feed-in-tariff regime in Italy for distributed wind, together with uncertainty surrounding the Italian election and government, has halted sales of our distributed wind products in Italy. Accordingly, the Company will be restructuring operations to maintain manufacturing activity consistent with market traction. The Company plans to commence and complete a limited near-term manufacturing run to satisfy current orders and a number of anticipated orders. Following the completion of this batch manufacturing run, the Company has determined that it would be best for our long-term financial position to temporarily suspend full-scale manufacturing activities for its distributed wind business until the third quarter of 2018, when the new Italian feed-in-tariff for distributed wind is expected to be implemented. With this transition to batch manufacturing in mind, among other measures, we will take steps to reduce our workforce. We anticipate that with the expected implementation of the new feed-in-tariff in the fourth quarter of 2018, Italy, once again, will be a robust market for our distributed wind turbines. While manufacturing is suspended, the Company will continue to sell and market its products across the globe and all orders will be slotted to be manufactured in the third quarter of 2018.  Similarly, sales in the UK have slowed due to the transmission and/or distribution network congestion, restricted grid connections and political uncertainties, including Brexit and regulatory policies.
+ 
+We had developed a 2 MW turbine platform with three wind-speed regime variants based upon our PMDD technology, of which the 2.3 MW variant is certified to International Electrotechnical Commission, or IEC, standard 61400-1 by Det Norske Veritas, or DNV, a globally recognized certification firm. On October 26, 2016, we entered into a definitive agreement for WEG Electric Corp. and WEG Equipamentos Elétricos S.A. (collectively, “WEG”), to acquire certain of our utility wind assets. Under the agreement, the proven utility scale direct drive technology we developed are solely owned by WEG and its affiliates.
+ 
+Regarding the power electronics product line, we have been developing our power converter technology since the early 2000s. Our capabilities in this area resulted from the complex power conversion technology required for wind power generation. We currently sell our MW power converters for a range of applications under the branded name of FlexPhase. Our power electronics products are incorporated into our distributed wind turbines, and also sold independently for use in microgrids and energy storage projects. Our FlexPhase products are modular in nature allowing for a common platform to service multiple applications. As of December 31, 2017, we have deployed over 180 MW of products based on this technology, primarily in connection with our wind turbine designs. Currently, we are actively commercializing sales of our power converters products as part of integrated battery energy storage systems (“BESS”), working with various battery manufactures and systems integrators.
+ 
+In addition to wind turbine and productized energy storage solutions, we are developing sites for energy storage projects and provide technology development services to customers for more complex energy storage, microgrid, and grid stabilization situations. While our efforts to develop sites for energy storage projects and providing technology development services to customers are in the early stages, these capabilities and expertise serve as a differentiator for our company with our customers.
+ 
+For the years ended December 31, 2017 and 2016, we generated $38.6 million and $35.9 million in revenue, respectively. For the years ended December 31, 2017 and 2016 we had net income of $0.1 million and incurred a net loss of $8.9 million, respectively. We have an accumulated deficit of $177.2 million as of December 31, 2017.
+ 
+We are headquartered and our principal manufacturing is in Barre, Vermont, and certain finance and business development teams are located in Massachusetts, with additional sales offices in Zurich, Switzerland, and sales and service office in Bari, Italy, and warehousing and manufacturing in Bisaccia, Italy, and Cornwall, U.K. We previously operated under the name Wind Power Holdings, Inc. and was originally incorporated in Delaware on August 12, 2008. Our common shares are listed on the Toronto Stock Exchange under the symbol “NPS”.
+ 
+
+3
+-
+
+Our Products and Services
+ 
+Distributed Wind 
+ 
+We have developed two wind turbine platforms for the distributed wind market which we manufacture and sell on a global basis. Our 100 kW and 60 kW turbines, which we market under the names NPS 100 and NPS 60, generate electricity for use by farms, remote villages, schools, municipalities, businesses and U.S. military installations. These wind turbines are currently generating electricity in the U.S., U.K., Italy, Canada, South Korea, and certain Caribbean nations, including the Bahamas and the U.S. Virgin Islands. The NPS 100-21 is designed for high wind sites and is also available in an Arctic configuration for use in extreme temperatures. The NPS 100-24 is designed to deliver optimal power generation in low to moderate wind speeds. For the European market, we offer the NPS 60 turbine, which is designed to capture optimal power generation at lower wind speeds and targeted at markets where grid connection capacity is a constraint. All of our distributed-class wind turbines are available with three different tower heights to maximize the benefits from siting conditions and comply with permitting requirements.
+ 
+Our third generation of turbines has a larger swept area and superior aerodynamic blade technology over our previous models, which, based on our engineering modeling, yields improvements in energy capture of approximately 15% over our second generation turbine. It also reduces our customers’ total cost of ownership as the cost of installation has reduced. In addition, we designed the turbine nacelle to be smaller and require fewer components, and as such it reduced our costs to produce the turbines.
+ 
+Energy Storage Solutions and Power Converters 
+ 
+In addition to wind turbines, we are commercializing sales of our power converters based on our proprietary FlexPhase technology for complex energy applications ranging from 250 kW to over 5 MW. These energy applications include both grid-connected and off-grid energy storage markets as well as microgrid applications, grid stabilization and power quality enhancement. FlexPhase is our modular power converter platform and uses a proprietary architecture to reduce stress on critical power components. We have upgraded our FlexPhase converter platform such that it can be better integrated into BESS applications.
+ 
+In 2016 we commenced commercializing integrated energy storage solutions with certain battery storage technology partners and in 2017 we commenced efforts to develop sites for energy storage projects. Our primary focus is to control and develop sites in order to deploy our power converters and our energy solutions expertise to provide integrated solutions involving our battery storage technology and management software with our FlexPhase converters, controls expertise and ability to provide full-scope installation services. Currently we are seeing areas in the North America market where the demand for such offerings is evolving. This is a more nascent market for us and as such we will continue to evaluate our investment, approach to market, and partners in this space.
+ 
+Services 
+ 
+We provide technical support for our SmartView supervisory control and data acquisition system. SmartView is a remote monitoring and control system which we developed to allow users to monitor and manage system operation, issue control commands, respond to faults and alarms, and capture energy system data.
+ 
+As part of our total service offering, we install turbines for our customers and perform commissioning services to ensure that the turbine is ready to begin generating power. We typically provide a two-year warranty for our wind turbines that commences after commissioning and offer three more years of extended warranty for an additional charge. During the warranty period, we monitor the turbines 24 hours a day and cover parts and labor for unscheduled repairs and replacement.
+ 
+We also enter into operations and maintenance, or O&M, agreements with customers under which we provide scheduled and unscheduled maintenance. These O&M agreements typically range from one to three years, and the customer pays us a fixed fee for scheduled maintenance and receives a 20% discount from our commercial rates for unscheduled maintenance. In certain markets, we have begun offering a ten-year O&M agreement under which we provide scheduled and unscheduled maintenance and guarantee the performance of the turbine to particular specifications during the term, and we receive a variable fee based on the electricity generated by the turbines subject to the agreement. We utilize both our employees and certified third-party contractors to provide warranty, maintenance and support services. Our use of a network of certified service partners who are located in geographic proximity to our customers reduces our costs of providing these services and also enables us to quickly dispatch components and technicians to the particular site.
+ 
+We may offer annual availability guarantees to customers who exceed minimum unit purchase requirements and purchase an O&M agreement. The offer guarantees annual availability as a percentage of total possible availability adjusted based on factors including downtime for scheduled maintenance, grid unavailability, and wind speed and weather conditions falling outside of operation range. We may also guarantee power output levels at varying wind speeds. The settlement of claims against the guaranty may take the form of liquidated damages or discounts on future product purchases. To date, we have not had to pay any significant monetary damages for non-performance or underperformance.
+ 
+
+4
+-
+
+Wind Industry Overview 
+ 
+Wind power has been one of the fastest growing sources of electricity generation globally over the past decade. The Global Wind Energy Council, or GWEC, in its Global Wind Statistics 2016 report, issued in October 2017, states that installed capacity of wind power deployments globally has increased more than 300% since 2008. Furthermore, according to the U.S. Department of Energy, or the DOE, 2016 Distributed Wind Market Report, between 2003 and the end of 2016, over 77,000 wind turbines were deployed in distributed application across all 50 states, Puerto Rico, and the U.S. Virgin Islands, totaling 992 MW in cumulative capacity. In 2016, 25 states added 45 MW of new distributed wind capacity, representing 2,585 units and $163 million in investment. The growth in the industry is largely attributable to increasing cost competitiveness with other power generation technologies and growing public and governmental support for renewable energy driven by concerns regarding the security of conventional fossil fuel energy supply, as well as the environmental benefits of wind power. National targets for wind and other renewables are also driven by individual countries’ efforts to produce energy domestically, increase employment, build domestic industries, and replace other forms of power generation, such as coal and nuclear.
+ 
+As global demand for electricity generation from wind power has increased, technology enhancements, supported by government incentives, have yielded increased power output while the cost of wind power has dropped. According to the Renewables 2017 Global Status Report, or the 2017 Renewables Report, published by the Renewable Energy Policy Network, or REN21, wind power is playing a major role in power supply in an increasing number of countries, including: China, the U.S., Germany, India, Brazil, France, Turkey, the Netherlands, the U.K. and Canada. By the end of 2016, over 90 countries had seen commercial wind power activity, and 29 countries had more than 1 GW in operation. Furthermore, wind power annual additions for 2016 was 55 GW, with a total global capacity of 487 GW.
+ 
+Wind power also is expanding in the distributed wind market. This market is made up of turbines connected on the customer side of the power meter, designed to meet onsite electrical loads as well as to feed into distribution or microgrids, thereby reducing energy costs at the site of use. The comparable cost of distributed wind energy is the cost for landed power, which is the cost for other forms of energy generation to be produced as well as delivered to the location of consumption.
+ 
+A subset of the distributed wind market is the small wind market, with small wind turbines commonly defined as those with rated capacities between 1 kW and 500 kW. We currently sell distributed wind turbines with rated capacities of 60 kW and 100 kW. We estimate that our current target addressable market in distributed wind is approximately 50% of the market in Italy and 20% of the market in the U.K. and in the U.S. We believe there are addressable geographic markets for our distributed wind products outside of these three geographic markets, and to date have sold products in certain of these other geographies such as the Caribbean and South Korea, but we are not able to estimate the size of these markets.
+ 
+Distributed wind energy generation has seen improvements in technology driving its cost effectiveness and expanding adoption.
+ 
+Key Drivers of Demand for Wind Power and Power Systems 
+ 
+We believe the following factors have driven, and will continue to drive, the growth of wind power globally:
+ 
+Requirement for New Electricity Generating Capacity 
+ 
+The International Energy Agency, or IEA, in its World Energy Outlook 2017 Executive Summary says that one of the large-scale shifts in the global energy system is the rapid deployment and falling costs of clean energy technologies, including a 25% decline in costs for wind since 2010. Furthermore, renewable energy, including wind power, capture two-thirds of the global investment in power plants as they become, for many countries, the least-cost source of new generation.
+Governmental Policies and Incentives 
+ 
+Government incentives continue to be one of the main drivers for developing wind energy technology and increasing capacity. Although government support programs differ from country to country, a number of countries have implemented incentive schemes, thus providing various types of subsidies to wind power developers and long-term tariffs. Historically, we and our customers have benefited from fiscal incentives applicable to investments in the wind power industry by federal, state and local governments in the U.S. and Europe. Changes in these policies have affected, and will continue to affect, the investment plans of our customers and us, as well as our business, financial condition and results of operations.
+
+5
+-
+
+
+
+There are certain feed-in-tariff regimes in Italy, the U.K. and certain states within the U.S. supporting the installation and operation of distributed-class wind turbines. Published information from the U.K. indicates that the feed-in-tariff rates and deployment caps by rated capacity have declined on a quarterly basis. The Italian authorities have drafted a new law that is currently under review. The new law provides for a feed-in-tariff from the date of publication until December 31, 2020. It is expected that the new law will be effective by the fourth quarter of 2018, with a first registry opening for feed-in-tariff applications for small wind projects scheduled for November 2018. Although it is expected that the 2018-2020 feed-in-tariff will become effective by the fourth quarter of 2018, there is no guarantee it will be approved and implemented in a timely manner or at favorable rates.
+ 
+In the U.S., the Bipartisan Budget Act of 2018 renewed Investment Tax Credits (ITC) for renewal energy products that were left out of the 2015 legislation. For distributed wind projects there is a 30% ITC for projects that begin prior to 2020, 26% ITC for projects that begin in 2020 and 22% ITC for projects that begin construction in 2021.
+ 
+Our third generation distributed turbine offers customers meaningfully improved economics that make the turbines more relevant for regions that do not have economic incentives. As we continue sales in our core markets we expect to continue to expand our product offering and sales force to increase our sales in other regions.
+ 
+Continued Improvements in Wind Power Technologies 
+ 
+Wind turbine technology has evolved significantly over the last 20 years and technological advances are expected to continue in the future. These technological advances include:
+ 
+
+• | advances in wind power generation technology, particularly the introduction and advancement of permanent magnet direct-drive wind turbines, which have increased power production and efficiency per turbine;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | advances in wind turbine blade aerodynamics and development of variable speed generators to improve conversion of wind energy to electricity over a range of wind speeds, resulting in higher capacity factors and increased capacity per turbine;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | advances in turbine height, resulting in the ability to benefit from greater wind speeds at higher elevations;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | advances in remote operation and monitoring systems;
+--+-----------------------------------------------------
+
+
+• | improvements in wind monitoring and forecasting tools, allowing for more accurate prediction of electricity generation and availability and for better system management and reliability; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | advances in turbine maintenance, resulting in longer turbine life.
+--+-------------------------------------------------------------------
+
+Global Commitment to Reduce Climate Change 
+ 
+Growing Environmental Concerns 
+ 
+The growing concern over the environmental consequences of greenhouse gas emissions has contributed to the growth of wind power generation. According to the World Meteorological Organization, 2017 ranked among the three warmest years on record. Among the largest emitters of greenhouse gases in the world, the U.S. and the E.U. have experienced growing awareness of climate change and other effects of greenhouse gas emissions, which has resulted in increased demand for emissions-free electricity generation. As an emissions-free electricity source, wind power is an attractive alternative that is capable of addressing these growing environmental concerns.
+ 
+In December 2015, at the U.N. Framework Convention on Climate Change in Paris, known as COP 21, an agreement was reached creating a fundamentally new course in the global climate control effort. The agreement reaffirmed the goal of limiting the increase in global temperatures to below 2 degrees Celsius, while urging countries to limit the increase to 1.5 degrees Celsius. To achieve this goal, the agreement also addressed establishing binding commitments to achieve the overall goal as well as regular reporting on progress, reaffirmed the obligations of developed countries to support developing countries, extend the annual support to 2025 as well as several other initiatives.
+ 
+Various legislation, regulations and incentives designed to support the growth of wind energy have been implemented or proposed by the U.S. government such as the Production Tax Credit for Renewable Energy (PTC) and the Clean Power Plan, an Obama administration policy aimed at combating global warming. In addition, states and foreign governments also have adopted various legislations, regulations and incentives also designed to support the growth of wind energy.
+ 
+However, since taking office in 2017, President Donald J. Trump has taken a variety steps that undermine various clean energy programs, industries and initiatives. On March 28, 2017, President Donald Trump signed the Executive Order on Energy Independence (E.O. 13783), which calls for a review of the Clean Power Plan and since this time the US EPA has continued to explore how it may repeal or replace the Clean Power Plan. Similarly, in June 2017, President Trump announced the United States’ withdrawal from the U.N. Framework Convention on Climate Change in Paris, designed to curtail global warming.
+ 
+
+6
+-
+
+Increasing Obstacles for Conventional Power Projects 
+ 
+Despite some recent efforts by the Trump Administration, coal and nuclear power projects continue to face significantly increasing capital costs due to steep environmental hurdles and regulatory uncertainty in the U.S. and across the globe. These hurdles range from complications relating to the disposal of spent fuel to concerns over operational safety and the need to fulfill carbon control requirements. Wind power, in contrast, does not create solid waste by-products, emit greenhouse gases or deplete non-renewable resources during operation, and, as a result, is an attractive alternative to fossil fuel-fired power projects. The U.S. Energy Information Administration, or USEIA, in its Annual Energy Outlook 2018 examined its Reference case and projected that electricity consumption will increase at an average annual rate of 0.9% from 2017 to 2050. Continuing a recent trend toward lower levels of carbon-intensive generation, natural gas and renewable generation meet almost all of the increase.
+ 
+Wind and solar generation account for nearly two-thirds of the growth in renewable generation. Solar is the fastest-growing renewable generation source, but wind accounts for the largest absolute increase in generation. Wind becomes the single largest source of renewable generation by 2040, supplanting hydropower as the largest renewable generation source.
+ 
+Outlook for Energy Prices 
+ 
+We expect that increased demand for electricity coupled with a finite supply of fossil fuels, and capacity and distribution constraints, including volatility in fossil-fuel prices, will result in volatility, but generally continued increases, in electricity prices. The recent shale gas boom has kept current natural gas prices in the U.S. relatively low, while the rest of the world continues to see significantly higher prices. Increasing demand from Asia and a future export market for liquefied natural gas from the U.S. is expected to drive gas price increases throughout the world in coming years. The IEA estimates a reversal of excess gas in the U.S. as exports pick up, combined with more gas use in transportation, to drive prices steadily higher into the 2020s. Additionally, electricity generation from natural gas is either exposed to volatility in natural gas prices or is priced at a premium for medium-term, fixed-price gas supply contracts. Wind power projects, in contrast, typically contract for long periods (e.g., 20 years) at fixed prices. As a result, and given the lack of fuel costs associated with wind power projects, we believe that wind power has become cost competitive with conventional power projects, and that this cost competitiveness will contribute to further growth in wind power.
+ 
+In the distributed generation market for smaller turbines, we expect that the opportunity for land owners to generate electricity both for personal and business use, as well as to sell net energy produced back to the local utility, will continue to drive demand for wind power. In remote, off-grid locations where a connection to the utility grid is not available, we believe that hybrid systems that combine a wind turbine with an energy source such as a diesel generator, battery energy storage, or photovoltaic system, will continue to proliferate to provide an alternative to higher energy prices.
+ 
+Price of Other Renewables 
+ 
+As highlighted the Bloomberg New Energy Outlook 2017, levelized cost of energy, or LCOE, for renewables, including distributed wind and solar, continues to decrease while the same measure for fossil fuel increases. The LCOE, which includes the capital, operating, and any financing costs of an NPS 100 kW wind turbine over at least a 20-year operating life, has reached parity or better with electricity purchased from the grid. As highlighted in the Bloomberg New Energy Outlook 2017, looking out to 2040 wind and solar costs drop. Offshore wind levelized costs will decrease 71% by 2040 and the cost of onshore wind will fall 47% in the same period. The decrease in onshore wind costs are the result of cheaper, more efficient turbines and streamlined operating and maintenance procedures.
+Our Strategy
+ 
+We are focused on being a leader in the commercialization of distributed-wind turbines, and strategically leveraging our proprietary technology by expanding our product offerings in power generation and power conversion and developing sites for energy storage projects. Key elements of our strategy include:
+ 
+Continuing to drive sales growth in distributed wind 
+ 
+We intend to expand our business in the growing distributed wind power market, by improving the economics of our product offerings for our customers and deepening our relationships with our existing customers as well as adding new customers. In addition, we plan to capitalize on the growth opportunities for distributed wind power by furthering our technology leadership, assisting in third-party financing solutions, and customizing our offerings to efficiently reach targeted new geographies.
+ 
+
+7
+-
+
+
+
+Pursue growth opportunities for power conversion product line 
+ 
+We have developed and qualified our FlexPhase modular power converters to meet varying energy management and storage system needs by engineering a highly flexible, modular system architecture and integrating scalable controls. Since these power converters were developed under constrained spatial specifications, they have greater power density and represent more advanced technology than most utility-scale power converters currently in the market. As a result, we believe that our power converters can be adapted to a wide variety of applications. Going forward, we intend to continue to customize our proprietary power conversion technology for developing applications and market our products to pursue revenue opportunities outside of use in wind turbines, such as the battery energy storage system (BESS) market. With the increase in use of renewable energy coupled with the improved price and performance of batteries, the need for battery energy storage is growing and we are pursuing opportunities to use our FlexPhase technology to address this need, including developing sites for energy storage projects. Other energy applications include both grid-connected and off-grid energy storage markets, developed by third parties, as well as microgrid applications, grid stabilization and power quality enhancement. We are currently working with advanced battery technology suppliers and energy management companies to cost-effectively market our products and technologies in BESS and related markets. As we proceed, we will continue to review our performance within these applications and markets to determine the appropriate level of resources we commit.
+ 
+Maintain our technology leadership and expand our intellectual property position 
+ 
+We believe that we have established technology leadership through decades of experience in designing, manufacturing, and deploying wind turbines ranging in size from 60 kW to 2.3 MW, all of which utilize our PMDD technology.  This technology leadership resulted in over 85 patents and patent applications worldwide covering power electronics, generator and turbine design, turbine servicing, manufacturing methods, energy storage and turbine operation, and further includes significant copyrights, know-how and trade secrets in these fields. As part of the utility wind asset sale on October 26, 2016, WEG acquired the portion of this technology and associated intellectual property directed to utility wind scale products of greater than 1.5 MW, and has licensed us back under patents and other intellectual property assigned for all other uses.  We currently own 29 patents and patent applications, throughout the world.
+ 
+Optimize supply chain management 
+ 
+We will continue to build our supplier network by identifying new suppliers, directly or through relationships established by our strategic partners, and working with our existing suppliers to develop relevant technological advancements. In addition, we intend to continue to target an optimal balance between in-house production and sourcing from external suppliers. We expect that these supply chain initiatives, in combination with our engineering efforts, will continue to reduce the cost to manufacture our products, lower our customers’ overall costs, and permit us to gain access to new markets that are not dependent on incentive programs or other government policies.
+ 
+Our Technological Strengths
+ 
+We believe that the following strengths enable us to compete effectively in the wind power technology and renewable energy industries and to capitalize on the growth of those industries.
+Extensive Research and Development Expertise 
+ 
+Over the past several decades, we have developed a broad portfolio of intellectual property. Notable technologies we have developed include our highly efficient, but low cost, permanent magnet generator, our modular turbine design, our full power converter, and our voltage stabilization capabilities. In addition, we have expanded our capabilities by offering development services in the renewable energy sector for a variety of complex energy applications, including energy storage, microgrids, and grid stabilization. Our engineering team has worked together extensively in designing and building turbines ranging in size from 60 kW to 2.3 MW, as well as power conversion systems for turbines and other applications. Going forward, we expect to leverage our core research and development capabilities to pursue continued advances in our current products as well as the development and refinement of new products and applications.
+Advanced Product Offerings
+ 
+Our wind turbines are designed for high availability, high energy output and low energy production cost per kWh in a wide range of wind conditions throughout the world. In our distributed-class wind platforms, we offer a range of power ratings, rotor sizes and tower heights to meet customer and siting requirements in a range of a wind classes. For example, our NPS 100-24 and NPS 60-23 turbines are designed with a larger rotor diameter and longer blades to capture more energy at lower wind speeds, while their lower RPM and tip speed make for quieter operation to comply with permitting restrictions. The longer blades provide our wind turbines a larger swept area and a lower cut-in wind speed, the minimum speed at which the turbine can start rotating and generating power. This feature increases the overall output of our wind turbines, particularly under low wind conditions.
+
+8
+-
+
+
+
+Our FlexPhase power converter technology is based on a modular architecture that is configurable for a wide range of energy storage usages including lithium-ion, lead acid, flow battery chemistry, aqueous chemistries, flywheel and ultacompacitors. The configurable nature of the platform will enable Northern Power to pursue business with a wide range of OEM’s without incurring excessive R&D expenses to support the different technologies. The FlexPhase platform is also compact, efficient, and serviceable, all of which make it attractive for integration with a broad range of technologies.
+ 
+Robust Products
+ 
+Since the introduction of our second generation 60 kW and 100 kW PMDD wind turbines in late 2008, we have sold over 800 of these turbines, which have run for over twenty million hours in the aggregate. Our fleet of turbines is performing at greater than 98% availability. We engineer our wind turbines to withstand a variety of harsh conditions in severe environments, such as those in Alaska, the Caribbean and Scotland, by designing in features such as reinforced blades and a triple braking system. Certain turbines of our distributed wind fleet have several million run time hours without incident despite being in locations that have experienced hurricane speed winds. For example, in 2017, turbines installed in the Bahamas and in Texas withstood the winds of Hurricane Irma and Hurricane Harvey, and then returned to normal operation, as designed. In addition, the Arctic models of our turbines operate safely in temperatures as low as -40°F during the winter months and have special design and safety features to assure high levels of uptime even at such extreme temperatures. Therefore, we believe that our products are well-suited for reliable operation in nearly all environments.
+Established Customer Relationships with Developers 
+ 
+We serve a global customer base for our distributed-class wind turbines that includes project developers and financial investors, primarily located in the U.K. and Italy. We have developed deep customer relationships with a number of our customers, each of which has extensive experience developing wind and other renewable energy projects in Europe. With our track record of on-time delivery and our turbines’ successful operating history, which is a direct contributor to our customers’ ability to finance the purchase of our turbines, we believe we will continue to generate orders from existing and future customers.
+Our Technology
+ 
+We believe that our proprietary PMDD and full power converter technology differentiates us from other wind turbine companies and provides us with a competitive advantage. In addition, we believe that our systems engineering approach to advanced power system architectures, combined with real world experience with hybrid energy applications, gives us a competitive advantage in the emerging fields of microgrid, hybrid power, and battery energy storage solutions.
+Gearless Direct-Drive Technology 
+ 
+Our turbine’s generator and rotor are directly coupled and move together at the same speed, without the need for a gearbox. By eliminating the gearbox, we have simplified the drivetrain design and reduced the number of moving parts and wear items. We believe that this gearless design benefits our customers with high-reliability turbines that have lower operating costs and greater efficiency. Geared turbines typically operate at high speeds of 1,000 to 1,800 RPM and involve a complex drivetrain with many gears, bearings and ancillary lubrication and cooling systems. By comparison, our direct-drive turbines are simple in design and operate at slow speeds of approximately 10 to 20 RPM for utility wind applications and 50 to 60 RPM for distributed wind applications. The simplicity of the design is demonstrated by the fact that our turbines only have two drive bearings, as opposed to the more than 50 drive bearings that most geared turbines require. Our turbines outperform traditional gearbox competitor technology in three critical areas:
+
+• | Improved reliability: Due to the slower speed of rotating hardware, all critical rotating components and their associated electronics experience much lower physical stress and fewer cycles than those in traditional gearbox turbines. Additionally, the inherently simpler direct-drive construction requires far fewer parts than a traditional turbine design. The substantially lower part count, reduced stress and lower cycle count in the direct-drive platform eliminate many opportunities for part failure while also reducing the complexity of procurement, construction and operation. These elements contribute to our turbines achieving greater than 98% availability, as compared to 95% or lower for traditional turbines.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Lower operating and maintenance costs: Due to of the simplicity of our drivetrain and the overall lower part count of our turbines, maintenance costs are greatly reduced. Geared turbines typically require gearbox replacement every seven to nine years, which results in both high costs and significant downtime. These costs are avoided with our gearless turbines, the drive trains of which are designed to operate over their full design life without major component replacements.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+
+• | Higher efficiency: Directly coupling the generator and rotor increases mechanical efficiency versus traditional geared turbines. Further, there is no friction lost in the meshing of gear teeth. Electrical efficiency is maximized in the generator because the magnetic field is supplied by permanent magnets, which means there is no need to recirculate power from the generator to excite the field. Additionally, the presence of cabling, power conversion and the main transformer inside the nacelle rather than down in the tower reduces copper losses from the long, low voltage cable running down the tower and permits ventilation allowing the wind to help cool electronics. These increased mechanical and electrical efficiencies allow our turbines to yield a higher net energy capture than traditional turbines.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Permanent Magnet Generator 
+ 
+Our proprietary permanent magnet generator is central to our innovative drivetrain design. In addition, our power converters enable our wind turbines to operate at variable speeds for higher energy capture, which we believe provides greater stability to the electrical transmission system than other wind turbines. Our proprietary low speed permanent magnet generator is optimized for efficient energy capture.
+ 
+Our permanent magnet generator was designed at a systems level in conjunction with our power converter to create an optimized solution tailored for high energy capture and low operating costs. The generator in the NPS 60 and NPS 100 turbine models is cooled directly by the wind.
+ 
+We continue to be a leading provider of permanent magnet direct-drive turbine in the distributed wind market. Furthermore, we believe that our utility-class permanent magnet generators, now marketed by WEG for applications over 1.5 MW, have three primary advantages over other utility-class permanent magnet technology:
+ 
+
+• | Advanced cooling systems which improve thermal conditions, thus increasing robustness and extending turbine life;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Improved electrical efficiency due to our patented power converter as well as a unique turbine architecture with all electronics up-tower; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Proprietary modular generator and power converter design, which combined with an on-board crane, greatly reduces operating risk and lowers the cost of service.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Power Converter 
+ 
+Another key element of our innovative direct-drive wind turbine design is the power converter used to connect the permanent magnet generator output to the local power system. We currently design and manufacture the power converters for our wind turbines and energy storage systems at our Barre, Vermont facility, with complete hardware, control design and software capabilities. Our full power conversion provides high quality power while also isolating the generator turbine from grid disturbances that could cause damage and downtime, as well as removing the requirement for any external energy for excitation in the energy generation process. Our power converter technology and platform offers these key benefits:
+
+• | Our proprietary FlexPhase power converter combines a unique circuit design with a high bandwidth control system to provide generator management, power quality, and grid support features.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our power converter has controls that can be tuned to optimize operation in multiple non-wind applications and has a liquid-cooled design that can be adapted to any environment.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our FlexPhase circuit architecture lowers ripple current at the DC side of the converter, minimizing battery heat generation in energy storage applications.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our liquid-cooled design allows the converters to be environmentally sealed and offer high power density and a smaller footprint.
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The FlexPhase converter also provides improved efficiency over a wide range of power levels and high power quality to support multiple applications. The FlexPhase converter platform offers a modular approach with a small footprint and 20-year design life.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The NPS 60 and NPS 100 wind turbine power converters use the same advanced control systems platform found in the FlexPhase platform, providing reliable and high efficiency operation even on the weak grid systems found in remote village applications.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The features and benefits of our FlexPhase power converter platform make it well suited for other non-wind energy applications, including utility-scale energy storage, advanced grid support, and critical load support applications.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+10
+--
+
+Advanced Power Systems Architectures 
+ 
+We believe that through our use of advanced modeling, the incorporation of modern power electronics and rapid prototyping, we are able to effectively and efficiently meet the varied demands of emerging applications for products and services such as energy storage, voltage and frequency regulation, renewable generation integration and other advanced demand response and grid stabilization applications. In addition, our power conversion and controls technologies are well suited to balancing supply with demand, increasing power quality and reliability for the end-use customer, and reducing distribution losses to create a more efficient system. We have applied the same system-level approach that we have mastered in the design of our wind turbines and considered both the generation and the demand side together to engineer a cost-effective, robust system for cost effective stable power generation throughout the grid.
+Customers 
+ 
+Our distributed wind customers include financial investors and project developers, but also the end users themselves in applications that provide power for farms, schools, municipalities, small businesses, remote villages, and U.S. military installations.
+ 
+Financial investors provide equity capital and raise debt capital, typically from a commercial bank, to build and deploy wind turbines. Financial investors typically look to generate a leveraged return by selling the electricity back to the grid in the form of a feed-in-tariff where the regulatory jurisdiction permits, or sell power to end users who can reduce the cost of electricity by switching away from higher priced power sources.
+ 
+Owners and operators of projects invest in wind power to reduce the cost that they pay for electricity by switching away from higher priced power sources. These project developers tend to finance through commercial banks and hope to generate a payback over the first few years of operation of the asset.
+ 
+For the year ended December 31, 2017, M F Energia accounted for approximately 13% of our total revenues. For the year ended December 31, 2016, ElectroGroup accounted for approximately 11% of our total revenues.
+ 
+Competition 
+ 
+In domestic and international markets for renewable energy sources served by wind energy, we face competition from companies offering various types of wind turbines.
+ 
+Our primary competitors in the distributed wind market are GHRE, ESPE and other emerging market entrants. We also compete with several smaller providers of distributed-class wind products including C&F, Criel, Enerwings, EolArt, Ergo Wind, Greenstorm, Orenda, Polaris, Rago, Stoma, Svecom PE, WES, Xant and Xzeres. We may face increased competition in the future, including from large, multinational companies with significant resources.
+ 
+In the area of power converter systems (PCS) or inverters for energy storage or for energy storage systems (ESS) which includes controls and other balance of system elements to support batteries Northern Power competes against the following companies; Dynapower, Parker, ABB, Siemens, Ideal Power, Princeton Power, Eaton, S&C Electric, SMA, and others. These competitors are primarily for power electronics or energy storage systems in 250kW to 1000kW configurations which in some cases will be used for multi-megawatt projects.
+ 
+With respect to our wind turbine products, we also face competition from other sources of renewable energy, such as solar, hydro, biomass, wave and geothermal, and from conventional energy sources, including natural gas, oil, and nuclear.
+ 
+Intellectual Property 
+ 
+Our intellectual property portfolio includes 29 patents and patent applications worldwide, know-how, copyrights, registered trademarks and trade secrets, covering many aspects of our products including power electronics, generator and turbine design, energy storage and turbine operation. We recently assigned 58 patents and patent applications to WEG as part of the utility wind asset sale, and received a license back to make, use and sell distributed wind products, and utility wind products of 1.5 MW or less, covered by these patents.  Our currently issued patents expire on dates ranging from July 2022 to July 2032. We believe our current patent portfolio, our patent license from WEG, and our expected ability to obtain licenses from other parties to the extent necessary, along with our other intellectual property protections noted below, will provide us with sufficient proprietary rights to develop and sell our products.
+
+11
+--
+
+
+
+We control access to our proprietary technology by entering into confidentiality and invention assignment agreements with employees, consultants, partners, vendors and customers. However, policing unauthorized use of our technologies, services and intellectual property is difficult, expensive and time-consuming, particularly in foreign countries where the laws may not be as protective of intellectual property rights as those in the U.S. and where mechanisms for enforcement of intellectual property rights may be weak. We may be unable to determine the extent of any unauthorized use or infringement of our services, technologies or intellectual property rights.
+ 
+From time to time, legal action by us may be necessary to enforce our patents and other intellectual property rights, to protect our trade secrets, to determine the validity and scope of the intellectual property rights of others or to defend against claims of infringement or invalidity. We may also be subject to claims by third parties alleging that we infringe upon their intellectual property rights or have misappropriated other proprietary rights. Such litigation could result in substantial costs and diversion of resources and could negatively affect our business, operating results and financial condition. If we are unable to protect our intellectual property rights, we may find ourselves at a competitive disadvantage to others who need not incur the additional expense, time and effort required to create the innovative services that have enabled us to be successful to date.
+ 
+We use various trademarks and trade names in our business, including Northern Power Systems, Northern Power, NPS, FlexPhase and SmartView, some of which we have registered in the U.S. and in various other countries. This Annual Report on Form 10-K also contains trademarks and trade names of other businesses that are the property of their respective holders. We have omitted the ® and ™ designations, as applicable, for the trademarks we name in this Annual Report on Form 10-K.
+ 
+Employees 
+ 
+As of December 31, 2017, we had 72 full-time employees. We also rely on temporary hourly employees to staff our manufacturing operations at levels targeted to meet our production needs during any given period. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We have not experienced any employee-initiated work stoppages and we consider our relations with our employees to be good.
+Financial Information 
+ 
+The financial information required under this Item 1 is incorporated herein by reference to Part II, Item 8 of this Annual Report on Form 10-K.
+ 
+Where You Can Find More Information 
+ 
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act are available through the investor relations portion of our website (www.northernpower.com) free of charge as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission, or SEC. Information on our investor relations page and on our website is not part of this Annual Report on Form 10-K or any of our other securities filings unless specifically incorporated by reference. In addition, our filings with the SEC may be accessed through the SEC’s EDGAR system at www.sec.gov. All statements made in any of our securities filings, including all forward-looking statements or information, are made as of the date of the document in which the statement is included, and we do not assume or undertake any obligation to update any of those statements or documents unless we are required to do so by law.

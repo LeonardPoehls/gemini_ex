@@ -1,0 +1,92 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Business Strategy Overview and Products
+ 
+APT Systems, Inc. was incorporated in the State of Delaware on October 29, 2010. APT is a Fintech company that specializes in the creation of innovative platforms. We are focusing on the mobile device market where we intend to develop trading systems and publish custom technical analysis indicators for in-house use and licensing to third parties. In order to advance itself, APT Systems recently published KenCharts for the handheld market to test its mobile development choices and business plan. We are focusing our early attention on the charting software we own and rewriting the code to provide a native chart app for both iOS and Android platforms. This charting tool and the charts that it produces can be configured to the user’s preferred view such as a line chart or candlestick, and the user is able to adjust the chart indicators and intervals as desired. We plan to utilize delayed time feed initially and later, real time data networks for our subscription revenue model. Along with great graphic techniques, we will provide solutions that can speak to the mobile needs demanded by the next generation of equity and commodity traders. However, these tools can be invigorated with leading edge gaming graphics and networking technology to become fully interactive trading-assistance software.
+ 
+We work to identify prospective acquisition opportunities with existing cash flow and then continue with due diligence efforts that will and do include testing software performance. We expect negotiations prior and in this quarter to result in purchases in next quarter.
+ 
+The Company has not as yet generated significant sales revenues as its key products are still under development but our first charting app was released in this fourth quarter. Start-up operations to date have consisted of the formation of the Company, development of its business plan, identification of its target market, naming its trading software Intuitrader, incorporating subsidiaries and expanded research towards the development of its platform software. However, the company was able to engage in selling advertising in apps, eBook sales, and testing its trading strategies in a limited fashion that all contributed minimal revenues.
+ 
+We have not been subject to any bankruptcy, receivership or similar proceeding to date.
+ 
+In our third quarter, the company launched a wholly owned Delaware subsidiary named Snapt Games, Inc. on August 4, 2017. Management admires graphic techniques used in the gaming industry and wants to selectively introduce these to its charting tools and trading platforms. The company acquired its first game app for $3,500, rebranded it Chick Chick Boom and then in September released the app worldwide in both Apple and Android app stores. In November, the company formally launched its second ‘swipe three’ game called Hogg Wild. The next game to be launched is Candy Chefs and we intend to put it out before this summer.
+
+4
+
+On September 9, 2017, the Company formed and incorporated a second wholly owned subsidiary named RCPS Management, Inc. in Colorado. This company will concentrate on the development of payment and escrow systems under the brand Verifundr. The technical documentation is completed and the company is ready to begin building this platform that will employ Blockchain to build its escrow contracts. The agreement related to this process is pending payment prior to beginning work. The company became a member of the Enterprise Ethereum Alliance last November.
+ 
+As a Fintech company developing its platforms, APT services and products can later extend to include:
+ 
+
+
+Financial Software and Analytical Software Development 
+ 
+
+Algorithmic Applied Technology 
+ 
+
+Trading Platforms and Exchanges, Linked to User Brokerage Accounts 
+ 
+
+Explore Smart Contracts using our Enterprise Ethereum Alliance membership 
+ 
+
+Use Blockchain to develop platforms for cryptoassets based on ERC-20 protocols 
+ 
+The steps remaining for us to begin selling our products listed above are to finalize the programming and rewriting of the existing software used in our products, specifically our dimensional charting tools and trading platform, begin sales and marketing campaigns, contact prospective licensees, and deliver our products, which we expect to complete in less than 90 days after our initial contact with prospective licensees. Our app would be available to users on a subscription fee plan and we plan to grant licenses for our app to financial companies and brokerage firms for use by their employees and clients. The goal is to have our product used by both handheld (tablet and Smartphone application users) and web based clients.
+ 
+The Company continues to explore open source Blockchain technology for its platforms that include escrow and payments. Technical documentation to support its stated intent to build escrow platform, exchanges with charts and information for cryptocurrency has been completed, and is being reviewed by legal counsel. The Company continues to explore how to deliver under the Verifundr brand and the development of associated products.
+ 
+The Company retained additional legal counsel to go over matters regarding the escrow, payments and cryptocurrency platforms and it was formally announced that William Uchimoto has joined our team.
+ 
+The Company is pleased to work with the student led Triton Fund and the Company has donated 5,000,000 shares to form part of their legacy fund, and to ensure many students to come will obtain the benefits of working with entrepreneurs and venture capital mentors. The students filed a trade mark, the Millennial Touch, to help with the marketing challenges of their portfolio companies and to provide feedback to the CEOs. The Company issued 5,000,000 to Triton Fund LLC as a donation; the donation supports the initiative founded by undergraduates from the University of California, San Diego (UC San Diego) and provided a press release accordingly on April 30, 2018.
+ 
+Kencharts for iOS was released at the end of January. The Company has engaged additional developers from Computools to help finish the Android version of Kencharts. It is anticipated that this next app version will be available by mid-June or earlier. The Company is also exploring a version of Kencharts that will deliver data on cryptoassets as currently delivered on its website at www.altcoinquotes.io.
+ 
+Our mailing address is in an executive suite facility at 505 Montgomery Street, 11th Floor, San Francisco, CA 94111 which also provides office services, computer access and meeting space on demand. We consider this current executive office space arrangement adequate for our current operations and will reassess our needs annually based upon the future growth of the Company. Our fiscal year end is January 31st.
+ 
+Needs Assessment
+ 
+Management believes the principal growth area in the personal computer market today is that of Smartphones and portable tablet devices. These mobile devices usually allow full time internet connectivity which makes them an ideal stage for a mobile equity-trading platform and charting tool. Instead of merely importing existing software to allow on-the-go research and trading, we envision for our future products an information-dense and interactive display of the financial markets. At this time, we believe that the future interactive display will include three-dimensional imaging that we intend to use to provide information in new ways that can better assist novice users learning about publicly traded companies and those users who are trading equities in the public markets.
+
+5
+
+Distribution methods of the products or services
+ 
+To facilitate marketing plans, our products and platforms will be available initially in the “App Store” managed by Apple Inc. Later, these same products will be available to audiences that prefer using other Smartphones such as Google’s Android and other platforms. Especially in the case of Apple, these companies will provide marketing infrastructure to help developers reach their users and justify costs charged related to selling products from their app stores. All new marketing options within North America will be fully explored and implemented as it makes sense to do so. We plan to launch beta testing campaigns as well to attract prospective subscribers and garner suggestions for improvements.
+ 
+Organization
+ 
+We are comprised of three corporations to date and do not rule out the future possibility of acquiring or creating additional subsidiaries.
+ 
+Competition
+ 
+The market for financial services software and services is competitive, rapidly evolving and highly sensitive to new product introductions and marketing efforts by industry participants, although high conversion costs can create barriers to adoption of new products or technologies. The market is fragmented by the different offers and served by both large-scale firms as well as firms that target only local markets or specific types of clients such as the millennial crowd. We also face competition from information systems developed and serviced internally by the IT departments of large financial services firms. We believe that we can compete effectively by providing software contained in a mobile application, which provides proprietary buy/sell suggestions, and a platform to enhance trading ability of users, although some of our existing competitors and potential competitors have substantially greater financial, technical, distribution and marketing resources than we have currently and may offer products with different functions or features that are more attractive to potential customers than our offerings.
+ 
+Moreover, it is not our intent to compete with larger financial services firms, but rather to facilitate more trades by better informing our joint clients and providing them with better trading tools. The trading tools such as charts may be licensed to these same banks and brokers or subscribed to by users, directly in apps. We are broker agnostic and believe that we can work with the banks and brokerage firms who offer online and Smartphone trading access by providing them with the opportunity to generate additional commissions from their existing client base.
+ 
+Contracted Consultants
+ 
+Our directors currently provide their time and undertake duties as directors without compensation for these services. At the time the Company derives sufficient cash flow from operations or financing, the Company will evaluate the ability to compensate our directors and future directors.
+ 
+Effective November 1, 2013, the Company began to accrue a monthly salary of $5,000 per month for the President on an ongoing basis. Accrued officer compensation as of January 31, 2018 and January 31, 2017 was $230,300 and $170,300, respectively. As resolved earlier, the accrued compensation for quarter ending October 31, 2016 will only be paid out after January 1, 2018 as and when the directors decide the Company has sufficient liquidity to pay some, or all, of the amounts accrued in cash or by issuing shares. The period for paying out the accrued $170,300 due has been extended until after January 31, 2019. The President of the Company can also consider submitting a request to the Board of Directors for permission to convert some, or all, of her accrued compensation into shares of the Company’s common stock on payments due above of $170,300, but only after January 1, 2018. The share price considerations will be either the publicly quoted share price, when such a publicly quoted price is available; or equal to or above the last cash price the Company recorded for the sale of its common shares to third parties. The President returned 15,000,000 restricted common shares that were paid against accruals in December 2017.
+ 
+Intellectual Property Information
+ 
+Our success and ability to compete will be dependent to a significant degree on our intellectual property, which may include our trade name, trading models, visual chart styling and platform functionality. We intend to develop our technology internally and further acquire software. We will rely primarily on trade secret, trademark, copyright, domain name, patent and contract law to protect our intellectual property. It is our intention to enter into confidentiality, intellectual property invention assignment and/or non­competition and non-solicitation agreements or restrictions with our employees, independent contractors and business partners, and to control access to and distribution of our intellectual property. Currently, we do not have any registered copyrights or patents; however, we may obtain such registrations in the future.
+
+6
+
+Government Regulation
+ 
+We do not expect to be subject to material governmental regulation. However, it is our policy to fully comply with all governmental regulation and regulatory authorities.
+Research and Development
+ 
+We have incurred minimal cost in the fiscal years ended January 31, 2018 and 2017, respectively, on research and development of our website and mobile applications that was included as part of consulting services incurred to date. We plan to spend further funds on research and development activities in the future as the development of our software applications continue if we are able to raise the necessary funding.
+Environmental Compliance
+ 
+We believe that we are not subject to any material costs for compliance with any environmental laws.
+ 
+

@@ -1,0 +1,159 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.  BUSINESS
+Recent Developments
+ 
+On December 7, 2017, the Company and Silicon Laboratories Inc., (“Silicon Labs”) announced a definitive agreement under which Silicon Labs and Sequin Merger Subsidiary, Inc. were to acquire the Company, subject to certain closing conditions. On January 23, 2018, the Company announced that due to certain closing conditions not being satisfied, the parties would instead move forward with an asset sale (the “Asset Sale”) of the Company’s Z-Wave business unit to Silicon Labs.  The proposed Asset Sale was consummated on April 18, 2018.  The Company has also announced its intention to initiate a plan of liquidation following the closing of the proposed Asset Sale.  The plan of liquidation was approved by the Company’s shareholders at a special meeting of shareholders held on April 17, 2018.
+ 
+If the Company moves forward with its plan of liquidation, all of the forward-looking statements, strategy, marketing, and other information set forth in this Annual Report on Form 10-K (the “Annual Report”), to the extent that such information refers to future operations, shall be rendered ineffective.  Under these circumstances, the Company will cease to carry on its business and operations, except to the extent necessary to wind down the Company.  The Company’s legal existence will continue to the extent necessary to wind down its affairs until the plan of liquidation is completed.
+ 
+ 3
+
+
+
+The following is therefore a description of the historical nature of the Company, materially accurate in all respects for the past fiscal year and to provide information relevant to understanding the Company’s financial results and its business for the fiscal year ended February 3, 2018.  The financial statements presented in this Annual Report differ from those presented historically as to form regarding the classification of accounts associated with assets determined to be held for sale as of February 3, 2018, specifically the Z-Wave business unit and the subsequent event transaction with Integrated Silicon Solution (Cayman), Inc. (“ISSI”). On February 15, 2018, the Company completed the sale of its Media Connectivity business unit to ISSI.  In addition, on March 30, 2018, the Company completed the sale of its Smart TV and Set-top Box business units to V-Silicon.  Please refer Footnote 20 – Subsequent events in ITEM 8 – FINANCIAL STATEMENTS contained in this Form 10-K for additional detail regarding these transactions and their impact on the Company’s business and operations. 
+ 
+Overview
+ 
+We are a global integrated system-on-chip (“SoC”) solutions provider offering intelligent platforms for use in a variety of home entertainment and home and industrial control appliances. Our goal is to ensure that our chipsets serve as the foundation for some of the world’s leading consumer products, including televisions, media connectivity, smart home devices, and mobile Internet of Things (“IoT”) products. Our business generates revenue primarily by delivery of relevant, cost-effective semiconductors that are targeted toward end-product manufacturers, Original Equipment Manufacturers, or OEMs, and Original Design Manufacturers, or ODMs. We also derive a portion of our revenue from other products and services, including technology licenses, software development kits, and engineering support services for hardware and software.
+ 
+On February 15, 2018, we divested our Media Connectivity business, and on March 30, 2018, we divested our Smart TV and Set-top Box businesses.  As a result, following March 30, 2018, we no longer operated our Connected Smart TV Platforms business. On April 18, 2018, we divested our Z-Wave business; and as a result, we will not operate our Z-Wave business following this divestiture. As a result of these divestitures, the only remaining business unit is Mobile IoT, which to date has not generated any material revenue.
+ 
+Products
+ 
+Media Processor 
+ 
+Our media processor product line consisted of a range of functionally similar platforms that were based on highly integrated chips, embedded software, and hardware reference designs. These highly integrated chips typically included all the functions required to create a complete system solution with only the addition of memory. The integrated functions included application processing (“CPU”), graphics processing (“GPU”), media processing (audio and video decoding/encoding), display processing, security management, memory control, and peripheral interfaces. Our embedded software suite provided an operating environment and coordinates the real-time processing of digital video and audio content, was readily customizable by our customers and is interoperable with multiple standard operating systems. Our reference system designs provided a hardware implementation of the circuit board, access to our embedded software suite, and could include prototypes for customer evaluation and use.
+ 
+Our chipsets were generally configured for either the smart television (“Smart TV”) or streaming Set-top box, the latter of which includes related products, such as connected media players. Chipsets created for Smart TV obtain inputs from high definition multimedia interface (“HDMI”) and analog video and provided outputs to flat panel interfaces. Chipsets created for the set-top box obtain inputs from Ethernet and other broadcast interfaces and provide output to HDMI and analog video. Core components were therefore shared across these products while their configured hardware/software platforms and support were offered separately.
+  
+Media Connectivity Controllers
+ 
+Our Media Connectivity product line consisted of wired home networking controller chipsets that were designed to provide connectivity solutions between various home entertainment products and incoming video streams. We believe these connectivity solutions provided consumers additional connectivity choices with increased flexibility and reliability and allowed system integrators and service providers an opportunity to reduce the time and cost of home networking installations. Our Media Connectivity solutions were based on the HomePNA (“HPNA”), HomePlug AV (“HPAV”), and G.hn standards.  HPNA is a standard used for transferring internet protocol, or IP, content across coaxial cables and phone lines whereas HPAV is used for transferring IP content across power lines. G.hn is the next generation International Telecommunications Union (“ITU”) standard ratified in 2011 to create a unified global standard across coaxial cables, phone lines, and power lines. Products based on these technologies enable service providers, such as telecommunication carriers, cable operators and satellite providers, to deliver high definition television services (“HDTV”) and other media-rich applications throughout the home. Our HomePNA chipsets complied with the ITU G.9954 standard to support distribution of multimedia content throughout the home, while our HomePlug AV chipsets provide connectivity over existing powerline wiring, supporting advanced encryption standard (“AES”), high quality of service (“QoS”) and remote management and diagnostic capabilities. Our G.hn chipset was compliant with ITU G.9960/61 which supports connectivity over any type of existing wires inside the home. We designed the G.hn chipset to employ multiple input, multiple output (“MIMO”) technology to deliver higher throughput with extended coverage even in the presence of high noise conditions. We have not generated significant revenue from our products based on HPAV or G.hn technologies.
+ 
+ 4
+
+
+
+IoT Devices
+ 
+Our IoT Devices family consisted of our wireless Z-Wave chips, modules and cellular-based mobile IoT tracking tags and modems.  Following the divestiture of our Z-Wave business, our IoT Devices family consisted of our cellular-based mobile IoT tracking tags and modems. Our Z-Wave chips and modules were incorporated into devices that enable consumers to enjoy advanced home control and automation functionality, such as home security, environmental and energy control and monitoring, within both new and existing homes. Devices that incorporated our wireless chips and modules operate on the Z-Wave mesh networking protocol. Our Z-Wave wireless chips utilized a low-bitrate, low-power, low-cost RF communication technology that provided an interoperable platform for home automation security and monitoring solutions. We derived most of our revenue within our IoT Devices product line by selling a module, which included a Z-Wave chip plus additional circuitry and components that provided our customers with a ready-to-use solution. Our Z-Wave chips and the Z-Wave protocol they used to communicate commands were built into an ecosystem of over 2,400 certified interoperable products, consisting primarily of intelligent appliances for use within the home.  
+ 
+Mobile IoT Devices
+
+Our mobile IoT solutions are currently used primarily for tracking applications, such as small tags that can be attached to track pets, keys, children, luggage, and vehicles. These solutions are based on the Long-Term Evolution (“LTE”) network and leading edge systems technology (from our acquisition of Bretelon in fiscal 2016) to provide an ultra-low power and low-cost device. We believe this technology is very versatile and has the ability to be powered by inexpensive coin cell batteries or other power supply methods, such as from an external DC input and rechargeable batteries. Most of our mobile IoT revenue to date has been based on non-recurring engineering (“NRE”) contracts.
+License Arrangements and Other Products
+ 
+From time to time, we derive revenue from the license of our internally developed intellectual property. We also offer certain legacy products that are sold into prosumer and other industrial applications. Additionally we derive revenue from the sale of products including software development kits and engineering support services for hardware and software. These products account for a minor portion of our total revenue.
+Target Markets
+ 
+Connected Smart TV Platforms Market
+ 
+The Connected Smart TV Platforms market (before fiscal 2017 reported as three separate target markets of Smart TV, Media Connectivity and Set-top Box) consists of all products that are sold to integrate into digital televisions as well as other adjacent markets using chipset products that are designed for video post-processing, products delivering IP streaming video, including hybrid versions of these products and communication devices that use a standard protocol to connect equipment inside the home and stream IP-based video and audio, VoIP, or data through wired or wireless connectivity. We serve this market with our media processor chips, dedicated post-processing products and home networking controllers.
+IoT Devices Market
+ 
+The IoT Devices market consists of both smart home applications (including gateways and automated consumer devices) and mobile IoT applications (primarily tracking tags). Our smart home product line is marketed under our Z-Wave brand of wireless chips, modules and Z-Wave mesh networking protocol.
+License and Other Markets
+ 
+The license and other markets include other products and services, including technology licenses, software development kits, and engineering support services for hardware and software.
+ 
+Characteristics of Our Business
+ 
+We do not enter into long-term commitment contracts with our customers, instead we rely on customer purchase orders to generate substantially all of our net revenue. However, our failure to accurately forecast demand can lead to product shortages that can impede production by our customers, may harm our relationship with these customers, or lead to excess inventory, which could negatively impact our gross margins in a particular period. During fiscal 2018, 2017, and 2016, we recorded provisions for excess inventory of $4.9 million, $2.0 million and $3.2 million, respectively, primarily as a result of the end of life of certain products.
+ 
+ 5
+
+
+
+Our Connected Smart TV Platforms market was based on the annual cycle of product launches. Major new consumer products were designed during the spring, produced during the summer and launched in the fall to take advantage of the holiday selling season. Our Connected Smart TV Platforms market generally experienced seasonality typical of the consumer electronics market, wherein the holiday selling season commands the highest sell-through of consumer electronic end-products, making the third quarter typically the strongest selling season for semiconductor components such as our chips and chipsets.  We experienced lower sales in our first and fourth fiscal quarters and higher sales in our second and/or third fiscal quarters as a result of this seasonality of demand. Therefore, our operating results varied significantly from quarter to quarter.
+ 
+For our Set-top Box products, we forecasted demand based not only on our assessment of the requirements of our direct customers, but also on the anticipated requirements of the telecommunications carriers that our direct customers serve. We worked with both our direct customers and these carriers to address the market demands and the necessary specifications for our technologies.   Our business was substantially dependent upon being designed into set-top boxes and we were required to spend a considerable amount of resources to compete for these design wins. If we did obtain these design wins, it was often the case that our end customer and direct customer would continue to incorporate our chipset solutions for that generation of Set-top Boxes.  However, if we were not designed into a particular generation of Set-top Boxes for our large target end customers, we stood to lose that portion of our market for the entire deployment time, which was typically two to three years.
+ 
+Our IoT Devices market is characterized by the popularity of competing standards within the United States, Asia, and the European markets recognized by the ITU and other governing bodies. Our mobile IoT solutions are currently used primarily for tracking applications, such as small tags that can be attached to track pets, keys, children, luggage, and vehicles. The value of our IoT Devices market lies in the recognition of Z-Wave as a North American market leader for home security, automation and energy management. The primary differentiation between Z-Wave and other competing standards in the IoT Devices market is the requirement that all Z-Wave devices conform to a strict application level of device-to-device communication and operability, which allows all Z-Wave devices to be interoperable. This interoperability requirement does not exist with any other competing technologies in the IoT Devices market. We expect our IoT Devices market to grow in direct proportion to the adoption of the Z-Wave standard by a number of device manufacturers, service integrators and service providers.
+ 
+Our target markets are also characterized by intense price competition. The semiconductor industry is highly competitive and, as a result, we expect our average selling prices to decline over time. On occasion, we have reduced our prices for individual customer volume orders as part of our strategy to obtain a competitive position in our markets. The willingness of customers to design our chipsets into their products depends to a significant extent upon our ability to sell our products at competitive prices.  If we are unable to reduce our costs sufficiently to offset any declines in product selling prices or are unable to introduce more advanced products with higher gross margins in a timely manner, we could see declines in our market share or gross margins.  We expect our gross margins will vary from period to period due to changes in our average selling prices and average costs, volume order discounts, mix of product sales, amount of development revenue and provisions for inventory excess and obsolescence.
+ 
+Industry Background
+ 
+The growth of the internet, proliferation of over-the-top content, advances in communications infrastructure, digital video and audio compression technologies, home networking technologies and improvements in television displays have resulted in significant consumer demand for the end products sold in the markets that we primarily target.
+ 
+Our IoT Devices market product categorizations beginning in the fourth quarter of fiscal 2016 includes Mobile IoT products and services as a result of our acquisition of Bretelon. IoT Devices products enable remote control and monitoring of a wide variety of home appliances such as thermostats, lighting and door locks.  Much of the early adoption for home control and energy management products has been driven by installations of new security systems for the consumer home.  However, the recent deployment of IoT Devices products by an increasing number of larger device manufacturers, system integrators and service providers has perpetuated the growing popularity of this market within the consumer goods industry. Low frequency, low power solutions can offer consumers cost efficient ways to monitor and conserve energy usage, to protect homes from theft and damage and to improve the convenience of performing certain household activities. Z-Wave’s device-interoperability allows service and security providers as well as consumers to deploy solutions with Z-Wave, secure in the knowledge that their solutions will operate with products from name brand vendors sold at retail and online. This allows service providers to focus on their core technology, with the services that they provide, and not the making or sourcing of the devices.
+ 
+Customers and Strategic Relationships
+ 
+We sell our products principally to manufacturers and designers (OEMs and ODMs) as well as to distributors who, in turn, sell to manufacturers. Typically, when we sell to a distributor, that distributor has already received an order for our products directly from a manufacturer. Sales to our customers are typically made on a purchase order basis. We have also established strategic relationships with telecommunications carriers that provide wired and wireless communications services to consumers and businesses.
+Sales and Marketing
+ 
+Our sales and marketing strategy is to achieve design wins with technology leaders by providing quality, state-of-the-art products through superior sales channels. We sell our products worldwide through multiple channels, including our direct sales force, manufacturer representatives and independent distributors strategically located in a number of countries around the world. Members of our direct sales force are based in the United States, Denmark, Israel, Taiwan, South Korea and Japan. Our sales are also supported by representatives, resellers and distributors in other key countries such as China and India.
+ 
+ 6
+
+
+
+Our sales cycle typically ranges from nine to eighteen months and depends on a number of factors including the technical capabilities of the customer, customer need for customization and the length of customer evaluation and qualification of our offerings. In many cases, we must also qualify our products with our technology partners and, in some cases, with an end customer (e.g., a service provider). This qualification process may extend our sales cycle beyond its typical duration. We generally plan the fabrication of our products based on customer forecasts. In some instances, customer forecasts are driven by seasonality where our customers plan product launches around the holiday season.
+ 
+For our larger volume designer and manufacturing customers, purchase orders for our products are generally non-cancelable between four and twelve weeks before our scheduled delivery dates and are not subject to rescheduling within four weeks of scheduled delivery dates.
+ 
+Competition
+ 
+The semiconductor industry generally, and the consumer electronics market specifically, are highly competitive markets characterized by rapid technological change, evolving standards, decreasing average selling prices per unit and short product life cycles. We believe that the principal factors on which we compete include time-to-market for new product introductions, product performance, customer interface and support, industry standards compatibility, software functionality, image quality, price, and product support.
+ 
+We competed with a number of major domestic and international suppliers of chipset solutions and related applications in our Connected Smart TV Platforms market segment including, among others, Broadcom Ltd., Mediatek, RealTek, ST Microelectronics, Marvell Technology Group, Ltd. and Qualcomm and in our IoT Devices market segment, Texas Instruments, Freescale and Silicon Laboratories (through their selection and use of Zigbee-based chips). 
+ 
+Many of the aforementioned companies have higher profiles, larger financial resources and greater marketing resources than we do and may develop competitive products that may inhibit the wide acceptance of our products. Additionally, we believe that any industry manufacturer can develop products that compete directly with our products.
+ 
+Research and Development
+ 
+Historically, we have focused our research and development efforts primarily on two areas: video/audio decoder technologies and secure media processing for the Connected Smart TV Platforms market and the IoT Devices market. In building new solutions, our strategy was to build fully integrated chips and chipsets. 
+ 
+We have invested substantial resources in research and development of performance enhancements, cost reductions and additional features for future generations of our solutions in order to remain competitive in our industry. During fiscal 2018, 2017 and 2016 our research and development expenses were $72.3 million, $74.0 million, and $68.8 million, respectively.
+ 
+Intellectual Property Protection
+ 
+Our success depends, in part, on our ability to protect our intellectual property. We rely primarily on patent, copyright, trademark and trade secret laws as well as agreements with customers, suppliers and employees to protect our proprietary technologies and processes.
+ 
+As of February 3, 2018, we held 162 issued patents and we had 5 patent applications pending for our technology. The expiration dates of these patents are within the next one to twenty years.  We cannot assure that our existing patents or pending patents, even if issued, will provide adequate protection for our competitive position. Additionally, because we have participated and continue to participate in developing various industry standards, we may be required to license some of our patents to others, including competitors, who develop products based on those standards. Appropriate portions of our patent portfolio are being assigned to buyers of our business units as those business units are divested. The Company does not intend to maintain a material patent portfolio after divestiture of the business units.
+ 
+ 7
+
+
+
+We generally enter into confidentiality agreements, evaluation (limited) license agreements and technology license agreements with our customers and strategic partners, and we typically control access to and distribution of product documentation and other proprietary information. Despite these precautions, it is possible that competitors or other unauthorized third parties may obtain, copy, use or disclose our technologies and processes, they may develop similar technology independently or they may design around our patents. As such, any rights granted under our patents may not provide us with meaningful protection. 
+ 
+Manufacturing
+ 
+We are a fabless semiconductor company and we do not own or operate a fabrication, packaging or testing facility. We depend on third-party vendors to manufacture, package and test our products. By outsourcing manufacturing, we are able to avoid the costs associated with owning and operating our own manufacturing facility. This allows us to focus our efforts on the design and marketing of our products.
+ 
+Semiconductor fabrication
+ 
+We rely on Taiwan Semiconductor Manufacturing Company (“TSMC”), Global Foundries (“GF”) and, to a lesser extent, Grace Semiconductors to fulfill the majority of our semiconductor fabrication needs including chipset manufacturing. We believe that our fabless manufacturing approach provides us with the benefits of superior manufacturing capability as well as flexibility to move the manufacturing, assembly and testing of our products to those vendors that offer the best capability at an attractive price. Nevertheless, because we do not have long-term pricing agreements with all of our third-party manufacturers, our costs and services are subject to sudden price fluctuations based on the cyclical demand for semiconductors.  In addition, we may be unable to secure sufficient capacity at our third-party manufacturers’ facilities which could harm our ability to ship products to our customers in a timely manner and negatively impact our financial results in any particular period.
+ 
+Assembly and test
+ 
+Once our wafers have been manufactured, they are shipped from TSMC, GF, and our other third-party foundries to independent assembly and test facilities where they are sorted, packaged and tested.  Generally, we store our sorted die in our die bank and only package the products for sale when we book an order.  We outsource all packaging and testing of our products to independent third-party assembly and test facilities, primarily to Advanced Semiconductor Engineering, Inc. (“ASE”) in Taiwan.  Our products are designed to use low-cost, standard packages and to be tested with widely available test equipment.
+ 
+Quality assurance
+ 
+We are committed to maintaining the highest level of quality in our products.  We have designed and implemented a quality management system that provides the framework for continual improvement of products, processes and customer service to ensure customer satisfaction.  We also rely on in-depth simulation studies, design review and product verification during our design phase. We rely on bench testing to perform design validation, product reliability qualification to verify product quality and manufacturing testing to validate the products in production.  To ensure consistent product quality, reliability and yield, and together with our manufacturing logistics partners, we closely monitor the production cycle by regularly reviewing manufacturing process data from each wafer foundry and assembly subcontractor.  We are ISO 9001 certified as are our key manufacturing partners, ASE, TSMC and GF.
+ 
+Environmental Laws
+ 
+Our products and certain aspects of our operations are regulated under various environmental laws in the U.S., Europe and other parts of the world. These environmental laws are broad in scope and regulate numerous activities including the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites, the content of our products and the recycling and treatment and disposal of our products. Certain of these laws also pertain to tracking and labeling potentially harmful substances that may have been incorporated into our products. These product labeling and environmental laws require us to know whether certain substances are present in our products and to what degree. Environmental laws may limit the use of certain substances in our products or may require us to provide product safety information to our customers if certain substances are present in our products in sufficient quantities. Additionally, we may be required to recycle certain of our products when they become waste. Compliance with environmental laws and regulations across multiple jurisdictions is complex and we regularly review known and pending laws and regulations to ensure we are compliant. Additionally, we may be subject to regulatory penalties for infringements outside our direct control. We did not incur any material expenditures in fiscal 2018 in relation to any environmental matter.
+ 
+ 8
+
+
+
+Backlog
+ 
+Our backlog, which primarily comprises cancellable purchase orders from our customers at February 3, 2018 was approximately $17.0 million, compared with backlog of approximately $27.1 million at January 28, 2017. As our sales are made primarily through purchase orders from the delivery of products and the amount of backlog at any date depends upon various factors including the timing of the receipt of orders, fluctuations in orders for existing product lines and the introduction of any new product lines.  Accordingly, we believe that the amount of our backlog at any date is not a reliable measure of our future revenue. In addition, as a result of the divestiture of our Multimedia business and our Z-Wave business, we do not expect to generate any future revenue from that business, and all of our revenue in the future will be derived from our IoT Devices market, specifically the Mobile IoT business.
+Employees
+ 
+As of February 3, 2018, we had 409 full-time employees worldwide, including 259 in research and development, 66 in sales and marketing, 62 in general and administration and 22 in operations and quality assurance.
+ 
+Our future success will depend, in part, on our ability to continue to attract, retain and motivate highly qualified technical, marketing, engineering and management personnel who are in great demand.  While we have work councils or employee representatives in certain countries, our employees are not represented by any collective bargaining unit and we have never experienced a work stoppage.  We believe that our employee relations are satisfactory.
+ 
+Corporate Information
+ 
+We were incorporated in California in January 1982.  Our principal offices are located at 47467 Fremont Boulevard, Fremont, California 94538, and our telephone number is (510) 897-0200.  Our website is www.sigmadesigns.com; however, the information in or that can be accessed through our website is not part of this report.  Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to such reports are available free of charge through the “Investor Overview” section of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission.  Additionally, copies of materials filed by us with the Securities and Exchange Commission may be accessed at the Securities and Exchange Commission Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or at www.sec.gov.  For information about the Securities and Exchange Commission’s Public Reference Room, contact 1-800-SEC-0330 or send an electronic message to publicinfo@sec.gov.
+ 
