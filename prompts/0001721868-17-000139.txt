@@ -1,0 +1,590 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS.
+----------------------------------+----------
+
+Background
+ 
+ALR TECHNOLOGIES, INC. (the “Company” or “ALRT”) was incorporated under the laws of the State of Nevada on March 24, 1987 as Mo Betta Corp. In April 1998, the Company changed its business purpose to marketing a pharmaceutical compliance device.
+ 
+On October 21, 1998, the Company entered into an agreement with A Little Reminder Inc. (“ALR”) whereby the Company would have the non-exclusive right to distribute certain products of ALR described below.
+ 
+In December 1998, the common shares of the Company began trading on the Bulletin Board operated by the National Association of Securities Dealers Inc. under the symbol “MBET.” On December 28, 1998, the Company changed its name from Mo Betta Corp. to ALR Technologies Inc. Subsequently the symbol was changed to “ALRT.”
+ 
+In April 1999, the Company acquired 99.9% (36,533,130) of the issued and outstanding Class A shares of common stock of ALR in exchange for 36,533,130 shares of the Company’s common stock thereby making ALR a subsidiary corporation of the Company. ALR also had outstanding 124,695 shares of Class B common stock, none of which was owned by the Company.
+ 
+ALR was incorporated pursuant to the Company Act of British Columbia on May 24, 1996. ALR owned one subsidiary corporation, Timely Devices, Inc. (“TDI”). TDI was founded in Edmonton, Alberta, Canada on July 27, 1994. ALR owned all of the total outstanding shares of TDI. TDI had only one class of common stock outstanding.
+ 
+On July 31, 2000, the Company sold all of its shares of ALR. From that point onward, the Company focused on developing its own technology, products and performed its own marketing.
+ 
+On April 15, 2008, the Company incorporated a wholly-owned subsidiary in Canada under the name Canada ALRTech Health Systems Inc. This subsidiary was wound up during 2016.
+ 
+In late 2011, the Company relocated its headquarters to 7400 Beaufont Springs Drive, Suite 300, Richmond, Virginia, 23225.
+ 
+During 2011, the Company received FDA clearance and achieved HIPPA compliance for its Diabetes Management System. With these key achievements and successful clinical trials completed, the Company began implementing its commercialization strategy which included a pilot program with patients in Kansas in 2014. The Company obtained significant findings from this pilot program which led to the development of its Insulin Dosage Adjustment, for which it received FDA clearance in 2017, and Predictive A1C, for which it has submitted for worldwide patent application under the patent cooperation treaty to the World Intellectual Property Organization. The Company is actively seeking to commence revenue generating activities.
+  
+3
+-
+
+Products
+ 
+ALR Technologies products utilize internet-based technologies to facilitate healthcare provider’s ability to monitor their patient’s health and ensure adherence to health maintenance activities.
+ 
+The ALRT Diabetes Management System is a remote monitoring and care facilitation program that allows patients to upload the blood glucose data from their glucometers. ALRT Health Data Monitors monitor that data and, based on clinician approved protocols, provide advice, support and interventions when patients show blood glucose readings that are out of an acceptable range or if they are failing to test their blood glucose as prescribed. The ALRT System has been successfully proven in a clinical trial that demonstrated this type of remote care is associated with significant lowering of A1c levels. The study concluded that continuing intervention using an internet based glucose monitoring system is an effective way of improving glucose control compared to conventional care. A second clinical trial demonstrated that this type of Internet-based Blood Glucose Monitoring System (IBGMS) was associated with comparable reductions in A1c levels with that of more expensive Continuing Glucose Monitoring Systems (CGMS).
+ 
+In the future, the Company may seek to adapt its System to be used in the management of other chronic diseases. The Company may be required to obtain additional clearance from the FDA prior to commencing selling activities in the United States for other disease states.
+ 
+ALRT Diabetes Management System for Diabetes Monitoring
+ 
+Diabetes is a leading cause of death, serious illness and disability across North America. In the United States, it is estimated that 26 million people have diabetes, with 4.5 million people being classified as insulin dependent. By the year 2030, it is expected that 1 in 10 adults, globally, will have diabetes (diagnosed and undiagnosed instances). By the year 2050, it is expected that 1 in 3 United States adults will have diabetes (diagnosed and undiagnosed instances). We believe diabetes is a global pandemic.
+ 
+As a result, medical costs due to diabetes and its complications are enormous. In the United States, such costs are estimated to be over $245 billion a year. In Canada, where it is estimated there are 2 million people with diabetes, healthcare costs associated with diabetes is estimated to be more than $13 billion annually.
+ 
+Diabetes is a lifelong chronic disease with no cure. However, people with diabetes can take steps to control their disease and reduce the risk of developing the associated serious complications, thereby controlling healthcare costs. The Canadian Diabetes Association Clinical Practice Guidelines Expert Committee reports that “Successful diabetes care depends on the daily commitment of persons with diabetes mellitus to self-manage through the balance of lifestyle and medication. Diabetes care should be organized around a multi- and interdisciplinary diabetes healthcare team that can establish and sustain a communication network between the person with diabetes and the necessary healthcare and community systems.”
+ 
+However, as noted in Patrick Connole, “UnitedHealthcare, Other Large Insurers Seek Better Adherence to Diabetes Care”, Health Plan Week, February 11, 2013 Volume 23 Issue 5, 80% of United States patients with diabetes do not follow their prescribed care plan.
+ 
+Furthermore, in Treatment intensification for patients with type 2 diabetes and poor glycaemic control by Fu and Sheenan, it was noted that out 11,525 patients investigated with an A1c greater than 8% patients received intensification as follows: 
+ 
+37% within 6
+months;
+11% within 6-12
+months, and
+52% never
+
+
+4
+-
+
+ 
+ALRT Diabetes Management System (continued)
+ A study in 2013 by Khunti, Wolden, Thorstead, Anderson and Davies entitled Clinical inertia in people with type 2 diabetes: a retrospective cohort study of more than 80,000 people found that patients it took on average 19 months to escalate patients with an average A1c of 8.7% from single medication to dual therapy and 82 months to escalate patients with an average A1c of 8.8% from dual medication to triple therapy. Furthermore, they found that it took approximately 20 years to advance patients with an average A1c of over 9% to insulin. At the end of the study, less than 50% of the patients had their treatment intensified. 
+ 
+The Company’s Diabetes Management System provides an affordable and easy to use tool to provide the communication network as recommended by the Committee. Our Diabetes Management System includes a communications software platform that also enables health professionals to remotely monitor the health progress to patients with diabetes. This facilitates more timely and effective communication and coordination of care to these patients. This also results in positive behavior patterning, or re-patterning, of the patients.
+ 
+The Diabetes Management System and the Company’s universal upload cable, are compatible with the majority of the major brands of glucose meters available for sale in the United States.
+ 
+In August 2010, the Company received the results of a clinical trial conducted by Dr. Hugh Tildesley using the ALRT Health-e-Connect System. The trial showed A1c dropping from 8.8% to 7.6% for the Intervention Group using ALRT’s Health-e-Connect System as part of a diabetes management program. The A1c test is important in diabetes treatment management as a long-term measure of control over blood glucose for diabetes patients. According to Center for Disease Control and Prevention, “In general, every percentage drop in A1c blood test results (e.g. from 8% to 7%), can reduce the risk of microvascular complications (eye, kidney and nerve diseases) by 40%.”The trial served as the basis for an article titled “Effect of Internet Therapeutic Intervention on A1c Levels in Patients with Type 2 Diabetes Treated with Insulin” was published in the August 2010 Diabetes Care publication.
+ 
+In July 2011, the follow-up results of the Dr. Tildesley clinical trial were published in the Canadian Journal of Diabetes. Dr. Tildesley conducted a 12 month study using Health-e-Connect System as an Internet Based Blood Glucose Monitoring System (IBGMS) to provide intensive blood glucose control to determine the effects of internet based blood glucose monitoring on A1c levels in patients with type 2 diabetes treated with insulin. Dr Tildesley concluded that, “While IBGMS intervention was not a substitute for the patient–physician interaction in a clinical setting, it significantly improved A1c and, over time, we observed better glycemic control and patient satisfaction.”
+ 
+In October 2011, the Company received 510(k) clearance from the U.S. Food and Drug Administration (FDA) for its Diabetes Management System (then known as the Health-e-Connect System) for remote monitoring of patients in support of effective diabetes management programs. The 510(k) clearance enables the Company to commence with the United States marketing and sales launch of its Health-e-Connect System.
+ 
+On July 28, 2014, the Company entered into a pilot service agreement with Kansas City Metropolitan Physician Association (KCMPA), one of the nation's premier Accountable Care Organizations (ACO). Under the agreement, KCMPA, which made diabetes management a key focus of its Quality Improvement Plan, enrolled up to 200 of its patients with Type 2 diabetes into ALRT's Diabetes Management System. The pilot service agreement was effective nine months from the beginning date of patient enrollment and the intent was to allow 6 months of use for each patient enrolled in the system. The pilot program between ALRT and KCMPA represented the first commercial deployment of ALRT's Diabetes Management System. On September 9, 2014, the Company began enrolling patients with Type 2 diabetes and A1c levels above 8 percent into the pilot program trialing the Diabetes Management System. 
+
+
+5
+-
+
+ 
+ALRT Diabetes Management System (continued)
+ 
+In September 2014, the Company initiated its pilot program with one of the Kansas City Metropolitan Physician Association clinics to deploy its Diabetes Management System for up to 200 patients that fit certain criteria. As a result of the pilot program findings and general industry trends, the Company proceeded with developing three new innovations: 
+ 
+· | Insulin Dosage Adjustment uses both American Diabetes Association (ADA) and American Association of Clinical Endocrinologists (AACE) guidelines for adjusting insulin, and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Predictive A1c, which converts blood glucose data uploaded into our Diabetes Management Systems and converts the large amount of data into a predicted or simulated A1C 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Diabetes Therapy Review allows the healthcare providers to change care plans for patients on a timely basis based on the results of Predictive A1c and overall how patients are managing their diabetes 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+On January 1, 2015, the Center for Medicaid and Medicare Services began reimbursing physicians for the non-face-to-face management of Medicare patients with two or more serious chronic diseases. Physicians would be paid a per-patient-per-month fee for “Chronic Care Management” and the examination of data from a remote monitoring platform is considered a reimbursable activity by CMS. Therefore, the company modified its System to conform to the requirements of the CMS reimbursement. These modifications permit the company to market to medical groups throughout the United States with a product that will help physicians to draw down this new reimbursement as well as to potentially improve the outcomes of their patients.
+ On February 18, 2015, the Company filed a 510(k) application with the FDA to add a remote insulin dosing recommendation feature to the Company’s Diabetes Management System. The company utilized the publicly available algorithm of the AACE & ADA. This feature allows the company to regularly run a patient’s blood glucose data (and other key data) through the AACE and ADA algorithm. When the algorithm indicated that the patient’s dose may not be optimal, the Diabetes Management System would provide the heathcare provider that a dose change may be warranted and what the change would be based on AACE and ADA guidelines. The decision about the dose change would rest entirely with the healthcare provider. However, this new feature may make a significant contribution to improving the outcomes of diabetes patients if it allowed healthcare provider to keep their patients at the optimal dose for longer periods.
+ 
+Preliminary data from the KCMPA pilot program indicated that a number of patients had achieved reductions in their A1c levels. On April 17, 2015, the company signed a commercial contract with one of the KCMPA clinics, the Clay-Platte Family Medicine Clinic, to provide remote monitoring services. The Company has provided these services to date to Clay-Platte at no charge as it has provided the Company with continuous users as a sample population for its own strategic planning and business plan. The Company continues to actively provide services to Clay-Platte for certain of its patients.
+ 
+On June 20, 2017, the Company filed a worldwide patent application under the PCT for its Predictive A1c feature to the World Intellectual Property Office.
+ 
+On September 18, 2017, the Company received clearance from the FDA for its Insulin Dosage Adjustment feature within the Company’s Diabetes Management System.
+ 
+
+6
+-
+
+Potential Benefits of ALRT Diabetes Management System
+ 
+Our Diabetes Management System resolves the expensive and complex care requirements with diabetes by taking an unique approach.  While the science of diabetes care is well established and understood, there are disconnects in applying theory into practice.  Our System is designed to connect the gap between the theory and practice of diabetes care. We believe the main gaps between theory and practice are:
+
+Type 2 diabetes
+patients are well known for non-adherence to care plans; however, central to conventional diabetes care is patient self-management.
+A natural contradiction.
+From review of
+published papers, we came to the conclusion that healthcare providers are also responsible for unacceptable outcomes in diabetes
+care.
+
+
+However, the challenges faced by healthcare providers are not related to their ability, rather:
+ 
+
+they face a lack
+of timely and reliable blood glucose data, resulting in delays to advance therapy and sub-optimal insulin dosing.
+when reliable
+blood glucose data is available, there is "too much information" for a healthcare provider to analyse in a 15 minute
+clinical visit.
+
+ 
+Based on our clinical trials and pilot, the platform will improve patient outcomes and with the new features will be able to track performance of the healthcare providers as well as patients. Patients utilizing the ALRT Diabetes Management System can realize many benefits. They can expect:
+ 
+· | More timely health care provider attention and action to existing or developing health conditions. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Maximization of benefits from health management activities and medication. 
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+· | Improved health outlook. 
+--+------------------------------------------------------------------
+
+ Health care providers can expect:
+ 
+· | More timely access to patient blood glucose data and trends 
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | Better understanding of factors that affect patient condition and efficacy of prescribed health management program. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Increased ability to influence patient compliance behavior. 
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | Higher reimbursements resulting from better documentation of post-consultation health care services and potential improvements in diabetes quality scores 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Employer, Insurers, and other entities that help manage patient’s health also benefit when their health care providers or patients use the ALRT Diabetes Management System from:
+ 
+· | Improved health outlook for high cost diabetes patients. 
+--+--------------------------------------------------------------------------------------------------
+
+
+· | Healthier and more productive employees. 
+--+----------------------------------------------------------------------------------
+
+
+· | Reduced number of claims and claims amounts for redundant or ineffective health management activities and medication. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Regular monitoring, supervision, and disease-related information provided to high-cost patients. 
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | More effective wellness and disease management programs. 
+--+--------------------------------------------------------------------------------------------------
+
+
+· | Ability to base co-pay amount or premium amount on level of compliance. 
+--+-----------------------------------------------------------------------------------------------------------------
+
+ Our system monitors compliance of disease management activities, such as treatments, medications and diagnostic tests, alerts designated parties when a patient is noncompliant. Our system also facilitates intervention if the patient is deemed at-risk. Often, physicians and caregivers do not detect noncompliance until the next medical appointment when a patient comes to the clinic. We believe more timely intervention should result in substantial health benefits to the patient and significant cost savings. The ongoing monitoring of compliance data will also allow for evaluation of compliance behavior over time, resulting in behavior modification or education efforts when appropriate.
+ 
+
+7
+-
+
+Potential Benefits of ALRT Diabetes Management System (continued)
+ 
+Industry data indicates that 50% or more of people on medications do not take them as prescribed, and that this non-compliance contributes to 10% of hospitalizations and billions of dollars spent annually in excessive and preventable healthcare costs. Reminding a person to take an action is the first step in our system; monitoring their actions and their data is the second and intervention when needed is the important follow-up.
+ 
+With a specific focus on diabetes treatment plans, a recent study from the Temple University School of Pharmacy indicates that the U.S. could save over $9 billion annually by improving patient adherence. Currently, there is inadequate oversight around the buying, selling and appropriate use of diabetes self-glucose testing supplies. Attempts at oversight are fragmented, primarily paper-based, and rely on unverifiable patient reporting. We feel that policies requiring electronic verification of test supply utilization prior to providing refills of test strips, will improve accountability. The ALRT Diabetes Management System has the capability to monitor and document the results of testing to verify that accountability.
+ 
+We believe the ALRT Diabetes Management System can provide solutions to overcome numerous obstacles and inefficiencies in the healthcare system, potentially saving the United States billions of dollars while providing improved healthcare levels, as measured by A1c, for its citizens.
+ 
+Reimbursement for Health Professionals
+ 
+The Company continues to work to obtain confirmation that the Diabetes Management System will allow for services to be provided by physicians that will be reimbursed by health insurance companies. The reimbursement will be a breakthrough as physicians will be paid to provide these important new services to their patients with chronic conditions.
+Business Development and Marketing Strategy
+ 
+The Company is focusing the majority of its efforts in introducing and marketing its Health-e-Connect System for medical clinics and health professionals to provide direct care to patients and be reimbursed by the patients’ health benefit plans as well as to employers due to the significant return on investment they can achieve by keeping employees/plan members healthy.
+ 
+The Company is first targeting customers located in United States because of the large market potential but will also seek to obtain regulatory clearance and establish selling operations/agreements for sales and distribution in Canada, Europe, Australia and selected countries in Asia and South America.
+ 
+
+8
+-
+
+Other Products
+ 
+The Company’s main product is its Diabetes Management System.
+ 
+Selling Activities
+ 
+The Company is actively seeking alliances with health care organizations, pharmaceutical companies, insulin providers and other health care companies that can act as catalysts to effect positive change for containing health care costs and improving health outcomes. We will work with these types of organizations to introduce the ALRT Diabetes Management System to their network and seek to start significant pilot projects that will lead to revenue generating arrangements.
+Manufacturers
+ 
+The Company does not have any designated manufacturers at this time. 
+ 
+Patents and Trademarks
+ 
+
+- | US Patent D446, 740 received on August 21, 2001 for Ornamental design of a Medication Alert Device in the shape of a heart. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | US Patent D446,739 received on August 21, 2001 for Ornamental Design of a Medication Alert Device in the shape of a dog bone. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | US Patent D447,074 received on August 28, 2001 for Ornamental Design of a Medication Alert Device in the shape of a stylized paw. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | US Patent 6,934,220 received on August 23, 2005 entitled Portable Programmable Medical Alert Device. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | US Patent 7,607,431 issued October 27, 2009 for patient compliance and remote monitoring of patient’s use of nebulizer compressors. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company has the following patent applications pending:
+ 
+
+- | Provisional Patent Application serial number 61/271,852 filed on July 27, 2009. Title is Patient Care Coordination System Including Home Use of Medical Apparatus. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company has the following patent applications under the PCT:
+ 
+
+- | PCT/CA2017/050753 dated June 27, 2017. Title is “method and system for monitoring a diabetes treatment plan”. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Competition
+ 
+The Company competes with other corporations that produce diabetes compliance devices and monitoring systems, some of whom have greater financial, marketing and other resources than we do. A few companies currently offer compliance monitoring systems but either a) at much higher prices b) have fewer benefits than our system or c) they do not have FDA clearance. The Company’s competition includes, but is not limited to, Glooko, WellDoc, Medtronics, iGlucose and Microsoft Healthvault.
+ 
+We feel none of these companies currently offer a comprehensive compliance system that offers the full spectrum of benefits and features that our Diabetes Management System does with the potential cost efficiencies.
+ 
+
+9
+-
+
+Employees and Independent Contractors
+ 
+The Company has no employees and 17 personnel under independent contractor and consulting arrangements. The consultants of the Company have contracts which outline their roles and responsibilities as independent contractor, as well as outlines the confidentiality requirements for all matters pertaining to the Company.
+Recent Developments (continued)
+ 
+On February 7, 2014, the Company:
+ 
+- | granted Dr. James Gavin III the option to acquire 300,000 shares of common stock at an exercise price of $0.05 per year for a term of five years. Options in respect of 150,000 shares would vest immediately with the balance vesting after 12 months. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | granted Ms. Barbara Dubiel the option to acquire 400,000 shares of common stock at an exercise price $0.03 per share a term of five years. Options vest as follow: 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+a. | options in respect of 100,000 shares vest immediately, 
+---+------------------------------------------------------------------------------------------------
+
+
+b. | options in respect of 100,000 shares vest at the time a pilot project for the Company’s Health-e-Connect is initiated between the Company and a major undisclosed corporation, 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+c. | options in respect of 100,000 shares vest at the time a software sharing deal has been executed between the Company and a major undisclosed corporation, and 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+d. | options in respect of 100,000 shares vest at the time a national, co promotable deal for the Company’s Health-e-Connect has been executed between the Company and a major undisclosed corporation; 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Provided that those performance conditions are met or complied with in form and substance reasonably satisfactory to the Company by March 15, 2015
+ 
+- | amended its Audit Committee Charter to align with the requirements of major US stock exchanges scaled to the current size and state of the Company 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | approved a proposal from Mr. Sidney Chan (the Chairman of the Board of Directors and Chief Executive Officer of the Company) to increase the borrowing limit available on the line of credit between the Company and Mr. Chan from $4.0M to $5.5M in exchange for the grant of the option to acquire 50M shares of common stock of the Company. The Company and Mr. Chan have not yet executed an agreement for formalize this amended arrangement. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+On March 24, 2014, the Company agreed to the following in exchange for amending the borrowing limit on its line of credit with the Chairman increased from $4,000,000 to $5,500,000:
+ grant options to acquire 83,333,500 shares of common stock of the Company at a price of $0.03 per share for a term of five years,
+ modify the exercise price of the option to acquire 35,750,000 shares of common stock of the Company, granted June 2012, from $0.05 per share to $0.03 per share,
+ modify the exercise price of the option to acquire 14,250,000 shares of common stock of the Company, granted December 2012, from $0.05 per share to $0.03 per share,
+ modify the exercise price of the option granted January 2011 to the spouse of the Chairman, to acquire 20,000,000 shares of common stock of the Company from $0.05 per share to $0.03 per share, and
+ grant options the spouse of the Chairman to acquire 26,666,700 shares of common stock of the Company at an exercise price of $0.03 per share for a term of five years.
+
+
+10
+--
+
+Recent Developments (continued)
+ 
+On April 1, 2014, the Company entered into an amending agreement with Mr. Sidney Chan, the Chairman of the Board of Directors and Chief Executive Officer of the Company, whereby Mr. Chan increased the borrowing limit of the line of credit he has provided to the Company from $4,000,000 to $5,500,000. All other terms and conditions of the amended credit agreement remain in force and unaltered. Mr. Chan and the Company had previously entered into an agreement on March 6, 2011, which was subsequently amended by further agreements dated October 24, 2011 and June 15, 2012 and December 28, 2012 whereby Mr. Chan agreed to make available to the Company a credit line equal to $4,000,000 for the Company’s corporate purposes. Under the terms of the arrangement, the amount borrowed by the Company bears simple interest at a rate of 1% per month. The amount borrowed is secured by a general security agreement over the assets of the Company and is due on demand.
+ 
+In exchange for increasing the borrowing limit on the line of credit, the Company agreed to:
+ 
+i. | grant Mr. Chan the option to acquire 83,333,500 shares of common stock of the Company at a price of $0.03 per share for a term of five years, 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ii. | modify the exercise price of Mr. Chan’s option to acquire 35,750,000 shares of common stock of the Company, granted June 2012, from $0.05 per share to $0.03 per share, 
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+iii. | modify the exercise price of Mr. Chan’s option to acquire 14,250,000 shares of common stock of the Company, granted December 2012, from $0.05 per share to $0.03 per share, 
+-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+iv. | modify the exercise price of the option granted January 2011 to the spouse of Mr Chan (Ms. Kan), to acquire 20,000,000 shares of common stock of the Company from $0.05 per share to $0.03 per share, and 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+v. | grant Ms. Kan the option to acquire 26,666,700 shares of common stock of the Company at an exercise price of $0.03 per share for a term of five years. 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+On April 1, 2014, the Company
+ 
+i. | entered into agreements with the following consultants to modify their option to acquire shares of common stock of the Company as follows: 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Option Holder | Shares under Option | Previous Exercise Price per Share under Option | Amended Exercise Price per Share under Option 
+--------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------+--------------------------------------------------
+Dr. Alfonso Salas | 250,000 | $0.05 | $0.03 
+Viper Enterprises LLC | 500,000 | $0.05 | $0.03 
+Mr. Johnny Tlardera | 200,000 | $0.05 | $0.03 
+Mr. Norbert Ricafranca | 200,000 | $0.05 | $0.03 
+Mr. Steven Brassard | 300,000 | $0.05 | $0.03 
+Mr. Lester Tolentino | 200,000 | $0.05 | $0.03 
+Ms. Barbara Dubiel | 300,000 | $0.05 | $0.03 
+Mr. Glen Reyes | 200,000 | $0.05 | $0.03 
+Mr. Ken Robulak | 350,000 | $0.05 | $0.03 
+Dr. Kent Stoneking | 500,000 | $0.05 | $0.03 
+Mr. Mark Uy | 200,000 | $0.05 | $0.03 
+
+
+ii. | entered into an amendment agreement with Mr. Steven Brassard whereby the vesting conditions on his option to acquire 500,000 shares of common stock, granted April 9, 2013, were removed. Previously, this option was to vest if Mr. Brassard accepted a full-time role with the Company. 
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ On April 11, 2014, the Company received notice of resignation effective May 18, 2014 from Mr. Lawrence Weinstein for the positions of President and Chief Operating Officer. On April 17, 2014, the Company received notice of resignation effective May 18, 2014 from Mr. Lawrence Weinstein for his position as a member of the Board of Directors of the Company. On May 18, 2014, Mr. Lawrence Weinstein resigned from the positions of President, Chief Operating Officer and member of the Board of Directors of the Company.
+
+
+11
+--
+
+Recent Developments (continued)
+ 
+On April 18, 2014, the Board of Directors appointed Mr. Bill Smith to assume the position of President effective May 19, 2014. Upon assuming the office of President of the Company, Mr. Smith will be paid $15,000 per month. In conjunction with the appointment, the Company granted Mr. Smith the option to purchase 1,500,000 shares of common stock at a price of $0.03 per share for a term of five years. On May 19, 2014, Mr. Smith assumed the position of President of the Company.
+ 
+On April 18, 2014, the Company granted Ms. Barbara Dubiel the option to acquire 500,000 shares of common stock of the Company at a price of $0.03 per share for a term of five years. Options vest as follow:
+ 
+- | 100,000 shares vest immediately 
+--+-------------------------------------------------------------------------
+
+
+- | 400,000 shares vest upon the completion of a partnership with a specified major multinational pharmaceutical company (a different company unrelated to the option grant dated February 7, 2014), 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+On May 21, 2014, the Company:
+ 
+a) | granted Mr. Philip Murphy the option to acquire 500,000 shares of common stock at a price of $0.03 per share for a term of five years. The option to acquire shares vest as follow: 
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | 100,000 shares vest twelve months from the date of the grant 
+--+------------------------------------------------------------------------------------------------------
+
+
+- | 200,000 shares vest twenty four months from the date of the grant 
+--+-----------------------------------------------------------------------------------------------------------
+
+
+- | 200,000 shares vest thirty six months from the date of the grant 
+--+----------------------------------------------------------------------------------------------------------
+
+
+b) | granted Ms. Nancy Antrobus the option to acquire 100,000 shares of common stock at a price of $0.03 per share until June 27, 2017. 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+c) | entered into agreements with the following consultants to modify their option to acquire shares of common stock of the Company as follows: 
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Option Holder | Shares under Option | Previous Exercise Price per Share under Option | Amended Exercise Price per Share under Option 
+--------------------------------------------------------+---------------------------------------------------------------+----------------------------------------------------+--------------------------------------------------
+Ms. Kathi Cullari | 1,250,000 | $0.07 | $0.03 
+Ms. Michelle Gillespie | 100,000 | $0.07 | $0.03 
+Ms. Jennifer Wagner | 100,000 | $0.07 | $0.03 
+
+
+d) | entered into a debt settlement agreement with Cullari Communications Group LLC whereby Cullari agreed to release and discharge all accounts payable owed in exchange for the exercises of options: 
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Option Holder | Shares under Option | Amended Exercise Price per Share under Option 
+--------------------------------------------------------+---------------------------------------------------------------+--------------------------------------------------
+Ms. Kathi Cullari | 1,250,000 | $0.03 
+Ms. Michelle Gillespie | 100,000 | $0.03 
+Ms. Jennifer Wagner | 100,000 | $0.03 
+Ms. Nancy Antrobus | 100,000 | $0.03 
+
+ 
+On June 2, 2014, the option granted to Ms. Sarah Cox to acquire 100,000 shares of common stock at a price of $0.07 per share was cancelled.
+ 
+On July 25, 2014, the Company granted the option to acquire 2,000,000 shares of common stock at a price of $0.03 per share for a term of five years as follows to two members of the Board of Directors of the Company:
+ 
+
+Option Holder | Shares under Option 
+--------------------------------------------------------+--------------------------------------------------------------
+Mr. Kenneth Robulak | 1,000,000 
+Dr. Alfonso Salas | 1,000,000 
+
+
+12
+--
+
+Recent Developments (continued)
+ 
+On August 1, 2014, Mr. Peter Stafford, QC, was appointed to the Board of Directors of the Company. Mr. Stafford is a retired lawyer and business consultant, having practised with Fasken Martineau DuMoulin LLP, a major Canadian based international law firm, and its predecessor firms, from 1966 to 2013, except for several years spent as in-house counsel for clients of the firm. Mr. Stafford's experience is in the areas of corporate and securities law, including mergers and acquisitions. Mr. Stafford joined one of the predecessor firms of Fasken Martineau in 1966 and was a senior partner and former chair of the Business Law department of the Firm’s Vancouver office. From 1985 to 1986, Mr. Stafford was Vice-President, General Counsel and Secretary of the Bank of British Columbia and from 1987 to 1989 he was Vice-President and Chief Counsel to Kaiser Resources Ltd., a finance and investment company. From 1989 until his retirement from full-time practice in 2006, Mr. Stafford served as senior partner in Faskin Martineu DuMoulin LLP, including leading the start of its Johannesburg, South Africa office in 2003. Since August 2013, Mr. Stafford has served as director, secretary and audit committee chair of Russell Breweries Inc. (TSX-V: RB). He was a director and subsequently secretary of WEX Pharmaceuticals Inc. (TSX listed) from September 2001 to its amalgamation in May 2011, a director and board chair of BC Bancorp (TSX listed) from October 1986 until its merger with Canadian Western Bank in November 1996, a director of Nissho Iwai (Canada) Ltd. a subsidiary of Nissho Iwai Corp. (now Sojitz Corp.) from June 1997 until October 2003 and a director of China One Corporation (TSX-V listed) from March 2007 until it was acquired in December 2008. Mr Stafford also served as Director of two private companies, Pikes Peak Resources Inc. from 2007 to 2012 and Paraguay Minerals Inc., from 2007 to date. Mr. Stafford obtained his Bachelor of Arts from the University of Cape Town in 1957 and obtained an LL. B from the University of South Africa in 1960. Mr. Stafford was granted the option to acquire 500,000 shares of common stock at a price of $0.03 per share for a term of five years.
+ 
+On August 1, 2014, we granted the options to acquire 1,250,000 shares of our common stock at a price of $0.03 per share to expire on August 1, 2019 as follows:
+ 
+
+Option Holder | Shares under Option 
+--------------------------------------------------------+--------------------------------------------------------------
+Mr. Peter Stafford | 500,000 
+Mr. Ronald Cheng | 500,000 
+Mr. Steven Brassard | 250,000 
+
+ 
+The option granted to Mr. Ronald Cheng to acquire 500,000 shares of common stock at $0.03 per share vest at the time Mr. Cheng completes a six month advisory term to the Board of Directors satisfactorily to the board of directors and immediately subsequently thereafter enters into a subsequent relationship with the Company.
+ 
+On August 15, 2014, Dr. Alfonso Salas exercised his option to acquire 1,250,000 shares of common stock of the Company at an exercise price of $0.03 per share. As consideration, the Company retired accrued interest payable of $37,500.
+ 
+On August 26, 2014, the Company granted Mr. Marco Babini, a creditor of the Company, the option to acquire 2,000,000 shares of common stock of the Company at a price of $0.05 per share for a term of five years. The options vest on the basis of 20 options for each dollar advanced to the Company to fund a public relations campaign. On October 2, 2014, Mr. Babini exercised his option to acquire 500,000 shares of common stock of the Company through the retirement of debts totaling $25,000.
+ 
+
+13
+--
+
+Recent Developments (continued)
+ 
+On January 30, 2015, the Company granted the option to acquire 4,500,000 shares of common stock at a price of $0.03 per share for a term of five years as follows:
+
+Option Holder | Shares under Option | Note 
+--------------------------------------------------------+---------------------------------------------------------------+-----------
+Glen Reyes | 300,000 | Note 1 
+Mark Uy | 300,000 | Note 2 
+Norberto Ricafranca | 300,000 | Note 2 
+Lester Tolentino | 300,000 | Note 2 
+Johnny Lardera | 50,000 | Note 3 
+Timothy John Co | 250,000 | Note 4 
+David Manalili | 250,000 | Note 4 
+Mark Reyes | 250,000 | Note 4 
+Sherjo Evangelista | 250,000 | Note 4 
+Marymar Payton | 500,000 | Note 7 
+Alex Leong | 500,000 | Note 5 
+Rhonda Klarck | 500,000 | Note 5 
+Alice Chapman | 250,000 | Note 4 
+Phil Murphy | 500,000 | Note 6 
+
+ 
+Note 1: The grant will vest the option to acquire 100K shares in January of 2018, 2019 and 2020.
+ Note 2: The grant will vest the option to acquire 100K shares in January of 2018, 2019 and 2020.
+ Note 3: The grant will vest the option to acquire 50K shares in January 2020.
+ Note 4: The grant will vest the option to acquire 50K shares at each anniversary date of the option grant until the option grant is fully vested.
+ Note 5: The grant will vest the option to acquire 100K shares at each anniversary date of the option grant until the option grant is fully vested.
+ Note 6: The option to acquire 500,000 shares of common stock of the Company will vest 100K at each anniversary date of the option grant, subject to the optionee accepting a full-time role with the Company.
+ Note 7: The option to acquire 500,000 shares would vest as follow:
+ 
+1) | Upon entering into a full-time employment (or equivalent) role with the Company within 180 days; and 
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | Each anniversary of her employment, the option to acquire 100,000 shares would vest until the option is fully vested. 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+On January 30, 2015, Mr. Ronald Cheng was appointed to the Board of Directors of the Company. Mr. Cheng is a lawyer retired from Osler, Hoskin and Harcourt LLP, a major Canadian based international law firm, where he practiced as a partner from 1980 until his retirement in March 2014. He regularly appeared as counsel before the Canadian International Trade Tribunal, Canadian federal courts and on NAFTA and WTO matters and advised on NAFTA and other trade agreements. He represented and provided strategic advice to corporations including startups, trade associations and governments in anti-dumping, countervail and safeguard litigation, customs matters, commodity tax and government procurement disputes, as well import and export monitoring and controls. Mr. Cheng was listed in the Lexpert® Guides to Leading US/Canada Cross-border Litigation Lawyers and with highest listings in other leading legal directories such as Chambers, Martindale-Hubbell and Best Lawyers. Mr. Cheng received his Bachelor of Arts from Amherst College in 1972 and a Juris Doctor degree from the University of Toronto in 1974. Mr. Cheng is an active member of the Canadian Bar Association, American Bar Association, International Bar Association and Inter Pacific Bar Association.
+ 
+
+14
+--
+
+Recent Developments (continued)
+ 
+On February 10, 2015, the Company entered into a revised services agreement with the Chief Executive Officer of the Company. In accordance with the terms of the agreement, short term compensation paid to the Chief Executive remains unchanged, however he will receive a 1% sales bonus on all sales of the Company. In addition, should his contract be terminated, all debts repayable to the Chief Executive Officer, his spouse and their family through existing debt facilities will be due within five days of his termination with the Company.
+ 
+On April 22, 2015, our Board of Directors approved the modification of the exercise price to acquire 12,400,000 shares of common stock of the Company from $0.03 per share to $0.015 per share held by 20 individuals. None of the underlying option amendment agreements have been finalized between the Company and the 20 individuals.
+ 
+On May 11, 2015, shareholders holding a majority of the outstanding shares of our common stock executed a written consent approving the amendment to the articles of incorporation to increase the authorized shares of common stock from 500,000,000 to 2,000,000,000 shares with a par value of $0.001. On June 25, 2015 the certificate of amendment to affect the change was issued by the Office of the Secretary of the State of Nevada.
+ 
+On May 29, 2015, the Company and Sidney Chan, the Chairman and Chief Executive Officer of the Company, agreed to amend the existing credit agreement between the two parties to increase the borrowing limit on the line of credit provided to the Company from $5,500,000 to $7,000,000. All other terms and conditions remain unaltered. Mr. Chan and the Company had previously entered into a credit agreement on March 6, 2011, which was subsequently amended by amending agreements dated October 24, 2011, June 15, 2012, December 28, 2012 and April 1, 2014 whereby Mr. Chan agreed to make available to the Company a credit line equal to an aggregate of $5,500,000 for the Company’s corporate purposes. Under the terms of the arrangement, the amount borrowed by the Company bears simple interest at a rate of 1% per month. The amount borrowed is secured by a general security agreement over the assets of the Company and is due on demand.
+ 
+In exchange for Mr. Chan making available the additional loan of $1,500,000 to the Company, the Company:
+ 
+· | reduced the exercise price of the 183,333,400 shares of common stock under option to Mr. Chan from $0.03 to $0.015; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | extended the expiry date of the 183,333,400 shares of common stock under option to Mr. Chan to be five years from the date of execution of the amended credit agreement 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | granted Mr. Chan the right and option to purchase, an additional 283,333,267 shares of common stock at a price of $0.015 per share for a term of five years from the date of execution of the amended credit agreement. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | reduced the exercise price of the 46,666,700 shares of common stock under option to the spouse of Mr. Chan, Ms. Christine Kan, from $0.03 to $0.015; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | extended the expiry date of the 46,666,700 shares of common stock under option to Ms. Kan to be five years from the date of execution of the amended credit agreement; and 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | granted Ms. Kan the right and option to purchase, an additional 46,666,700 shares of common stock at a price of $0.015 per share for a term of five years from the date of execution of the amended credit agreement. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+On December 28, 2015, the Company was notified by OTC Markets Group that it did not cure its bid price deficiency in the time provided.  The Company’s stock listing was moved from the OTCQB to OTC Pink Current Information on December 29, 2015. To meet the standards of the OTCQB, a Company must have a minimum closing bid price of $0.01 per share on at least one of the prior thirty consecutive calendar days.
+ 
+On January 15, 2016, the Company announced that it has not been successful in finding follow on financing and accordingly reduced its operating budget by reducing its United States based sales and marketing program and diabetes care facilitation workforce. On January 31, 2016, the Company received the resignation of Mr. William Smith from the positions of President and member of the board of directors of the Company. 
+ 
+
+15
+--
+
+Recent Developments (continued)
+ 
+On June 21, 2016, the Company accepted a proposal from Sidney Chan, the Chairman and Chief Executive Officer of the Company, to amend the existing credit agreement between the two parties to increase the borrowing limit on the line of credit provided to the Company from $7,000,000 to $8,500,000. All other terms and conditions remain unaltered. Mr. Chan and the Company had previously entered into a credit agreement on March 6, 2011, which was subsequently amended by amending agreements dated October 24, 2011, June 15, 2012, December 28, 2012, April 1, 2014 and May 29, 2015 whereby Mr. Chan agreed to make available to the Company a credit line equal to an aggregate of $7,000,000 for the Company’s corporate purposes. Under the terms of the arrangement, the amount borrowed by the Company bears simple interest at a rate of 1% per month. The amount borrowed is secured by a general security agreement over the assets of the Company and is due on demand.
+ 
+Under the terms of the proposal, in exchange for Mr. Chan making available the additional loan of $1,500,000 to the Company, the Company would be required to:
+ 
+· | reduce the exercise price of the 466,666,667 shares of common stock under option to Mr. Chan from $0.015 to $0.002; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | grant Mr. Chan the right and option to purchase, an additional 3,783,334,200 shares of common stock at a price of $0.002 per share for a term of five years from the date of execution of the amended credit agreement. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | reduce the exercise price of the 93,333,400 shares of common stock under option to the spouse of Mr. Chan, Ms. Christine Kan, from $0.015 to $0.002; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | grant Ms. Kan the right and option to purchase, an additional 606,667,100 shares of common stock at a price of $0.002 per share for a term of five years from the date of execution of the amended credit agreement 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+On December 20, 2016, certain stockholders who beneficially owned 122,998,482, or approximately 50.66%, of the combined voting power of the common stock consented in writing to increase the number of authorized shares of common stock from two billion shares (2,000,000,000) to ten billion shares (10,000,000,000) shares, par value $0.001 per share. The Company filed a preliminary information statement with the SEC but has not filed its definitive statement due to its deficient reporting status.
+ 
+On January 27, 2017, the Company’s Board of Directors approved a 100:1 reverse share split of the Company’s common stock. The Company cannot complete its stock split due to its deficient reporting status with the SEC.
+ 
+On November 27, 2017, the Company’s Board of Directors approved the grant of the option to 8,700,000 shares of common stock of the Company at a price of $0.015 per share for a term of five years. 2,200,000 of the approved options were to a director of the Company and 6,500,000 were to consultants of the Company.
+
+
